@@ -65,3 +65,15 @@ body {
 .item_5 {
   background-color: #38b8cc;
 }
+
+.btn {
+  margin-top: 100px;
+  color: #cc3838;
+  font-size: 40px;
+  font-style: italic;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 2px solid #788e18;
+  text-align: center;
+  border-radius: 10%;
+  height: 100px;
+}
