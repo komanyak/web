@@ -18,6 +18,8 @@ body {
   align-items: stretch;
   justify-content: space-between;
   min-height: 300px;
+
+  display: none;
 }
 
 .flex-item {
@@ -67,7 +69,7 @@ body {
 }
 
 .btn {
-  margin-top: 100px;
+  margin: 50% auto;
   color: #cc3838;
   font-size: 40px;
   font-style: italic;
