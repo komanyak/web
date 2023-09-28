@@ -2,71 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231116T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:1563138b-650f-48c7-a742-8a38e3ede5ff@1563.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
+DTEND:20230918T164500Z
 LOCATION:--каф.
-DTSTART:20231016T133000Z
+DTSTART:20230918T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:47e9eccf-d736-42e2-a927-6870bf321f0a@47e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:48f5ce3f-61f5-4d8e-a662-91eaa2816bda@48f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231012T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:9ed308d9-6319-4a13-83da-c11aa6196aaf@9ed3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ec4dc020-6d1c-4f3d-ae84-b9e18a4843b3@ec4d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8f4bf791-dfcd-49c8-8d1d-78a160ee4b91@8f4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:73870531-39d0-449e-a7a9-55b572eded80@7387.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:df5dd2e1-03cc-49dd-bbe9-ff248e78697c@df5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231116T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:f2613f3a-c3dd-4179-b15d-1aa81d2328d2@f261.org
+UID:2f887464-3db2-41a5-8ff4-3a4a452c1466@2f88.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -74,427 +14,14 @@ DTEND:20231212T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231212T170000Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:39cd4734-7537-452f-985e-27a89f2f5c0e@39cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231212T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231212T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:2c12cc48-f29a-420f-b686-20dc3104b801@2c12.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b2a75d03-ca42-4072-af33-b7b7ed3793e7@b2a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231005T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:a944591b-98c0-4bc3-a81c-5a27cc38a9d9@a944.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7eae7609-2c51-4805-97f3-8581a057451e@7eae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231214T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:58d6af66-0810-41bc-bf20-b417ed8becbf@58d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e527790d-393b-4d83-b693-6e99bb630763@e527.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231102T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:c2be4796-2fc8-4192-bca9-8ce89a50ecb7@c2be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20230928T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:be577385-e496-45b7-bb01-84d4bf0fc7fc@be57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231102T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:964231bc-c4ad-400c-8443-224cc48e36d4@9642.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231123T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:608fe3d4-df96-4252-ae0d-c772f4df48ae@608f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:cb5a8129-49d6-451a-a96c-c5378f6c7993@cb5a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:01f0d0fc-d5de-45b6-9dd2-b7a6899a8cce@01f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231005T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:bb6b4550-cee1-4bcb-a681-c5e31d90db68@bb6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231019T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:53cec4dd-540f-4b56-b18f-aff646891051@53ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:fcee17ec-012c-49e5-aebb-95957d2b2774@fcee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c56472d0-ced0-4df2-9c36-60b0e97ee225@c564.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:71c80e11-03bd-4f94-83aa-e043b2552c36@71c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20230907T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:1a3c0225-a4e0-41bf-bf63-e5ab5672dd98@1a3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231026T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:9e83abc8-91f4-4a6c-85d6-b25153652fc2@9e83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:5e0a3d86-47fc-405a-8be0-a1f3fd253d52@5e0a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T164500Z
-LOCATION:--каф.
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:422e0ae2-91a5-44be-970f-ee640da393c8@422e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231128T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231128T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:303a12f9-39c9-4baa-a35f-1d2cfaaf5e26@303a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:fcfce0dc-4043-4079-9176-0045a80d9944@fcfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20230914T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:0b9c7e66-f7e0-40a2-a81f-405b4ed56774@0b9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231109T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:52336322-7ff9-4f3d-b941-ed6617d28eb9@5233.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20230921T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:2e4ac38e-45d6-4d06-a7de-b64baaaa4da6@2e4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231012T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:7df631d7-608f-4f6b-b602-83662b34bf7e@7df6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ac52a381-424b-41c8-a98d-7221a2a0ccbc@ac52.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:80052352-6d04-46eb-9225-cbac5eeca35b@8005.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231019T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:a257cd09-e9d4-430f-87b8-d674c63e396d@a257.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231109T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:8bb01e2a-7b57-477c-b22e-f43e7d13ef6a@8bb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:3452f909-50b4-4afe-a61f-2013f0a9cc15@3452.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:092a8edf-e299-464b-ae84-8f79f83f1f4b@092a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c44479c4-c342-46d5-b99e-cfad8d71d3c6@c444.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:a94bd4e8-7f85-4b95-8fce-29c19ddb7a23@a94b.org
+UID:5e06585a-173e-4c03-a092-87bc0c5f5ff2@5e06.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231030T150000Z
 LOCATION:--каф.
 DTSTART:20231030T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f8f532d2-ea57-405e-b870-ff1a8fd9d084@f8f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231123T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:d7d8e5a7-cca9-4809-977f-988f44eca296@d7d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20230914T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:f3ddea68-0387-4f6c-84fd-3622e3d40eb2@f3dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2d21b4f3-8a77-466a-a6ec-749cfdb2f696@2d21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231130T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:ace872ed-9567-47d1-b5eb-6dacb5df83ee@ace8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20230928T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:64046f9a-dc04-4e0a-86ae-c061e98247ef@6404.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:500e814f-0c9a-41e9-a55c-301ac723840c@500e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2eb44e29-3887-45cc-bc56-110e1468977a@2eb4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7bbb06d6-8d55-44af-a001-64dc164ee50f@7bbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:c71b3480-a878-4cee-8706-7d2f5f2284a1@c71b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:db70794f-027f-4076-bcb9-1f8532289400@db70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231207T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:06e0e843-7d0b-4b8a-bb82-4dfc6bc3c8ed@06e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20231026T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:bb3b4ed4-5d9f-4e07-87b1-c3e337d3e2a3@bb3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:78da4b46-6d66-4d13-be0c-7fd0c8fb08d9@78da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:69ee2fca-8e16-4e45-a730-c1026efe8bde@69ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:04d6a733-4a86-48a3-b14c-3cabfe1a1299@04d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231128T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231128T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:d530f56a-2a71-4f8b-ab6b-e94b69ca8f18@d530.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:f117faaa-47fa-4bb6-b7df-43542248d8b9@f117.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
-DTEND:20230907T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:5bc39a7c-b381-4cb5-8548-ff6fbf63a155@5bc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1a946f15-e9d5-403f-9a8a-f86c58de2592@1a94.org
+UID:8cb8bc5a-18e5-4e12-b2cd-d05715ee2158@8cb8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
@@ -502,6 +29,479 @@ DTEND:20230921T164500Z
 LOCATION:Берн. 14-208
 DTSTART:20230921T151500Z
 SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
-UID:344e43a2-a229-4705-b951-890a65d5714a@344e.org
+UID:6c7869ea-3c19-4b5b-bc9a-69f56695ce23@6c78.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:38e22609-0f7a-4c31-85e8-646b1b2083e0@38e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20230928T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:8f4811ad-a836-462d-bc20-c78a946b5589@8f48.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3ef57a9e-cea5-4baa-a75a-7b9bbe1665ef@3ef5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7c55e3e2-4b03-4787-b253-52c4b1c8823a@7c55.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e6b789b0-fd04-40ce-9c73-67103640f648@e6b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:8103acaa-40fc-4c15-9f26-e12cbaa86f3b@8103.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20230928T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:1b6c3f57-d08e-4896-9d69-8c5670cae0bc@1b6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20230907T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:f7042da2-b880-41e0-82a8-5761dada4386@f704.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231109T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:964024ee-4d89-42a4-88e0-7a0f35989100@9640.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9503d2f5-9203-4c60-b2f1-eeb2222d49a8@9503.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:2881b7ea-1e5d-4cca-b6f8-9c298f80714f@2881.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231128T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231128T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:fba4a122-990f-46f4-8a18-7700e9a14e06@fba4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:dacbff0a-48ff-4381-aa34-24fef8a3ff0e@dacb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231102T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:98e16cce-b1ba-45dc-976f-c25c8da42ab6@98e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231130T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:ba556101-c909-4868-a311-5f19d5795571@ba55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231012T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:43e03756-ddd7-4035-8730-9c0c66167b54@43e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e32e3b97-06bf-4ab9-99ff-fa6b9856558b@e32e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:deb3a2f7-e4ce-462a-8d8a-a955233f5ba4@deb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231207T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231207T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:5c9885fb-9ef3-495f-8774-f7fd8e262fb7@5c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:169c2b33-6a3e-4c1c-abf1-2bbc34ebdd23@169c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231005T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:b5c10031-0cc4-471d-a918-38d731acf2dc@b5c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231128T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231128T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:183b32a1-7b26-458f-9758-7fb62ab33bf6@183b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231102T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:7749e0e9-48dd-461f-81b5-ffe5d58de218@7749.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231116T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:fffc23b3-67d5-4af5-a0e4-42ce793cc9aa@fffc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231026T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:c6d473c0-77f3-4ee2-b288-b753f869ea39@c6d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231019T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:0f837ac3-dfb2-4ef2-8a40-748146f15e00@0f83.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:df6f8c31-99ff-4a16-b8b5-557ed8107d3e@df6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231214T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:323930fc-e6e0-49f8-9bda-b87b064cfaae@3239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231012T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:53c43ca5-7751-47e1-a7a5-0e8f0d614e8f@53c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:10d242e6-85e6-46c5-a932-10c431c987c0@10d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:90553ce2-39e3-4760-8cc3-a2ca4c3fa5cb@9055.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:658edc08-f116-4138-af1c-499fa55ac62c@658e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:dbbb7f0f-4a46-4548-ba6a-53390ae08674@dbbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231123T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:dae5be67-97cf-40bd-88f1-b1c539331a71@dae5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231212T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231212T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:7fb373a9-d2c6-48d0-8dab-0114a526edb2@7fb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20230914T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:43dfff4b-0935-4d9f-a2c7-252c19b5d92f@43df.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a4d32494-d2b1-40a1-8698-1a5c938426a0@a4d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:d1f75147-8af8-4987-8fe5-85d1b14c2328@d1f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5a2c3425-12c3-4052-b47d-ab950afe2b09@5a2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:534856f7-0bd6-445c-92cb-382ab22ef3cc@5348.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:09e106dc-3c26-4512-a0c8-4b6850eacf02@09e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231026T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:adb642d8-f42f-4765-a58c-b42e6c3ea9b1@adb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:4ffff644-0fa6-4df4-a929-e0bf51e1e6ff@4fff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:eb733ef3-094d-4ca3-ba89-96c2b1264f46@eb73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231123T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:a35fdacf-fa2c-4731-9a3a-83f106585d38@a35f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T164500Z
+LOCATION:--каф.
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a576c7d3-09ba-4017-b569-7c1b68137893@a576.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:8bcb6601-0c64-4966-9792-4f6579507c7b@8bcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20230914T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:fc25c866-9811-4edb-aae5-7fd293eb9c17@fc25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:b09a0f42-3979-4d23-9268-d6af806975cd@b09a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:dfb9ab19-b99b-45e2-8663-578d88411cdc@dfb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231005T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:1a322942-f217-4fa2-8e1c-f493b6a19fd2@1a32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:212fa8e6-ab4a-4ca5-b40d-fc0ccf85a3c1@212f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:cc40a6f3-8668-46ae-b457-1bcbd000d557@cc40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231019T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:98477ffc-b5c5-4cd2-91df-0a99fe783f30@9847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:21e24678-c56e-49f7-b442-52c866eab348@21e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:a20380c5-f818-4fe4-bc79-7fb1b5139a8a@a203.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20230907T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:214e6efb-6f5e-459f-97f5-cb15a179f1e7@214e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231109T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:70e8e617-1500-498b-9e99-5889e79ae6c8@70e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:28fda36a-e3ab-4117-b4c8-8ef5dfba298f@28fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:45a4eb3f-f2a5-43ec-ab6b-260fd477c26b@45a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20230921T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:1798d79c-202e-43eb-9926-472c90d86dfe@1798.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРАНОВ ПАВЕЛ НИКОЛАЕВИЧ
+DTEND:20231116T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Управление качеством в технологии приборостроения и радиоэлектронной аппаратуры
+UID:4d425252-f366-42e1-b352-a2adef254187@4d42.org
 END:VEVENT
 END:VCALENDAR

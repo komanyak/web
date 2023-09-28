@@ -2,34 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230921T164500Z
-LOCATION:2-212(2В)
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:c088d614-c6d4-42e0-a286-e9a824550046@c088.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6aa0c16a-44a8-4a65-a0e9-53b27a9a93fd@6aa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231123T150000Z
-LOCATION:2-212(2В)
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:d4f1108b-5efe-4b28-8d9a-47136f3b1cd3@d4f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:73aa66d4-8e22-4cf0-8a29-6991d316a48e@73aa.org
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:0439f5f3-20d1-48b7-ae30-ca6a664124f3@0439.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Агульник Алексей Борисович
@@ -37,334 +15,14 @@ DTEND:20231123T164500Z
 LOCATION:2-212(2В)
 DTSTART:20231123T151500Z
 SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:70262f3a-749f-405f-882b-55d1d69e9fca@7026.org
+UID:9f14aa64-22ae-421d-aed0-5b8a10ae788a@9f14.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231024T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231024T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:851818bc-51e0-4e71-8053-c4f60ee2aa9a@8518.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T164500Z
+DTEND:20231030T150000Z
 LOCATION:--каф.
-DTSTART:20230911T151500Z
+DTSTART:20231030T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ca6dc56e-ae94-4b3f-abda-8d501a7e07a4@ca6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4f2a1208-22b2-4856-9adf-b2273b3761bd@4f2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:32bbf8bc-cd4e-471b-95fa-cbd3dabce7e6@32bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:9d320e84-ba56-4c3b-9dd7-142d68f4dfdc@9d32.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e0e1383a-f596-4a1a-94c9-939bbdeb1905@e0e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:74e24c55-5db5-4fdc-a95b-719f268e9dca@74e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231026T150000Z
-LOCATION:2-212(2В)
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:94993322-64be-44c1-b32a-de8cd3a801a2@9499.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:585afd33-4fea-41fb-a37c-22f772cf79c8@585a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230914T164500Z
-LOCATION:2-212(2В)
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:87da6785-26b0-478d-87ba-9d2f863b40ec@87da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:9c51db1c-637e-4360-ba65-be710887ae29@9c51.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ea99645a-1695-4aff-8f9f-a20e313d09ec@ea99.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e463f5d4-b877-4016-9b3c-699007757f50@e463.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f51ffc8b-d1bd-4d62-a164-9d30e2b5cdad@f51f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231116T150000Z
-LOCATION:2-212(2В)
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:dd077887-1a65-4556-8d8f-8e18d8f23774@dd07.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:908e6e51-239f-48cd-aa2a-97569f61951e@908e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e277352b-16c4-49a1-8f1f-f31db8eaa12b@e277.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:33f95923-1683-4805-94e3-27e12835474e@33f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231026T164500Z
-LOCATION:2-212(2В)
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:539963c1-ed97-4b0d-a6fb-097688aebcaf@5399.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:8eafa377-2ef4-4afb-82e5-13010272bc98@8eaf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d926ef09-0e24-4879-838f-cd47109463e4@d926.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:068fcf58-4d06-4680-a3cc-9ab92c65bc7a@068f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c5be23c8-c77b-4799-940e-ce5812fdcf22@c5be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230907T150000Z
-LOCATION:2-212(2В)
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:25581744-c6e2-46e5-b7e3-6fc656e84d89@2558.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:631fc339-d8b9-43e4-a5d5-ea76ad65845a@631f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:6a307b91-1361-457b-9ab4-feea7c38599a@6a30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:5a6b03e2-707b-44ab-b8d5-d3601189412b@5a6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231019T164500Z
-LOCATION:2-212(2В)
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:83f07eef-f60f-4445-b1ac-6c88a38be181@83f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231109T164500Z
-LOCATION:2-212(2В)
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:0b021a97-32de-4ebd-a994-99631dedabdc@0b02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231012T164500Z
-LOCATION:2-212(2В)
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:9bc81e1e-f2cd-4c41-a54e-4c1b3ee975be@9bc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231116T164500Z
-LOCATION:2-212(2В)
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:77a8291c-2ce7-46f2-b747-673858c55178@77a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231207T150000Z
-LOCATION:2-212(2В)
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:7e664592-e9f7-4ded-b2dd-2cd68d0fde93@7e66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231102T164500Z
-LOCATION:2-212(2В)
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:557d3f86-1011-4545-82aa-0e90ad72fd94@557d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230928T150000Z
-LOCATION:2-212(2В)
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:1c6f151b-7ebe-4769-8912-781c157bdd1c@1c6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:94e41a72-33de-4d4b-be83-4c53e1e12d81@94e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:9300dc41-8336-4c44-b782-05b06b8162dc@9300.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231019T150000Z
-LOCATION:2-212(2В)
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:9518e9a8-a856-46cc-8b14-7de6cfa913e3@9518.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231012T150000Z
-LOCATION:2-212(2В)
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:3081d9fc-370c-40a8-a992-75a099b88fd7@3081.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231130T150000Z
-LOCATION:2-212(2В)
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:7e01e9c1-07b0-47a0-b6a9-dfa18aa36d1d@7e01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231010T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231010T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:02a3fcfb-8b1b-4abe-a860-fb5c58123aab@02a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:3d0b6941-efad-4d80-b811-07dc08aae227@3d0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:cb25420d-b983-4047-8cc4-84240d34a6b5@cb25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231024T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:5d048cd6-595c-430b-a26d-79ec5fe04a69@5d04.org
+UID:63a66a8c-dd40-4cf4-902f-8ed5ae4f6020@63a6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Агульник Алексей Борисович
@@ -372,100 +30,7 @@ DTEND:20230928T164500Z
 LOCATION:2-212(2В)
 DTSTART:20230928T151500Z
 SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:cb8986f5-be1a-4798-a1b8-784d5c1d49cb@cb89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:1042c279-6ccb-432f-bb6a-f4174c4d24f7@1042.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231109T150000Z
-LOCATION:2-212(2В)
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:c52dfb99-194a-49c8-9e05-9a3c96204a22@c52d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231214T150000Z
-LOCATION:2-212(2В)
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:8ff8965b-ab2e-42aa-80c4-4edb8cc81704@8ff8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:8f76da58-bc6b-47e9-b4e6-19565e2779ba@8f76.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:fff2eb16-269b-46d7-9283-580c30adc27c@fff2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230921T150000Z
-LOCATION:2-212(2В)
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:e726c453-491b-4a5e-b104-6f4e258134cf@e726.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1249558a-4e21-4d9e-825b-62be81b73482@1249.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:699d84e6-f909-4dfc-909c-f227a67b3c27@699d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230914T150000Z
-LOCATION:2-212(2В)
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:a766bbb5-ff9e-4deb-953b-1488b0ca70cc@a766.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231005T150000Z
-LOCATION:2-212(2В)
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:fce2f707-b295-492a-b6e9-337c51e57000@fce2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231005T164500Z
-LOCATION:2-212(2В)
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:2c9c1aed-d9ec-4abb-9681-c03f63acc93f@2c9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231102T150000Z
-LOCATION:2-212(2В)
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:a7f1d3d0-a23d-4ecc-a847-a25e8ecad37c@a7f1.org
+UID:21787d72-1e91-4a7d-85a2-6d589f0e9ba7@2178.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Агульник Алексей Борисович
@@ -473,28 +38,447 @@ DTEND:20230907T164500Z
 LOCATION:2-212(2В)
 DTSTART:20230907T151500Z
 SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
-UID:7be59a64-3415-4b00-8fbf-5413b3281fd4@7be5.org
+UID:cb3f9b09-1651-48e1-89be-e8a3ccc9be06@cb3f.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230918T164500Z
-LOCATION:--каф.
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:edd6cd5f-af7e-4f1e-a641-a0d6f43d365b@edd6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:97723160-4bd5-448a-aa22-a7c289fa3e1a@9772.org
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:82697a6d-0baf-437e-908b-0797f53b1e4d@8269.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230925T164500Z
 LOCATION:--каф.
 DTSTART:20230925T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e0d5000e-09fe-4715-95a2-7f97f5528b24@e0d5.org
+UID:972d57e0-8f05-4d81-9f56-3a70c0a69658@972d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230914T164500Z
+LOCATION:2-212(2В)
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:5bee496b-6a7a-431b-bd30-689e1b8c0431@5bee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:76ac4c1c-9645-4e52-b5b1-08e33b318c76@76ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a89aefcd-4a54-44a3-a5ff-19d810568b07@a89a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b98ff3fb-b26b-416f-9458-ceef5ec17b5f@b98f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231207T150000Z
+LOCATION:2-212(2В)
+DTSTART:20231207T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:4ba1137b-67d7-42d3-a019-8743c88686bd@4ba1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231102T150000Z
+LOCATION:2-212(2В)
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:2d6dccf7-ca1f-4b5a-8f9a-ef829a342ce4@2d6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231116T164500Z
+LOCATION:2-212(2В)
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:f9cd585d-bdbf-402e-997e-8a7d4266320a@f9cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231024T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:cef59112-bb7f-4464-a935-407414f56331@cef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230928T150000Z
+LOCATION:2-212(2В)
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:a5a34b53-eecd-4962-9572-662f9ab8efd2@a5a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230907T150000Z
+LOCATION:2-212(2В)
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:dfcdaec7-1088-4a10-946e-b1ad84705f66@dfcd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:85c51ef1-8bae-4a5c-854d-ae2b9886434d@85c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1a5c7076-4698-436b-9efe-b74469382992@1a5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:88ebec34-7556-4234-a57a-36385da1d10b@88eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e46637b9-1815-48a4-be57-eee8ecb7ed2f@e466.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231026T164500Z
+LOCATION:2-212(2В)
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:d1b9cff0-cea2-4240-a1d5-0ef6346fcf79@d1b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:34f3688a-f5d3-4b77-a5a8-89577f32950c@34f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:3878faa0-9979-4690-8497-c1bfa21c16b4@3878.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:2c6654a0-12ed-4fe4-82a9-da3aa315034f@2c66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231109T150000Z
+LOCATION:2-212(2В)
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:ed7328a5-50ee-4a70-9838-c81a26830d4b@ed73.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f5b2c629-01cf-4dfe-8daa-dfbc5eea40d3@f5b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7f59a7ba-efc2-4b06-a87e-f4f6a69b04e0@7f59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230914T150000Z
+LOCATION:2-212(2В)
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:e1426609-9565-4860-9517-63763b1f7a39@e142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:dc413c37-8d23-45d5-a697-fbb1168b3632@dc41.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:115078e6-f9d7-4b64-ab07-6839819eec39@1150.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d3a4499f-6234-49c4-964b-0ba56ef88646@d3a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231214T150000Z
+LOCATION:2-212(2В)
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:34b4e8cc-b32e-4b69-a8ee-fdaf52382af0@34b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:73660d08-5ab2-4818-8275-388259f09fa8@7366.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231026T150000Z
+LOCATION:2-212(2В)
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:8d27a73d-a991-496b-8f05-a3e7da744f64@8d27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:69648319-f999-42e1-ae77-67c26646c9db@6964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231005T164500Z
+LOCATION:2-212(2В)
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:b3a98313-94e9-434e-97b7-67b9b7296a12@b3a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231019T164500Z
+LOCATION:2-212(2В)
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:ad5e2b24-3def-455c-acd8-dde0586905b2@ad5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231102T164500Z
+LOCATION:2-212(2В)
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:162718f2-7765-4dfc-a11f-49ca7b6ad796@1627.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:cfaaf7b8-5ca8-48aa-87cb-6081eb6bc01e@cfaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231024T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231024T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:b0fb2d0b-6896-4907-b406-335a9ea12211@b0fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:69c1966c-85cf-41bd-8015-4799f1b3eee4@69c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:201d07f7-5878-4f01-9a04-f3822d6fcd9c@201d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:33bb7005-061b-48c6-b0ac-a56b42d79424@33bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231010T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:7a3e225b-ef42-4162-9218-274647662513@7a3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231019T150000Z
+LOCATION:2-212(2В)
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:3df73540-6eb2-486b-919b-1aa79b644a0a@3df7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:96f10662-5ad6-4001-ac33-389149b4c307@96f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ee5c2346-f93a-440c-8740-d04d3d527e58@ee5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:2d84e49f-40a5-42d7-9272-cec4e41ca669@2d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:da1a12df-5b72-412b-b98b-5e748acc52eb@da1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6c014dc7-2f9b-49ba-bb5c-48ebebc6188f@6c01.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T164500Z
+LOCATION:--каф.
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d43c3bee-859b-49e3-ab48-6e09a6af7f4d@d43c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231012T164500Z
+LOCATION:2-212(2В)
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:ee1ae05e-6aac-4607-a357-955f7ccd8fb1@ee1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231123T150000Z
+LOCATION:2-212(2В)
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:a3b1bb55-419f-460d-b6e7-068d14779776@a3b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1ed1fc9d-84dd-4688-af87-df8758053328@1ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230921T150000Z
+LOCATION:2-212(2В)
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:46632a59-eb4e-4a8f-bbe9-365f2f7590b6@4663.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231005T150000Z
+LOCATION:2-212(2В)
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:5de03468-8ea3-4c45-b9d8-ea590e5068cc@5de0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231109T164500Z
+LOCATION:2-212(2В)
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:12662e15-846f-443a-a538-82fff6bff5c6@1266.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:81d87f5f-0a26-4c74-be6d-31e9111fcfd9@81d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231116T150000Z
+LOCATION:2-212(2В)
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:62f6e449-f87c-4483-b84c-862226e961f3@62f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5f0b2cc1-502c-4df8-8e36-50bb5de0295b@5f0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231012T150000Z
+LOCATION:2-212(2В)
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:2be1499f-b59c-4dee-aa92-6c8d843fd3f4@2be1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230921T164500Z
+LOCATION:2-212(2В)
+DTSTART:20230921T151500Z
+SUMMARY:ПЗ Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:8fbe4e87-ea03-4562-8394-e615974811ac@8fbe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -502,6 +486,22 @@ DTEND:20231010T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231010T170000Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:6dfbc8c9-bf67-4bea-9130-1dc350354880@6dfb.org
+UID:469f408a-8990-4692-95c6-b2d4209ea5e3@469f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231130T150000Z
+LOCATION:2-212(2В)
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Рабочий процесс и технологии создания перспективных двигателей и энергетических установок летательных аппаратов
+UID:c5222c6b-ed13-4428-8f9f-d1783189e099@c522.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:f184b124-b341-4969-b1f4-03156f3e0119@f184.org
 END:VEVENT
 END:VCALENDAR

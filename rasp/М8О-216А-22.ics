@@ -2,332 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231102T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231102T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:65be6635-c84a-46ac-b370-e11a26ec6449@65be.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c121e62c-60e5-406b-8637-d49832e60f0f@c121.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:ee2936e5-53d3-4ccc-aeb3-d13b35613538@ee29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20230928T183000Z
-LOCATION:ГУК А-624
-DTSTART:20230928T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:89368fcd-bb07-45ab-8bdf-0c54911149ae@8936.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1651edff-c43f-44ca-b6eb-6658e30b4eb6@1651.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231205T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231205T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:5e0e4507-2672-4c6a-b28e-2b1e88c33aac@5e0e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d278f11e-9ef7-4dee-8780-a86d3db3d70c@d278.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20230907T183000Z
-LOCATION:ГУК А-624
-DTSTART:20230907T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:f7f38ab4-974b-40f1-8f44-6fc5cafddc50@f7f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:219ca6b1-cbed-4c2a-a999-ad872c5902f9@219c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20230928T164500Z
-LOCATION:ГУК А-624
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:654eedbb-6a68-446f-a726-a8cab46f5337@654e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:02e45f7c-134a-43e9-8ac6-17ee5a7ce0c5@02e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231019T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231019T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:063d52ee-779b-426f-82c2-91791aa2aecb@063d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20230914T183000Z
-LOCATION:ГУК А-624
-DTSTART:20230914T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:dab46e49-e305-430b-b9f7-b7e7dd5dd880@dab4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c5171dac-9bd0-4f45-8e8c-893272abac05@c517.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231130T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231130T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:75b00df0-351a-4b85-aac8-78a08df48926@75b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231026T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231026T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:47f1db41-74eb-4620-8b0a-f28748507583@47f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231109T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231109T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:52d984b2-58c9-4282-b870-c8418b7c0ed3@52d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231123T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231123T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:2cc18a06-9902-425d-86d4-ee2767514595@2cc1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e44cc1b1-2b48-4849-a529-36f4804c1d8a@e44c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231219T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:35dc3bb1-72d6-4fcd-a997-8e8c1b6647f0@35dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5b74d600-0da5-4c9b-891b-99b6a17869a2@5b74.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
 DTEND:20231003T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231003T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:c8539328-cc6e-49a1-b1f7-f11a56d9155e@c853.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ebb1ded5-7477-4aa6-a4d0-ec3f102ee428@ebb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:a94946c7-e690-40a0-986f-1b6297de1669@a949.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1362b647-1b7b-4a15-8f79-53b6473de264@1362.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3432ade1-2e6d-4a00-baa8-7ee4637341ff@3432.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20230907T164500Z
-LOCATION:ГУК А-624
-DTSTART:20230907T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:c52440cb-d2b2-42b7-87cd-412e38c959e9@c524.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:63aac2a0-48ab-4d13-b8de-364f349636f0@63aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:5cd19b01-b2cb-4d3b-8b27-5cae5de8c41a@5cd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231109T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231109T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:e979fcb5-6b8f-426c-869f-4910b485eee5@e979.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231123T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231123T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:268c0136-4aeb-48ff-a881-f18569fd9ab3@268c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231219T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231219T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:44b85fca-e56e-43c8-b361-56137c93fc12@44b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:be7f5cf4-5c0f-482c-ac49-7f4acffe40bd@be7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20230921T164500Z
-LOCATION:ГУК А-624
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:8d7c9a25-071c-4daf-baaf-b70737a11338@8d7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231102T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231102T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:cc421003-3ca6-448d-8443-c3dcb0116787@cc42.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:48bc6779-6b6f-4f03-8c11-f041cb2695d1@48bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1f42b8b4-a0c3-49d5-953d-82cb5cfc65b3@1f42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231005T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231005T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:37531f8c-75c1-4525-9c9e-685ca9ce1bbb@3753.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8eb0b676-c3bd-47a7-9dcd-3685e62e3fc5@8eb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231026T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231026T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:b89bace0-e8c7-4460-922a-189077549fc3@b89b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231214T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231214T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:f2012de9-caba-4ac9-8f93-503eac4e1f50@f201.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:4e4a7f3c-b538-426b-9008-0765cadd7f35@4e4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:dc1947d8-d3d5-4783-9b55-88bc41e752a6@dc19.org
+UID:15da71bd-7da3-4d1f-956c-43c14d726b11@15da.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -335,77 +15,42 @@ DTEND:20231017T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231017T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:1c2199f4-1a4f-4d3c-be8b-3f37d4aef832@1c21.org
+UID:3648e39f-f209-4eeb-8a56-37058b1342d0@3648.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:1c6222cc-3a4a-4fe4-8523-74658add0e72@1c62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231205T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:e904de84-193a-410a-877d-48c0d87475e1@e904.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20230914T164500Z
-LOCATION:ГУК А-624
-DTSTART:20230914T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:1e435f8e-7ef9-4d53-a34c-22b9cc4889f8@1e43.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
+DTEND:20230925T164500Z
 LOCATION:--каф.
-DTSTART:20231023T133000Z
+DTSTART:20230925T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:cf773e45-6e4b-4fc4-beb3-db9e6acf5a7d@cf77.org
+UID:503a1c4c-fa11-4afc-96a3-aff241a79267@503a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231019T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231019T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:05af9b2b-98cd-42ca-90ee-ee79dcdf2d0b@05af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231005T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:619add48-d13f-48f3-b4d7-536b1f8cc5ee@619a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231012T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231012T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:13272e18-cc76-452d-b65e-92ef4cfedb87@1327.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
+DTEND:20230904T150000Z
 LOCATION:--каф.
-DTSTART:20231106T133000Z
+DTSTART:20230904T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:cb58f93b-5dc5-45af-8068-3461ebaa1f83@cb58.org
+UID:fb4bae97-d401-4235-83b9-dba3e7962c5e@fb4b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20230921T183000Z
-LOCATION:ГУК А-624
-DTSTART:20230921T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:56f933d6-226c-44b1-9881-e034ff1c088b@56f9.org
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:8d3e2cf3-d8ea-4822-b351-b1c2001dc358@8d3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:52217cf1-6c20-43a3-a8d9-ba0173285f7c@5221.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e0420f72-1041-4bee-a40d-654ada3ed904@e042.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бардин Борис Сабирович
@@ -413,59 +58,22 @@ DTEND:20231207T164500Z
 LOCATION:ГУК А-624
 DTSTART:20231207T151500Z
 SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:6ec35c6f-fc34-49cf-a451-edc4d54eba91@6ec3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:20510b8a-ac2f-4687-9689-6d34feab438b@2051.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бардин Борис Сабирович
-DTEND:20231116T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231116T170000Z
-SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
-UID:8dfcb41a-4e88-42a6-90e5-c9517d70b255@8dfc.org
+UID:657e714a-400c-4792-82dc-d9fbb97dac3a@657e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
+DTEND:20231031T164500Z
 LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
+DTSTART:20231031T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:89ce2b3c-de99-4502-b27c-215ca5ec467c@89ce.org
+UID:6d9004c7-3bf2-46c3-898f-30851b2d8226@6d90.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:a130ffb9-b4f3-4824-9bed-d0031828e76c@a130.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
+DTEND:20231009T164500Z
 LOCATION:--каф.
-DTSTART:20231120T133000Z
+DTSTART:20231009T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d1feffc8-7c3b-408b-b9c0-3e16da8cfd1a@d1fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4784a72e-b1d1-4961-8457-d2a561072f9a@4784.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1054b5ee-36ba-41f6-a618-175be0281991@1054.org
+UID:9cdbed60-4676-48e9-8e77-11cc43e8382d@9cdb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бардин Борис Сабирович
@@ -473,14 +81,352 @@ DTEND:20231012T164500Z
 LOCATION:ГУК А-624
 DTSTART:20231012T151500Z
 SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:5b25cb03-c07c-4ae1-9948-ab29011b5aa7@5b25.org
+UID:05d699cd-02a1-4ad4-9041-e18c78245a43@05d6.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230918T164500Z
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231102T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231102T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:5d4ab1b7-0cd9-4e3d-85db-2c624cbc352b@5d4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:301ef3ae-11a3-49a1-8378-1e501d9cfbf5@301e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:b9be82ec-3473-4b62-a718-5dcc4fca942b@b9be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T164500Z
 LOCATION:--каф.
-DTSTART:20230918T151500Z
+DTSTART:20230904T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:cb0463e5-3818-40b1-8710-ab059eaed2b5@cb04.org
+UID:a9a72606-1470-4690-8652-ea504d10dae5@a9a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231123T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231123T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:1673b6af-56c9-4566-aa0a-b7a3c2522cf8@1673.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9f0bad56-ad2a-41db-9fd1-8c1c8a04a2c3@9f0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a0c26b5b-464a-4030-96ed-1258fc4fdb37@a0c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7a26a93a-f299-4e36-b04f-fc9bf42a43b6@7a26.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:fe392a35-bcca-427f-a35e-be6022e1ad0d@fe39.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e4026b30-b71e-404c-b150-3b305f9cedc4@e402.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231109T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231109T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:a011a998-0ef2-44c1-9df5-b6c9628dbbbb@a011.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20230914T183000Z
+LOCATION:ГУК А-624
+DTSTART:20230914T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:f3a20dcb-fe34-4966-a92a-23aa9fcb94dc@f3a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:1495e160-0374-4c76-92e5-432b8fb6ffc9@1495.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20230921T164500Z
+LOCATION:ГУК А-624
+DTSTART:20230921T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:ee1ada17-84cb-4db3-b6f3-7474751876cc@ee1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:81c2419b-5fd7-4dac-bcd3-974b84cddd3d@81c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:31c5b1c8-f5a8-4843-8ebb-1d4deef12fdb@31c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20230928T164500Z
+LOCATION:ГУК А-624
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:35df1b6e-6ac7-45dc-a17a-4c8e7c2d64c1@35df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20230921T183000Z
+LOCATION:ГУК А-624
+DTSTART:20230921T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:a687acfa-49cb-455f-8cce-30227e6601a1@a687.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f1dfd4e0-7778-4b7b-b6fd-fc59ee384a81@f1df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231026T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231026T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:4b1bd58e-c7e7-4f90-ac31-7647b78aadbe@4b1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:1abc9d1c-3177-40cb-bf93-45de15275c6a@1abc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20230928T183000Z
+LOCATION:ГУК А-624
+DTSTART:20230928T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:187c0231-f873-49bb-8a28-425e276055ef@187c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231019T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231019T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:28d4f9fa-4bae-4636-bee3-fceb094c3438@28d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b5c3a507-e5bb-468b-84ca-f4eb505279e2@b5c3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:68c62e8b-53da-4242-9329-55c50f07dbae@68c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231019T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231019T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:31d3c7f2-911a-48b9-95ba-a694ced34b28@31d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231005T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231005T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:79a2bd21-81fa-49db-af84-75be58f6d899@79a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231109T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231109T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:eeeebdcf-f63b-4e74-ae75-b69660a3a7e6@eeee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:83510c95-ee7c-4c94-a033-af9dfffb2db8@8351.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:dccb685c-94cf-41a4-87bb-923c30a4a339@dccb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ba6777de-3e44-49e9-aae8-80e2ec3abcf1@ba67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20230914T164500Z
+LOCATION:ГУК А-624
+DTSTART:20230914T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:0ee8d777-5351-4238-b72d-50c14320f8a8@0ee8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:2c00c89a-4d5a-4abe-8caf-7214d55adbd8@2c00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231219T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231219T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:e9f40d4c-f0ea-47a8-8db8-e65d0f354f9f@e9f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231214T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231214T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:a4602974-1f49-4390-af84-f1e0daeb0752@a460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231219T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:7db70875-4a7f-4eeb-9b3d-a7044c85da4b@7db7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231005T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231005T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:d4900122-8509-4a6c-9d7d-9c7a1dd866b5@d490.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20230907T183000Z
+LOCATION:ГУК А-624
+DTSTART:20230907T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:f9884a0e-edf9-4f29-99a2-64a831fe2962@f988.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231116T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231116T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:ee35449f-6947-40fb-b7f3-f4c6af259756@ee35.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:16145333-8498-4b83-8f31-22dbb373bfb4@1614.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231123T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231123T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:5a76fe14-750e-419e-8f29-e5a215869cfb@5a76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20230907T164500Z
+LOCATION:ГУК А-624
+DTSTART:20230907T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:da263869-5cca-401d-8b22-a0c24d741b80@da26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:06bb6b11-5007-4d7c-a2bf-dbcbb8c89cc9@06bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231102T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231102T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:8665130a-a799-4a0c-b8e7-06cb435398a0@8665.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:8074c960-6e96-4295-bbdf-1bd6b21bcc94@8074.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бардин Борис Сабирович
@@ -488,20 +434,74 @@ DTEND:20231116T164500Z
 LOCATION:ГУК А-624
 DTSTART:20231116T151500Z
 SUMMARY:ЛК Теория устойчивости гамильтоновых систем
-UID:cb4f149d-15c6-48c0-a378-19f0cc45d3dd@cb4f.org
+UID:6e029d1d-a504-4251-ace7-b73fe407a3cd@6e02.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:367d738a-542f-4a0c-a6be-7f020d213b62@367d.org
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231205T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231205T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:8d1da35a-ea7c-484b-91bb-1a6b39d45cce@8d1d.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231030T150000Z
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231205T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:0ee087d4-3278-4d39-87dd-3f649f0c4bf0@0ee0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231130T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231130T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:5f6b8e61-d91d-4659-b4d7-d7e6cc8e44f4@5f6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
 LOCATION:--каф.
-DTSTART:20231030T133000Z
+DTSTART:20231023T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d87f9251-e337-4a49-aab8-35e0865944f4@d87f.org
+UID:66918d67-5f90-4824-97a1-9523b52f9141@6691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231012T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231012T170000Z
+SUMMARY:ПЗ Теория устойчивости гамильтоновых систем
+UID:b573ab3a-7ea9-43f9-8520-ddcca6d53346@b573.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бардин Борис Сабирович
+DTEND:20231026T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231026T151500Z
+SUMMARY:ЛК Теория устойчивости гамильтоновых систем
+UID:f16ade83-6524-45cb-884a-7ed10510635d@f16a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d153cb52-690f-4431-a5ad-cc1297bd2a98@d153.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:38018813-09d2-4440-abd9-dab2dc9d8bd5@3801.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:46504905-8a64-4b69-a160-ec6da050d523@4650.org
 END:VEVENT
 END:VCALENDAR

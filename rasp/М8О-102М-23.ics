@@ -2,1204 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231121T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20231121T151500Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:53148792-9299-4ab3-a2cb-22651c610197@5314.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231016T150000Z
-LOCATION:2-314(2В)
-DTSTART:20231016T133000Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:c63b6286-77ba-4fce-978c-4a15a55cd821@c63b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20231230T091500Z
-LOCATION:2-301(2В)
-DTSTART:20231230T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:720871ed-fc35-4f20-87db-952e1a2b73ce@7208.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231031T183000Z
-LOCATION:ГУК А-506
-DTSTART:20231031T170000Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:68422760-d4b9-4d1f-ba85-014daa83764f@6842.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231212T150000Z
-LOCATION:ГУК В-214
-DTSTART:20231212T133000Z
-SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
-UID:23096221-41e7-40aa-8dc4-622439eca286@2309.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20230928T183000Z
-LOCATION:ГУК А-624
-DTSTART:20230928T170000Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:d723906a-c063-439a-b483-9dbd65678f98@d723.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20230912T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20230912T133000Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:3cc5ff6d-519d-4df0-91da-76d8a544b144@3cc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231017T150000Z
-LOCATION:ГУК В-214
-DTSTART:20231017T133000Z
-SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
-UID:f0fe5d0b-cff9-4a8e-8bd8-25560ca277fb@f0fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231108T183000Z
-LOCATION:ГУК А-626
-DTSTART:20231108T170000Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:4ef394d7-b630-4e75-b494-6507aed5a722@4ef3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20230927T150000Z
-LOCATION:7-402
-DTSTART:20230927T133000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:925f32b3-a47c-4a02-b10f-72055b5dd54e@925f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231114T164500Z
-LOCATION:ГУК А-506
-DTSTART:20231114T151500Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:004cf884-4694-48b5-8f7b-350b5594ad39@004c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231220T150000Z
-LOCATION:7-402
-DTSTART:20231220T133000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:9ab989d8-2d3f-477d-be82-1141d9c9726a@9ab9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231003T150000Z
-LOCATION:ГУК В-214
-DTSTART:20231003T133000Z
-SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
-UID:35fb7af8-18a2-439b-bb58-0b3831daa3e3@35fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231205T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20231205T151500Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:a18ce823-35ae-4fc3-96f2-32587f56c843@a18c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231004T131500Z
-LOCATION:ГУК А-404
-DTSTART:20231004T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:1b6d7902-5a89-41a4-8399-5b016c281abc@1b6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231108T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231108T151500Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:90833318-29d6-48c9-97cd-de170f7befbe@9083.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20230928T150000Z
-LOCATION:ГУК А-624
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
-UID:301273b5-b2ae-42c4-8e93-b3babbf16c16@3012.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231128T150000Z
-LOCATION:ГУК В-214
-DTSTART:20231128T133000Z
-SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
-UID:388f84b1-5061-4e23-ab04-07bf45e7fc2d@388f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20230920T150000Z
-LOCATION:7-406
-DTSTART:20230920T133000Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:82fa5ba8-da25-4117-b242-2a35d36210c0@82fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20231021T091500Z
-LOCATION:2-301(2В)
-DTSTART:20231021T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:cc5b9c83-8a06-4a7f-849e-354dd2b25390@cc5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231003T164500Z
-LOCATION:ГУК А-506
-DTSTART:20231003T151500Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:c07bd3a6-82e9-4880-bdf0-7f51ad372103@c07b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231011T183000Z
-LOCATION:ГУК А-626
-DTSTART:20231011T170000Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:9ac06050-fafd-4773-bb6d-badbf36bb5c3@9ac0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20230919T150000Z
-LOCATION:ГУК В-214
-DTSTART:20230919T133000Z
-SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
-UID:ae928bc3-152b-4390-a85d-ad7a43e9d411@ae92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231031T150000Z
-LOCATION:ГУК В-214
-DTSTART:20231031T133000Z
-SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
-UID:a9751e04-73a3-461a-a452-97b3620eb8d2@a975.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20230921T164500Z
-LOCATION:ГУК А-624
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
-UID:1248e509-00d0-4d32-a4b7-4e06b543322c@1248.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20230906T164500Z
-LOCATION:ГУК А-626
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Математические основы машинного обучения
-UID:001f9f56-20fa-4ca9-a822-9370d59c2f20@001f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231123T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231123T151500Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:cdccfcdd-2c18-4b31-92a7-ee8f2ea9c425@cdcc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231030T150000Z
-LOCATION:2-314(2В)
-DTSTART:20231030T133000Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:0c7bd594-7990-4f96-89d2-55ab2ed55c15@0c7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231114T183000Z
-LOCATION:ГУК А-506
-DTSTART:20231114T170000Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:5f2caa57-20ac-4c25-8573-e1f848a69f4c@5f2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231115T150000Z
-LOCATION:7-406
-DTSTART:20231115T133000Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:1477b9b9-182a-4c6b-b42b-3e912c5f4b75@1477.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231116T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
-UID:201d9158-c1dd-487f-ae85-875fc3b7dc69@201d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231026T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231026T170000Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:dd5428ce-1302-4247-9689-81e492d3957e@dd54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231101T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231101T151500Z
-SUMMARY:ЛК Математические основы машинного обучения
-UID:c15f0ba5-6a70-440d-b36e-fff2b73ecb6f@c15f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231017T183000Z
-LOCATION:ГУК А-506
-DTSTART:20231017T170000Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:be162d2c-1e09-487f-877b-ad27b90d9f5e@be16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231018T131500Z
-LOCATION:ГУК А-404
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:18fbc299-d0c6-4b60-86c7-36f8b20fc251@18fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231220T183000Z
-LOCATION:ГУК А-626
-DTSTART:20231220T170000Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:2efbd95f-473b-41c2-83b9-9fa9fff1e0b8@2efb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231127T150000Z
-LOCATION:2-314(2В)
-DTSTART:20231127T133000Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:3f86c1c9-bd75-438c-988d-10857d2ab309@3f86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20230919T183000Z
-LOCATION:ГУК А-506
-DTSTART:20230919T170000Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:f7a177bb-82db-45c5-81aa-e5302080cf0a@f7a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20231216T113000Z
-LOCATION:--каф.
-DTSTART:20231216T100000Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:73a2f67f-f042-4722-990d-45f49b4756d8@73a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231030T164500Z
-LOCATION:2-314(2В)
-DTSTART:20231030T151500Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:28f731d7-372b-4d86-b1e8-7fd61de9bf54@28f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231213T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231213T151500Z
-SUMMARY:ЛК Математические основы машинного обучения
-UID:0abe0974-6d85-4565-a191-9ee4a94a5a91@0abe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231123T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231123T170000Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:014bc92e-b72a-4058-8869-a214611ce95f@014b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231012T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
-UID:7485a3bd-1f0f-4070-9c21-50fc210fe807@7485.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231130T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231130T151500Z
-SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
-UID:0bdabcda-8029-477c-8adf-e9ae5e25d548@0bda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231108T150000Z
-LOCATION:7-402
-DTSTART:20231108T133000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:0a32179d-8d0e-468f-9421-a82df68224af@0a32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20230921T150000Z
-LOCATION:ГУК А-624
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Аналитические методы динамики мехатронных систем
-UID:c711afc6-0989-4d88-94a0-a7f92f1b757c@c711.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231207T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231207T170000Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:645a01ec-3e80-488e-b609-c4c527a12b80@645a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231101T150000Z
-LOCATION:7-406
-DTSTART:20231101T133000Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:cf627eb3-f004-4888-9071-baad1576b08f@cf62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231004T150000Z
-LOCATION:7-406
-DTSTART:20231004T133000Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:7e04bcd5-693d-4a40-bf54-fca8fb148321@7e04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231227T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231227T151500Z
-SUMMARY:ЛК Математические основы машинного обучения
-UID:035e0818-7309-4374-9591-7b6e4cd3ab2e@035e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20230927T183000Z
-LOCATION:ГУК А-626
-DTSTART:20230927T170000Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:9e2ad5fc-a412-4ce4-91f8-f52ceeea8dd4@9e2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231221T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231221T151500Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:3e05bafb-49a5-48c4-9e67-d172747b3f6f@3e05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20231021T113000Z
-LOCATION:--каф.
-DTSTART:20231021T100000Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:fbb0e0e2-ce9e-404d-865c-d048cd18ebf3@fbb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231130T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Аналитические методы динамики мехатронных систем
-UID:aebd9d5c-9a81-408b-b83c-61d8d29d7aef@aebd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20230909T091500Z
-LOCATION:2-301(2В)
-DTSTART:20230909T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:a23a3e59-1b3e-46b3-bf09-af54688e5576@a23a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231206T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231206T151500Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:52d72c1c-fb7d-46b4-9935-c1e1cce00b32@52d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20230913T150000Z
-LOCATION:7-402
-DTSTART:20230913T133000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:8a650315-dc48-4fb4-8afb-0fd01d270843@8a65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20230928T164500Z
-LOCATION:ГУК А-624
-DTSTART:20230928T151500Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:d8be82d5-27a7-411b-a193-549757bc838b@d8be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20231007T113000Z
-LOCATION:--каф.
-DTSTART:20231007T100000Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:f64be210-82e0-4acf-b5d4-aa3a1b760628@f64b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231115T131500Z
-LOCATION:ГУК А-404
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:78095dff-4442-4dcf-bfb4-1912b800be34@7809.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231212T183000Z
-LOCATION:ГУК А-506
-DTSTART:20231212T170000Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:57817bae-fbd8-4bd5-9995-32b065b08805@5781.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231225T164500Z
-LOCATION:2-314(2В)
-DTSTART:20231225T151500Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:9300915b-64e9-4fd1-a048-d0299a5a3590@9300.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231019T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Аналитические методы динамики мехатронных систем
-UID:1bae981e-b8e6-4d49-aeb3-1d6ad8f981dd@1bae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20230926T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20230926T133000Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:9b457c09-f763-4034-8f43-59f1cf085d91@9b45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231005T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Аналитические методы динамики мехатронных систем
-UID:a0ec0a76-dec4-4e6a-b83a-65cc200b6f00@a0ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20230914T183000Z
-LOCATION:ГУК А-624
-DTSTART:20230914T170000Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:28bed6cd-105d-4a3b-a027-d8c5600786f5@28be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20230906T131500Z
-LOCATION:ГУК А-404
-DTSTART:20230906T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:e91fd80a-e8be-481b-ab73-87e58f96de4d@e91f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231206T183000Z
-LOCATION:ГУК А-626
-DTSTART:20231206T170000Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:1211abfa-4483-457b-87d4-b09be578f19f@1211.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231214T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Аналитические методы динамики мехатронных систем
-UID:0eb74953-f4e0-40be-a5e4-4e84a4e2ae1d@0eb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231019T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
-UID:81ff1eb0-ab00-4046-8b6e-20cb03295e63@81ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231109T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231109T170000Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:05fbe26a-ff20-4a2f-a9d1-86acaaf6cfd5@05fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231128T164500Z
-LOCATION:ГУК А-506
-DTSTART:20231128T151500Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:bc537133-50c6-494b-81c2-6ac4ba59c583@bc53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231226T183000Z
-LOCATION:ГУК А-506
-DTSTART:20231226T170000Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:325a4752-92db-43cb-9b4c-90b57452205c@325a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20231118T091500Z
-LOCATION:2-301(2В)
-DTSTART:20231118T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:5b6ae60e-0944-4812-811c-0330d50c16a4@5b6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231011T150000Z
-LOCATION:7-402
-DTSTART:20231011T133000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:82b61dc2-aff8-4547-8b75-58fb74709a8d@82b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20230905T150000Z
-LOCATION:ГУК В-214
-DTSTART:20230905T133000Z
-SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
-UID:ee209a5e-e196-446e-abbd-d0d424242f15@ee20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20230918T164500Z
-LOCATION:2-314(2В)
-DTSTART:20230918T151500Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:0a4a2155-f7ed-41bb-86d3-0459afd46427@0a4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20231007T091500Z
-LOCATION:2-301(2В)
-DTSTART:20231007T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:31fa559d-a73a-47f0-b591-b8516b29c772@31fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231114T150000Z
-LOCATION:ГУК В-214
-DTSTART:20231114T133000Z
-SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
-UID:3bd20dc9-799a-43ee-9895-d0feb18b0390@3bd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231102T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Аналитические методы динамики мехатронных систем
-UID:414f71c5-d94d-487e-a61d-fb616e40ac10@414f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231226T150000Z
-LOCATION:ГУК В-214
-DTSTART:20231226T133000Z
-SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
-UID:9b7faceb-bd4c-48a6-b116-885ffac0c893@9b7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231010T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20231010T133000Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:e49eaaa9-af57-4c81-9c1a-38962fa0b91e@e49e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231206T150000Z
-LOCATION:7-402
-DTSTART:20231206T133000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:943fb42c-d09d-40b4-9e8f-05ba539e42c4@943f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20230914T150000Z
-LOCATION:ГУК А-624
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
-UID:4465b709-f26a-462f-be8f-3e3fe2082f60@4465.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231214T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231214T151500Z
-SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
-UID:61236b9c-2650-4a7b-897e-af92d639f582@6123.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231122T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231122T151500Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:99fa4977-9a70-479d-b42d-1305803edf7b@99fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231018T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Математические основы машинного обучения
-UID:03470f14-ed69-49d1-9a75-71b2b20b1a34@0347.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Коновалова Светлана Владимировна
 DTEND:20231101T131500Z
 LOCATION:ГУК А-404
 DTSTART:20231101T114500Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:9562871d-79c2-4878-9a63-107a207a19bf@9562.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231107T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20231107T133000Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:f763b920-ea52-48f0-89df-e1a7fcd4bd20@f763.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231211T150000Z
-LOCATION:2-314(2В)
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:34d68fc0-50a0-4d61-b9b6-d38c67060a1c@34d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231206T131500Z
-LOCATION:ГУК А-404
-DTSTART:20231206T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:a5174a6b-2b94-4e7c-9de4-f26df6621e1b@a517.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231225T150000Z
-LOCATION:2-314(2В)
-DTSTART:20231225T133000Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:e8c103b5-e37e-4ff3-bf5f-35cca88667c7@e8c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231129T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231129T151500Z
-SUMMARY:ЛК Математические основы машинного обучения
-UID:1efd653c-d2e8-4832-891a-ba6e31d09dd0@1efd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231129T150000Z
-LOCATION:7-406
-DTSTART:20231129T133000Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:cf13ccf3-d654-4596-9951-6a43a79dd33a@cf13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231213T131500Z
-LOCATION:ГУК А-404
-DTSTART:20231213T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:b6f7ba50-77cc-499d-beb9-914a77cb7aa7@b6f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231024T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20231024T151500Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:0671d0b0-1dcb-4582-adae-8bfbdd05a0f2@0671.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231213T150000Z
-LOCATION:7-406
-DTSTART:20231213T133000Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:a972ce51-b510-4a07-af19-d08b3be3f3e7@a972.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231102T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
-UID:f0c3ab86-2fcc-4308-ab18-c1caa56c2d78@f0c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231026T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
-UID:78103576-5f4c-40d9-8076-b40079308b35@7810.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231212T164500Z
-LOCATION:ГУК А-506
-DTSTART:20231212T151500Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:b6247b68-c07f-484f-8011-c6c3bc32e3e9@b624.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20230920T131500Z
-LOCATION:ГУК А-404
-DTSTART:20230920T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:71f23968-5935-4aa1-9840-5467143bd78a@71f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231221T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231221T133000Z
-SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
-UID:c6858f76-fba6-4c28-ac88-dcd01edf8849@c685.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231220T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231220T151500Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:d5a6b558-d132-4927-b42c-59d1c119df27@d5a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231113T150000Z
-LOCATION:2-314(2В)
-DTSTART:20231113T133000Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:ea792536-04e7-44ea-865d-979701329d45@ea79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231025T183000Z
-LOCATION:ГУК А-626
-DTSTART:20231025T170000Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:b5f79668-35c9-443d-b8fd-3e59dd85e9a8@b5f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231109T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
-UID:4af7bf53-7e2a-4b8b-b2ed-b7806a642aa4@4af7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231205T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20231205T133000Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:58b55afe-4bd9-4fab-a02a-75b8567d6f19@58b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20231216T091500Z
-LOCATION:2-301(2В)
-DTSTART:20231216T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:f2272b1d-74b2-4cd1-86dc-8e8e109ab2ce@f227.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231227T150000Z
-LOCATION:7-406
-DTSTART:20231227T133000Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:ad896d2a-141f-4bc4-a2ab-25cdc9b241e0@ad89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231123T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
-UID:da654930-c1f2-431a-b197-74c5d2f6d74c@da65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231113T164500Z
-LOCATION:2-314(2В)
-DTSTART:20231113T151500Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:c3d8d827-3da4-4c3a-b496-1b7194b1d189@c3d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231011T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231011T151500Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:48ac468a-3dda-4acd-956e-99b592b0c2d6@48ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231107T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20231107T151500Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:a04cca5f-1176-448d-86f9-35833f5b0497@a04c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231004T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Математические основы машинного обучения
-UID:2add6375-7a44-4d49-a365-0019ce8e4644@2add.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20230907T164500Z
-LOCATION:ГУК А-624
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
-UID:9e5acdd4-0e1b-4b19-8c2a-08468fc6f43b@9e5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231122T131500Z
-LOCATION:ГУК А-404
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:199cf7fc-d78b-45d0-b9aa-4905bfe7c92c@199c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231025T131500Z
-LOCATION:ГУК А-404
-DTSTART:20231025T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:089a8a17-0d2c-4ec7-9eb0-2ae6a3486583@089a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20230904T164500Z
-LOCATION:2-314(2В)
-DTSTART:20230904T151500Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:15c3884e-1ecc-4cbe-9dfb-6fb0bca24179@15c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231018T150000Z
-LOCATION:7-406
-DTSTART:20231018T133000Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:c4cf0af6-bb48-46cc-8673-39f6b30d3e1c@c4cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231221T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231221T170000Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:6865a95a-4212-40d0-96fe-a6dae8a39b72@6865.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20230906T150000Z
-LOCATION:7-406
-DTSTART:20230906T133000Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:93ec3c02-1b27-465d-8053-53899b98d78c@93ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20230907T150000Z
-LOCATION:ГУК А-624
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Аналитические методы динамики мехатронных систем
-UID:1bf0b828-520e-4d63-97de-0f6125fac840@1bf0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231115T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231115T151500Z
-SUMMARY:ЛК Математические основы машинного обучения
-UID:7c1ef636-b3b9-49a1-bb87-443726073147@7c1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231227T131500Z
-LOCATION:ГУК А-404
-DTSTART:20231227T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:d9417ab3-f72f-45ee-98c6-e3d9e21370ad@d941.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231010T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20231010T151500Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:fb4bb146-b7fe-46d0-858c-6321f1060700@fb4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231228T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231228T151500Z
-SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
-UID:4284ee03-e552-40c0-adeb-657262cfb4f7@4284.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20231202T113000Z
-LOCATION:--каф.
-DTSTART:20231202T100000Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:c89aa2b8-5636-451b-b139-dc80301febc2@c89a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231207T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
-UID:e58116b9-bf6f-42e1-8dae-37ee39d397ff@e581.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231002T164500Z
-LOCATION:2-314(2В)
-DTSTART:20231002T151500Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:dbd8a6c6-1f00-4bbe-8868-5caf4a894cdc@dbd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20230923T113000Z
-LOCATION:--каф.
-DTSTART:20230923T100000Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:6a59fef1-5231-4ed1-a144-e2d88b55ffa0@6a59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231026T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231026T151500Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:3eacf629-b8c6-45d8-9c74-29256fc49194@3eac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231002T150000Z
-LOCATION:2-314(2В)
-DTSTART:20231002T133000Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:1d256b9e-34cd-4377-9bb1-a42c0b4b636f@1d25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20230909T113000Z
-LOCATION:--каф.
-DTSTART:20230909T100000Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:bd17b89c-caf7-41fe-ab66-70742f4a109a@bd17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231005T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
-UID:e508f92a-5b1f-4a70-b7fb-193fb8fae412@e508.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231116T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Аналитические методы динамики мехатронных систем
-UID:3e80db6c-a5f5-4699-ae1f-6e1c91cbd95d@3e80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231016T164500Z
-LOCATION:2-314(2В)
-DTSTART:20231016T151500Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:56e3e6c8-7acb-4bc1-96c2-ae2578fb8d9c@56e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231219T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20231219T151500Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:af94b5d4-e37c-46f7-83a5-27d847644890@af94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20230913T131500Z
-LOCATION:ГУК А-404
-DTSTART:20230913T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:63697fcd-1605-4c55-a92f-fba3b13b1bea@6369.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231122T150000Z
-LOCATION:7-402
-DTSTART:20231122T133000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:55ce07b9-5dd7-45b0-8435-2c0dd4b00071@55ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231031T164500Z
-LOCATION:ГУК А-506
-DTSTART:20231031T151500Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:6281853d-4c35-4ec3-b4e4-2092e2a21728@6281.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231012T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231012T151500Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:583f511e-b135-4106-993d-7fa68bcedf82@583f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20230927T131500Z
-LOCATION:ГУК А-404
-DTSTART:20230927T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:d17887a5-c35e-4e30-9b3e-00526ca56b94@d178.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231108T131500Z
-LOCATION:ГУК А-404
-DTSTART:20231108T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:ab427e50-e595-404c-bed8-16fb675b40e7@ab42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231122T183000Z
-LOCATION:ГУК А-626
-DTSTART:20231122T170000Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:792be4ef-8991-4754-abc4-ef24a3f5bb76@792b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231128T183000Z
-LOCATION:ГУК А-506
-DTSTART:20231128T170000Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:596f5778-4bb4-4c55-930b-e59d016176d9@596f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20230914T164500Z
-LOCATION:ГУК А-624
-DTSTART:20230914T151500Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:f15b7889-ac3c-47a9-a35e-055dc4d1cf3b@f15b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231003T183000Z
-LOCATION:ГУК А-506
-DTSTART:20231003T170000Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:8b2a6ac7-d25c-4858-a63f-79a5a8a757f0@8b2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холостова Ольга Владимировна
-DTEND:20231228T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231228T133000Z
-SUMMARY:ЛК Аналитические методы динамики мехатронных систем
-UID:9ce2a486-dfad-4cda-9b49-22521d187eae@9ce2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20230912T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20230912T151500Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:ef76fef4-a568-444e-85a6-eca48c10119b@ef76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20231017T164500Z
-LOCATION:ГУК А-506
-DTSTART:20231017T151500Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:b0991ba4-1a8f-4ab6-93b7-81381e093a55@b099.org
+UID:4fad8de3-99a0-4091-bf1f-15390290e446@4fad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
@@ -1207,111 +15,31 @@ DTEND:20231025T150000Z
 LOCATION:7-402
 DTSTART:20231025T133000Z
 SUMMARY:ПЗ Межкультурные коммуникации
-UID:aaf79e32-b899-419e-8afd-33815357c53a@aaf7.org
+UID:869584d6-bae1-4cd8-8647-34d3bdb065ae@8695.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231024T150000Z
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231107T164500Z
 LOCATION:ГУК Б-326
-DTSTART:20231024T133000Z
+DTSTART:20231107T151500Z
 SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:614574eb-f2ec-44df-a822-0814c4122b6c@6145.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231012T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231012T170000Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:6ac1bbb3-f17e-4b28-82d4-0bf811b9285c@6ac1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20230905T183000Z
-LOCATION:ГУК А-506
-DTSTART:20230905T170000Z
-SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:79a0633a-1a8d-4d92-817a-39d008df3404@79a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20230927T164500Z
-LOCATION:ГУК А-626
-DTSTART:20230927T151500Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:f3894378-9eb4-4058-bc39-b38d173b3f79@f389.org
+UID:b555a584-6981-4825-85c1-9cb74629860d@b555.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231211T164500Z
+DTEND:20231127T150000Z
 LOCATION:2-314(2В)
-DTSTART:20231211T151500Z
+DTSTART:20231127T133000Z
 SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:2027f268-f98a-4b43-b728-0e980acec45c@2027.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20230913T183000Z
-LOCATION:ГУК А-626
-DTSTART:20230913T170000Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:6a4b7471-f151-4751-b289-9fa653bd3c6f@6a4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231121T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20231121T133000Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:c6ad4979-f1a4-4860-a167-4dae34022764@c6ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20231202T091500Z
-LOCATION:2-301(2В)
-DTSTART:20231202T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:8341e466-7d18-4d3e-8149-e0881791b548@8341.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20230913T164500Z
-LOCATION:ГУК А-626
-DTSTART:20230913T151500Z
-SUMMARY:ЛР Математические основы машинного обучения
-UID:b09ae98f-9621-4ffc-904b-ca632e3473d4@b09a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20230904T150000Z
-LOCATION:2-314(2В)
-DTSTART:20230904T133000Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:5923d3b2-7e13-4ef0-b19b-55457ef2fe72@5923.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20230918T150000Z
-LOCATION:2-314(2В)
-DTSTART:20230918T133000Z
-SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:a2e4cc1e-1fc7-422f-b2f4-59f12dac5eb9@a2e4.org
+UID:c0f4e5a0-922a-49f5-83c0-0a7a2e9c2ed7@c0f4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231220T131500Z
+DTEND:20230920T131500Z
 LOCATION:ГУК А-404
-DTSTART:20231220T114500Z
+DTSTART:20230920T114500Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:5b743e60-4400-400f-901d-bf605c850bda@5b74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20230920T164500Z
-LOCATION:ГУК А-626
-DTSTART:20230920T151500Z
-SUMMARY:ЛК Математические основы машинного обучения
-UID:329cd63f-176f-400e-8886-ecdf17c024f6@329c.org
+UID:df09686e-a340-4b03-80d7-0fbdc0f40401@df09.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коновалова Светлана Владимировна
@@ -1319,39 +47,55 @@ DTEND:20231011T131500Z
 LOCATION:ГУК А-404
 DTSTART:20231011T114500Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:2aef6944-ad78-4180-8e9f-e401c6dd734f@2aef.org
+UID:7ed8c7d9-398e-484b-a14d-4437c6fe1faa@7ed8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20230926T164500Z
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231219T164500Z
 LOCATION:ГУК Б-326
-DTSTART:20230926T151500Z
+DTSTART:20231219T151500Z
 SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:dec09740-eb2d-47ee-8f4b-dacdad085740@dec0.org
+UID:421be60b-a2d0-4423-8126-e2244e17f23b@421b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бахиркин Михаил Васильевич
-DTEND:20231118T113000Z
-LOCATION:--каф.
-DTSTART:20231118T100000Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:cc0a2a23-2b61-49e0-a5ca-05af0c0c6976@cc0a.org
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230926T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20230926T133000Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:9cc37f92-343f-415d-8993-faa91042c246@9cc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231225T150000Z
+LOCATION:2-314(2В)
+DTSTART:20231225T133000Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:e92e9cdf-316c-45a5-b3a8-f7216d939a65@e92e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231129T131500Z
+DTEND:20230927T131500Z
 LOCATION:ГУК А-404
-DTSTART:20231129T114500Z
+DTSTART:20230927T114500Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:f9a457ab-78a4-4c36-8190-3c644c8cb22b@f9a4.org
+UID:ba9b206a-0fd4-477e-9952-d98bf9c5465c@ba9b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231109T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231109T151500Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:8089a267-5ebc-4d0b-a677-6a589063df1c@8089.org
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231018T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Математические основы машинного обучения
+UID:f184bffe-76ab-4f48-93cf-75bb64f5f1d8@f184.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231121T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20231121T151500Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:e4ca6b90-742f-4c9f-9859-6e29c1931383@e4ca.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Леонов Сергей Сергеевич
@@ -1359,55 +103,463 @@ DTEND:20231226T164500Z
 LOCATION:ГУК А-506
 DTSTART:20231226T151500Z
 SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:602f99e4-ea47-4349-bd17-ca5448d29c0a@602f.org
+UID:11eeee4c-ad47-43bb-ab82-d5aac1c8f9a1@11ee.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Чекина Евгения Алексеевна
-DTEND:20231207T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231207T151500Z
-SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
-UID:b36bfe51-c6ff-493a-85b6-66e6f9a50d85@b36b.org
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231003T183000Z
+LOCATION:ГУК А-506
+DTSTART:20231003T170000Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:109c7264-947c-4652-9fda-82d3601ddefb@109c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231206T131500Z
+LOCATION:ГУК А-404
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:348a71d3-2d5c-48e2-bc8d-b48c0687de67@348a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231226T150000Z
+LOCATION:ГУК В-214
+DTSTART:20231226T133000Z
+SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
+UID:2ea498aa-15d6-47ca-8b28-a0ada3419898@2ea4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мясниченко Олег Михайлович
-DTEND:20231025T164500Z
+DTEND:20230927T183000Z
 LOCATION:ГУК А-626
-DTSTART:20231025T151500Z
+DTSTART:20230927T170000Z
 SUMMARY:ЛР Математические основы машинного обучения
-UID:580286ea-478b-4baf-bed5-1e46c46181f3@5802.org
+UID:5620d16f-d162-4f67-995d-1787260f3c71@5620.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сологуб Глеб Борисович
-DTEND:20231219T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20231219T133000Z
-SUMMARY:ЛР Анализ информационных процессов и технологий
-UID:a725951d-2ae2-4ba3-b5e3-b59cd3ed7b6f@a725.org
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231101T150000Z
+LOCATION:7-406
+DTSTART:20231101T133000Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:c5625eab-0b8d-44b7-a949-da2ff17508bd@c562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231214T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Аналитические методы динамики мехатронных систем
+UID:1271ff45-bb05-48dc-b8c9-596690aab69a@1271.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231005T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Аналитические методы динамики мехатронных систем
+UID:a84d29df-fe4a-4f26-8494-4f2846bed9dc@a84d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231206T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231206T151500Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:38e4bef6-41e3-42cc-9603-68013742305b@38e4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20230919T164500Z
+DTEND:20231031T183000Z
 LOCATION:ГУК А-506
-DTSTART:20230919T151500Z
+DTSTART:20231031T170000Z
 SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:bab91f3e-0148-4dc6-82b6-206caf6c5faf@bab9.org
+UID:72f3a6da-150b-4f2b-889a-b5d5d79fef8d@72f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20230921T150000Z
+LOCATION:ГУК А-624
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Аналитические методы динамики мехатронных систем
+UID:0c29bdaa-7a75-4790-a549-ddeb42e08568@0c29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231115T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231115T151500Z
+SUMMARY:ЛК Математические основы машинного обучения
+UID:ff74ce5a-0476-4b07-8382-22cee669968a@ff74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231108T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231108T151500Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:5bdea0c1-4f1f-4aab-b1cd-443a3db98d79@5bde.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231127T164500Z
+DTEND:20231002T150000Z
 LOCATION:2-314(2В)
-DTSTART:20231127T151500Z
+DTSTART:20231002T133000Z
 SUMMARY:ЛК Анализ информационных процессов и технологий
-UID:818babd3-5d8b-424c-8338-9cf5764e6e28@818b.org
+UID:96d1c109-1b51-46ad-abce-5eb9e9970690@96d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Леонов Сергей Сергеевич
-DTEND:20230905T164500Z
+DTEND:20231212T150000Z
+LOCATION:ГУК В-214
+DTSTART:20231212T133000Z
+SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
+UID:d8d14a7e-9d34-4286-b085-79b6ac8be154@d8d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20230920T164500Z
+LOCATION:ГУК А-626
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Математические основы машинного обучения
+UID:60e62a3b-9cc5-460e-be4f-ca6136e42874@60e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231003T150000Z
+LOCATION:ГУК В-214
+DTSTART:20231003T133000Z
+SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
+UID:0b7cf706-6273-493c-9a4d-a207e5d5850d@0b7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20231118T091500Z
+LOCATION:2-301(2В)
+DTSTART:20231118T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:abced189-46f8-4c3e-b7a1-be4cb4f42090@abce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231227T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231227T151500Z
+SUMMARY:ЛК Математические основы машинного обучения
+UID:a0d8cf0e-dee6-4017-8214-a40b2b11dab4@a0d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231113T164500Z
+LOCATION:2-314(2В)
+DTSTART:20231113T151500Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:122b5433-f84c-416e-9a33-97ad574e2ec1@122b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231227T150000Z
+LOCATION:7-406
+DTSTART:20231227T133000Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:6d7ce686-3259-4bc7-aa5b-4d9da9c195cf@6d7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231004T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Математические основы машинного обучения
+UID:5d1effd2-0a6c-4be1-9a0a-9a85f0bae7a4@5d1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231128T183000Z
 LOCATION:ГУК А-506
-DTSTART:20230905T151500Z
+DTSTART:20231128T170000Z
 SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
-UID:21c9334d-0f20-43b1-9cb7-9a358eebfa87@21c9.org
+UID:bfaa9ad9-8556-49c5-ab34-51dc0d0c4ada@bfaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231220T150000Z
+LOCATION:7-402
+DTSTART:20231220T133000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:8eecc082-6fd6-40ff-b45e-7484e8b48c9f@8eec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231109T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231109T151500Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:75c4cb30-54fd-4f56-a55d-9700ef73e6b4@75c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231003T164500Z
+LOCATION:ГУК А-506
+DTSTART:20231003T151500Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:b582469c-ef4b-4f3d-bfa3-305e9d154cf2@b582.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20230928T164500Z
+LOCATION:ГУК А-624
+DTSTART:20230928T151500Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:2f630449-b40b-4b2d-a4e4-f8978202f495@2f63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231205T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20231205T133000Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:ecf30b3d-3c8a-4673-a84f-e02281bf5530@ecf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20230927T150000Z
+LOCATION:7-402
+DTSTART:20230927T133000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:37b459dd-af57-4d21-80b0-808c5404bcf5@37b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231004T150000Z
+LOCATION:7-406
+DTSTART:20231004T133000Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:f5206c63-05e5-4639-a1e3-0839e1e34ecf@f520.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230904T164500Z
+LOCATION:2-314(2В)
+DTSTART:20230904T151500Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:1321dcff-0841-4397-9a08-99d97a43d566@1321.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230918T164500Z
+LOCATION:2-314(2В)
+DTSTART:20230918T151500Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:a0117c31-e6c9-4973-abd6-1d541d3f8877@a011.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20231216T091500Z
+LOCATION:2-301(2В)
+DTSTART:20231216T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:257cc21b-dfe1-43fe-8942-492fe95ad19b@257c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231221T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231221T133000Z
+SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
+UID:a442dc18-e25e-460e-b502-cac00a244507@a442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231220T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231220T151500Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:4cfd465e-085f-4a5f-a86f-ee1a928f9a0e@4cfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231212T183000Z
+LOCATION:ГУК А-506
+DTSTART:20231212T170000Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:22d044e0-7558-4283-aa12-47d17231d20b@22d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231122T183000Z
+LOCATION:ГУК А-626
+DTSTART:20231122T170000Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:0807ba51-1b8c-4d7f-8f1d-a85b1629d579@0807.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231025T183000Z
+LOCATION:ГУК А-626
+DTSTART:20231025T170000Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:a10c6d07-a8fb-4f0a-955e-3efa970dc75c@a10c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20230906T150000Z
+LOCATION:7-406
+DTSTART:20230906T133000Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:f331c59d-0117-40d4-bdc6-332c96bde5eb@f331.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231130T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231130T151500Z
+SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
+UID:79102473-7b21-4227-a799-c884796cc4c3@7910.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231102T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
+UID:f0dbe649-58c7-4842-b4ab-9b25a46c2e8c@f0db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231123T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
+UID:cf49690e-c873-438d-b0ce-863b6ce29906@cf49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20230909T091500Z
+LOCATION:2-301(2В)
+DTSTART:20230909T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:d2c0eb6d-3414-48af-920a-91bc5bb272f3@d2c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231129T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231129T151500Z
+SUMMARY:ЛК Математические основы машинного обучения
+UID:9ab458a1-d1de-4b7c-a0b5-b423862af45a@9ab4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231206T183000Z
+LOCATION:ГУК А-626
+DTSTART:20231206T170000Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:30b5edfb-21c0-48d3-aa21-440bd6283453@30b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231114T164500Z
+LOCATION:ГУК А-506
+DTSTART:20231114T151500Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:f820c1b3-3ccd-4a82-8158-1df10ed0a1e8@f820.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20230906T131500Z
+LOCATION:ГУК А-404
+DTSTART:20230906T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:f01cc473-4c60-41d3-a162-86a4c99b5662@f01c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20230913T183000Z
+LOCATION:ГУК А-626
+DTSTART:20230913T170000Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:0380b88e-4409-4ef3-a77a-39f6d531846d@0380.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20231230T091500Z
+LOCATION:2-301(2В)
+DTSTART:20231230T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:13f9b192-1252-445b-ba17-055afc3a9490@13f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20231216T113000Z
+LOCATION:--каф.
+DTSTART:20231216T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:82d05209-5ce3-4260-915e-8bb63abb2927@82d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231121T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20231121T133000Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:30a686bc-c370-462f-a3cb-53fe011a5fb9@30a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231122T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231122T151500Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:a18972aa-111d-457d-89c2-e521ecf0292e@a189.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20230907T164500Z
+LOCATION:ГУК А-624
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
+UID:a6a9531b-bb42-4976-a980-0939c269bb2a@a6a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20231021T091500Z
+LOCATION:2-301(2В)
+DTSTART:20231021T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:6b37cb53-f39e-45ec-a1b0-fb84e3a9e79d@6b37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230926T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20230926T151500Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:54cdeae4-9a5e-4b94-a3ad-62b7ca3dfa37@54cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230912T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20230912T151500Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:05679a70-e4cc-4f28-88c7-7b2897bd4632@0567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231211T164500Z
+LOCATION:2-314(2В)
+DTSTART:20231211T151500Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:a0a341fe-576a-425f-a008-7b804d6261c8@a0a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231031T164500Z
+LOCATION:ГУК А-506
+DTSTART:20231031T151500Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:876a3d63-142a-4fb3-b985-4e82571f3173@876a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бахиркин Михаил Васильевич
@@ -1415,6 +567,854 @@ DTEND:20230923T091500Z
 LOCATION:2-301(2В)
 DTSTART:20230923T074500Z
 SUMMARY:ЛК Управление IT-проектами
-UID:817b9966-6718-4758-9a7c-fbefaa19031a@817b.org
+UID:bbc424b5-ab08-42df-8d2a-5ac47bf9be1a@bbc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231107T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20231107T133000Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:c4a48c02-7697-495d-adf5-995751226028@c4a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231226T183000Z
+LOCATION:ГУК А-506
+DTSTART:20231226T170000Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:27284929-c52c-41d5-adb3-868a89507e20@2728.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20230906T164500Z
+LOCATION:ГУК А-626
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Математические основы машинного обучения
+UID:2cadc588-dcf5-4d81-8793-dccfff8e5f11@2cad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20231007T113000Z
+LOCATION:--каф.
+DTSTART:20231007T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:621aa99b-5f4a-41b2-917a-c45e22645983@621a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231130T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Аналитические методы динамики мехатронных систем
+UID:742d0a61-a770-47fa-b84a-864d121f1924@742d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231101T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231101T151500Z
+SUMMARY:ЛК Математические основы машинного обучения
+UID:ca63f6da-9ec1-4741-86f0-c93f8d10d494@ca63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231011T150000Z
+LOCATION:7-402
+DTSTART:20231011T133000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:7d811f43-bbf0-4b28-b1db-ac412993b2e9@7d81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20230927T164500Z
+LOCATION:ГУК А-626
+DTSTART:20230927T151500Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:d17f101b-d5a0-4765-8c37-a4eab225a193@d17f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231207T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231207T133000Z
+SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
+UID:1bd04281-5e89-4794-9f87-88275563d311@1bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231219T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20231219T133000Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:f44571fe-f151-41b4-9456-a2f1797cf559@f445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231019T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
+UID:e2990da1-18a2-4bdd-acf4-79264d5373b6@e299.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231221T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231221T151500Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:fd308b80-a406-4754-9924-81a8b4cebf0b@fd30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230904T150000Z
+LOCATION:2-314(2В)
+DTSTART:20230904T133000Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:65d34c14-7efd-4694-a308-0d9be080fd34@65d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231128T150000Z
+LOCATION:ГУК В-214
+DTSTART:20231128T133000Z
+SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
+UID:bb76b7bc-86bb-4924-8aee-9ddb3926c0a0@bb76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231214T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231214T151500Z
+SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
+UID:58acc537-242d-4f6d-8830-3cd9351f8a13@58ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230918T150000Z
+LOCATION:2-314(2В)
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:d3a8ec4e-d348-497e-9048-825a6a27625b@d3a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231115T131500Z
+LOCATION:ГУК А-404
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:97b53426-459e-46e2-9adf-9f59e28b8858@97b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231207T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231207T151500Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:5cf34473-8fb1-4e23-b3f0-98bb5f7a69d9@5cf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231109T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231109T170000Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:30cee264-9823-4068-b198-fdae25698412@30ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231129T131500Z
+LOCATION:ГУК А-404
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:16d1da90-bd07-427e-9438-082dabe40dc2@16d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231129T150000Z
+LOCATION:7-406
+DTSTART:20231129T133000Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:b3aa8b60-6b33-4329-a445-2334dfee45ec@b3aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231018T131500Z
+LOCATION:ГУК А-404
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:abea63a6-9b56-4a43-a223-c860b69a23df@abea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20231118T113000Z
+LOCATION:--каф.
+DTSTART:20231118T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:551dff00-aebb-4dd4-99e3-8504a5ae319d@551d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20230905T164500Z
+LOCATION:ГУК А-506
+DTSTART:20230905T151500Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:c01dc88a-5b98-42c6-bfac-5370d960fcc7@c01d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231220T131500Z
+LOCATION:ГУК А-404
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:19c1dbf7-44c9-4a00-bbd4-0c223b75f353@19c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231206T150000Z
+LOCATION:7-402
+DTSTART:20231206T133000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:b99a8fc9-ab30-47a7-9653-1ec5042b520f@b99a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231220T183000Z
+LOCATION:ГУК А-626
+DTSTART:20231220T170000Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:7dc981be-666b-4d98-a460-4006f0fdf22b@7dc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231211T150000Z
+LOCATION:2-314(2В)
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:bc35a798-3ba0-46ce-a0cd-bc29e99a0cad@bc35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20230921T164500Z
+LOCATION:ГУК А-624
+DTSTART:20230921T151500Z
+SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
+UID:c03561ec-bfab-4c5e-836b-13ed63d9278a@c035.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231213T131500Z
+LOCATION:ГУК А-404
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:24970cfe-ba7c-4d23-8341-773244723da6@2497.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231122T150000Z
+LOCATION:7-402
+DTSTART:20231122T133000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:4bb023bc-cb76-4e51-a12a-b00500551a58@4bb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231016T150000Z
+LOCATION:2-314(2В)
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:0cb23db8-ad29-44d6-9229-847928bca33b@0cb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231122T131500Z
+LOCATION:ГУК А-404
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:6df44b53-9c18-46a2-a895-44f716dea822@6df4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20230928T150000Z
+LOCATION:ГУК А-624
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
+UID:560e0d9a-41c8-47ef-9d59-b13fd4ccd31c@560e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231227T131500Z
+LOCATION:ГУК А-404
+DTSTART:20231227T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:e0d00b82-c94f-4384-978e-00285411502f@e0d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231228T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231228T133000Z
+SUMMARY:ЛК Аналитические методы динамики мехатронных систем
+UID:66be3351-af04-4b36-8cc8-0a42e5136ef5@66be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20230923T113000Z
+LOCATION:--каф.
+DTSTART:20230923T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:06bc7277-744f-4964-bd1b-8cd284e86740@06bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231004T131500Z
+LOCATION:ГУК А-404
+DTSTART:20231004T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:0867519d-ff92-42a8-9d66-0b12d617f2b4@0867.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231031T150000Z
+LOCATION:ГУК В-214
+DTSTART:20231031T133000Z
+SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
+UID:b23fd568-f518-401c-b995-e40bf8fd8491@b23f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20230913T131500Z
+LOCATION:ГУК А-404
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:0825a745-2df0-4967-9769-b3dc72d0260f@0825.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231108T131500Z
+LOCATION:ГУК А-404
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:621db852-198e-4f5c-89ac-b7b3c03ae99e@621d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20231202T113000Z
+LOCATION:--каф.
+DTSTART:20231202T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:8c2a48f2-456e-4809-b5ef-5e244b8f9ce0@8c2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231207T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231207T170000Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:0aff74ac-5352-419a-a6f1-08570261131c@0aff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231016T164500Z
+LOCATION:2-314(2В)
+DTSTART:20231016T151500Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:a4d583ee-40a5-4d73-9732-3b1a1b41879e@a4d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20230919T150000Z
+LOCATION:ГУК В-214
+DTSTART:20230919T133000Z
+SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
+UID:2ff1e759-a367-4efc-a88d-94c3fd43d928@2ff1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231114T150000Z
+LOCATION:ГУК В-214
+DTSTART:20231114T133000Z
+SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
+UID:b7eca6c7-9028-4c00-98b0-907d9462bf01@b7ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231024T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20231024T151500Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:e725eec7-e6a1-4e97-8a2b-39efc51b2831@e725.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231113T150000Z
+LOCATION:2-314(2В)
+DTSTART:20231113T133000Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:b2a92b0a-6b64-4356-82a7-1cdb2683aadb@b2a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231108T150000Z
+LOCATION:7-402
+DTSTART:20231108T133000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:7471bd5c-88cd-453f-a7e2-ac825f160e8b@7471.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231127T164500Z
+LOCATION:2-314(2В)
+DTSTART:20231127T151500Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:77d16641-d7f2-42a6-85a1-ca93d6120ded@77d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231012T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231012T170000Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:86d22cbb-b054-4bba-8a0a-fa3d1dbc94d4@86d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231116T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Аналитические методы динамики мехатронных систем
+UID:21cb2d67-085c-4469-b3e1-1e97050cc1fc@21cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230912T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20230912T133000Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:98aaf1a0-7425-4a55-8906-10d447d88709@98aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231011T183000Z
+LOCATION:ГУК А-626
+DTSTART:20231011T170000Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:44d77290-c015-4d64-8653-b395a56816c4@44d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231011T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231011T151500Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:8947dc86-658b-4614-b4bf-428482618671@8947.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231115T150000Z
+LOCATION:7-406
+DTSTART:20231115T133000Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:b75986c0-4de8-4805-8905-e5df17d42da2@b759.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231213T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231213T151500Z
+SUMMARY:ЛК Математические основы машинного обучения
+UID:839348e0-708c-4341-8a89-98dbaac6cb6b@8393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231025T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231025T151500Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:cc53abd7-03a0-476b-857d-27c6f7cebab6@cc53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231225T164500Z
+LOCATION:2-314(2В)
+DTSTART:20231225T151500Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:403879d7-4f1d-44b9-9397-1343ae549df2@4038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231212T164500Z
+LOCATION:ГУК А-506
+DTSTART:20231212T151500Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:7a1be3f9-c531-47ba-97b3-c3c63b9e626d@7a1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20230920T150000Z
+LOCATION:7-406
+DTSTART:20230920T133000Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:63f6cdda-fd24-4d3a-bbad-6b23848c181a@63f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231128T164500Z
+LOCATION:ГУК А-506
+DTSTART:20231128T151500Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:d1ea611f-7335-4cb9-a347-b1894f04a965@d1ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231213T150000Z
+LOCATION:7-406
+DTSTART:20231213T133000Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:773c9dbf-7189-4c25-844c-32960d5699a3@773c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20230928T183000Z
+LOCATION:ГУК А-624
+DTSTART:20230928T170000Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:12caa400-4817-4f6e-8b8c-51b47ec3b222@12ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20230914T164500Z
+LOCATION:ГУК А-624
+DTSTART:20230914T151500Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:de29818d-d7c7-4ceb-a4f5-c2564a9a4041@de29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231026T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
+UID:8a16f001-ec2c-41b7-85a3-50af0eaeecf4@8a16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231010T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20231010T151500Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:e1c57177-fa3c-4c67-9108-a444ce0019b2@e1c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231026T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231026T170000Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:6fab3144-83ed-4c05-9b6f-43ef7075ebd8@6fab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231109T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
+UID:c40e4f90-319a-4ed9-970e-d25b93407503@c40e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20230913T150000Z
+LOCATION:7-402
+DTSTART:20230913T133000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:1c9c9b4c-9c7b-42ae-840d-1efca09a3834@1c9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20230919T183000Z
+LOCATION:ГУК А-506
+DTSTART:20230919T170000Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:c3dcd872-bd01-4627-a7a5-8e9635d3fe41@c3dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231102T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Аналитические методы динамики мехатронных систем
+UID:e27fc5fe-88ec-40f8-b51a-361d931735ba@e27f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231123T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231123T151500Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:18db8f78-4e0e-42aa-8755-023a27d8fa9d@18db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20230919T164500Z
+LOCATION:ГУК А-506
+DTSTART:20230919T151500Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:94c83776-5a65-4931-ac89-1e40bba2cab9@94c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231114T183000Z
+LOCATION:ГУК А-506
+DTSTART:20231114T170000Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:f89f022e-9c03-4fbc-8662-beb7c57dd3b1@f89f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231002T164500Z
+LOCATION:2-314(2В)
+DTSTART:20231002T151500Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:e353b270-395f-4bd1-b23d-aa4b5d7bf642@e353.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20230914T183000Z
+LOCATION:ГУК А-624
+DTSTART:20230914T170000Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:7e7b3c0d-845e-4675-9cc5-e87f4208396a@7e7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20230907T150000Z
+LOCATION:ГУК А-624
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Аналитические методы динамики мехатронных систем
+UID:9f774fc1-3431-42e2-b344-10a7fb021c29@9f77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231123T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231123T170000Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:5e125c87-fe61-4012-a503-8a842c16f2a5@5e12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231221T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231221T170000Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:1e4fb194-dd7c-4cdd-9f6d-92201363e926@1e4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАСЯГИНА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231018T150000Z
+LOCATION:7-406
+DTSTART:20231018T133000Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:d44bb6b4-8537-42f7-9735-68679eea7bda@d44b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231024T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20231024T133000Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:10cb04d7-3d54-4ff8-afc3-0e87c37d2997@10cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20231108T183000Z
+LOCATION:ГУК А-626
+DTSTART:20231108T170000Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:2e6f034e-c368-4474-befa-827a02c610e8@2e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20230909T113000Z
+LOCATION:--каф.
+DTSTART:20230909T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:cb5d06eb-b321-448b-8d36-08236414415c@cb5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231019T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Аналитические методы динамики мехатронных систем
+UID:7b1f2b6f-3a6b-405c-9abb-925af4f9c13c@7b1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231116T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
+UID:dece76cc-8e47-4190-8204-426b33c908a9@dece.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20230914T150000Z
+LOCATION:ГУК А-624
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
+UID:bf064fbc-c3ac-4373-adf2-76257e712dbe@bf06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231030T164500Z
+LOCATION:2-314(2В)
+DTSTART:20231030T151500Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:931c063a-f851-40c7-85f3-84581912de62@931c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231010T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20231010T133000Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:7f733cad-b32b-450f-883a-0ac2319b558e@7f73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231030T150000Z
+LOCATION:2-314(2В)
+DTSTART:20231030T133000Z
+SUMMARY:ЛК Анализ информационных процессов и технологий
+UID:2dad2345-6af3-4b51-a242-8c65a6416e6e@2dad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231205T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20231205T151500Z
+SUMMARY:ЛР Анализ информационных процессов и технологий
+UID:547566f5-2115-4122-95e7-2b80fc9e64a5@5475.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20231007T091500Z
+LOCATION:2-301(2В)
+DTSTART:20231007T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:330d9ded-8cc9-4a4f-8512-3b1b022019f2@330d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231012T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Технология программирования на платформе .NET и её применение в мехатронике
+UID:92c7de67-a225-4f72-905a-77b4a22cdd31@92c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231017T183000Z
+LOCATION:ГУК А-506
+DTSTART:20231017T170000Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:38ffc7d2-d2b9-4283-9fc5-970910beaa76@38ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20231021T113000Z
+LOCATION:--каф.
+DTSTART:20231021T100000Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:d284a0b9-0ad7-4c79-a96a-846091a45a54@d284.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231017T150000Z
+LOCATION:ГУК В-214
+DTSTART:20231017T133000Z
+SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
+UID:407ee528-58d6-44ab-a52c-88fcaec92a60@407e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231005T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
+UID:fffbfdf2-28c6-4e01-9b3e-6664ed6d4336@fffb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20230905T150000Z
+LOCATION:ГУК В-214
+DTSTART:20230905T133000Z
+SUMMARY:ЛК Нейросетевые технологии искусственного интеллекта
+UID:3dfef065-8040-4268-83ec-8c5419b39ae6@3dfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231026T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231026T151500Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:3c7d5934-89ec-4d5b-a1a1-9c50a2b978df@3c7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мясниченко Олег Михайлович
+DTEND:20230913T164500Z
+LOCATION:ГУК А-626
+DTSTART:20230913T151500Z
+SUMMARY:ЛР Математические основы машинного обучения
+UID:0b1137ad-0dd2-455e-bead-02ae7e4e8343@0b11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холостова Ольга Владимировна
+DTEND:20231228T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231228T151500Z
+SUMMARY:ПЗ Аналитические методы динамики мехатронных систем
+UID:308a1e42-076d-466e-9702-04bea35684b3@308a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20230905T183000Z
+LOCATION:ГУК А-506
+DTSTART:20230905T170000Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:73e014de-4ffb-4d9c-a50d-ef2619e7cb04@73e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бахиркин Михаил Васильевич
+DTEND:20231202T091500Z
+LOCATION:2-301(2В)
+DTSTART:20231202T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:4bf0d2b1-66a0-4904-92f0-38842757bdad@4bf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чекина Евгения Алексеевна
+DTEND:20231012T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231012T151500Z
+SUMMARY:ЛР Технология программирования на платформе .NET и её применение в мехатронике
+UID:a8484883-4db0-4388-a88d-c490c40cdc28@a848.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231025T131500Z
+LOCATION:ГУК А-404
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:83185b99-873e-47d6-af53-0a18e226e283@8318.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Леонов Сергей Сергеевич
+DTEND:20231017T164500Z
+LOCATION:ГУК А-506
+DTSTART:20231017T151500Z
+SUMMARY:ЛР Нейросетевые технологии искусственного интеллекта
+UID:4b4795aa-8512-4d97-ab69-5ba3a91a7e13@4b47.org
 END:VEVENT
 END:VCALENDAR

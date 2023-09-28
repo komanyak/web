@@ -2,684 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231208T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231208T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:b105ff97-e24d-4258-917c-fc436994791c@b105.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231114T164500Z
-LOCATION:24-312
-DTSTART:20231114T151500Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:80aa85f4-5ec0-43c9-9c33-15288d349526@80aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230929T150000Z
-LOCATION:24-705
-DTSTART:20230929T133000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:d5efa5e7-be01-452e-8308-5feee2473620@d5ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231128T150000Z
-LOCATION:24-312
-DTSTART:20231128T133000Z
-SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
-UID:8a4f1ec2-2a06-4837-9031-a21c191bd3a3@8a4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231215T183000Z
-LOCATION:24-318А
-DTSTART:20231215T170000Z
-SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
-UID:e88e71a2-ab2a-4262-9cfc-2714aae047e9@e88e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231011T164500Z
-LOCATION:24-318А
-DTSTART:20231011T151500Z
-SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
-UID:cb601299-53a2-40b3-aed2-5d0d36ce2d24@cb60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231215T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231215T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:cdae5ffe-ebef-4155-8123-896aaf048ee7@cdae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231101T164500Z
-LOCATION:24-318А
-DTSTART:20231101T151500Z
-SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:bc7e4492-4f57-4126-ae89-4af5052e2e72@bc7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230915T164500Z
-LOCATION:24-705
-DTSTART:20230915T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:cad30c4e-9beb-46a9-a125-bca4c084fea4@cad3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230912T164500Z
-LOCATION:24-312
-DTSTART:20230912T151500Z
-SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
-UID:0d659985-78b5-44e8-a382-10620c57c78d@0d65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231020T150000Z
-LOCATION:24-318А
-DTSTART:20231020T133000Z
-SUMMARY:ЛК Эффективность космических комплексов
-UID:179e871f-37fe-427f-bdcf-bc4868cc8eb4@179e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230905T183000Z
-LOCATION:24-312
-DTSTART:20230905T170000Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:20e198b5-6ac2-46c4-b07d-bc2bb745ff38@20e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231024T164500Z
-LOCATION:24-312
-DTSTART:20231024T151500Z
-SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
-UID:ddf457fb-365d-4bbf-9b77-280c5bb43eb8@ddf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231031T150000Z
-LOCATION:24-312
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
-UID:a0325f53-ec2c-4f63-9225-6ef456bdbd9f@a032.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230926T183000Z
-LOCATION:24-312
-DTSTART:20230926T170000Z
-SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
-UID:67b66f6c-533b-486b-a03e-9c074a290ad2@67b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20230913T183000Z
-LOCATION:24-318А
-DTSTART:20230913T170000Z
-SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
-UID:a304e141-0d8f-4502-b227-d0ffc88464c9@a304.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230901T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230901T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:a20ca8d1-3c01-4d84-a124-375b49447690@a20c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230915T183000Z
-LOCATION:24-705
-DTSTART:20230915T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:207db17a-f07a-4f53-929c-221abaa358e6@207d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231003T150000Z
-LOCATION:24-312
-DTSTART:20231003T133000Z
-SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
-UID:13ca4fef-2b2b-40bf-8479-a45c1761eb96@13ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231222T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231222T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:d30623fa-528f-4e8f-87a3-a9dcbd06f04b@d306.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231226T150000Z
-LOCATION:24-312
-DTSTART:20231226T133000Z
-SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
-UID:e3745a22-2370-4cf0-bf62-600fc0da5d57@e374.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231013T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231013T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:d21c4e50-8ced-41ee-b8fd-2bce8c1380b1@d21c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230901T183000Z
-LOCATION:24-705
-DTSTART:20230901T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:37b49125-8f3a-4e6e-ba24-43131eeabd65@37b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230919T150000Z
-LOCATION:24-312
-DTSTART:20230919T133000Z
-SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
-UID:085b3056-35e1-4c8e-9f40-19d0c9b92749@085b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20230922T164500Z
-LOCATION:24-318А
-DTSTART:20230922T151500Z
-SUMMARY:ЛР Эффективность космических комплексов
-UID:1d9aaa8b-1137-44d5-b790-a3a12964ba61@1d9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230906T164500Z
-LOCATION:24-318А
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:30ad4edc-f770-4393-b133-b5f5a7c7244e@30ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231201T164500Z
-LOCATION:24-318А
-DTSTART:20231201T151500Z
-SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
-UID:941f7e61-2db6-4079-af06-32de0b506cb5@941f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20230908T183000Z
-LOCATION:24-318А
-DTSTART:20230908T170000Z
-SUMMARY:ЛР Эффективность космических комплексов
-UID:9b3f5dd5-dbb6-4c9f-b43e-da51c44e6562@9b3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231024T183000Z
-LOCATION:24-312
-DTSTART:20231024T170000Z
-SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
-UID:c9b89517-888e-4f7d-9154-6acb3b83f782@c9b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230929T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230929T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:7c7265ba-5566-49c9-9617-95108dbaf22f@7c72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231006T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231006T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:e6fb546d-a614-402a-a514-3f39a1eff824@e6fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231201T150000Z
-LOCATION:24-318А
-DTSTART:20231201T133000Z
-SUMMARY:ЛК Эффективность космических комплексов
-UID:cfc50896-e241-4028-a3c3-dada238a77bb@cfc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231212T183000Z
-LOCATION:24-312
-DTSTART:20231212T170000Z
-SUMMARY:ПЗ Эффективность космических комплексов
-UID:a113643f-421d-4a7a-8bda-4185beee5cc4@a113.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231101T183000Z
-LOCATION:24-318А
-DTSTART:20231101T170000Z
-SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:ff186a15-4e36-4243-b059-a57a8438539b@ff18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231103T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231103T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:73a7a350-56eb-4171-befe-48e392fcbb9d@73a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230912T183000Z
-LOCATION:24-312
-DTSTART:20230912T170000Z
-SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
-UID:1437d762-c044-4c9b-bcac-77ff48d911be@1437.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Усовик Игорь Вячеславович
 DTEND:20231006T164500Z
 LOCATION:24-318А
 DTSTART:20231006T151500Z
 SUMMARY:ЛР Эффективность космических комплексов
-UID:af8612d4-cee0-46d5-9fe3-52644554b8d5@af86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231031T183000Z
-LOCATION:24-312
-DTSTART:20231031T170000Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:8ee78a89-77db-4021-a433-7e769070f15b@8ee7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231115T164500Z
-LOCATION:24-318А
-DTSTART:20231115T151500Z
-SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:2d98e4ad-2d81-49be-9258-5a5bfd822ff8@2d98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20230922T150000Z
-LOCATION:24-318А
-DTSTART:20230922T133000Z
-SUMMARY:ЛК Эффективность космических комплексов
-UID:497ff031-2ba0-4215-adee-f975cd3e5c78@497f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231020T183000Z
-LOCATION:24-318А
-DTSTART:20231020T170000Z
-SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
-UID:b8975e8f-5f9d-4fec-affc-520be5e6803e@b897.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231003T164500Z
-LOCATION:24-312
-DTSTART:20231003T151500Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:1f450358-1962-4ff1-9e49-c8495e89d0b6@1f45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230906T183000Z
-LOCATION:24-318А
-DTSTART:20230906T170000Z
-SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:18a49918-1e77-4bc5-8b7c-4fb0ba793d54@18a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20230927T164500Z
-LOCATION:24-318А
-DTSTART:20230927T151500Z
-SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
-UID:efcd8fe7-782c-4ec6-9da5-201d2af7401f@efcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230919T183000Z
-LOCATION:24-312
-DTSTART:20230919T170000Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:7ed7e19e-cd34-475d-8161-4cd8bc9df847@7ed7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231004T183000Z
-LOCATION:24-318А
-DTSTART:20231004T170000Z
-SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:2b1901d4-4fd0-4a34-a0e7-327b65a964e8@2b19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231013T183000Z
-LOCATION:24-705
-DTSTART:20231013T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:5fa32dcb-2040-49d3-a872-3aef2a0b8f20@5fa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231117T150000Z
-LOCATION:24-318А
-DTSTART:20231117T133000Z
-SUMMARY:ЛК Эффективность космических комплексов
-UID:84644eff-cbf3-4726-a678-92b8d996ab18@8464.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230905T150000Z
-LOCATION:24-312
-DTSTART:20230905T133000Z
-SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
-UID:d3ee3323-8527-4c9a-b79b-9d4d44316f44@d3ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231018T164500Z
-LOCATION:24-318А
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:1236cfa4-965a-427c-ba67-9ff79551af7b@1236.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231110T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231110T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:fee748c6-4931-465e-8a55-9e7e91734e69@fee7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20230913T164500Z
-LOCATION:24-318А
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
-UID:f725880f-3006-4575-9138-92094c83581d@f725.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230919T164500Z
-LOCATION:24-312
-DTSTART:20230919T151500Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:0fd84b0e-8c98-4016-8145-56900b8b186d@0fd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230901T164500Z
-LOCATION:24-705
-DTSTART:20230901T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:88449375-66cc-40b3-820e-70c60fff5c8b@8844.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231215T164500Z
-LOCATION:24-318А
-DTSTART:20231215T151500Z
-SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
-UID:82aebbbd-3bae-440e-973f-929a5c8fbed8@82ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231128T164500Z
-LOCATION:24-312
-DTSTART:20231128T151500Z
-SUMMARY:ПЗ Эффективность космических комплексов
-UID:50bbde62-91fc-409a-a4eb-31a9f9d0b3a0@50bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231128T183000Z
-LOCATION:24-312
-DTSTART:20231128T170000Z
-SUMMARY:ПЗ Эффективность космических комплексов
-UID:6a1ac9b2-a456-43a2-9712-68658a614b3d@6a1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231027T183000Z
-LOCATION:24-705
-DTSTART:20231027T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:ac933a40-5e97-4362-822b-38e927f0b7aa@ac93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231013T164500Z
-LOCATION:24-705
-DTSTART:20231013T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:b2d883ff-e026-4a77-bb5e-158aecb0a106@b2d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231107T183000Z
-LOCATION:24-312
-DTSTART:20231107T170000Z
-SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
-UID:f833e6cb-cba0-4dac-9753-267baf421a9f@f833.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230929T164500Z
-LOCATION:24-705
-DTSTART:20230929T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:898091f7-ada5-46e8-853e-f350597986b6@8980.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231212T150000Z
-LOCATION:24-312
-DTSTART:20231212T133000Z
-SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
-UID:2f41b66a-1cbe-4944-9bad-cf109220d916@2f41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230908T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230908T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:3cc00e26-5ddc-4385-8765-f78850232d99@3cc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230915T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230915T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:d7222476-e2ce-463b-8d80-5384b5be45a2@d722.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230905T164500Z
-LOCATION:24-312
-DTSTART:20230905T151500Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:d9b4179a-e2b9-46e8-8de7-477efbf2fc4c@d9b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230922T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230922T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:39a41f52-4871-4315-bb34-f260792a4501@39a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231017T164500Z
-LOCATION:24-312
-DTSTART:20231017T151500Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:dfdc1339-3140-4a74-95ee-4081423efb95@dfdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20230908T150000Z
-LOCATION:24-318А
-DTSTART:20230908T133000Z
-SUMMARY:ЛК Эффективность космических комплексов
-UID:70150c9d-7f97-4a47-a6b5-a0afcf8980da@7015.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231006T183000Z
-LOCATION:24-318А
-DTSTART:20231006T170000Z
-SUMMARY:ЛР Эффективность космических комплексов
-UID:1869d39c-9941-4bb0-9080-93ff0670ad03@1869.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231017T183000Z
-LOCATION:24-312
-DTSTART:20231017T170000Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:2a5bc022-a7da-4ca6-b5f5-6abb8915e41e@2a5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231215T150000Z
-LOCATION:24-318А
-DTSTART:20231215T133000Z
-SUMMARY:ЛК Эффективность космических комплексов
-UID:022a2227-3bbc-445f-8386-4cf92640a385@022a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231004T164500Z
-LOCATION:24-318А
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:c1426705-4155-4360-81ff-e1e11eadd335@c142.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231003T183000Z
-LOCATION:24-312
-DTSTART:20231003T170000Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:fd914ac1-8e77-4bcd-93d7-15efb4b5eced@fd91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231013T150000Z
-LOCATION:24-705
-DTSTART:20231013T133000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:eae4af1a-1660-4264-b6b2-a2af02b97589@eae4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231107T164500Z
-LOCATION:24-312
-DTSTART:20231107T151500Z
-SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
-UID:0d2e3ef3-11a0-4091-ad9a-98ce1bd12184@0d2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231018T183000Z
-LOCATION:24-318А
-DTSTART:20231018T170000Z
-SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:d4bbf447-f921-4148-aa18-a6c7b292ab38@d4bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231124T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231124T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:58aea47b-ccff-4099-8656-3bf846ab81a3@58ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231114T150000Z
-LOCATION:24-312
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
-UID:04f26b67-2fab-425f-a494-531c54b70446@04f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231010T164500Z
-LOCATION:24-312
-DTSTART:20231010T151500Z
-SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
-UID:b01d8a19-cf67-4503-91a1-027efb98f825@b01d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231115T183000Z
-LOCATION:24-318А
-DTSTART:20231115T170000Z
-SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:f63c7c46-45f8-46e8-bb25-5290af875919@f63c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231212T164500Z
-LOCATION:24-312
-DTSTART:20231212T151500Z
-SUMMARY:ПЗ Эффективность космических комплексов
-UID:c81baa73-126c-4b2d-aac7-be07a69da460@c81b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230926T164500Z
-LOCATION:24-312
-DTSTART:20230926T151500Z
-SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
-UID:200cd599-4285-4d27-bccc-197a21852252@200c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231020T164500Z
-LOCATION:24-318А
-DTSTART:20231020T151500Z
-SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
-UID:f03f069c-0ea3-4c17-9fff-93bc64156c4b@f03f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230920T164500Z
-LOCATION:24-318А
-DTSTART:20230920T151500Z
-SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:00df0d3b-3adb-4292-a6dc-2127a311cc03@00df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231010T183000Z
-LOCATION:24-312
-DTSTART:20231010T170000Z
-SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
-UID:6e46abbc-cb34-477d-9ddf-27fa814c6668@6e46.org
+UID:539a5762-1fa0-4547-8a32-061581014b81@539a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
@@ -687,87 +15,87 @@ DTEND:20231027T131500Z
 LOCATION:ГУК А-507а
 DTSTART:20231027T114500Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:54fa4f2e-7c7e-4793-964a-eee23801c497@54fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231017T150000Z
-LOCATION:24-312
-DTSTART:20231017T133000Z
-SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
-UID:9b43b1a0-7e45-4c18-a003-64e2b607c29c@9b43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231027T164500Z
-LOCATION:24-705
-DTSTART:20231027T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:a5d14305-78ec-4941-b5ff-66559ba6f73c@a5d1.org
+UID:c14f9048-d9ea-4182-8364-79c106da2a4b@c14f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231201T183000Z
-LOCATION:24-318А
-DTSTART:20231201T170000Z
-SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
-UID:3e54181d-fce2-4649-9425-6bcb59090ff7@3e54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231031T164500Z
+DTEND:20231128T183000Z
 LOCATION:24-312
-DTSTART:20231031T151500Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:57e87511-09d9-43c6-b65b-48890d1e81e3@57e8.org
+DTSTART:20231128T170000Z
+SUMMARY:ПЗ Эффективность космических комплексов
+UID:19eca01e-891f-4ae0-9346-df969efa6612@19ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231201T131500Z
+DTEND:20231124T131500Z
 LOCATION:ГУК А-507а
-DTSTART:20231201T114500Z
+DTSTART:20231124T114500Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:28f61168-b282-45e0-b8d5-8ad69cb34b7a@28f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231114T183000Z
-LOCATION:24-312
-DTSTART:20231114T170000Z
-SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:1b2ef945-fc64-45d1-8b56-31982d1baf7c@1b2e.org
+UID:f91ba818-6d4b-436f-a896-5a71cf9a3836@f91b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231117T164500Z
+DTEND:20230908T183000Z
 LOCATION:24-318А
-DTSTART:20231117T151500Z
-SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
-UID:96fcfe8d-1b60-4018-abe9-7215cf5e1546@96fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20230922T183000Z
-LOCATION:24-318А
-DTSTART:20230922T170000Z
+DTSTART:20230908T170000Z
 SUMMARY:ЛР Эффективность космических комплексов
-UID:b4a2f4d1-ed04-4ec0-800f-30fc898c0750@b4a2.org
+UID:424a6203-0943-44d7-96b9-cb62eea9642c@424a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20230908T150000Z
+LOCATION:24-318А
+DTSTART:20230908T133000Z
+SUMMARY:ЛК Эффективность космических комплексов
+UID:9fcab91c-f3e7-4fbb-b53a-b15dd25ae17b@9fca.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Старков Александр Владимирович
-DTEND:20230920T183000Z
+DTEND:20231024T183000Z
+LOCATION:24-312
+DTSTART:20231024T170000Z
+SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
+UID:87e43f3e-e826-49fe-9afb-3ffc370b1b77@87e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231018T183000Z
 LOCATION:24-318А
-DTSTART:20230920T170000Z
+DTSTART:20231018T170000Z
 SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
-UID:8fbc894a-e6a9-492e-b495-a74ab0ea401b@8fbc.org
+UID:bd3ad3e8-2398-4e4e-8d23-7356519c5153@bd3a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230901T150000Z
+DTEND:20230901T183000Z
 LOCATION:24-705
-DTSTART:20230901T133000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:388a9eac-78ec-4277-b117-76a783475c2e@388a.org
+DTSTART:20230901T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:577665e1-11b5-447e-b2f9-31649d0d20b0@5776.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231006T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231006T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:d7f5ae32-7fe1-48d9-90f2-f1eff214e0b3@d7f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231013T183000Z
+LOCATION:24-705
+DTSTART:20231013T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:bcf8bcb9-4f9f-4c85-9b28-70e47cdabec3@bcf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231024T164500Z
+LOCATION:24-312
+DTSTART:20231024T151500Z
+SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
+UID:98f92fdc-a171-4d95-b6c4-5ed9c46c82ca@98f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
@@ -775,15 +103,63 @@ DTEND:20231020T131500Z
 LOCATION:ГУК А-507а
 DTSTART:20231020T114500Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:c3cf1e6e-512f-4738-b3e9-308a36f3733b@c3cf.org
+UID:9031d453-0eb3-4049-9c19-7f0cdadd9d6a@9031.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231110T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231110T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:01934c06-b61d-4a09-8185-efd745bb1e15@0193.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230929T183000Z
+DTEND:20230915T183000Z
 LOCATION:24-705
-DTSTART:20230929T170000Z
+DTSTART:20230915T170000Z
 SUMMARY:ЛР Интеллектуальные системы
-UID:ef237da1-7c62-4eb6-8e04-246d8166dec5@ef23.org
+UID:20b74b26-d0b2-4083-88c8-9d31c5c553eb@20b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20230922T164500Z
+LOCATION:24-318А
+DTSTART:20230922T151500Z
+SUMMARY:ЛР Эффективность космических комплексов
+UID:5bea2aa3-c56e-4310-bc0c-cc7972170127@5bea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231101T183000Z
+LOCATION:24-318А
+DTSTART:20231101T170000Z
+SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:78fa53b8-fe7f-448a-b89e-1d065b2c7b43@78fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231215T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231215T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:f982405b-1db8-4aa8-bd13-a58fef698a8c@f982.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231114T183000Z
+LOCATION:24-312
+DTSTART:20231114T170000Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:ce98eecd-c7c5-4f74-bcf2-6f648bb2d790@ce98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231117T164500Z
+LOCATION:24-318А
+DTSTART:20231117T151500Z
+SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
+UID:7e01af15-82ee-47da-86dc-62b55fe6c118@7e01.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Усовик Игорь Вячеславович
@@ -791,63 +167,15 @@ DTEND:20230908T164500Z
 LOCATION:24-318А
 DTSTART:20230908T151500Z
 SUMMARY:ЛР Эффективность космических комплексов
-UID:953ff854-747b-472b-83e5-fa7662fb09f0@953f.org
+UID:f00fad57-2913-4c93-9831-4073d6196870@f00f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231025T164500Z
-LOCATION:24-318А
-DTSTART:20231025T151500Z
-SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
-UID:b563e030-de7f-43f0-b9f3-bf830646c4a5@b563.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231117T183000Z
-LOCATION:24-318А
-DTSTART:20231117T170000Z
-SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
-UID:4bb97a16-cab7-4844-b31c-ed975f4d0c41@4bb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231006T150000Z
-LOCATION:24-318А
-DTSTART:20231006T133000Z
-SUMMARY:ЛК Эффективность космических комплексов
-UID:784d033d-2771-46c3-bb46-f28230abd487@784d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230915T150000Z
-LOCATION:24-705
-DTSTART:20230915T133000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:b96e8aa6-ea37-4319-9801-4915c97934a6@b96e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231027T150000Z
-LOCATION:24-705
-DTSTART:20231027T133000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:26ae3eb9-f3cb-457c-b0ef-318769d11f3c@26ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20230927T183000Z
-LOCATION:24-318А
-DTSTART:20230927T170000Z
-SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
-UID:75cd537e-57b4-47e6-901e-a7ce9cb1c479@75cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Усовик Игорь Вячеславович
-DTEND:20231025T183000Z
-LOCATION:24-318А
-DTSTART:20231025T170000Z
-SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
-UID:967d94c5-746f-4aac-84df-c7a95a592caf@967d.org
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230919T164500Z
+LOCATION:24-312
+DTSTART:20230919T151500Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:e371d8ec-8879-4227-9875-075a5d1c0314@e371.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Усовик Игорь Вячеславович
@@ -855,7 +183,679 @@ DTEND:20231011T183000Z
 LOCATION:24-318А
 DTSTART:20231011T170000Z
 SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
-UID:779f4d7a-ef9a-4630-89a1-fc9d180bc8ce@779f.org
+UID:5bfe4938-45db-4470-90ab-f36d97dc0b96@5bfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231103T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231103T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:f49b29d9-22c9-4f3b-97a8-db7360772f73@f49b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230915T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230915T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:c58b0436-cb39-4ebb-98ba-8c694bc6da19@c58b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231010T183000Z
+LOCATION:24-312
+DTSTART:20231010T170000Z
+SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
+UID:af023f20-e02f-4892-a126-c3b8cb3ae6a2@af02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230908T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230908T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:278cf039-979a-4732-998a-066b559220e8@278c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231222T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231222T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:136ddd36-2b4b-4633-9f17-1c1a238be9dd@136d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231115T183000Z
+LOCATION:24-318А
+DTSTART:20231115T170000Z
+SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:859995c2-5efc-452d-9744-a44301ff55d8@8599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231201T150000Z
+LOCATION:24-318А
+DTSTART:20231201T133000Z
+SUMMARY:ЛК Эффективность космических комплексов
+UID:74dc445b-95f9-4d13-90bf-024d73a92c27@74dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230920T183000Z
+LOCATION:24-318А
+DTSTART:20230920T170000Z
+SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:0fa38c8f-34b4-4fa1-8019-607301868706@0fa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231215T164500Z
+LOCATION:24-318А
+DTSTART:20231215T151500Z
+SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
+UID:501dd5f7-fa75-46dd-9345-f7ff1ace8b04@501d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231020T164500Z
+LOCATION:24-318А
+DTSTART:20231020T151500Z
+SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
+UID:b5fb2273-ce2f-4cd3-b59b-509cd02f7622@b5fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231013T150000Z
+LOCATION:24-705
+DTSTART:20231013T133000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:6be22624-beb4-496e-a4f4-b8996d394e1c@6be2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230915T164500Z
+LOCATION:24-705
+DTSTART:20230915T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:b60ccf8c-d92a-4c8e-aa68-89bc891e2a21@b60c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231017T150000Z
+LOCATION:24-312
+DTSTART:20231017T133000Z
+SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
+UID:cfa30737-a27c-498e-85d0-c392a8abd32b@cfa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20230922T150000Z
+LOCATION:24-318А
+DTSTART:20230922T133000Z
+SUMMARY:ЛК Эффективность космических комплексов
+UID:145bef3a-f565-49eb-8600-bbf7815782fc@145b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231101T164500Z
+LOCATION:24-318А
+DTSTART:20231101T151500Z
+SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:ea905090-e44c-4a59-883a-62fec58d7fc0@ea90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231201T183000Z
+LOCATION:24-318А
+DTSTART:20231201T170000Z
+SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
+UID:e3ee3d62-c52d-4ef4-9346-5be969f0d959@e3ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230915T150000Z
+LOCATION:24-705
+DTSTART:20230915T133000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:f95507be-0ae5-4616-a0bd-d3bf96583f9e@f955.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231114T150000Z
+LOCATION:24-312
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
+UID:f59a186d-0d28-4d6a-b5ee-60dfe2bfe085@f59a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230905T164500Z
+LOCATION:24-312
+DTSTART:20230905T151500Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:48141a18-5838-45c7-aa93-b81a78a5d7da@4814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231013T164500Z
+LOCATION:24-705
+DTSTART:20231013T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:dc5b54d3-856c-4107-9786-bfd043f23607@dc5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230919T183000Z
+LOCATION:24-312
+DTSTART:20230919T170000Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:be5b3b63-8e22-49cf-8c24-74a0e09fa1ab@be5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231003T183000Z
+LOCATION:24-312
+DTSTART:20231003T170000Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:a223d5e2-5ff5-4510-bc92-8caf3d94c495@a223.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231017T164500Z
+LOCATION:24-312
+DTSTART:20231017T151500Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:d11d4ec9-e200-4280-8840-bf53646abe7f@d11d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231027T183000Z
+LOCATION:24-705
+DTSTART:20231027T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:98d5c13f-8d36-4c98-a624-d2df8f279cc9@98d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231004T164500Z
+LOCATION:24-318А
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:cfbb4617-86f3-4997-b4f5-f3c976607651@cfbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20230922T183000Z
+LOCATION:24-318А
+DTSTART:20230922T170000Z
+SUMMARY:ЛР Эффективность космических комплексов
+UID:41e18d4d-efb9-4809-a770-8927531c5f00@41e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231208T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231208T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:5bec420e-c3e2-4627-b862-dc9c45604d1b@5bec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230926T164500Z
+LOCATION:24-312
+DTSTART:20230926T151500Z
+SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
+UID:3cb8f831-a330-499d-9f57-59a1b82b97d3@3cb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231025T183000Z
+LOCATION:24-318А
+DTSTART:20231025T170000Z
+SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
+UID:aed6bebd-e27d-45f0-bb95-57d1a07da190@aed6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231117T183000Z
+LOCATION:24-318А
+DTSTART:20231117T170000Z
+SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
+UID:ef0de473-cf26-4154-b6a6-c191aef57311@ef0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231018T164500Z
+LOCATION:24-318А
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:2baca446-5019-4c2a-b230-0e3378aa10e7@2bac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231013T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231013T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:75c822ec-9baf-4d6c-b112-9e7425d093ab@75c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20230913T164500Z
+LOCATION:24-318А
+DTSTART:20230913T151500Z
+SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
+UID:db2f4f0c-1635-4f65-a7c4-dcd60489a515@db2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230901T164500Z
+LOCATION:24-705
+DTSTART:20230901T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:e6080ec3-e54a-4376-9074-abbc8e2c1ab4@e608.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231003T164500Z
+LOCATION:24-312
+DTSTART:20231003T151500Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:3439fc86-56f4-4db7-856b-d8b3abee1cd6@3439.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230912T164500Z
+LOCATION:24-312
+DTSTART:20230912T151500Z
+SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
+UID:09229e2b-2866-4768-9dfc-0d2bb80f6385@0922.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231115T164500Z
+LOCATION:24-318А
+DTSTART:20231115T151500Z
+SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:2d5e1fa7-d712-49eb-a422-ab57ba7944df@2d5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230905T150000Z
+LOCATION:24-312
+DTSTART:20230905T133000Z
+SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
+UID:719a96d4-f396-441c-96c1-22a330b98057@719a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231215T150000Z
+LOCATION:24-318А
+DTSTART:20231215T133000Z
+SUMMARY:ЛК Эффективность космических комплексов
+UID:092cb33d-ec55-40bb-99c5-ac03ad5423e9@092c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230906T164500Z
+LOCATION:24-318А
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:9a7bf8b2-8993-4619-8e02-35f760b629f2@9a7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230929T150000Z
+LOCATION:24-705
+DTSTART:20230929T133000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:73df9f84-d59d-49a9-8a96-0c956f68341f@73df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231004T183000Z
+LOCATION:24-318А
+DTSTART:20231004T170000Z
+SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:1a0ce020-a994-4836-801b-618359120740@1a0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230906T183000Z
+LOCATION:24-318А
+DTSTART:20230906T170000Z
+SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:5752d56d-65ca-4424-b9fb-426f4885ccfa@5752.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230922T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230922T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:f1d71dde-fef1-42ba-b286-abfb50c4d702@f1d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230929T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230929T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:77d908ff-d0e0-407e-811d-36a9edb382a4@77d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230901T150000Z
+LOCATION:24-705
+DTSTART:20230901T133000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:5a8ccc01-4387-4b33-b50f-3a701e6b4e79@5a8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231020T183000Z
+LOCATION:24-318А
+DTSTART:20231020T170000Z
+SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
+UID:a7e3c01b-6716-43f7-9bb8-85daea8a7f4b@a7e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20230927T164500Z
+LOCATION:24-318А
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
+UID:d16a0811-1bc5-457f-8641-1eb19ad77e5a@d16a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231010T164500Z
+LOCATION:24-312
+DTSTART:20231010T151500Z
+SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
+UID:aa341fdb-dd39-470a-bcd4-418342dc0435@aa34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231201T164500Z
+LOCATION:24-318А
+DTSTART:20231201T151500Z
+SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
+UID:cb516344-c865-463a-a813-ed2deeb9baa8@cb51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231020T150000Z
+LOCATION:24-318А
+DTSTART:20231020T133000Z
+SUMMARY:ЛК Эффективность космических комплексов
+UID:35d82edd-3b89-4c52-a5ea-07e41710658d@35d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231011T164500Z
+LOCATION:24-318А
+DTSTART:20231011T151500Z
+SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
+UID:e0c443dc-376d-44f0-b75d-69fa35277a48@e0c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231114T164500Z
+LOCATION:24-312
+DTSTART:20231114T151500Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:970ba18e-c2ff-491e-b590-efc2e7f87760@970b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231027T164500Z
+LOCATION:24-705
+DTSTART:20231027T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:323f5824-3249-4865-9a5c-33f6d75a7ce8@323f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231003T150000Z
+LOCATION:24-312
+DTSTART:20231003T133000Z
+SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
+UID:74444770-b6a5-4478-aee0-ac29fb20eb30@7444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231107T183000Z
+LOCATION:24-312
+DTSTART:20231107T170000Z
+SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
+UID:2e50e14f-20fa-478f-b8e8-0b9b6947e713@2e50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231201T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231201T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:95baf855-1652-4e2d-a039-3857f7afdcc7@95ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230919T150000Z
+LOCATION:24-312
+DTSTART:20230919T133000Z
+SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
+UID:3026f59d-fdcc-4526-abaf-b4a67268e755@3026.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230905T183000Z
+LOCATION:24-312
+DTSTART:20230905T170000Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:d4f2e51c-0cd4-4a9d-884c-341d442d4ca7@d4f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231226T150000Z
+LOCATION:24-312
+DTSTART:20231226T133000Z
+SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
+UID:d966010b-d83c-4f6b-bbf1-4e672ff6009d@d966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230901T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230901T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:dfb738b0-273d-4d50-8de2-beeec1e1c5cf@dfb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231006T183000Z
+LOCATION:24-318А
+DTSTART:20231006T170000Z
+SUMMARY:ЛР Эффективность космических комплексов
+UID:6f394e97-f5e7-493b-a032-d0fd050fed37@6f39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230929T164500Z
+LOCATION:24-705
+DTSTART:20230929T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:bd653842-5dd2-4909-b407-9d3f929a0e73@bd65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231006T150000Z
+LOCATION:24-318А
+DTSTART:20231006T133000Z
+SUMMARY:ЛК Эффективность космических комплексов
+UID:ec2349cf-9535-4bcf-98a0-77a4ecef02e9@ec23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230920T164500Z
+LOCATION:24-318А
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:bb4a192d-5bf5-4293-8170-3acbefb55755@bb4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231128T150000Z
+LOCATION:24-312
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
+UID:889c128e-37fc-495e-9abd-f0b1745dc16b@889c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231128T164500Z
+LOCATION:24-312
+DTSTART:20231128T151500Z
+SUMMARY:ПЗ Эффективность космических комплексов
+UID:f8fc555b-3241-4f0c-ae7a-3211596040be@f8fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231212T183000Z
+LOCATION:24-312
+DTSTART:20231212T170000Z
+SUMMARY:ПЗ Эффективность космических комплексов
+UID:9baef2cc-d660-4a0c-9b65-49b8ca890ba7@9bae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230926T183000Z
+LOCATION:24-312
+DTSTART:20230926T170000Z
+SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
+UID:de1e0759-6955-484f-8d4f-fa671ee25321@de1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231212T150000Z
+LOCATION:24-312
+DTSTART:20231212T133000Z
+SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
+UID:226c8f6f-2158-45b0-a9b5-374c133c62af@226c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231027T150000Z
+LOCATION:24-705
+DTSTART:20231027T133000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:eb96dff4-6aa4-44fa-9b57-7e19e0d87a84@eb96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231031T183000Z
+LOCATION:24-312
+DTSTART:20231031T170000Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:e44115a3-2682-4a9a-ae52-2a28bbe30c8e@e441.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20230927T183000Z
+LOCATION:24-318А
+DTSTART:20230927T170000Z
+SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
+UID:9b722340-8d63-4aec-9f81-205fa66bf80c@9b72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230929T183000Z
+LOCATION:24-705
+DTSTART:20230929T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:a6c04882-992a-4a11-948c-09e2045555f5@a6c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230912T183000Z
+LOCATION:24-312
+DTSTART:20230912T170000Z
+SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
+UID:33e90c43-824e-4f6d-80de-8654ee3cdc2f@33e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231031T150000Z
+LOCATION:24-312
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Научный семинар по системному анализу и управлению космическими комплексами
+UID:945faf25-0916-406a-be06-e338f6ace71c@945f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231107T164500Z
+LOCATION:24-312
+DTSTART:20231107T151500Z
+SUMMARY:ЛР Компьютерные технологии в управлении космическими комплексами
+UID:00a69e2f-3922-4971-b8f9-78479f71abbd@00a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231017T183000Z
+LOCATION:24-312
+DTSTART:20231017T170000Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:e3f7f2fc-ac08-469a-8ed3-5544bc8edcd8@e3f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231025T164500Z
+LOCATION:24-318А
+DTSTART:20231025T151500Z
+SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
+UID:2a6f5c4b-a1f6-4fb0-9d3e-968ccaaec589@2a6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231215T183000Z
+LOCATION:24-318А
+DTSTART:20231215T170000Z
+SUMMARY:ЛР Современные проблемы анализа и синтеза космических систем
+UID:876c69e7-7e99-4159-b607-d16ad1bfe18a@876c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20230913T183000Z
+LOCATION:24-318А
+DTSTART:20230913T170000Z
+SUMMARY:ЛК Современные проблемы анализа и синтеза космических систем
+UID:29b61ce4-a318-4627-b6df-b7b0b9c1639a@29b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231212T164500Z
+LOCATION:24-312
+DTSTART:20231212T151500Z
+SUMMARY:ПЗ Эффективность космических комплексов
+UID:e21e33d5-b2f1-43cf-8a8f-9b692e9a75dd@e21e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231031T164500Z
+LOCATION:24-312
+DTSTART:20231031T151500Z
+SUMMARY:ПЗ Методы оптимизации в задачах системного анализа и управления космическими комплексами
+UID:6113f71c-2b7c-4f5f-887c-bacca3c6648f@6113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Усовик Игорь Вячеславович
+DTEND:20231117T150000Z
+LOCATION:24-318А
+DTSTART:20231117T133000Z
+SUMMARY:ЛК Эффективность космических комплексов
+UID:42107b9d-6ede-419e-b613-0626e009bf13@4210.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
@@ -863,6 +863,6 @@ DTEND:20231117T131500Z
 LOCATION:ГУК А-507а
 DTSTART:20231117T114500Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:8c98301a-4605-4dd4-b821-893158fba8fa@8c98.org
+UID:aef7b1ea-5801-4367-b99f-20294b6af5ac@aef7.org
 END:VEVENT
 END:VCALENDAR

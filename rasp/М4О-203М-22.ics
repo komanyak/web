@@ -3,339 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231124T073000Z
+DTEND:20231020T091500Z
 LOCATION:24Б-214
-DTSTART:20231124T060000Z
-SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
-UID:0235ee5c-9bad-4e04-9ebd-2b82fc3a8c8b@0235.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231024T091500Z
-LOCATION:24Б-507
-DTSTART:20231024T074500Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:d7a66cd4-382b-4368-a8e9-654a710bc184@d7a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231117T073000Z
-LOCATION:24Б-214
-DTSTART:20231117T060000Z
-SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
-UID:96a3fd2f-18ef-4ddc-ba87-c57e97b42e10@96a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231003T113000Z
-LOCATION:24Б-507
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:bf958da2-b8c4-406a-be99-4c6d5ee5ba1e@bf95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230919T113000Z
-LOCATION:24Б-507
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:df3e75a9-ba0c-471f-884b-ec2e13347283@df3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20230904T091500Z
-LOCATION:24Б-508
-DTSTART:20230904T074500Z
-SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:9a7b05ba-29e3-4494-bb4a-d5645290f853@9a7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231110T073000Z
-LOCATION:24Б-214
-DTSTART:20231110T060000Z
-SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
-UID:58402522-aef8-4371-9789-4032b19e153c@5840.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231114T091500Z
-LOCATION:24Б-507
-DTSTART:20231114T074500Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:6813d556-b1a0-4928-9190-695647543cdc@6813.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20230904T113000Z
-LOCATION:24Б-508
-DTSTART:20230904T100000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:6a6c4cb7-a5bc-4cef-b2db-804790079be1@6a6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231006T073000Z
-LOCATION:24Б-214
-DTSTART:20231006T060000Z
-SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:c8bbd3a4-1d2d-4bbf-934d-01f012f0d24a@c8bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20230908T073000Z
-LOCATION:24Б-214
-DTSTART:20230908T060000Z
-SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:8e4a3be0-aa21-4292-8243-ad848918b85b@8e4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231013T073000Z
-LOCATION:24Б-214
-DTSTART:20231013T060000Z
-SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:bed20cdd-87e2-4f22-b8b4-732780de0511@bed2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231117T091500Z
-LOCATION:24Б-214
-DTSTART:20231117T074500Z
-SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
-UID:9e0c0e87-4a75-41ee-ba04-31f59cf5eb2f@9e0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20230914T131500Z
-LOCATION:24Б-508
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Имитационное моделирование в среде Matlab
-UID:a192f6b0-523d-47b7-9988-f3d04fed7cf5@a192.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231031T091500Z
-LOCATION:24Б-507
-DTSTART:20231031T074500Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:01fa12e5-13c4-4515-aaac-198bb5f2dad5@01fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20230915T091500Z
-LOCATION:24Б-214
-DTSTART:20230915T074500Z
-SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:8051b9ff-2a7c-46db-aa34-576d6f8cc9f5@8051.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230905T091500Z
-LOCATION:24Б-507
-DTSTART:20230905T074500Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:6712645c-8851-4aa0-bc48-0f44bf76298a@6712.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20230929T091500Z
-LOCATION:24Б-214
-DTSTART:20230929T074500Z
-SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:32d6fc88-4415-4395-a79f-ce26bf86dd3b@32d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20230918T091500Z
-LOCATION:24Б-508
-DTSTART:20230918T074500Z
-SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:71d3f44c-b794-41e2-81d0-6b0575a560be@71d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20230928T150000Z
-LOCATION:24Б-508
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Имитационное моделирование в среде Matlab
-UID:7f9ca6d1-2cae-4e1f-b797-f5c1fd9be956@7f9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20230921T131500Z
-LOCATION:24Б-508
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Имитационное моделирование в среде Matlab
-UID:2653c8f9-9002-4d65-98ae-ab45226ae2f0@2653.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231220T113000Z
-LOCATION:24Б-504
-DTSTART:20231220T100000Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:f8aabcb0-d9b4-44ab-9a2b-641602d1feeb@f8aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20230914T150000Z
-LOCATION:24Б-508
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Имитационное моделирование в среде Matlab
-UID:806a2d83-ec8f-4dc1-bfed-9442a86c23ea@806a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231208T091500Z
-LOCATION:24Б-214
-DTSTART:20231208T074500Z
-SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
-UID:079ab834-8046-4e81-8de5-56559fd656fa@079a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231122T113000Z
-LOCATION:24Б-504
-DTSTART:20231122T100000Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:a8408892-18f4-4951-bbf2-897a72088a82@a840.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231017T113000Z
-LOCATION:24Б-507
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:f8d51068-ee6b-4683-85ce-17296d18d558@f8d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20230904T073000Z
-LOCATION:24Б-508
-DTSTART:20230904T060000Z
-SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:c7be250b-4ad0-4052-bb61-b1dbdf9ef995@c7be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231225T091500Z
-LOCATION:24Б-508
-DTSTART:20231225T074500Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:0cf70046-7b08-4b36-ae3d-5bc863090b54@0cf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20230907T131500Z
-LOCATION:24Б-508
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Имитационное моделирование в среде Matlab
-UID:5152e02a-14c0-405c-b7db-0cac977acaf0@5152.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231003T091500Z
-LOCATION:24Б-507
-DTSTART:20231003T074500Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:736e22e6-e3bb-4816-b6b9-e6cc5db6c6d4@736e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231002T113000Z
-LOCATION:24Б-508
-DTSTART:20231002T100000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:362e786c-0fa2-48da-8961-dca556af0c24@362e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231108T091500Z
-LOCATION:24Б-504
-DTSTART:20231108T074500Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:a7de7484-e8a1-4bcb-8e33-e30e99ca40cb@a7de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231107T113000Z
-LOCATION:24Б-507
-DTSTART:20231107T100000Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:7cba09fa-22ce-4d25-b3e5-d5cb09ef53ba@7cba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231025T113000Z
-LOCATION:24Б-504
-DTSTART:20231025T100000Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:a5add5ba-3aec-4ff5-82f1-9cae2d01424a@a5ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231214T150000Z
-LOCATION:24Б-508
-DTSTART:20231214T133000Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:72c2d869-ca08-4b94-a884-ecb147838dc0@72c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20230929T073000Z
-LOCATION:24Б-214
-DTSTART:20230929T060000Z
-SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:db23e8a5-771a-4515-bc8c-f3f47ea52d73@db23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231016T113000Z
-LOCATION:24Б-508
-DTSTART:20231016T100000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:c7441552-9375-40b2-8ddc-947f2abe7dff@c744.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231114T113000Z
-LOCATION:24Б-507
-DTSTART:20231114T100000Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:c684dfc3-3fb4-4c1e-b21d-2fdd1a3b29d6@c684.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230905T113000Z
-LOCATION:24Б-507
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:d16e59de-cdbc-4383-ab3d-907a75e5bc36@d16e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231127T073000Z
-LOCATION:24Б-508
-DTSTART:20231127T060000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:324e9f71-080f-442f-bdaa-062088fdfad8@324e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231221T131500Z
-LOCATION:24Б-508
-DTSTART:20231221T114500Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:b55e5f02-b607-4379-88ce-4b18732fcce7@b55e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231016T073000Z
-LOCATION:24Б-508
-DTSTART:20231016T060000Z
-SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:a442dd78-b530-478c-b7f9-534ebb2d0988@a442.org
+DTSTART:20231020T074500Z
+SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
+UID:49b8d579-d0ed-4002-b4e6-9598db3e287e@49b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Богданов Алексей Сергеевич
@@ -343,559 +15,7 @@ DTEND:20231127T091500Z
 LOCATION:24Б-508
 DTSTART:20231127T074500Z
 SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:b8fe55c1-ff95-4bf0-bf9e-d3a2306e63b0@b8fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231005T150000Z
-LOCATION:24Б-508
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Имитационное моделирование в среде Matlab
-UID:5af18028-3457-4eca-950e-12a95f936510@5af1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231201T091500Z
-LOCATION:24Б-214
-DTSTART:20231201T074500Z
-SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
-UID:f7808a4b-3bd0-4d3a-bed9-7baad9358100@f780.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231017T091500Z
-LOCATION:24Б-507
-DTSTART:20231017T074500Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:ce7dd3dd-df6e-47ec-a158-58151cd09e96@ce7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231116T131500Z
-LOCATION:24Б-508
-DTSTART:20231116T114500Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:5a2b553a-8f2d-4bf5-b699-fd25f0db0c40@5a2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230926T113000Z
-LOCATION:24Б-507
-DTSTART:20230926T100000Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:463c9b65-34c3-4608-990b-57169d8cadf3@463c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231121T113000Z
-LOCATION:24Б-507
-DTSTART:20231121T100000Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:1ad953b2-268c-4d5a-9d23-1cd7e3c48cdd@1ad9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231221T150000Z
-LOCATION:24Б-508
-DTSTART:20231221T133000Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:b598cb33-922a-4a57-8d40-9ccd54fea5a8@b598.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231128T113000Z
-LOCATION:24Б-507
-DTSTART:20231128T100000Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:72860167-8b74-4ef6-9070-40007ee48516@7286.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231211T091500Z
-LOCATION:24Б-508
-DTSTART:20231211T074500Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:dbe0a765-770f-4ac0-acce-8bb89b55e564@dbe0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231019T131500Z
-LOCATION:24Б-508
-DTSTART:20231019T114500Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:dbcb8687-b6cd-45da-8618-0d4cc11ea46a@dbcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230926T091500Z
-LOCATION:24Б-507
-DTSTART:20230926T074500Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:e542479b-6426-45e0-a3c4-c8542a00b6de@e542.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231019T150000Z
-LOCATION:24Б-508
-DTSTART:20231019T133000Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:06e96ca6-e9e7-4f1f-8950-ff6ea6b3b91c@06e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20230918T073000Z
-LOCATION:24Б-508
-DTSTART:20230918T060000Z
-SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:cdf95b5f-2025-48dc-ae8d-7e0107ca90e2@cdf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231012T150000Z
-LOCATION:24Б-508
-DTSTART:20231012T133000Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:951810c3-3901-4c5e-b140-a919acf1c047@9518.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231207T150000Z
-LOCATION:24Б-508
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:901dad5d-c79a-4532-bf0d-b6442d7da9a8@901d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231208T073000Z
-LOCATION:24Б-214
-DTSTART:20231208T060000Z
-SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
-UID:be778678-5678-43d1-a649-0fa2b6b38433@be77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231206T091500Z
-LOCATION:24Б-504
-DTSTART:20231206T074500Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:b1603621-1bb8-472d-ac4d-9b4894668776@b160.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20230922T073000Z
-LOCATION:24Б-214
-DTSTART:20230922T060000Z
-SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:5e586a6c-d852-4a57-9aea-a113d68184d1@5e58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231109T150000Z
-LOCATION:24Б-508
-DTSTART:20231109T133000Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:128a2ef9-c7e3-4e9c-af14-0112b4e50cbf@128a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20230907T150000Z
-LOCATION:24Б-508
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Имитационное моделирование в среде Matlab
-UID:e3f89fea-ae51-47bd-9672-1ddb9db63eff@e3f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231220T091500Z
-LOCATION:24Б-504
-DTSTART:20231220T074500Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:f418d07f-2986-4b98-869a-6b2ca4630271@f418.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20230913T113000Z
-LOCATION:24Б-504
-DTSTART:20230913T100000Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:39e02de2-dec6-49d5-9f9f-8fd929f401af@39e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231128T091500Z
-LOCATION:24Б-507
-DTSTART:20231128T074500Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:a7d9ccbf-0477-4b7b-8158-c1c9eef40df0@a7d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231205T113000Z
-LOCATION:24Б-507
-DTSTART:20231205T100000Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:42c60112-7044-4950-a913-ec7afaa364f6@42c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231026T150000Z
-LOCATION:24Б-508
-DTSTART:20231026T133000Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:e078eea3-2dc4-419d-8320-9136c58814a0@e078.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231107T091500Z
-LOCATION:24Б-507
-DTSTART:20231107T074500Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:c796c0cc-4552-4630-9d31-0d53148e34f8@c796.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20230928T131500Z
-LOCATION:24Б-508
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Имитационное моделирование в среде Matlab
-UID:21f100e5-61cd-4956-b932-a77dce453491@21f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231123T150000Z
-LOCATION:24Б-508
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:d69b6b6d-57fd-42c5-896f-e91211c95ba3@d69b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231130T150000Z
-LOCATION:24Б-508
-DTSTART:20231130T133000Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:a5c4c3d7-afff-4611-ba0a-f9b907db5a7f@a5c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231010T113000Z
-LOCATION:24Б-507
-DTSTART:20231010T100000Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:bf2a6397-5dba-4d4f-b8bf-e4927d2245a2@bf2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231211T113000Z
-LOCATION:24Б-508
-DTSTART:20231211T100000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:fb7b8195-d7c6-49be-b1cb-f2cd82d4ca5c@fb7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231225T113000Z
-LOCATION:24Б-508
-DTSTART:20231225T100000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:557ccaab-18ea-465e-a02e-bc8565ff7c08@557c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230912T113000Z
-LOCATION:24Б-507
-DTSTART:20230912T100000Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:bfe6ac21-2a58-43f9-bd13-bc15cfa24b31@bfe6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231027T091500Z
-LOCATION:24Б-214
-DTSTART:20231027T074500Z
-SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
-UID:9e5075bf-b1de-4305-99db-2785aed3aa79@9e50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231030T091500Z
-LOCATION:24Б-508
-DTSTART:20231030T074500Z
-SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:5adc71e4-c684-4f65-99fb-efc792f35407@5adc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231116T150000Z
-LOCATION:24Б-508
-DTSTART:20231116T133000Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:bc334b58-4f7b-49f7-aabf-10045072491d@bc33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231016T091500Z
-LOCATION:24Б-508
-DTSTART:20231016T074500Z
-SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:3429c558-d4dc-4d95-afa0-1aef89f2eb99@3429.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231103T073000Z
-LOCATION:24Б-214
-DTSTART:20231103T060000Z
-SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
-UID:5eae003d-f201-4e26-be37-15cc65389824@5eae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231113T113000Z
-LOCATION:24Б-508
-DTSTART:20231113T100000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:cdaae0fb-09d3-4dc6-9d04-999ea782fbc9@cdaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231011T113000Z
-LOCATION:24Б-504
-DTSTART:20231011T100000Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:9fbb6c7e-b87a-4246-97f1-fc4a6498c8c6@9fbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231026T131500Z
-LOCATION:24Б-508
-DTSTART:20231026T114500Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:fe12fc06-66f2-4cfc-a49e-f57a7faf0670@fe12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231103T091500Z
-LOCATION:24Б-214
-DTSTART:20231103T074500Z
-SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
-UID:ebb18880-ab3a-4d7f-9364-165e6dbeb1aa@ebb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231002T091500Z
-LOCATION:24Б-508
-DTSTART:20231002T074500Z
-SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:43850010-a9d3-4ecb-b870-80e74f347b68@4385.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20230918T113000Z
-LOCATION:24Б-508
-DTSTART:20230918T100000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:28a4eb5c-eb0d-4ef4-94d0-173e63aae39f@28a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20230927T091500Z
-LOCATION:24Б-504
-DTSTART:20230927T074500Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:f3609518-fee3-463e-b971-44fb0e336cc9@f360.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231030T113000Z
-LOCATION:24Б-508
-DTSTART:20231030T100000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:6c879af5-23b9-49bf-b330-e6988f706744@6c87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231205T091500Z
-LOCATION:24Б-507
-DTSTART:20231205T074500Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:61b5b617-fbdf-450c-aae8-cf2cddcad205@61b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231002T073000Z
-LOCATION:24Б-508
-DTSTART:20231002T060000Z
-SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:f5f7250a-38e9-4ad8-b81f-5575836bdbbc@f5f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231020T073000Z
-LOCATION:24Б-214
-DTSTART:20231020T060000Z
-SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
-UID:c31e62c7-8c62-48e4-aa7e-aad939c1893c@c31e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231005T131500Z
-LOCATION:24Б-508
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Имитационное моделирование в среде Matlab
-UID:1e31d778-1eeb-489d-9bd2-8bb54ed67375@1e31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231025T091500Z
-LOCATION:24Б-504
-DTSTART:20231025T074500Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:7a187787-d45c-433c-b0f2-a9bb78732edf@7a18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231211T073000Z
-LOCATION:24Б-508
-DTSTART:20231211T060000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:8bd56561-67d4-49bc-9adf-01060397922d@8bd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231024T113000Z
-LOCATION:24Б-507
-DTSTART:20231024T100000Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:5674a8eb-fcae-4627-b1f5-407ddbba61be@5674.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20230927T113000Z
-LOCATION:24Б-504
-DTSTART:20230927T100000Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:c1106a4d-ae41-43d4-acc7-e4bad4228be5@c110.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231110T091500Z
-LOCATION:24Б-214
-DTSTART:20231110T074500Z
-SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
-UID:5ce80212-7a38-48f4-b53c-3ef62126d8de@5ce8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231011T091500Z
-LOCATION:24Б-504
-DTSTART:20231011T074500Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:eb4c0689-5ec6-4180-8d2b-3d051b446655@eb4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231113T073000Z
-LOCATION:24Б-508
-DTSTART:20231113T060000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:07cb5c48-b783-4887-97f6-5835bc95f5d9@07cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231020T091500Z
-LOCATION:24Б-214
-DTSTART:20231020T074500Z
-SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
-UID:0f20078c-4e8c-412b-973f-22973d60af32@0f20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231109T131500Z
-LOCATION:24Б-508
-DTSTART:20231109T114500Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:1dca0aec-b717-4341-aa7f-72a4bb5629a4@1dca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231206T113000Z
-LOCATION:24Б-504
-DTSTART:20231206T100000Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:03654595-6bd8-48db-a486-f54ca42cad0a@0365.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231113T091500Z
-LOCATION:24Б-508
-DTSTART:20231113T074500Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:b72e5f97-c280-47da-b3f8-1df8c7cb22fc@b72e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231225T073000Z
-LOCATION:24Б-508
-DTSTART:20231225T060000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:3e94fd6f-2360-4515-a198-7ecef27fb8f7@3e94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230912T091500Z
-LOCATION:24Б-507
-DTSTART:20230912T074500Z
-SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:dc5fc106-3ef1-41de-bcd6-7dd379364051@dc5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231123T131500Z
-LOCATION:24Б-508
-DTSTART:20231123T114500Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:352ffd36-c26a-4364-b638-977acd1c5711@352f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231012T131500Z
-LOCATION:24Б-508
-DTSTART:20231012T114500Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:0f656e18-c194-4013-8e29-ed19f01214b1@0f65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20230915T073000Z
-LOCATION:24Б-214
-DTSTART:20230915T060000Z
-SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:75c180c7-9c64-4884-aba5-8da04c2ff5ba@75c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20230922T091500Z
-LOCATION:24Б-214
-DTSTART:20230922T074500Z
-SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:1ee8a7d4-4a7f-4a64-a3f1-5b51b9d0d133@1ee8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Богданов Алексей Сергеевич
-DTEND:20231127T113000Z
-LOCATION:24Б-508
-DTSTART:20231127T100000Z
-SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:6abacece-486e-469e-98b7-1abda50af062@6aba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231006T091500Z
-LOCATION:24Б-214
-DTSTART:20231006T074500Z
-SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:afe77210-a546-4b67-9e00-c6999b3b0aa3@afe7.org
+UID:56eda209-50ff-443d-bc10-4ad79f0c0195@56ed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Богданов Алексей Сергеевич
@@ -903,39 +23,23 @@ DTEND:20231030T073000Z
 LOCATION:24Б-508
 DTSTART:20231030T060000Z
 SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
-UID:6f79ec83-3b4a-4fa3-892f-783a7b2882cc@6f79.org
+UID:182469ad-c9cf-4835-a4d3-9767c233a25e@1824.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231201T073000Z
-LOCATION:24Б-214
-DTSTART:20231201T060000Z
-SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
-UID:757426f3-74df-4ddd-9e1b-f2c782aaf196@7574.org
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230926T091500Z
+LOCATION:24Б-507
+DTSTART:20230926T074500Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:d1946b0e-c992-409e-b245-6e6643546469@d194.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20230921T150000Z
-LOCATION:24Б-508
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Имитационное моделирование в среде Matlab
-UID:456613a2-d95d-46f9-a786-18a7f03074f8@4566.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231124T091500Z
-LOCATION:24Б-214
-DTSTART:20231124T074500Z
-SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
-UID:b1dca588-823a-4ad9-962c-142c6a10eb71@b1dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231214T131500Z
-LOCATION:24Б-508
-DTSTART:20231214T114500Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:65bdfff4-7cfb-4080-a19c-3d485e2562c8@65bd.org
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231024T113000Z
+LOCATION:24Б-507
+DTSTART:20231024T100000Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:e3a835c1-3e3f-4905-80a6-05ffa8c051fb@e3a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бородин Вячеслав Васильевич
@@ -943,7 +47,31 @@ DTEND:20231010T091500Z
 LOCATION:24Б-507
 DTSTART:20231010T074500Z
 SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:2f2f0a97-a381-461d-b9fd-a2f9aec4c4e1@2f2f.org
+UID:aab49a8c-1e2e-4c73-b938-1d9906005351@aab4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231211T113000Z
+LOCATION:24Б-508
+DTSTART:20231211T100000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:22f721c9-5ef7-484b-9fc8-019684464e3b@22f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20231108T091500Z
+LOCATION:24Б-504
+DTSTART:20231108T074500Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:2301cb67-023a-4c17-afee-9c6c584cd21e@2301.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231113T073000Z
+LOCATION:24Б-508
+DTSTART:20231113T060000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:64b717f7-e193-4de9-9505-02b4304336ef@64b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казачков Виталий Олегович
@@ -951,7 +79,31 @@ DTEND:20231102T131500Z
 LOCATION:24Б-508
 DTSTART:20231102T114500Z
 SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:d6072716-70e4-4c3f-99ee-2bf4db2fd90f@d607.org
+UID:d9607855-579a-4998-adee-ed94e8600596@d960.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231016T113000Z
+LOCATION:24Б-508
+DTSTART:20231016T100000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:97c34c4d-38a8-40ae-a91e-d389f7fc879f@97c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231002T073000Z
+LOCATION:24Б-508
+DTSTART:20231002T060000Z
+SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:6cd3cb30-1782-4e7d-8990-6c0de4c4a1c4@6cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20230907T150000Z
+LOCATION:24Б-508
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Имитационное моделирование в среде Matlab
+UID:fa2a7214-f27c-43de-b231-2bbf62d9c8c6@fa2a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бородин Вячеслав Васильевич
@@ -959,79 +111,15 @@ DTEND:20230919T091500Z
 LOCATION:24Б-507
 DTSTART:20230919T074500Z
 SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
-UID:3cd50502-003d-4743-b97c-ac8a9008f262@3cd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20231027T073000Z
-LOCATION:24Б-214
-DTSTART:20231027T060000Z
-SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
-UID:1be4f1d7-71c6-49ce-b45e-727b1bc3538d@1be4.org
+UID:2f1e7de2-97f0-44e9-ad13-77b8c6943de0@2f1e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231108T113000Z
+DTEND:20231122T113000Z
 LOCATION:24Б-504
-DTSTART:20231108T100000Z
+DTSTART:20231122T100000Z
 SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:cf8fb3c4-9c81-42c6-bfc6-2bd7cf7bfefb@cf8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20231122T091500Z
-LOCATION:24Б-504
-DTSTART:20231122T074500Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:e8ad21ec-75bd-45b6-af50-c64277777cca@e8ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231102T150000Z
-LOCATION:24Б-508
-DTSTART:20231102T133000Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:5544a932-8e72-4299-ab69-b60a45585d7a@5544.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231031T113000Z
-LOCATION:24Б-507
-DTSTART:20231031T100000Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:5bd31e63-e742-45dd-8a9e-9c03df524425@5bd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231121T091500Z
-LOCATION:24Б-507
-DTSTART:20231121T074500Z
-SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
-UID:f9bbde28-3d19-4216-977e-8c0384de78e6@f9bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тихомирова Елена Борисовна
-DTEND:20230908T091500Z
-LOCATION:24Б-214
-DTSTART:20230908T074500Z
-SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:e437fe37-a1e9-4363-a907-bc1cea5a9288@e437.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Вячеслав Алексеевич
-DTEND:20230913T091500Z
-LOCATION:24Б-504
-DTSTART:20230913T074500Z
-SUMMARY:ПЗ Научный семинар по системам мобильной связи
-UID:efcd7e63-5faf-4a4c-931d-53857dbc14b8@efcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казачков Виталий Олегович
-DTEND:20231130T131500Z
-LOCATION:24Б-508
-DTSTART:20231130T114500Z
-SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:48115f0f-44d6-4458-ae70-87b43278ee53@4811.org
+UID:a947e2fa-a367-4ad2-979d-ac687295d678@a947.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казачков Виталий Олегович
@@ -1039,7 +127,359 @@ DTEND:20231207T131500Z
 LOCATION:24Б-508
 DTSTART:20231207T114500Z
 SUMMARY:ПЗ Имитационное моделирование в среде Matlab
-UID:6d8085c2-1b1a-4be8-88d0-4f4814ef9129@6d80.org
+UID:468f126f-cfd6-4fc7-b51e-58cd4adc6727@468f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231017T091500Z
+LOCATION:24Б-507
+DTSTART:20231017T074500Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:7b366c4f-ebf0-48ba-ac0a-b1a0a92be422@7b36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231024T091500Z
+LOCATION:24Б-507
+DTSTART:20231024T074500Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:fbb14189-0b0b-4ccd-a609-320088d77f88@fbb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231113T113000Z
+LOCATION:24Б-508
+DTSTART:20231113T100000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:37cf0ed3-f0e0-42cb-828d-b8c5b1df42e1@37cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231027T091500Z
+LOCATION:24Б-214
+DTSTART:20231027T074500Z
+SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
+UID:761c8b6a-a038-4a6c-9f81-29304c989d73@761c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231107T113000Z
+LOCATION:24Б-507
+DTSTART:20231107T100000Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:0af7cdad-e041-45d7-82f0-039ffb5f864f@0af7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20230913T091500Z
+LOCATION:24Б-504
+DTSTART:20230913T074500Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:1cc248df-d4fa-44a6-8bc4-cf58c928a9e7@1cc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231123T150000Z
+LOCATION:24Б-508
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:66aa2966-9463-4c28-b9e0-8869b4bbac02@66aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231005T150000Z
+LOCATION:24Б-508
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Имитационное моделирование в среде Matlab
+UID:4ac64aa0-1cc2-4e3a-b9a4-75815566c570@4ac6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20231220T113000Z
+LOCATION:24Б-504
+DTSTART:20231220T100000Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:6f18c1ab-58f0-440c-943e-2ce89e4b71df@6f18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231012T150000Z
+LOCATION:24Б-508
+DTSTART:20231012T133000Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:8e8e62c1-9213-4a1d-8751-da58389ba82d@8e8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231113T091500Z
+LOCATION:24Б-508
+DTSTART:20231113T074500Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:5d9fa561-4f3b-4b10-91a6-8d279de41579@5d9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231127T113000Z
+LOCATION:24Б-508
+DTSTART:20231127T100000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:a2c9ccd3-7611-4de4-b16c-f2e01eae2295@a2c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231016T073000Z
+LOCATION:24Б-508
+DTSTART:20231016T060000Z
+SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:542be9fc-05ac-4a8e-8da7-b24c58a1ed6e@542b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231019T150000Z
+LOCATION:24Б-508
+DTSTART:20231019T133000Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:74dcb5be-33db-4e3c-99b2-6563df605b57@74dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231225T113000Z
+LOCATION:24Б-508
+DTSTART:20231225T100000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:ef177250-d767-4998-ae94-ea0a95bd6478@ef17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231103T073000Z
+LOCATION:24Б-214
+DTSTART:20231103T060000Z
+SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
+UID:d0fac169-4dc7-4f25-bf7c-45ddb3a4ceaa@d0fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20230922T091500Z
+LOCATION:24Б-214
+DTSTART:20230922T074500Z
+SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
+UID:6bdec7f8-462a-4f10-91c7-b433c6ae409f@6bde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20230929T091500Z
+LOCATION:24Б-214
+DTSTART:20230929T074500Z
+SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
+UID:1ea3bc88-17aa-4ee4-b479-18c16ab251e6@1ea3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231127T073000Z
+LOCATION:24Б-508
+DTSTART:20231127T060000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:6a30c4a0-a409-4996-a358-9535a409298d@6a30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20231206T091500Z
+LOCATION:24Б-504
+DTSTART:20231206T074500Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:bc94464a-ffaf-47c9-ab2d-3f66f5ba3c65@bc94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20230921T150000Z
+LOCATION:24Б-508
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Имитационное моделирование в среде Matlab
+UID:77f7897d-ae93-40ab-a6d0-5a286f7e2827@77f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231116T131500Z
+LOCATION:24Б-508
+DTSTART:20231116T114500Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:2df2e465-2557-4a97-96de-294caf7e1311@2df2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20230921T131500Z
+LOCATION:24Б-508
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Имитационное моделирование в среде Matlab
+UID:bcf1cf59-3a73-4009-b560-430ae5764c53@bcf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231205T113000Z
+LOCATION:24Б-507
+DTSTART:20231205T100000Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:23af6eab-6369-4ea5-8419-47002b70101c@23af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20230918T073000Z
+LOCATION:24Б-508
+DTSTART:20230918T060000Z
+SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:44d75bb6-f000-4175-bd61-950a4e421748@44d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20230908T073000Z
+LOCATION:24Б-214
+DTSTART:20230908T060000Z
+SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
+UID:3a81a803-2c6b-4d9d-ae3a-0437a7398317@3a81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20230904T113000Z
+LOCATION:24Б-508
+DTSTART:20230904T100000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:100f6046-4639-4497-b990-d9e631bc203c@100f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20230913T113000Z
+LOCATION:24Б-504
+DTSTART:20230913T100000Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:72ecf1fd-1eab-444c-a9d2-72aa63d61b72@72ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231107T091500Z
+LOCATION:24Б-507
+DTSTART:20231107T074500Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:3e07202d-14bf-4789-a9a3-34b1e2dc06fa@3e07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231109T150000Z
+LOCATION:24Б-508
+DTSTART:20231109T133000Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:9b67717f-cb23-4267-acc7-a5d8f6c4d73e@9b67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20230904T091500Z
+LOCATION:24Б-508
+DTSTART:20230904T074500Z
+SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:39ebd083-ba39-407b-a681-3febdb75c308@39eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231121T091500Z
+LOCATION:24Б-507
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:ef19db39-b26d-48aa-8508-4a5ad9678639@ef19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20230914T150000Z
+LOCATION:24Б-508
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Имитационное моделирование в среде Matlab
+UID:c0160b0a-04d6-4f00-a126-202efdbbcc00@c016.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231002T091500Z
+LOCATION:24Б-508
+DTSTART:20231002T074500Z
+SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:fbd8d09b-7fb2-4646-861b-16a8c4b3bcb4@fbd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231117T091500Z
+LOCATION:24Б-214
+DTSTART:20231117T074500Z
+SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
+UID:7b9cf61a-121e-4c9d-9a21-148d3a74c6a8@7b9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231109T131500Z
+LOCATION:24Б-508
+DTSTART:20231109T114500Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:c758f2f1-e25b-47f4-bb91-b2320d2411b1@c758.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230905T091500Z
+LOCATION:24Б-507
+DTSTART:20230905T074500Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:c2326716-2b22-42c2-ba6c-fb335a8f33ec@c232.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231103T091500Z
+LOCATION:24Б-214
+DTSTART:20231103T074500Z
+SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
+UID:2fed7f77-b5b8-49b7-987a-d1f9648c3403@2fed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20230907T131500Z
+LOCATION:24Б-508
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Имитационное моделирование в среде Matlab
+UID:3958f17e-64c8-4250-8297-14a0e0ee9eb6@3958.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20230914T131500Z
+LOCATION:24Б-508
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Имитационное моделирование в среде Matlab
+UID:30119cd9-0cb2-4e1a-b17d-152ad9ecedca@3011.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20230928T131500Z
+LOCATION:24Б-508
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Имитационное моделирование в среде Matlab
+UID:323a4385-4757-40e5-b2ed-37076cbd7548@323a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230926T113000Z
+LOCATION:24Б-507
+DTSTART:20230926T100000Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:939e0003-391f-4a52-9fed-fa067ba3cd42@939e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20231122T091500Z
+LOCATION:24Б-504
+DTSTART:20231122T074500Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:0a9c0b03-80d9-4309-a2a1-c62af3377fb0@0a9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20230904T073000Z
+LOCATION:24Б-508
+DTSTART:20230904T060000Z
+SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:c13343f9-22be-440d-988c-1e1faa48aab4@c133.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тихомирова Елена Борисовна
@@ -1047,6 +487,566 @@ DTEND:20231013T091500Z
 LOCATION:24Б-214
 DTSTART:20231013T074500Z
 SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
-UID:c1c3d51a-0c7d-4528-8471-2e29424e2d1e@c1c3.org
+UID:121fef75-02d0-4a54-a2bf-2735194c2d0f@121f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231010T113000Z
+LOCATION:24Б-507
+DTSTART:20231010T100000Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:ad5081b8-46e3-4e19-9efc-62d7b95ba8cc@ad50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20230918T091500Z
+LOCATION:24Б-508
+DTSTART:20230918T074500Z
+SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:132ef738-0d5e-4e16-89a2-f0ed3e8eda57@132e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231225T091500Z
+LOCATION:24Б-508
+DTSTART:20231225T074500Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:fc406765-ca1b-461c-bff6-f35a4c5374dd@fc40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20230918T113000Z
+LOCATION:24Б-508
+DTSTART:20230918T100000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:d3f37f4e-21a3-4998-9302-14cb00b67aa8@d3f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231124T073000Z
+LOCATION:24Б-214
+DTSTART:20231124T060000Z
+SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
+UID:cbc8e2cc-73b3-4f9a-a57f-2b312fd3c5fd@cbc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231026T131500Z
+LOCATION:24Б-508
+DTSTART:20231026T114500Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:707fa49d-36f9-49d6-9cde-b1203f9e7bad@707f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231030T113000Z
+LOCATION:24Б-508
+DTSTART:20231030T100000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:05d64876-f7f1-4d8f-addd-4126b02f8029@05d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231006T091500Z
+LOCATION:24Б-214
+DTSTART:20231006T074500Z
+SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
+UID:6f012fd6-d581-4036-bf20-75fbf23d6639@6f01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20230922T073000Z
+LOCATION:24Б-214
+DTSTART:20230922T060000Z
+SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
+UID:c2825f32-c159-415b-ae89-cc474f7c8408@c282.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231207T150000Z
+LOCATION:24Б-508
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:5876f648-a93e-4cb7-974e-f00209a10f99@5876.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231124T091500Z
+LOCATION:24Б-214
+DTSTART:20231124T074500Z
+SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
+UID:eb4091a2-428c-4f32-945b-3f317c62be34@eb40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231017T113000Z
+LOCATION:24Б-507
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:026e5e94-42f2-45f1-964f-8972f87db60f@026e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20230928T150000Z
+LOCATION:24Б-508
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Имитационное моделирование в среде Matlab
+UID:ce742415-550b-42e2-8960-5a65fdb02aa5@ce74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231116T150000Z
+LOCATION:24Б-508
+DTSTART:20231116T133000Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:90262926-cc01-4710-a4ec-234982482e22@9026.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231026T150000Z
+LOCATION:24Б-508
+DTSTART:20231026T133000Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:38939491-3750-4c6d-b9c5-b3c8a406ff57@3893.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20230915T091500Z
+LOCATION:24Б-214
+DTSTART:20230915T074500Z
+SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
+UID:a61fcaa6-b370-4532-9786-ca8776f26076@a61f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231019T131500Z
+LOCATION:24Б-508
+DTSTART:20231019T114500Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:322a8b9b-3658-45e0-84ae-50ca76b1f8b0@322a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20231025T091500Z
+LOCATION:24Б-504
+DTSTART:20231025T074500Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:d5117daa-15b5-487b-8a79-c6f8d8b1ef52@d511.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20231220T091500Z
+LOCATION:24Б-504
+DTSTART:20231220T074500Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:607d7ef2-dbd7-41be-afb1-e53a753e92ed@607d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231123T131500Z
+LOCATION:24Б-508
+DTSTART:20231123T114500Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:76a162c5-27b8-45f3-a182-ce59d32ac9d3@76a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231214T131500Z
+LOCATION:24Б-508
+DTSTART:20231214T114500Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:f42dc423-61ee-4c4d-8f7b-a238f66787b9@f42d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231003T113000Z
+LOCATION:24Б-507
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:ada6018e-94ab-401a-a586-0f03ab86f51f@ada6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231030T091500Z
+LOCATION:24Б-508
+DTSTART:20231030T074500Z
+SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:a1322cff-28f8-4900-8c16-15a478db3214@a132.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20231011T091500Z
+LOCATION:24Б-504
+DTSTART:20231011T074500Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:095b5215-5c9f-4709-abb7-1412c4e0745a@095b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231003T091500Z
+LOCATION:24Б-507
+DTSTART:20231003T074500Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:83c83f0f-f67b-4ade-9a24-3e4a7af3e707@83c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231225T073000Z
+LOCATION:24Б-508
+DTSTART:20231225T060000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:ce2269c0-09cc-41f0-90a1-d449bb0272e6@ce22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230912T113000Z
+LOCATION:24Б-507
+DTSTART:20230912T100000Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:b6ae9cfb-b793-4e48-b169-b86f189802ec@b6ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231031T113000Z
+LOCATION:24Б-507
+DTSTART:20231031T100000Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:ddbc7f50-29c3-4a48-857b-f6263d584797@ddbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231130T131500Z
+LOCATION:24Б-508
+DTSTART:20231130T114500Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:50c39b86-4c74-4cf1-a6e0-0e36ffbf68f2@50c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230905T113000Z
+LOCATION:24Б-507
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:5d1b6138-bb24-4674-bd79-3ee11f6ec3ab@5d1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231005T131500Z
+LOCATION:24Б-508
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Имитационное моделирование в среде Matlab
+UID:8ab0b9ca-fa1b-476b-b1e1-e9a80cbbe496@8ab0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231117T073000Z
+LOCATION:24Б-214
+DTSTART:20231117T060000Z
+SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
+UID:a9b5fef2-a7a9-4906-bf76-e1cf23c5cfb2@a9b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231114T113000Z
+LOCATION:24Б-507
+DTSTART:20231114T100000Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:35983f71-2209-459e-b9ea-4525c7dfb90b@3598.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231110T091500Z
+LOCATION:24Б-214
+DTSTART:20231110T074500Z
+SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
+UID:98d3004e-c5a0-4e7c-8e83-af6c91dceacf@98d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231006T073000Z
+LOCATION:24Б-214
+DTSTART:20231006T060000Z
+SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
+UID:6b88498a-3b08-4fe2-9e4b-6bec72c86080@6b88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20230927T091500Z
+LOCATION:24Б-504
+DTSTART:20230927T074500Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:26c0abea-b83d-48c1-b9ab-10480582a0bb@26c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20231025T113000Z
+LOCATION:24Б-504
+DTSTART:20231025T100000Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:58a18b14-ce29-43ca-aa4a-17590ca19cce@58a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231012T131500Z
+LOCATION:24Б-508
+DTSTART:20231012T114500Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:0d6a2b0e-67c7-4d9a-ab73-0a0eaf3c6cd2@0d6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231211T091500Z
+LOCATION:24Б-508
+DTSTART:20231211T074500Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:9976b603-c9a5-4502-b634-7527fbc6688e@9976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231027T073000Z
+LOCATION:24Б-214
+DTSTART:20231027T060000Z
+SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
+UID:6257b22c-95ef-41a6-865b-987219beb78d@6257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231020T073000Z
+LOCATION:24Б-214
+DTSTART:20231020T060000Z
+SUMMARY:ЛР Теория электромагнитной совместимости радиоэлектронных средств
+UID:dc036342-01ce-4aa5-bad9-2ba0e67b157e@dc03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230919T113000Z
+LOCATION:24Б-507
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:c509e522-3937-442a-831c-cb198c2b8bde@c509.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231130T150000Z
+LOCATION:24Б-508
+DTSTART:20231130T133000Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:05ee51db-d5e5-4aea-b512-a2bc7246558f@05ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231110T073000Z
+LOCATION:24Б-214
+DTSTART:20231110T060000Z
+SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
+UID:aed13172-0d90-4472-b5fb-53ff4b8c1bb9@aed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231221T150000Z
+LOCATION:24Б-508
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:38d34afb-d4c2-41d7-bce7-a9fbfa88a5b4@38d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231031T091500Z
+LOCATION:24Б-507
+DTSTART:20231031T074500Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:5d8a5539-9c1f-45b6-b578-5d10ae33d5b7@5d8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231208T091500Z
+LOCATION:24Б-214
+DTSTART:20231208T074500Z
+SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
+UID:a2602b4b-853e-45a5-b5c5-d58f78fd1c81@a260.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231128T091500Z
+LOCATION:24Б-507
+DTSTART:20231128T074500Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:b9b9f8f7-06ec-4394-a55c-246db714334e@b9b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20230929T073000Z
+LOCATION:24Б-214
+DTSTART:20230929T060000Z
+SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
+UID:799d117f-b04c-4a9a-92ef-f1ff72cd330c@799d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231208T073000Z
+LOCATION:24Б-214
+DTSTART:20231208T060000Z
+SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
+UID:35ab7727-2ee5-4a54-8044-dd8e61c98718@35ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230912T091500Z
+LOCATION:24Б-507
+DTSTART:20230912T074500Z
+SUMMARY:ЛК Проектирование транспортных сетей мобильной связи
+UID:c56ed8b6-dc36-4780-9fa8-95324ee43e15@c56e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231013T073000Z
+LOCATION:24Б-214
+DTSTART:20231013T060000Z
+SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
+UID:9e06966c-6e5f-4e7c-b0ef-43bc85e9eb43@9e06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20230908T091500Z
+LOCATION:24Б-214
+DTSTART:20230908T074500Z
+SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
+UID:1df91a76-26f2-430e-8310-62cb6c3c66a0@1df9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231205T091500Z
+LOCATION:24Б-507
+DTSTART:20231205T074500Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:ae7aa4b0-04e0-41b8-8c6b-265f92ca8c73@ae7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231221T131500Z
+LOCATION:24Б-508
+DTSTART:20231221T114500Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:96a3006c-97f6-474a-b036-e2a33c2bf2e8@96a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231114T091500Z
+LOCATION:24Б-507
+DTSTART:20231114T074500Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:39efae38-f331-4c1e-8b64-c20e00258fbf@39ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231211T073000Z
+LOCATION:24Б-508
+DTSTART:20231211T060000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:9a8f8252-4745-462e-bb39-2346394007f1@9a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231214T150000Z
+LOCATION:24Б-508
+DTSTART:20231214T133000Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:9d71de14-26ca-4678-b501-09b9c61ae49e@9d71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казачков Виталий Олегович
+DTEND:20231102T150000Z
+LOCATION:24Б-508
+DTSTART:20231102T133000Z
+SUMMARY:ПЗ Имитационное моделирование в среде Matlab
+UID:c9ceabfa-73e2-4c29-9f67-ff193f8ca527@c9ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231002T113000Z
+LOCATION:24Б-508
+DTSTART:20231002T100000Z
+SUMMARY:ПЗ Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:0f4deec1-568c-4084-8107-ab03b7129921@0f4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231201T091500Z
+LOCATION:24Б-214
+DTSTART:20231201T074500Z
+SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
+UID:d941935d-19e2-45a6-9965-a2f2e3fd6e7a@d941.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Богданов Алексей Сергеевич
+DTEND:20231016T091500Z
+LOCATION:24Б-508
+DTSTART:20231016T074500Z
+SUMMARY:ЛК Специализированное программное обеспечение и методы искусственного интеллекта в проектировании инфокоммуникационных сетей и систем
+UID:45dbfa1c-eace-43a8-b63e-63d4db3287bd@45db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20231108T113000Z
+LOCATION:24Б-504
+DTSTART:20231108T100000Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:728ef3b5-0aa7-41d6-a824-dcd08a88b283@728e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20231206T113000Z
+LOCATION:24Б-504
+DTSTART:20231206T100000Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:68c2edf3-3525-41cd-9503-240f41872cb2@68c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231128T113000Z
+LOCATION:24Б-507
+DTSTART:20231128T100000Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:0ad60a09-b8d7-447e-a41d-8187a04a5ae9@0ad6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231121T113000Z
+LOCATION:24Б-507
+DTSTART:20231121T100000Z
+SUMMARY:ПЗ Проектирование транспортных сетей мобильной связи
+UID:cbe30a3e-12f7-4154-aeb0-9744d71eaa4e@cbe3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20230915T073000Z
+LOCATION:24Б-214
+DTSTART:20230915T060000Z
+SUMMARY:ЛК Теория электромагнитной совместимости радиоэлектронных средств
+UID:19d75c42-e355-44e3-8d50-b161e1b1c96f@19d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тихомирова Елена Борисовна
+DTEND:20231201T073000Z
+LOCATION:24Б-214
+DTSTART:20231201T060000Z
+SUMMARY:ПЗ Теория электромагнитной совместимости радиоэлектронных средств
+UID:7ce12a96-1c6b-4007-895f-9d870bf09988@7ce1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20230927T113000Z
+LOCATION:24Б-504
+DTSTART:20230927T100000Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:80707fa9-0155-4205-b1a4-f54cb067a0a7@8070.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Вячеслав Алексеевич
+DTEND:20231011T113000Z
+LOCATION:24Б-504
+DTSTART:20231011T100000Z
+SUMMARY:ПЗ Научный семинар по системам мобильной связи
+UID:9fc633fa-27d4-4861-aeda-395b453f169a@9fc6.org
 END:VEVENT
 END:VCALENDAR

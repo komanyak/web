@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230925T131500Z
-LOCATION:Орш. А-521
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:1802f3bd-b433-4604-b2ba-d0c18afcd932@1802.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231230T113000Z
-LOCATION:Орш. А-509
-DTSTART:20231230T100000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:ee41b256-3de7-4cd5-bcd8-8a62cb5e2b4d@ee41.org
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230929T150000Z
+LOCATION:Орш. А-523
+DTSTART:20230929T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:acde0a6d-92da-42bd-98e6-4bf0e0c8d54e@acde.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
@@ -23,2175 +15,7 @@ DTEND:20230916T131500Z
 LOCATION:Орш. А-509
 DTSTART:20230916T114500Z
 SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:bc015abd-ae68-4129-81e7-1cfc7d1c03fb@bc01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231214T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231214T114500Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:dfaeee75-d267-4505-9286-9319a4ca25f3@dfae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231023T113000Z
-LOCATION:Орш. А-521
-DTSTART:20231023T100000Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:ba0f0e5e-0770-43b8-9b08-b61fd8ed72a6@ba0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231128T131500Z
-LOCATION:Орш. А-532
-DTSTART:20231128T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:48575997-0b14-4add-9ac6-ebee9afe6ff5@4857.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230920T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20230920T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:c6fa1c5f-6ad6-43a5-951a-7b61c5986fa2@c6fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231026T131500Z
-LOCATION:Орш. А-532
-DTSTART:20231026T114500Z
-SUMMARY:ЛР Проектирование сварных и паянных конструкций
-UID:d8159bef-bc8c-442d-8599-fb4d5e6bb00e@d815.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231026T150000Z
-LOCATION:Орш. А-532
-DTSTART:20231026T133000Z
-SUMMARY:ЛР Проектирование сварных и паянных конструкций
-UID:770760c2-f3d9-415b-980f-28c312914b26@7707.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231108T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231108T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:5af50a9a-9ceb-4903-b915-1b993bbb7b63@5af5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230906T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20230906T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:e5cd8dff-0cbc-4623-af6e-7a726e92ed19@e5cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230909T091500Z
-LOCATION:Орш. А-509
-DTSTART:20230909T074500Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:fb88f513-92b0-46a0-982c-72d4f7863b93@fb88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231019T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231019T114500Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:a0720db2-ac94-4a00-8739-7bd108c379c2@a072.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231028T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231028T060000Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:39c2d528-dcb2-457d-9639-893c4997dbc6@39c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20230921T131500Z
-LOCATION:Орш. А-523
-DTSTART:20230921T114500Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:cdef7a2a-94b5-49d2-94ea-2c7a2c9c0ddc@cdef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230907T113000Z
-LOCATION:Орш. А-523
-DTSTART:20230907T100000Z
-SUMMARY:ЛК Нагревательные печи и устройства
-UID:363f7968-0f5b-47d7-a6d0-6ec4b09da653@363f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20230928T131500Z
-LOCATION:Орш. А-532
-DTSTART:20230928T114500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:09cb8a04-ecd0-4549-a69e-e921b837af7c@09cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231109T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231109T100000Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:bc511d84-34f3-4045-8cb9-d5c94ca52d18@bc51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231101T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231101T133000Z
-SUMMARY:ЛК Технология кузнечно-штамповочного производства
-UID:7737c562-ee01-4268-b94a-6e140ec2876a@7737.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231118T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231118T074500Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:e4b22e50-80fb-4917-a466-ce6ad17865b1@e4b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230927T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20230927T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:70a32536-6869-4ea5-8c0f-bbe4e16b8091@70a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231111T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231111T060000Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:09766cda-b965-4a52-b5f1-2abf2759a3d6@0976.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230925T113000Z
-LOCATION:Орш. А-521
-DTSTART:20230925T100000Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:c0f0e876-5162-4842-bc5a-83e43f0e1c5d@c0f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231127T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231127T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:35443002-ebb1-47a0-85ac-f64a963efe95@3544.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231129T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231129T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:b81bfe61-b22b-42cb-aedf-1372152dc5a2@b81b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230926T164500Z
-LOCATION:Орш. А-521
-DTSTART:20230926T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:71e96d0b-a136-4538-92bf-5950ce87cf13@71e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230918T131500Z
-LOCATION:Орш. А-523
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:7da1d22d-c41f-4b77-ad86-642598b1fcbc@7da1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231018T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:ce089b16-3270-4a1b-9094-64065002436a@ce08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231030T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:987f466e-99d3-4f6d-b5ea-31a0be8ae90c@987f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231212T150000Z
-LOCATION:Орш. А-532
-DTSTART:20231212T133000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:148c8e6f-b1e5-428a-876b-ac02f181e10c@148c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20230914T150000Z
-LOCATION:Орш. А-532
-DTSTART:20230914T133000Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:7e43de9a-d558-42e8-88f1-bb572d6eb801@7e43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230927T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20230927T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:d2f34ef8-23a6-4066-a4b2-35481ed2b580@d2f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230912T164500Z
-LOCATION:Орш. А-521
-DTSTART:20230912T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:7b310bcb-551c-4df4-a778-35e2538d69ed@7b31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231024T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231024T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:aae09717-590a-4806-a2a0-0fb1d85ae574@aae0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231225T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231225T100000Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:e4d4d5f4-e71b-4ec7-8b36-f1df553f3bdf@e4d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231021T113000Z
-LOCATION:Орш. А-509
-DTSTART:20231021T100000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:cb936424-623a-406f-bb5d-59cdb053de38@cb93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231223T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231223T060000Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:0ad9d075-9274-457b-bd61-48f151942e4a@0ad9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231223T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231223T074500Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:5e8c4893-7d9b-4207-8cbb-287ae386fe35@5e8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231019T073000Z
-LOCATION:Орш. А-525
-DTSTART:20231019T060000Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:40234f67-487d-4007-904e-a5f166905339@4023.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231129T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231129T074500Z
-SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
-UID:ecf9eaa4-dd24-489e-8559-e9613ddaf147@ecf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231209T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231209T060000Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:a2fced76-617d-4a37-9cca-76b3a3aaa1f9@a2fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231111T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231111T074500Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:5abc51f5-0478-4618-a107-05862c98ac9f@5abc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20230909T131500Z
-LOCATION:Орш. А-509
-DTSTART:20230909T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:f1504454-499b-423e-ab83-63a0adb31d4e@f150.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231002T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231002T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:cc7befc4-ddaa-4c63-9f26-f03b4a03357d@cc7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230921T091500Z
-LOCATION:Орш. А-525
-DTSTART:20230921T074500Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:41678a72-4e17-4313-ab28-b9a8a91eefb9@4167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231017T131500Z
-LOCATION:Орш. А-532
-DTSTART:20231017T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:368e863e-71a5-4da5-8c9a-d079a31bd322@368e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230921T113000Z
-LOCATION:Орш. А-523
-DTSTART:20230921T100000Z
-SUMMARY:ЛК Нагревательные печи и устройства
-UID:42762d5a-da8d-430a-b077-51ed69309057@4276.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231110T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231110T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:a3031b5e-1e81-4e61-b245-bde374c3162d@a303.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231116T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231116T114500Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:362e7809-546c-43d6-b269-df84a868e8ce@362e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231014T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231014T060000Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:6fb6bcaa-ec09-402b-aaf2-3d6c5701446b@6fb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231202T113000Z
-LOCATION:Орш. А-509
-DTSTART:20231202T100000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:ed6e4424-2b22-4dfb-b118-e6dce9d1c678@ed6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231031T131500Z
-LOCATION:Орш. А-532
-DTSTART:20231031T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:876ede39-49c5-4ead-bbba-ab945b74b690@876e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231226T131500Z
-LOCATION:Орш. А-532
-DTSTART:20231226T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:b3297554-496c-4e7d-9fb1-57babd7e9888@b329.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231219T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231219T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:8e5a8beb-6854-49c6-9f0f-1d0e22bdc0ce@8e5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230916T073000Z
-LOCATION:Орш. А-527
-DTSTART:20230916T060000Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:71ef3792-df37-433b-acb2-623d04c1913d@71ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231011T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231011T133000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:3ff7b45b-ed4f-4d0f-abef-e88b4f60a708@3ff7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231026T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231026T100000Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:b7cba571-611d-460d-a393-f8ad37aef06e@b7cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231115T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:f666fee8-fcf3-4ede-b2a5-a05f1b721ae8@f666.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231118T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231118T060000Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:f59b4711-110b-47c3-9d8c-cc4778cec7a2@f59b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230906T150000Z
-LOCATION:Орш. А-523
-DTSTART:20230906T133000Z
-SUMMARY:ЛК Технология кузнечно-штамповочного производства
-UID:9e331c2a-e0b9-4cca-bc9b-587b937a7397@9e33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231130T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231130T114500Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:1f84488b-5775-4103-b817-20c514c266b1@1f84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231014T113000Z
-LOCATION:Орш. А-509
-DTSTART:20231014T100000Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:57a3fe1d-d303-4807-aab3-0284929ce523@57a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231207T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231207T100000Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:e9bf05d8-b4a7-468f-a9c5-e09c1ab43c08@e9bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231214T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231214T100000Z
-SUMMARY:ЛК Нагревательные печи и устройства
-UID:e07716c6-e508-4590-8ad2-0e76667cb4e7@e077.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20230918T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:8ed48836-7acc-4bb4-8ee9-83617d2add14@8ed4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231114T131500Z
-LOCATION:Орш. А-532
-DTSTART:20231114T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:2b34eff9-b342-43d8-ab18-28ab3076504c@2b34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231230T131500Z
-LOCATION:Орш. А-509
-DTSTART:20231230T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:10b6605c-dac2-4161-a8f7-371517c335a0@10b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231127T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:e13010cf-41ba-4dd1-aa20-2ded2d32f250@e130.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231011T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231011T151500Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:f4173816-9d80-4d10-9e12-309d78fbeb47@f417.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231004T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231004T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:fd0a6024-2266-4985-a3b1-9499cb7a0855@fd0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231003T131500Z
-LOCATION:Орш. А-532
-DTSTART:20231003T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:257e7033-bb12-4c69-843d-92dbd09de38b@257e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231202T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231202T074500Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:94895aa5-b651-49a0-90f9-b89395a4aa1e@9489.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230911T131500Z
-LOCATION:Орш. А-521
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:ca033a29-df2f-4c2c-b251-e0d84cac7d0c@ca03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231101T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231101T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:10c8520a-f1cf-4506-bd1b-06d66593b83a@10c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230915T131500Z
-LOCATION:Орш. А-523
-DTSTART:20230915T114500Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:62127079-5e9e-485a-beaf-815bfc136ec0@6212.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231004T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231004T133000Z
-SUMMARY:ЛК Технология кузнечно-штамповочного производства
-UID:16c3972a-10c6-4ad6-8e4f-614b292f02ab@16c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231216T113000Z
-LOCATION:Орш. А-509
-DTSTART:20231216T100000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:e8813027-3162-43c8-9df8-3dd80bf8ec0f@e881.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231208T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231208T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:c38f0843-39e4-406f-9029-f98dc340a62e@c38f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231107T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:0d5dcee1-464a-4f10-8495-a73d90a7efd7@0d5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231220T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231220T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:85f6ff33-d382-43a8-b365-9d575a09f783@85f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231010T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231010T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:4d123c0a-d0c2-4e46-a494-b24d45d0c9ed@4d12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231018T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231018T074500Z
-SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
-UID:c7f92711-5043-4f58-8357-28798f4843ec@c7f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231222T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231222T100000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:fbc32a6b-f3a2-4ad6-bcc9-095dbc7fe85d@fbc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231228T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231228T100000Z
-SUMMARY:ЛК Нагревательные печи и устройства
-UID:32b49fe1-a4e6-4d7d-ae73-b5d1c338e2d9@32b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231007T113000Z
-LOCATION:Орш. А-509
-DTSTART:20231007T100000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:0e5b70ea-163a-4230-ad6c-f14c755108be@0e5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20230907T131500Z
-LOCATION:Орш. А-523
-DTSTART:20230907T114500Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:8ea8eff4-dce7-49bf-a677-e3479d8ba769@8ea8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231019T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231019T100000Z
-SUMMARY:ЛК Нагревательные печи и устройства
-UID:0f730271-9555-467f-8ac0-228f4bb9aaea@0f73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231116T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231116T100000Z
-SUMMARY:ЛК Нагревательные печи и устройства
-UID:44f232b9-8813-4371-98e7-972d846accbf@44f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231123T131500Z
-LOCATION:Орш. А-532
-DTSTART:20231123T114500Z
-SUMMARY:ЛР Проектирование сварных и паянных конструкций
-UID:2a6a3478-d773-4e80-8f3d-95e1f278dba2@2a6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231220T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231220T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:63f64c86-71ba-4124-bf1c-0395de1d17e0@63f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231220T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231220T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:64bf08c6-eac5-434e-957e-94c15ba4f30e@64bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231101T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231101T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:eaee2205-ca1e-4179-9f14-3305f2986465@eaee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231205T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:14cb062f-77fe-4252-8450-bb8574e83c8a@14cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231014T131500Z
-LOCATION:Орш. А-509
-DTSTART:20231014T114500Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:71b7c6fb-7db4-4e2a-ba9f-e255499ac47d@71b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230920T150000Z
-LOCATION:Орш. А-523
-DTSTART:20230920T133000Z
-SUMMARY:ЛК Технология кузнечно-штамповочного производства
-UID:4bc42af1-9adb-434e-8650-894957e20ca0@4bc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231106T113000Z
-LOCATION:Орш. А-521
-DTSTART:20231106T100000Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:b73ca27e-790a-4d89-b10c-9b65ab673f77@b73c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230918T113000Z
-LOCATION:Орш. А-523
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:5aee3ae1-0cf7-4e6d-9bd3-57be76e44cad@5aee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231230T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231230T060000Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:480cfa39-ca02-4a6b-b264-16ff3d75af3b@480c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20230918T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20230918T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:e6b0a594-7bcd-48dc-94bf-b55d440fd1be@e6b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231110T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231110T100000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:f84cdde1-6d93-425b-934e-f2cc75224b2f@f84c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231213T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231213T074500Z
-SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
-UID:5fa84409-edb6-473f-9be3-33dae68c0262@5fa8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231116T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231116T074500Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:f017786a-178a-4845-acdf-9e6b96915c4d@f017.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231102T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Нагревательные печи и устройства
-UID:c4737583-1da5-4a75-9d83-de5587bd08cc@c473.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231106T131500Z
-LOCATION:Орш. А-521
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:99844415-2498-4d0b-9180-766abc6d044a@9984.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231218T131500Z
-LOCATION:Орш. А-521
-DTSTART:20231218T114500Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:6aeaf06d-5318-400a-b057-694d384b64cd@6aea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231122T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231122T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:ff9a7661-163f-4439-a90e-cf7d0c1b7606@ff9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231128T150000Z
-LOCATION:Орш. А-532
-DTSTART:20231128T133000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:b22aa358-16d4-4b21-989f-0b4c2bf68057@b22a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231021T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231021T060000Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:d2be0ee4-9a0c-405a-9c0c-fca4edeb9bf6@d2be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231206T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231206T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:95bedf4b-c687-4f67-a04c-f22f667e378e@95be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231225T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231225T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:c6b59f5d-7662-4ecd-86b6-a74407fb3465@c6b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231012T150000Z
-LOCATION:Орш. А-532
-DTSTART:20231012T133000Z
-SUMMARY:ЛР Проектирование сварных и паянных конструкций
-UID:eabbd80f-1f02-4fb0-9dc8-e8d1b1b6b312@eabb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231211T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231211T114500Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:7d6da64d-1a94-4b91-ab25-bc7b6633df80@7d6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231227T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231227T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:207c0fd3-48c9-41ac-b59f-95fa3ba7cf9e@207c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231025T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231025T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:1d98660b-c7ef-447e-b2bd-6199a3a1e621@1d98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231222T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231222T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:d37fee76-0a3f-4d62-aae9-492b032d88f6@d37f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231010T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231010T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:4091f319-df7b-4faf-8c74-d4ea0b1b2734@4091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231012T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231012T100000Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:53b69dd9-9fa2-4b2d-a956-3ddb62e6a946@53b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231028T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231028T074500Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:518129c0-811e-4a57-be15-a5f753096c70@5181.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231124T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231124T100000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:582e95bc-e142-4a49-ac53-9ad835113d28@582e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231129T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231129T133000Z
-SUMMARY:ЛК Технология кузнечно-штамповочного производства
-UID:30dc5c32-61e0-4ccf-939e-09e28f248cb4@30dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231030T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:82027921-331b-459b-b9fc-9a0be903a5b2@8202.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231130T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231130T074500Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:ada56543-48aa-419c-9182-5217b2211218@ada5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230902T091500Z
-LOCATION:Орш. А-509
-DTSTART:20230902T074500Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:32930c8b-93f5-42b5-b874-2197f9c7f2ed@3293.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231226T150000Z
-LOCATION:Орш. А-532
-DTSTART:20231226T133000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:caf38b70-8939-4bf3-9abb-16a751362381@caf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231227T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231227T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:2f6c132f-29da-489d-95c6-624d1cbb1180@2f6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231108T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231108T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:035459b8-457d-4941-ad6f-7fbdbd5f56bd@0354.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231013T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231013T100000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:27f6dab8-9942-4b0e-bb7a-8f29bde68b7c@27f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231129T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231129T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:24ee4ae0-1cdb-4b97-bcf1-e1863188d155@24ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231121T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231121T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:6774de39-4c5f-4cd6-8152-7e6ed936820f@6774.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231130T073000Z
-LOCATION:Орш. А-525
-DTSTART:20231130T060000Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:82a48959-a037-4b3a-8332-86c3ea7dc78d@82a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231213T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231213T133000Z
-SUMMARY:ЛК Технология кузнечно-штамповочного производства
-UID:09553700-7680-4d1f-be59-8f66ff658faf@0955.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231110T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231110T114500Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:4ceb9abe-d015-4486-8700-71b4eccf0f42@4ceb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230907T073000Z
-LOCATION:Орш. А-525
-DTSTART:20230907T060000Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:22dcbf09-71e6-498f-b476-1ac6d9f6871a@22dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231018T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231018T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:b961456c-488d-449f-ba8e-570f22635730@b961.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231204T113000Z
-LOCATION:Орш. А-521
-DTSTART:20231204T100000Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:14ed08e7-0ead-4bdb-b4de-664190d52341@14ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231213T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231213T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:6b27ad5f-d9fb-4a8c-a49b-c2389917df95@6b27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230913T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20230913T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:b8c4dadc-5cdc-484f-9b40-995111a24c2c@b8c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231211T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231211T100000Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:982889af-3ca1-4ad9-b57a-e70c61202e21@9828.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20230923T131500Z
-LOCATION:Орш. А-509
-DTSTART:20230923T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:82f08cb0-0417-4116-9a4f-cdc4ca3a4308@82f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231016T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:daa56b0b-a7d8-43f8-915c-75af862558da@daa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231017T150000Z
-LOCATION:Орш. А-532
-DTSTART:20231017T133000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:3a5723a9-460e-4a65-ad72-679f67c176a5@3a57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231101T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231101T074500Z
-SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
-UID:ca4baa8f-5c16-4391-95b2-385c5bc56d5c@ca4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231124T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231124T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:f3279d56-16dd-411c-93ae-de6b9bdc0110@f327.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231013T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231013T114500Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:b2ffc345-0208-4d7e-9cfc-7461e06f1c4d@b2ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231205T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231205T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:4ee45320-971d-4c3b-a5af-f902c850d35e@4ee4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231230T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231230T074500Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:f38baa7c-b3fe-4d7b-b309-1748c52aec64@f38b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231002T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:0f9ca770-9a89-4984-a1d6-e51382c4d804@0f9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231003T150000Z
-LOCATION:Орш. А-532
-DTSTART:20231003T133000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:f4209808-b00d-40cd-89a3-356031a937dc@f420.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230906T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20230906T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:1f853edb-f6ab-4294-9cab-10cc7834fae0@1f85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231109T131500Z
-LOCATION:Орш. А-532
-DTSTART:20231109T114500Z
-SUMMARY:ЛР Проектирование сварных и паянных конструкций
-UID:c696ad10-31ce-4940-a802-8dfafcaf40b5@c696.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231023T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231023T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:db1799e1-2924-4e31-bbb8-fa443256bf4e@db17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231004T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231004T074500Z
-SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
-UID:0b70dffd-d706-4028-8e0b-08f83362195e@0b70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231108T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231108T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:b4e1de4e-256a-4a08-a709-c0dd0ce07a65@b4e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231206T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231206T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:2dad63fd-83bb-485f-9faa-1d2113482786@2dad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231025T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231025T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:170ea250-ea94-4a31-8c7a-9f4a0cac8b79@170e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231115T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231115T133000Z
-SUMMARY:ЛК Технология кузнечно-штамповочного производства
-UID:4d521e72-1ced-4be4-8cdc-f76540d0cfcf@4d52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231106T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:22d430c4-d746-48e4-83f3-d8a6cc4b6111@22d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231025T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231025T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:318886ea-820f-4314-9b93-51f241b3b6e4@3188.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231031T150000Z
-LOCATION:Орш. А-532
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:8d13263e-ca3b-4b53-b9d9-0f8efc854e9c@8d13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230902T073000Z
-LOCATION:Орш. А-509
-DTSTART:20230902T060000Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:a3028886-4ba1-4b11-b3bf-e94fc76e3145@a302.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231012T131500Z
-LOCATION:Орш. А-532
-DTSTART:20231012T114500Z
-SUMMARY:ЛР Проектирование сварных и паянных конструкций
-UID:159a9c06-4f38-452e-be00-6cba0ceb0c11@159a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231030T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231030T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:688cd748-bf15-4924-9327-cf94a8005469@688c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231007T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231007T074500Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:410dfb0a-67ca-4077-be57-2dda85a81547@410d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231206T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231206T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:d0b93e38-71b1-4ebe-8029-95344a1a9820@d0b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230916T091500Z
-LOCATION:Орш. А-527
-DTSTART:20230916T074500Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:66e169e3-5530-4fcf-ab6b-57f2bba8f8cf@66e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230920T091500Z
-LOCATION:Орш. А-525
-DTSTART:20230920T074500Z
-SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
-UID:1043992a-eeb7-4e1c-b3f5-d00e8cf4af92@1043.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231208T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231208T114500Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:4f0745ea-4574-4a8b-aea7-04150ef2c354@4f07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231007T131500Z
-LOCATION:Орш. А-509
-DTSTART:20231007T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:af62c8a2-36f6-4109-bb28-96c8578d1926@af62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231102T073000Z
-LOCATION:Орш. А-525
-DTSTART:20231102T060000Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:907d8c97-d99e-4f93-8305-0c48eca33e5c@907d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230929T150000Z
-LOCATION:Орш. А-523
-DTSTART:20230929T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:e375d852-3c4f-43e6-94f5-054e0e191f24@e375.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230923T073000Z
-LOCATION:Орш. А-509
-DTSTART:20230923T060000Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:b3b2cc01-5ac1-4ebd-820e-76a6c4c593de@b3b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231227T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231227T133000Z
-SUMMARY:ЛК Технология кузнечно-штамповочного производства
-UID:0ab8c91d-dabc-41bd-9fb0-c37512268030@0ab8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230901T113000Z
-LOCATION:Орш. А-523
-DTSTART:20230901T100000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:d1c7ac01-bf55-40cf-8b5f-5d0df49dae64@d1c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230906T091500Z
-LOCATION:Орш. А-525
-DTSTART:20230906T074500Z
-SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
-UID:39e99ff0-5d9c-46e8-9369-f8f013c4628a@39e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231027T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231027T114500Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:5a0bad91-20e7-49d7-82ec-97b234621d28@5a0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230920T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20230920T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:5210c655-cd51-4dcb-81be-35c54d6e20f4@5210.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231216T131500Z
-LOCATION:Орш. А-509
-DTSTART:20231216T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:f4b6c5d0-56b1-419f-a7f0-cb205a095796@f4b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230926T150000Z
-LOCATION:Орш. А-521
-DTSTART:20230926T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:49ee6779-ef0a-426c-be45-0083e706ab7d@49ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20230925T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20230925T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:6ffbc8f1-315f-4845-a84f-b5015a521ae8@6ffb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231109T150000Z
-LOCATION:Орш. А-532
-DTSTART:20231109T133000Z
-SUMMARY:ЛР Проектирование сварных и паянных конструкций
-UID:86d858c8-dc60-4b21-afbb-37b92a1603fe@86d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20230905T131500Z
-LOCATION:Орш. А-532
-DTSTART:20230905T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:3a24257c-26f1-4ff6-811c-54ddd45ee662@3a24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231123T150000Z
-LOCATION:Орш. А-532
-DTSTART:20231123T133000Z
-SUMMARY:ЛР Проектирование сварных и паянных конструкций
-UID:9ff8ef04-25b7-4ea3-a3c2-23573f2cc34f@9ff8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230901T150000Z
-LOCATION:Орш. А-523
-DTSTART:20230901T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:26c7c7da-4317-4a07-b3a4-62b3778ddd8e@26c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231024T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:65becd6b-698e-49e1-8e44-4a9ce02aa61f@65be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231106T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231106T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:10e15d79-9e4c-4cdc-96d7-b67192bf0915@10e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231130T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Нагревательные печи и устройства
-UID:075f172d-d1b9-4d96-8249-a0fa4c0e0b8b@075f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231211T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231211T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:6af38a23-b842-481e-9add-be2f8d6da301@6af3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230913T150000Z
-LOCATION:Орш. А-521
-DTSTART:20230913T133000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:07caee76-7391-4532-aae8-255be546fd09@07ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230913T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20230913T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:4e166012-72fa-4c93-b16d-2caa3bd619e6@4e16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231009T131500Z
-LOCATION:Орш. А-521
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:d05b3be2-afe2-48e7-8edf-1cf22d3b588a@d05b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230930T113000Z
-LOCATION:Орш. А-509
-DTSTART:20230930T100000Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:49d2e15b-4c7a-474a-822a-5e1239c277f2@49d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231216T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231216T074500Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:6becd895-248a-42fa-b8ca-501579758876@6bec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231124T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231124T114500Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:e0952cac-b523-43d7-ab1d-f1ce55376f70@e095.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231114T150000Z
-LOCATION:Орш. А-532
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:3b4c35a1-342a-4011-8f3c-f0dae6e75f22@3b4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231120T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:8b25951c-3ecd-4b1b-91df-97fef410f40b@8b25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231127T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231127T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:848b55a4-d2c9-453a-bb40-1a7ec3e9be79@848b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231216T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231216T060000Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:9684df6e-68a1-451d-8057-d84ebad5ad71@9684.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231027T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231027T100000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:a63af20f-cbd4-423b-adce-143ebad7da68@a63a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230923T091500Z
-LOCATION:Орш. А-509
-DTSTART:20230923T074500Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:c2f0b0d6-27b9-4279-a139-c19085282c85@c2f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231120T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231120T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:97a21444-ff4a-4787-bac3-d600a24faadc@97a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231122T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231122T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:da808dcc-bc46-4515-9699-931c8f92c524@da80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231125T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231125T074500Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:1640183f-4551-4ef9-a234-66d8cd3c37c2@1640.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231113T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:834d7338-1376-4591-b8d3-9ea3f0089171@834d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231002T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:070fc8c5-526a-40ab-882b-6611c20ff4ed@070f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231021T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231021T074500Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:744d2e99-c33c-4499-a4e3-e78fb7ebb5c0@744d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231005T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231005T114500Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:6778ad2d-7019-4d23-8a8a-4b320d857100@6778.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231209T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231209T074500Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:2ec426f6-bbc1-49e5-a43a-0fb992e61f21@2ec4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231005T073000Z
-LOCATION:Орш. А-525
-DTSTART:20231005T060000Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:e00cb863-3ead-448f-b868-b582fed1cff5@e00c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231208T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231208T100000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:bb23a9ad-cbf1-4a01-92df-2bdd0477694a@bb23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230901T131500Z
-LOCATION:Орш. А-523
-DTSTART:20230901T114500Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:751d19ba-5532-4b5b-8641-bc54c39ffe88@751d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230904T131500Z
-LOCATION:Орш. А-523
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:b040fa56-7dbc-423d-9139-8964524827f3@b040.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231122T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:b216d8b1-be34-4b32-b883-4fe86aeabefe@b216.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231222T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231222T114500Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:85221463-d930-403e-82da-1a60cec7e549@8522.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231225T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231225T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:24b2e3fd-0ae3-4b6d-917b-4ec5a0dcbd60@24b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230913T164500Z
-LOCATION:Орш. А-521
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:d94b1981-b314-425c-acc5-32c9bd39bfed@d94b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231011T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231011T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:b9ff3980-024d-4f0b-b7a4-ab1ee508e533@b9ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231225T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231225T114500Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:bd97b202-1790-4e26-aad8-63f7e71d9590@bd97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231120T131500Z
-LOCATION:Орш. А-521
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:3f251ce5-7e68-4682-8943-e9a7c4bcd36c@3f25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230929T113000Z
-LOCATION:Орш. А-523
-DTSTART:20230929T100000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:39aeca29-a51f-4218-91aa-4357f3fa5c1c@39ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20230923T113000Z
-LOCATION:Орш. А-509
-DTSTART:20230923T100000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:4a28f78b-4146-449a-8282-29e7c50c3391@4a28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230930T131500Z
-LOCATION:Орш. А-509
-DTSTART:20230930T114500Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:bc874c04-a616-4c1a-9ef0-a93f377fa898@bc87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231202T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231202T060000Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:3c2c2c9c-d907-44a9-908c-c9ef50494269@3c2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231005T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231005T100000Z
-SUMMARY:ЛК Нагревательные печи и устройства
-UID:33b06255-a545-4ae8-9fc1-aea2c2636c19@33b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231118T113000Z
-LOCATION:Орш. А-509
-DTSTART:20231118T100000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:a9c473fc-ca18-4c60-813c-5184eabb6623@a9c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231212T131500Z
-LOCATION:Орш. А-532
-DTSTART:20231212T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:4b1f380f-591a-4c5d-ace1-cf5b893ff2eb@4b1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231218T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231218T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:571d2aa3-6892-446b-b8a0-fb0be1155b81@571d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20230914T113000Z
-LOCATION:Орш. А-523
-DTSTART:20230914T100000Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:7f5bd569-a634-4f53-921a-dc028a7908a6@7f5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230911T113000Z
-LOCATION:Орш. А-521
-DTSTART:20230911T100000Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:c5f14b6a-9322-4818-93b8-0a4276bda88f@c5f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231107T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231107T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:964e743b-e122-487d-a58f-ad7cc6476f43@964e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20230909T113000Z
-LOCATION:Орш. А-509
-DTSTART:20230909T100000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:fa15a904-d026-4161-a136-aa39bc8c52ad@fa15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231220T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231220T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:3d633962-eabb-42bd-bd4e-4e851e487828@3d63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231005T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231005T074500Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:bba0a088-1a9b-466f-8e14-244080e9918b@bba0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230930T091500Z
-LOCATION:Орш. А-509
-DTSTART:20230930T074500Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:0de4d0ef-92fd-483d-ba9d-1bf01453c28a@0de4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231013T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231013T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:44cd565e-a530-428e-9971-32a00462151f@44cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231127T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231127T100000Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:5b5c5cb8-a3d9-4758-bfdc-58c9d9f0e72d@5b5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231102T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231102T074500Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:b3616aec-25e3-4bf1-bca2-943dfc64934b@b361.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20230919T131500Z
-LOCATION:Орш. А-532
-DTSTART:20230919T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:8bd9013b-902d-4512-b403-9633d730aacf@8bd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20230904T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:200790de-a4a0-463d-aac6-3ff94d2373fa@2007.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231009T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:c16dab3d-5308-438a-82ad-acd71ed9d80c@c16d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231016T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231016T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:33357165-76d1-427e-b41e-fc23e22a3c34@3335.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230909T073000Z
-LOCATION:Орш. А-509
-DTSTART:20230909T060000Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:8cb07457-d2e1-4cac-8f55-929db1fcca0f@8cb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231121T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231121T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:a25cf53d-ff95-46b0-859e-9420346e5388@a25c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231023T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:d994e7a5-f996-449f-85a0-265fcc1c7c7e@d994.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231021T131500Z
-LOCATION:Орш. А-509
-DTSTART:20231021T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:97cac92f-7a62-437a-836c-c6ca18bc7e00@97ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230912T150000Z
-LOCATION:Орш. А-521
-DTSTART:20230912T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:a0b6840b-c860-4166-bece-33a8f72e9d9f@a0b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231023T131500Z
-LOCATION:Орш. А-521
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:1a07d40a-0783-40ae-9d99-72c03314e8b8@1a07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231218T113000Z
-LOCATION:Орш. А-521
-DTSTART:20231218T100000Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:a76e10ad-6e13-4ef2-951d-28c7bc90d46e@a76e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20230928T113000Z
-LOCATION:Орш. А-523
-DTSTART:20230928T100000Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:b1c00296-09b9-48b8-ab34-b5d487875721@b1c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231113T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:7370d944-0658-4d07-a0ea-8e1b3c97c848@7370.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231009T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231009T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:d048bb27-eb3c-4ea6-84e7-11f9f1967553@d048.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20230904T113000Z
-LOCATION:Орш. А-523
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:a2643ae0-d167-4728-b896-ec40538111ac@a264.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231221T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231221T100000Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:01814a6f-8330-425c-8904-926ee0c106c3@0181.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231102T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231102T114500Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:7cdf0009-a9a1-4731-bef4-ae9cd5392161@7cdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231016T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:7cd45934-7642-4561-a4e9-2b309278766d@7cd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231204T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231204T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:5481eb30-eb75-4789-8923-512373f22581@5481.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231018T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231018T133000Z
-SUMMARY:ЛК Технология кузнечно-штамповочного производства
-UID:5886b6ca-6a91-418a-9d2e-73c96b1f1544@5886.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231004T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231004T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:1d126c14-10e2-4c0d-a5b3-e5560f5c094a@1d12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231007T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231007T060000Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:30763fbd-97cd-4c97-806b-bebf9c0be0c2@3076.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20230911T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20230911T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:eade6893-d82b-4cda-aac5-a659a884862c@eade.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20230914T131500Z
-LOCATION:Орш. А-532
-DTSTART:20230914T114500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:b2151ad8-06d8-4ed2-8e02-abe5eb590bad@b215.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230915T150000Z
-LOCATION:Орш. А-523
-DTSTART:20230915T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:592ac4cf-7bbe-4ff0-a2e9-fad93f111d0e@592a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20230911T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:08e30e7e-128e-4627-8dba-2eff132730be@08e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230930T073000Z
-LOCATION:Орш. А-509
-DTSTART:20230930T060000Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:19a4baaa-c024-4abf-a902-e3de46d14d64@19a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231011T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231011T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:453ad1bd-9657-4a98-bce2-67872fc92f68@453a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20230905T150000Z
-LOCATION:Орш. А-532
-DTSTART:20230905T133000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:fc4ba42b-bae8-4f8c-90bc-994354284b62@fc4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231113T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Технология прокатно-прессового производства
-UID:2a79ca14-3e90-426a-88fa-e43f4d1032ef@2a79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231115T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231115T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:d9a83d72-e5ce-4db5-999b-4ae9dcb24f62@d9a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231122T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231122T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:0751e094-b320-4478-b2f8-b67c101c4fbd@0751.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231213T113000Z
-LOCATION:Орш. Б-514
-DTSTART:20231213T100000Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:f657b37a-e05f-455f-ad2f-95bc884161a9@f657.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231227T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231227T074500Z
-SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
-UID:85d6ac2e-e214-40ea-a7fb-4fa5a7e288df@85d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230927T150000Z
-LOCATION:Орш. А-521
-DTSTART:20230927T133000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:7e80e1b3-3898-4911-ad1d-baf5d2812e6a@7e80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20230928T150000Z
-LOCATION:Орш. А-532
-DTSTART:20230928T133000Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:049387e4-4026-4ff3-8aa3-e451f6033bb7@0493.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231019T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231019T074500Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:4d2d15d6-e398-4512-aa4d-3640ea1773d9@4d2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231115T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231115T074500Z
-SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
-UID:9dbf64fe-5a51-4e10-991b-88d726af7605@9dbf.org
+UID:978f31e7-281a-4b7c-85bd-67fecfb147d2@978f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
@@ -2199,55 +23,31 @@ DTEND:20231120T113000Z
 LOCATION:Орш. А-521
 DTSTART:20231120T100000Z
 SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:797a2dc8-3d09-4367-8fec-1cf0595b64e6@797a.org
+UID:5387b0e0-9b71-4605-9ba3-a3d392125b93@5387.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231206T131500Z
-LOCATION:Орш. Б-514
-DTSTART:20231206T114500Z
-SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:1802f207-b1d5-4031-aca9-9e20098e75eb@1802.org
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231227T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231227T133000Z
+SUMMARY:ЛК Технология кузнечно-штамповочного производства
+UID:7d18b120-3523-4cab-a600-ce0c416e3bd5@7d18.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231118T131500Z
+DTEND:20231007T113000Z
 LOCATION:Орш. А-509
-DTSTART:20231118T114500Z
+DTSTART:20231007T100000Z
 SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:b6518d9a-8a86-41b8-b847-aa23fef2b8eb@b651.org
+UID:da715fda-d3c7-4bbb-9ef2-95cc969a598d@da71.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230915T113000Z
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230918T113000Z
 LOCATION:Орш. А-523
-DTSTART:20230915T100000Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:f862180f-11c1-4b5c-9fbe-eb34c6629547@f862.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231009T113000Z
-LOCATION:Орш. А-521
-DTSTART:20231009T100000Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:2858713a-f49d-4273-862e-e685a8c40cd5@2858.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231030T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:681616e2-666c-4961-9dea-6849939394cd@6816.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231204T131500Z
-LOCATION:Орш. А-521
-DTSTART:20231204T114500Z
-SUMMARY:ПЗ Технология кузнечно-штамповочного производства
-UID:8f9ca579-7ea9-4b84-828c-adfc55e12436@8f9c.org
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:42b110b8-25b6-4eac-9004-2b584383bef6@42b1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
@@ -2255,135 +55,135 @@ DTEND:20231016T131500Z
 LOCATION:Орш. А-523
 DTSTART:20231016T114500Z
 SUMMARY:ЛК Технология прокатно-прессового производства
-UID:f86cb34f-dee6-4dc7-ba82-41d341e51cda@f86c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20230916T113000Z
-LOCATION:Орш. А-509
-DTSTART:20230916T100000Z
-SUMMARY:ЛР Технология и оборудование сварки плавлением
-UID:e4693b81-2f4a-46c7-b793-321795a33422@e469.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230907T091500Z
-LOCATION:Орш. А-525
-DTSTART:20230907T074500Z
-SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:7692a99b-01b7-43eb-8a27-cb9f055b1b41@7692.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20230919T150000Z
-LOCATION:Орш. А-532
-DTSTART:20230919T133000Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:f50422b7-94a2-4248-9981-54112f133c55@f504.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231125T073000Z
-LOCATION:Орш. А-509
-DTSTART:20231125T060000Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:d621b30b-dbec-4d1c-97b5-ff46ffcd4e1d@d621.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231113T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231113T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:19fb973a-4536-41a2-b49c-603dc6f7f4fe@19fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
-DTEND:20231014T091500Z
-LOCATION:Орш. А-509
-DTSTART:20231014T074500Z
-SUMMARY:ЛК Технология и оборудование сварки плавлением
-UID:cb973f34-1b55-4c53-92ca-14b0a54f2802@cb97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
-DTEND:20231202T131500Z
-LOCATION:Орш. А-509
-DTSTART:20231202T114500Z
-SUMMARY:ПЗ Технология и оборудование сварки плавлением
-UID:686ba433-4a59-4ffc-a0b5-d3a3e8b68c9a@686b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231025T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231025T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:d33c2963-e2f3-4504-9071-f701b2e59f69@d33c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231219T164500Z
-LOCATION:Орш. А-521
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:3ffd4f05-cce6-4b01-b236-afd049676e99@3ffd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231218T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231218T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:0bca12a4-9880-4d54-addc-8f66eacbb593@0bca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231204T164500Z
-LOCATION:Орш. Б-304
-DTSTART:20231204T151500Z
-SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:75336fc3-e779-49fb-bd16-29139c4af2fb@7533.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20231211T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:d270731a-9909-41bf-a646-21ebd2d9f287@d270.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соколов Алексей Викторович
-DTEND:20231123T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231123T100000Z
-SUMMARY:ПЗ Нагревательные печи и устройства
-UID:2bce85bb-6d02-42a2-9f17-7f76acc9cc89@2bce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230929T131500Z
-LOCATION:Орш. А-523
-DTSTART:20230929T114500Z
-SUMMARY:ЛК Технология листовой штамповки
-UID:570ea21f-76e2-4f09-add0-af463ee830af@570e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
-DTEND:20230904T150000Z
-LOCATION:Орш. Б-304
-DTSTART:20230904T133000Z
-SUMMARY:ЛК Проектирование сварных и паянных конструкций
-UID:a7770c1f-6eed-41c5-8825-cbe69cf7184f@a777.org
+UID:5bdb6593-65cc-4ced-9f13-5be490d00acb@5bdb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
-DTEND:20231002T113000Z
+DTEND:20231004T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231004T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:19bfc556-60c4-4613-a04a-e73e228bf27a@19bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231010T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:19f40216-add3-4832-893b-ff4f8f5a8731@19f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20230909T131500Z
+LOCATION:Орш. А-509
+DTSTART:20230909T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:03b8f1b0-8dea-46a7-a60e-8fc510e95ed3@03b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231018T150000Z
 LOCATION:Орш. А-523
-DTSTART:20231002T100000Z
+DTSTART:20231018T133000Z
+SUMMARY:ЛК Технология кузнечно-штамповочного производства
+UID:3a896d33-b83c-49d8-8863-29b4ad81cc9a@3a89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231019T073000Z
+LOCATION:Орш. А-525
+DTSTART:20231019T060000Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:b5e6b621-199e-4de6-b74a-72523dec3809@b5e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230901T150000Z
+LOCATION:Орш. А-523
+DTSTART:20230901T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:15e98d97-8ee5-4051-985e-18bb214ce528@15e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231206T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231206T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:49713c0b-2ec9-4218-9906-521a7e7962ca@4971.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231012T150000Z
+LOCATION:Орш. А-532
+DTSTART:20231012T133000Z
+SUMMARY:ЛР Проектирование сварных и паянных конструкций
+UID:35729aa7-564a-418e-9e46-d7c0c65f7e50@3572.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230925T131500Z
+LOCATION:Орш. А-521
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:fa275827-08d0-4409-9fcb-92745be2eabb@fa27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20230911T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20230911T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:d1e76795-db1d-4dc4-b6c5-2931b13ae2b9@d1e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231011T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231011T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:53fc6d30-0c38-42e4-ab06-3d8940e87fda@53fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231110T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231110T100000Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:309c449d-a313-4046-9517-18cb5d993217@309c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231127T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231127T100000Z
 SUMMARY:ЛК Технология прокатно-прессового производства
-UID:0bbaead9-a830-4e5f-93ff-e2f868b690c8@0bba.org
+UID:315c1129-731d-45bf-bc2d-0c2d44ea937b@315c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231016T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:ed8ba54c-483b-4de8-9789-137129056607@ed8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231026T150000Z
+LOCATION:Орш. А-532
+DTSTART:20231026T133000Z
+SUMMARY:ЛР Проектирование сварных и паянных конструкций
+UID:a5be8d0a-6afb-423c-8e4a-9e0ed029fc47@a5be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231221T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231221T100000Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:dcfae25c-a693-410b-a2d5-d2b356b8459a@dcfa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
@@ -2391,31 +191,399 @@ DTEND:20231108T131500Z
 LOCATION:Орш. Б-514
 DTSTART:20231108T114500Z
 SUMMARY:ПЗ Технология прокатно-прессового производства
-UID:b5be86a5-3315-4351-b6c4-630fc2801f99@b5be.org
+UID:2fac6aa9-908a-4d37-b44f-6ca87e7e070e@2fac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231026T131500Z
+LOCATION:Орш. А-532
+DTSTART:20231026T114500Z
+SUMMARY:ЛР Проектирование сварных и паянных конструкций
+UID:005a9e34-67d5-4aeb-ba9d-8f7d036d669d@005a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231125T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231125T060000Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:a7c76d63-9ce4-42cc-a8c0-9387db636275@a7c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230901T131500Z
+LOCATION:Орш. А-523
+DTSTART:20230901T114500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:06f017de-683b-408d-a886-25cc723aa1be@06f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231124T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231124T100000Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:ebf17505-303e-4a5c-9d22-b91301235c0b@ebf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231011T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231011T133000Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:19727f61-3bd2-41b2-aa68-9c925320f425@1972.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231214T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231214T114500Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:dc7bb9e7-2e0f-4a93-ba72-5fc1650b251d@dc7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231125T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231125T074500Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:52a1d410-5837-47cd-89e2-faee3a53588f@52a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231216T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231216T060000Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:beb333a4-adbb-4da1-aa92-4b6395062b9e@beb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231027T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231027T100000Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:1b5dbe90-e3d2-426c-87d2-2eb1c6b77518@1b5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230906T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20230906T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:03500b19-78e8-4d50-a5de-b1a64e3267e7@0350.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231111T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231111T060000Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:983bd562-0248-4f6c-87f6-eff59487b30b@983b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231123T150000Z
+LOCATION:Орш. А-532
+DTSTART:20231123T133000Z
+SUMMARY:ЛР Проектирование сварных и паянных конструкций
+UID:6bf57f25-c195-4e75-9f65-4a726d9f8580@6bf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231106T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231106T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:0f804225-afe1-42dc-9f5c-8c1cb1e6a67a@0f80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231227T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231227T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:1b0772bc-7555-4c56-a801-a4cd366fc9d4@1b07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231230T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231230T060000Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:beb8e45b-9448-4a88-be5c-c159df093da7@beb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231021T113000Z
+LOCATION:Орш. А-509
+DTSTART:20231021T100000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:38043c9e-33e6-46d5-9f4e-92d496a227e3@3804.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231116T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231116T114500Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:4bbcca1f-5382-416d-9582-5121fcfcf838@4bbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231128T131500Z
+LOCATION:Орш. А-532
+DTSTART:20231128T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:e214484d-5758-484f-8263-7438fe250e16@e214.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231021T131500Z
+LOCATION:Орш. А-509
+DTSTART:20231021T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:3c671465-ab40-4a5c-bd3b-53a9038dba76@3c67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230927T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20230927T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:b84a9033-a8ce-438a-8b6f-9209eec68147@b84a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231121T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231121T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:07a4f465-b003-487b-91be-c3e8d6626557@07a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231115T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231115T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:84cd43a7-35d9-45f0-835d-6682195d3536@84cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231004T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231004T133000Z
+SUMMARY:ЛК Технология кузнечно-штамповочного производства
+UID:96eb3edd-0401-452c-9857-797d908bb6ec@96eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230915T150000Z
+LOCATION:Орш. А-523
+DTSTART:20230915T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:fe46a840-0d8e-446a-82dc-c3c58489d4a3@fe46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231012T131500Z
+LOCATION:Орш. А-532
+DTSTART:20231012T114500Z
+SUMMARY:ЛР Проектирование сварных и паянных конструкций
+UID:e0d422ce-0df3-4d71-810c-686b180f958e@e0d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231030T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:92b4f1cf-b60b-4c3c-a07c-9b4b9e3ad70b@92b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231127T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231127T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:b6008284-fbd3-4e5c-9b84-8ff3e475e0da@b600.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231218T113000Z
+LOCATION:Орш. А-521
+DTSTART:20231218T100000Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:92791973-904a-4326-bd6f-6245613a5dcf@9279.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231025T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231025T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:5143d22f-6265-4956-a024-2d7158cefe49@5143.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231024T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231024T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:3b7d5022-7946-45b3-b069-ac3e4ef1f109@3b7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231219T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:788bc42d-1680-4c3b-873d-675353f5b952@788b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231116T073000Z
+DTEND:20231005T091500Z
 LOCATION:Орш. А-525
-DTSTART:20231116T060000Z
+DTSTART:20231005T074500Z
 SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:9260ed26-da1d-407f-bfa4-eb88dccc2764@9260.org
+UID:b5208818-0e7e-4d20-a1dc-d5dca436d364@b520.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20231027T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231027T133000Z
-SUMMARY:ПЗ Технология листовой штамповки
-UID:6c0e0674-db19-4c42-a864-87ef899893aa@6c0e.org
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231018T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231018T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:91868701-92d6-41e4-a4c8-7286eeb8fe11@9186.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
-DTEND:20230927T164500Z
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231004T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231004T074500Z
+SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
+UID:b0de6784-7777-4dfd-bd76-1de3b84348ee@b0de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231016T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:8a5ee5d7-96ce-404d-bf82-69555baa604a@8a5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231031T131500Z
+LOCATION:Орш. А-532
+DTSTART:20231031T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:653b87a3-187a-43ff-b1a8-22adb09fa333@653b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231106T113000Z
 LOCATION:Орш. А-521
-DTSTART:20230927T151500Z
+DTSTART:20231106T100000Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:3378b885-fae1-4d8f-98f0-725096b1c111@3378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230913T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:23875fb6-88c4-4b27-b1f0-db6f25e72c12@2387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231023T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:71bf7233-24fb-420c-a3f4-c2e87cc3060c@71bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230927T150000Z
+LOCATION:Орш. А-521
+DTSTART:20230927T133000Z
 SUMMARY:ЛК Технология листовой штамповки
-UID:fc7d3bb6-d2a3-494b-a5fe-c3938a2532f7@fc7d.org
+UID:159851fe-c4f3-40ba-abad-2aae8967d718@1598.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20230905T150000Z
+LOCATION:Орш. А-532
+DTSTART:20230905T133000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:d80360b4-b2ff-43ba-8993-18a34ef3d450@d803.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230929T131500Z
+LOCATION:Орш. А-523
+DTSTART:20230929T114500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:1653f93c-1ce4-42df-a3e4-07401ab7b758@1653.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231007T131500Z
+LOCATION:Орш. А-509
+DTSTART:20231007T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:be4981a1-3890-43bf-a92d-7998510a3882@be49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231010T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231010T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:fabcd44b-b4d0-467e-80b0-7c300eed5abd@fabc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20230918T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:77b5da71-3481-4718-88bd-edc70b34cb0e@77b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230920T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20230920T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:ed7f7d38-48dd-44c6-befd-b37636ef1aa2@ed7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231122T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231122T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:c87831d4-1790-442d-b296-c9e389925a37@c878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231202T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231202T060000Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:4b4844e1-8551-4963-a9a6-3a26250d95b6@4b48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231202T113000Z
+LOCATION:Орш. А-509
+DTSTART:20231202T100000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:84aa5a30-1e96-4a84-a465-7b2650ea41f7@84aa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
@@ -2423,7 +591,623 @@ DTEND:20230925T164500Z
 LOCATION:Орш. Б-304
 DTSTART:20230925T151500Z
 SUMMARY:ПЗ Проектирование сварных и паянных конструкций
-UID:f80fa0dd-c843-466e-bf6d-335bf901b8ee@f80f.org
+UID:154e361e-67bb-435c-940b-2b07b7289b0c@154e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230920T150000Z
+LOCATION:Орш. А-523
+DTSTART:20230920T133000Z
+SUMMARY:ЛК Технология кузнечно-штамповочного производства
+UID:d9c7d6e4-728a-454f-8af7-4e66de249dc7@d9c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20230914T131500Z
+LOCATION:Орш. А-532
+DTSTART:20230914T114500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:9ee1f090-c823-4b9b-a598-fdc8fad06f7e@9ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231013T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231013T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:d59c97d0-34d8-4c01-93bd-196e59006eb5@d59c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231113T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:5b9faadd-e099-47be-9c48-ec5f92b19e44@5b9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231127T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:d7628e41-a561-44a2-b035-0b1aac8037ca@d762.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231019T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231019T114500Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:59bb80ea-a557-4a6a-a8a3-2732ee5df81a@59bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230902T091500Z
+LOCATION:Орш. А-509
+DTSTART:20230902T074500Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:8f384865-3db4-4541-91b6-898ab0335233@8f38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231014T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231014T074500Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:3f27d0dc-c8e5-4fa3-a79b-6904270a4fb5@3f27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230902T073000Z
+LOCATION:Орш. А-509
+DTSTART:20230902T060000Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:2b1cd16b-6c39-4d30-9c49-a8bc3b30727f@2b1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231013T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231013T114500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:3a717500-e157-4f77-b9e2-f1a11b8c8e56@3a71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231018T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:137fe15b-6eb1-4eaf-9375-99647a6d97cb@137f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231011T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231011T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:7ac6e9ab-5d94-439a-a15f-8391135615f2@7ac6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231202T131500Z
+LOCATION:Орш. А-509
+DTSTART:20231202T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:a48062a3-228e-41f4-9b66-e286cfc1caf9@a480.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230915T113000Z
+LOCATION:Орш. А-523
+DTSTART:20230915T100000Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:29932428-b3c8-4d44-aee2-82aa4f46ed4b@2993.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231118T131500Z
+LOCATION:Орш. А-509
+DTSTART:20231118T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:e15f814a-6c3c-42b4-85e5-67ad0ebb26dc@e15f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230912T150000Z
+LOCATION:Орш. А-521
+DTSTART:20230912T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:e173f27a-6a55-4f54-be79-2ef81ae5cf74@e173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231121T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231121T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:4a54daf5-e490-48dc-855f-14484d54ba2c@4a54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231003T150000Z
+LOCATION:Орш. А-532
+DTSTART:20231003T133000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:95ed2be7-5ed2-4f6a-be77-2d7f73b8b626@95ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231209T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231209T060000Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:e8444bdb-421d-4db4-a891-831eb3da04ce@e844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230913T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20230913T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:a9a6926e-0f94-4acf-9fb4-1685b65578e0@a9a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231021T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231021T060000Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:9926f037-f6b9-4f86-9c00-b867ff78525a@9926.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231028T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231028T060000Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:c5ce81e3-dc34-49a6-ab0d-a4061b7d629a@c5ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230904T113000Z
+LOCATION:Орш. А-523
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:8f55cb06-1102-4669-a03c-3378f421f5f9@8f55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231111T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231111T074500Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:a0d0580b-7e8c-43c2-8ca6-355f798f8a90@a0d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231127T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231127T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:7c25e1c3-d378-42cd-8688-45fb825b8173@7c25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20230923T113000Z
+LOCATION:Орш. А-509
+DTSTART:20230923T100000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:c70f8de9-9df5-4faa-a9db-5d0d84e3b1bf@c70f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231005T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231005T114500Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:2fa54e0b-e2ac-4f14-baff-0ed4a23753a2@2fa5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230921T091500Z
+LOCATION:Орш. А-525
+DTSTART:20230921T074500Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:8f78633e-9ac3-4945-9a7f-b95ef910cda5@8f78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230927T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20230927T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:353ae59f-51be-403f-acf9-6fa155088560@353a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231002T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:f5e69b90-90bc-4813-87a5-5590a6169118@f5e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231214T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231214T100000Z
+SUMMARY:ЛК Нагревательные печи и устройства
+UID:bd1ca0a0-7f12-4dcd-bc69-f2d9eb150c24@bd1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231007T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231007T060000Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:1e395c92-5fef-4be1-aa6c-d6120cac5301@1e39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231106T131500Z
+LOCATION:Орш. А-521
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:d531faee-f38a-444f-a673-6b2f2147a052@d531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231025T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231025T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:7e8ad312-e980-4f75-ab90-da9e187563e8@7e8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231225T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231225T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:bcf5593c-4ae6-4db4-a324-00d3a57aafe0@bcf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231211T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231211T100000Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:f106f36e-6265-4a85-a6fe-566e79f3ca79@f106.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231025T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231025T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:82a4df79-4700-4103-9015-70a1a3ad306e@82a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230911T131500Z
+LOCATION:Орш. А-521
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:253163b3-d000-4038-ac7d-f03a26c94492@2531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231212T150000Z
+LOCATION:Орш. А-532
+DTSTART:20231212T133000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:33e55f94-80ae-4553-b7bf-f489e83b2103@33e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231007T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231007T074500Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:9cd693e6-f529-40dd-a1da-4bf76558d5ef@9cd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231102T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231102T114500Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:17fe15a3-5788-414b-b947-2c036277401a@17fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231106T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:f7c8996d-84e1-4580-b6c8-11a9bc86211d@f7c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231213T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:4a59541c-ac29-4bb2-849b-fc5b2598da11@4a59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231122T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:09762912-6f59-45ab-9367-3b9b08e9d079@0976.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231107T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:eff23690-2286-43a4-a869-72cd7f1ec399@eff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231023T113000Z
+LOCATION:Орш. А-521
+DTSTART:20231023T100000Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:9b167460-d869-4f94-bb9e-6be1c7dd9b7f@9b16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230906T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20230906T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:659d7001-5b1a-4afb-b27f-2c9ccfe0f45e@659d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231110T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231110T114500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:6a7973df-18e3-42f8-a8eb-65fe809a0586@6a79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231208T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231208T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:7f8c2fb3-14ee-4011-926e-4b6666bb9853@7f8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231213T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231213T074500Z
+SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
+UID:3a13d77f-35a8-4eb1-9e57-7c98abd9dae6@3a13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231023T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231023T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:978965ec-93cb-4e93-bf5f-3ba7e70af226@9789.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231017T131500Z
+LOCATION:Орш. А-532
+DTSTART:20231017T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:f5c99e9f-f369-42b9-9885-ca6f36402956@f5c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231129T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231129T074500Z
+SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
+UID:7c4e885e-0108-4460-98a0-6a1b154e4950@7c4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231101T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231101T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:50862bf3-1d94-4aea-a65c-fff69cacaa96@5086.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231011T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231011T151500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:3bf7a952-f571-481e-8c9e-b40070b9e2dc@3bf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231102T073000Z
+LOCATION:Орш. А-525
+DTSTART:20231102T060000Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:f6c039f0-d9fb-4ff4-9a50-e24d62f53d53@f6c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231122T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231122T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:750d85f8-0fbd-41a0-a647-62e3ed3f9a8b@750d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20230914T150000Z
+LOCATION:Орш. А-532
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:ebdf41a2-651b-4013-8567-d71f9d4ea068@ebdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231009T113000Z
+LOCATION:Орш. А-521
+DTSTART:20231009T100000Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:1bacfba0-3fb3-4497-abd3-71e172eae4c1@1bac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231030T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:53c02710-510d-4aab-a7b9-04b0a1549107@53c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231113T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:ef730caa-d486-4472-94cf-25f98e78d52d@ef73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231031T150000Z
+LOCATION:Орш. А-532
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:5df92c37-cc4b-47a5-99a4-9ddfad9695fb@5df9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20230928T113000Z
+LOCATION:Орш. А-523
+DTSTART:20230928T100000Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:1958f27a-d9bf-4736-b4aa-b0a943534fa1@1958.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231027T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231027T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:72625b96-0c84-4f8c-81cb-fb69863e37d9@7262.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20230905T131500Z
+LOCATION:Орш. А-532
+DTSTART:20230905T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:8818fea2-b104-4fd1-9a21-e0459e2ae162@8818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231206T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231206T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:6ad2cf89-ba10-4aac-9c2a-77bdddeb1c92@6ad2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231110T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231110T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:6df83126-bcc6-4cd9-aab8-4b3658497e54@6df8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231013T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231013T100000Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:fe09c0e0-51dc-4327-9fb1-3217d3375109@fe09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231024T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:57b6093e-8c98-4a9d-8baa-524a7235a6b3@57b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231108T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231108T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:69dc1fc4-740c-4cf0-8c24-1eb0393acf3c@69dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230916T073000Z
+LOCATION:Орш. А-527
+DTSTART:20230916T060000Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:fad1315f-838f-42a0-88f1-3980fc62982c@fad1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231218T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231218T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:af3dd14d-b3a9-437a-896d-c00f9da78a1a@af3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231222T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231222T100000Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:a09a4d23-659a-4971-8ef1-f6b5b37ae641@a09a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231114T150000Z
+LOCATION:Орш. А-532
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:a18acf95-28f8-4067-a84b-789a9933cc0a@a18a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231222T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231222T114500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:9ed0cdf4-9e50-49bb-8221-d6b162cd98f9@9ed0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231003T131500Z
+LOCATION:Орш. А-532
+DTSTART:20231003T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:51d5dbe8-0a50-44d5-939f-806212956983@51d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231014T113000Z
+LOCATION:Орш. А-509
+DTSTART:20231014T100000Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:1f5d0e17-f28f-4b5f-b912-4770395912d9@1f5d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
@@ -2431,6 +1215,1222 @@ DTEND:20230921T073000Z
 LOCATION:Орш. А-525
 DTSTART:20230921T060000Z
 SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
-UID:41e1b8ef-4222-4db4-9e80-5a1d89506d6f@41e1.org
+UID:6a675804-769a-449e-bf2f-32d5baa37c1e@6a67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231109T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231109T100000Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:9a829be5-4d6c-4862-aeaf-d12f169f8552@9a82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231208T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231208T114500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:60d5a3db-0f81-4e4d-9d5b-191140b462ea@60d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231130T073000Z
+LOCATION:Орш. А-525
+DTSTART:20231130T060000Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:2979afb5-f21a-48b9-b7f0-5921c136f6f8@2979.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231019T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231019T074500Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:29e3218a-3bcb-476c-9a0a-2a61a88d1466@29e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231101T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231101T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:6f05f8c9-3886-463f-a5af-78d76c6881f0@6f05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231205T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231205T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:6373ef9d-841d-4d36-b036-4d59a346bdcf@6373.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231028T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231028T074500Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:2d659e13-0d12-4c1f-bdb2-bd38284b8a5c@2d65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231122T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231122T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:43976b31-3b98-4c79-8ed1-af40092d0194@4397.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231211T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:ee221ac9-84d1-48b7-b19c-659a1cea6697@ee22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231220T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:4921e525-77c1-440b-a0a5-8e2923a9658f@4921.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20230907T131500Z
+LOCATION:Орш. А-523
+DTSTART:20230907T114500Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:1ea75e20-3f56-49d2-9140-be557ba0b537@1ea7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20230904T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:cc6f538a-9763-4a30-a0d4-67e9e52203b2@cc6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231116T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Нагревательные печи и устройства
+UID:b6c25e03-1918-47d2-aef2-a58aaf9ae237@b6c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231129T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:1374bb22-21dc-4268-95da-64d45ab46dff@1374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231216T113000Z
+LOCATION:Орш. А-509
+DTSTART:20231216T100000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:d94b148e-4d9a-4998-981a-e6974ff31ac9@d94b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231205T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:f94e406c-0f30-4255-9b5d-c56c1467b0e3@f94e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231115T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231115T133000Z
+SUMMARY:ЛК Технология кузнечно-штамповочного производства
+UID:f7bf1267-d214-47fc-aa06-7108fcd102d7@f7bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231228T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231228T100000Z
+SUMMARY:ЛК Нагревательные печи и устройства
+UID:8d597907-b06a-4e3b-b4d5-7b3fc8fd62b5@8d59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231116T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231116T074500Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:e91bcf75-744d-40fb-9a82-1ada279d2113@e91b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231002T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:d6f1e564-601e-4fe7-8799-bc33728da2ce@d6f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231005T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Нагревательные печи и устройства
+UID:22a922db-6661-4511-8831-815c2c30bc9d@22a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231216T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231216T074500Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:be819f49-cb57-4c61-a868-b8714aac4ae0@be81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231212T131500Z
+LOCATION:Орш. А-532
+DTSTART:20231212T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:b8f181a8-550c-48af-8905-965871b0de9d@b8f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230920T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20230920T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:e30317d5-5924-41c1-b971-627dd3812d6a@e303.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231102T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231102T074500Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:79c55233-7f9e-4d1d-a645-ba593916d8ce@79c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230915T131500Z
+LOCATION:Орш. А-523
+DTSTART:20230915T114500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:78b051b2-877b-491b-ae6e-0b37414095cc@78b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231218T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231218T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:e7da20f8-188e-4101-81f6-e8e59eaa4587@e7da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231220T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231220T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:ff9caa65-efed-41c7-911e-86842874ae9f@ff9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230930T131500Z
+LOCATION:Орш. А-509
+DTSTART:20230930T114500Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:a9de334f-5e00-4e76-87d0-425f57500478@a9de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231223T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231223T074500Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:402524e0-c52f-4258-8124-1a2a46d3ab47@4025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231225T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231225T100000Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:1d8d7cd3-f56a-430d-ab22-b1849901b392@1d8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230930T113000Z
+LOCATION:Орш. А-509
+DTSTART:20230930T100000Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:c543a5a7-b7e3-460c-81ff-7e7129438b71@c543.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231120T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231120T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:c630f081-86f3-4903-9eee-b73c774b142d@c630.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231213T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231213T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:69de80f8-7a1a-4a9b-8868-adfd90ee69b1@69de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230913T164500Z
+LOCATION:Орш. А-521
+DTSTART:20230913T151500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:3be2977f-b953-454c-b37f-309a2b4c2212@3be2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230930T073000Z
+LOCATION:Орш. А-509
+DTSTART:20230930T060000Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:cd8bd21c-6c3d-4f48-a8ff-11affeec9682@cd8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231220T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231220T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:47049621-c49e-4f8d-bce1-e5eca076bae8@4704.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230925T113000Z
+LOCATION:Орш. А-521
+DTSTART:20230925T100000Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:f704051f-8b73-4509-9eaa-af6355b4fdc8@f704.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231102T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Нагревательные печи и устройства
+UID:3dfc24dd-b660-4ca5-a7f4-8d256eb02e6f@3dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231109T150000Z
+LOCATION:Орш. А-532
+DTSTART:20231109T133000Z
+SUMMARY:ЛР Проектирование сварных и паянных конструкций
+UID:617c7ae3-5742-4dee-ae93-82b5d826b3de@617c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231130T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231130T114500Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:c614b53e-bc9f-4565-a855-867d55a67122@c614.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20230914T113000Z
+LOCATION:Орш. А-523
+DTSTART:20230914T100000Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:61c5f196-c056-4574-bced-4760a097c320@61c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231014T131500Z
+LOCATION:Орш. А-509
+DTSTART:20231014T114500Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:2b5dbf6b-1f9e-4e80-b03b-6a693ccd1631@2b5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231009T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231009T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:9cd93eb6-c102-4e21-a327-e16c7c957ea2@9cd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231109T131500Z
+LOCATION:Орш. А-532
+DTSTART:20231109T114500Z
+SUMMARY:ЛР Проектирование сварных и паянных конструкций
+UID:0539b8d4-43d5-4969-a951-e72b5a0c04e2@0539.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231009T131500Z
+LOCATION:Орш. А-521
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:d6bd8c5d-c8ff-4a0c-8352-5dd723268ca9@d6bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231223T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231223T060000Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:c116013c-de3e-4a87-b030-fd6c0bff5d0f@c116.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230907T073000Z
+LOCATION:Орш. А-525
+DTSTART:20230907T060000Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:de63f54d-6b1b-4293-b8f7-a434f6593b92@de63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230929T113000Z
+LOCATION:Орш. А-523
+DTSTART:20230929T100000Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:f0c4f872-aeb5-4efc-825d-e6705a73ee32@f0c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231025T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:444bf520-ecb9-44fb-bb62-b9089daef743@444b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231204T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231204T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:166b9662-7f46-42d1-8854-db80e00e9e6f@166b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230909T073000Z
+LOCATION:Орш. А-509
+DTSTART:20230909T060000Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:cf2c8c6d-944e-488a-a8b5-d56726427977@cf2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231108T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231108T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:bfc17878-803c-4c7d-9120-be96b608363e@bfc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231225T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231225T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:da25b12c-2f3b-4295-bc95-ccfb06bfaa96@da25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20230911T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:51268e41-c28f-436a-aca3-f3aa2d4265eb@5126.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231118T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231118T074500Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:6db0d467-7c02-4321-a5b3-8483c119a45c@6db0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231019T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Нагревательные печи и устройства
+UID:6af269d9-f494-41ed-a6e9-af99ce963ff1@6af2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230906T091500Z
+LOCATION:Орш. А-525
+DTSTART:20230906T074500Z
+SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
+UID:042d5663-e38d-4a49-ad73-bf86355218a3@042d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20230919T150000Z
+LOCATION:Орш. А-532
+DTSTART:20230919T133000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:d49df8e7-7389-4cbb-b325-c9e4e4886e0b@d49d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231027T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231027T114500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:537e0b3d-26c3-4e0e-8812-10b47b1010c3@537e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231227T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231227T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:c0c7e720-d17f-4ba5-a997-18c3ea742e86@c0c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231118T113000Z
+LOCATION:Орш. А-509
+DTSTART:20231118T100000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:c8a4c0d0-bac5-4468-8cf2-621e7b3e5a79@c8a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231113T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231113T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:9f4bf11e-b918-4527-9de6-3bf7755a2bf1@9f4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231005T073000Z
+LOCATION:Орш. А-525
+DTSTART:20231005T060000Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:18af9b67-9108-47bc-8383-5ec0d6af73f3@18af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231213T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231213T133000Z
+SUMMARY:ЛК Технология кузнечно-штамповочного производства
+UID:1da14a64-b81c-46c4-96a8-dbca84d9f72a@1da1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231227T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231227T074500Z
+SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
+UID:738d8e88-80cf-440f-a2dc-fd4f6281123f@738d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231222T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231222T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:fa945ae7-a4ea-436d-b549-7d8cd2b9f313@fa94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231108T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231108T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:cc1c80a0-1795-4e5f-8c03-d4416f88d27f@cc1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231204T131500Z
+LOCATION:Орш. А-521
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:2158426e-bd60-4f39-9717-9a7af86b5d68@2158.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231209T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231209T074500Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:38e03549-b791-46ca-abe2-3ddabee38249@38e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231004T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231004T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:ec417358-4383-4dca-8639-2614bf6146a2@ec41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231216T131500Z
+LOCATION:Орш. А-509
+DTSTART:20231216T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:3adfbe9c-9add-43d8-9bd0-428629d6c731@3adf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231120T131500Z
+LOCATION:Орш. А-521
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:212926b5-3d51-4c5f-82f9-0aad0c54b901@2129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230918T131500Z
+LOCATION:Орш. А-523
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:cd8fb570-8c8a-4520-8ad5-f6b0cb72b9fd@cd8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231219T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231219T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:6fba24cc-979e-4f76-b6d6-dc05304d2a83@6fba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231023T131500Z
+LOCATION:Орш. А-521
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:f76ba0f7-f8f7-4af5-856f-9ed7ca40c018@f76b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20230921T131500Z
+LOCATION:Орш. А-523
+DTSTART:20230921T114500Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:9aa6e1de-c904-4061-a893-1af3a4b4d4f3@9aa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231114T131500Z
+LOCATION:Орш. А-532
+DTSTART:20231114T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:2d885861-9c02-465d-b630-c994b2c682a5@2d88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231124T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231124T114500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:ebcf5405-4a83-47a6-88b7-dbee705e05fe@ebcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230916T113000Z
+LOCATION:Орш. А-509
+DTSTART:20230916T100000Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:d0c20eef-33e5-4885-a75f-277b450c02f1@d0c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230907T091500Z
+LOCATION:Орш. А-525
+DTSTART:20230907T074500Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:2500cf05-e917-4317-8626-9f62756d3147@2500.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231009T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:42984e29-8179-4776-a3ca-2696499d3e09@4298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231120T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:47acef4b-6c61-4cc4-b854-19d35c4da0de@47ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231225T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231225T114500Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:06f629a6-a2c1-46a7-8808-95581f34f17f@06f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231026T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231026T100000Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:4db09e84-a61a-4b3e-881a-d135a32459b7@4db0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231218T131500Z
+LOCATION:Орш. А-521
+DTSTART:20231218T114500Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:fc415906-5a83-442a-8d23-558919dc6db2@fc41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231230T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231230T074500Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:454e5128-8b9b-4d8c-9adf-4beb53128747@454e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20230928T131500Z
+LOCATION:Орш. А-532
+DTSTART:20230928T114500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:9aa4c439-28ec-44b2-b29e-734638c53aa0@9aa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231101T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231101T074500Z
+SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
+UID:b8344ce5-8847-4f69-8634-3a32719e7a59@b834.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231208T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231208T100000Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:78b0ea75-2605-4369-b14d-66dc942ab20e@78b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231204T113000Z
+LOCATION:Орш. А-521
+DTSTART:20231204T100000Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:43e5499e-604e-4f07-bad2-b8dba2f09779@43e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230911T113000Z
+LOCATION:Орш. А-521
+DTSTART:20230911T100000Z
+SUMMARY:ПЗ Технология кузнечно-штамповочного производства
+UID:c346ace6-423d-4119-b342-d0d23307bd7b@c346.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230930T091500Z
+LOCATION:Орш. А-509
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:ae9941e3-3668-4239-b67f-2da32f83983f@ae99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231129T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231129T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:7efaab0c-4529-4657-98b9-99d2e9c95270@7efa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231204T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231204T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:ae171645-fbdb-40c4-bd1a-cde54b516bce@ae17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231118T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231118T060000Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:a07a778b-6a4a-4ca6-be9e-75e9dc39a1c3@a07a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231211T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:69a2c4c5-7ddb-407f-b71a-a38e0f8aed46@69a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230926T150000Z
+LOCATION:Орш. А-521
+DTSTART:20230926T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:94ba5cfd-8669-4d80-aba3-afb5421b9777@94ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231116T073000Z
+LOCATION:Орш. А-525
+DTSTART:20231116T060000Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:eb3a00ec-666f-4bf2-bf6a-f9d1276ef288@eb3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231207T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231207T100000Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:66bdcde8-4830-4f20-8b57-67aba6df7819@66bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230912T164500Z
+LOCATION:Орш. А-521
+DTSTART:20230912T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:553bb903-1134-4ace-80e4-db71bd8c881b@553b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231012T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231012T100000Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:2dc0f626-4670-4a70-9442-aa664f83722a@2dc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20230928T150000Z
+LOCATION:Орш. А-532
+DTSTART:20230928T133000Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:2ec19fd3-762f-4cd8-a0c0-65ff7d1f0fee@2ec1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231206T113000Z
+LOCATION:Орш. Б-514
+DTSTART:20231206T100000Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:c10a4d36-9282-4e3f-9418-203ab36afe22@c10a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231021T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231021T074500Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:49ee0665-7d7f-41bf-9bdd-488d8cd33b6c@49ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231211T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231211T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:59f5c3b2-ff0f-4e63-88a4-612fa8a0ecac@59f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соколов Алексей Викторович
+DTEND:20231123T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231123T100000Z
+SUMMARY:ПЗ Нагревательные печи и устройства
+UID:925397b1-6663-4984-b447-1886e8dc5bb8@9253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231017T150000Z
+LOCATION:Орш. А-532
+DTSTART:20231017T133000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:e125eb31-b7c4-40f3-8b0e-f82e4e14e958@e125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231115T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:0b6e1f3d-c1fe-4132-b103-5502a02cd850@0b6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231014T073000Z
+LOCATION:Орш. А-509
+DTSTART:20231014T060000Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:a9855e0a-3e29-4ea7-bf23-9746082409b9@a985.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20230919T131500Z
+LOCATION:Орш. А-532
+DTSTART:20230919T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:6b2e20e7-af3f-475e-8b10-481ff77a317e@6b2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230926T164500Z
+LOCATION:Орш. А-521
+DTSTART:20230926T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:e631d49e-0497-4d85-8d23-eece6d17cbe8@e631.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231230T113000Z
+LOCATION:Орш. А-509
+DTSTART:20231230T100000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:dd7738b6-440e-4472-bdc1-de9e14d06c15@dd77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20230925T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20230925T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:ce632b1c-0182-4ec1-b86e-a193a59f42d8@ce63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20231202T091500Z
+LOCATION:Орш. А-509
+DTSTART:20231202T074500Z
+SUMMARY:ЛР Технология и оборудование сварки плавлением
+UID:87551e48-9a1d-411c-a4cc-bd0afdd9f171@8755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230920T091500Z
+LOCATION:Орш. А-525
+DTSTART:20230920T074500Z
+SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
+UID:cdb0462a-d16a-4acb-9b53-ed3313de63b6@cdb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20230918T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:12da7b9d-5468-4115-b11d-d737902fb65b@12da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230907T113000Z
+LOCATION:Орш. А-523
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Нагревательные печи и устройства
+UID:becc70b3-7bf0-432a-b50c-b10ba89b62cc@becc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231030T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:4c8280e5-5d00-40bc-98bf-d05e2095339b@4c82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231002T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:7bcb72b2-7b23-4cc6-acec-4882495527ae@7bcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230909T091500Z
+LOCATION:Орш. А-509
+DTSTART:20230909T074500Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:91f51e19-610d-4b87-b9ea-196a9262395d@91f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20230904T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20230904T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:63729173-77c8-4741-a8cb-48fe7f665c77@6372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20230909T113000Z
+LOCATION:Орш. А-509
+DTSTART:20230909T100000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:6b17a01a-2d13-4bf3-8b8a-91e88e548596@6b17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231016T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:4a55405a-1342-4099-abdf-9e318d7680a3@4a55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231123T131500Z
+LOCATION:Орш. А-532
+DTSTART:20231123T114500Z
+SUMMARY:ЛР Проектирование сварных и паянных конструкций
+UID:3488bbab-bca6-4218-9738-b00000401345@3488.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231115T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231115T074500Z
+SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
+UID:d347a616-3707-4155-a9ce-78d2f578ef2d@d347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20230904T131500Z
+LOCATION:Орш. А-523
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:fb1ec2f3-6ab5-4f14-8150-c02c8ce68a5a@fb1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230901T113000Z
+LOCATION:Орш. А-523
+DTSTART:20230901T100000Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:c0d8ec80-535a-48ab-8588-b37442f65bb2@c0d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231226T150000Z
+LOCATION:Орш. А-532
+DTSTART:20231226T133000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:1115d7ab-d5fb-4a68-b687-fb308958ec02@1115.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230916T091500Z
+LOCATION:Орш. А-527
+DTSTART:20230916T074500Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:c8b564c0-cb2c-402c-b369-9ef3078819f1@c8b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230913T150000Z
+LOCATION:Орш. А-521
+DTSTART:20230913T133000Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:bca8a142-ffd6-4170-9f76-6f74d6f634d5@bca8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231220T164500Z
+LOCATION:Орш. А-521
+DTSTART:20231220T151500Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:3f492b0f-8a4c-4a7a-8bbf-4aa32fbbfb14@3f49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20230927T164500Z
+LOCATION:Орш. А-521
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Технология листовой штамповки
+UID:e44b409e-dc1b-4c7d-84ba-377d3267a0ad@e44b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231002T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Технология прокатно-прессового производства
+UID:e73c851f-392f-4ac8-b63b-db748de06cc1@e73c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231124T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231124T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:807ac442-4d1d-4585-b59f-301d46ce066a@807a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231130T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231130T074500Z
+SUMMARY:ЛР Применение вычислительной техники в инженерной деятельности
+UID:1b0c8c04-8ded-4dfd-95de-59eadbebac2b@1b0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230906T150000Z
+LOCATION:Орш. А-523
+DTSTART:20230906T133000Z
+SUMMARY:ЛК Технология кузнечно-штамповочного производства
+UID:9b3b02a0-e5b1-4daa-8798-17af884feaba@9b3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231113T164500Z
+LOCATION:Орш. Б-304
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Проектирование сварных и паянных конструкций
+UID:38056d38-7d69-42cd-b1c6-db34d27de9ea@3805.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20230923T131500Z
+LOCATION:Орш. А-509
+DTSTART:20230923T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:7d8fe51c-9e7b-4802-b1cd-c357d4537412@7d8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230923T073000Z
+LOCATION:Орш. А-509
+DTSTART:20230923T060000Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:121d58e1-394b-4f91-a3de-913f70716bb1@121d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231129T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231129T133000Z
+SUMMARY:ЛК Технология кузнечно-штамповочного производства
+UID:f52c25c9-cf7c-451b-8f8e-1dd54d9c7587@f52c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СТЕПАНОВ ВЛАДИМИР ВАЛЕРЬЕВИЧ
+DTEND:20230923T091500Z
+LOCATION:Орш. А-509
+DTSTART:20230923T074500Z
+SUMMARY:ЛК Технология и оборудование сварки плавлением
+UID:45f3359e-e5fa-4014-a650-c757e04ab2b1@45f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЖАРОВ МАКСИМ ВЛАДИМИРОВИЧ
+DTEND:20231107T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231107T133000Z
+SUMMARY:ПЗ Технология листовой штамповки
+UID:bdd24fbb-f16e-4b76-bc46-ca5bae6a4c0c@bdd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231130T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Нагревательные печи и устройства
+UID:3ec7b544-19fa-4602-b388-947878d4ee65@3ec7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАШКОВ ИГОРЬ НИКОЛАЕВИЧ
+DTEND:20231030T150000Z
+LOCATION:Орш. Б-304
+DTSTART:20231030T133000Z
+SUMMARY:ЛК Проектирование сварных и паянных конструкций
+UID:a8c7c848-4f99-4b84-91f4-1986aaf4fcf4@a8c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231101T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231101T133000Z
+SUMMARY:ЛК Технология кузнечно-штамповочного производства
+UID:36400c06-e641-4eba-9add-c03d4b1e6e4d@3640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230921T113000Z
+LOCATION:Орш. А-523
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Нагревательные печи и устройства
+UID:e780fae8-5eaa-4f64-b3ab-20e60cd1a142@e780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЕНСКИЙ АЛЕКСЕЙ ГЕННАДЬЕВИЧ
+DTEND:20231206T131500Z
+LOCATION:Орш. Б-514
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Технология прокатно-прессового производства
+UID:2414347c-a161-4e7f-8ccf-18e32d3224dc@2414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231226T131500Z
+LOCATION:Орш. А-532
+DTSTART:20231226T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:861d76c3-bb91-4fb1-84f8-0f99678d022c@861d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231230T131500Z
+LOCATION:Орш. А-509
+DTSTART:20231230T114500Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:6bd67d97-6cd7-4e3b-a0f5-ba12e2fc35af@6bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКИТИНА ЕЛЕНА ВЛАДИМИРОВНА
+DTEND:20231128T150000Z
+LOCATION:Орш. А-532
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Технология и оборудование сварки плавлением
+UID:e6a9800f-cc2d-4ad2-b9a2-eaddefed7b10@e6a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231018T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231018T074500Z
+SUMMARY:ЛК Применение вычислительной техники в инженерной деятельности
+UID:4268821e-57b2-43a7-81dd-5a0247e01a7a@4268.org
 END:VEVENT
 END:VCALENDAR

@@ -2,2202 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20230928T091500Z
+DTEND:20231102T131500Z
 LOCATION:--каф.
-DTSTART:20230928T074500Z
+DTSTART:20231102T114500Z
 SUMMARY:ЛК Военная подготовка
-UID:a1b40a18-53ee-4e40-9c7c-ece81e89bc38@a1b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20230927T113000Z
-LOCATION:24-419
-DTSTART:20230927T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:6a158c2f-0932-4d3f-aa08-b51a984d59b1@6a15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231114T131500Z
-LOCATION:24-439
-DTSTART:20231114T114500Z
-SUMMARY:ЛР Надежность и техническая диагностика
-UID:3f79a9e2-72e9-4428-9250-fbf2d2480ae1@3f79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230912T113000Z
-LOCATION:24-439
-DTSTART:20230912T100000Z
-SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:78f30cba-9564-41b9-bd19-2f0fcb5238ac@78f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231206T131500Z
-LOCATION:1-101
-DTSTART:20231206T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:f37e5956-d127-43da-930a-5d3ad5a25601@f37e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T073000Z
-LOCATION:--каф.
-DTSTART:20230914T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:13f321aa-3b6c-4686-82b7-3877ddd7c4b4@13f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231222T113000Z
-LOCATION:24-438
-DTSTART:20231222T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:c7fc2ec3-657f-4479-878a-44387b98649e@c7fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231030T073000Z
-LOCATION:24-413
-DTSTART:20231030T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:5fa4ae7c-8b12-420b-b522-572e046f16fb@5fa4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231107T113000Z
-LOCATION:24-439
-DTSTART:20231107T100000Z
-SUMMARY:ЛР Вакуумные испытания
-UID:414de381-5908-4b62-a4ad-b092cf57ef87@414d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231115T131500Z
-LOCATION:1-101
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:d1ece21d-90f9-4d7b-b5a8-06fda089980e@d1ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдина Ирина Анатольевна
-DTEND:20231121T091500Z
-LOCATION:5-211
-DTSTART:20231121T074500Z
-SUMMARY:ПЗ Экономика и организация промышленности
-UID:fd696f54-61ff-47d3-8617-a1dd2f1a3b06@fd69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231127T113000Z
-LOCATION:24-438
-DTSTART:20231127T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:6a2f99c7-9903-4b98-8283-89fd53ccf97d@6a2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231016T131500Z
-LOCATION:24-512
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:22efd92e-230d-4c82-8525-d1c8a1a6cd99@22ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231106T073000Z
-LOCATION:24-413
-DTSTART:20231106T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:d65967cb-49d4-41ce-8cd2-02bc6cd9491a@d659.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T073000Z
-LOCATION:--каф.
-DTSTART:20231130T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:5def2e7d-a5e9-46e7-aa42-9abe77f50d8b@5def.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231121T073000Z
-LOCATION:24-438
-DTSTART:20231121T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:5a54ac19-8499-4bc0-9db6-1db79e8150ba@5a54.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T131500Z
-LOCATION:--каф.
-DTSTART:20231221T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:2dc91ec0-9214-4a35-80fb-8b38eb941425@2dc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231205T073000Z
-LOCATION:24-438
-DTSTART:20231205T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:1fbd8075-9075-49f8-b5fa-d911b4338043@1fbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231016T073000Z
-LOCATION:24-413
-DTSTART:20231016T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:d21a6c3e-27db-4c55-b4c2-e7de35e97367@d21a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231031T091500Z
-LOCATION:24-438
-DTSTART:20231031T074500Z
-SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
-UID:19ee1273-57ef-43d0-9b7d-f62278597726@19ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T073000Z
-LOCATION:--каф.
-DTSTART:20231123T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:a4594297-96f8-4099-8f1c-fa40410fb310@a459.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231225T073000Z
-LOCATION:24-413
-DTSTART:20231225T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:7cc14465-bbf4-47f8-9fbb-e800811ce50d@7cc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20230911T073000Z
-LOCATION:24-413
-DTSTART:20230911T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:2c8ff1e3-7c26-49ca-870a-6e390eb5fc17@2c8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдина Ирина Анатольевна
-DTEND:20230912T091500Z
-LOCATION:5-211
-DTSTART:20230912T074500Z
-SUMMARY:ПЗ Экономика и организация промышленности
-UID:6053e389-96ae-4422-a42b-dc9bb15cae5d@6053.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231129T113000Z
-LOCATION:24-419
-DTSTART:20231129T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:3acfb689-97e5-4bf4-a300-756b8a622cf3@3acf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231017T091500Z
-LOCATION:24-438
-DTSTART:20231017T074500Z
-SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
-UID:cda11a4a-d294-427f-82f8-2de2163bf075@cda1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20230905T073000Z
-LOCATION:24-438
-DTSTART:20230905T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:90c3a4a5-9860-4d5a-9d3c-4ed2519e76bb@90c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231218T113000Z
-LOCATION:24-438
-DTSTART:20231218T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:6b9a79f6-3c13-488d-9fa6-228fe831a4d6@6b9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T131500Z
-LOCATION:1-101
-DTSTART:20231003T114500Z
-SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
-UID:190e1fc2-9981-4cfa-b0a3-1e1fd2a99065@190e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохорова Елена Павловна
-DTEND:20230929T131500Z
-LOCATION:3-429
-DTSTART:20230929T114500Z
-SUMMARY:ЛК Экономика и организация промышленности
-UID:ba33391a-c640-40ac-81a6-8fe263a29058@ba33.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T091500Z
-LOCATION:--каф.
-DTSTART:20231214T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:62744534-aecc-44e5-9a38-94313244ddbc@6274.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231010T073000Z
-LOCATION:24-438
-DTSTART:20231010T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:cb3c89b8-2e4c-4dde-8aae-8c15a319c7b7@cb3c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T113000Z
-LOCATION:--каф.
-DTSTART:20230914T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:49f34a69-4170-4bd3-861e-0f92564d8a4e@49f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T113000Z
-LOCATION:--каф.
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:02fa9630-1ce4-46fb-b12b-02b24e1f147c@02fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231226T113000Z
-LOCATION:24-439
-DTSTART:20231226T100000Z
-SUMMARY:ЛР Надежность и техническая диагностика
-UID:983f1ffd-ca5a-42cf-a622-ce1da49befc5@983f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T113000Z
-LOCATION:--каф.
-DTSTART:20231026T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:98b7171a-d7a6-45e0-b509-79f842b39297@98b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231110T113000Z
-LOCATION:24-438
-DTSTART:20231110T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:d1166b4f-2bc7-4bb6-878c-fd19bcf35eb3@d116.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T131500Z
-LOCATION:--каф.
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:f13a4f7c-e570-4dcd-98b8-53b31305dd8f@f13a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231103T091500Z
-LOCATION:24-438
-DTSTART:20231103T074500Z
-SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:06941fc4-df99-4be0-ac5c-a88d72777fe6@0694.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231030T091500Z
-LOCATION:24-438
-DTSTART:20231030T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:b22c787b-2153-4a03-8b39-66a3b3473b92@b22c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231025T073000Z
-LOCATION:24-439
-DTSTART:20231025T060000Z
-SUMMARY:ЛР Экспериментальная отработка сложных технических систем
-UID:6a15a55e-d1c7-40d2-9a10-4515683d4dff@6a15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231011T073000Z
-LOCATION:24-439
-DTSTART:20231011T060000Z
-SUMMARY:ЛР Экспериментальная отработка сложных технических систем
-UID:93933c8d-7f40-43ca-83c7-8b5c03180a5c@9393.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20230919T091500Z
-LOCATION:24-438
-DTSTART:20230919T074500Z
-SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
-UID:3815b209-181e-4326-b4a8-d8d80a642b61@3815.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231114T113000Z
-LOCATION:24-439
-DTSTART:20231114T100000Z
-SUMMARY:ЛР Надежность и техническая диагностика
-UID:50ce2cca-ac26-4b93-8f2e-72b912ba5582@50ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231013T113000Z
-LOCATION:24-438
-DTSTART:20231013T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:cd1f98bb-f3f5-4357-88ab-93b9bec254f4@cd1f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T113000Z
-LOCATION:--каф.
-DTSTART:20231116T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:916bc1a6-27b6-406a-8828-2ac23cab91b6@916b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231020T113000Z
-LOCATION:24-438
-DTSTART:20231020T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:3a484eef-0a21-46cb-884f-33bcb9dd1cfd@3a48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230908T113000Z
-LOCATION:24-438
-DTSTART:20230908T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:f4ce7824-789a-42a7-8f49-457e2b89b7ce@f4ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20230925T091500Z
-LOCATION:24-438
-DTSTART:20230925T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:e6014b18-d2cd-4cce-b03b-8ac4aaab616c@e601.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231025T113000Z
-LOCATION:24-419
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:66497757-93ee-492d-a655-78421933dcd6@6649.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20230912T073000Z
-LOCATION:24-438
-DTSTART:20230912T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:ea1b4e38-bd52-458e-888c-f12c51adcd99@ea1b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T091500Z
-LOCATION:--каф.
-DTSTART:20231019T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:22a42197-9b1a-4d18-808b-2fecacdeb314@22a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231030T113000Z
-LOCATION:24-438
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:114e6eed-01d0-45d2-983a-d89fca48315e@114e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдина Ирина Анатольевна
-DTEND:20231205T091500Z
-LOCATION:5-211
-DTSTART:20231205T074500Z
-SUMMARY:ПЗ Экономика и организация промышленности
-UID:01af9a02-5af7-4ecf-8ec5-8714bd2dfd6d@01af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231117T113000Z
-LOCATION:24-438
-DTSTART:20231117T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:6b121d1e-c683-473e-9438-bc6f8b356427@6b12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20230922T131500Z
-LOCATION:3-429
-DTSTART:20230922T114500Z
-SUMMARY:ЛК Психология и педагогика
-UID:918e10ce-48a8-4504-968e-834688f7c531@918e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231229T131500Z
-LOCATION:3-429
-DTSTART:20231229T114500Z
-SUMMARY:ЛК Психология и педагогика
-UID:e398fe23-ddff-4fa4-81a8-3fc37f12cb3d@e398.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231113T131500Z
-LOCATION:24-512
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:81838240-2086-438b-ba5f-31758eb86901@8183.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231226T131500Z
-LOCATION:24-439
-DTSTART:20231226T114500Z
-SUMMARY:ЛР Надежность и техническая диагностика
-UID:148d6347-4afe-46a2-b5aa-19b63b0c2368@148d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дедус Федор Флоренцевич
-DTEND:20231117T150000Z
-LOCATION:24-444
-DTSTART:20231117T133000Z
-SUMMARY:ПЗ УИРС
-UID:cd3962ee-4762-4de6-9168-a464eac46fb9@cd39.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230905T131500Z
-LOCATION:1-101
-DTSTART:20230905T114500Z
-SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
-UID:01cfeeca-3188-4a20-830c-501c794a434d@01cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20230913T113000Z
-LOCATION:24-419
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:47573f7d-a0d3-4f4d-bccb-255cc431d2d1@4757.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231030T131500Z
-LOCATION:24-512
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:b08ac6f7-e7a1-4c7a-9448-ed05daa981fa@b08a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231227T113000Z
-LOCATION:24-419
-DTSTART:20231227T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:88b05465-ca90-4833-8515-b36317da607a@88b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20230920T073000Z
-LOCATION:24-440
-DTSTART:20230920T060000Z
-SUMMARY:ПЗ Объекты и условия эксплуатации
-UID:b6ce9eaa-c294-469b-8a13-426fbca717cd@b6ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T131500Z
-LOCATION:--каф.
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:c6ae0672-0262-4800-b787-807b6db39f01@c6ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T091500Z
-LOCATION:--каф.
-DTSTART:20230914T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:91392735-23c9-47f8-938d-5762948f2b4a@9139.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20230905T091500Z
-LOCATION:24-438
-DTSTART:20230905T074500Z
-SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
-UID:0d418083-9ec3-4f4c-8039-7fd063443efc@0d41.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T073000Z
-LOCATION:--каф.
-DTSTART:20230928T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:18255df2-d9eb-447a-a377-05ee7f1ff40c@1825.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231023T113000Z
-LOCATION:24-438
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:42c4f3b9-e425-4f2c-ae07-b527f296eb5a@42c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T113000Z
-LOCATION:--каф.
-DTSTART:20231228T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:1e6605b3-cefa-4e36-a86d-bcc39ba6555b@1e66.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T131500Z
-LOCATION:--каф.
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:fc037aca-157f-4a31-9a23-f52023e0a092@fc03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231204T131500Z
-LOCATION:24-512
-DTSTART:20231204T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:52cf50ae-f91a-475a-8886-d53dfa3ead00@52cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231127T091500Z
-LOCATION:24-438
-DTSTART:20231127T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:f5226999-d80e-45cc-af1c-5e4abd097947@f522.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20230925T131500Z
-LOCATION:24-512
-DTSTART:20230925T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:40b09ec4-be21-4a0c-9aec-a0716c2e24f9@40b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20230918T073000Z
-LOCATION:24-413
-DTSTART:20230918T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:ded3b866-fca4-499b-9ad2-b672dd494b4f@ded3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231110T073000Z
-LOCATION:3-445
-DTSTART:20231110T060000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:9d4019c5-3572-4894-9d6a-c6a9f2e410bd@9d40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20230906T131500Z
-LOCATION:1-101
-DTSTART:20230906T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:191e6f95-c6ba-4317-a1ad-72163868cff8@191e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231219T131500Z
-LOCATION:24-439
-DTSTART:20231219T114500Z
-SUMMARY:ЛР Вакуумные испытания
-UID:71433fe1-3ac0-4301-8c65-3c4a9297536e@7143.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20230906T113000Z
-LOCATION:24-419
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:5873db48-8635-44cc-a540-3702fefb9dbf@5873.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохорова Елена Павловна
-DTEND:20231110T131500Z
-LOCATION:3-429
-DTSTART:20231110T114500Z
-SUMMARY:ЛК Экономика и организация промышленности
-UID:d0d177ee-3fe5-4a7e-a6be-e3997e780a3c@d0d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T073000Z
-LOCATION:--каф.
-DTSTART:20231005T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:4c0a85ec-399e-4ded-889f-be7cfad556e6@4c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231121T113000Z
-LOCATION:24-439
-DTSTART:20231121T100000Z
-SUMMARY:ЛР Вакуумные испытания
-UID:3587ff72-58d8-4e78-a618-1c2246a9078e@3587.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231003T073000Z
-LOCATION:24-438
-DTSTART:20231003T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:c61d3169-8a78-45a8-8bf2-351ae216c2d8@c61d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T091500Z
-LOCATION:--каф.
-DTSTART:20231207T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:e97bd2f9-6ab7-4064-b2ca-760269e37429@e97b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231031T131500Z
-LOCATION:24-439
-DTSTART:20231031T114500Z
-SUMMARY:ЛР Надежность и техническая диагностика
-UID:38a56b8e-493d-4ed7-8304-4e9518f46728@38a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231103T131500Z
-LOCATION:3-429
-DTSTART:20231103T114500Z
-SUMMARY:ЛК Психология и педагогика
-UID:4c958857-2908-4094-8a84-7fb0878f3285@4c95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдина Ирина Анатольевна
-DTEND:20231010T091500Z
-LOCATION:5-211
-DTSTART:20231010T074500Z
-SUMMARY:ПЗ Экономика и организация промышленности
-UID:7fb3a08b-794c-4245-b33c-eac902766051@7fb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230926T131500Z
-LOCATION:24-439
-DTSTART:20230926T114500Z
-SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:f8650bbd-0198-49ff-8cce-b92e1e1a5974@f865.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231205T113000Z
-LOCATION:24-439
-DTSTART:20231205T100000Z
-SUMMARY:ЛР Вакуумные испытания
-UID:0ea23f1b-5126-406f-99d4-809e469332e6@0ea2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20230925T073000Z
-LOCATION:24-413
-DTSTART:20230925T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:10a384fd-4203-4fed-8e31-bc7f4b2c550a@10a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20230929T073000Z
-LOCATION:3-445
-DTSTART:20230929T060000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:f96cb8bd-1174-4ad1-9044-482c07a14b64@f96c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231020T131500Z
-LOCATION:3-429
-DTSTART:20231020T114500Z
-SUMMARY:ЛК Психология и педагогика
-UID:bf0b5723-1c0a-407f-9132-9befcf57cae7@bf0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дедус Федор Флоренцевич
-DTEND:20231006T150000Z
-LOCATION:24-444
-DTSTART:20231006T133000Z
-SUMMARY:ПЗ УИРС
-UID:c6f4341b-6f9b-41d4-9595-05fd98b8bd73@c6f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T113000Z
-LOCATION:--каф.
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:10fe6ea8-5d79-4311-80b7-0d670c415245@10fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231027T113000Z
-LOCATION:24-438
-DTSTART:20231027T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:d77dcd3d-a7bd-4b34-af9d-0e8ccbdca184@d77d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T073000Z
-LOCATION:--каф.
-DTSTART:20231214T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:2fd2c0f1-42e2-4748-a20d-a9d25adf2a82@2fd2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T113000Z
-LOCATION:--каф.
-DTSTART:20230907T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:fec0e2b0-79dd-4eea-8d44-4d24c068f407@fec0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231011T113000Z
-LOCATION:24-419
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:d28d8cd2-d54b-49dc-bc8b-0f497e1ab9d1@d28d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231101T073000Z
-LOCATION:24-440
-DTSTART:20231101T060000Z
-SUMMARY:ПЗ Объекты и условия эксплуатации
-UID:260f7311-bfc5-4733-9240-8b14063aa4d9@260f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20230913T091500Z
-LOCATION:24-439
-DTSTART:20230913T074500Z
-SUMMARY:ЛР Экспериментальная отработка сложных технических систем
-UID:53bcaf85-79a0-4f9d-9983-81dda19cbb01@53bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20230926T073000Z
-LOCATION:24-438
-DTSTART:20230926T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:597eabd4-93eb-40a1-8bfe-6756e2844c36@597e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231106T113000Z
-LOCATION:24-438
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:96c6a385-63e0-4d3b-bae6-e251cbf0a982@96c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231204T113000Z
-LOCATION:24-438
-DTSTART:20231204T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:c1efb8c1-31fe-49b8-a626-37a08a9727b1@c1ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T073000Z
-LOCATION:--каф.
-DTSTART:20230907T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:b93e0b98-4213-4a4f-9db9-81f64cc2483a@b93e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T091500Z
-LOCATION:--каф.
-DTSTART:20231123T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:64109eff-d8cf-4dd1-a068-b06bb35e46c3@6410.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231128T073000Z
-LOCATION:24-438
-DTSTART:20231128T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:0d23e251-99ae-4815-8507-89cbeef3cdfd@0d23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231113T073000Z
-LOCATION:24-413
-DTSTART:20231113T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:1fdd9e32-9215-403a-a00e-a2091fb0cbaf@1fdd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T073000Z
-LOCATION:--каф.
-DTSTART:20231019T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:d2bf9147-0c4a-4709-b488-8b34c2351917@d2bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231009T131500Z
-LOCATION:24-512
-DTSTART:20231009T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:8731ad1c-4d16-4f6f-bdde-31aa5218fdfb@8731.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231204T091500Z
-LOCATION:24-438
-DTSTART:20231204T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:79aeb0f2-ad70-4e1d-ae70-dbcb4938d085@79ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231212T073000Z
-LOCATION:24-438
-DTSTART:20231212T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:03bb277c-bdf5-4446-a894-1c2f4c52dec3@03bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231023T073000Z
-LOCATION:24-413
-DTSTART:20231023T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:61504de2-2743-4923-940a-b0a97086e7d3@6150.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T091500Z
-LOCATION:--каф.
-DTSTART:20231228T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:945773a2-da37-4c1d-8127-8ce399581e89@9457.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T131500Z
-LOCATION:--каф.
-DTSTART:20231012T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:ce2f1091-5cd3-463d-b25b-412eff983867@ce2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231017T073000Z
-LOCATION:24-438
-DTSTART:20231017T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:d5588775-9103-47fd-aeea-c0d2d6e15a8f@d558.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231208T113000Z
-LOCATION:24-438
-DTSTART:20231208T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:19507c1f-5ab2-4291-970e-c0df3c62fa38@1950.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231120T131500Z
-LOCATION:24-512
-DTSTART:20231120T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:54ad2acb-a3ab-4862-9c31-7f3bbcb58c64@54ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231128T113000Z
-LOCATION:24-439
-DTSTART:20231128T100000Z
-SUMMARY:ЛР Надежность и техническая диагностика
-UID:d7076df6-9693-4ab8-9491-a193e4c0f41c@d707.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230915T113000Z
-LOCATION:24-438
-DTSTART:20230915T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:6407f110-8880-4da9-bf94-e840e6c71d59@6407.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T091500Z
-LOCATION:--каф.
-DTSTART:20231005T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:6d38ac55-b389-41ae-8303-0fd99a64cc0b@6d38.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T073000Z
-LOCATION:--каф.
-DTSTART:20231221T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:5ec92b62-a613-4caa-a082-04598484da5f@5ec9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдина Ирина Анатольевна
-DTEND:20231024T091500Z
-LOCATION:5-211
-DTSTART:20231024T074500Z
-SUMMARY:ПЗ Экономика и организация промышленности
-UID:e6accb12-5e96-4201-b598-48e1f9b150aa@e6ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохорова Елена Павловна
-DTEND:20231124T131500Z
-LOCATION:3-429
-DTSTART:20231124T114500Z
-SUMMARY:ЛК Экономика и организация промышленности
-UID:7c0218ea-c82b-4b0c-b781-9484759ad471@7c02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20230927T073000Z
-LOCATION:24-439
-DTSTART:20230927T060000Z
-SUMMARY:ЛР Экспериментальная отработка сложных технических систем
-UID:f1955615-9874-4e22-bcc7-036e2352ccb0@f195.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T073000Z
-LOCATION:--каф.
-DTSTART:20231116T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:21f858dd-9a6b-4741-a9f7-8785dc259112@21f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231016T113000Z
-LOCATION:24-438
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:06f6c7eb-5b3e-4740-aaeb-e5df1d249b52@06f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дедус Федор Флоренцевич
-DTEND:20231201T150000Z
-LOCATION:24-444
-DTSTART:20231201T133000Z
-SUMMARY:ПЗ УИРС
-UID:ae345ed1-7ef5-46c5-b47f-0a50e0237c3f@ae34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231204T073000Z
-LOCATION:24-413
-DTSTART:20231204T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:546b5a6e-34b3-48fe-b26c-46d2b2e1ae70@546b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дедус Федор Флоренцевич
-DTEND:20231215T150000Z
-LOCATION:24-444
-DTSTART:20231215T133000Z
-SUMMARY:ПЗ УИРС
-UID:06c4a00f-ca70-4470-9ba3-a61a7b93b5c2@06c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231108T113000Z
-LOCATION:24-419
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:80db708b-13a4-465f-8a9a-2045d215c2c8@80db.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T091500Z
-LOCATION:--каф.
-DTSTART:20231012T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:296547c5-9209-495a-9a6c-082d4b7ffdd6@2965.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T131500Z
-LOCATION:--каф.
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:6b50ef04-5b83-48d8-9f8c-0fcff4669675@6b50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231115T113000Z
-LOCATION:24-419
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:fb31b7ef-5f1e-43b5-9a57-ada67ff0b152@fb31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231018T113000Z
-LOCATION:24-419
-DTSTART:20231018T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:b4cf2555-eaf0-45b0-af8a-c7dd3da3a065@b4cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230908T091500Z
-LOCATION:24-438
-DTSTART:20230908T074500Z
-SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:68a032ad-426d-4762-bc1d-5887118ffddb@68a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231101T131500Z
-LOCATION:1-101
-DTSTART:20231101T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:e0a632cb-6f69-447f-9199-508cc9624ae3@e0a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231023T131500Z
-LOCATION:24-512
-DTSTART:20231023T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:19559973-0ae8-459b-86ce-888f8f3f7adf@1955.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230901T113000Z
-LOCATION:24-438
-DTSTART:20230901T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:3b29ccc9-acc6-45d8-8bf0-a84585454dc5@3b29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231213T131500Z
-LOCATION:1-101
-DTSTART:20231213T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:d6759c48-68b4-4a1c-b146-13e3bd4e3327@d675.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231031T113000Z
-LOCATION:24-439
-DTSTART:20231031T100000Z
-SUMMARY:ЛР Надежность и техническая диагностика
-UID:91bf6cc1-c956-4303-9449-9115df901cf7@91bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохорова Елена Павловна
-DTEND:20231222T131500Z
-LOCATION:3-429
-DTSTART:20231222T114500Z
-SUMMARY:ЛК Экономика и организация промышленности
-UID:485ffec1-0cfd-4d99-9d89-dd04cce59ddc@485f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231226T091500Z
-LOCATION:24-438
-DTSTART:20231226T074500Z
-SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
-UID:d605a241-d9a8-45fa-852e-3f635a7e51ed@d605.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231018T131500Z
-LOCATION:1-101
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:8f2b7fd4-9f62-4fd1-ab3c-3c099cdc3bf4@8f2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20230911T091500Z
-LOCATION:24-438
-DTSTART:20230911T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:216d44e6-64c9-4790-b6a2-2161eb47aed9@216d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохорова Елена Павловна
-DTEND:20231208T131500Z
-LOCATION:3-429
-DTSTART:20231208T114500Z
-SUMMARY:ЛК Экономика и организация промышленности
-UID:31a6f213-5201-4248-bfba-655b1d4a3659@31a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231011T131500Z
-LOCATION:1-101
-DTSTART:20231011T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:0bc35772-c914-4409-9562-661b8423d794@0bc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231010T113000Z
-LOCATION:24-439
-DTSTART:20231010T100000Z
-SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:1d29ef78-add9-494e-9cd3-342a96e6987f@1d29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231212T131500Z
-LOCATION:24-439
-DTSTART:20231212T114500Z
-SUMMARY:ЛР Надежность и техническая диагностика
-UID:41dd05b5-a97e-4a56-93aa-65b17d97abba@41dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231129T131500Z
-LOCATION:1-101
-DTSTART:20231129T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:c9e6d18f-bb72-47ef-8e7d-bf6e7f83bc95@c9e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231004T113000Z
-LOCATION:24-419
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:a17d273f-da05-4394-ae23-da02b1e02e6d@a17d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T131500Z
-LOCATION:1-101
-DTSTART:20230919T114500Z
-SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
-UID:44326901-4620-454a-84b1-c89e43fe3f70@4432.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T091500Z
-LOCATION:--каф.
-DTSTART:20231221T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:e2c5cd36-9949-43dc-8a7d-bf1ce285d239@e2c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T073000Z
-LOCATION:--каф.
-DTSTART:20231026T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:24bc369d-9c97-45d6-a781-89968c5c18ed@24bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231114T073000Z
-LOCATION:24-438
-DTSTART:20231114T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:bbad539c-c02b-4ae8-8857-f69955871954@bbad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231218T091500Z
-LOCATION:24-438
-DTSTART:20231218T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:455afed5-bf07-4073-a8f5-2a11be82af3e@455a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20230927T091500Z
-LOCATION:24-439
-DTSTART:20230927T074500Z
-SUMMARY:ЛР Экспериментальная отработка сложных технических систем
-UID:e80b4a67-91c2-4bbf-ae48-a66d73d3c0ee@e80b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231211T113000Z
-LOCATION:24-438
-DTSTART:20231211T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:2b05dcfc-98c0-40a8-be6f-f87dee268987@2b05.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T131500Z
-LOCATION:--каф.
-DTSTART:20231109T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:26740ade-2b53-4c07-97d5-d7aa77eb92f2@2674.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20230918T091500Z
-LOCATION:24-438
-DTSTART:20230918T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:f97be62d-52dd-4bf7-b46f-0d67c41e2828@f97b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231025T091500Z
-LOCATION:24-439
-DTSTART:20231025T074500Z
-SUMMARY:ЛР Экспериментальная отработка сложных технических систем
-UID:90d791c4-b17d-412a-aef0-5b5921b1104d@90d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T113000Z
-LOCATION:--каф.
-DTSTART:20231207T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:708d3156-a9cd-4c1c-a8df-3b05a3a9630a@708d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230905T113000Z
-LOCATION:1-101
-DTSTART:20230905T100000Z
-SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
-UID:fad10583-d58e-48cf-846d-6bff3710a5b6@fad1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231201T113000Z
-LOCATION:24-438
-DTSTART:20231201T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:c3187556-0daa-4875-aa41-6e245d2347e6@c318.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T131500Z
-LOCATION:--каф.
-DTSTART:20231116T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:729b8cc5-b228-4d7f-85ef-188f3c3549c5@729b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T073000Z
-LOCATION:--каф.
-DTSTART:20231228T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:216f9b47-5ba2-4bb9-ab42-3cd0a8213bab@216f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T131500Z
-LOCATION:--каф.
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:3365e715-107c-4d11-9481-479c1bf1b334@3365.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдина Ирина Анатольевна
-DTEND:20231107T091500Z
-LOCATION:5-211
-DTSTART:20231107T074500Z
-SUMMARY:ПЗ Экономика и организация промышленности
-UID:a6dda36b-ecfe-4908-803b-ef49bcab8d40@a6dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231010T131500Z
-LOCATION:24-439
-DTSTART:20231010T114500Z
-SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:521d2368-41ff-4aad-92c4-0d1347710039@521d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231222T073000Z
-LOCATION:3-445
-DTSTART:20231222T060000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:9c9c902b-d276-419c-85e2-e2db650b612f@9c9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231002T131500Z
-LOCATION:24-512
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:8f1570b0-cfb2-4bc0-87f3-d6112a172b36@8f15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дедус Федор Флоренцевич
-DTEND:20230908T150000Z
-LOCATION:24-444
-DTSTART:20230908T133000Z
-SUMMARY:ПЗ УИРС
-UID:2554b931-9a4d-4eba-b96c-20f2a597facd@2554.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231027T073000Z
-LOCATION:3-445
-DTSTART:20231027T060000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:e795a4fb-0a1f-4d08-833c-fc6afae72cf7@e795.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231225T091500Z
-LOCATION:24-438
-DTSTART:20231225T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:b0cd3237-7ee8-4cdd-968b-1493ac5c1823@b0cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231212T091500Z
-LOCATION:24-438
-DTSTART:20231212T074500Z
-SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
-UID:69ebed1b-5801-43e4-91c7-c66e7bd3e316@69eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231113T091500Z
-LOCATION:24-438
-DTSTART:20231113T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:c52f035e-044c-4e1b-81c0-e8b7d2ac13e5@c52f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230926T113000Z
-LOCATION:24-439
-DTSTART:20230926T100000Z
-SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:f6cce310-9075-46e9-afb7-fafed34833d7@f6cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231024T113000Z
-LOCATION:24-439
-DTSTART:20231024T100000Z
-SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:dc710195-c851-46d5-9076-bad2ac884aef@dc71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231211T091500Z
-LOCATION:24-438
-DTSTART:20231211T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:0b987cb0-772e-4b09-ba6c-bcd9d54efe72@0b98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20230908T131500Z
-LOCATION:3-429
-DTSTART:20230908T114500Z
-SUMMARY:ЛК Психология и педагогика
-UID:e2c8ed50-b7a5-46dd-92f6-146a48422f3f@e2c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T131500Z
-LOCATION:--каф.
-DTSTART:20231123T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:2297dafa-f03b-44de-8568-fc89ae7faf36@2297.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231211T131500Z
-LOCATION:24-512
-DTSTART:20231211T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:9f319f01-6fee-41fb-9386-8d78b34cc709@9f31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохорова Елена Павловна
-DTEND:20230915T131500Z
-LOCATION:3-429
-DTSTART:20230915T114500Z
-SUMMARY:ЛК Экономика и организация промышленности
-UID:8970e75d-1cc1-4858-b9a0-ce7c05e66590@8970.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230929T091500Z
-LOCATION:24-438
-DTSTART:20230929T074500Z
-SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:44116cff-bed4-412f-9b01-36627dcbbd39@4411.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T113000Z
-LOCATION:--каф.
-DTSTART:20231019T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:b0818d36-51b7-4f48-aa5f-08ba1a46ca2c@b081.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231027T091500Z
-LOCATION:24-438
-DTSTART:20231027T074500Z
-SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:aea0fe06-41b9-47c9-9b09-63c5a592c949@aea0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231011T091500Z
-LOCATION:24-439
-DTSTART:20231011T074500Z
-SUMMARY:ЛР Экспериментальная отработка сложных технических систем
-UID:d73cd288-453d-4fc0-aecc-1189b110d2b6@d73c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231120T073000Z
-LOCATION:24-413
-DTSTART:20231120T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:162a3d16-5ef2-48eb-92eb-ad010e4d9cb5@162a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T113000Z
-LOCATION:1-101
-DTSTART:20230919T100000Z
-SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
-UID:96f6c424-5bf7-4020-8b94-98b8d00ba0a7@96f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231016T091500Z
-LOCATION:24-438
-DTSTART:20231016T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:984ff3f4-5630-4e2d-abac-74264a695f2c@984f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231004T091500Z
-LOCATION:24-440
-DTSTART:20231004T074500Z
-SUMMARY:ПЗ Объекты и условия эксплуатации
-UID:64a3e478-b281-4b1c-9c7a-a6a2eead422f@64a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20230919T073000Z
-LOCATION:24-438
-DTSTART:20230919T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:9d61d350-40fe-4b02-a1c8-7050159819a8@9d61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231114T091500Z
-LOCATION:24-438
-DTSTART:20231114T074500Z
-SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
-UID:1421e1ee-179b-44c9-ac48-00d1f2daeeba@1421.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231205T131500Z
-LOCATION:24-439
-DTSTART:20231205T114500Z
-SUMMARY:ЛР Вакуумные испытания
-UID:81df298a-f5aa-4459-a675-f1df243508c8@81df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231101T091500Z
-LOCATION:24-440
-DTSTART:20231101T074500Z
-SUMMARY:ПЗ Объекты и условия эксплуатации
-UID:a0f79723-eac9-49dc-b68b-e8609c12540b@a0f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231120T091500Z
-LOCATION:24-438
-DTSTART:20231120T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:04461494-b6f3-47d0-9e6c-165d37b38f04@0446.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231121T131500Z
-LOCATION:24-439
-DTSTART:20231121T114500Z
-SUMMARY:ЛР Вакуумные испытания
-UID:38ddb3c5-9da0-40b0-806c-9117e61735ad@38dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231219T073000Z
-LOCATION:24-438
-DTSTART:20231219T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:e2e1c779-486b-4601-acaa-62be3d01705e@e2e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20230904T091500Z
-LOCATION:24-438
-DTSTART:20230904T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:d9fbc06d-4606-4cb9-b09a-57b643a166e3@d9fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T091500Z
-LOCATION:--каф.
-DTSTART:20231116T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:1bf1a2b8-4530-4803-9adc-438394261d3d@1bf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230929T113000Z
-LOCATION:24-438
-DTSTART:20230929T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:625f901c-1c78-4778-a399-3c9bdf245bc9@625f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T113000Z
-LOCATION:--каф.
-DTSTART:20230928T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:e579ca74-9584-43e8-8240-1492747e9400@e579.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231208T073000Z
-LOCATION:3-445
-DTSTART:20231208T060000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:5eab58a1-9c02-479a-b30d-64a1b7ec5495@5eab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231018T091500Z
-LOCATION:24-440
-DTSTART:20231018T074500Z
-SUMMARY:ПЗ Объекты и условия эксплуатации
-UID:218b2fd3-3dbd-4ed0-ac13-e6bb98b05d80@218b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20230904T113000Z
-LOCATION:24-438
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:22e1e21c-1172-48d7-897f-57b8ea8e0795@22e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231024T131500Z
-LOCATION:24-439
-DTSTART:20231024T114500Z
-SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:afff1adb-14f8-4ece-b5d8-96dde9d9a9c7@afff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдина Ирина Анатольевна
-DTEND:20230926T091500Z
-LOCATION:5-211
-DTSTART:20230926T074500Z
-SUMMARY:ПЗ Экономика и организация промышленности
-UID:dab48412-c608-4b44-a866-b6750fd78bcf@dab4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20230920T131500Z
-LOCATION:1-101
-DTSTART:20230920T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:4359a957-690e-45e6-a890-79f3fb190eb9@4359.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20230901T073000Z
-LOCATION:3-445
-DTSTART:20230901T060000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:117ff4b8-eaaa-48e6-99aa-afc39cb52f04@117f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дедус Федор Флоренцевич
-DTEND:20231229T150000Z
-LOCATION:24-444
-DTSTART:20231229T133000Z
-SUMMARY:ПЗ УИРС
-UID:f00ff6d2-cad9-4335-a1e1-b2fdf1c8a566@f00f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20230927T131500Z
-LOCATION:1-101
-DTSTART:20230927T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:6c87b56e-0f9f-4311-9d3b-b078d0da6738@6c87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231006T131500Z
-LOCATION:3-429
-DTSTART:20231006T114500Z
-SUMMARY:ЛК Психология и педагогика
-UID:8bb29f00-dbc6-48ae-9f79-78648a68007c@8bb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231225T131500Z
-LOCATION:24-512
-DTSTART:20231225T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:52ab0de1-7c91-480b-833e-95a45bd99a8f@52ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230922T091500Z
-LOCATION:24-438
-DTSTART:20230922T074500Z
-SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:3118f4a9-2b28-4661-868e-0848573d0e1d@3118.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230915T091500Z
-LOCATION:24-438
-DTSTART:20230915T074500Z
-SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:e28f6167-2503-4ba1-89da-88085774c8c2@e28f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T131500Z
-LOCATION:--каф.
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:85cf0f80-bf9e-40fb-bea4-c52ea54346bb@85cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231108T131500Z
-LOCATION:1-101
-DTSTART:20231108T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:64b6de04-b715-4910-975f-159f2a59c386@64b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231127T131500Z
-LOCATION:24-512
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:af871a32-93a9-45ce-959b-031a2a73fe49@af87.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T073000Z
-LOCATION:--каф.
-DTSTART:20231012T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:1595374f-21d0-4431-8d22-adeb2d435497@1595.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T113000Z
-LOCATION:--каф.
-DTSTART:20231221T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:5f8b4cea-d810-4437-a390-7fa48fb54d8a@5f8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231002T091500Z
-LOCATION:24-438
-DTSTART:20231002T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:7eed0809-5ec2-43b4-b237-7fe0029da825@7eed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T113000Z
-LOCATION:--каф.
-DTSTART:20230921T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:ecff2c94-0983-482b-9e70-780477f08e1a@ecff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231006T113000Z
-LOCATION:24-438
-DTSTART:20231006T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:f9149b27-c4b0-4c71-9577-e0aa1ce3c505@f914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231025T131500Z
-LOCATION:1-101
-DTSTART:20231025T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:9e688741-008b-4dd3-b3db-0b4b9eefb202@9e68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохорова Елена Павловна
-DTEND:20231027T131500Z
-LOCATION:3-429
-DTSTART:20231027T114500Z
-SUMMARY:ЛК Экономика и организация промышленности
-UID:ee009e11-1c6b-47da-96bc-c3745d2f961d@ee00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20230918T131500Z
-LOCATION:24-512
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:d4da4b70-d120-4dbf-8c78-64be7f815508@d4da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20230904T131500Z
-LOCATION:24-512
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:b33d375b-e95c-4bf2-9f86-ade602dff3e7@b33d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231031T073000Z
-LOCATION:24-438
-DTSTART:20231031T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:6c7ac6f5-c10f-4237-b825-5caf3427d05c@6c7a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T073000Z
-LOCATION:--каф.
-DTSTART:20231109T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:b16be2ed-be1e-4e21-a887-c38b3a1ffb73@b16b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231117T091500Z
-LOCATION:24-438
-DTSTART:20231117T074500Z
-SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:b95cc456-0c86-46d3-a627-13dbddfcdafe@b95c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231002T113000Z
-LOCATION:24-438
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:7e71ab55-3bc8-41c7-acb6-de68f50e72a4@7e71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231201T131500Z
-LOCATION:3-429
-DTSTART:20231201T114500Z
-SUMMARY:ЛК Психология и педагогика
-UID:ee2e33ca-d868-49fd-a451-bd3b7001159b@ee2e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T113000Z
-LOCATION:--каф.
-DTSTART:20231005T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:a18a0b56-a343-4a27-bf54-aef8080b1042@a18a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231206T113000Z
-LOCATION:24-419
-DTSTART:20231206T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:0ff6d8b0-60a3-4e6f-acbe-fbc7d2af2702@0ff6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230922T113000Z
-LOCATION:24-438
-DTSTART:20230922T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:0ecc84cc-41ad-4cba-91c8-6808c726cd4f@0ecc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Болдина Ирина Анатольевна
-DTEND:20231219T091500Z
-LOCATION:5-211
-DTSTART:20231219T074500Z
-SUMMARY:ПЗ Экономика и организация промышленности
-UID:43b13181-9f24-4332-a05c-ab1521c6ea91@43b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231110T091500Z
-LOCATION:24-438
-DTSTART:20231110T074500Z
-SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:73cd8aca-fa0d-48ff-b211-973666af0564@73cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T131500Z
-LOCATION:--каф.
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:87173eca-0488-4881-afad-4e0018692e29@8717.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231122T113000Z
-LOCATION:24-419
-DTSTART:20231122T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:5e0040d0-c80f-4431-8ede-6167e59c9382@5e00.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T091500Z
-LOCATION:--каф.
-DTSTART:20231026T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:f38f9611-372b-42f1-b456-0fe054fbcea3@f38f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T131500Z
-LOCATION:--каф.
-DTSTART:20231228T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:2838743f-a29b-4ccf-8a4d-2effec4c9ffe@2838.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20230918T113000Z
-LOCATION:24-438
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:9e63a4fa-7bd9-4ab3-b909-bb67b4409747@9e63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20230920T113000Z
-LOCATION:24-419
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:6f10a53f-11cb-46e9-989f-94ff1e959cbf@6f10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231213T113000Z
-LOCATION:24-419
-DTSTART:20231213T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:90e2bf1c-d4ba-479f-86ca-f60a523e050a@90e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231127T073000Z
-LOCATION:24-413
-DTSTART:20231127T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:c5ce1f85-d88c-4fa8-b867-42ac290cd5d6@c5ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231107T073000Z
-LOCATION:24-438
-DTSTART:20231107T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:a25bfb93-4ad1-416a-8eb4-c6bbab154cd7@a25b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T073000Z
-LOCATION:--каф.
-DTSTART:20231207T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:c6be0977-96d5-433f-a9e3-dc3e75756ea5@c6be.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T113000Z
-LOCATION:--каф.
-DTSTART:20231214T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:c2075a7d-dc5f-4669-88a9-8a410b0cc8a5@c207.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231218T073000Z
-LOCATION:24-413
-DTSTART:20231218T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:4fba4076-13b0-4bce-bc41-816d6223ee3a@4fba.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T091500Z
-LOCATION:--каф.
-DTSTART:20230907T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:72f8b5d5-d711-4250-8d75-30f0957843a0@72f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231120T113000Z
-LOCATION:24-438
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:19ed0e07-d623-4f7b-88ff-8e60d316268e@19ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231106T131500Z
-LOCATION:24-512
-DTSTART:20231106T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:00111083-4a23-4789-ae55-f6c3881364cd@0011.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20230915T073000Z
-LOCATION:3-445
-DTSTART:20230915T060000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:fb754f80-3909-4aac-a0fa-8103cffb2583@fb75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20230913T131500Z
-LOCATION:1-101
-DTSTART:20230913T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:ec8f82b7-8e71-4f41-86fe-f93e774bd7a6@ec8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20230920T091500Z
-LOCATION:24-440
-DTSTART:20230920T074500Z
-SUMMARY:ПЗ Объекты и условия эксплуатации
-UID:a9549482-a40d-4268-8826-de5666e81dac@a954.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231009T113000Z
-LOCATION:24-438
-DTSTART:20231009T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:8b17b73e-9d77-43e2-9ff6-dfefaee9534f@8b17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231219T113000Z
-LOCATION:24-439
-DTSTART:20231219T100000Z
-SUMMARY:ЛР Вакуумные испытания
-UID:ebebe7b6-8e5b-4973-b64d-a7dfeac66b88@ebeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231220T113000Z
-LOCATION:24-419
-DTSTART:20231220T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:a09dbe59-aaf7-4b08-83c2-7b1c24021f71@a09d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T131500Z
-LOCATION:--каф.
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:aab1d025-b37e-4dc6-a90f-e6335a9a73c4@aab1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231003T091500Z
-LOCATION:24-438
-DTSTART:20231003T074500Z
-SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
-UID:f7258322-105b-42e2-a8f6-56a02a55f21b@f725.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T113000Z
-LOCATION:--каф.
-DTSTART:20231012T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:30d593e2-1de0-44e1-a0b2-a25d03c94178@30d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231018T073000Z
-LOCATION:24-440
-DTSTART:20231018T060000Z
-SUMMARY:ПЗ Объекты и условия эксплуатации
-UID:e6310dd6-5749-4026-ad14-fefb93410c53@e631.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T091500Z
-LOCATION:--каф.
-DTSTART:20231109T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:8df5ca38-0d71-4ef6-b6dc-5c91f528343e@8df5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дедус Федор Флоренцевич
-DTEND:20230922T150000Z
-LOCATION:24-444
-DTSTART:20230922T133000Z
-SUMMARY:ПЗ УИРС
-UID:cef6fc3d-e236-4c9a-bea2-6bac6410ae49@cef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231215T131500Z
-LOCATION:3-429
-DTSTART:20231215T114500Z
-SUMMARY:ЛК Психология и педагогика
-UID:4ab771db-8c0a-414a-94fe-308ebcc7790f@4ab7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231103T113000Z
-LOCATION:24-438
-DTSTART:20231103T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:6121cfc4-078b-401d-95bf-199fad599052@6121.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231117T131500Z
-LOCATION:3-429
-DTSTART:20231117T114500Z
-SUMMARY:ЛК Психология и педагогика
-UID:149dfadb-edf4-47a9-906d-6190cedd5201@149d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T113000Z
-LOCATION:--каф.
-DTSTART:20231123T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:f80aa6aa-dbf5-4df7-8b76-43aba96740a1@f80a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231220T131500Z
-LOCATION:1-101
-DTSTART:20231220T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:de224204-1666-410e-97fb-f058db2cd1ac@de22.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T091500Z
-LOCATION:--каф.
-DTSTART:20231130T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:a929c7a3-ac07-4aa9-a2cc-4a189acdfd20@a929.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231024T073000Z
-LOCATION:24-438
-DTSTART:20231024T060000Z
-SUMMARY:ЛК Вакуумные испытания
-UID:29bd0529-f240-4f50-98a0-0c4d6454a2a0@29bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231218T131500Z
-LOCATION:24-512
-DTSTART:20231218T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:c555c1cc-062b-48f5-85de-c676f55144b7@c555.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231225T113000Z
-LOCATION:24-438
-DTSTART:20231225T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:f49ea434-d3ff-4062-a4f3-78daf5313418@f49e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T091500Z
-LOCATION:--каф.
-DTSTART:20231102T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:bcff9016-8b5f-47b8-89c1-4dcefd699069@bcff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231009T073000Z
-LOCATION:24-413
-DTSTART:20231009T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:aee07908-d00d-40de-8bf4-19168133bbcb@aee0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231124T113000Z
-LOCATION:24-438
-DTSTART:20231124T100000Z
-SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:6ed6038a-d7c2-4d92-ae8c-1614b86d474b@6ed6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20230906T073000Z
-LOCATION:24-440
-DTSTART:20230906T060000Z
-SUMMARY:ПЗ Объекты и условия эксплуатации
-UID:087bfc00-89df-42c9-b213-6f525319100b@087b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231128T091500Z
-LOCATION:24-438
-DTSTART:20231128T074500Z
-SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
-UID:3b405ec4-12e9-457f-82d2-2eceb393b3e0@3b40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231002T073000Z
-LOCATION:24-413
-DTSTART:20231002T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:8f28b330-d862-4b7e-94eb-00d66bcdccc5@8f28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231013T091500Z
-LOCATION:24-438
-DTSTART:20231013T074500Z
-SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:4e51a650-ba16-4bf7-a464-2d6a237fb707@4e51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231023T091500Z
-LOCATION:24-438
-DTSTART:20231023T074500Z
-SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:795766c5-8fc4-4108-ae1b-dba4ffe3dae0@7957.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231004T131500Z
-LOCATION:1-101
-DTSTART:20231004T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:6bbd6eec-b8d1-4827-8313-668fce845f5b@6bbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20230912T131500Z
-LOCATION:24-439
-DTSTART:20230912T114500Z
-SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:ed256f8d-1178-4b17-99dd-b3fac8028423@ed25.org
+UID:4a2ce67b-e233-4d58-9e73-1bc76faf59ff@4a2c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Садретдинова Эльнара Рамилевна
@@ -2205,145 +14,124 @@ DTEND:20231215T113000Z
 LOCATION:24-438
 DTSTART:20231215T100000Z
 SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:c3674354-97bc-495f-b112-6b24176eb14f@c367.org
+UID:10090e71-f486-474c-88be-3c7052728603@1009.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20230904T073000Z
+DTEND:20230918T073000Z
 LOCATION:24-413
-DTSTART:20230904T060000Z
+DTSTART:20230918T060000Z
 SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:850d1fab-aecb-4a76-9d6a-0f94cc3b9c3f@850d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231212T113000Z
-LOCATION:24-439
-DTSTART:20231212T100000Z
-SUMMARY:ЛР Надежность и техническая диагностика
-UID:e5fdf329-ed53-4034-980e-ac86809f6068@e5fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20230911T131500Z
-LOCATION:24-512
-DTSTART:20230911T114500Z
-SUMMARY:ЛК Объекты и условия эксплуатации
-UID:615f19ab-a86f-48b3-84bc-e65a487c1153@615f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T113000Z
-LOCATION:1-101
-DTSTART:20231003T100000Z
-SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
-UID:94d80478-d65c-44fa-9817-7a6bd947a94a@94d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T091500Z
-LOCATION:--каф.
-DTSTART:20230921T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:63181d4c-811f-4f35-9ee3-4011be52c176@6318.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролова Светлана Валериевна
-DTEND:20231124T073000Z
-LOCATION:3-445
-DTSTART:20231124T060000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:42f43412-25ad-4f79-a68d-73b74b1f7b9e@42f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T073000Z
-LOCATION:--каф.
-DTSTART:20231102T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:79a2851b-d330-48da-9dca-388d63a72e75@79a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Катков Всеволод Александрович
-DTEND:20231004T073000Z
-LOCATION:24-440
-DTSTART:20231004T060000Z
-SUMMARY:ПЗ Объекты и условия эксплуатации
-UID:83a0b41d-bd36-4139-b7b2-59c562e5c6fc@83a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T073000Z
-LOCATION:--каф.
-DTSTART:20230921T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:8b977385-4b6d-4712-ab98-3532579c40e7@8b97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231113T113000Z
-LOCATION:24-438
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Надежность и техническая диагностика
-UID:b4c4214d-5031-4bbd-9384-37f2b75b0f31@b4c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохорова Елена Павловна
-DTEND:20231013T131500Z
-LOCATION:3-429
-DTSTART:20231013T114500Z
-SUMMARY:ЛК Экономика и организация промышленности
-UID:02b0d20d-3d0a-4970-9178-de248ad20cb6@02b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дедус Федор Флоренцевич
-DTEND:20231020T150000Z
-LOCATION:24-444
-DTSTART:20231020T133000Z
-SUMMARY:ПЗ УИРС
-UID:dd729f69-ff50-4b6f-a672-2ab4fbf5f224@dd72.org
+UID:fa013765-5c25-49ac-b0a8-54208a025959@fa01.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231122T131500Z
-LOCATION:1-101
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
-UID:0d8002bd-2151-431f-ba3a-7522cd602c67@0d80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231101T113000Z
-LOCATION:24-419
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
-UID:cb20d602-516a-4732-88f1-edcd1b067a7b@cb20.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T131500Z
-LOCATION:--каф.
-DTSTART:20231130T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:83bd63c1-6113-4ac1-a42d-2e186cbf7569@83bd.org
+DTEND:20230911T073000Z
+LOCATION:24-413
+DTSTART:20230911T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:c6986cc1-fbc0-451b-9ca4-295e5cbbde46@c698.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231106T091500Z
+DTEND:20231113T091500Z
 LOCATION:24-438
-DTSTART:20231106T074500Z
+DTSTART:20231113T074500Z
 SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:74b33d82-b09e-4f77-bf82-878bd23f46f2@74b3.org
+UID:7cccee52-d0ea-4acd-9381-799a380a71b7@7ccc.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231102T131500Z
-LOCATION:--каф.
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:9d81b3a2-b74d-474f-bd50-43da082799ad@9d81.org
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231031T091500Z
+LOCATION:24-438
+DTSTART:20231031T074500Z
+SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
+UID:5caf79fa-5358-423b-8119-737dc832000a@5caf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20230911T113000Z
+DTEND:20231002T113000Z
 LOCATION:24-438
-DTSTART:20230911T100000Z
+DTSTART:20231002T100000Z
 SUMMARY:ЛК Надежность и техническая диагностика
-UID:ddc220d5-211b-412f-8e1b-4e05187f18cd@ddc2.org
+UID:9f71ecce-9c44-477c-9990-fb24e453e4bd@9f71.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T113000Z
+LOCATION:--каф.
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:cc43dd1d-d8c2-4448-9bd4-d960ededdf5b@cc43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дедус Федор Флоренцевич
+DTEND:20231006T150000Z
+LOCATION:24-444
+DTSTART:20231006T133000Z
+SUMMARY:ПЗ УИРС
+UID:7536983f-a0a8-4e22-96dc-06ede81c1e23@7536.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T113000Z
+LOCATION:--каф.
+DTSTART:20231221T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:d11ecbbf-351b-43d0-acad-fa6a06852ff1@d11e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230922T113000Z
+LOCATION:24-438
+DTSTART:20230922T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:0b6b4a43-77d1-4a49-a6cf-1e0a5a955d67@0b6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T091500Z
+LOCATION:--каф.
+DTSTART:20231221T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:5d4ffdd3-78fd-46b8-8530-64cee8918c8d@5d4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231205T073000Z
+LOCATION:24-438
+DTSTART:20231205T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:c6ded307-5f03-4836-94fb-194d0e3e9e6a@c6de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231226T091500Z
+LOCATION:24-438
+DTSTART:20231226T074500Z
+SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
+UID:66c4ec72-825f-4ae4-a1b9-3393f380a08f@66c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231128T073000Z
+LOCATION:24-438
+DTSTART:20231128T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:bf960675-8ded-4b76-8a48-a56a2f74dce1@bf96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20230927T113000Z
+LOCATION:24-419
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:a414e9ce-93b9-4529-b339-15016b77778d@a414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдина Ирина Анатольевна
+DTEND:20231121T091500Z
+LOCATION:5-211
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:034547bb-6b73-47d6-9b70-b555879ce7de@0345.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусев Евгений Владимирович
@@ -2351,70 +139,460 @@ DTEND:20230925T113000Z
 LOCATION:24-438
 DTSTART:20230925T100000Z
 SUMMARY:ЛК Надежность и техническая диагностика
-UID:7b4493de-8698-48cc-b8ef-31547022c3ab@7b44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231006T091500Z
-LOCATION:24-438
-DTSTART:20231006T074500Z
-SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:64db8ca0-9c24-4674-aca9-394167355c3f@64db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Маскайкина Анна Александровна
-DTEND:20231211T073000Z
-LOCATION:24-413
-DTSTART:20231211T060000Z
-SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
-UID:1e3e142d-145c-4a75-827f-8c0b3640aba1@1e3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусев Евгений Владимирович
-DTEND:20231128T131500Z
-LOCATION:24-439
-DTSTART:20231128T114500Z
-SUMMARY:ЛР Надежность и техническая диагностика
-UID:116a76c0-c85f-4016-b8c3-475839cb61bf@116a.org
+UID:6b9fa185-19b8-4cc3-83e1-2ad138a5dc2a@6b9f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Катков Всеволод Александрович
-DTEND:20230906T091500Z
+DTEND:20230920T073000Z
 LOCATION:24-440
-DTSTART:20230906T074500Z
+DTSTART:20230920T060000Z
 SUMMARY:ПЗ Объекты и условия эксплуатации
-UID:96c3757f-5c5a-440b-85b6-ad7567380dd1@96c3.org
+UID:e4a56323-f06d-4313-86c0-f9e13744c0a1@e4a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230929T091500Z
+LOCATION:24-438
+DTSTART:20230929T074500Z
+SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:7826e316-1249-4063-82bd-2212387bdc88@7826.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231218T113000Z
+LOCATION:24-438
+DTSTART:20231218T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:ceb470ff-4151-4515-9e7e-f0b019caeba0@ceb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20230919T091500Z
+LOCATION:24-438
+DTSTART:20230919T074500Z
+SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
+UID:1ddde4ba-cc3d-4a58-a5ed-3707b7c76178@1ddd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231009T113000Z
+LOCATION:24-438
+DTSTART:20231009T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:1c06fbb7-34ae-4d60-8fe4-effcc0a65d29@1c06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231106T131500Z
+LOCATION:24-512
+DTSTART:20231106T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:a79ebd08-16e9-4280-952a-2c43b9c933e2@a79e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T091500Z
+LOCATION:--каф.
+DTSTART:20230907T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:13745e15-fa89-4bbf-8c67-a96bf296689d@1374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231004T073000Z
+LOCATION:24-440
+DTSTART:20231004T060000Z
+SUMMARY:ПЗ Объекты и условия эксплуатации
+UID:762823db-a0c4-4fe9-8c4d-496719a01f8d@7628.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дедус Федор Флоренцевич
+DTEND:20230922T150000Z
+LOCATION:24-444
+DTSTART:20230922T133000Z
+SUMMARY:ПЗ УИРС
+UID:012ca72d-2467-476a-a571-7e41b5d8f683@012c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Палешкин Андрей Вячеславович
-DTEND:20231226T073000Z
+DTEND:20231031T073000Z
 LOCATION:24-438
-DTSTART:20231226T060000Z
+DTSTART:20231031T060000Z
 SUMMARY:ЛК Вакуумные испытания
-UID:39bbe5e4-50be-46e5-a9ce-b6642686daeb@39bb.org
+UID:e53ac848-819c-4e3d-b00f-7be2a9d01726@e53a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20230913T073000Z
-LOCATION:24-439
-DTSTART:20230913T060000Z
-SUMMARY:ЛР Экспериментальная отработка сложных технических систем
-UID:118d3819-e7e8-476d-9a2e-08c20cdc2fa6@118d.org
+DTEND:20231130T073000Z
+LOCATION:--каф.
+DTSTART:20231130T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:d48324f2-9627-4363-b54c-320ee4f080dc@d483.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кучейко Алексей Анатольевич
-DTEND:20231009T091500Z
+DTEND:20231123T091500Z
+LOCATION:--каф.
+DTSTART:20231123T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:43765bee-8a83-47f5-bcfd-66f2da4d32fd@4376.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231127T073000Z
+LOCATION:24-413
+DTSTART:20231127T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:99cbeb85-95c0-4894-9dc0-0ff1b39d3864@99cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231020T113000Z
 LOCATION:24-438
-DTSTART:20231009T074500Z
+DTSTART:20231020T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:6bf8662e-2218-493c-80e2-05a3bbd74284@6bf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231107T073000Z
+LOCATION:24-438
+DTSTART:20231107T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:9df85c91-63a8-49a4-818e-7d34e79f46ef@9df8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231229T131500Z
+LOCATION:3-429
+DTSTART:20231229T114500Z
+SUMMARY:ЛК Психология и педагогика
+UID:c5845c17-7a6f-48b6-95dd-a25bac8c6541@c584.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230926T113000Z
+LOCATION:24-439
+DTSTART:20230926T100000Z
+SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:4ae046bc-c618-4da6-b9a1-70208acdb274@4ae0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T073000Z
+LOCATION:--каф.
+DTSTART:20231214T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:2c1dfe64-c22f-4b3c-9826-4edd24a6c3d7@2c1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231205T113000Z
+LOCATION:24-439
+DTSTART:20231205T100000Z
+SUMMARY:ЛР Вакуумные испытания
+UID:cfb3c013-abd4-4a49-b8fe-fb63cca9511b@cfb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231027T091500Z
+LOCATION:24-438
+DTSTART:20231027T074500Z
+SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:88b0af5a-6b24-42d5-a254-db8e28f5df29@88b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231212T113000Z
+LOCATION:24-439
+DTSTART:20231212T100000Z
+SUMMARY:ЛР Надежность и техническая диагностика
+UID:2fd8f3d0-7abc-451f-9d36-63dc6533a2ae@2fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231018T113000Z
+LOCATION:24-419
+DTSTART:20231018T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:41a98fc2-4fac-4ba3-8861-2ccc51c3ea5b@41a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230912T131500Z
+LOCATION:24-439
+DTSTART:20230912T114500Z
+SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:53a778bb-7cbc-4d75-a7c7-9605d54e0b5e@53a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T073000Z
+LOCATION:--каф.
+DTSTART:20230928T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:afd5b491-dcc6-4f39-acae-efc48d6f73da@afd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231128T113000Z
+LOCATION:24-439
+DTSTART:20231128T100000Z
+SUMMARY:ЛР Надежность и техническая диагностика
+UID:e58d2d5b-f50e-4ae8-a50f-4b4f7cda856e@e58d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231121T131500Z
+LOCATION:24-439
+DTSTART:20231121T114500Z
+SUMMARY:ЛР Вакуумные испытания
+UID:f762caab-bdd1-4a08-ae24-949b2c42ae2a@f762.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231226T113000Z
+LOCATION:24-439
+DTSTART:20231226T100000Z
+SUMMARY:ЛР Надежность и техническая диагностика
+UID:d1135b71-cadc-4349-844b-de78fd4662b5@d113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231016T091500Z
+LOCATION:24-438
+DTSTART:20231016T074500Z
 SUMMARY:ЛК Экспериментальная отработка сложных технических систем
-UID:fa6c66db-5b8e-485a-9cc5-6502e496d1b5@fa6c.org
+UID:a6717ef6-ab18-49af-8e7b-336cb887eaef@a671.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231030T113000Z
+LOCATION:24-438
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:b59ef368-973a-4d3c-a82d-f406bd7bb277@b59e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231114T131500Z
+LOCATION:24-439
+DTSTART:20231114T114500Z
+SUMMARY:ЛР Надежность и техническая диагностика
+UID:c3fd93b6-d9de-4b08-920f-df78a2d92518@c3fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231204T073000Z
+LOCATION:24-413
+DTSTART:20231204T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:f443ac26-102f-4aaa-a5c8-16623cb6480e@f443.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231113T113000Z
+LOCATION:24-438
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:fc27dcd2-b280-4070-86a5-d3286039c58f@fc27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдина Ирина Анатольевна
+DTEND:20231205T091500Z
+LOCATION:5-211
+DTSTART:20231205T074500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:e43bb226-3046-46f8-8321-91a12d680a39@e43b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231101T113000Z
+LOCATION:24-419
+DTSTART:20231101T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:c6517ede-f7d6-4ac4-a73f-a1f36463e31c@c651.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T073000Z
+LOCATION:--каф.
+DTSTART:20231026T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:1a29eff8-3dfe-4a74-a6eb-454c40dba499@1a29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231212T131500Z
+LOCATION:24-439
+DTSTART:20231212T114500Z
+SUMMARY:ЛР Надежность и техническая диагностика
+UID:67ccd3ec-6880-44de-a192-152c7195b7bc@67cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231220T131500Z
+LOCATION:1-101
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:546c1ad4-3ccd-446e-9f82-e4c99cb03bb0@546c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20230901T073000Z
+LOCATION:3-445
+DTSTART:20230901T060000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:230e01c2-9a57-4435-85af-99810b12b8a0@230e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231011T073000Z
+LOCATION:24-439
+DTSTART:20231011T060000Z
+SUMMARY:ЛР Экспериментальная отработка сложных технических систем
+UID:1d273fc9-d3c0-4b86-a39b-ebcff1d2f9b4@1d27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231213T113000Z
+LOCATION:24-419
+DTSTART:20231213T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:9e2cac2e-7124-4f3b-b90e-ddacb8b10977@9e2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230915T091500Z
+LOCATION:24-438
+DTSTART:20230915T074500Z
+SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:0abf320f-bf73-4afa-a86b-3f13eb8160b4@0abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230915T113000Z
+LOCATION:24-438
+DTSTART:20230915T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:bb88e4c5-2d14-4e99-ab72-c081caeb1005@bb88.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T113000Z
+LOCATION:--каф.
+DTSTART:20231207T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:4997b71e-4170-4d9d-ac34-b6be8ac72c38@4997.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231222T113000Z
+LOCATION:24-438
+DTSTART:20231222T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:b967e550-264b-4861-aed4-7671fe96a2bd@b967.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231114T091500Z
+LOCATION:24-438
+DTSTART:20231114T074500Z
+SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
+UID:f312e5e0-8978-4f19-aa7b-c4ac9352862c@f312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231018T131500Z
+LOCATION:1-101
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:9ed9ab42-e57c-4370-94ea-fbbb688411ca@9ed9.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231109T113000Z
 LOCATION:--каф.
 DTSTART:20231109T100000Z
 SUMMARY:ЛК Военная подготовка
-UID:c6eec734-23da-4cab-9062-01283bde9adc@c6ee.org
+UID:c581111e-ed86-4aa5-94df-827036395335@c581.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231218T091500Z
+LOCATION:24-438
+DTSTART:20231218T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:21e39cca-6773-4984-aca5-b85d9a8a92f3@21e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дедус Федор Флоренцевич
+DTEND:20231201T150000Z
+LOCATION:24-444
+DTSTART:20231201T133000Z
+SUMMARY:ПЗ УИРС
+UID:148e5dc1-a175-4e1d-b6e2-300d5e95d63c@148e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20230905T073000Z
+LOCATION:24-438
+DTSTART:20230905T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:8a8df560-a87a-43d2-a176-571506429345@8a8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T091500Z
+LOCATION:--каф.
+DTSTART:20231116T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:51f72b60-1358-416e-84a9-f8d86ca2b968@51f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231103T091500Z
+LOCATION:24-438
+DTSTART:20231103T074500Z
+SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:6806c77a-ee07-4dd7-afd7-28ddfebb61ba@6806.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T113000Z
+LOCATION:--каф.
+DTSTART:20231123T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:bc8b2604-0f95-4f1a-81ab-19960b66d300@bc8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдина Ирина Анатольевна
+DTEND:20231024T091500Z
+LOCATION:5-211
+DTSTART:20231024T074500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:583634a5-e1ec-470d-8d68-cfcb12d837f8@5836.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231225T073000Z
+LOCATION:24-413
+DTSTART:20231225T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:83603ad7-4636-4a8f-b363-cfc4bba4b8d8@8360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231121T073000Z
+LOCATION:24-438
+DTSTART:20231121T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:e8c6834f-18ba-4612-8801-dd964f9a9512@e8c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T131500Z
+LOCATION:--каф.
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:bfed03c0-adb7-4b61-a7f3-888b1943ccf1@bfed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231103T131500Z
+LOCATION:3-429
+DTSTART:20231103T114500Z
+SUMMARY:ЛК Психология и педагогика
+UID:f24c8e57-bef6-4502-b49e-c3d84970d228@f24c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фролова Светлана Валериевна
@@ -2422,22 +600,727 @@ DTEND:20231013T073000Z
 LOCATION:3-445
 DTSTART:20231013T060000Z
 SUMMARY:ПЗ Психология и педагогика
-UID:3f0c3b2d-a416-4ac4-a875-5637f170d435@3f0c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T131500Z
-LOCATION:--каф.
-DTSTART:20231207T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:e10c6338-eae4-41d6-9a83-91a6422c8dd7@e10c.org
+UID:033e1883-06a4-402b-8615-dc8fa93bd324@033e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Садретдинова Эльнара Рамилевна
-DTEND:20231020T091500Z
+DTEND:20231117T091500Z
 LOCATION:24-438
-DTSTART:20231020T074500Z
+DTSTART:20231117T074500Z
 SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
-UID:37cc5b95-772a-43e3-8448-67e305b1ad98@37cc.org
+UID:13adf01d-ac2d-4a84-8524-b7ae3f8a433f@13ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T091500Z
+LOCATION:--каф.
+DTSTART:20230928T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:97f46049-6ea1-40fc-b362-c16d13942635@97f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20230925T131500Z
+LOCATION:24-512
+DTSTART:20230925T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:39d5e8c9-99a6-4661-8da7-30dc804d7bbe@39d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231003T091500Z
+LOCATION:24-438
+DTSTART:20231003T074500Z
+SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
+UID:66cde63b-252a-457c-9e66-04266798745e@66cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231117T131500Z
+LOCATION:3-429
+DTSTART:20231117T114500Z
+SUMMARY:ЛК Психология и педагогика
+UID:e5b092ea-e58d-4511-8d63-f5267b2e87d2@e5b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T113000Z
+LOCATION:--каф.
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:58cff368-18d5-4a76-8d3a-7004cdfdee5f@58cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T073000Z
+LOCATION:--каф.
+DTSTART:20231012T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:f82a22ac-43c4-4421-b274-6f34087f198e@f82a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20230920T113000Z
+LOCATION:24-419
+DTSTART:20230920T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:bf645eb5-4fe3-443b-aa42-40553a8bb170@bf64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231108T113000Z
+LOCATION:24-419
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:00c383d0-02e9-4cc0-88dd-3ff1831d973c@00c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231220T113000Z
+LOCATION:24-419
+DTSTART:20231220T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:9b294a0a-2058-42c4-ad01-f81f30b633b1@9b29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231002T073000Z
+LOCATION:24-413
+DTSTART:20231002T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:9404526f-de7e-4958-b654-b9af33438e5c@9404.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231219T073000Z
+LOCATION:24-438
+DTSTART:20231219T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:92987ea1-84d4-4410-ba3c-3b2c51e25e2b@9298.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T113000Z
+LOCATION:1-101
+DTSTART:20230905T100000Z
+SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
+UID:d930873f-4be9-47e1-b345-7fa9a648e6a8@d930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231020T131500Z
+LOCATION:3-429
+DTSTART:20231020T114500Z
+SUMMARY:ЛК Психология и педагогика
+UID:8339c7d4-c7f1-4046-8487-325fbee60eab@8339.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231108T131500Z
+LOCATION:1-101
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:caca217f-3782-4c40-a4c6-43a3a1db6387@caca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231106T091500Z
+LOCATION:24-438
+DTSTART:20231106T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:68d7b0a0-8174-4c67-9808-663f1717a85d@68d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230908T113000Z
+LOCATION:24-438
+DTSTART:20230908T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:75390a31-5af6-4ab9-92f8-ff6da74b7fc1@7539.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231206T113000Z
+LOCATION:24-419
+DTSTART:20231206T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:8d38f792-d7a0-4a93-9a3c-1463ed86e0ca@8d38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231011T091500Z
+LOCATION:24-439
+DTSTART:20231011T074500Z
+SUMMARY:ЛР Экспериментальная отработка сложных технических систем
+UID:083e26bb-9891-43d0-b98f-69b9ac64d0ef@083e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20230927T091500Z
+LOCATION:24-439
+DTSTART:20230927T074500Z
+SUMMARY:ЛР Экспериментальная отработка сложных технических систем
+UID:de93b839-3dad-497d-971e-ebfab7efd8e3@de93.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T131500Z
+LOCATION:--каф.
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:5e999421-90b5-4e65-bb85-747cfb7f1f32@5e99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохорова Елена Павловна
+DTEND:20231013T131500Z
+LOCATION:3-429
+DTSTART:20231013T114500Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:471a52c5-00c4-49e2-9839-4f604ac292e0@471a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231114T113000Z
+LOCATION:24-439
+DTSTART:20231114T100000Z
+SUMMARY:ЛР Надежность и техническая диагностика
+UID:61a8d355-6efd-4b43-8ea3-0eeeb391d7ff@61a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T073000Z
+LOCATION:--каф.
+DTSTART:20230914T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:422d3995-a806-49ad-b63d-baa2374106ec@422d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231027T113000Z
+LOCATION:24-438
+DTSTART:20231027T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:14fee031-0bd3-4780-b874-99dff8c7d5eb@14fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20230927T131500Z
+LOCATION:1-101
+DTSTART:20230927T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:0f67630b-15ce-4d94-982e-82d7090386e3@0f67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дедус Федор Флоренцевич
+DTEND:20231229T150000Z
+LOCATION:24-444
+DTSTART:20231229T133000Z
+SUMMARY:ПЗ УИРС
+UID:ad3d609d-c644-4644-b0fc-686e9f76ba8a@ad3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231025T131500Z
+LOCATION:1-101
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:0a2e9184-13fa-40e9-8862-8d57d2f60250@0a2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20230913T131500Z
+LOCATION:1-101
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:10d1019f-792e-47d2-87bb-c158fb8e688a@10d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T131500Z
+LOCATION:--каф.
+DTSTART:20231123T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:a02627a3-7204-4050-958f-c4374fe83f71@a026.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T113000Z
+LOCATION:--каф.
+DTSTART:20231012T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:b744db23-4d04-491f-949c-5219794f096a@b744.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231129T113000Z
+LOCATION:24-419
+DTSTART:20231129T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:2ac3504c-0700-4e5c-8e73-24e96c2611dc@2ac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231219T131500Z
+LOCATION:24-439
+DTSTART:20231219T114500Z
+SUMMARY:ЛР Вакуумные испытания
+UID:90f0d07c-7a97-4362-8378-1bdb5e4f3755@90f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231010T073000Z
+LOCATION:24-438
+DTSTART:20231010T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:d2d2ee30-bd43-4c17-93b8-9baca3464398@d2d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохорова Елена Павловна
+DTEND:20231208T131500Z
+LOCATION:3-429
+DTSTART:20231208T114500Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:cb8457c4-906e-4b98-b04a-f854480e776f@cb84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231009T131500Z
+LOCATION:24-512
+DTSTART:20231009T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:07caded0-88f5-4fb0-b990-7847422d9289@07ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T113000Z
+LOCATION:--каф.
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:61cdfbb8-1ab7-4c02-926b-e7aab9d24be6@61cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T091500Z
+LOCATION:--каф.
+DTSTART:20230921T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:3ebb4e98-1376-415e-9585-47726abcaef9@3ebb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T073000Z
+LOCATION:--каф.
+DTSTART:20231019T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:5c16f19e-14a3-4a02-87fa-756eb77e68d1@5c16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231204T113000Z
+LOCATION:24-438
+DTSTART:20231204T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:ea2fdf51-263b-48cb-9d43-b233754c274f@ea2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдина Ирина Анатольевна
+DTEND:20231107T091500Z
+LOCATION:5-211
+DTSTART:20231107T074500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:ae76396d-ee64-4ed1-b86a-90e9312307b3@ae76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231215T131500Z
+LOCATION:3-429
+DTSTART:20231215T114500Z
+SUMMARY:ЛК Психология и педагогика
+UID:7b3f83ff-04d5-4b72-8973-96d55d07e7a0@7b3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231219T113000Z
+LOCATION:24-439
+DTSTART:20231219T100000Z
+SUMMARY:ЛР Вакуумные испытания
+UID:e98fa539-0332-4079-a8cc-0e06ee7e8024@e98f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231110T091500Z
+LOCATION:24-438
+DTSTART:20231110T074500Z
+SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:0ab23d98-c02a-40b4-b4b7-5e04f99a86ab@0ab2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T113000Z
+LOCATION:--каф.
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:140299e6-6efd-40bb-8828-fbba108150f5@1402.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдина Ирина Анатольевна
+DTEND:20231219T091500Z
+LOCATION:5-211
+DTSTART:20231219T074500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:37a5f542-d431-4333-a73a-54fd608f0c32@37a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T113000Z
+LOCATION:1-101
+DTSTART:20230919T100000Z
+SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
+UID:b071da14-ceb4-4a4a-bf73-8ce57e8b24a7@b071.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T113000Z
+LOCATION:--каф.
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:7d1aaac4-81fc-48c0-a8a3-190d07929a76@7d1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20230912T073000Z
+LOCATION:24-438
+DTSTART:20230912T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:2f6c6b85-a454-4d05-88d4-d1af96eabbd4@2f6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231218T131500Z
+LOCATION:24-512
+DTSTART:20231218T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:dc71e8f3-46cf-4884-8158-a4fdb2f6f2e5@dc71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231225T113000Z
+LOCATION:24-438
+DTSTART:20231225T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:b771b631-a9d2-4282-a462-ff7ab4565f4e@b771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230926T131500Z
+LOCATION:24-439
+DTSTART:20230926T114500Z
+SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:51b3275d-848f-463a-bb40-8fba1cc2f814@51b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231009T091500Z
+LOCATION:24-438
+DTSTART:20231009T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:56a53ff4-056a-470f-b662-c62333b92404@56a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20230926T073000Z
+LOCATION:24-438
+DTSTART:20230926T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:63e625c0-2e61-451a-ba60-514e00e954d5@63e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохорова Елена Павловна
+DTEND:20230915T131500Z
+LOCATION:3-429
+DTSTART:20230915T114500Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:83f1e558-5c83-4a57-8330-4a5e528e24a1@83f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20230927T073000Z
+LOCATION:24-439
+DTSTART:20230927T060000Z
+SUMMARY:ЛР Экспериментальная отработка сложных технических систем
+UID:36030365-4ee9-4711-98ff-6c1fcd7c296d@3603.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231115T131500Z
+LOCATION:1-101
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:41877ce1-e441-45b8-b360-279d8074498d@4187.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T131500Z
+LOCATION:--каф.
+DTSTART:20231130T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:3d3ce30b-ab0c-43ad-a05a-8618a24c3cde@3d3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T131500Z
+LOCATION:--каф.
+DTSTART:20231214T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:514417ff-bbc1-4e9b-9170-cba3b8ac9e8a@5144.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231016T131500Z
+LOCATION:24-512
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:51589a8d-ab99-491d-a1bf-db970797c9aa@5158.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231004T113000Z
+LOCATION:24-419
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:c2473e10-72b5-4099-9bac-22108c511510@c247.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T073000Z
+LOCATION:--каф.
+DTSTART:20231102T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:b7dfb2ea-0174-4d59-a114-8d8957f3d941@b7df.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T131500Z
+LOCATION:--каф.
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:02fca0b3-491a-486e-8a14-423541ce4e2a@02fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T091500Z
+LOCATION:--каф.
+DTSTART:20231012T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:63f86283-750f-4dbe-bb6e-595d8d4a4f52@63f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231024T073000Z
+LOCATION:24-438
+DTSTART:20231024T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:c1c2181b-407d-4000-a5f6-82306f87e62a@c1c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T073000Z
+LOCATION:--каф.
+DTSTART:20231228T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:ded898d2-497a-495c-8b96-bc10d8397540@ded8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231225T131500Z
+LOCATION:24-512
+DTSTART:20231225T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:009fa265-624c-4c6e-9ea0-f0f415bbffbd@009f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231023T091500Z
+LOCATION:24-438
+DTSTART:20231023T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:0fffbc51-7631-4c96-a9f3-8fc8535e4af0@0fff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231018T073000Z
+LOCATION:24-440
+DTSTART:20231018T060000Z
+SUMMARY:ПЗ Объекты и условия эксплуатации
+UID:2e0cc4a3-96cd-4378-a624-3ae16a009ee3@2e0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T131500Z
+LOCATION:--каф.
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:41723442-264d-4b21-ac41-9c8fc2177407@4172.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T091500Z
+LOCATION:--каф.
+DTSTART:20231005T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:ad6ca6de-6f8c-4c43-9270-292c7849020c@ad6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231226T131500Z
+LOCATION:24-439
+DTSTART:20231226T114500Z
+SUMMARY:ЛР Надежность и техническая диагностика
+UID:a0792b5f-a61d-43b8-948a-5d8e77828ee4@a079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231127T131500Z
+LOCATION:24-512
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:78d7aeb7-e721-4c91-b0b5-644d03bfaf44@78d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231120T073000Z
+LOCATION:24-413
+DTSTART:20231120T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:1d9274f9-151d-4afc-8883-cb9e681522a0@1d92.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T131500Z
+LOCATION:--каф.
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:5093d7dc-6883-4fa1-8bfb-8b0fb8aa78f3@5093.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохорова Елена Павловна
+DTEND:20231027T131500Z
+LOCATION:3-429
+DTSTART:20231027T114500Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:047979ca-6acf-4ca6-adba-f13db4bbf3b4@0479.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231101T131500Z
+LOCATION:1-101
+DTSTART:20231101T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:e8a76393-de35-45ae-bc43-f2fca6dad5fc@e8a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдина Ирина Анатольевна
+DTEND:20230912T091500Z
+LOCATION:5-211
+DTSTART:20230912T074500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:7c0dd0b7-8eb2-406e-a852-d96a412fbb15@7c0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20230913T073000Z
+LOCATION:24-439
+DTSTART:20230913T060000Z
+SUMMARY:ЛР Экспериментальная отработка сложных технических систем
+UID:017716a0-91e3-410e-a577-581cf4be02d6@0177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231212T073000Z
+LOCATION:24-438
+DTSTART:20231212T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:90fd738c-2214-4b07-a62b-ab42296c62c2@90fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохорова Елена Павловна
+DTEND:20231124T131500Z
+LOCATION:3-429
+DTSTART:20231124T114500Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:acc0b55b-635e-439b-b2ef-269a6809c2d3@acc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дедус Федор Флоренцевич
+DTEND:20231215T150000Z
+LOCATION:24-444
+DTSTART:20231215T133000Z
+SUMMARY:ПЗ УИРС
+UID:b6ad4f34-15b6-4bc1-8e49-080a9eb7c2cc@b6ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231101T091500Z
+LOCATION:24-440
+DTSTART:20231101T074500Z
+SUMMARY:ПЗ Объекты и условия эксплуатации
+UID:54e73a7e-3d03-4485-8bf8-7f02f84900a8@54e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231002T091500Z
+LOCATION:24-438
+DTSTART:20231002T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:027a7638-04da-4a53-9095-4c5976c6efe0@027a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20230922T131500Z
+LOCATION:3-429
+DTSTART:20230922T114500Z
+SUMMARY:ЛК Психология и педагогика
+UID:d5ae78be-e0f8-4071-944f-cf0ee033ff95@d5ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231120T113000Z
+LOCATION:24-438
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:9984f4a3-e184-4885-a1a0-363ecca5e492@9984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20230929T073000Z
+LOCATION:3-445
+DTSTART:20230929T060000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:bcdc2d9d-8de1-4b4d-a21c-dea48e230036@bcdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231121T113000Z
+LOCATION:24-439
+DTSTART:20231121T100000Z
+SUMMARY:ЛР Вакуумные испытания
+UID:1a78ae37-ba72-478a-8f1f-bd561e767870@1a78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20230925T073000Z
+LOCATION:24-413
+DTSTART:20230925T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:5c52d6e5-2981-4870-a18b-bec30146ffa3@5c52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230922T091500Z
+LOCATION:24-438
+DTSTART:20230922T074500Z
+SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:7ec961ab-e8d8-45a7-b7fd-8122723d0f10@7ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20230904T073000Z
+LOCATION:24-413
+DTSTART:20230904T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:5d14ee4c-aa78-46cd-8d57-d71efc069282@5d14.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T131500Z
+LOCATION:--каф.
+DTSTART:20231116T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:d2aeb488-3bd9-4a17-9433-24ef90d383f7@d2ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20230919T073000Z
+LOCATION:24-438
+DTSTART:20230919T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:ac891a75-6078-480c-b779-a39a577c1f37@ac89.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Палешкин Андрей Вячеславович
@@ -2445,6 +1328,1123 @@ DTEND:20231107T131500Z
 LOCATION:24-439
 DTSTART:20231107T114500Z
 SUMMARY:ЛР Вакуумные испытания
-UID:41099169-a4b1-4668-98f7-a199511d0537@4109.org
+UID:600bc560-fcdf-4624-9fb8-b19d7ed606f7@600b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20230918T113000Z
+LOCATION:24-438
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:89df7955-bc87-4e26-ad68-b320187608d8@89df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231030T131500Z
+LOCATION:24-512
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:56811b70-3c36-41ed-ae7f-33f4a372339e@5681.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231027T073000Z
+LOCATION:3-445
+DTSTART:20231027T060000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:1e66315f-9a5b-4558-b585-80d99558cba4@1e66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дедус Федор Флоренцевич
+DTEND:20230908T150000Z
+LOCATION:24-444
+DTSTART:20230908T133000Z
+SUMMARY:ПЗ УИРС
+UID:7da261bc-3608-4b8f-93d0-ebba776f9e2e@7da2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T131500Z
+LOCATION:--каф.
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:4013764d-e42d-49c2-be50-eb1a51ed368d@4013.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T113000Z
+LOCATION:--каф.
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:4da73067-a47f-485a-980d-cb2a232c535c@4da7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231023T131500Z
+LOCATION:24-512
+DTSTART:20231023T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:abbbda05-6a77-4065-93da-8d15106d2396@abbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохорова Елена Павловна
+DTEND:20231222T131500Z
+LOCATION:3-429
+DTSTART:20231222T114500Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:f9a39198-f603-4994-b227-d71c82c3c687@f9a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231006T113000Z
+LOCATION:24-438
+DTSTART:20231006T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:d234660d-5794-41d9-b04d-a9c650fc39b5@d234.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T113000Z
+LOCATION:1-101
+DTSTART:20231003T100000Z
+SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
+UID:31bb9ff8-0d36-445e-ae5d-44dc2d839402@31bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231128T131500Z
+LOCATION:24-439
+DTSTART:20231128T114500Z
+SUMMARY:ЛР Надежность и техническая диагностика
+UID:5faa0947-e66c-4288-8d75-c3322b9b2db3@5faa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T091500Z
+LOCATION:--каф.
+DTSTART:20230914T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:3ea0bb65-1df9-46bf-9fa3-8a9f8e8a7cb2@3ea0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231120T091500Z
+LOCATION:24-438
+DTSTART:20231120T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:1b6883ae-ffa7-442e-be82-e48156bac275@1b68.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T113000Z
+LOCATION:--каф.
+DTSTART:20231026T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:fb037377-d136-4548-9169-d3b4110431bb@fb03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231212T091500Z
+LOCATION:24-438
+DTSTART:20231212T074500Z
+SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
+UID:af5f5249-89f1-4f46-a76c-9d62a46e2339@af5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дедус Федор Флоренцевич
+DTEND:20231117T150000Z
+LOCATION:24-444
+DTSTART:20231117T133000Z
+SUMMARY:ПЗ УИРС
+UID:82087450-1940-4c37-8725-ba9d0f094e6a@8208.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230929T113000Z
+LOCATION:24-438
+DTSTART:20230929T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:1efe61c6-1c0a-4488-9bc8-9a7ee25bf721@1efe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231127T091500Z
+LOCATION:24-438
+DTSTART:20231127T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:3c06acd3-33e7-4366-b52a-ebf31039ff24@3c06.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T113000Z
+LOCATION:--каф.
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:db96b1b8-89cf-4c48-b690-f9d413c593f1@db96.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T131500Z
+LOCATION:--каф.
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:df1a2ab8-aad6-430b-a519-6a17fd09ee47@df1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231006T091500Z
+LOCATION:24-438
+DTSTART:20231006T074500Z
+SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:b5763b5e-3aae-434c-82bd-3d3fe1cf4565@b576.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T131500Z
+LOCATION:1-101
+DTSTART:20231003T114500Z
+SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
+UID:fa152759-b26b-473f-a3e0-4455ffb6cdd3@fa15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20230918T091500Z
+LOCATION:24-438
+DTSTART:20230918T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:afee03db-6473-4be5-8aaf-0cc69f12f827@afee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231020T091500Z
+LOCATION:24-438
+DTSTART:20231020T074500Z
+SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:375d854c-f643-4a59-bc06-27131da8a679@375d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231017T073000Z
+LOCATION:24-438
+DTSTART:20231017T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:a5ff909d-7a9f-4de3-bd42-242e92b767e9@a5ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231023T073000Z
+LOCATION:24-413
+DTSTART:20231023T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:ca2b81f8-d301-4593-b178-7c9b979e69b3@ca2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231004T091500Z
+LOCATION:24-440
+DTSTART:20231004T074500Z
+SUMMARY:ПЗ Объекты и условия эксплуатации
+UID:c34e4c7b-9fcf-4a46-b543-0566c0e03a3c@c34e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T091500Z
+LOCATION:--каф.
+DTSTART:20231109T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:4b0842cc-e199-4649-8d49-0901d9dcdaae@4b08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20230906T091500Z
+LOCATION:24-440
+DTSTART:20230906T074500Z
+SUMMARY:ПЗ Объекты и условия эксплуатации
+UID:ecbb58d6-dfee-4d1b-9608-fe1aa6b331eb@ecbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231016T073000Z
+LOCATION:24-413
+DTSTART:20231016T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:83732f64-2585-4884-a66b-3377a0bfc659@8373.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231122T131500Z
+LOCATION:1-101
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:7db21502-a0fe-4378-a04b-bd32757be0c2@7db2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20230904T113000Z
+LOCATION:24-438
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:286d10b1-8988-4ced-b553-0b9d2892152d@286d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20230913T113000Z
+LOCATION:24-419
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:3d1614ec-2cec-4854-b50e-5d2d1b87c68a@3d16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231025T113000Z
+LOCATION:24-419
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:5a05cb3d-117d-412f-95fa-84b0929eeb38@5a05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231004T131500Z
+LOCATION:1-101
+DTSTART:20231004T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:dacf5fac-6f18-49bd-8b13-b6d52e7b56f9@dacf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231114T073000Z
+LOCATION:24-438
+DTSTART:20231114T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:b3ca1d46-4936-450e-9547-1f18eaec27a0@b3ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231129T131500Z
+LOCATION:1-101
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:db85852f-a39d-4604-8149-3f6fba7edcbb@db85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231110T113000Z
+LOCATION:24-438
+DTSTART:20231110T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:39bf5059-7603-4f6b-8b69-dc6aa56b41b9@39bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231013T091500Z
+LOCATION:24-438
+DTSTART:20231013T074500Z
+SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:ef7a61d0-4760-4bf2-ba2f-df9bd1c95d8c@ef7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231206T131500Z
+LOCATION:1-101
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:abe9c121-99ea-4e4a-8e09-b1b1e46e24a7@abe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231017T091500Z
+LOCATION:24-438
+DTSTART:20231017T074500Z
+SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
+UID:2847f4f5-be7f-4c2b-963b-0de61ed768fd@2847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231204T091500Z
+LOCATION:24-438
+DTSTART:20231204T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:f10fabab-7748-456e-acc2-0c2864e552e9@f10f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T131500Z
+LOCATION:--каф.
+DTSTART:20231207T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:d70cb46c-aef3-490f-8d66-01f911f558c4@d70c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231106T113000Z
+LOCATION:24-438
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:0a21befe-c84d-4b2a-964e-a0260ed7ee19@0a21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231128T091500Z
+LOCATION:24-438
+DTSTART:20231128T074500Z
+SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
+UID:814333c8-59af-4f89-b989-c8ec0aad8408@8143.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20230911T091500Z
+LOCATION:24-438
+DTSTART:20230911T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:dbe0c5f3-45ef-49ec-afbe-0ad4b6c73c50@dbe0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T091500Z
+LOCATION:--каф.
+DTSTART:20231228T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:1e5121ae-db1c-4a06-bd52-4f2d4911c0de@1e51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231201T131500Z
+LOCATION:3-429
+DTSTART:20231201T114500Z
+SUMMARY:ЛК Психология и педагогика
+UID:9a94d5f7-8cc4-4f37-bd21-458f50a1fb96@9a94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231124T073000Z
+LOCATION:3-445
+DTSTART:20231124T060000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:ef851530-fffa-4edb-80dc-43f159a96bd4@ef85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231120T131500Z
+LOCATION:24-512
+DTSTART:20231120T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:607d7f7d-29c1-4ef7-89a3-c8194924f087@607d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T131500Z
+LOCATION:--каф.
+DTSTART:20231109T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:8eec1e68-38b6-4312-a8a0-7704c75ca3d3@8eec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230908T091500Z
+LOCATION:24-438
+DTSTART:20230908T074500Z
+SUMMARY:ПЗ Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:a4a3f213-9f43-4ff8-884a-9264962843aa@a4a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231227T113000Z
+LOCATION:24-419
+DTSTART:20231227T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:2a12d371-dc26-4b67-a46f-1e8b4e72252b@2a12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20230920T131500Z
+LOCATION:1-101
+DTSTART:20230920T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:8cc6c5ec-fdb1-4205-8d25-fc3458890b73@8cc6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T091500Z
+LOCATION:--каф.
+DTSTART:20231207T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:fb6c6cdc-94dd-4b31-9cdf-d785cff50aaf@fb6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T091500Z
+LOCATION:--каф.
+DTSTART:20231019T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:2a7ecb1a-682c-42ed-a155-154d740ced94@2a7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231127T113000Z
+LOCATION:24-438
+DTSTART:20231127T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:42cdf68a-8c9f-45a7-87a3-231d49f5b977@42cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231002T131500Z
+LOCATION:24-512
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:604771a8-e708-42cf-80e7-2ea3045dcd4d@6047.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20230915T073000Z
+LOCATION:3-445
+DTSTART:20230915T060000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:3ff496fa-2b4e-4995-a69c-61363fccd150@3ff4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231024T131500Z
+LOCATION:24-439
+DTSTART:20231024T114500Z
+SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:8d39461f-8abd-4f10-94ea-1b0258157475@8d39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231115T113000Z
+LOCATION:24-419
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:153573cf-2c61-48a9-b9e9-ea5df133eb3f@1535.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20230911T131500Z
+LOCATION:24-512
+DTSTART:20230911T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:bd39e074-6500-4b54-8811-f4aedd14f564@bd39.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T073000Z
+LOCATION:--каф.
+DTSTART:20231116T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:183d1623-b36a-4710-9b51-870cfa2a9435@183d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T091500Z
+LOCATION:--каф.
+DTSTART:20231130T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:581df9b5-79fa-4dc1-918f-0e67321eabcc@581d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230912T113000Z
+LOCATION:24-439
+DTSTART:20230912T100000Z
+SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:e5318d32-8b46-4cb2-90a9-f953c0a60a4d@e531.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20230906T073000Z
+LOCATION:24-440
+DTSTART:20230906T060000Z
+SUMMARY:ПЗ Объекты и условия эксплуатации
+UID:97c292b5-10d3-4544-ab17-ded531557ec4@97c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231013T113000Z
+LOCATION:24-438
+DTSTART:20231013T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:d2c0f3d3-833a-41d5-9383-6abca08f8182@d2c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231122T113000Z
+LOCATION:24-419
+DTSTART:20231122T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:17f0195f-4c9f-4142-bb89-15df3023f46d@17f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231103T113000Z
+LOCATION:24-438
+DTSTART:20231103T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:7e066157-8094-43fa-a68f-aef212ca1d10@7e06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231107T113000Z
+LOCATION:24-439
+DTSTART:20231107T100000Z
+SUMMARY:ЛР Вакуумные испытания
+UID:1ca55a96-feee-4845-9a2b-dd2664a5ba81@1ca5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20230918T131500Z
+LOCATION:24-512
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:6b604f4b-1611-44c7-a446-2b88360c7ec6@6b60.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T091500Z
+LOCATION:--каф.
+DTSTART:20231214T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:ff98e56a-b788-4c1f-bbdb-b319f4084269@ff98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231010T113000Z
+LOCATION:24-439
+DTSTART:20231010T100000Z
+SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:1fef896f-7361-41e6-b372-7c24bad3e6ea@1fef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231211T073000Z
+LOCATION:24-413
+DTSTART:20231211T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:9077439b-9ff1-460f-9b6a-8f2509052f01@9077.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T073000Z
+LOCATION:--каф.
+DTSTART:20231221T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:335e0c73-c8cb-434e-aefb-6125f2bce20e@335e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20230911T113000Z
+LOCATION:24-438
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:f5c744fa-3d68-471d-b373-5abb4fb62177@f5c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231025T073000Z
+LOCATION:24-439
+DTSTART:20231025T060000Z
+SUMMARY:ЛР Экспериментальная отработка сложных технических систем
+UID:facba3d8-e872-4274-90b5-02988f282163@facb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231211T091500Z
+LOCATION:24-438
+DTSTART:20231211T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:4391ccf3-a7ef-4fe4-8ac7-fd7ce3657eac@4391.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231222T073000Z
+LOCATION:3-445
+DTSTART:20231222T060000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:55e24230-b399-49e6-ac7c-bcd9d60af6c6@55e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохорова Елена Павловна
+DTEND:20231110T131500Z
+LOCATION:3-429
+DTSTART:20231110T114500Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:ad08ffd9-1219-47a6-bfa1-de838e1321fa@ad08.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T073000Z
+LOCATION:--каф.
+DTSTART:20231123T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:828bdc92-70c8-4957-9977-1aadee40a214@828b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231226T073000Z
+LOCATION:24-438
+DTSTART:20231226T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:1b94f41e-8b25-4da8-82ed-dbb00f2068d8@1b94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231006T131500Z
+LOCATION:3-429
+DTSTART:20231006T114500Z
+SUMMARY:ЛК Психология и педагогика
+UID:a69611af-f15e-4c4e-9473-a1697844bf9f@a696.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231031T131500Z
+LOCATION:24-439
+DTSTART:20231031T114500Z
+SUMMARY:ЛР Надежность и техническая диагностика
+UID:9019278b-c826-41d0-91cf-50e9b9f17cc3@9019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231025T091500Z
+LOCATION:24-439
+DTSTART:20231025T074500Z
+SUMMARY:ЛР Экспериментальная отработка сложных технических систем
+UID:a6bb3057-adea-4b5a-b255-87e09c86140d@a6bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20230905T091500Z
+LOCATION:24-438
+DTSTART:20230905T074500Z
+SUMMARY:ПЗ Эксплуатация комплексов летательных аппаратов и систем
+UID:56ab8bfa-6b42-448a-8c90-7e4758b9fa8e@56ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T091500Z
+LOCATION:--каф.
+DTSTART:20231026T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:4c807074-d99e-48e4-968c-e9e26a08c315@4c80.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T131500Z
+LOCATION:1-101
+DTSTART:20230919T114500Z
+SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
+UID:92bae371-1273-4b07-9908-15205e515619@92ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохорова Елена Павловна
+DTEND:20230929T131500Z
+LOCATION:3-429
+DTSTART:20230929T114500Z
+SUMMARY:ЛК Экономика и организация промышленности
+UID:84553584-d1e0-4b23-ab02-902c67e7d1a4@8455.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231208T113000Z
+LOCATION:24-438
+DTSTART:20231208T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:8ca8b65c-d20a-480a-9e18-bbd3f7b37c9a@8ca8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231213T131500Z
+LOCATION:1-101
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:ff9b8682-f106-4efb-b5ed-2e98b5e78452@ff9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20230920T091500Z
+LOCATION:24-440
+DTSTART:20230920T074500Z
+SUMMARY:ПЗ Объекты и условия эксплуатации
+UID:87ba5cb0-7305-4882-a453-9184d5897fbc@87ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T073000Z
+LOCATION:--каф.
+DTSTART:20230921T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:c9d15420-3330-4700-85eb-d26241f3938b@c9d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T113000Z
+LOCATION:--каф.
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:e709466c-9bf4-486c-a931-29ec99e7f248@e709.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231225T091500Z
+LOCATION:24-438
+DTSTART:20231225T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:c8232ffb-a699-42d7-bb66-5dd8606a0851@c823.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20230901T113000Z
+LOCATION:24-438
+DTSTART:20230901T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:154a1a1a-890e-4973-abaf-8cb965438c91@154a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231030T073000Z
+LOCATION:24-413
+DTSTART:20231030T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:74c25af1-cd21-4949-b6ff-36561a932970@74c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231024T113000Z
+LOCATION:24-439
+DTSTART:20231024T100000Z
+SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:40aae5b1-11bd-4ea0-a593-cdc6af01f573@40aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231110T073000Z
+LOCATION:3-445
+DTSTART:20231110T060000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:6ecce98e-bef0-47ff-899b-7423a2e8b445@6ecc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231124T113000Z
+LOCATION:24-438
+DTSTART:20231124T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:426e157d-caf5-4bfa-8f3e-8f997f4a38fb@426e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231031T113000Z
+LOCATION:24-439
+DTSTART:20231031T100000Z
+SUMMARY:ЛР Надежность и техническая диагностика
+UID:9983c141-24f4-4303-81e2-cd5d21e4d8e3@9983.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20230925T091500Z
+LOCATION:24-438
+DTSTART:20230925T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:92341a25-df06-4f4c-9b6f-2169fc2575a8@9234.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231003T073000Z
+LOCATION:24-438
+DTSTART:20231003T060000Z
+SUMMARY:ЛК Вакуумные испытания
+UID:143d7f59-24a1-423e-84ea-b92c198d2641@143d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231117T113000Z
+LOCATION:24-438
+DTSTART:20231117T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:eab9ce2d-6990-4790-a6b1-59bd87690856@eab9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T131500Z
+LOCATION:--каф.
+DTSTART:20231228T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:08d3fa34-1be5-4028-8759-4babb49192e4@08d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231010T131500Z
+LOCATION:24-439
+DTSTART:20231010T114500Z
+SUMMARY:ЛР Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:7852ebbe-994a-431c-8d31-9f55adb4f866@7852.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T131500Z
+LOCATION:1-101
+DTSTART:20230905T114500Z
+SUMMARY:ЛР Строительная механика и прочность летательных аппаратов
+UID:0d70a4bb-870f-4516-83aa-6b1337781e7f@0d70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231018T091500Z
+LOCATION:24-440
+DTSTART:20231018T074500Z
+SUMMARY:ПЗ Объекты и условия эксплуатации
+UID:aae7e7ce-f060-40fe-a417-935e05172944@aae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20231208T073000Z
+LOCATION:3-445
+DTSTART:20231208T060000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:b2c66599-fd02-4021-9440-441dfb7a8387@b2c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T113000Z
+LOCATION:--каф.
+DTSTART:20230914T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:386df3cd-c94b-4c13-9bbd-cfaaaaaba608@386d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20230904T131500Z
+LOCATION:24-512
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:8c77a0fc-c8e3-4265-9acd-55af7b204a68@8c77.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T073000Z
+LOCATION:--каф.
+DTSTART:20231207T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:502d1579-17b4-4974-bcc9-93a9ad8f0c5a@502d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231106T073000Z
+LOCATION:24-413
+DTSTART:20231106T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:1f52179a-fd89-4bf0-bb3a-1a41df9a11f0@1f52.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T073000Z
+LOCATION:--каф.
+DTSTART:20230907T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:d30624a9-21a5-433c-bba6-b33c488de9a9@d306.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Садретдинова Эльнара Рамилевна
+DTEND:20231201T113000Z
+LOCATION:24-438
+DTSTART:20231201T100000Z
+SUMMARY:ЛК Основы проектирования\,конструирования и производства элементов наземной инфраструктуры летательных аппаратов
+UID:7d880853-71f4-4a27-9cb7-c63302205957@7d88.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T113000Z
+LOCATION:--каф.
+DTSTART:20231228T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:0ead2942-4b11-4b82-a4fe-a824b0572608@0ead.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20230913T091500Z
+LOCATION:24-439
+DTSTART:20230913T074500Z
+SUMMARY:ЛР Экспериментальная отработка сложных технических систем
+UID:3f3446ac-0c3d-4fb0-ac94-219eb2afc8e1@3f34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдина Ирина Анатольевна
+DTEND:20230926T091500Z
+LOCATION:5-211
+DTSTART:20230926T074500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:23f23526-1d41-41e5-9b9d-fb6ac8ea342a@23f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231218T073000Z
+LOCATION:24-413
+DTSTART:20231218T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:b77806ac-4cac-4e9f-95dc-4edf3abc6a70@b778.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231023T113000Z
+LOCATION:24-438
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:a1996ba3-6535-4772-a2e2-fb40f292e627@a199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231204T131500Z
+LOCATION:24-512
+DTSTART:20231204T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:fb27a792-27be-49e9-8be1-563accfdb548@fb27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20230904T091500Z
+LOCATION:24-438
+DTSTART:20230904T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:1d8fc63c-c263-4ce1-8ec2-463e79b63973@1d8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T131500Z
+LOCATION:--каф.
+DTSTART:20231012T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:e3081c22-6a43-48ba-a854-90476ae4c7a6@e308.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T073000Z
+LOCATION:--каф.
+DTSTART:20231109T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:a66204f8-aa6d-4b24-bd5c-30e68d89073c@a662.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дедус Федор Флоренцевич
+DTEND:20231020T150000Z
+LOCATION:24-444
+DTSTART:20231020T133000Z
+SUMMARY:ПЗ УИРС
+UID:ba295f81-d283-46b2-ae92-24b5371076a7@ba29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231011T131500Z
+LOCATION:1-101
+DTSTART:20231011T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:67cb4dcf-9ae1-466c-a5a6-f7a9d800261f@67cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231113T073000Z
+LOCATION:24-413
+DTSTART:20231113T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:7a0beea9-d30c-41da-b51a-4740377ab444@7a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231016T113000Z
+LOCATION:24-438
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:d5272072-be91-45c1-8cfe-92fe5cd1c14d@d527.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучейко Алексей Анатольевич
+DTEND:20231030T091500Z
+LOCATION:24-438
+DTSTART:20231030T074500Z
+SUMMARY:ЛК Экспериментальная отработка сложных технических систем
+UID:86fe3d8e-f893-403f-8e1f-a460bcc1e118@86fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231011T113000Z
+LOCATION:24-419
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:0f6fb50d-175e-4319-9195-993631a53243@0f6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231113T131500Z
+LOCATION:24-512
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:9a4837a2-c0be-483c-9235-568b9d5b3458@9a48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231101T073000Z
+LOCATION:24-440
+DTSTART:20231101T060000Z
+SUMMARY:ПЗ Объекты и условия эксплуатации
+UID:5be3f452-17bb-42d0-af31-076258aadc3c@5be3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролова Светлана Валериевна
+DTEND:20230908T131500Z
+LOCATION:3-429
+DTSTART:20230908T114500Z
+SUMMARY:ЛК Психология и педагогика
+UID:32144f3e-6335-489a-a8f9-40dd5ba2fe32@3214.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусев Евгений Владимирович
+DTEND:20231211T113000Z
+LOCATION:24-438
+DTSTART:20231211T100000Z
+SUMMARY:ЛК Надежность и техническая диагностика
+UID:203b149e-54c0-4cff-ae3a-044396c5e345@203b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T073000Z
+LOCATION:--каф.
+DTSTART:20231005T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:2f49ea7b-b107-43e3-af4e-e1becfe9d6e7@2f49.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T131500Z
+LOCATION:--каф.
+DTSTART:20231221T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:ec2aa1d8-9e42-4362-b40b-acdc7d2ec270@ec2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T091500Z
+LOCATION:--каф.
+DTSTART:20231102T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:a51d8e6b-1d6d-4571-9a66-c1884b47fa19@a51d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20231009T073000Z
+LOCATION:24-413
+DTSTART:20231009T060000Z
+SUMMARY:ЛК Строительная механика и прочность летательных аппаратов
+UID:035676a3-a5a6-4019-ab17-0d23e5f9ccad@0356.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T113000Z
+LOCATION:--каф.
+DTSTART:20231214T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:c6751aed-6b97-4bfc-b0f5-d630ad428402@c675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Болдина Ирина Анатольевна
+DTEND:20231010T091500Z
+LOCATION:5-211
+DTSTART:20231010T074500Z
+SUMMARY:ПЗ Экономика и организация промышленности
+UID:0b9ac6a3-a392-44fd-818e-27fc5a172305@0b9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Маскайкина Анна Александровна
+DTEND:20230906T131500Z
+LOCATION:1-101
+DTSTART:20230906T114500Z
+SUMMARY:ПЗ Строительная механика и прочность летательных аппаратов
+UID:3fe7c277-5108-40c8-869b-f64f18f84cd8@3fe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20230906T113000Z
+LOCATION:24-419
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Эксплуатация комплексов летательных аппаратов и систем
+UID:a4f09beb-4dd9-49f9-99cf-54ef397a575e@a4f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Катков Всеволод Александрович
+DTEND:20231211T131500Z
+LOCATION:24-512
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Объекты и условия эксплуатации
+UID:c951ac3f-e0f4-4c21-b619-ad6f21625698@c951.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Палешкин Андрей Вячеславович
+DTEND:20231205T131500Z
+LOCATION:24-439
+DTSTART:20231205T114500Z
+SUMMARY:ЛР Вакуумные испытания
+UID:f75ad111-2955-4771-843f-0df7cc283bb8@f75a.org
 END:VEVENT
 END:VCALENDAR

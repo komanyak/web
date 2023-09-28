@@ -2,192 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231019T131500Z
-LOCATION:24-408
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:b6784cc4-326e-460f-bd60-bb2fb6cdc7d1@b678.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231222T113000Z
-LOCATION:24-408
-DTSTART:20231222T100000Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:c2a72ad1-427e-4f77-9367-9f7487a495f5@c2a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231101T091500Z
-LOCATION:24-308В
-DTSTART:20231101T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:64168717-c02a-45ae-a900-58612cfeab39@6416.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231110T131500Z
-LOCATION:24-408
-DTSTART:20231110T114500Z
-SUMMARY:ЛК Теплогидравлические системы и оборудование
-UID:0dbef42b-1c95-4066-8ed7-ac1e607fddd5@0dbe.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231124T091500Z
+DTEND:20231222T091500Z
 LOCATION:24-440
-DTSTART:20231124T074500Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:d638e02a-d35f-40ec-9197-c824bbbf0524@d638.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231215T131500Z
-LOCATION:24-408
-DTSTART:20231215T114500Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:8610afe1-f20d-4b72-8252-600235564d30@8610.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231220T073000Z
-LOCATION:24-308В
-DTSTART:20231220T060000Z
-SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:588bb19d-b8ed-4fdb-bd0e-c80d5b45d83d@588b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231204T150000Z
-LOCATION:24-308Б
-DTSTART:20231204T133000Z
-SUMMARY:ЛР Технологии производства оборудования комплексов
-UID:ae1671b0-a7dd-4a43-ba13-aac58b4f60c5@ae16.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240120T091500Z
-LOCATION:11-33
-DTSTART:20240120T074500Z
-SUMMARY:Экзамен Динамика наземного оборудования
-UID:e9e2c66d-e509-4382-badd-b9b2373e0767@e9e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231117T131500Z
-LOCATION:24-408
-DTSTART:20231117T114500Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:69501a71-652f-4d3a-b185-d95eebb2fa46@6950.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231025T131500Z
-LOCATION:24-408
-DTSTART:20231025T114500Z
-SUMMARY:ПЗ Компьютерный инженерный анализ
-UID:a4fee14f-9a18-4201-af07-e54e3a96f840@a4fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231221T131500Z
-LOCATION:24-408
-DTSTART:20231221T114500Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:a38b71f6-f7ff-4537-a37f-3823a227a1a0@a38b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T091500Z
-LOCATION:3-137
-DTSTART:20231017T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:20ab1624-153e-465d-8466-d23917c9512b@20ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231103T091500Z
-LOCATION:24-440
-DTSTART:20231103T074500Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:3624aa51-4e90-4dc8-b0bb-1cc0b35d1c1c@3624.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T113000Z
-LOCATION:11-33
-DTSTART:20231228T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:52255f19-8d17-4137-881b-a6f749379ae9@5225.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231109T150000Z
-LOCATION:24-408
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:0a6cae3b-906f-4a10-9cb3-9b5c0dfc6606@0a6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231208T073000Z
-LOCATION:24-440
-DTSTART:20231208T060000Z
+DTSTART:20231222T074500Z
 SUMMARY:ПЗ Пусковые установки стартовых комплексов
-UID:58aad227-5d00-43ec-a110-bfca7794b71f@58aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T091500Z
-LOCATION:11-33
-DTSTART:20231109T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:00d313c5-c012-49d2-83c8-0216415a2480@00d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231102T131500Z
-LOCATION:24-408
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:7817fa6c-e792-423e-8470-c1011419bc92@7817.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231128T131500Z
-LOCATION:3-137
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
-UID:8a4fca94-54ac-4ebd-b094-5564dfdba883@8a4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231115T091500Z
-LOCATION:24-308В
-DTSTART:20231115T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:9b00e163-d01d-4a56-9410-f6eadb4dcb5d@9b00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231206T091500Z
-LOCATION:24-308В
-DTSTART:20231206T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:69e51ea6-b237-4340-9214-d9f84dde55d6@69e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231124T131500Z
-LOCATION:24-408
-DTSTART:20231124T114500Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:7bb7955f-23be-4a43-b22a-908d9f916e36@7bb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231215T091500Z
-LOCATION:24-440
-DTSTART:20231215T074500Z
-SUMMARY:ПЗ Пусковые установки стартовых комплексов
-UID:6466360b-994b-4890-8e4e-c4ac4f167c37@6466.org
+UID:eaa383b1-9cdb-4998-a4f4-e41b77aa2457@eaa3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Заговорчев Владимир Александрович
@@ -195,415 +15,7 @@ DTEND:20231130T150000Z
 LOCATION:24-408
 DTSTART:20231130T133000Z
 SUMMARY:ЛР Основы автоматизированного проектирования
-UID:f036a6d9-a82a-457c-b7da-f7bb1fc65347@f036.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231221T150000Z
-LOCATION:24-408
-DTSTART:20231221T133000Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:19c2cc11-2fff-440f-aed1-1e69191a113c@19c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231201T091500Z
-LOCATION:24-440
-DTSTART:20231201T074500Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:80015894-7423-4f4f-8b13-14b364a81a94@8001.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T113000Z
-LOCATION:11-33
-DTSTART:20231123T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:520b3539-e749-41a3-a045-edbecab19501@520b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231013T091500Z
-LOCATION:24-440
-DTSTART:20231013T074500Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:23ac4ceb-1053-4bd9-b203-9f4379f38629@23ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231020T073000Z
-LOCATION:24-440
-DTSTART:20231020T060000Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:6563e301-cd6b-465f-a9b9-5da51756bae7@6563.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231101T113000Z
-LOCATION:24-408
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Компьютерный инженерный анализ
-UID:72d62cfc-8c36-4fa7-9e00-7d0ca81681ae@72d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231018T073000Z
-LOCATION:24-308В
-DTSTART:20231018T060000Z
-SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:09e1609f-6317-4ccb-a848-d9a0a6bf96ff@09e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231031T150000Z
-LOCATION:3-137
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
-UID:20b35df1-bd1e-4844-a66c-248358cd2085@20b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T113000Z
-LOCATION:3-137
-DTSTART:20231205T100000Z
-SUMMARY:ПЗ Динамика наземного оборудования
-UID:74579211-5c55-4de1-99e0-bf15afbcd182@7457.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T091500Z
-LOCATION:3-137
-DTSTART:20231010T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:87eef8c8-0910-4621-a057-92cbd26301d4@87ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T091500Z
-LOCATION:11-33
-DTSTART:20231019T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:2b7ce243-394e-40a9-bdc4-f8b01a6cabf2@2b7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231020T091500Z
-LOCATION:24-440
-DTSTART:20231020T074500Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:6e84ea2d-d541-4561-90cd-223f87d5727c@6e84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231207T150000Z
-LOCATION:24-408
-DTSTART:20231207T133000Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:da973f5d-fc76-4dce-9300-a79989ec31a0@da97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231213T091500Z
-LOCATION:24-308В
-DTSTART:20231213T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:dc4fe096-6f6a-4d67-a9f1-959f70cf1d50@dc4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T113000Z
-LOCATION:11-33
-DTSTART:20231207T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:8d571c55-52a5-4b44-9078-fef834dff5f8@8d57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231227T091500Z
-LOCATION:24-308В
-DTSTART:20231227T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:75205002-b833-4fcd-a18d-5e1efc16af6e@7520.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231027T131500Z
-LOCATION:24-408
-DTSTART:20231027T114500Z
-SUMMARY:ЛК Теплогидравлические системы и оборудование
-UID:0626bb4d-0c33-41aa-9697-13a8c2c00e3f@0626.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231103T131500Z
-LOCATION:24-408
-DTSTART:20231103T114500Z
-SUMMARY:ЛК Теплогидравлические системы и оборудование
-UID:7e011d41-6f2c-46f1-a1f3-b2078f4e042a@7e01.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T091500Z
-LOCATION:11-33
-DTSTART:20231026T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:da6b2adf-1650-4f45-83eb-452967eec2c8@da6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231024T150000Z
-LOCATION:3-137
-DTSTART:20231024T133000Z
-SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
-UID:d0397a71-fccc-44a9-bd95-03f03953c359@d039.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231026T131500Z
-LOCATION:24-408
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:df3e8e48-9437-4ef3-9337-b144556a250c@df3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231108T131500Z
-LOCATION:24-408
-DTSTART:20231108T114500Z
-SUMMARY:ПЗ Компьютерный инженерный анализ
-UID:5364c34d-9afa-4974-a04d-db38586cfa2a@5364.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T113000Z
-LOCATION:3-137
-DTSTART:20231107T100000Z
-SUMMARY:ПЗ Динамика наземного оборудования
-UID:6ae4ef10-8c08-42de-9cfc-9c7154cd70ca@6ae4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231101T131500Z
-LOCATION:24-408
-DTSTART:20231101T114500Z
-SUMMARY:ПЗ Компьютерный инженерный анализ
-UID:74d6acae-bd85-405a-b827-fe3d27dee39f@74d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231229T091500Z
-LOCATION:24-440
-DTSTART:20231229T074500Z
-SUMMARY:ПЗ Пусковые установки стартовых комплексов
-UID:7161d09b-b2a2-4495-b354-1798bdd17403@7161.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231011T091500Z
-LOCATION:24-308В
-DTSTART:20231011T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:731f4ad0-9bd3-407b-b920-76098fe08cfd@731f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231115T131500Z
-LOCATION:24-408
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Компьютерный инженерный анализ
-UID:c88e26bc-2295-438f-8d62-033bfe5e5339@c88e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231130T131500Z
-LOCATION:24-408
-DTSTART:20231130T114500Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:1661b231-4f80-407d-8584-a37cfb47bd6f@1661.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231222T073000Z
-LOCATION:24-440
-DTSTART:20231222T060000Z
-SUMMARY:ПЗ Пусковые установки стартовых комплексов
-UID:e106d720-153c-4180-984c-c0ca06ac78a8@e106.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231019T150000Z
-LOCATION:24-408
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:173f32b0-bcc5-41d5-aa0c-9fbf08f200ee@173f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T113000Z
-LOCATION:11-33
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:6136a645-85f1-4067-b49f-5a1ffb2563cd@6136.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231114T150000Z
-LOCATION:3-137
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
-UID:f279cb1d-4512-4287-accc-624d1f3c937a@f279.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T091500Z
-LOCATION:11-33
-DTSTART:20231102T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:0f593258-1715-492e-9084-fe58b725fbdf@0f59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231115T073000Z
-LOCATION:24-308В
-DTSTART:20231115T060000Z
-SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:8d7702c4-35a7-4d6b-8027-9cb19ee1586c@8d77.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T091500Z
-LOCATION:3-137
-DTSTART:20231107T074500Z
-SUMMARY:ПЗ Динамика наземного оборудования
-UID:3263e7e1-e90f-4548-946b-c0a7ec5a7cec@3263.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231020T131500Z
-LOCATION:24-408
-DTSTART:20231020T114500Z
-SUMMARY:ЛК Теплогидравлические системы и оборудование
-UID:e3c29588-b09f-438a-b84f-f6097c86fe1f@e3c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T113000Z
-LOCATION:3-137
-DTSTART:20231010T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:553e5655-5aa4-4d73-b80e-5564b4850e68@553e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T113000Z
-LOCATION:11-33
-DTSTART:20231214T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:064fb566-fcb7-4dd0-9636-6ad651a085aa@064f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T091500Z
-LOCATION:11-33
-DTSTART:20231221T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:fe21bad9-e6d7-4fcb-b88d-5aa202afd75c@fe21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231108T091500Z
-LOCATION:24-308В
-DTSTART:20231108T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:724128ab-9ddd-4eaf-8a77-5527f5a9385c@7241.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231120T150000Z
-LOCATION:24-308Б
-DTSTART:20231120T133000Z
-SUMMARY:ЛР Технологии производства оборудования комплексов
-UID:87021144-f8e3-4dc4-a0c5-974733ba113f@8702.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231229T131500Z
-LOCATION:24-408
-DTSTART:20231229T114500Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:f739f720-51b4-4cb3-8d76-748cca921aec@f739.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231013T073000Z
-LOCATION:24-440
-DTSTART:20231013T060000Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:37d5c6e3-49fb-452d-8a6f-5ec8ab51e8f8@37d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231222T091500Z
-LOCATION:24-440
-DTSTART:20231222T074500Z
-SUMMARY:ПЗ Пусковые установки стартовых комплексов
-UID:ad4dc003-565a-475e-8565-1d72971cdcf6@ad4d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T113000Z
-LOCATION:11-33
-DTSTART:20231026T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:178128b5-9094-4893-9443-545ae33573c3@1781.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231012T150000Z
-LOCATION:24-408
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:09ca9c99-83c3-41d0-898d-a8cc7128a7f7@09ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231222T131500Z
-LOCATION:24-408
-DTSTART:20231222T114500Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:b0273862-5f4a-4dd5-a183-5845760b9087@b027.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T113000Z
-LOCATION:11-33
-DTSTART:20231116T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:5b5e4fca-eaba-47c4-a046-2f2e80c05cae@5b5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20240116T091500Z
-LOCATION:24-413
-DTSTART:20240116T074500Z
-SUMMARY:Экзамен Технологии производства оборудования комплексов
-UID:c03a2779-15cb-4d3b-bbd2-b24e6075986c@c03a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231017T150000Z
-LOCATION:3-137
-DTSTART:20231017T133000Z
-SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
-UID:1f7cba8e-febe-4de8-8e3b-ac5c923e6c28@1f7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231206T073000Z
-LOCATION:24-308В
-DTSTART:20231206T060000Z
-SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:247f77f5-392c-43e0-aaa1-fee706d47c8d@247f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T091500Z
-LOCATION:11-33
-DTSTART:20231207T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:7c2eb633-ca4e-46a4-b3a2-f44502e23a68@7c2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231110T091500Z
-LOCATION:24-440
-DTSTART:20231110T074500Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:8bc0e4c0-1d1d-4aad-94c9-e7cefaf7277f@8bc0.org
+UID:445c5188-c844-4ab8-987f-186eb5fe9fc1@445c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родченко Владимир Викторович
@@ -611,69 +23,7 @@ DTEND:20231124T073000Z
 LOCATION:24-440
 DTSTART:20231124T060000Z
 SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:97127c2a-b97a-496c-baf0-68499d709a59@9712.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231228T131500Z
-LOCATION:24-408
-DTSTART:20231228T114500Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:c71f77ba-9f74-457b-aaa2-a65b6f1845b4@c71f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T113000Z
-LOCATION:11-33
-DTSTART:20231019T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:6f5741be-e3a2-4c4f-8436-f6fdc4277c39@6f57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231120T164500Z
-LOCATION:24-308Б
-DTSTART:20231120T151500Z
-SUMMARY:ЛР Технологии производства оборудования комплексов
-UID:10ea56c5-0a02-4b79-ada5-243a6d6aec1c@10ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231213T073000Z
-LOCATION:24-308В
-DTSTART:20231213T060000Z
-SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:62d7d4ce-aef2-4e82-b4f5-a658ceb1260d@62d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T091500Z
-LOCATION:3-137
-DTSTART:20231024T074500Z
-SUMMARY:ПЗ Динамика наземного оборудования
-UID:a261fa14-b2fa-4ea9-989a-d46e6f26ac07@a261.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231124T113000Z
-LOCATION:24-408
-DTSTART:20231124T100000Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:c0dead0d-dca9-4532-a1b3-7776137dabdf@c0de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231116T131500Z
-LOCATION:24-408
-DTSTART:20231116T114500Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:aadb9f95-65fb-4f7b-ba58-385ca723320d@aadb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231013T113000Z
-LOCATION:24-408
-DTSTART:20231013T100000Z
-SUMMARY:ЛК Теплогидравлические системы и оборудование
-UID:a21400e3-b5e6-4852-9e89-861a1708b3c8@a214.org
+UID:f8560326-8343-434d-8794-fb7783c4aafa@f856.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Минин Николай Владимирович
@@ -681,393 +31,7 @@ DTEND:20231018T113000Z
 LOCATION:24-408
 DTSTART:20231018T100000Z
 SUMMARY:ЛК Компьютерный инженерный анализ
-UID:c94f9109-9332-4ab7-94df-5abfcb6865c5@c94f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231207T131500Z
-LOCATION:24-408
-DTSTART:20231207T114500Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:555b7800-f433-442d-962a-d92e3e181e4a@555b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231208T091500Z
-LOCATION:24-440
-DTSTART:20231208T074500Z
-SUMMARY:ПЗ Пусковые установки стартовых комплексов
-UID:b7b365e6-19af-4470-9a79-adc3e2e03cfc@b7b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231201T131500Z
-LOCATION:24-408
-DTSTART:20231201T114500Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:17f9c694-12ba-449b-9be6-f94dc85c13ae@17f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231013T131500Z
-LOCATION:24-408
-DTSTART:20231013T114500Z
-SUMMARY:ЛК Теплогидравлические системы и оборудование
-UID:a403e4ec-3156-44d7-a66e-1685746731d4@a403.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231107T150000Z
-LOCATION:3-137
-DTSTART:20231107T133000Z
-SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
-UID:eff5e344-b76e-419c-afd1-8610be15dbb9@eff5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231227T073000Z
-LOCATION:24-308В
-DTSTART:20231227T060000Z
-SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:8d03dd79-267e-4e2b-9aac-c9ec49d7a383@8d03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231031T131500Z
-LOCATION:3-137
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
-UID:641fc9f8-eca1-4bf1-b49f-0b87c46f3839@641f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231102T150000Z
-LOCATION:24-408
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:ce2d9be7-3b49-41ba-95db-82ea32e97b3e@ce2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231027T091500Z
-LOCATION:24-440
-DTSTART:20231027T074500Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:1535000f-0c5b-496f-bad3-e3804ebbfb8a@1535.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231024T131500Z
-LOCATION:3-137
-DTSTART:20231024T114500Z
-SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
-UID:d0f20f20-8ab7-4ed6-b7f1-8c545267dc19@d0f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231201T113000Z
-LOCATION:24-408
-DTSTART:20231201T100000Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:2536a88e-4828-42d3-b249-ef9e82453dc0@2536.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231107T131500Z
-LOCATION:3-137
-DTSTART:20231107T114500Z
-SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
-UID:d7bcac5c-f00e-4bf7-a40d-1ed48ff6a54d@d7bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231128T150000Z
-LOCATION:3-137
-DTSTART:20231128T133000Z
-SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
-UID:6e197104-35c7-405e-9336-ef7dbfbf4028@6e19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231208T131500Z
-LOCATION:24-408
-DTSTART:20231208T114500Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:c5b7d58a-12b8-4c5c-962a-7e18b3b827d3@c5b7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T113000Z
-LOCATION:3-137
-DTSTART:20231121T100000Z
-SUMMARY:ПЗ Динамика наземного оборудования
-UID:931ad104-3e5f-4cb2-9170-2a5c4fdd915e@931a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231201T073000Z
-LOCATION:24-440
-DTSTART:20231201T060000Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:3936f4ef-14be-4056-bfce-e45bd91dfe5e@3936.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231020T113000Z
-LOCATION:24-408
-DTSTART:20231020T100000Z
-SUMMARY:ЛК Теплогидравлические системы и оборудование
-UID:656fa643-1a6d-4515-95ef-11f1f6c905bf@656f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231205T131500Z
-LOCATION:3-137
-DTSTART:20231205T114500Z
-SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
-UID:9f26833e-6b19-451f-a91a-2efc35bf4ea3@9f26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231218T150000Z
-LOCATION:24-308Б
-DTSTART:20231218T133000Z
-SUMMARY:ЛР Технологии производства оборудования комплексов
-UID:140a90e6-5ce9-4b66-8e0d-1d5695390709@140a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231026T150000Z
-LOCATION:24-408
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:6e84d8cb-e5b5-4627-bff9-21f80cf515f1@6e84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231123T131500Z
-LOCATION:24-408
-DTSTART:20231123T114500Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:18704965-2f90-4d57-a7ef-d9755fc733fe@1870.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20240116T073000Z
-LOCATION:24-413
-DTSTART:20240116T060000Z
-SUMMARY:Экзамен Технологии производства оборудования комплексов
-UID:bd2d8643-66c0-40b6-86f4-83be8706de4b@bd2d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T113000Z
-LOCATION:3-137
-DTSTART:20231024T100000Z
-SUMMARY:ПЗ Динамика наземного оборудования
-UID:f64b4dda-6004-4c74-bad4-1974480029a1@f64b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231017T131500Z
-LOCATION:3-137
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
-UID:c578cf96-ffd4-4824-83fe-10575e6621b8@c578.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231122T113000Z
-LOCATION:24-408
-DTSTART:20231122T100000Z
-SUMMARY:ЛК Компьютерный инженерный анализ
-UID:0b14d481-6f60-415a-bcaa-8ff0cc5c2616@0b14.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T091500Z
-LOCATION:11-33
-DTSTART:20231130T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:a97248e7-e773-41a5-9a8e-bf2efb1af81d@a972.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231103T073000Z
-LOCATION:24-440
-DTSTART:20231103T060000Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:3ba39d93-2f9f-47ac-ad5c-3e87ab38446c@3ba3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231103T113000Z
-LOCATION:24-408
-DTSTART:20231103T100000Z
-SUMMARY:ЛК Теплогидравлические системы и оборудование
-UID:fe013064-f009-43b8-bfec-9ed6dd534b17@fe01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231109T131500Z
-LOCATION:24-408
-DTSTART:20231109T114500Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:bd742245-8fe6-443b-8f8e-911e70afb0bd@bd74.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T113000Z
-LOCATION:3-137
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:5393cac7-a642-4e0b-9fb9-63e57f2d0d58@5393.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231228T150000Z
-LOCATION:24-408
-DTSTART:20231228T133000Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:686e1607-c8b2-47bc-ab03-57090077fcac@686e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231229T073000Z
-LOCATION:24-440
-DTSTART:20231229T060000Z
-SUMMARY:ПЗ Пусковые установки стартовых комплексов
-UID:09d41f62-68ab-450c-a819-cd050b4d4050@09d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20240124T091500Z
-LOCATION:24-440
-DTSTART:20240124T074500Z
-SUMMARY:Экзамен Пусковые установки стартовых комплексов
-UID:8fe4d6b7-a737-4862-99be-8bc3397c5b5d@8fe4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231108T073000Z
-LOCATION:24-308В
-DTSTART:20231108T060000Z
-SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:5e312d12-99e2-4234-8408-8954cefdd152@5e31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231110T113000Z
-LOCATION:24-408
-DTSTART:20231110T100000Z
-SUMMARY:ЛК Теплогидравлические системы и оборудование
-UID:51272973-bd04-4d18-acdb-181e182af5df@5127.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231123T150000Z
-LOCATION:24-408
-DTSTART:20231123T133000Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:753450d2-3285-4528-b16b-b5398b55aef2@7534.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231117T113000Z
-LOCATION:24-408
-DTSTART:20231117T100000Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:68e2a43a-3aca-470d-94bf-1eb94ed44ee9@68e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231116T150000Z
-LOCATION:24-408
-DTSTART:20231116T133000Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:ab6280ae-4ab9-4349-9b9f-f27b180badc5@ab62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231129T131500Z
-LOCATION:24-408
-DTSTART:20231129T114500Z
-SUMMARY:ПЗ Компьютерный инженерный анализ
-UID:b92ed722-eccd-4511-9a2a-f7c8b6ad11f8@b92e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231129T091500Z
-LOCATION:24-308В
-DTSTART:20231129T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:52420f3f-413c-4838-9c42-6134578ec1c5@5242.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20240112T091500Z
-LOCATION:24-438
-DTSTART:20240112T074500Z
-SUMMARY:Экзамен Теплогидравлические системы и оборудование
-UID:1f16680d-60c8-4b73-a076-bacc87e7b335@1f16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231011T131500Z
-LOCATION:24-408
-DTSTART:20231011T114500Z
-SUMMARY:ПЗ Компьютерный инженерный анализ
-UID:3238e324-d0ec-4254-ad26-66baa560216b@3238.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T091500Z
-LOCATION:11-33
-DTSTART:20231228T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:90340317-d247-415b-94a4-c5a39d712d63@9034.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231025T073000Z
-LOCATION:24-308В
-DTSTART:20231025T060000Z
-SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:862c0739-5538-4705-a53e-d20a58179392@862c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T091500Z
-LOCATION:3-137
-DTSTART:20231205T074500Z
-SUMMARY:ПЗ Динамика наземного оборудования
-UID:2d819de9-0712-4735-bd91-f6e05a971622@2d81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20240112T073000Z
-LOCATION:24-438
-DTSTART:20240112T060000Z
-SUMMARY:Экзамен Теплогидравлические системы и оборудование
-UID:f37812fb-46e2-4abd-b7b3-ed3125633a44@f378.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231025T091500Z
-LOCATION:24-308В
-DTSTART:20231025T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:5a8d096a-746a-48f0-a105-6bb20b60eb18@5a8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231208T113000Z
-LOCATION:24-408
-DTSTART:20231208T100000Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:a293b4a6-fb6f-4f26-9a2d-0f97d1579a27@a293.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231229T113000Z
-LOCATION:24-408
-DTSTART:20231229T100000Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:1eb892da-289a-4888-9209-09818dcd8e8e@1eb8.org
+UID:2e0fc998-87db-47e0-93ce-4786c5c2f5f7@2e0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Минин Николай Владимирович
@@ -1075,224 +39,7 @@ DTEND:20231011T113000Z
 LOCATION:24-408
 DTSTART:20231011T100000Z
 SUMMARY:ЛК Компьютерный инженерный анализ
-UID:ba755015-3566-401e-b660-df5a018d2501@ba75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231110T073000Z
-LOCATION:24-440
-DTSTART:20231110T060000Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:d15fc11a-905d-41d0-8d7d-c88b39a7b744@d15f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231122T131500Z
-LOCATION:24-408
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Компьютерный инженерный анализ
-UID:e5a13f3f-b006-4b94-82da-25251cfb2a50@e5a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231115T113000Z
-LOCATION:24-408
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Компьютерный инженерный анализ
-UID:7a75e409-278a-4f3b-a6c2-1c112d9328d4@7a75.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T091500Z
-LOCATION:11-33
-DTSTART:20231214T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:f5301ca2-7d06-4dea-b3bc-37f690f06676@f530.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231121T131500Z
-LOCATION:3-137
-DTSTART:20231121T114500Z
-SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
-UID:7f9757ed-844e-4239-9ae9-38ece4bdab85@7f97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231215T113000Z
-LOCATION:24-408
-DTSTART:20231215T100000Z
-SUMMARY:ЛР Теплогидравлические системы и оборудование
-UID:33d442d8-bba6-44af-94d6-f6e973f432fb@33d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231206T113000Z
-LOCATION:24-408
-DTSTART:20231206T100000Z
-SUMMARY:ЛК Компьютерный инженерный анализ
-UID:884bcf28-000b-47ab-9cd1-a57f9aed7fb1@884b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T113000Z
-LOCATION:11-33
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:b8e821df-872e-460d-8297-8b4c741ba706@b8e8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20240120T073000Z
-LOCATION:11-33
-DTSTART:20240120T060000Z
-SUMMARY:Экзамен Динамика наземного оборудования
-UID:5b9d03dd-5914-4711-90a1-5892db70819c@5b9d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T113000Z
-LOCATION:11-33
-DTSTART:20231221T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:4ee596d3-bb16-4893-a30f-e0bb1f7fa088@4ee5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231010T150000Z
-LOCATION:3-137
-DTSTART:20231010T133000Z
-SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
-UID:c1bf680e-e86f-48b6-bf50-f678c5e9e4df@c1bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231114T131500Z
-LOCATION:3-137
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
-UID:1543b42e-e1bb-4202-bc84-b61070e4cee6@1543.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231122T073000Z
-LOCATION:24-308В
-DTSTART:20231122T060000Z
-SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:fb92f534-a743-425d-b0e5-38e9d08ec4f2@fb92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231220T091500Z
-LOCATION:24-308В
-DTSTART:20231220T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:f0178ec2-9715-4c1b-b874-8ac50721d6e5@f017.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T091500Z
-LOCATION:11-33
-DTSTART:20231116T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:bc93e32d-2048-4ff8-b4d7-6e9a68803c6e@bc93.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T113000Z
-LOCATION:11-33
-DTSTART:20231012T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:9f1c3172-bb27-458c-936c-cdaa3db69de2@9f1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гофин Михаил Яковлевич
-DTEND:20231027T113000Z
-LOCATION:24-408
-DTSTART:20231027T100000Z
-SUMMARY:ЛК Теплогидравлические системы и оборудование
-UID:c6eff2fc-2fd6-40f7-929a-a3e6ae7cc836@c6ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231117T091500Z
-LOCATION:24-440
-DTSTART:20231117T074500Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:77f5703b-9e1f-414b-b50c-c4d43579b507@77f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231025T113000Z
-LOCATION:24-408
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Компьютерный инженерный анализ
-UID:a9d1928c-4bba-49ce-9453-1cedf8f97375@a9d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231215T073000Z
-LOCATION:24-440
-DTSTART:20231215T060000Z
-SUMMARY:ПЗ Пусковые установки стартовых комплексов
-UID:d22b2e1a-6dc2-4d3d-ac6c-4a8194bda302@d22b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231129T113000Z
-LOCATION:24-408
-DTSTART:20231129T100000Z
-SUMMARY:ЛК Компьютерный инженерный анализ
-UID:78f36fb0-23d6-4d9a-9738-5830f48c05f4@78f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231122T091500Z
-LOCATION:24-308В
-DTSTART:20231122T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:7338b6fe-79aa-4121-b1c4-bdfb940ee975@7338.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231117T073000Z
-LOCATION:24-440
-DTSTART:20231117T060000Z
-SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:bd50641f-9bcc-4ffa-a79c-23e2c83d08bc@bd50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231018T091500Z
-LOCATION:24-308В
-DTSTART:20231018T074500Z
-SUMMARY:ПЗ Технологии производства оборудования комплексов
-UID:722c3429-2bd9-46ce-92e4-98cab0c2f13b@722c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Минин Николай Владимирович
-DTEND:20231018T131500Z
-LOCATION:24-408
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Компьютерный инженерный анализ
-UID:cbadc077-a2a2-4b1a-8bfe-fc4017036362@cbad.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T091500Z
-LOCATION:3-137
-DTSTART:20231121T074500Z
-SUMMARY:ПЗ Динамика наземного оборудования
-UID:9887cb52-c592-4c35-a3e6-860072b32873@9887.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231121T150000Z
-LOCATION:3-137
-DTSTART:20231121T133000Z
-SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
-UID:36738b0b-80b2-4f50-b3a7-627e7114921e@3673.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20240124T073000Z
-LOCATION:24-440
-DTSTART:20240124T060000Z
-SUMMARY:Экзамен Пусковые установки стартовых комплексов
-UID:e25ff317-c9bb-454b-a992-90c2821aba6c@e25f.org
+UID:1daabcf2-e414-4f67-a2b5-3f9eda7722a7@1daa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -1300,23 +47,14 @@ DTEND:20231011T073000Z
 LOCATION:24-308В
 DTSTART:20231011T060000Z
 SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:a8740ea2-1ecd-4ff7-a116-2285e4a5c3c1@a874.org
+UID:5e8013b7-19b9-4967-afec-7a8c26a9f1c6@5e80.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Коробовский Александр Валентинович
-DTEND:20231010T131500Z
+DTEND:20231121T091500Z
 LOCATION:3-137
-DTSTART:20231010T114500Z
-SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
-UID:7b2b1bdd-9b4c-4131-ae2b-f13017696e9d@7b2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231101T073000Z
-LOCATION:24-308В
-DTSTART:20231101T060000Z
-SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:d8b4736f-5d1b-4ae6-91f5-b3595cbdcbd4@d8b4.org
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ Динамика наземного оборудования
+UID:b465267d-4b5c-4c9a-83b4-bb176fab0c1e@b465.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Заговорчев Владимир Александрович
@@ -1324,44 +62,46 @@ DTEND:20231214T131500Z
 LOCATION:24-408
 DTSTART:20231214T114500Z
 SUMMARY:ЛР Основы автоматизированного проектирования
-UID:c6febb25-ab71-4c60-b624-4ccb243e3cf6@c6fe.org
+UID:ccf58412-0bb8-48b6-bf04-df78cce19958@ccf5.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231109T113000Z
-LOCATION:11-33
-DTSTART:20231109T100000Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:529604d8-0c53-425e-8f19-1942c57dc244@5296.org
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231129T131500Z
+LOCATION:24-408
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Компьютерный инженерный анализ
+UID:060ca43b-2f40-4cff-9488-3cb98beac6be@060c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Федоров Илья Александрович
-DTEND:20231204T164500Z
-LOCATION:24-308Б
-DTSTART:20231204T151500Z
-SUMMARY:ЛР Технологии производства оборудования комплексов
-UID:85123d4a-8684-4c5a-abfb-38b822f67b47@8512.org
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231124T091500Z
+LOCATION:24-440
+DTSTART:20231124T074500Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:d6e8ab7f-9fc1-41ef-b75f-882b24b57182@d6e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231117T131500Z
+LOCATION:24-408
+DTSTART:20231117T114500Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:a744e3cc-3bb3-4257-9dd9-6c11857ee5b3@a744.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231208T113000Z
+LOCATION:24-408
+DTSTART:20231208T100000Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:88ff78cd-3283-43d6-9374-bfdaf10e2932@88ff.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231123T091500Z
 LOCATION:11-33
 DTSTART:20231123T074500Z
 SUMMARY:ЛК Динамика наземного оборудования
-UID:516ec4ec-219e-4061-8720-803a47e248c7@516e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T091500Z
-LOCATION:11-33
-DTSTART:20231012T074500Z
-SUMMARY:ЛК Динамика наземного оборудования
-UID:061bc04e-59f1-4e44-b203-0d0acb9681fc@061b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Заговорчев Владимир Александрович
-DTEND:20231214T150000Z
-LOCATION:24-408
-DTSTART:20231214T133000Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:97bd7361-2724-4708-abfb-a2047c4bdd19@97bd.org
+UID:c8b650c8-a42b-4bdf-a65a-2c75881efb1f@c8b6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -1369,15 +109,722 @@ DTEND:20231218T164500Z
 LOCATION:24-308Б
 DTSTART:20231218T151500Z
 SUMMARY:ЛР Технологии производства оборудования комплексов
-UID:50cd6009-c51f-448e-8165-1d2e3ca827bb@50cd.org
+UID:6f1f0eeb-7605-412f-a0a7-133f622ae2f9@6f1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231103T113000Z
+LOCATION:24-408
+DTSTART:20231103T100000Z
+SUMMARY:ЛК Теплогидравлические системы и оборудование
+UID:c5facfa5-89c8-4c12-8627-4ad2d1541444@c5fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231213T091500Z
+LOCATION:24-308В
+DTSTART:20231213T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:79d95ec9-b8dc-42d3-8633-1c4f04532296@79d9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231027T073000Z
+DTEND:20231215T091500Z
 LOCATION:24-440
-DTSTART:20231027T060000Z
+DTSTART:20231215T074500Z
+SUMMARY:ПЗ Пусковые установки стартовых комплексов
+UID:696d908b-7517-44a3-bfdf-94d1502d1d12@696d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231117T073000Z
+LOCATION:24-440
+DTSTART:20231117T060000Z
 SUMMARY:ЛК Пусковые установки стартовых комплексов
-UID:281b5361-e280-4aeb-aeae-7dd1087968c1@281b.org
+UID:857498cf-10b3-434b-af24-60b29864915f@8574.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231103T131500Z
+LOCATION:24-408
+DTSTART:20231103T114500Z
+SUMMARY:ЛК Теплогидравлические системы и оборудование
+UID:305bdbf5-b3ae-4e9f-aea3-394fd0ff3f08@305b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231122T073000Z
+LOCATION:24-308В
+DTSTART:20231122T060000Z
+SUMMARY:ЛК Технологии производства оборудования комплексов
+UID:99d73051-c2c4-4969-910c-04536719f1b4@99d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231201T113000Z
+LOCATION:24-408
+DTSTART:20231201T100000Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:a309cfec-2aeb-4e4b-8da1-59909ebeab9b@a309.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231123T150000Z
+LOCATION:24-408
+DTSTART:20231123T133000Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:0e3b25b4-d4e2-438a-b4f7-3d7ebab0408e@0e3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231227T091500Z
+LOCATION:24-308В
+DTSTART:20231227T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:5244b88b-c738-43c1-9e07-3816511479d2@5244.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231117T113000Z
+LOCATION:24-408
+DTSTART:20231117T100000Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:8fc313bd-426f-4475-a064-dc54777fd814@8fc3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T113000Z
+LOCATION:11-33
+DTSTART:20231214T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:d1ae1d7d-eb55-4830-b0a6-1521430a79c5@d1ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T091500Z
+LOCATION:3-137
+DTSTART:20231024T074500Z
+SUMMARY:ПЗ Динамика наземного оборудования
+UID:00615f96-3539-4b1c-952c-936f25e78d52@0061.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231024T150000Z
+LOCATION:3-137
+DTSTART:20231024T133000Z
+SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
+UID:529178b5-89f3-4902-ac8e-403c0c41c068@5291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231115T131500Z
+LOCATION:24-408
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Компьютерный инженерный анализ
+UID:ca5b06a4-4320-4c58-bcd3-898a92e74998@ca5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231107T131500Z
+LOCATION:3-137
+DTSTART:20231107T114500Z
+SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
+UID:efa7d83a-a3f5-4feb-8d99-b85aabb84e8b@efa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231110T091500Z
+LOCATION:24-440
+DTSTART:20231110T074500Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:9b311593-4003-45a1-92f5-6856af8448c2@9b31.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T091500Z
+LOCATION:11-33
+DTSTART:20231012T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:8c6e6bb0-296f-48b8-8247-8b6feaee6803@8c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231020T073000Z
+LOCATION:24-440
+DTSTART:20231020T060000Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:fa3751b8-1708-40a1-a763-eedaf41c3e2d@fa37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231208T091500Z
+LOCATION:24-440
+DTSTART:20231208T074500Z
+SUMMARY:ПЗ Пусковые установки стартовых комплексов
+UID:934772ba-7901-489e-98d2-f82327541e75@9347.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T091500Z
+LOCATION:11-33
+DTSTART:20231214T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:c75a4b05-0e92-408a-9b7f-b28b98ae7341@c75a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231109T131500Z
+LOCATION:24-408
+DTSTART:20231109T114500Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:8c6ff760-6dea-4c9a-b45c-57cf8018f399@8c6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231208T131500Z
+LOCATION:24-408
+DTSTART:20231208T114500Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:5c718848-e43a-4aec-9fb6-d7588d80009c@5c71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231102T131500Z
+LOCATION:24-408
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:deef7494-ea71-4772-a022-d2a7ab0e89cf@deef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T091500Z
+LOCATION:11-33
+DTSTART:20231228T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:ff166428-0c1c-473d-b7c3-8dbb620570c5@ff16.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T091500Z
+LOCATION:3-137
+DTSTART:20231107T074500Z
+SUMMARY:ПЗ Динамика наземного оборудования
+UID:325dff19-b146-4a63-b890-5d213e7c71f3@325d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231208T073000Z
+LOCATION:24-440
+DTSTART:20231208T060000Z
+SUMMARY:ПЗ Пусковые установки стартовых комплексов
+UID:13725780-eb2a-41f1-b218-22c79f715102@1372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231103T091500Z
+LOCATION:24-440
+DTSTART:20231103T074500Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:f25221fa-a733-49a9-9abe-041c30cce770@f252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231121T131500Z
+LOCATION:3-137
+DTSTART:20231121T114500Z
+SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
+UID:abe45f03-dbc3-4532-a2d1-45c0fd4ece7e@abe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231221T131500Z
+LOCATION:24-408
+DTSTART:20231221T114500Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:ed0432b8-f1b6-458a-aa73-5489769b68ab@ed04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231222T131500Z
+LOCATION:24-408
+DTSTART:20231222T114500Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:7aa83ca0-5435-4eef-b8c2-3b17e7ff74ae@7aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231101T091500Z
+LOCATION:24-308В
+DTSTART:20231101T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:121059b8-3bd7-425b-8d17-bafad772c22b@1210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231011T131500Z
+LOCATION:24-408
+DTSTART:20231011T114500Z
+SUMMARY:ПЗ Компьютерный инженерный анализ
+UID:4075404b-b101-43b9-965e-a986953c02d4@4075.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T113000Z
+LOCATION:3-137
+DTSTART:20231205T100000Z
+SUMMARY:ПЗ Динамика наземного оборудования
+UID:66d87559-90f6-4dfb-b0cb-6983b67d11d0@66d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231018T091500Z
+LOCATION:24-308В
+DTSTART:20231018T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:5a82490e-dfcb-4436-ac2a-d892780d1d6e@5a82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20240116T073000Z
+LOCATION:24-413
+DTSTART:20240116T060000Z
+SUMMARY:Экзамен Технологии производства оборудования комплексов
+UID:446cce51-a010-41f9-a11c-2c256bb6a487@446c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240120T073000Z
+LOCATION:11-33
+DTSTART:20240120T060000Z
+SUMMARY:Экзамен Динамика наземного оборудования
+UID:e9651cd5-7fce-4747-96ff-32296e89022d@e965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20240112T073000Z
+LOCATION:24-438
+DTSTART:20240112T060000Z
+SUMMARY:Экзамен Теплогидравлические системы и оборудование
+UID:3230c78f-cd36-47d6-b799-3f5df1759eb9@3230.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231220T073000Z
+LOCATION:24-308В
+DTSTART:20231220T060000Z
+SUMMARY:ЛК Технологии производства оборудования комплексов
+UID:4249ac2e-67d3-466c-b152-e688ca474dbc@4249.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231026T131500Z
+LOCATION:24-408
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:9c1c141f-b75a-493c-9bcb-606fa23317f2@9c1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231215T073000Z
+LOCATION:24-440
+DTSTART:20231215T060000Z
+SUMMARY:ПЗ Пусковые установки стартовых комплексов
+UID:07efe1f3-fdb9-40ae-86d9-ce8b397ab15c@07ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231110T113000Z
+LOCATION:24-408
+DTSTART:20231110T100000Z
+SUMMARY:ЛК Теплогидравлические системы и оборудование
+UID:c3206a81-8f0c-4ee1-99b6-f3535f27eae2@c320.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231201T073000Z
+LOCATION:24-440
+DTSTART:20231201T060000Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:93f19faf-a533-45c7-a2cb-2ad7d8118dd4@93f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20240124T091500Z
+LOCATION:24-440
+DTSTART:20240124T074500Z
+SUMMARY:Экзамен Пусковые установки стартовых комплексов
+UID:d8c5fad1-6016-439a-a750-b342ab3766eb@d8c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231102T150000Z
+LOCATION:24-408
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:f8a6f4c6-0872-4266-88ec-a550801c10c5@f8a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231130T131500Z
+LOCATION:24-408
+DTSTART:20231130T114500Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:857e12c2-d7e1-4876-920c-b29f187d613f@857e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231206T073000Z
+LOCATION:24-308В
+DTSTART:20231206T060000Z
+SUMMARY:ЛК Технологии производства оборудования комплексов
+UID:732445d6-f73d-4c99-b4c2-c2d962c22fd1@7324.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T091500Z
+LOCATION:11-33
+DTSTART:20231026T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:6fef186c-1d7b-404f-92df-7ae3899c11c7@6fef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231025T113000Z
+LOCATION:24-408
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Компьютерный инженерный анализ
+UID:e010f5cb-b318-46af-9843-41f0cb9260d1@e010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231215T131500Z
+LOCATION:24-408
+DTSTART:20231215T114500Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:5fb706d3-b2bc-4abd-b183-ddf9034abebe@5fb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231227T073000Z
+LOCATION:24-308В
+DTSTART:20231227T060000Z
+SUMMARY:ЛК Технологии производства оборудования комплексов
+UID:d162ea2f-a8d0-40bd-89e0-f946f0ef4c8a@d162.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231027T113000Z
+LOCATION:24-408
+DTSTART:20231027T100000Z
+SUMMARY:ЛК Теплогидравлические системы и оборудование
+UID:3c0c0b25-0d60-496e-9e77-40f5d94fe548@3c0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231229T113000Z
+LOCATION:24-408
+DTSTART:20231229T100000Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:99605c9d-7aa0-4cf6-af49-2aad83cb3345@9960.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231128T150000Z
+LOCATION:3-137
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
+UID:e728853a-d30d-4e9a-950f-1936051f387b@e728.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231123T131500Z
+LOCATION:24-408
+DTSTART:20231123T114500Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:41552e72-3ab5-4575-95a2-92985aa2d48e@4155.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231128T131500Z
+LOCATION:3-137
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
+UID:e3120ed8-713c-4b3b-80b0-4bd3f87148bc@e312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231204T150000Z
+LOCATION:24-308Б
+DTSTART:20231204T133000Z
+SUMMARY:ЛР Технологии производства оборудования комплексов
+UID:7925f2ea-0606-496f-800d-faae97de351e@7925.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T113000Z
+LOCATION:3-137
+DTSTART:20231010T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:922aab22-bcf5-4aa7-99c0-922b82e658bd@922a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20240116T091500Z
+LOCATION:24-413
+DTSTART:20240116T074500Z
+SUMMARY:Экзамен Технологии производства оборудования комплексов
+UID:3d846be0-9c6a-40bc-b034-c07b19338e13@3d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231120T164500Z
+LOCATION:24-308Б
+DTSTART:20231120T151500Z
+SUMMARY:ЛР Технологии производства оборудования комплексов
+UID:092522f9-3be3-4858-9f0b-f48448985809@0925.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231013T131500Z
+LOCATION:24-408
+DTSTART:20231013T114500Z
+SUMMARY:ЛК Теплогидравлические системы и оборудование
+UID:f6b686ff-ac1e-421f-af3e-e12721f02dd8@f6b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231103T073000Z
+LOCATION:24-440
+DTSTART:20231103T060000Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:6adb7e0a-ce84-459b-9363-35a96b172c52@6adb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231117T091500Z
+LOCATION:24-440
+DTSTART:20231117T074500Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:3c5cb1e2-c14d-448c-b1e5-cf85266a92cc@3c5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T113000Z
+LOCATION:11-33
+DTSTART:20231109T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:91e39b56-fc53-488e-a783-601fc4d87843@91e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T113000Z
+LOCATION:11-33
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:9224b3a5-5519-4900-993e-ce1473d8bad8@9224.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231229T131500Z
+LOCATION:24-408
+DTSTART:20231229T114500Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:ea3dc5ec-ac8a-4ea7-9271-f98772048fae@ea3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231031T150000Z
+LOCATION:3-137
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
+UID:10aa8528-1d08-437e-bd25-2d79113917ca@10aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T091500Z
+LOCATION:3-137
+DTSTART:20231205T074500Z
+SUMMARY:ПЗ Динамика наземного оборудования
+UID:3ee6b6f2-f7b4-420e-9360-ebe6a8ccac66@3ee6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231222T073000Z
+LOCATION:24-440
+DTSTART:20231222T060000Z
+SUMMARY:ПЗ Пусковые установки стартовых комплексов
+UID:a27f68f2-82a4-4dec-bebf-214f08bca8f7@a27f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T113000Z
+LOCATION:11-33
+DTSTART:20231228T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:75b29c2e-3e94-4638-89eb-2d53bdeee01f@75b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231129T091500Z
+LOCATION:24-308В
+DTSTART:20231129T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:c1faea4f-64d8-462c-aa68-8af4a8259d6a@c1fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T113000Z
+LOCATION:11-33
+DTSTART:20231026T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:76399bd3-120a-4b23-9e25-c00debef3e42@7639.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231229T091500Z
+LOCATION:24-440
+DTSTART:20231229T074500Z
+SUMMARY:ПЗ Пусковые установки стартовых комплексов
+UID:20d4641a-a6d1-44e6-88ef-fa2d30a20ae7@20d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231116T150000Z
+LOCATION:24-408
+DTSTART:20231116T133000Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:1348dbca-8a37-4aa4-aa95-59c2e859eff9@1348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231101T113000Z
+LOCATION:24-408
+DTSTART:20231101T100000Z
+SUMMARY:ЛК Компьютерный инженерный анализ
+UID:2f3e51a8-6a7f-4401-ad1b-0261134befb5@2f3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231027T091500Z
+LOCATION:24-440
+DTSTART:20231027T074500Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:b5934f70-6256-48f6-9021-8853bf66f9cf@b593.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T113000Z
+LOCATION:3-137
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:0dd0575d-e0b2-47d1-910c-3ce790a14636@0dd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231124T113000Z
+LOCATION:24-408
+DTSTART:20231124T100000Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:cf0b6ca5-fb61-4df6-ba14-5b5d7b4929aa@cf0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T113000Z
+LOCATION:3-137
+DTSTART:20231024T100000Z
+SUMMARY:ПЗ Динамика наземного оборудования
+UID:dd3ada58-5800-47f2-b7c6-e081730b90bd@dd3a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T113000Z
+LOCATION:11-33
+DTSTART:20231012T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:60e3332c-4b2e-48ba-89b6-e87ff29b31de@60e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T091500Z
+LOCATION:11-33
+DTSTART:20231109T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:5502aaaa-2a02-45f0-ad30-d52cfb7625d7@5502.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231207T150000Z
+LOCATION:24-408
+DTSTART:20231207T133000Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:ed61426b-29df-4521-a62c-819ee85fe0d8@ed61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231201T091500Z
+LOCATION:24-440
+DTSTART:20231201T074500Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:76ab98b0-18b9-4910-ad92-5580c51dcc88@76ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231121T150000Z
+LOCATION:3-137
+DTSTART:20231121T133000Z
+SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
+UID:ddc7eb35-743f-4e44-8a78-94e2f96b635d@ddc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231024T131500Z
+LOCATION:3-137
+DTSTART:20231024T114500Z
+SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
+UID:f3fefe43-1a0e-437f-95a4-954899ce729a@f3fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231222T113000Z
+LOCATION:24-408
+DTSTART:20231222T100000Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:36768d22-07d2-4015-b0dd-aa38e1c9200f@3676.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231206T091500Z
+LOCATION:24-308В
+DTSTART:20231206T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:93f19f41-a552-47f2-856b-963741ac1c9f@93f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T113000Z
+LOCATION:11-33
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:686aa402-d073-4c55-a2de-3a94888723c7@686a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231026T150000Z
+LOCATION:24-408
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:20380b93-56b4-425c-b9f0-24633388e0fb@2038.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20240120T091500Z
+LOCATION:11-33
+DTSTART:20240120T074500Z
+SUMMARY:Экзамен Динамика наземного оборудования
+UID:3af459ca-45ef-477e-a180-c0d267b3fa50@3af4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231020T131500Z
+LOCATION:24-408
+DTSTART:20231020T114500Z
+SUMMARY:ЛК Теплогидравлические системы и оборудование
+UID:16dcee03-821e-480b-947f-12b8b863d6dd@16dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231031T131500Z
+LOCATION:3-137
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
+UID:99a9ab64-3889-49d8-8da1-8557cb773b7c@99a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231220T091500Z
+LOCATION:24-308В
+DTSTART:20231220T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:ddbbcae3-bed8-49cf-9ae4-25e3a343f63a@ddbb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Минин Николай Владимирович
@@ -1385,7 +832,410 @@ DTEND:20231108T113000Z
 LOCATION:24-408
 DTSTART:20231108T100000Z
 SUMMARY:ЛК Компьютерный инженерный анализ
-UID:bd694973-131b-4627-ab65-47640f58613e@bd69.org
+UID:ca7a28b9-cef5-41e4-97ce-3b5807a41d21@ca7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231204T164500Z
+LOCATION:24-308Б
+DTSTART:20231204T151500Z
+SUMMARY:ЛР Технологии производства оборудования комплексов
+UID:99b30015-3ba4-4d1f-8578-b972635bb44c@99b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231027T131500Z
+LOCATION:24-408
+DTSTART:20231027T114500Z
+SUMMARY:ЛК Теплогидравлические системы и оборудование
+UID:a5061c6a-d1c7-4c60-98cd-ecc41f52730e@a506.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T091500Z
+LOCATION:11-33
+DTSTART:20231102T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:bd8ce4c3-2a56-42ce-9d64-04172d3bfc3a@bd8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231218T150000Z
+LOCATION:24-308Б
+DTSTART:20231218T133000Z
+SUMMARY:ЛР Технологии производства оборудования комплексов
+UID:88f8949e-8917-4def-842d-003d3ab64d68@88f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231228T150000Z
+LOCATION:24-408
+DTSTART:20231228T133000Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:b85ab4e6-0c82-4d23-b972-f293c079703e@b85a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231116T131500Z
+LOCATION:24-408
+DTSTART:20231116T114500Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:0ecc516e-bff5-4c7f-8cfb-611a4bfab569@0ecc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231019T150000Z
+LOCATION:24-408
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:1e288700-1daf-4f77-9d3f-0158ef8726a3@1e28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231018T131500Z
+LOCATION:24-408
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Компьютерный инженерный анализ
+UID:cea8ccb7-350a-4c98-95be-83b5aa30894a@cea8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231107T150000Z
+LOCATION:3-137
+DTSTART:20231107T133000Z
+SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
+UID:537cae7f-8934-4f5d-96de-5c05e4df55ee@537c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231114T131500Z
+LOCATION:3-137
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
+UID:63da7c04-5801-4132-aa37-caac19a4f3e4@63da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231013T113000Z
+LOCATION:24-408
+DTSTART:20231013T100000Z
+SUMMARY:ЛК Теплогидравлические системы и оборудование
+UID:13469cbf-8854-431f-86aa-1b32705e944e@1346.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231012T150000Z
+LOCATION:24-408
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:e5248b4f-e52a-479b-863b-0662146e7b42@e524.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231101T073000Z
+LOCATION:24-308В
+DTSTART:20231101T060000Z
+SUMMARY:ЛК Технологии производства оборудования комплексов
+UID:04dc9603-fecd-4927-9f95-08ce1488421a@04dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231110T073000Z
+LOCATION:24-440
+DTSTART:20231110T060000Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:1dd36fcf-d80a-42ca-84a4-8b01a957b1cd@1dd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231025T131500Z
+LOCATION:24-408
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Компьютерный инженерный анализ
+UID:d0929061-44c7-4ddb-b94d-a6cb75ba4ea3@d092.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T091500Z
+LOCATION:3-137
+DTSTART:20231017T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:66ec9ab4-c5bc-4eea-96c2-9c31dd5975b0@66ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231109T150000Z
+LOCATION:24-408
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:9d36ca7b-7f6e-4ec4-96f1-6faacfc1c440@9d36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231025T073000Z
+LOCATION:24-308В
+DTSTART:20231025T060000Z
+SUMMARY:ЛК Технологии производства оборудования комплексов
+UID:3d1493d6-256f-4160-8ced-61a278e14a18@3d14.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T113000Z
+LOCATION:11-33
+DTSTART:20231221T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:2ef31ea7-c130-4508-97e0-929ce9a723ab@2ef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231010T131500Z
+LOCATION:3-137
+DTSTART:20231010T114500Z
+SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
+UID:2fc4f61c-02d9-4463-9fcd-127e56010e98@2fc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231122T113000Z
+LOCATION:24-408
+DTSTART:20231122T100000Z
+SUMMARY:ЛК Компьютерный инженерный анализ
+UID:fd035058-5bef-43d7-8723-54b42e89dd99@fd03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231215T113000Z
+LOCATION:24-408
+DTSTART:20231215T100000Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:2f390681-cad0-4b4c-9f57-93544a2e48c4@2f39.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T091500Z
+LOCATION:11-33
+DTSTART:20231221T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:c815b898-f319-4e8b-a78f-e0cdc0003ec7@c815.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231213T073000Z
+LOCATION:24-308В
+DTSTART:20231213T060000Z
+SUMMARY:ЛК Технологии производства оборудования комплексов
+UID:3ddc982a-51d0-44d3-92c4-c1f592362e08@3ddc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231017T131500Z
+LOCATION:3-137
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
+UID:ffc7c692-e1f5-4095-bdf5-dc4adde738f1@ffc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231020T113000Z
+LOCATION:24-408
+DTSTART:20231020T100000Z
+SUMMARY:ЛК Теплогидравлические системы и оборудование
+UID:9445cf95-1b56-4eac-a42d-e726e7c847c6@9445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231013T073000Z
+LOCATION:24-440
+DTSTART:20231013T060000Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:971b36b3-7bed-4eb9-bc88-78bbb7309352@971b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T113000Z
+LOCATION:11-33
+DTSTART:20231207T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:664cad07-e183-4770-8a82-9be4f668421f@664c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231013T091500Z
+LOCATION:24-440
+DTSTART:20231013T074500Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:51b0beee-78b6-4c07-9242-60196fc0baec@51b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231120T150000Z
+LOCATION:24-308Б
+DTSTART:20231120T133000Z
+SUMMARY:ЛР Технологии производства оборудования комплексов
+UID:1b3ee7c0-f2cc-4620-acd1-0be8213e88c7@1b3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231115T073000Z
+LOCATION:24-308В
+DTSTART:20231115T060000Z
+SUMMARY:ЛК Технологии производства оборудования комплексов
+UID:a0a33330-8f02-46ab-83f8-a702b71e4dff@a0a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231229T073000Z
+LOCATION:24-440
+DTSTART:20231229T060000Z
+SUMMARY:ПЗ Пусковые установки стартовых комплексов
+UID:1b01aa04-d457-40fc-ace0-99cd7632c7a8@1b01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231019T131500Z
+LOCATION:24-408
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:334e1e50-d8bf-4433-9a3b-07f494e95bab@334e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T091500Z
+LOCATION:11-33
+DTSTART:20231207T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:e13c309e-d5d4-4d69-bcf2-cc0b2b8fc187@e13c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231110T131500Z
+LOCATION:24-408
+DTSTART:20231110T114500Z
+SUMMARY:ЛК Теплогидравлические системы и оборудование
+UID:1ac6915c-b065-4f1e-87b3-ebf7e50a301e@1ac6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231101T131500Z
+LOCATION:24-408
+DTSTART:20231101T114500Z
+SUMMARY:ПЗ Компьютерный инженерный анализ
+UID:eb641c9b-8353-4e6e-8a08-9ed1c26e0f6c@eb64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231122T091500Z
+LOCATION:24-308В
+DTSTART:20231122T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:7aedf513-5091-4ef4-bcfc-9a31fb4bb243@7aed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T113000Z
+LOCATION:11-33
+DTSTART:20231123T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:7bfea295-c7f9-49bb-9f67-c9fe9b1ba052@7bfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231011T091500Z
+LOCATION:24-308В
+DTSTART:20231011T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:0ca3228f-4488-4fb7-abb2-e48a9cd950e7@0ca3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T091500Z
+LOCATION:11-33
+DTSTART:20231019T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:81eb3923-488a-46ec-9987-3e0b3221d9b2@81eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T091500Z
+LOCATION:11-33
+DTSTART:20231116T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:d6374218-3401-45ec-ac25-81df1a00f45e@d637.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231201T131500Z
+LOCATION:24-408
+DTSTART:20231201T114500Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:054fb381-9eec-4bdb-bc57-0e58a1cd5833@054f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231221T150000Z
+LOCATION:24-408
+DTSTART:20231221T133000Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:8a48cd98-7cfe-49df-bb78-37879ecedbf7@8a48.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T091500Z
+LOCATION:3-137
+DTSTART:20231010T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:67f161ee-deb4-4470-b99a-e7f3901a527d@67f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T091500Z
+LOCATION:11-33
+DTSTART:20231130T074500Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:c83f9586-28f2-4b72-8d02-9c344b4a15aa@c83f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231018T073000Z
+LOCATION:24-308В
+DTSTART:20231018T060000Z
+SUMMARY:ЛК Технологии производства оборудования комплексов
+UID:dcc28043-1452-4c44-9fbc-bf199ab4c782@dcc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231025T091500Z
+LOCATION:24-308В
+DTSTART:20231025T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:222d6217-a0ff-45d9-a40a-a8898c852657@222d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T113000Z
+LOCATION:3-137
+DTSTART:20231107T100000Z
+SUMMARY:ПЗ Динамика наземного оборудования
+UID:275d5da4-7bd4-4e41-adeb-15225caa8973@275d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231129T113000Z
+LOCATION:24-408
+DTSTART:20231129T100000Z
+SUMMARY:ЛК Компьютерный инженерный анализ
+UID:6106ec81-425c-4b0d-b6d8-d137d45b8537@6106.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231020T091500Z
+LOCATION:24-440
+DTSTART:20231020T074500Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:3ca5c78f-03fd-4e96-ae9f-7c79904dcbe3@3ca5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T113000Z
+LOCATION:11-33
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:62d3f37f-0382-45d6-ba22-2f79a4d22700@62d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231114T150000Z
+LOCATION:3-137
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
+UID:5d1518b6-dd89-4a35-97b6-26eecadaeec9@5d15.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Илья Александрович
@@ -1393,7 +1243,157 @@ DTEND:20231129T073000Z
 LOCATION:24-308В
 DTSTART:20231129T060000Z
 SUMMARY:ЛК Технологии производства оборудования комплексов
-UID:5c6253d7-f292-4f4f-9ed8-0f8d9ebd41a3@5c62.org
+UID:c0f7f389-7931-413f-ab71-3bf2e4689163@c0f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231206T113000Z
+LOCATION:24-408
+DTSTART:20231206T100000Z
+SUMMARY:ЛК Компьютерный инженерный анализ
+UID:24b992d4-e573-452e-a0f3-3f0951c45704@24b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231122T131500Z
+LOCATION:24-408
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Компьютерный инженерный анализ
+UID:d25599b3-c124-4784-b8c5-e6d93b8846e3@d255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231108T091500Z
+LOCATION:24-308В
+DTSTART:20231108T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:4b607b74-ca77-4bcd-b90f-606d78a608bc@4b60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231017T150000Z
+LOCATION:3-137
+DTSTART:20231017T133000Z
+SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
+UID:cba1c478-dec0-4104-ac2b-5172d18fd04f@cba1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231214T150000Z
+LOCATION:24-408
+DTSTART:20231214T133000Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:0ddf8667-384d-4088-8530-4066f4c7148e@0ddf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20240112T091500Z
+LOCATION:24-438
+DTSTART:20240112T074500Z
+SUMMARY:Экзамен Теплогидравлические системы и оборудование
+UID:50c0a451-b4bf-4ba1-9641-32c69873ab15@50c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231115T091500Z
+LOCATION:24-308В
+DTSTART:20231115T074500Z
+SUMMARY:ПЗ Технологии производства оборудования комплексов
+UID:f6b656dd-c5c0-439a-948e-7bddffb28c83@f6b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20240124T073000Z
+LOCATION:24-440
+DTSTART:20240124T060000Z
+SUMMARY:Экзамен Пусковые установки стартовых комплексов
+UID:1a07201b-dbbd-4c6a-b2ed-4c29e2f10200@1a07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231115T113000Z
+LOCATION:24-408
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Компьютерный инженерный анализ
+UID:4c9e9a9e-74d1-4c83-bef9-8cbce4a42166@4c9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Илья Александрович
+DTEND:20231108T073000Z
+LOCATION:24-308В
+DTSTART:20231108T060000Z
+SUMMARY:ЛК Технологии производства оборудования комплексов
+UID:3dd51455-aa71-46bc-9a63-37cdf41bd410@3dd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231207T131500Z
+LOCATION:24-408
+DTSTART:20231207T114500Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:202dfbc0-4bb3-46c5-a2d1-d32c37d4dda9@202d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231010T150000Z
+LOCATION:3-137
+DTSTART:20231010T133000Z
+SUMMARY:ПЗ Эксплуатация пускового оборудования и стартовых сооружений
+UID:c90998e4-905f-456b-8d50-63b2ef23108e@c909.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T113000Z
+LOCATION:11-33
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Динамика наземного оборудования
+UID:64f462f0-640d-4af8-a0e2-d662be0272a4@64f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гофин Михаил Яковлевич
+DTEND:20231124T131500Z
+LOCATION:24-408
+DTSTART:20231124T114500Z
+SUMMARY:ЛР Теплогидравлические системы и оборудование
+UID:df15d0f9-ce4d-40e3-8552-8fa07fa49ca5@df15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Заговорчев Владимир Александрович
+DTEND:20231228T131500Z
+LOCATION:24-408
+DTSTART:20231228T114500Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:81d5d0d5-f35f-4c06-aa01-09ef4e79e1c0@81d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231027T073000Z
+LOCATION:24-440
+DTSTART:20231027T060000Z
+SUMMARY:ЛК Пусковые установки стартовых комплексов
+UID:50be4318-83c6-4058-bf45-f5ed2ea3d2a3@50be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Минин Николай Владимирович
+DTEND:20231108T131500Z
+LOCATION:24-408
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Компьютерный инженерный анализ
+UID:526f14d7-5cba-46ab-89e2-b60e06317568@526f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коробовский Александр Валентинович
+DTEND:20231205T131500Z
+LOCATION:3-137
+DTSTART:20231205T114500Z
+SUMMARY:ЛК Эксплуатация пускового оборудования и стартовых сооружений
+UID:0e0607d5-b361-4a5e-8683-605ccecd1a93@0e06.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T113000Z
+LOCATION:3-137
+DTSTART:20231121T100000Z
+SUMMARY:ПЗ Динамика наземного оборудования
+UID:a922f6d3-6bb0-4fd7-a2df-a51977bfa133@a922.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Заговорчев Владимир Александрович
@@ -1401,6 +1401,6 @@ DTEND:20231012T131500Z
 LOCATION:24-408
 DTSTART:20231012T114500Z
 SUMMARY:ЛК Основы автоматизированного проектирования
-UID:0aa30e1c-2c8a-40c5-890a-d496607a0bc8@0aa3.org
+UID:bdd80482-a7f3-428d-8d65-75d954e37bd2@bdd8.org
 END:VEVENT
 END:VCALENDAR

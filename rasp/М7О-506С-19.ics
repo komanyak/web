@@ -2,164 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231019T091500Z
-LOCATION:24-554
-DTSTART:20231019T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:64a0e2ea-e3f3-452d-9b95-48e392d89ad9@64a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231218T091500Z
-LOCATION:24-529
-DTSTART:20231218T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:5d24d005-03c6-45df-b856-327c6a545f05@5d24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бунтов Михаил Юрьевич
-DTEND:20231215T091500Z
-LOCATION:24-529
-DTSTART:20231215T074500Z
-SUMMARY:ЛР Внешнее проектирование авиационных комплексов
-UID:1268381a-a6f0-4b2d-820b-8488d1e4e9a2@1268.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231120T091500Z
-LOCATION:24-529
-DTSTART:20231120T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:ec858023-1039-4a08-a535-44f33bf63fa8@ec85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20230901T131500Z
-LOCATION:24-554
-DTSTART:20230901T114500Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:7857af36-2d18-4191-afc0-a76cc97c7cd6@7857.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231130T113000Z
+DTEND:20231019T131500Z
 LOCATION:24-529
-DTSTART:20231130T100000Z
+DTSTART:20231019T114500Z
 SUMMARY:ЛР Системный анализ и исследование операций
-UID:09056728-91cc-41bf-9791-4d8453e56f61@0905.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20230901T113000Z
-LOCATION:24-554
-DTSTART:20230901T100000Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:6eff3208-1aee-4230-8320-1293a007a8f7@6eff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231125T091500Z
-LOCATION:24-525
-DTSTART:20231125T074500Z
-SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:04e9dc08-ecb6-4639-8570-61b3c1d83505@04e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20230920T073000Z
-LOCATION:24-554
-DTSTART:20230920T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:40466f38-067f-4d9f-8f0e-007394194ada@4046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231004T073000Z
-LOCATION:24-554
-DTSTART:20231004T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:8948c4a5-57e7-493e-9fb9-0c6b6a898719@8948.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231215T131500Z
-LOCATION:24-554
-DTSTART:20231215T114500Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:8bc1b1c5-73d8-4dd0-82ec-5d56df436708@8bc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бунтов Михаил Юрьевич
-DTEND:20231215T073000Z
-LOCATION:24-529
-DTSTART:20231215T060000Z
-SUMMARY:ЛР Внешнее проектирование авиационных комплексов
-UID:c7810921-81b8-488e-93aa-f6926c507f13@c781.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20230928T113000Z
-LOCATION:24-554
-DTSTART:20230928T100000Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:1fb4d916-9d20-498c-8970-ad088ba2df88@1fb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бунтов Михаил Юрьевич
-DTEND:20231201T073000Z
-LOCATION:24-529
-DTSTART:20231201T060000Z
-SUMMARY:ЛР Внешнее проектирование авиационных комплексов
-UID:d4039560-19f9-42a8-87cb-c0928e6df0fa@d403.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20230920T091500Z
-LOCATION:24-554
-DTSTART:20230920T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:f707e6be-3717-4e5e-9bed-face46487206@f707.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231021T091500Z
-LOCATION:24-525
-DTSTART:20231021T074500Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:0b24004f-3a4b-45b8-bb2a-9eee7787ced6@0b24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231207T091500Z
-LOCATION:24-554
-DTSTART:20231207T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:0358a822-d504-4fc0-a284-0d195b3d47d9@0358.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231110T113000Z
-LOCATION:24-554
-DTSTART:20231110T100000Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:6e216562-f9e2-491f-bfde-0ac061808d03@6e21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231116T113000Z
-LOCATION:24-529
-DTSTART:20231116T100000Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:5bb60d97-f2a0-4e7e-8cca-dff5e655c1cb@5bb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231102T091500Z
-LOCATION:24-554
-DTSTART:20231102T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:9e1a7401-abe3-442a-9e81-6d6e30575696@9e1a.org
+UID:8c85f5fd-4698-4fe3-8d5f-89206347919a@8c85.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ресинец Анатолий Иванович
@@ -167,303 +15,7 @@ DTEND:20231110T091500Z
 LOCATION:--каф.
 DTSTART:20231110T074500Z
 SUMMARY:ЛК Динамика и конструкция вертолета
-UID:ebb6490b-1b65-49ed-9c0b-2657cf415a7c@ebb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20231027T073000Z
-LOCATION:--каф.
-DTSTART:20231027T060000Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:1e7c6a58-027f-477f-817e-2183deb9f759@1e7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20230915T131500Z
-LOCATION:24-554
-DTSTART:20230915T114500Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:363aa587-08e6-4758-91bf-6c83d3cbbae9@363a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231012T113000Z
-LOCATION:24-554
-DTSTART:20231012T100000Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:4049d377-a664-4b8d-8ee2-4ee539e66987@4049.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231129T073000Z
-LOCATION:24-554
-DTSTART:20231129T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:bed00c35-2fd4-494d-82c9-d723073a54db@bed0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231021T073000Z
-LOCATION:24-525
-DTSTART:20231021T060000Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:d0b3fc77-3071-435e-bd79-882e67c05c35@d0b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231204T091500Z
-LOCATION:24-529
-DTSTART:20231204T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:950fdd14-d0b1-4400-84c1-f9a4adeab372@950f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230904T113000Z
-LOCATION:24-529
-DTSTART:20230904T100000Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:a53fd9e4-8365-4e9f-845f-3c4aadee2809@a53f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231101T073000Z
-LOCATION:24-554
-DTSTART:20231101T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:5a8f67bd-c96a-4c24-a06e-38351afe359c@5a8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231124T113000Z
-LOCATION:24-554
-DTSTART:20231124T100000Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:8ec20a63-a1a1-4eee-a36c-a04a0f08a200@8ec2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230913T113000Z
-LOCATION:24-525
-DTSTART:20230913T100000Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:b1a3d253-9297-4678-9894-e4370d2aafac@b1a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231211T113000Z
-LOCATION:24-529
-DTSTART:20231211T100000Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:206cf4ef-b7dc-432b-9f54-cbd3415a9194@206c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231215T113000Z
-LOCATION:24-554
-DTSTART:20231215T100000Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:0f9e4af4-f233-445b-89db-10ec65c3176c@0f9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20230915T073000Z
-LOCATION:--каф.
-DTSTART:20230915T060000Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:56112f1a-6389-432a-85d0-94cc88d95cd1@5611.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231220T113000Z
-LOCATION:24-525
-DTSTART:20231220T100000Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:04e18930-bc5c-403c-9bd7-a1cbaa7414a7@04e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230920T113000Z
-LOCATION:24-525
-DTSTART:20230920T100000Z
-SUMMARY:ЛР Эффективность бортовых авиационных комплексов
-UID:deab6c6d-2bd0-4e64-9fdd-748c1a1433dd@deab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20230925T091500Z
-LOCATION:24-529
-DTSTART:20230925T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:432413ee-f9b8-4b28-a577-701b359824f8@4324.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20230930T091500Z
-LOCATION:24-525
-DTSTART:20230930T074500Z
-SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:1fb861f0-9143-48be-8852-e6c4ea803482@1fb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231030T131500Z
-LOCATION:24-529
-DTSTART:20231030T114500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:fd2d7b53-7b43-4e24-894e-495e76b77d51@fd2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231016T113000Z
-LOCATION:24-529
-DTSTART:20231016T100000Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:f5a0e636-117e-4327-bbf9-68572423b350@f5a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231113T113000Z
-LOCATION:24-529
-DTSTART:20231113T100000Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:d13d1644-2613-4d80-a38e-caf26fe8eefc@d13d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20230929T131500Z
-LOCATION:24-554
-DTSTART:20230929T114500Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:1da8b41d-637b-491c-b4fa-cbfe0089e698@1da8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231027T131500Z
-LOCATION:24-554
-DTSTART:20231027T114500Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:ac0b9234-6635-4293-baa2-553a1e53762f@ac0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231117T113000Z
-LOCATION:24-554
-DTSTART:20231117T100000Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:0f2d1f2f-bfb8-435e-b8bb-61d64e04bf1e@0f2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231118T073000Z
-LOCATION:24-525
-DTSTART:20231118T060000Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:7a15b294-5b8f-48c6-89ce-00fd85d34814@7a15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231002T091500Z
-LOCATION:24-529
-DTSTART:20231002T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:86365b36-c373-44b4-a726-b95cfce5b9de@8636.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231123T073000Z
-LOCATION:24-554
-DTSTART:20231123T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:b34353d2-78a2-41e1-a350-9a7d0f0c4ee7@b343.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230920T131500Z
-LOCATION:24-525
-DTSTART:20230920T114500Z
-SUMMARY:ЛР Эффективность бортовых авиационных комплексов
-UID:266997d0-5f6d-4cde-93bc-da1e5428da61@2669.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20231222T091500Z
-LOCATION:--каф.
-DTSTART:20231222T074500Z
-SUMMARY:ЛР Динамика и конструкция вертолета
-UID:1b239604-dea4-431b-8f2f-22df42d36e67@1b23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20230909T091500Z
-LOCATION:24-525
-DTSTART:20230909T074500Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:8f85c1d3-5b33-4a8d-a4c3-b3684f4701d5@8f85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231110T131500Z
-LOCATION:24-554
-DTSTART:20231110T114500Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:8c78dda6-0d39-4e66-ae8c-aa709eeb1ede@8c78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231222T113000Z
-LOCATION:24-554
-DTSTART:20231222T100000Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:8a88af42-0c0a-495d-bdb0-1017f70c57eb@8a88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231004T131500Z
-LOCATION:24-525
-DTSTART:20231004T114500Z
-SUMMARY:ЛР Эффективность бортовых авиационных комплексов
-UID:9e58c83f-8e9c-4ec0-b364-9ebe426ba210@9e58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231206T113000Z
-LOCATION:24-525
-DTSTART:20231206T100000Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:24d8289f-b12d-4a39-b152-3e64390d6ae2@24d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231004T091500Z
-LOCATION:24-554
-DTSTART:20231004T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:d4ed58ae-9c92-4f26-bf6a-69d2072aa23a@d4ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231211T131500Z
-LOCATION:24-529
-DTSTART:20231211T114500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:1aade17f-58e7-4bdf-b8f3-3803b2eb7432@1aad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20230929T073000Z
-LOCATION:--каф.
-DTSTART:20230929T060000Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:8f2cd862-110f-4752-a8b7-6599f0ee0dd2@8f2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231012T073000Z
-LOCATION:24-554
-DTSTART:20231012T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:c84869e8-9cd4-4eed-a1ae-3b3740ed4526@c848.org
+UID:3bd2ddb4-db43-4814-9264-4a4a7c91f092@3bd2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Берсуцкая Оксана Дмитриевна
@@ -471,311 +23,7 @@ DTEND:20231028T073000Z
 LOCATION:24-525
 DTSTART:20231028T060000Z
 SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:b324f0a1-1eeb-4471-b8a3-402ca8244da4@b324.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231018T091500Z
-LOCATION:24-554
-DTSTART:20231018T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:1d77d6ab-41a6-41dd-aef8-eb7839820d95@1d77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231122T073000Z
-LOCATION:24-554
-DTSTART:20231122T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:9820d0b5-4acf-4dab-a56a-4a33d3fed5c0@9820.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20230904T091500Z
-LOCATION:24-529
-DTSTART:20230904T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:1cd25548-8752-4d85-adab-6048875a92cf@1cd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20230921T073000Z
-LOCATION:24-554
-DTSTART:20230921T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:e7b291df-9d08-4ec0-879d-c861496d836e@e7b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231123T091500Z
-LOCATION:24-554
-DTSTART:20231123T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:8d0c0778-91b4-43b8-b0c7-88d32ccb220d@8d0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231007T073000Z
-LOCATION:24-525
-DTSTART:20231007T060000Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:7351b151-d2ad-432d-8638-7e4baacba0c7@7351.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231124T131500Z
-LOCATION:24-554
-DTSTART:20231124T114500Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:457e11f0-7ad3-47c4-9fdc-9028b01dd144@457e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231127T131500Z
-LOCATION:24-529
-DTSTART:20231127T114500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:93836606-052b-4cc9-aa9d-cee0f9fd68a4@9383.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20230915T113000Z
-LOCATION:24-554
-DTSTART:20230915T100000Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:b2c79d50-ed72-4fe6-bcda-d1ce6c1ad408@b2c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20230916T073000Z
-LOCATION:24-525
-DTSTART:20230916T060000Z
-SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:8110232c-e7a2-4484-b668-bdc3bb335f24@8110.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231005T131500Z
-LOCATION:24-529
-DTSTART:20231005T114500Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:4e23ea4c-cb22-4bf9-9a4c-fb0da0e37664@4e23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231108T091500Z
-LOCATION:24-554
-DTSTART:20231108T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:82b62009-6f78-4744-a8ce-73b8c5a53cee@82b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20231124T091500Z
-LOCATION:--каф.
-DTSTART:20231124T074500Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:6969b1b5-d3c9-4418-b86f-c0588db4ea08@6969.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231130T073000Z
-LOCATION:24-554
-DTSTART:20231130T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:021c0c1f-cb20-4fc6-a2d2-f25bca20df75@021c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231116T091500Z
-LOCATION:24-554
-DTSTART:20231116T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:e79da6ff-2551-4053-90f1-110a2bbace75@e79d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20230929T113000Z
-LOCATION:24-554
-DTSTART:20230929T100000Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:058a849c-d8a9-43d1-838f-c794e4f05547@058a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231014T091500Z
-LOCATION:24-525
-DTSTART:20231014T074500Z
-SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:6cbefa91-21bd-4f98-96ae-55fabae563b6@6cbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20230923T091500Z
-LOCATION:24-525
-DTSTART:20230923T074500Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:48480919-7cf2-4b13-9e0a-f8cd807d4886@4848.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20230911T091500Z
-LOCATION:24-529
-DTSTART:20230911T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:6fc9b25a-c5b6-41d9-8715-9c841252db5d@6fc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231230T091500Z
-LOCATION:24-525
-DTSTART:20231230T074500Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:cd56331b-7601-457a-ac19-cb36ed377ef4@cd56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230918T131500Z
-LOCATION:24-529
-DTSTART:20230918T114500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:2d68d44b-4738-44cf-852d-8a5546974cad@2d68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231020T131500Z
-LOCATION:24-554
-DTSTART:20231020T114500Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:bd895a6d-3287-4810-a64a-8ef4fd1d6dab@bd89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230927T113000Z
-LOCATION:24-525
-DTSTART:20230927T100000Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:903c847e-e25c-477e-b282-9abc5c42e571@903c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231228T091500Z
-LOCATION:24-554
-DTSTART:20231228T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:6da29781-d43e-4824-a3f9-4bda0a24226e@6da2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231019T113000Z
-LOCATION:24-529
-DTSTART:20231019T100000Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:64f97a5b-f61d-4e75-994d-7dd7fb3a8f3c@64f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231115T131500Z
-LOCATION:24-525
-DTSTART:20231115T114500Z
-SUMMARY:ЛР Эффективность бортовых авиационных комплексов
-UID:d86c636e-c870-4d26-9d86-3ddb6814550d@d86c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231123T113000Z
-LOCATION:24-554
-DTSTART:20231123T100000Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:9232b720-e4f5-42bf-bbea-aece5d47a48e@9232.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231011T113000Z
-LOCATION:24-525
-DTSTART:20231011T100000Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:c6509580-5a0c-4f93-9e08-4b90d1f56c9d@c650.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20231013T073000Z
-LOCATION:--каф.
-DTSTART:20231013T060000Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:f67d1c68-8d6c-4a3e-8ef1-ee51a7a95887@f67d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231018T113000Z
-LOCATION:24-525
-DTSTART:20231018T100000Z
-SUMMARY:ЛР Эффективность бортовых авиационных комплексов
-UID:95d15960-c2b0-486e-a213-567ec7f45c79@95d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20230914T073000Z
-LOCATION:24-554
-DTSTART:20230914T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:09f38210-d8d5-4ce5-8a30-b462ef103cc9@09f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20231124T073000Z
-LOCATION:--каф.
-DTSTART:20231124T060000Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:8db40e65-7568-4db4-948e-e157fea05ad3@8db4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231009T091500Z
-LOCATION:24-529
-DTSTART:20231009T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:8128e8f8-beed-4502-bccf-3056c9c04ce7@8128.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231006T113000Z
-LOCATION:24-554
-DTSTART:20231006T100000Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:77a222b4-08aa-45d2-8c6a-e9f186c41ae0@77a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231115T113000Z
-LOCATION:24-525
-DTSTART:20231115T100000Z
-SUMMARY:ЛР Эффективность бортовых авиационных комплексов
-UID:508fda60-288a-4349-ae64-d73c95c0a68a@508f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231228T073000Z
-LOCATION:24-554
-DTSTART:20231228T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:4137d615-8f4c-4892-a4bb-85415ea65e0b@4137.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231109T113000Z
-LOCATION:24-554
-DTSTART:20231109T100000Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:19071c37-e5d0-43d2-bad9-80c64bd345d2@1907.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20231013T091500Z
-LOCATION:--каф.
-DTSTART:20231013T074500Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:a536dad7-6b55-4657-b6bb-8e14cd10c3cd@a536.org
+UID:a23c0498-1941-4248-af82-24fa0a615076@a23c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Петров Виктор Борисович
@@ -783,575 +31,7 @@ DTEND:20231109T091500Z
 LOCATION:24-554
 DTSTART:20231109T074500Z
 SUMMARY:ЛК Системный анализ и исследование операций
-UID:5b42e111-57fb-42ec-873f-3181fac2250b@5b42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231201T113000Z
-LOCATION:24-554
-DTSTART:20231201T100000Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:9c440bfb-a99a-445f-9c02-d15b2bfea586@9c44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231222T131500Z
-LOCATION:24-554
-DTSTART:20231222T114500Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:9f7ca323-fd4b-4a7d-8cbb-cfe49414d85e@9f7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231106T091500Z
-LOCATION:24-529
-DTSTART:20231106T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:37e54180-c281-49ad-bb0c-b391af7ecfe2@37e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бунтов Михаил Юрьевич
-DTEND:20231117T091500Z
-LOCATION:24-529
-DTSTART:20231117T074500Z
-SUMMARY:ЛР Внешнее проектирование авиационных комплексов
-UID:a93d7ced-c18a-431c-818a-4d7b868afe9e@a93d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20230925T113000Z
-LOCATION:24-529
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:3082a511-7ae7-41dd-ad27-d2e9c0b9ba84@3082.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231005T091500Z
-LOCATION:24-554
-DTSTART:20231005T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:650a96f8-6cd4-44a5-9c3f-7343a8e47ca1@650a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231012T091500Z
-LOCATION:24-554
-DTSTART:20231012T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:4637e4fe-e27c-4cca-b7b1-906d0508014e@4637.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231018T073000Z
-LOCATION:24-554
-DTSTART:20231018T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:e3762e0d-f0b3-4473-9a9a-b24210c2f143@e376.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231026T091500Z
-LOCATION:24-554
-DTSTART:20231026T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:8885bc38-d6f1-4935-b473-a49b584f6f46@8885.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231101T131500Z
-LOCATION:24-525
-DTSTART:20231101T114500Z
-SUMMARY:ЛР Эффективность бортовых авиационных комплексов
-UID:7a82ebd2-7e4c-4cf3-b895-4d960d86d13f@7a82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231102T131500Z
-LOCATION:24-529
-DTSTART:20231102T114500Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:07c5e842-e4b9-45a8-a58a-e27b8760e073@07c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231214T073000Z
-LOCATION:24-554
-DTSTART:20231214T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:45e0bb75-b393-4a93-8311-7af0a30bead9@45e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231013T131500Z
-LOCATION:24-554
-DTSTART:20231013T114500Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:3eb530ce-27fb-4069-ae35-5c3d36f83e1d@3eb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20231110T073000Z
-LOCATION:--каф.
-DTSTART:20231110T060000Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:51881405-2db8-4671-bd75-d7f12421fd9d@5188.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20230907T091500Z
-LOCATION:24-554
-DTSTART:20230907T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:23244064-0ffe-41b9-a1a4-bacf9b9478fb@2324.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231016T131500Z
-LOCATION:24-529
-DTSTART:20231016T114500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:9b35ee4a-e461-41c8-a1bf-9f690f83f804@9b35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231108T113000Z
-LOCATION:24-525
-DTSTART:20231108T100000Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:96c829a0-7d96-40a7-9f5c-a16451678e44@96c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231125T073000Z
-LOCATION:24-525
-DTSTART:20231125T060000Z
-SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:3f0e9a8c-2ecb-4473-b3db-7ee06f710953@3f0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231025T091500Z
-LOCATION:24-554
-DTSTART:20231025T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:87910d29-8b32-4d1d-8f84-fdf34fa3c485@8791.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231202T091500Z
-LOCATION:24-525
-DTSTART:20231202T074500Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:34295f94-e4fb-483b-98bf-91b6c032531d@3429.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230921T131500Z
-LOCATION:24-529
-DTSTART:20230921T114500Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:865900ac-abb1-4314-8390-49bd79431ff6@8659.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231023T091500Z
-LOCATION:24-529
-DTSTART:20231023T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:43d80773-23f1-4aef-badd-05f0cc0d2c3e@43d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20230906T091500Z
-LOCATION:24-554
-DTSTART:20230906T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:6b584050-535d-483f-bd2d-ea2e965ec5ea@6b58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230904T131500Z
-LOCATION:24-529
-DTSTART:20230904T114500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:d0745f26-1a69-4ba5-b94d-445ed194def9@d074.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20230922T131500Z
-LOCATION:24-554
-DTSTART:20230922T114500Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:ba16c082-3614-457e-8eb3-38a88474c390@ba16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20230927T091500Z
-LOCATION:24-554
-DTSTART:20230927T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:ec8f3681-f4ab-4d75-b9f9-a73899da2f6b@ec8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20230922T113000Z
-LOCATION:24-554
-DTSTART:20230922T100000Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:6640700e-d1c1-42d8-9df6-8b1ef09ff468@6640.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20230913T073000Z
-LOCATION:24-554
-DTSTART:20230913T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:ea603339-a8f9-4278-84fa-5c9801e0d4f1@ea60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231002T131500Z
-LOCATION:24-529
-DTSTART:20231002T114500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:dd153bbb-07af-4ec8-8835-c7a9f325be3b@dd15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231004T113000Z
-LOCATION:24-525
-DTSTART:20231004T100000Z
-SUMMARY:ЛР Эффективность бортовых авиационных комплексов
-UID:3f9ab2b0-da03-4b04-9261-92b69a26935b@3f9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231216T073000Z
-LOCATION:24-525
-DTSTART:20231216T060000Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:17779e6e-1f4c-46ef-98c4-21ae053fe170@1777.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231030T091500Z
-LOCATION:24-529
-DTSTART:20231030T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:e1da987d-9093-4c06-a0af-727c93760bc5@e1da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231130T131500Z
-LOCATION:24-529
-DTSTART:20231130T114500Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:6d950162-892d-41aa-9192-b33ca6fc5c76@6d95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20230915T091500Z
-LOCATION:--каф.
-DTSTART:20230915T074500Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:7ac31222-a27d-4784-9f84-177a89260cc0@7ac3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231101T113000Z
-LOCATION:24-525
-DTSTART:20231101T100000Z
-SUMMARY:ЛР Эффективность бортовых авиационных комплексов
-UID:368c5b66-ef15-4e23-9228-924afe89357e@368c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230918T113000Z
-LOCATION:24-529
-DTSTART:20230918T100000Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:75cf7feb-00a4-4652-8d4a-4f5d762a17fb@75cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231115T091500Z
-LOCATION:24-554
-DTSTART:20231115T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:a713560c-10d4-4ccc-88a2-a098a821013e@a713.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231011T073000Z
-LOCATION:24-554
-DTSTART:20231011T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:79ed04a9-d09d-486e-8eb6-d3be1edf60d7@79ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бунтов Михаил Юрьевич
-DTEND:20231117T073000Z
-LOCATION:24-529
-DTSTART:20231117T060000Z
-SUMMARY:ЛР Внешнее проектирование авиационных комплексов
-UID:afc9b949-3b0c-4d21-b6f0-d191600f7a62@afc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231011T091500Z
-LOCATION:24-554
-DTSTART:20231011T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:f1948b36-f745-4986-b1e9-c139e08baf24@f194.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231016T091500Z
-LOCATION:24-529
-DTSTART:20231016T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:3b4f8a5b-fbfa-4ea0-abed-abe9fcd5c165@3b4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231214T091500Z
-LOCATION:24-554
-DTSTART:20231214T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:bc92e383-a2a8-44b1-92ac-ae6355a7f866@bc92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20230916T091500Z
-LOCATION:24-525
-DTSTART:20230916T074500Z
-SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:5bf3cdb5-3715-4651-968c-796504f151ee@5bf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20230908T113000Z
-LOCATION:24-554
-DTSTART:20230908T100000Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:ce3e88d2-bc96-426b-9f14-f5224144f2b9@ce3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231116T131500Z
-LOCATION:24-529
-DTSTART:20231116T114500Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:7c0a46b9-18ab-468a-8193-27d794e6e97a@7c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20230901T073000Z
-LOCATION:--каф.
-DTSTART:20230901T060000Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:b6fc9c08-6673-4613-b053-bda4d514d491@b6fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231127T113000Z
-LOCATION:24-529
-DTSTART:20231127T100000Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:a934b1d4-7aba-472a-b437-7eaddac7915f@a934.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231025T073000Z
-LOCATION:24-554
-DTSTART:20231025T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:23cf91c9-f226-4e6e-aa06-54142cd93d83@23cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231211T091500Z
-LOCATION:24-529
-DTSTART:20231211T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:920780db-9731-46eb-8985-b2d8a3b25a55@9207.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20230928T073000Z
-LOCATION:24-554
-DTSTART:20230928T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:0f6f5403-7935-435d-8448-9ac3fe3dac7a@0f6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20230928T091500Z
-LOCATION:24-554
-DTSTART:20230928T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:73f6cf63-faf5-4b20-86a7-8f68eb3f9461@73f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231113T131500Z
-LOCATION:24-529
-DTSTART:20231113T114500Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:43de20ba-82a9-4046-8c1d-2349bf10d231@43de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231018T131500Z
-LOCATION:24-525
-DTSTART:20231018T114500Z
-SUMMARY:ЛР Эффективность бортовых авиационных комплексов
-UID:f61a0d25-4c10-4388-818d-33f9896ff931@f61a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231019T131500Z
-LOCATION:24-529
-DTSTART:20231019T114500Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:888b9b8c-cd2b-475b-b6c6-9f12d45c1a50@888b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231013T113000Z
-LOCATION:24-554
-DTSTART:20231013T100000Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:418d6436-8af6-43f8-ba42-e76b055f88be@418d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231026T113000Z
-LOCATION:24-554
-DTSTART:20231026T100000Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:0c4e8c64-6a70-410e-adf9-4a9d5982efde@0c4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230921T113000Z
-LOCATION:24-529
-DTSTART:20230921T100000Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:d71f0a34-43d5-4c07-a0a5-e5c942e94736@d71f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231118T091500Z
-LOCATION:24-525
-DTSTART:20231118T074500Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:5ac53b24-2cc2-427b-ab2e-9163f8923101@5ac5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231221T073000Z
-LOCATION:24-554
-DTSTART:20231221T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:b4843f5e-acf6-4c73-9417-6fa97bb40fba@b484.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20230923T073000Z
-LOCATION:24-525
-DTSTART:20230923T060000Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:d2a6ac5c-e303-444b-b443-4e1e960f47c5@d2a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20230927T073000Z
-LOCATION:24-554
-DTSTART:20230927T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:14e5d11d-8d85-4a73-a42b-a856771d7c3c@14e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231122T091500Z
-LOCATION:24-554
-DTSTART:20231122T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:d0e65caf-9c9e-40e4-b67f-b15451bec815@d0e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20231208T091500Z
-LOCATION:--каф.
-DTSTART:20231208T074500Z
-SUMMARY:ЛР Динамика и конструкция вертолета
-UID:447153b0-8999-4bc6-ad19-7883d010c03f@4471.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231130T091500Z
-LOCATION:24-554
-DTSTART:20231130T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:147fa86f-2e0d-432e-b5ba-f50a84c3fedc@147f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20230930T073000Z
-LOCATION:24-525
-DTSTART:20230930T060000Z
-SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:8c192d2b-0c3e-4198-ae14-55bd6eea811b@8c19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231027T113000Z
-LOCATION:24-554
-DTSTART:20231027T100000Z
-SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:93dae11e-852e-44b8-9658-115b0bba16f6@93da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230907T131500Z
-LOCATION:24-529
-DTSTART:20230907T114500Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:21a7e123-e413-462b-9af9-c575c7fcf55e@21a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231101T091500Z
-LOCATION:24-554
-DTSTART:20231101T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:374c2598-e6a4-4e28-a7f7-d3c803d2385c@374c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231216T091500Z
-LOCATION:24-525
-DTSTART:20231216T074500Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:5681a494-b8eb-4f29-9ebe-f6e6e88a4671@5681.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бунтов Михаил Юрьевич
-DTEND:20231103T091500Z
-LOCATION:24-529
-DTSTART:20231103T074500Z
-SUMMARY:ЛР Внешнее проектирование авиационных комплексов
-UID:6fb2cfeb-4e01-4656-943f-98df246496a1@6fb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20230907T073000Z
-LOCATION:24-554
-DTSTART:20230907T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:a6c48af3-6656-4298-aa7e-22092e6a6540@a6c4.org
+UID:89f717e5-9a92-43ef-ace1-7f71b4c1817d@89f7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Берсуцкая Оксана Дмитриевна
@@ -1359,63 +39,15 @@ DTEND:20231202T073000Z
 LOCATION:24-525
 DTSTART:20231202T060000Z
 SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:d12e4e2e-dba2-40cf-b00d-dda4fe9b32cf@d12e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20230921T091500Z
-LOCATION:24-554
-DTSTART:20230921T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:8a60d337-0c9e-4c10-a1fd-b2db99912be8@8a60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231102T113000Z
-LOCATION:24-529
-DTSTART:20231102T100000Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:00511ca0-92d0-4adc-bc81-e0076f3ac403@0051.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231005T113000Z
-LOCATION:24-529
-DTSTART:20231005T100000Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:f1dde3e5-0758-4445-a8a4-e96ecb47275b@f1dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20230918T091500Z
-LOCATION:24-529
-DTSTART:20230918T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:57113091-fa45-4af3-9a0c-987a4cf1ed22@5711.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231108T073000Z
-LOCATION:24-554
-DTSTART:20231108T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:840e43f2-024f-457c-a6b7-f88b7f78a080@840e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231201T131500Z
-LOCATION:24-554
-DTSTART:20231201T114500Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:fecde7f2-38a3-459f-ab76-d2043b37a1d7@fecd.org
+UID:c80d6121-a0d9-4942-8441-1ba85005de98@c80d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20231222T073000Z
+DTEND:20231208T091500Z
 LOCATION:--каф.
-DTSTART:20231222T060000Z
+DTSTART:20231208T074500Z
 SUMMARY:ЛР Динамика и конструкция вертолета
-UID:6d9265c3-ca93-410f-8327-623dcb00823f@6d92.org
+UID:e7954c93-a0ef-4334-ba57-cbc0633b7099@e795.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Неретин Евгений Сергеевич
@@ -1423,279 +55,15 @@ DTEND:20231009T113000Z
 LOCATION:24-529
 DTSTART:20231009T100000Z
 SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:67b3f03e-49f7-466d-8d97-12c03b933a53@67b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231019T073000Z
-LOCATION:24-554
-DTSTART:20231019T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:edae9a79-d759-4522-84e8-a5265f18f3e1@edae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20231027T091500Z
-LOCATION:--каф.
-DTSTART:20231027T074500Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:b18ee6dd-36c3-4c81-b6f2-1d1be33451e6@b18e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231005T073000Z
-LOCATION:24-554
-DTSTART:20231005T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:287b52fb-acba-4847-9678-e08e84531661@287b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20230909T073000Z
-LOCATION:24-525
-DTSTART:20230909T060000Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:95fb2dec-e0bf-4d2f-8b04-04209284ee5e@95fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20231208T073000Z
-LOCATION:--каф.
-DTSTART:20231208T060000Z
-SUMMARY:ЛР Динамика и конструкция вертолета
-UID:f5933705-528a-4180-b7e8-5d161da11a0c@f593.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бунтов Михаил Юрьевич
-DTEND:20231103T073000Z
-LOCATION:24-529
-DTSTART:20231103T060000Z
-SUMMARY:ЛР Внешнее проектирование авиационных комплексов
-UID:f216d81f-b992-4de3-bf2c-a0944ece0d12@f216.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231103T131500Z
-LOCATION:24-554
-DTSTART:20231103T114500Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:67019b70-5076-4ec8-b623-3c0963669ff4@6701.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231129T091500Z
-LOCATION:24-554
-DTSTART:20231129T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:8bd7b216-3f58-40b9-bd80-bbe87aaffbd8@8bd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231006T131500Z
-LOCATION:24-554
-DTSTART:20231006T114500Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:18873722-4998-422c-9c73-697c5559b688@1887.org
+UID:c6ce1660-429d-4bfb-99e1-f513097ef2c2@c6ce.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20230911T113000Z
+DTEND:20231218T091500Z
 LOCATION:24-529
-DTSTART:20230911T100000Z
+DTSTART:20231218T074500Z
 SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:d34fb7c2-ca8b-4f35-96f4-520789cfa0ca@d34f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231028T091500Z
-LOCATION:24-525
-DTSTART:20231028T074500Z
-SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:db0a2797-0afa-4c89-97cb-c152f30c2443@db0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231020T113000Z
-LOCATION:24-554
-DTSTART:20231020T100000Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:0c4ef903-a640-4240-b8d7-c91b951b5808@0c4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231230T073000Z
-LOCATION:24-525
-DTSTART:20231230T060000Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:0cfd534c-ef92-4664-ac6d-198c0b0fa8d5@0cfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231002T113000Z
-LOCATION:24-529
-DTSTART:20231002T100000Z
-SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:0fe498a6-b7ef-46ef-ae0c-1084f45fa454@0fe4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20230929T091500Z
-LOCATION:--каф.
-DTSTART:20230929T074500Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:a5fa3ca4-3c3d-4f66-b08c-4cb31c26ec93@a5fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ресинец Анатолий Иванович
-DTEND:20230901T091500Z
-LOCATION:--каф.
-DTSTART:20230901T074500Z
-SUMMARY:ЛК Динамика и конструкция вертолета
-UID:e48811f1-cf88-448f-baa9-61b692f8f08d@e488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20230914T113000Z
-LOCATION:--каф.
-DTSTART:20230914T100000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:def78261-0197-4abe-9010-44b71b2c4fb4@def7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231103T113000Z
-LOCATION:24-554
-DTSTART:20231103T100000Z
-SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:093ec272-1f3d-47c2-b251-8d67e0148f2b@093e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231116T073000Z
-LOCATION:24-554
-DTSTART:20231116T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:38f11d90-8159-4569-866d-4cf346ab7a0c@38f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20230914T091500Z
-LOCATION:24-554
-DTSTART:20230914T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:ddfdd151-f59b-45de-a4aa-480cb47d2896@ddfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20230906T073000Z
-LOCATION:24-554
-DTSTART:20230906T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:0524e3e7-80bd-44e0-9472-a6549bdea974@0524.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231026T073000Z
-LOCATION:24-554
-DTSTART:20231026T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:796a8f73-741d-4cc2-89c0-bbe8973adf6f@796a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231111T073000Z
-LOCATION:24-525
-DTSTART:20231111T060000Z
-SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:dfbad2eb-cbbb-468a-98ea-b9216efbc3d8@dfba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20231122T113000Z
-LOCATION:24-525
-DTSTART:20231122T100000Z
-SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:8ec678cd-251c-4fbe-a71e-7b9ea18f01f5@8ec6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231127T091500Z
-LOCATION:24-529
-DTSTART:20231127T074500Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:36db79b5-fa28-40c3-a611-435ad2d31e09@36db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231023T113000Z
-LOCATION:24-529
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:7a6bf3ad-a427-490e-89d5-4017690a0d4a@7a6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231207T073000Z
-LOCATION:24-554
-DTSTART:20231207T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:99bb79e4-98cb-40c4-b420-48c105e42e2c@99bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дяченко Сергей Александрович
-DTEND:20230907T113000Z
-LOCATION:24-529
-DTSTART:20230907T100000Z
-SUMMARY:ЛР Системный анализ и исследование операций
-UID:51c543ff-0e3c-41ba-819c-b17080d61ba0@51c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231007T091500Z
-LOCATION:24-525
-DTSTART:20231007T074500Z
-SUMMARY:ЛК Моделирование операций авиационных комплексов
-UID:46da3ff8-122c-472d-9748-9dab958364fa@46da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231111T091500Z
-LOCATION:24-525
-DTSTART:20231111T074500Z
-SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:5675c9e4-0e93-4044-8405-7cba59da6b86@5675.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231109T073000Z
-LOCATION:24-554
-DTSTART:20231109T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:f3bc98dc-667a-42af-9ff9-64ea24693e47@f3bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231221T091500Z
-LOCATION:24-554
-DTSTART:20231221T074500Z
-SUMMARY:ЛК Системный анализ и исследование операций
-UID:7f024e25-f3a5-4834-8142-d7239a2c88d9@7f02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Виктор Борисович
-DTEND:20231102T073000Z
-LOCATION:24-554
-DTSTART:20231102T060000Z
-SUMMARY:ЛК Внешнее проектирование авиационных комплексов
-UID:2429e20a-3da3-4b2e-bd63-96c038e64cfe@2429.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20231115T073000Z
-LOCATION:24-554
-DTSTART:20231115T060000Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:4737ab77-3b06-4304-93a4-5137326d05f4@4737.org
+UID:bb6a2460-f578-425a-a180-7b5a12b7d512@bb6a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дяченко Сергей Александрович
@@ -1703,23 +71,135 @@ DTEND:20231030T113000Z
 LOCATION:24-529
 DTSTART:20231030T100000Z
 SUMMARY:ЛР Бортовое оборудование летательных аппаратов
-UID:1264df41-8eeb-49f9-9ee8-05d8405fa60c@1264.org
+UID:98650914-05f6-43e3-86cb-bc0a7c06fd1e@9865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20230927T073000Z
+LOCATION:24-554
+DTSTART:20230927T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:6919cc45-60d9-4746-bd83-069fa896712d@6919.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231211T113000Z
+LOCATION:24-529
+DTSTART:20231211T100000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:3ba5eb48-742d-4953-aa33-bc507f18aefd@3ba5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20230914T113000Z
+LOCATION:--каф.
+DTSTART:20230914T100000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:f5da26fb-cf0c-41e1-8002-263074dc903f@f5da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231116T073000Z
+LOCATION:24-554
+DTSTART:20231116T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:d3f1d48f-7e01-4030-94f5-04463f9f8a54@d3f1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231208T113000Z
+DTEND:20230915T113000Z
 LOCATION:24-554
-DTSTART:20231208T100000Z
+DTSTART:20230915T100000Z
 SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:6c81626e-0a92-483e-becb-673690274221@6c81.org
+UID:c0c58463-e310-479f-846b-f7281a358932@c0c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231020T113000Z
+LOCATION:24-554
+DTSTART:20231020T100000Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:eb0227a1-02fc-4266-804e-49b9b8d86c4d@eb02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231124T113000Z
+LOCATION:24-554
+DTSTART:20231124T100000Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:639ddf5e-ddca-4354-9290-c46848b0a7a7@639d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20231124T091500Z
+LOCATION:--каф.
+DTSTART:20231124T074500Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:b07d6741-aa0e-4369-be96-334bbdcf4765@b07d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Берсуцкая Оксана Дмитриевна
-DTEND:20231014T073000Z
+DTEND:20231216T073000Z
 LOCATION:24-525
-DTSTART:20231014T060000Z
-SUMMARY:ПЗ Моделирование операций авиационных комплексов
-UID:1bec34ca-2f0c-4ba6-8838-878c301d4bda@1bec.org
+DTSTART:20231216T060000Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:69b615ed-02f5-46bf-af49-ad862b80f176@69b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20230928T091500Z
+LOCATION:24-554
+DTSTART:20230928T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:e4dffddf-3946-4b65-91ca-4c2f310493b4@e4df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20231208T073000Z
+LOCATION:--каф.
+DTSTART:20231208T060000Z
+SUMMARY:ЛР Динамика и конструкция вертолета
+UID:ad25cf96-9b9d-4e0b-90e4-69e7a5bcd782@ad25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231026T091500Z
+LOCATION:24-554
+DTSTART:20231026T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:ffe09811-5041-482a-a7fd-aedd25097d37@ffe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20231127T091500Z
+LOCATION:24-529
+DTSTART:20231127T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:34cf960c-339c-41eb-a852-df2c55bb3090@34cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231006T131500Z
+LOCATION:24-554
+DTSTART:20231006T114500Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:650b1f96-6248-4ba8-a789-2e55f79b151d@650b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231110T131500Z
+LOCATION:24-554
+DTSTART:20231110T114500Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:09bec46f-6b0d-47ab-a996-909f8166b634@09be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20230909T091500Z
+LOCATION:24-525
+DTSTART:20230909T074500Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:2cb84783-d209-4233-b9a8-caf6b48afcd6@2cb8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прохоров Михаил Дмитриевич
@@ -1727,39 +207,111 @@ DTEND:20230908T131500Z
 LOCATION:24-554
 DTSTART:20230908T114500Z
 SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:5b17399b-1dc5-44d9-ba64-56e2f31b1910@5b17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Киреев Алексей Алексеевич
-DTEND:20230913T091500Z
-LOCATION:24-554
-DTSTART:20230913T074500Z
-SUMMARY:ЛК Эффективность бортовых авиационных комплексов
-UID:133a357e-afdf-441f-b621-ba505ae78abf@133a.org
+UID:fb933138-b9d8-4fa7-b371-6ab55e69acc1@fb93.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Неретин Евгений Сергеевич
-DTEND:20231113T091500Z
+DTEND:20231204T091500Z
 LOCATION:24-529
-DTSTART:20231113T074500Z
+DTSTART:20231204T074500Z
 SUMMARY:ЛК Бортовое оборудование летательных аппаратов
-UID:194c560a-922b-438a-90c2-e47dc6666954@194c.org
+UID:4f26fd5b-e856-42d2-b068-318fbf09bb7d@4f26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231228T073000Z
+LOCATION:24-554
+DTSTART:20231228T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:b086bc40-2ebd-4f6d-ab67-8e306e88d78b@b086.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231102T113000Z
+LOCATION:24-529
+DTSTART:20231102T100000Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:66ba06b0-a60f-41c6-8363-3a7fdbd36721@66ba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231117T131500Z
+DTEND:20231201T131500Z
 LOCATION:24-554
-DTSTART:20231117T114500Z
+DTSTART:20231201T114500Z
 SUMMARY:ЛР Синтез систем бортовых алгоритмов
-UID:8cfdcaf0-f6f8-47ac-8d1d-d8cc292c2008@8cfd.org
+UID:42aa3e24-f55e-4165-9a50-d88ca3444c07@42aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231005T131500Z
+LOCATION:24-529
+DTSTART:20231005T114500Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:d51e5a66-e1be-4641-9c71-9d3fdecfc6ac@d51e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231214T091500Z
+LOCATION:24-554
+DTSTART:20231214T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:3f71b98b-9934-4ac2-b8f2-1bbf4b2f5f0d@3f71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20231013T073000Z
+LOCATION:--каф.
+DTSTART:20231013T060000Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:9b33ca66-40f4-4c11-85c3-8ed4890304c0@9b33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230921T113000Z
+LOCATION:24-529
+DTSTART:20230921T100000Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:1cd5848d-9cfe-458b-adfc-688b415c8d2b@1cd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231012T113000Z
+LOCATION:24-554
+DTSTART:20231012T100000Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:bd0e7a64-79f2-4607-a134-6d58483359a8@bd0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20230925T113000Z
+LOCATION:24-529
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:07f57071-31e7-48ec-959b-e555bd4a152e@07f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231129T091500Z
+LOCATION:24-554
+DTSTART:20231129T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:abebd4d7-1abc-4fe4-b369-6d11dcd6c0ea@abeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231123T073000Z
+LOCATION:24-554
+DTSTART:20231123T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:af31ce39-c20d-4f92-92b8-5c936d885e91@af31.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прохоров Михаил Дмитриевич
-DTEND:20231208T131500Z
+DTEND:20231013T131500Z
 LOCATION:24-554
-DTSTART:20231208T114500Z
+DTSTART:20231013T114500Z
 SUMMARY:ЛК Синтез систем бортовых алгоритмов
-UID:048529c0-1b21-4692-99ad-d05576d0347b@0485.org
+UID:fffdd364-242e-4aad-94f3-36b8f794bb75@fffd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бунтов Михаил Юрьевич
@@ -1767,7 +319,1383 @@ DTEND:20231201T091500Z
 LOCATION:24-529
 DTSTART:20231201T074500Z
 SUMMARY:ЛР Внешнее проектирование авиационных комплексов
-UID:ef321ffc-262e-4b33-8896-2d981c1f693e@ef32.org
+UID:b340ca48-696d-4283-97a6-9ccd6125c6a6@b340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20230911T091500Z
+LOCATION:24-529
+DTSTART:20230911T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:31ff2e63-08dc-45eb-8bbc-fb1caec4ffa9@31ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231221T073000Z
+LOCATION:24-554
+DTSTART:20231221T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:8d2d5774-d7d6-4acb-8d27-7ee2cccf5824@8d2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20231222T073000Z
+LOCATION:--каф.
+DTSTART:20231222T060000Z
+SUMMARY:ЛР Динамика и конструкция вертолета
+UID:03122a78-8bbb-4321-88dc-526aa9493342@0312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231228T091500Z
+LOCATION:24-554
+DTSTART:20231228T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:14568537-882b-4750-9d6f-8900175cec1d@1456.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20230928T113000Z
+LOCATION:24-554
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:9562b5f1-990b-4d41-b288-985c5cc5108e@9562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231007T073000Z
+LOCATION:24-525
+DTSTART:20231007T060000Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:06dd84a4-4fb9-4a33-ae30-10c38d904e14@06dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231019T091500Z
+LOCATION:24-554
+DTSTART:20231019T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:748771f7-7528-40b9-a1df-1fb2dc028c9c@7487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231026T073000Z
+LOCATION:24-554
+DTSTART:20231026T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:5426561d-7ce0-4abc-9135-af72c594ea0b@5426.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231005T113000Z
+LOCATION:24-529
+DTSTART:20231005T100000Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:6b799a83-c88c-4415-a318-29b8ae4d563c@6b79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231110T113000Z
+LOCATION:24-554
+DTSTART:20231110T100000Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:9a6d8711-e545-47cb-8335-2daa205eedd4@9a6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20230922T131500Z
+LOCATION:24-554
+DTSTART:20230922T114500Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:1b1302e9-3c2a-458e-8640-ceee444e3903@1b13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20230901T091500Z
+LOCATION:--каф.
+DTSTART:20230901T074500Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:a8df2bdc-1607-4851-806e-05e75af97749@a8df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231207T091500Z
+LOCATION:24-554
+DTSTART:20231207T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:ca5c2050-aade-4512-9eae-d6d704ac845a@ca5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231214T073000Z
+LOCATION:24-554
+DTSTART:20231214T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:47ba87e8-db88-4d2a-bd8d-063493641cc1@47ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231103T131500Z
+LOCATION:24-554
+DTSTART:20231103T114500Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:ebd150e1-e867-4c91-83c9-76185eebe036@ebd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20230913T073000Z
+LOCATION:24-554
+DTSTART:20230913T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:2dc1534a-030a-420e-9249-6123fd94f1c8@2dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231030T131500Z
+LOCATION:24-529
+DTSTART:20231030T114500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:aecbde4f-25f2-4149-a076-d6caebbe045f@aecb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20231023T091500Z
+LOCATION:24-529
+DTSTART:20231023T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:5d3c3f3c-88f0-4e12-9d1a-bbc1c0bcb478@5d3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20230930T091500Z
+LOCATION:24-525
+DTSTART:20230930T074500Z
+SUMMARY:ПЗ Моделирование операций авиационных комплексов
+UID:8d60b83e-13e2-46ee-b3aa-bb58e4b598d1@8d60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231130T113000Z
+LOCATION:24-529
+DTSTART:20231130T100000Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:b1797bc8-6864-4b7b-b66d-a9cf855104cb@b179.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231118T091500Z
+LOCATION:24-525
+DTSTART:20231118T074500Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:e4a98589-499d-4c35-b134-814d3a311363@e4a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20230929T091500Z
+LOCATION:--каф.
+DTSTART:20230929T074500Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:403790cc-37bb-465b-b617-93afe6c0f17e@4037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231115T091500Z
+LOCATION:24-554
+DTSTART:20231115T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:70112e1b-efaa-4326-a9cf-aa3f3c62fe2c@7011.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20230907T073000Z
+LOCATION:24-554
+DTSTART:20230907T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:396be1a3-91f6-494a-9a0a-d617eff23099@396b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230904T113000Z
+LOCATION:24-529
+DTSTART:20230904T100000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:c4dcb5dc-c4ba-4592-b063-48cb7de06e0e@c4dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231020T131500Z
+LOCATION:24-554
+DTSTART:20231020T114500Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:293d9711-02e2-4eb6-bde1-4feaa853873c@293d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231025T073000Z
+LOCATION:24-554
+DTSTART:20231025T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:28dcdffc-2314-4174-8422-655008372615@28dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230920T113000Z
+LOCATION:24-525
+DTSTART:20230920T100000Z
+SUMMARY:ЛР Эффективность бортовых авиационных комплексов
+UID:09615777-7ae1-4e16-9d79-7bf23de4a4f4@0961.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231018T113000Z
+LOCATION:24-525
+DTSTART:20231018T100000Z
+SUMMARY:ЛР Эффективность бортовых авиационных комплексов
+UID:db858afd-b707-4ae2-947d-451499bf442f@db85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231108T073000Z
+LOCATION:24-554
+DTSTART:20231108T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:c8972f7d-d24f-4734-b22b-162f3156f823@c897.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231007T091500Z
+LOCATION:24-525
+DTSTART:20231007T074500Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:2d60e128-e06f-4470-b18b-0a7573a605a8@2d60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231208T131500Z
+LOCATION:24-554
+DTSTART:20231208T114500Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:4e9549b1-568d-4390-a4e5-485f795ed964@4e95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231103T113000Z
+LOCATION:24-554
+DTSTART:20231103T100000Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:f4f592c0-ba63-4e08-ae07-58495b3ed728@f4f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231014T091500Z
+LOCATION:24-525
+DTSTART:20231014T074500Z
+SUMMARY:ПЗ Моделирование операций авиационных комплексов
+UID:ab6efd84-3ed3-4cc6-bb8b-aec7d7463f1f@ab6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20230901T131500Z
+LOCATION:24-554
+DTSTART:20230901T114500Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:d4da67ab-707d-437b-85a7-cbf9d70264fc@d4da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20230904T091500Z
+LOCATION:24-529
+DTSTART:20230904T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:87c79f53-a26b-4cb2-9934-5e78bf73a2d1@87c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20230915T131500Z
+LOCATION:24-554
+DTSTART:20230915T114500Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:b6956bb6-dd83-4216-bfc2-78b11ca1b000@b695.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231004T091500Z
+LOCATION:24-554
+DTSTART:20231004T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:dfc23c84-3662-4e9c-bc75-9af2815da0c9@dfc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231018T073000Z
+LOCATION:24-554
+DTSTART:20231018T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:e74c0eee-7651-45bd-aad7-82956ad9e4d4@e74c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231109T113000Z
+LOCATION:24-554
+DTSTART:20231109T100000Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:3bd16f48-4df4-488a-a18e-f05a757a3173@3bd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20230920T073000Z
+LOCATION:24-554
+DTSTART:20230920T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:809c5982-9a6e-474d-8781-7ed8d43a9944@809c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231004T131500Z
+LOCATION:24-525
+DTSTART:20231004T114500Z
+SUMMARY:ЛР Эффективность бортовых авиационных комплексов
+UID:c758cd12-de1f-4af2-a1c1-b474504d2b05@c758.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231013T113000Z
+LOCATION:24-554
+DTSTART:20231013T100000Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:d35fe408-d61b-4d6c-8c7e-2c85d7d465f4@d35f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20230915T073000Z
+LOCATION:--каф.
+DTSTART:20230915T060000Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:47829c43-bfbd-490c-a7f9-79531c8da35e@4782.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231122T073000Z
+LOCATION:24-554
+DTSTART:20231122T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:c4e76cc6-ed41-4df8-8d91-0fa0a1538189@c4e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20230921T091500Z
+LOCATION:24-554
+DTSTART:20230921T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:93de0a2a-c418-4c77-9cc5-fac8dca1c960@93de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231101T073000Z
+LOCATION:24-554
+DTSTART:20231101T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:446a8c5f-dbd1-4d80-8eb5-3778259b955d@446a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231101T091500Z
+LOCATION:24-554
+DTSTART:20231101T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:2a953d02-60eb-422b-8df4-c2b9bdc4c8be@2a95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20230922T113000Z
+LOCATION:24-554
+DTSTART:20230922T100000Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:0ef78e3c-c807-42d7-9885-c2363743aa92@0ef7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20231113T091500Z
+LOCATION:24-529
+DTSTART:20231113T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:b850493e-a452-4edd-abf0-0980af0d0241@b850.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231002T113000Z
+LOCATION:24-529
+DTSTART:20231002T100000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:ed378254-fe9f-43fd-baac-039f4de6311f@ed37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бунтов Михаил Юрьевич
+DTEND:20231201T073000Z
+LOCATION:24-529
+DTSTART:20231201T060000Z
+SUMMARY:ЛР Внешнее проектирование авиационных комплексов
+UID:ad58f66d-8a03-4291-95f6-ccd545f59c6a@ad58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231116T131500Z
+LOCATION:24-529
+DTSTART:20231116T114500Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:b68127c3-2725-434a-a1af-a42220c352f0@b681.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231101T131500Z
+LOCATION:24-525
+DTSTART:20231101T114500Z
+SUMMARY:ЛР Эффективность бортовых авиационных комплексов
+UID:4af9c338-c5ad-459d-bf16-797c043fc01b@4af9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20230930T073000Z
+LOCATION:24-525
+DTSTART:20230930T060000Z
+SUMMARY:ПЗ Моделирование операций авиационных комплексов
+UID:05ad64b7-e488-41fe-af4c-f58fd5368c82@05ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231202T091500Z
+LOCATION:24-525
+DTSTART:20231202T074500Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:606bce04-d125-4f24-bf86-e14db42b48cf@606b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20231027T073000Z
+LOCATION:--каф.
+DTSTART:20231027T060000Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:6653fb7f-0522-4b6e-a306-49c71d440ac5@6653.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231004T113000Z
+LOCATION:24-525
+DTSTART:20231004T100000Z
+SUMMARY:ЛР Эффективность бортовых авиационных комплексов
+UID:0359cfb2-a6fe-42cb-9d35-1784e8aed7f5@0359.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231021T091500Z
+LOCATION:24-525
+DTSTART:20231021T074500Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:ff2b9e2f-9d9a-4ca1-9aeb-468f5c847b5e@ff2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20231120T091500Z
+LOCATION:24-529
+DTSTART:20231120T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:48bd67dd-340e-4954-ba91-87d9bf80bc26@48bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231222T131500Z
+LOCATION:24-554
+DTSTART:20231222T114500Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:08674009-d58f-4fa0-b014-9fb5661266c3@0867.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231028T091500Z
+LOCATION:24-525
+DTSTART:20231028T074500Z
+SUMMARY:ПЗ Моделирование операций авиационных комплексов
+UID:9dcfa915-508b-43b7-8fae-6bcab3099e64@9dcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231113T113000Z
+LOCATION:24-529
+DTSTART:20231113T100000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:4ac96311-b3f9-4afb-acf6-e5394c558304@4ac9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бунтов Михаил Юрьевич
+DTEND:20231117T073000Z
+LOCATION:24-529
+DTSTART:20231117T060000Z
+SUMMARY:ЛР Внешнее проектирование авиационных комплексов
+UID:b6cbd309-9166-4ddb-bad5-e07f8d1b4dc5@b6cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231018T131500Z
+LOCATION:24-525
+DTSTART:20231018T114500Z
+SUMMARY:ЛР Эффективность бортовых авиационных комплексов
+UID:e9caa131-a2ee-46ab-b486-8a411dee70e0@e9ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20230911T113000Z
+LOCATION:24-529
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:2ad4bc9d-6870-4fa4-a917-44b86b8a7291@2ad4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231124T131500Z
+LOCATION:24-554
+DTSTART:20231124T114500Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:37867136-be0f-48ef-a3da-aa55042b88a3@3786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231127T113000Z
+LOCATION:24-529
+DTSTART:20231127T100000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:a0177f9c-6d46-4dfb-9ae1-3db944d0b600@a017.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231115T113000Z
+LOCATION:24-525
+DTSTART:20231115T100000Z
+SUMMARY:ЛР Эффективность бортовых авиационных комплексов
+UID:5b5213e0-6cf2-44bd-bc76-d1b1ada3c608@5b52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20230907T091500Z
+LOCATION:24-554
+DTSTART:20230907T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:b4067cf9-aec7-422a-9826-1720a9cae40c@b406.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231025T091500Z
+LOCATION:24-554
+DTSTART:20231025T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:1f281eb5-5cdc-446e-b444-e903e09ef24e@1f28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231101T113000Z
+LOCATION:24-525
+DTSTART:20231101T100000Z
+SUMMARY:ЛР Эффективность бортовых авиационных комплексов
+UID:cba659f1-1ffa-447c-82c0-5bbd600dd7c2@cba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20230927T091500Z
+LOCATION:24-554
+DTSTART:20230927T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:02c8fd2e-5541-4dd6-aaae-850b231e9956@02c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231130T073000Z
+LOCATION:24-554
+DTSTART:20231130T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:24c56e13-503d-4b6f-a5e7-db9df9fd6a33@24c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20230925T091500Z
+LOCATION:24-529
+DTSTART:20230925T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:cc349024-b4d9-4359-a383-26ecabca3039@cc34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231201T113000Z
+LOCATION:24-554
+DTSTART:20231201T100000Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:005329ff-1304-414b-8b0a-4852a0f35f2e@0053.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231230T073000Z
+LOCATION:24-525
+DTSTART:20231230T060000Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:fd0ca2fb-0874-4b3b-bc1c-06597d864e4f@fd0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20231009T091500Z
+LOCATION:24-529
+DTSTART:20231009T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:9f432cae-bb3c-4b8a-bf07-ae37211803da@9f43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231006T113000Z
+LOCATION:24-554
+DTSTART:20231006T100000Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:d86fd93b-91a3-4bf2-899b-3a7f3923b900@d86f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231117T113000Z
+LOCATION:24-554
+DTSTART:20231117T100000Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:d4ecc240-b70a-46f1-b9ea-102d351894bb@d4ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бунтов Михаил Юрьевич
+DTEND:20231215T073000Z
+LOCATION:24-529
+DTSTART:20231215T060000Z
+SUMMARY:ЛР Внешнее проектирование авиационных комплексов
+UID:5cee99a3-6d26-4fc1-b2c0-acf5258e780a@5cee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230918T113000Z
+LOCATION:24-529
+DTSTART:20230918T100000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:eb14c6fa-9197-4199-82a2-22e68ee363ab@eb14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231211T131500Z
+LOCATION:24-529
+DTSTART:20231211T114500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:d0688c76-5a4c-41ea-bb9c-ec90ade938bb@d068.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20230929T073000Z
+LOCATION:--каф.
+DTSTART:20230929T060000Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:46d02d2d-173d-493b-9f2d-dc70cc404234@46d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231012T073000Z
+LOCATION:24-554
+DTSTART:20231012T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:cb85be94-bf4d-42b3-87e0-58e492fa4f3e@cb85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20231002T091500Z
+LOCATION:24-529
+DTSTART:20231002T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:c0a31477-f0d8-487e-939e-3fd3772ed166@c0a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231004T073000Z
+LOCATION:24-554
+DTSTART:20231004T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:03dd05b2-e810-4712-88f1-a2d596f39e1d@03dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231005T091500Z
+LOCATION:24-554
+DTSTART:20231005T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:dc28e8a3-5034-4d00-8345-9221c40d038a@dc28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бунтов Михаил Юрьевич
+DTEND:20231215T091500Z
+LOCATION:24-529
+DTSTART:20231215T074500Z
+SUMMARY:ЛР Внешнее проектирование авиационных комплексов
+UID:0149170a-8e7f-41ba-a815-7bde213cc4ab@0149.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230904T131500Z
+LOCATION:24-529
+DTSTART:20230904T114500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:4a9cd4a0-535f-486c-9f9a-0b334f801a34@4a9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231026T113000Z
+LOCATION:24-554
+DTSTART:20231026T100000Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:03a4316c-071d-4734-b0a8-3c06289c48cf@03a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231027T113000Z
+LOCATION:24-554
+DTSTART:20231027T100000Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:a91d014d-64cd-468e-9db7-de1480b94301@a91d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20230929T113000Z
+LOCATION:24-554
+DTSTART:20230929T100000Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:7a4b2550-a366-461b-b5b4-52f586702da8@7a4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20231023T113000Z
+LOCATION:24-529
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:ded41316-2c3a-4f52-b91b-7a636976288a@ded4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231011T073000Z
+LOCATION:24-554
+DTSTART:20231011T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:65c3b84e-8781-4f0c-bb39-bb0459d68eb7@65c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231012T091500Z
+LOCATION:24-554
+DTSTART:20231012T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:7b170603-83d3-4586-a2c4-a4a880c67bbd@7b17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231123T091500Z
+LOCATION:24-554
+DTSTART:20231123T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:089ecbe2-abba-46bd-9e14-3cdf79b6c99d@089e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20230915T091500Z
+LOCATION:--каф.
+DTSTART:20230915T074500Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:d0ebbfee-1d51-438e-9622-5750bda0bab9@d0eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20230913T091500Z
+LOCATION:24-554
+DTSTART:20230913T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:ea548bc9-4cf1-4484-b3f9-157ca3d496cb@ea54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20230901T073000Z
+LOCATION:--каф.
+DTSTART:20230901T060000Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:42ac5009-32cc-4985-9e78-0926960aeb11@42ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20231016T091500Z
+LOCATION:24-529
+DTSTART:20231016T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:c19c1a9b-0f7d-492b-9113-c00a2b3d0f90@c19c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231002T131500Z
+LOCATION:24-529
+DTSTART:20231002T114500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:ce573257-7426-42bd-bbf7-1efa4b7539fc@ce57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20230909T073000Z
+LOCATION:24-525
+DTSTART:20230909T060000Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:d28fb2e7-c20c-4350-94fe-4467a0aee59e@d28f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231102T131500Z
+LOCATION:24-529
+DTSTART:20231102T114500Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:5096fd12-e7f3-4b1d-8d40-27d460841a09@5096.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231019T073000Z
+LOCATION:24-554
+DTSTART:20231019T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:1a5f0b9b-3130-4bec-91b3-186ea1fe202d@1a5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231108T113000Z
+LOCATION:24-525
+DTSTART:20231108T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:fc9d8bce-1718-4bbb-af44-56d8c083b4c5@fc9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20231013T091500Z
+LOCATION:--каф.
+DTSTART:20231013T074500Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:21866229-980c-4196-8513-739846e59c45@2186.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20230929T131500Z
+LOCATION:24-554
+DTSTART:20230929T114500Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:c7cebf7e-931b-4504-a573-19b55b717dfa@c7ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231111T073000Z
+LOCATION:24-525
+DTSTART:20231111T060000Z
+SUMMARY:ПЗ Моделирование операций авиационных комплексов
+UID:de83a3b8-1546-48ac-88c3-68bf483ce4ea@de83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230913T113000Z
+LOCATION:24-525
+DTSTART:20230913T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:81a1a342-a81b-4333-bf59-5288b2a584db@81a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231005T073000Z
+LOCATION:24-554
+DTSTART:20231005T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:29930e90-0b1a-46e9-b643-f0429ce8361b@2993.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231115T131500Z
+LOCATION:24-525
+DTSTART:20231115T114500Z
+SUMMARY:ЛР Эффективность бортовых авиационных комплексов
+UID:a1ed3ee2-69dd-4f84-a9da-0eca6bbbe83e@a1ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20230923T091500Z
+LOCATION:24-525
+DTSTART:20230923T074500Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:71bfc152-4c6e-4ae4-abc4-19bc284f727a@71bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231102T073000Z
+LOCATION:24-554
+DTSTART:20231102T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:10f8c13c-0b8e-4bef-8283-f9cb8818f8f6@10f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231118T073000Z
+LOCATION:24-525
+DTSTART:20231118T060000Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:b24dd2a9-85e6-40c7-a985-377c0518a210@b24d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231014T073000Z
+LOCATION:24-525
+DTSTART:20231014T060000Z
+SUMMARY:ПЗ Моделирование операций авиационных комплексов
+UID:0b48e06f-9c60-444c-b5d7-7bf71a4a827a@0b48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230918T131500Z
+LOCATION:24-529
+DTSTART:20230918T114500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:4e83810c-94a7-4164-95a1-c06f2cd2cd7a@4e83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20230916T091500Z
+LOCATION:24-525
+DTSTART:20230916T074500Z
+SUMMARY:ПЗ Моделирование операций авиационных комплексов
+UID:fd8d108a-474b-4bfb-a256-6b85066a5429@fd8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231125T091500Z
+LOCATION:24-525
+DTSTART:20231125T074500Z
+SUMMARY:ПЗ Моделирование операций авиационных комплексов
+UID:ec29d1bc-915f-4403-a06c-db46d369f1b5@ec29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20230908T113000Z
+LOCATION:24-554
+DTSTART:20230908T100000Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:acd27574-d39d-451a-8408-473e3e944df2@acd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231206T113000Z
+LOCATION:24-525
+DTSTART:20231206T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:907cbf5a-f4a8-4f5b-ad7f-89e37c9b3982@907c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231129T073000Z
+LOCATION:24-554
+DTSTART:20231129T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:6675b849-f6cb-4e85-bf20-1a4b69648222@6675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231208T113000Z
+LOCATION:24-554
+DTSTART:20231208T100000Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:eaab9701-b984-47b9-b103-86dec5c09ffb@eaab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231021T073000Z
+LOCATION:24-525
+DTSTART:20231021T060000Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:2f0b0c24-58f6-4008-97c6-d9f0833d55d6@2f0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20230918T091500Z
+LOCATION:24-529
+DTSTART:20230918T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:628364dd-9029-4d9a-a3e8-160d72b16b1f@6283.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230920T131500Z
+LOCATION:24-525
+DTSTART:20230920T114500Z
+SUMMARY:ЛР Эффективность бортовых авиационных комплексов
+UID:88745d01-3bc0-49a7-ba54-06e1824ef3b0@8874.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бунтов Михаил Юрьевич
+DTEND:20231103T091500Z
+LOCATION:24-529
+DTSTART:20231103T074500Z
+SUMMARY:ЛР Внешнее проектирование авиационных комплексов
+UID:3ecb05cb-030f-4faa-9309-f4efd20ad1ce@3ecb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20231030T091500Z
+LOCATION:24-529
+DTSTART:20231030T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:408d4ebb-53b5-452b-adb4-1ecc718b7f61@408d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231221T091500Z
+LOCATION:24-554
+DTSTART:20231221T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:c2c983cb-f6b9-4b74-af97-4d35c5d7a55b@c2c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231108T091500Z
+LOCATION:24-554
+DTSTART:20231108T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:9b6ea21a-b31d-4b0d-a34c-632ee40f1bca@9b6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бунтов Михаил Юрьевич
+DTEND:20231103T073000Z
+LOCATION:24-529
+DTSTART:20231103T060000Z
+SUMMARY:ЛР Внешнее проектирование авиационных комплексов
+UID:d7661f2f-fc3d-4fa8-a387-6b7c4f914329@d766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231130T131500Z
+LOCATION:24-529
+DTSTART:20231130T114500Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:12b3e6ff-cfd3-4177-87bb-a8fa8da74a8a@12b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231127T131500Z
+LOCATION:24-529
+DTSTART:20231127T114500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:ddcd9b14-f116-40c2-871b-8532a52ac7a2@ddcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231122T113000Z
+LOCATION:24-525
+DTSTART:20231122T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:374897d7-0076-485f-ab6a-07f4c93412ec@3748.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20231222T091500Z
+LOCATION:--каф.
+DTSTART:20231222T074500Z
+SUMMARY:ЛР Динамика и конструкция вертолета
+UID:477ec3da-8a4d-4aec-8d0a-084e521ed294@477e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20231124T073000Z
+LOCATION:--каф.
+DTSTART:20231124T060000Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:1c0e7f66-19fe-4f3b-874b-139edde28441@1c0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20230923T073000Z
+LOCATION:24-525
+DTSTART:20230923T060000Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:2ecc11f3-f02f-4908-a7b8-eaccf602b38e@2ecc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231123T113000Z
+LOCATION:24-554
+DTSTART:20231123T100000Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:14cf2096-75dc-4adb-978f-39a06fc9d0fe@14cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20230920T091500Z
+LOCATION:24-554
+DTSTART:20230920T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:2960b6f8-58f6-42a3-be02-13429c321ae3@2960.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20231110T073000Z
+LOCATION:--каф.
+DTSTART:20231110T060000Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:0a436cab-f515-4ce1-83ae-1766ebe4bded@0a43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бунтов Михаил Юрьевич
+DTEND:20231117T091500Z
+LOCATION:24-529
+DTSTART:20231117T074500Z
+SUMMARY:ЛР Внешнее проектирование авиационных комплексов
+UID:2b08c41b-3984-493c-ae86-c3a4bf70b3ec@2b08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20230901T113000Z
+LOCATION:24-554
+DTSTART:20230901T100000Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:170a207e-5d10-4438-a1de-ad8b2d22369c@170a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20230914T091500Z
+LOCATION:24-554
+DTSTART:20230914T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:21669754-4ec6-45f8-9dd7-aa1e431a188a@2166.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20230916T073000Z
+LOCATION:24-525
+DTSTART:20230916T060000Z
+SUMMARY:ПЗ Моделирование операций авиационных комплексов
+UID:767eb2ba-5f35-46b7-b2d1-c58a71a30cab@767e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ресинец Анатолий Иванович
+DTEND:20231027T091500Z
+LOCATION:--каф.
+DTSTART:20231027T074500Z
+SUMMARY:ЛК Динамика и конструкция вертолета
+UID:290b5109-ac42-4815-b5a4-cb2aa4cb6fd8@290b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231109T073000Z
+LOCATION:24-554
+DTSTART:20231109T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:baccafce-a22d-4fc2-9812-dc5f93d526f2@bacc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231130T091500Z
+LOCATION:24-554
+DTSTART:20231130T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:40225c34-32e8-4c90-80c1-0640d2066a5c@4022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231230T091500Z
+LOCATION:24-525
+DTSTART:20231230T074500Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:3dd22aac-df03-4ddf-a05b-1ce0719404a4@3dd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230907T113000Z
+LOCATION:24-529
+DTSTART:20230907T100000Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:64ef9458-d12e-4310-810f-be36bd621614@64ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231215T113000Z
+LOCATION:24-554
+DTSTART:20231215T100000Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:db04afe3-be8a-48ef-9db9-5cab5564f745@db04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231216T091500Z
+LOCATION:24-525
+DTSTART:20231216T074500Z
+SUMMARY:ЛК Моделирование операций авиационных комплексов
+UID:f372d70c-c830-40d2-a713-28b8b1c5d6b3@f372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231116T091500Z
+LOCATION:24-554
+DTSTART:20231116T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:423e722f-b711-42d3-add5-1c37af3a0396@423e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231215T131500Z
+LOCATION:24-554
+DTSTART:20231215T114500Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:adbc2618-0306-4382-b8e7-c3c5b99a66b8@adbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231220T113000Z
+LOCATION:24-525
+DTSTART:20231220T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:c3315f20-17b1-48fa-a5fc-7212d43e20c6@c331.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20231106T091500Z
+LOCATION:24-529
+DTSTART:20231106T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:ce52fd7a-8258-481b-b083-c41432449283@ce52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231011T113000Z
+LOCATION:24-525
+DTSTART:20231011T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:3437f43a-9439-4b05-8c55-68ba7116b14a@3437.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231115T073000Z
+LOCATION:24-554
+DTSTART:20231115T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:c290a233-650f-4cd4-be97-381bc5134c90@c290.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231222T113000Z
+LOCATION:24-554
+DTSTART:20231222T100000Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:c3c082de-bacc-4de6-a2a9-3b718eac3543@c3c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Неретин Евгений Сергеевич
+DTEND:20231211T091500Z
+LOCATION:24-529
+DTSTART:20231211T074500Z
+SUMMARY:ЛК Бортовое оборудование летательных аппаратов
+UID:28e853ff-5a57-4424-a7ed-829d50c8251b@28e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20230906T091500Z
+LOCATION:24-554
+DTSTART:20230906T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:a25b4355-4051-4118-9e1c-8eac349b47d8@a25b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20230906T073000Z
+LOCATION:24-554
+DTSTART:20230906T060000Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:0c24f886-8b2e-41c1-9f3a-ae8227a4cc5f@0c24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20230914T073000Z
+LOCATION:24-554
+DTSTART:20230914T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:99ddc35d-7c48-4722-9607-a356c10415fb@99dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231027T131500Z
+LOCATION:24-554
+DTSTART:20231027T114500Z
+SUMMARY:ЛК Синтез систем бортовых алгоритмов
+UID:7e686c44-d548-4eb8-a249-e3b7ef9a0c5e@7e68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231102T091500Z
+LOCATION:24-554
+DTSTART:20231102T074500Z
+SUMMARY:ЛК Системный анализ и исследование операций
+UID:cc245e45-8ad2-4c85-b38f-c6ca3bfce225@cc24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Михаил Дмитриевич
+DTEND:20231117T131500Z
+LOCATION:24-554
+DTSTART:20231117T114500Z
+SUMMARY:ЛР Синтез систем бортовых алгоритмов
+UID:482f23b9-7d47-4e3d-b222-c168ad4e2f2d@482f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20231207T073000Z
+LOCATION:24-554
+DTSTART:20231207T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:0c1fa2d6-07b8-4058-8af8-bb0ff5fa957b@0c1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230907T131500Z
+LOCATION:24-529
+DTSTART:20230907T114500Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:78e1ebfa-8360-431e-bc55-31e6705f1ccf@78e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231019T113000Z
+LOCATION:24-529
+DTSTART:20231019T100000Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:52141d11-b05c-4b3b-82fc-27527dbdb2dd@5214.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231111T091500Z
+LOCATION:24-525
+DTSTART:20231111T074500Z
+SUMMARY:ПЗ Моделирование операций авиационных комплексов
+UID:4c0b1572-ab5c-406d-8752-be47334c5721@4c0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20230921T073000Z
+LOCATION:24-554
+DTSTART:20230921T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:582d62f0-06a4-4075-9a53-afeafd0c9cb6@582d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231018T091500Z
+LOCATION:24-554
+DTSTART:20231018T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:5cfb2617-5ead-4de6-b0a7-8ed9f501c915@5cfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Берсуцкая Оксана Дмитриевна
+DTEND:20231125T073000Z
+LOCATION:24-525
+DTSTART:20231125T060000Z
+SUMMARY:ПЗ Моделирование операций авиационных комплексов
+UID:2ed089dc-daf0-4104-bbc6-7c4c7af2c33c@2ed0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дяченко Сергей Александрович
@@ -1775,6 +1703,78 @@ DTEND:20231025T113000Z
 LOCATION:24-525
 DTSTART:20231025T100000Z
 SUMMARY:ПЗ Учебно-исследовательская работа студентов
-UID:34dc42d5-09db-406e-9c98-6ee334be2673@34dc.org
+UID:d3baf1ed-94d3-4edc-9502-a4ee43dc1f6f@d3ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Виктор Борисович
+DTEND:20230928T073000Z
+LOCATION:24-554
+DTSTART:20230928T060000Z
+SUMMARY:ЛК Внешнее проектирование авиационных комплексов
+UID:66f7862d-90f7-4974-9870-89857bc1a74e@66f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231113T131500Z
+LOCATION:24-529
+DTSTART:20231113T114500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:11b15a81-e2b0-4e0c-a8e1-e2059e8accdc@11b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231122T091500Z
+LOCATION:24-554
+DTSTART:20231122T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:d6a1eaac-7898-4c96-a75b-12b1eff51724@d6a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231016T131500Z
+LOCATION:24-529
+DTSTART:20231016T114500Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:ad834618-7885-443d-a698-dadb91442642@ad83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Киреев Алексей Алексеевич
+DTEND:20231011T091500Z
+LOCATION:24-554
+DTSTART:20231011T074500Z
+SUMMARY:ЛК Эффективность бортовых авиационных комплексов
+UID:a4e817aa-4e55-40c4-a18f-e002caee4869@a4e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231116T113000Z
+LOCATION:24-529
+DTSTART:20231116T100000Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:cb0af2fe-303e-40e8-a392-6ff0fa9ef924@cb0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230921T131500Z
+LOCATION:24-529
+DTSTART:20230921T114500Z
+SUMMARY:ЛР Системный анализ и исследование операций
+UID:a2860e95-054c-4719-bfcf-f38872722108@a286.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20231016T113000Z
+LOCATION:24-529
+DTSTART:20231016T100000Z
+SUMMARY:ЛР Бортовое оборудование летательных аппаратов
+UID:9caad8d5-4380-47bd-9ac3-e779d60cb10e@9caa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дяченко Сергей Александрович
+DTEND:20230927T113000Z
+LOCATION:24-525
+DTSTART:20230927T100000Z
+SUMMARY:ПЗ Учебно-исследовательская работа студентов
+UID:538dd393-55ae-4ff1-9f1b-012bee702cc9@538d.org
 END:VEVENT
 END:VCALENDAR

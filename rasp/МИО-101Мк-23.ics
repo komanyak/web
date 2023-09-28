@@ -2,332 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20230906T183000Z
-LOCATION:5-306
-DTSTART:20230906T170000Z
-SUMMARY:ПЗ Экономическое обоснование проектных решений
-UID:9c06cfde-60a1-49dd-a64f-a94fb9a59939@9c06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20230927T164500Z
-LOCATION:ГУК А-518
-DTSTART:20230927T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:aef8a742-9117-4e0f-9a95-510f94ebc7ba@aef8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231018T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20231018T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:5b255b2e-7d10-4371-83e0-634c3228d47f@5b25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231123T164500Z
-LOCATION:5-401
-DTSTART:20231123T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:934b386d-aecd-4edf-9c7b-8cb44b458b25@934b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231129T183000Z
-LOCATION:5-306
-DTSTART:20231129T170000Z
-SUMMARY:ПЗ Экономическое обоснование проектных решений
-UID:8d83cded-6b86-444a-bc92-e593109d4f40@8d83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20230920T164500Z
-LOCATION:5-306
-DTSTART:20230920T151500Z
-SUMMARY:ЛК Экономическое обоснование проектных решений
-UID:c7b91ffa-1bc3-42ad-9408-c6c85a32397b@c7b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231129T164500Z
-LOCATION:5-306
-DTSTART:20231129T151500Z
-SUMMARY:ЛК Экономическое обоснование проектных решений
-UID:358bcb92-9b2b-4573-a389-642a9cefbd7e@358b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231012T164500Z
-LOCATION:5-401
-DTSTART:20231012T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:c9c445f4-a05a-4724-8817-c1318b9679d6@c9c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231108T164500Z
-LOCATION:ГУК А-518
-DTSTART:20231108T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:45d7675e-7906-474c-a0c1-6c54451a911d@45d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20230920T183000Z
-LOCATION:5-306
-DTSTART:20230920T170000Z
-SUMMARY:ПЗ Экономическое обоснование проектных решений
-UID:0b30ec5e-c293-4cc0-a48a-559c7259a56f@0b30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231115T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20231115T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:170d30ef-f511-4d44-9f01-eab6839de771@170d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231221T164500Z
-LOCATION:5-401
-DTSTART:20231221T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:1f7212d5-d40a-4b36-9b9e-a39070f87a36@1f72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20230914T164500Z
-LOCATION:5-401
-DTSTART:20230914T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:b3e2b396-6104-43e0-a22b-dc18a71e2169@b3e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231129T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20231129T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:89842cb1-1683-4401-a699-5ad0b5364335@8984.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231227T164500Z
-LOCATION:5-306
-DTSTART:20231227T151500Z
-SUMMARY:ЛК Экономическое обоснование проектных решений
-UID:d17838e0-27c0-45b1-bd38-4c17b1d62d89@d178.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20230920T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20230920T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:d51636f9-5482-4b98-8778-84d934688cad@d516.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231011T164500Z
-LOCATION:ГУК А-518
-DTSTART:20231011T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:4969e95a-f5e3-4b48-bb3a-2dc4ab0d08d3@4969.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20230928T164500Z
-LOCATION:5-401
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:2543541b-954d-49c0-9379-e32660d78b88@2543.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231115T164500Z
-LOCATION:5-306
-DTSTART:20231115T151500Z
-SUMMARY:ЛК Экономическое обоснование проектных решений
-UID:173a0fe8-566e-4f16-849f-69b10e637474@173a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231221T150000Z
-LOCATION:5-001
-DTSTART:20231221T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:7cd2ff3e-1419-4e0e-95d2-3eef5a5349ed@7cd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231129T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231129T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:9e38093c-60e4-4136-8736-f4773b370126@9e38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231101T183000Z
-LOCATION:5-306
-DTSTART:20231101T170000Z
-SUMMARY:ПЗ Экономическое обоснование проектных решений
-UID:6875606a-cc4a-4cf3-adf0-632c8518355e@6875.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231207T150000Z
-LOCATION:5-001
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:ae4777f0-f4f7-446a-9886-4c2d0271261a@ae47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231012T150000Z
-LOCATION:5-001
-DTSTART:20231012T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:4b077ae1-08ef-48bb-8759-d8ae05aa0ecd@4b07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231018T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231018T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:bc00361a-1a37-4829-9d1f-8020915f0da6@bc00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231101T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20231101T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:491a5c0e-c443-4a4d-b4bb-3ee1b71d562f@491a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231115T183000Z
-LOCATION:5-306
-DTSTART:20231115T170000Z
-SUMMARY:ПЗ Экономическое обоснование проектных решений
-UID:a476d91b-1f09-4bfa-96bd-3505890f654d@a476.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231220T164500Z
-LOCATION:ГУК А-518
-DTSTART:20231220T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:456f0501-5b78-46b0-a0f4-5e35799989df@456f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231101T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231101T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:52b280d3-881b-46e3-9782-e128e87815aa@52b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231227T183000Z
-LOCATION:5-306
-DTSTART:20231227T170000Z
-SUMMARY:ПЗ Экономическое обоснование проектных решений
-UID:09f86658-9e2e-4c8d-a0bf-2fbacb940237@09f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231207T164500Z
-LOCATION:5-401
-DTSTART:20231207T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:12212a6e-ccf0-4cc9-9075-bd1dc9eec6d5@1221.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231004T183000Z
-LOCATION:5-306
-DTSTART:20231004T170000Z
-SUMMARY:ПЗ Экономическое обоснование проектных решений
-UID:51830db7-f6ef-4aa4-aa42-58c664bb0c4e@5183.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231004T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231004T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:46a8cbf2-1a45-4d62-9a28-6de60913ba22@46a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231018T164500Z
-LOCATION:5-306
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Экономическое обоснование проектных решений
-UID:71d9be1d-411a-46b6-981b-61929233c477@71d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20230913T183000Z
-LOCATION:ГУК А-518
-DTSTART:20230913T170000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:34521b8f-d758-4327-bcd0-11846fa228e4@3452.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231011T183000Z
-LOCATION:ГУК А-518
-DTSTART:20231011T170000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:3473af0b-619a-4a83-b67c-d7064e11bae8@3473.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231026T150000Z
-LOCATION:5-001
-DTSTART:20231026T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:032922f2-b252-4515-b78c-0f0da3af58e0@0329.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231213T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231213T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:2fcdaca6-1977-4fbd-b85c-dcbdc08156d9@2fcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231213T183000Z
-LOCATION:5-306
-DTSTART:20231213T170000Z
-SUMMARY:ПЗ Экономическое обоснование проектных решений
-UID:cc2ab8c4-ec17-46b6-aa61-45ac32df728a@cc2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231213T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20231213T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:6202a39d-76ee-4609-a5fa-b8d68238c667@6202.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231108T183000Z
-LOCATION:ГУК А-518
-DTSTART:20231108T170000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:8f26ed82-51e1-4c50-9577-60feea19d849@8f26.org
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20230905T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230905T151500Z
+SUMMARY:ЛК Лингвокультурология
+UID:65405fac-bb96-4ac6-ad29-eac5447a9505@6540.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
@@ -335,135 +15,119 @@ DTEND:20230906T150000Z
 LOCATION:ГУК Б-550
 DTSTART:20230906T133000Z
 SUMMARY:ПЗ Современная философия и методология науки
-UID:fa3fed4a-66a2-46c8-a12a-c32e69a3230d@fa3f.org
+UID:26636e57-d36a-412c-a23c-509c2eaac51a@2663.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231201T183000Z
+LOCATION:2-410(2А)
+DTSTART:20231201T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:b1b81d71-4cf1-4170-b3bf-648af7aa23be@b1b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231215T183000Z
+LOCATION:2-410(2А)
+DTSTART:20231215T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:31aee4c5-e894-4f48-908a-d29da4627e60@31ae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231206T164500Z
+DTEND:20231108T164500Z
 LOCATION:ГУК А-518
-DTSTART:20231206T151500Z
+DTSTART:20231108T151500Z
 SUMMARY:ЛК Межкультурные коммуникации
-UID:f1cd88c5-01ac-4ec9-87d1-977678471abe@f1cd.org
+UID:df46773b-2c1b-40bc-8f61-c3af9d2a8eed@df46.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231026T164500Z
-LOCATION:5-401
-DTSTART:20231026T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:9d471dee-bd33-484a-bbb1-9d938610e916@9d47.org
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20230916T150000Z
+LOCATION:2-302(2А)
+DTSTART:20230916T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:00a23a95-eaa2-40f6-b92c-a18f0c3c4ce9@00a2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231213T164500Z
-LOCATION:5-306
-DTSTART:20231213T151500Z
-SUMMARY:ЛК Экономическое обоснование проектных решений
-UID:64871344-faf8-4223-a49c-13c10cf169c2@6487.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20230914T150000Z
-LOCATION:5-001
-DTSTART:20230914T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:1168b040-e2e3-4d01-9572-f62839bce58f@1168.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20230928T150000Z
-LOCATION:5-001
-DTSTART:20230928T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:bd814a82-e804-4ad6-86cb-206cabe8a89d@bd81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231206T183000Z
-LOCATION:ГУК А-518
-DTSTART:20231206T170000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:966e149b-b24c-4b58-8a84-38808488613e@966e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231025T183000Z
-LOCATION:ГУК А-518
-DTSTART:20231025T170000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:ffe64c0d-5cea-4685-b9d8-4682c24aaa92@ffe6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231227T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231227T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:dc83dae1-60ae-428f-b29e-e6ae254b101f@dc83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231115T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231115T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:dc877db3-9245-4fcf-9286-8ae4e09a0890@dc87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231122T183000Z
-LOCATION:ГУК А-518
-DTSTART:20231122T170000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:abf4cd09-93cd-496e-96f9-577bbb9da414@abf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231004T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20231004T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:284041f6-d368-49a6-b356-f58677ccb2b1@2840.org
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231020T183000Z
+LOCATION:2-410(2А)
+DTSTART:20231020T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:37470c60-b581-4263-8d0c-87a48e870618@3747.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231018T183000Z
+DTEND:20231004T183000Z
 LOCATION:5-306
-DTSTART:20231018T170000Z
+DTSTART:20231004T170000Z
 SUMMARY:ПЗ Экономическое обоснование проектных решений
-UID:b97e3c61-d808-40bc-b424-e5ca2730a59e@b97e.org
+UID:db5edaa0-25e3-4a08-96ed-37bd34dc5dea@db5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231017T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231017T170000Z
+SUMMARY:ПЗ Лингвокультурология
+UID:610cec12-f344-4d41-b7f1-6eae0b769324@610c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231209T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231209T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:5cdd13f0-a0f9-431f-a55f-71e879884ac7@5cdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20230927T164500Z
+LOCATION:ГУК А-518
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:fa969755-18ec-49fb-bbcc-5c9e650a822f@fa96.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20231101T164500Z
+DTEND:20231129T164500Z
 LOCATION:5-306
-DTSTART:20231101T151500Z
+DTSTART:20231129T151500Z
 SUMMARY:ЛК Экономическое обоснование проектных решений
-UID:fb5b10b0-1dc4-4e1e-b0f5-d1b6e14e8fdf@fb5b.org
+UID:328d3b3b-bd71-454b-9aff-bad093daea81@328d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231021T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231021T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:66af445c-1690-40b3-83e0-07bdca8b349b@66af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20230916T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230916T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:2fea848d-df17-44f1-885b-a1ba5559331d@2fea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231125T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231125T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:4d7bec17-909f-4d5a-b027-d031f4ff66f8@4d7b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231220T183000Z
+DTEND:20231108T183000Z
 LOCATION:ГУК А-518
-DTSTART:20231220T170000Z
+DTSTART:20231108T170000Z
 SUMMARY:ПЗ Межкультурные коммуникации
-UID:17a07a54-f17b-42a2-885b-4075602f1f27@17a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20230913T164500Z
-LOCATION:ГУК А-518
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:c44cc032-93f9-4775-849f-676b0473df78@c44c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20230920T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20230920T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:b7de1805-7c84-4626-b50e-e9e1d773f60e@b7de.org
+UID:e400ca45-aae4-4d40-9fd4-bfc13dbbd47c@e400.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Латышева Валентина Васильевна
@@ -471,63 +135,55 @@ DTEND:20231122T164500Z
 LOCATION:ГУК А-518
 DTSTART:20231122T151500Z
 SUMMARY:ЛК Межкультурные коммуникации
-UID:e71bdef7-dc34-4446-8b4d-7168a33a2815@e71b.org
+UID:aff2dcd1-21db-4dd4-a8c8-48cfc6176720@aff2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231109T150000Z
+DTEND:20231026T150000Z
 LOCATION:5-001
-DTSTART:20231109T133000Z
+DTSTART:20231026T133000Z
 SUMMARY:ПЗ Психология и педагогика
-UID:17b6fc50-a9f3-462a-93db-0c7f70a236d7@17b6.org
+UID:08ff6360-c092-4951-adda-77d85548d44b@08ff.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231123T150000Z
-LOCATION:5-001
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:565fec6c-6a94-4bc8-9c51-3a0e6d1a4f87@565f.org
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231017T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Лингвокультурология
+UID:3e813443-fa73-4b19-9a69-5b675284162c@3e81.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231025T164500Z
-LOCATION:ГУК А-518
-DTSTART:20231025T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:3ca44860-4b53-4490-b788-a04b94ef0ddc@3ca4.org
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231014T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231014T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:eff0afb4-5a1b-4c29-804b-cb6f3f9d17b3@eff0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20230906T131500Z
+DTEND:20231004T131500Z
 LOCATION:ГУК Б-550
-DTSTART:20230906T114500Z
+DTSTART:20231004T114500Z
 SUMMARY:ЛК Современная философия и методология науки
-UID:d3f439be-dd11-482d-84dc-8bf43f9a481a@d3f4.org
+UID:e7e315e1-e0c7-44cb-9372-8e3173432f4e@e7e3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231109T164500Z
-LOCATION:5-401
-DTSTART:20231109T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:ca70cd77-f38e-4ef6-81a3-f1257bae0651@ca70.org
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230922T164500Z
+LOCATION:2-410(2А)
+DTSTART:20230922T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:ee75555f-338d-4094-a447-9f98791d72b6@ee75.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гязова Марина Мухарбиевна
-DTEND:20230906T164500Z
+DTEND:20231227T164500Z
 LOCATION:5-306
-DTSTART:20230906T151500Z
+DTSTART:20231227T151500Z
 SUMMARY:ЛК Экономическое обоснование проектных решений
-UID:b8c473d6-4471-4468-a060-3bc62fe90351@b8c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20230927T183000Z
-LOCATION:ГУК А-518
-DTSTART:20230927T170000Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:f20d4740-b316-4483-aa53-11e4c52e66d6@f20d.org
+UID:68671281-5f89-49e2-a833-58ea8d4614ca@6867.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гязова Марина Мухарбиевна
@@ -535,6 +191,1246 @@ DTEND:20231004T164500Z
 LOCATION:5-306
 DTSTART:20231004T151500Z
 SUMMARY:ЛК Экономическое обоснование проектных решений
-UID:e754dbe8-c3d3-463c-8db2-a86a1aa9df07@e754.org
+UID:d451b75f-d8aa-46a1-a254-5d7beea05a66@d451.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231028T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231028T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:1f971a83-303b-4e8d-9620-6f6d977d4cb1@1f97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231025T183000Z
+LOCATION:ГУК А-518
+DTSTART:20231025T170000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:c6b179eb-0712-44b1-a19f-1c8f352232e8@c6b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231028T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231028T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:b84cbb12-161e-40e2-9e8e-4a18ea464d85@b84c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231227T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231227T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:3685b225-b630-49f3-9bbc-7573ab3d5487@3685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20230906T164500Z
+LOCATION:5-306
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Экономическое обоснование проектных решений
+UID:0bcee87a-f33d-465b-894d-d03b0012fdd7@0bce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20230926T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230926T151500Z
+SUMMARY:ЛК Общее языкознание и история лингвистических учений
+UID:326ec3a3-fca1-4494-b364-1b72a29dd75d@326e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231114T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231114T170000Z
+SUMMARY:ПЗ Лингвокультурология
+UID:868cd705-2f92-4587-be74-7ea96ae22a7b@868c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231118T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231118T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:996efa50-36b8-4d8f-a269-8df2f84c3969@996e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230908T183000Z
+LOCATION:2-410(2А)
+DTSTART:20230908T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:745090c3-4ad0-40df-b523-5a5132a61086@7450.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20230920T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20230920T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:e86d8da1-9dfa-4fe3-a69a-68dfd6970075@e86d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20231018T183000Z
+LOCATION:5-306
+DTSTART:20231018T170000Z
+SUMMARY:ПЗ Экономическое обоснование проектных решений
+UID:9d590e74-239c-4304-9213-93a4c440e8a4@9d59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231122T183000Z
+LOCATION:ГУК А-518
+DTSTART:20231122T170000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:e2a5a87a-c416-4d46-95b7-0b578ad6a355@e2a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231221T150000Z
+LOCATION:5-001
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:6636000b-8a53-4915-8dec-1bb4774f37d8@6636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20230911T183000Z
+LOCATION:2-401(2А)
+DTSTART:20230911T170000Z
+SUMMARY:ПЗ Политические процессы и институты
+UID:19bcbb6e-bbac-45e4-9e45-9e63ea9835dd@19bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20230911T164500Z
+LOCATION:2-401(2А)
+DTSTART:20230911T151500Z
+SUMMARY:ЛК Политические процессы и институты
+UID:bc63d5c5-686d-4c2d-b7bf-461b974b87a8@bc63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231206T164500Z
+LOCATION:ГУК А-518
+DTSTART:20231206T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:b2b42759-c0a1-4a51-bb5c-48a22c8a0b35@b2b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20231213T183000Z
+LOCATION:5-306
+DTSTART:20231213T170000Z
+SUMMARY:ПЗ Экономическое обоснование проектных решений
+UID:4793521f-11cf-4ee9-8049-82eaa675476d@4793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231012T150000Z
+LOCATION:5-001
+DTSTART:20231012T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:db8d4c73-8f0f-4098-934e-e04c104725c4@db8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231114T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Лингвокультурология
+UID:aba7ecd7-ba8b-478b-ab2d-d34d20c0c8b6@aba7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231007T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231007T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:5f6a4b44-5d9d-4270-a516-6f5200ed7a56@5f6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231205T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231205T170000Z
+SUMMARY:ПЗ Общее языкознание и история лингвистических учений
+UID:a7564c28-7923-4705-af13-dd7491a0e385@a756.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20230905T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230905T170000Z
+SUMMARY:ПЗ Лингвокультурология
+UID:db3c6f8f-a6b0-49cc-9a7b-64f6bf6c0103@db3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20231101T183000Z
+LOCATION:5-306
+DTSTART:20231101T170000Z
+SUMMARY:ПЗ Экономическое обоснование проектных решений
+UID:aa3c6a2b-feab-4318-8a81-9c3279d8c1ea@aa3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20230928T150000Z
+LOCATION:5-001
+DTSTART:20230928T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:c1b787a8-5ce1-4639-a65a-3b4bdc92df28@c1b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231111T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231111T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:74de8dc8-39c8-4f91-87de-74bedcf59d7b@74de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20230920T183000Z
+LOCATION:5-306
+DTSTART:20230920T170000Z
+SUMMARY:ПЗ Экономическое обоснование проектных решений
+UID:d49113c1-677e-4fbc-bda1-46990c2efe6c@d491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231101T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20231101T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:5cce267f-b6e3-43c7-a61b-317dd0a80764@5cce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20231213T164500Z
+LOCATION:5-306
+DTSTART:20231213T151500Z
+SUMMARY:ЛК Экономическое обоснование проектных решений
+UID:99d061bb-4eb9-4180-96e0-0d4fc5265bbd@99d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231230T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231230T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:0ca47b1e-ee5c-40b8-a390-002acff66525@0ca4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231012T164500Z
+LOCATION:5-401
+DTSTART:20231012T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:6cd3073e-9770-47da-9d97-fce6a775a89d@6cd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20230909T150000Z
+LOCATION:2-302(2А)
+DTSTART:20230909T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:7c89c022-6ffc-40c0-a76e-1d494f83646d@7c89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20230923T150000Z
+LOCATION:2-302(2А)
+DTSTART:20230923T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:27475c20-daa1-40ca-8bb4-37fd276c646e@2747.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231009T164500Z
+LOCATION:2-401(2А)
+DTSTART:20231009T151500Z
+SUMMARY:ЛК Политические процессы и институты
+UID:fd368800-c3ad-446c-b185-1fe319c33474@fd36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231220T164500Z
+LOCATION:ГУК А-518
+DTSTART:20231220T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:60aa57d6-c32e-4cc5-b6d8-1c0590d87b9e@60aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231118T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231118T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:c432cac0-d8af-41a9-b4bb-6b8f7f04084b@c432.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20230919T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230919T170000Z
+SUMMARY:ПЗ Лингвокультурология
+UID:bced0453-da37-41a9-a186-160df302b08b@bced.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231010T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231010T170000Z
+SUMMARY:ПЗ Общее языкознание и история лингвистических учений
+UID:b9f3a0ca-4be2-4854-91ab-c515b40f3a49@b9f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231129T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231129T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:0dc41bf1-efa9-4877-babc-122c42e8659c@0dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231006T183000Z
+LOCATION:2-410(2А)
+DTSTART:20231006T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:317641a6-aecb-457f-a968-03cd62a2f3b8@3176.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231023T164500Z
+LOCATION:2-401(2А)
+DTSTART:20231023T151500Z
+SUMMARY:ЛК Политические процессы и институты
+UID:cb7913d8-7f2f-4790-a82d-a1a0a01e55ea@cb79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231201T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231201T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:94b8b163-6767-4efe-8521-0ff1b3239405@94b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231125T113000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231125T100000Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:6192b945-c2fa-4d75-bf26-e32de12f4c62@6192.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231230T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231230T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:230aae5c-2b1d-4945-a364-f185ee139e99@230a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231031T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Лингвокультурология
+UID:83cf5674-9dab-487b-ae44-7cf77d74f1f9@83cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20230906T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20230906T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:605b21b2-53b1-475b-bab3-c20f5e018599@605b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231204T164500Z
+LOCATION:2-401(2А)
+DTSTART:20231204T151500Z
+SUMMARY:ЛК Политические процессы и институты
+UID:88a6abba-afff-4e26-9cb4-6adc0d5742c4@88a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20230928T164500Z
+LOCATION:5-401
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:66b03146-e3f0-4df6-be5a-6b703fff17ac@66b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231009T183000Z
+LOCATION:2-401(2А)
+DTSTART:20231009T170000Z
+SUMMARY:ПЗ Политические процессы и институты
+UID:4b73ea99-df1c-4ea6-8316-5074a46623eb@4b73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231209T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231209T074500Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:e80d3c14-1fee-472d-9c7e-13bc9877c580@e80d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231115T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20231115T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:1bea238f-0631-4238-9d9d-ea3a594048d4@1bea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231121T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231121T170000Z
+SUMMARY:ПЗ Общее языкознание и история лингвистических учений
+UID:3c0e9265-d1f2-4bc8-915f-e215cfd26a7e@3c0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231125T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231125T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:8ff1b9d0-4f89-4a73-bce3-5a9e1fdce203@8ff1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231220T183000Z
+LOCATION:ГУК А-518
+DTSTART:20231220T170000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:687b1e7d-ed82-4aec-ba7b-51f901fb62d0@687b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20230916T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230916T074500Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:517786a3-5c50-41a4-b75c-b67fded788db@5177.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231011T183000Z
+LOCATION:ГУК А-518
+DTSTART:20231011T170000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:394c91a5-5eb2-4ee4-ab88-52ee23ee1382@394c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20230926T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230926T170000Z
+SUMMARY:ПЗ Общее языкознание и история лингвистических учений
+UID:931684b0-6254-4642-8488-0a967b24c84a@9316.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20230914T150000Z
+LOCATION:5-001
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:93f43899-3a08-4ddc-8db5-977fcaf3e9ba@93f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20231115T164500Z
+LOCATION:5-306
+DTSTART:20231115T151500Z
+SUMMARY:ЛК Экономическое обоснование проектных решений
+UID:b5462ec7-8ef2-4137-92a8-d83d6196e728@b546.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20230913T183000Z
+LOCATION:ГУК А-518
+DTSTART:20230913T170000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:e4a6e2ef-e765-4c18-a305-d16baeb72aea@e4a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231024T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231024T151500Z
+SUMMARY:ЛК Общее языкознание и история лингвистических учений
+UID:8656aa1e-799e-4c80-afbb-7cefcf26a2ed@8656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20231129T183000Z
+LOCATION:5-306
+DTSTART:20231129T170000Z
+SUMMARY:ПЗ Экономическое обоснование проектных решений
+UID:c536bb43-6073-41ef-a712-80b79c4e1bf9@c536.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231014T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231014T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:599a4f73-d50f-4c34-bbec-d2988850d58e@599a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231028T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231028T074500Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:d611f2b6-c69e-4db7-a516-772c1cecb283@d611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20230930T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230930T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:cb13217c-c2c9-4fbf-836f-abad4f411652@cb13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231106T164500Z
+LOCATION:2-401(2А)
+DTSTART:20231106T151500Z
+SUMMARY:ЛК Политические процессы и институты
+UID:b3eaf8a4-9aa8-4ec9-8b44-071331c149ca@b3ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231202T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231202T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:c145dabd-8db4-4d69-8138-8e1414bf3bd8@c145.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231212T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231212T151500Z
+SUMMARY:ЛК Лингвокультурология
+UID:48b123d1-43cf-498f-b222-d41969faea3b@48b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20231227T183000Z
+LOCATION:5-306
+DTSTART:20231227T170000Z
+SUMMARY:ПЗ Экономическое обоснование проектных решений
+UID:c646c456-e77d-48c9-bce3-81c9af0257cb@c646.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20230920T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20230920T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:55e24f0e-2e51-4c5e-9220-83d180f73b85@55e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20230927T183000Z
+LOCATION:ГУК А-518
+DTSTART:20230927T170000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:226a37e4-b1f4-4256-af51-4d562efe944c@226a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231117T183000Z
+LOCATION:2-410(2А)
+DTSTART:20231117T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:39289552-23d2-46d8-8919-f0d49025d8ec@3928.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231128T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231128T151500Z
+SUMMARY:ЛК Лингвокультурология
+UID:61dfa4db-c3d0-47e0-9748-61c1f66726d7@61df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20230902T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230902T074500Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:8fd59cad-6006-423f-8cfc-3175e26613c2@8fd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231121T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231121T151500Z
+SUMMARY:ЛК Общее языкознание и история лингвистических учений
+UID:7d32da83-0c94-4ae4-8ffc-17899779a7f5@7d32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231216T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231216T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:0aeeb0a8-a774-4dd2-880a-84b210d71485@0aee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231219T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231219T151500Z
+SUMMARY:ЛК Общее языкознание и история лингвистических учений
+UID:7389df40-daea-4905-b4a9-503ce772833b@7389.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231010T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231010T151500Z
+SUMMARY:ЛК Общее языкознание и история лингвистических учений
+UID:7a42d7f8-3032-4350-bfda-9b6df93d8654@7a42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231207T150000Z
+LOCATION:5-001
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:438b5f33-9a27-425f-9c6a-97462494bfbb@438b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231109T150000Z
+LOCATION:5-001
+DTSTART:20231109T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:ffed607b-75c6-4aac-b01a-9a3b8932d2f4@ffed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231020T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231020T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:0aca32ac-fa17-4680-89ea-8a5e7d268ecb@0aca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231018T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20231018T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:c3f530bf-0992-4578-926e-fdf1cf6ce501@c3f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231213T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231213T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:174e58d3-8fdd-4db5-a83a-644ee3e519e4@174e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20231101T164500Z
+LOCATION:5-306
+DTSTART:20231101T151500Z
+SUMMARY:ЛК Экономическое обоснование проектных решений
+UID:47024579-95cc-4ae7-864b-f4e92798fb14@4702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231209T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231209T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:3d298c1f-8d69-4ec5-a3e5-352754526d1a@3d29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231223T113000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231223T100000Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:5596e139-6920-4250-bd21-dfbb16a4a66e@5596.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231023T183000Z
+LOCATION:2-401(2А)
+DTSTART:20231023T170000Z
+SUMMARY:ПЗ Политические процессы и институты
+UID:190d7c6a-0ee4-4646-9d91-dbba2a4b2940@190d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231014T113000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231014T100000Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:2c4c010e-b1bb-4933-99b6-3ae8b415a84f@2c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20230930T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:27a675b7-d641-482f-bf9c-68fa1fdf8ce6@27a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231106T183000Z
+LOCATION:2-401(2А)
+DTSTART:20231106T170000Z
+SUMMARY:ПЗ Политические процессы и институты
+UID:2fc9c235-e6e8-401c-94f6-214991886f52@2fc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231101T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231101T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:cc4a34ab-a597-4761-8582-67fb48f66404@cc4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20230914T164500Z
+LOCATION:5-401
+DTSTART:20230914T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:d22bb222-f2d9-432c-8d89-da309dd151b5@d22b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231129T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20231129T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:5f5086d8-b2bc-451e-bb6d-f02eac32ae02@5f50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20230909T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230909T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:07ae5aca-a533-48aa-9cd9-d3d1265edc66@07ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231120T164500Z
+LOCATION:2-401(2А)
+DTSTART:20231120T151500Z
+SUMMARY:ЛК Политические процессы и институты
+UID:570bf151-4109-416e-9a6c-ab30e2039350@570b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231216T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231216T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:b28aad93-d6fc-42d4-8fe3-a394e2112d40@b28a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231006T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231006T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:c588624f-b259-48f3-894d-45861734a84a@c588.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231123T164500Z
+LOCATION:5-401
+DTSTART:20231123T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:300b0dec-090f-464f-a724-d67fefdfb199@300b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231025T164500Z
+LOCATION:ГУК А-518
+DTSTART:20231025T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:85a4703d-152d-4082-ba7c-097f15c2c2fc@85a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231204T183000Z
+LOCATION:2-401(2А)
+DTSTART:20231204T170000Z
+SUMMARY:ПЗ Политические процессы и институты
+UID:26cf1d48-beba-4239-848d-a1b270738c7f@26cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20230919T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Лингвокультурология
+UID:57f13f83-ad80-4419-973d-82c3d8f05671@57f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231107T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231107T151500Z
+SUMMARY:ЛК Общее языкознание и история лингвистических учений
+UID:d15fcbde-e241-4edd-9cf6-bafd3a81d230@d15f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231213T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20231213T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:88c6309b-e36f-4ba3-b335-48c5289de40b@88c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231202T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231202T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:61dd0d32-84fc-465e-863b-ec55fd37aa15@61dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231111T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231111T074500Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:9e8f7a42-c07d-46d8-b771-d5e4b698befe@9e8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20230930T113000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:830dcbea-af5b-4c20-a35e-2c343234c368@830d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230908T164500Z
+LOCATION:2-410(2А)
+DTSTART:20230908T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:b2742601-3ceb-4f39-b027-3365f8534c7b@b274.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20230930T150000Z
+LOCATION:2-302(2А)
+DTSTART:20230930T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:6e1b7184-e206-4440-b600-01c21210626a@6e1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231014T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231014T074500Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:b920fe6e-a941-443b-8bff-63afe1ddebac@b920.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231128T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231128T170000Z
+SUMMARY:ПЗ Лингвокультурология
+UID:1430b26e-71e8-458a-8ec6-4d6d6424f254@1430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231206T183000Z
+LOCATION:ГУК А-518
+DTSTART:20231206T170000Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:77ebdd52-45fc-4bd6-81e8-d1d0b30d2328@77eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231218T183000Z
+LOCATION:2-401(2А)
+DTSTART:20231218T170000Z
+SUMMARY:ПЗ Политические процессы и институты
+UID:555f1d6d-88b4-4e3c-b654-7ec68e7e199a@555f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231218T164500Z
+LOCATION:2-401(2А)
+DTSTART:20231218T151500Z
+SUMMARY:ЛК Политические процессы и институты
+UID:2086580d-4459-4a16-bdb7-3fde4ffc6855@2086.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231223T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231223T074500Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:2495c973-2298-401f-a32b-6c6b499e9674@2495.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231223T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231223T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:73dcd985-2d25-4025-b4de-3b7c2695c52a@73dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20230912T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230912T170000Z
+SUMMARY:ПЗ Общее языкознание и история лингвистических учений
+UID:511bdfff-05bf-4116-a107-aa7d53454a9f@511b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231107T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231107T170000Z
+SUMMARY:ПЗ Общее языкознание и история лингвистических учений
+UID:52366406-9aa9-42e9-aaf0-7322b193018f@5236.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20230925T164500Z
+LOCATION:2-401(2А)
+DTSTART:20230925T151500Z
+SUMMARY:ЛК Политические процессы и институты
+UID:03b0dc6c-0e02-49a3-b064-7d02a80d4d2a@03b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231031T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231031T170000Z
+SUMMARY:ПЗ Лингвокультурология
+UID:6e7baf00-6974-43c2-bc57-696d88813c9d@6e7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231109T164500Z
+LOCATION:5-401
+DTSTART:20231109T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:c3d441cf-f29c-4b20-835c-72ce2fdab23d@c3d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20230920T164500Z
+LOCATION:5-306
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Экономическое обоснование проектных решений
+UID:32a7923e-11ed-4d83-8d07-e63fff0f3fa6@32a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20230913T164500Z
+LOCATION:ГУК А-518
+DTSTART:20230913T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:5dc9d432-2ba7-4313-b206-b017c8595da6@5dc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231115T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231115T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:04981042-e042-41ef-b715-90ba7051a02e@0498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231117T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231117T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:fa69ff86-8976-457b-a561-72162085e347@fa69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231212T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231212T170000Z
+SUMMARY:ПЗ Лингвокультурология
+UID:9752028b-86ab-4667-81f9-7ce5a163563a@9752.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20230925T183000Z
+LOCATION:2-401(2А)
+DTSTART:20230925T170000Z
+SUMMARY:ПЗ Политические процессы и институты
+UID:d75ce260-0668-4afd-b588-7d0a0ff4f88b@d75c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231223T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231223T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:bd7dd7a6-ce5f-468c-af70-5c9b23601893@bd7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231004T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20231004T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:4761576b-dfb1-4c20-95c4-3d4ccf60a0b1@4761.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231111T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231111T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:93cb2d62-3429-49b6-86ea-93fd84ce80ab@93cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231026T164500Z
+LOCATION:5-401
+DTSTART:20231026T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:7335c832-3d20-4e83-be84-1f2061755347@7335.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231215T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231215T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:a626cfea-02de-47d0-9de9-c73ed8ee7e0a@a626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231003T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231003T170000Z
+SUMMARY:ПЗ Лингвокультурология
+UID:87d88b6b-bb38-4e9e-a04f-7a719ce04e01@87d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20230923T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230923T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:cb907a30-30a7-4c0f-8652-bd568b8f166f@cb90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20230916T113000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:a901e5b0-b380-4d96-9a3b-738e0e547c12@a901.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20231115T183000Z
+LOCATION:5-306
+DTSTART:20231115T170000Z
+SUMMARY:ПЗ Экономическое обоснование проектных решений
+UID:a28c3791-8566-49a8-a4b9-38699bdb4be4@a28c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231205T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231205T151500Z
+SUMMARY:ЛК Общее языкознание и история лингвистических учений
+UID:c32850b2-2109-478d-8d73-5a1dbb7c3afa@c328.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231018T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231018T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:aba96a91-f081-46f7-ac6a-0556601eb236@aba9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231221T164500Z
+LOCATION:5-401
+DTSTART:20231221T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:9d72517d-88c3-41ac-8668-22e81c6c7e67@9d72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20230902T113000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230902T100000Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:699e0426-cfbd-41c3-a208-cc8488599e9c@699e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231011T164500Z
+LOCATION:ГУК А-518
+DTSTART:20231011T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:cd088104-c122-4027-a43c-19cfbd9db6c2@cd08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231024T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231024T170000Z
+SUMMARY:ПЗ Общее языкознание и история лингвистических учений
+UID:00525728-5f35-44a1-be5c-fd90bf254a02@0052.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231028T113000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231028T100000Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:6c812f4c-f8b8-45a7-a8eb-9a2cd3e687a1@6c81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231123T150000Z
+LOCATION:5-001
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:134cd3f4-8598-4c9e-885c-bb1025286c6b@134c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231120T183000Z
+LOCATION:2-401(2А)
+DTSTART:20231120T170000Z
+SUMMARY:ПЗ Политические процессы и институты
+UID:53d08f00-1eb5-44c2-bfb0-762f7589718f@53d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231219T183000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231219T170000Z
+SUMMARY:ПЗ Общее языкознание и история лингвистических учений
+UID:3e54df31-c16b-42fb-9fa5-76bd33d3342b@3e54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231125T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231125T074500Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:30c1b359-f614-46fa-9ae5-a8e2cd201b1a@30c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231021T150000Z
+LOCATION:2-302(2А)
+DTSTART:20231021T133000Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:0de82eff-52aa-4545-af04-de66f0178300@0de8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Варламова Елена Юрьевна
+DTEND:20231007T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231007T114500Z
+SUMMARY:ПЗ Практический курс иностранного языка
+UID:e4b79f22-1613-4366-a36d-e4051b97fe1c@e4b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20231018T164500Z
+LOCATION:5-306
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Экономическое обоснование проектных решений
+UID:75aae0e7-a9b5-4a36-a885-d0fdd187ee39@75aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гязова Марина Мухарбиевна
+DTEND:20230906T183000Z
+LOCATION:5-306
+DTSTART:20230906T170000Z
+SUMMARY:ПЗ Экономическое обоснование проектных решений
+UID:6bc197fc-fb60-4674-bce0-a4114c4902ad@6bc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20231003T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Лингвокультурология
+UID:b060083d-c889-4b66-8cac-a86c53ca2e49@b060.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231111T113000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231111T100000Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:2bdca067-43cb-43e0-982f-deedea654997@2bdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соловьева Наталия Владимировна
+DTEND:20230912T164500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230912T151500Z
+SUMMARY:ЛК Общее языкознание и история лингвистических учений
+UID:09b69439-08c1-424a-bf2c-9a48c7afc318@09b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231207T164500Z
+LOCATION:5-401
+DTSTART:20231207T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:689eef3f-0054-4622-a446-72173ab12a23@689e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кушваха Хуршуд Неждат кызы
+DTEND:20231209T113000Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231209T100000Z
+SUMMARY:ЛК Научные исследования рекламных и PR-коммуникаций в высокотехнологичных отраслях
+UID:979e3060-d3dd-448d-b290-44d31a987be2@979e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230922T183000Z
+LOCATION:2-410(2А)
+DTSTART:20230922T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:2bb3231d-6a0e-4b61-9902-9d1b55b44682@2bb3.org
 END:VEVENT
 END:VCALENDAR

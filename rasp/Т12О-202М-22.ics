@@ -2,409 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231212T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231212T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:44fa5194-5f72-4967-9415-d803ffb36596@44fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231026T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231026T133000Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:06dc86b6-7e68-49dc-a828-ad268974a934@06dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Поддержание летной годности
-UID:4ed899e7-d0cc-424d-9233-ca622e962961@4ed8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
-DTEND:20231014T131500Z
-LOCATION:Берн. 14-ИЛА 09
-DTSTART:20231014T114500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:fd1fbbf0-2d52-44b1-b2a3-2c33f6dfd90e@fd1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20230921T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:24eda43e-f560-4c03-904d-f90a48b9c233@24ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20231218T150000Z
-LOCATION:--каф.
-DTSTART:20231218T133000Z
-SUMMARY:ЛК Поддержание летной годности
-UID:8361733f-840b-4e3e-9997-ee8b59265d12@8361.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20230928T113000Z
+DTEND:20231005T113000Z
 LOCATION:Берн. 14-402-06
-DTSTART:20230928T100000Z
-SUMMARY:ЛК Менеджмент в сервисе авиационной техники
-UID:53fc7b5c-f4fc-4411-bb28-fe9cd8cec33e@53fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20230905T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230905T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:fc064579-b830-4fcc-862b-155f85633c26@fc06.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231017T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:17297076-fe5a-46da-ab9f-093cecb97319@1729.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231114T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231114T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:ca5d214c-00c1-4242-9999-ed3b62d928cb@ca5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231121T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231121T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:05b9319b-b5d0-49a7-bbee-b29b0a882a06@05b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20230921T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230921T100000Z
-SUMMARY:ЛК Менеджмент в сервисе авиационной техники
-UID:13f0c96d-511b-4808-b3c2-fcf80d01e16a@13f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231019T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231019T100000Z
+DTSTART:20231005T100000Z
 SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:ef2a04d6-9d18-4ca4-88ef-5cb551d6d1c0@ef2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:8489ee11-7341-460d-b7f9-b3cd67d650c8@8489.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20230906T150000Z
-LOCATION:Орш. В-413
-DTSTART:20230906T133000Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:c1ac9da6-ed60-4b41-bf41-183ac3b59b1f@c1ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20230907T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:da7ffb74-8e40-4f32-a660-8a02400ccfcd@da7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20230918T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:c9b1409c-d437-43a0-a33c-a74bfc33bc81@c9b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20230920T150000Z
-LOCATION:Орш. В-413
-DTSTART:20230920T133000Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:ff3d4464-60c7-4b82-b7f6-77acb7e32f1b@ff3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20230920T164500Z
-LOCATION:Орш. В-413
-DTSTART:20230920T151500Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:37bf5617-1a27-479c-8e82-f37d0a334e94@37bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230912T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:db89b2c4-4ad5-41be-a6f8-84248d873fc8@db89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20230907T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Менеджмент в сервисе авиационной техники
-UID:4e970029-01df-48e4-900c-2e9c59159249@4e97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231109T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231109T133000Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:2a6b1c8a-1efd-4cd8-a8a9-88c20e56682d@2a6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231017T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231017T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:053f1e8f-311a-41e5-8835-bee8a01253d8@053f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T164500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231010T151500Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:3bc1cbb0-cff1-476e-bf5f-1e35abe3d4d6@3bc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231002T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:48f7c3f9-25ae-42d0-940e-a80a43a4e155@48f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231016T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:a67e407d-218a-4049-aab9-5895e724ba93@a67e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Поддержание летной годности
-UID:9b47d9c1-82f1-4cdf-966a-088c78611d2d@9b47.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T164500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231121T151500Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:90e03150-0aea-4a4b-ad0f-2a70a64c43ef@90e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231102T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:7ee74a68-70f2-4951-b6d8-5bc97dbc2d0c@7ee7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20230913T164500Z
-LOCATION:Орш. В-413
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:c9b78e40-baff-4310-bd9f-978cc9872bf9@c9b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20230907T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230907T100000Z
-SUMMARY:ЛК Менеджмент в сервисе авиационной техники
-UID:5dbe7fbd-4499-4b39-b703-2590e9a11b89@5dbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231108T164500Z
-LOCATION:Орш. В-413
-DTSTART:20231108T151500Z
-SUMMARY:ЛР Технологии искусственного интеллекта
-UID:87c40e97-49ef-4b58-b45a-e6429860cb0a@87c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230912T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:2668aab0-3473-48be-99d1-0fd0c61a12db@2668.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231116T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:a3ef9351-7ab0-4775-a4ce-d92ec7829c25@a3ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230905T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230905T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:c184b42b-5415-4fd3-aa3a-4e79eea3debb@c184.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20230914T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:588ad310-81c5-46f6-8048-030e17e54a29@588a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231004T150000Z
-LOCATION:Орш. В-413
-DTSTART:20231004T133000Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:59717a38-68f5-40ad-b049-5495f022499a@5971.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231113T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:b99837e0-29ab-4714-83c7-998eb6edc14c@b998.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
-DTEND:20231111T113000Z
-LOCATION:Берн. 14-ИЛА 09
-DTSTART:20231111T100000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:1d42a5a0-98e6-45f5-80ba-f8c9d5ba4930@1d42.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T164500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:8b155e2c-1e3c-4db6-bc15-992ff32a4d47@8b15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20230921T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:009e3daf-ee21-446c-a585-645d15989c32@009e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T164500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:e9300304-e0a1-41a4-b0c3-4ed4c3e89570@e930.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20230928T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Менеджмент в сервисе авиационной техники
-UID:7c17354b-59cb-413b-87cb-182a85bb7d5c@7c17.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231205T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:e3e889e7-7a5a-4115-80d6-283b25bf4622@e3e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231113T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:dcdb996c-377f-4ae1-9c64-53ff01ee701f@dcdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231026T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231026T114500Z
-SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:4bf8610a-b546-4cb0-9cad-41c260ca6dc5@4bf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231030T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:773ca739-1f1c-4e7c-b331-680d6508773e@773c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231207T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:1b120179-8819-449e-ad8d-65f2ac5c0134@1b12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
-DTEND:20230916T131500Z
-LOCATION:Берн. 14-ИЛА 09
-DTSTART:20230916T114500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:dec70803-ff16-4767-b016-ffc66d1e78a7@dec7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20231204T164500Z
-LOCATION:--каф.
-DTSTART:20231204T151500Z
-SUMMARY:ПЗ Поддержание летной годности
-UID:d405e3fe-ef37-4521-a069-f0f7b74e5363@d405.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231101T164500Z
-LOCATION:Орш. В-413
-DTSTART:20231101T151500Z
-SUMMARY:ЛР Технологии искусственного интеллекта
-UID:82357c5a-b9f6-4b13-8149-409cbec54cd5@8235.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231003T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231003T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:ff04e4f4-8eb1-4d77-ac2e-a3d8405ccebc@ff04.org
+UID:9c0d1326-6cd0-4dc9-851b-8f1b9ec334c4@9c0d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
@@ -412,441 +15,7 @@ DTEND:20231025T164500Z
 LOCATION:Орш. В-413
 DTSTART:20231025T151500Z
 SUMMARY:ЛР Технологии искусственного интеллекта
-UID:a92abf4b-aaf7-4c2d-8e06-aeffee988e45@a92a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231212T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:4ad22d6d-82c4-4d89-a1de-b931d8907dad@4ad2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231219T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:88629a7f-b43e-4c88-af05-132eaa7ea70d@8862.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230926T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:8ae2f7b6-293e-4cfb-a672-ace158739ba6@8ae2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20230921T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Менеджмент в сервисе авиационной техники
-UID:a65a8479-bb7b-45b4-aad8-e39b1a9baa85@a65a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Поддержание летной годности
-UID:7b65eb69-3e09-484a-a6fe-72ff52012475@7b65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
-DTEND:20231028T113000Z
-LOCATION:Берн. 14-ИЛА 09
-DTSTART:20231028T100000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:cfdf54a6-39a9-49d7-919f-aa94e1dd87ac@cfdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231030T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:216e4212-fbe1-4860-9863-72ba9a7eaba9@216e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231012T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:29a9ff46-d4e9-4217-9105-0f9b9c72c6bc@29a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231107T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:1a39ef63-dae1-43d5-b92a-17b03d527de6@1a39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20230914T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230914T100000Z
-SUMMARY:ЛК Менеджмент в сервисе авиационной техники
-UID:423aee9b-fb95-4795-b26b-9d586ea34e92@423a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20230926T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230926T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:e093bc7e-2cf0-45ae-868c-456f140602ff@e093.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20230904T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:33509950-28ae-469e-82b6-aa6f65ad1aab@3350.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231011T164500Z
-LOCATION:Орш. В-413
-DTSTART:20231011T151500Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:705a4e44-d006-4044-8de6-9c6d1553de16@705a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:da20b902-8f3f-464a-a342-1c8a2adb895b@da20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231005T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:fbd419c3-27a4-4c7a-8b64-1002306bceba@fbd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231123T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:cd6e1d41-acff-4934-909f-5aca9e4102f8@cd6e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230919T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:c88f0a01-7e12-4171-ae0c-b42c94dc063f@c88f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ЛК Поддержание летной годности
-UID:4dcd7975-6539-4350-8efc-e0e79cfe82a3@4dcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231004T164500Z
-LOCATION:Орш. В-413
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:41a823a1-252c-4f1f-bb63-ff09b53ba92d@41a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20230904T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:ddf00543-e653-473b-b17a-4299ea3b63d2@ddf0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231102T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231102T100000Z
-SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:32c55757-c3fa-4258-b092-43b68bf23a17@32c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231107T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231107T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:0f7f0e9c-a0e3-47a5-bfd0-e6204bdeb149@0f7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20230906T164500Z
-LOCATION:Орш. В-413
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:d379a69c-dd14-487f-af3d-42cd7117ce40@d379.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231219T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:c861be63-f4e2-43e6-80de-e48ea10710d3@c861.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ЛК Поддержание летной годности
-UID:a63558c9-dca5-4274-adcd-c19578f2117b@a635.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
-DTEND:20230930T131500Z
-LOCATION:Берн. 14-ИЛА 09
-DTSTART:20230930T114500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:4c2cdc4c-6157-4370-89c2-d6173c9d0c4b@4c2c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231024T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:7db8b018-1aa6-47cc-9c91-cac8d40f8aa9@7db8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T164500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230926T151500Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:97b15e9d-0a49-4e43-96d3-d40f9a687475@97b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20230912T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230912T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:0614cbc4-f58b-46f1-8ef1-aa36fb26912c@0614.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231016T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:57362a7f-1eb7-4c53-96c9-48ebaf36d342@5736.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231107T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:5c39486e-2362-4457-80ef-7330c8d6a378@5c39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ЛК Поддержание летной годности
-UID:68c30249-a0ad-4bd8-9c67-5a31d50650b1@68c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T164500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230912T151500Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:926083fb-d6e0-4b02-8d91-f1acf309ccb6@9260.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231101T150000Z
-LOCATION:Орш. В-413
-DTSTART:20231101T133000Z
-SUMMARY:ЛР Технологии искусственного интеллекта
-UID:39582cfc-0cc1-4dbb-a663-9cd154896d6f@3958.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231130T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231130T151500Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:6d713e05-3b27-4fa7-9d6d-df45b2d1a7c0@6d71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231019T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231019T114500Z
-SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:57b30079-a534-4f6c-9060-e20e34da523b@57b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T164500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:d722687e-cf76-49db-94e9-54f95e05dc55@d722.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231010T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231010T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:49e703bf-4222-4d89-ab65-205e82a7a144@49e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20230907T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230907T151500Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:20e7410b-1c4e-4120-b63f-082e33f1a1b0@20e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231026T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231026T100000Z
-SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:db0746b1-424c-4cb4-a69f-d8bcda249e81@db07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231019T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:89293acb-1135-4099-9648-f8eeac2edc51@8929.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20230918T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:6b7d108d-d803-4d3a-bb21-51c101f365ca@6b7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231012T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231012T100000Z
-SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:1bbea7e1-6212-47bc-8989-f7d2dab4ff31@1bbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231018T150000Z
-LOCATION:Орш. В-413
-DTSTART:20231018T133000Z
-SUMMARY:ЛР Технологии искусственного интеллекта
-UID:c8cabcf3-00ca-4aec-8503-c0e54cec3ed7@c8ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231109T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:a56248e3-71e2-400f-bae7-44c7b0523b84@a562.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20230914T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230914T151500Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:b5a01293-946b-4c61-afd7-36e8d3fdfaf0@b5a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230926T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:580554f8-47a4-4f62-900b-b231bebc6015@5805.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231123T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:f6de2f28-80d7-4a28-8a12-adaf3f1c564d@f6de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231011T150000Z
-LOCATION:Орш. В-413
-DTSTART:20231011T133000Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:d2cf84c4-710f-49a4-aafb-44747ce82772@d2cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20230927T150000Z
-LOCATION:Орш. В-413
-DTSTART:20230927T133000Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:bd1f4c75-463a-49b0-9ec1-54064170d0c2@bd1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
-DTEND:20230916T113000Z
-LOCATION:Берн. 14-ИЛА 09
-DTSTART:20230916T100000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:331e4bba-beac-4cb5-b37f-2f3af5bfa51e@331e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231002T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
-UID:518c1bdc-7e5e-40d4-b672-bd3a32539fe2@518c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231025T150000Z
-LOCATION:Орш. В-413
-DTSTART:20231025T133000Z
-SUMMARY:ЛР Технологии искусственного интеллекта
-UID:f5fba13e-d7f2-47d4-8861-7a4a6302a9bc@f5fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231010T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:1840d2f7-3776-43c1-bcea-19938d4eedec@1840.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
-DTEND:20231028T131500Z
-LOCATION:Берн. 14-ИЛА 09
-DTSTART:20231028T114500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:67fef096-859b-45aa-8db4-586c44fc7a56@67fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231130T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231130T133000Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:3f62434f-12e5-43a2-9de2-634ccc021315@3f62.org
+UID:1a08e370-af63-4b3e-a637-86a1133e07c3@1a08.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
@@ -854,145 +23,7 @@ DTEND:20231009T150000Z
 LOCATION:--каф.
 DTSTART:20231009T133000Z
 SUMMARY:ЛК Поддержание летной годности
-UID:b890cc5f-26ce-439a-8c34-b48f8bbdaf08@b890.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231012T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231012T151500Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:98bc15bc-87f1-40cd-b321-2d7b8342d8ed@98bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231024T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:7f595cc2-2567-41b0-aecd-7c3768d1be42@7f59.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:2b8bbd81-a4d2-4512-a0d9-3ff1170b62cf@2b8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20230928T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:e56948a0-d946-4e09-b092-c923c30f3a71@e569.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Поддержание летной годности
-UID:d5eb765d-5bb6-4788-9b6d-964e25202489@d5eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231005T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:e7972bc4-b5ae-4884-8cb1-198d12133f12@e797.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20230927T164500Z
-LOCATION:Орш. В-413
-DTSTART:20230927T151500Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:0e464674-96d7-4fc0-9562-750c095b24ef@0e46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231108T150000Z
-LOCATION:Орш. В-413
-DTSTART:20231108T133000Z
-SUMMARY:ЛР Технологии искусственного интеллекта
-UID:294ba244-835b-444e-a8e4-84ebedd853d2@294b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231205T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231205T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:a0116846-55a7-421c-a29f-160a18796dcb@a011.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231121T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:29738620-e949-4036-8800-1aac8acbc838@2973.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231003T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:28982fec-7cc0-4049-852e-7d3e85fa3e67@2898.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:aa2d0a38-4642-48da-852d-9bfb0c9186f7@aa2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231109T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231109T114500Z
-SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:9b5a3924-fae9-482e-ab8c-434277e34e86@9b5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231026T164500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:43cdb1b9-15b2-4357-9149-1b0a1a1a126d@43cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:15ebca49-9122-4f7e-8ce4-b0418892be5f@15eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
-DTEND:20231111T131500Z
-LOCATION:Берн. 14-ИЛА 09
-DTSTART:20231111T114500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:71df9ceb-36d8-4cbd-952a-a4fa11216a8d@71df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
-DTEND:20231014T113000Z
-LOCATION:Берн. 14-ИЛА 09
-DTSTART:20231014T100000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:e8bf2ea7-dd5c-4d01-987a-f46a10c8f46b@e8bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231012T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231012T114500Z
-SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:bbe6b732-e9be-4961-91ed-c2cd0bcc4617@bbe6.org
+UID:7a36c9e9-d93c-407d-908c-4e917f51006a@7a36.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
@@ -1000,145 +31,15 @@ DTEND:20230930T113000Z
 LOCATION:Берн. 14-ИЛА 09
 DTSTART:20230930T100000Z
 SUMMARY:ПЗ Научный семинар по авиастроению
-UID:a8a372a9-a7a3-4719-b586-97cf8d37e92a@a8a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231128T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:b01ec9a2-6c1c-4478-8c95-34b99713b5bc@b01e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:dd345bc1-9834-4bde-a8b4-57154742553a@dd34.org
+UID:a77d2e86-b371-425b-8084-ed6f8d31945e@a77d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231207T164500Z
+DTEND:20230907T164500Z
 LOCATION:Берн. 14-402-06
-DTSTART:20231207T151500Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:9680d3f5-b62c-4f60-9f66-8fde292ee3cd@9680.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231005T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231005T114500Z
-SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:baf95131-f0ac-446c-9f9c-2026ea556563@baf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231031T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231031T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:3c16ba5c-9ff7-4760-ac34-bc400e2e1884@3c16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231102T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231102T133000Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:23beabfd-9cfb-4783-a735-319c78e5873e@23be.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230905T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:2eb7b6b7-01ca-4f9d-9581-21933dfffd08@2eb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20230913T150000Z
-LOCATION:Орш. В-413
-DTSTART:20230913T133000Z
-SUMMARY:ЛК Технологии искусственного интеллекта
-UID:cfe33712-7e92-4844-a9ac-5f8b27333670@cfe3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ЛК Поддержание летной годности
-UID:27e3332b-ae27-45fb-bd30-b26f86022ca8@27e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231219T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231219T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:cd6993c3-aefc-4537-af12-45e0104814f6@cd69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231109T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231109T100000Z
-SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:ea5633b9-08ea-44e7-a226-1f20f612f37b@ea56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231005T113000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231005T100000Z
-SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:9d24b7fa-a8b0-43f1-bb5b-ddac55807f18@9d24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20231218T164500Z
-LOCATION:--каф.
-DTSTART:20231218T151500Z
-SUMMARY:ПЗ Поддержание летной годности
-UID:6746a901-6a56-4523-b0ce-a4e506158971@6746.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231010T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:505a3c2b-b246-40c0-817e-694f295e1be9@505a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231128T113000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231128T100000Z
-SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:a26c24b3-a38f-4300-a937-f0fb2374db4f@a26c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231003T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:a1d582f6-4399-40ce-9c99-71ce0121df34@a1d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20231102T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231102T114500Z
-SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
-UID:b8cf39ca-71e8-4802-a0ff-34800581de9d@b8cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231121T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:94dfae11-3fed-4c43-ac14-6bcbcbfec48e@94df.org
+DTSTART:20230907T151500Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:5190d85e-d76f-4987-9b2a-47d7cdc85f46@5190.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
@@ -1146,92 +47,70 @@ DTEND:20231009T164500Z
 LOCATION:--каф.
 DTSTART:20231009T151500Z
 SUMMARY:ПЗ Поддержание летной годности
-UID:abb5b035-06d4-40b4-90d0-77c8b2e454b1@abb5.org
+UID:f345fac5-b6fd-46d7-ae0b-82b46fa4d6f4@f345.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ЛК Поддержание летной годности
-UID:b78957d0-0f02-43e2-a20d-132e4b678cb5@b789.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
-DTEND:20230914T131500Z
-LOCATION:Берн. 14-402-06
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Менеджмент в сервисе авиационной техники
-UID:e47b39f8-9492-454b-92bc-9462692d8548@e47b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Поддержание летной годности
-UID:b7b1185a-0b76-4229-95a7-3126e8ce413a@b7b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
-DTEND:20231204T150000Z
-LOCATION:--каф.
-DTSTART:20231204T133000Z
-SUMMARY:ЛК Поддержание летной годности
-UID:58e61379-ea4a-465e-9727-61df8aec9681@58e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231019T150000Z
-LOCATION:Берн. 14-402-06
-DTSTART:20231019T133000Z
-SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:763ba26a-0c2d-439d-8979-88a564c1d295@763b.org
+DTEND:20231212T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231212T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:84c3e895-6408-49fd-bd2f-8bf53f67313b@84c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231018T164500Z
+DTEND:20230913T150000Z
 LOCATION:Орш. В-413
-DTSTART:20231018T151500Z
-SUMMARY:ЛР Технологии искусственного интеллекта
-UID:d081ebf0-0081-49a7-aa69-cc35fdaa4a8d@d081.org
+DTSTART:20230913T133000Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:b52adf3d-d7dd-4a77-abbe-a4215614eb8b@b52a.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231114T131500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Эргономика в обслуживании авиационной техники
-UID:05384d94-e127-424f-8324-f699e53e0151@0538.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T150000Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231205T133000Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:f4b38369-3a3b-4fae-8565-bbac3e19b107@f4b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20230928T164500Z
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20231012T131500Z
 LOCATION:Берн. 14-402-06
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
-UID:a632ed12-331e-49e1-89b8-5b5b0cbf7189@a632.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T164500Z
-LOCATION:Берн. 14-402-02
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
-UID:8a37fdbd-ebfa-4058-b075-9a32c75aa823@8a37.org
+DTSTART:20231012T114500Z
+SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
+UID:05e9a2c5-b795-4d13-b6e0-053fead39608@05e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
-DTEND:20231212T113000Z
+DTEND:20231113T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:be5346ce-ded6-4c58-8587-41f29170e53e@be53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231207T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231207T151500Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:094ef60b-ae16-4e0f-8022-852fbfcf52e2@094e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20230928T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Менеджмент в сервисе авиационной техники
+UID:647a6107-3f9f-4d38-bea5-b226f6d8a8b6@647a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231107T113000Z
 LOCATION:Берн. 14-402-02
-DTSTART:20231212T100000Z
+DTSTART:20231107T100000Z
 SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:f62bf1dd-c2d2-44dd-bcc7-d6a77ef4e093@f62b.org
+UID:64d4f0dc-9604-4399-a8ca-120b6964fafd@64d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20230907T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Менеджмент в сервисе авиационной техники
+UID:e921046b-cc95-47cf-810f-c5334abc0b4f@e921.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
@@ -1239,15 +118,356 @@ DTEND:20230919T113000Z
 LOCATION:Берн. 14-402-02
 DTSTART:20230919T100000Z
 SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:a5128823-9f35-4e1e-b29c-da258a2fddca@a512.org
+UID:5d668b0d-2f43-4e6c-af95-47eaaa4bed20@5d66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231101T150000Z
+LOCATION:Орш. В-413
+DTSTART:20231101T133000Z
+SUMMARY:ЛР Технологии искусственного интеллекта
+UID:14986041-b6da-417b-a3bc-58c1b5dac8f8@1498.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231219T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:60035a55-df32-446d-8980-c4d1a7aa59eb@6003.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
+DTEND:20230916T113000Z
+LOCATION:Берн. 14-ИЛА 09
+DTSTART:20230916T100000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:4dc0e5c6-b5f3-4677-b7cd-66fbc657a00e@4dc0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231003T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:77390476-3a1e-456e-ad42-ae71bfbbc45c@7739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231004T164500Z
+LOCATION:Орш. В-413
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:e640aa86-e506-487c-a5a7-c6284daf3bc8@e640.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
-DTEND:20231116T150000Z
+DTEND:20231005T164500Z
 LOCATION:Берн. 14-402-06
-DTSTART:20231116T133000Z
+DTSTART:20231005T151500Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:c7e08ed4-6254-4e79-907e-e6559ce500de@c7e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20230918T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:5ba83b28-35a2-467e-ae67-b575d0fdf5b4@5ba8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231030T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:32022393-2ae4-43cb-a52a-60d7cd35c188@3202.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T164500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:187e432e-9e69-4cbd-a7c0-42ca8f6d7323@187e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20231204T150000Z
+LOCATION:--каф.
+DTSTART:20231204T133000Z
+SUMMARY:ЛК Поддержание летной годности
+UID:cac4b870-4025-41cb-9f7c-2b5ddbdfe2eb@cac4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T164500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231121T151500Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:bac797da-96c3-4d17-ab80-6792bd362b50@bac7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231030T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:708a9b24-0fed-49ac-9c27-ff1cd58ad3eb@708a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20230906T150000Z
+LOCATION:Орш. В-413
+DTSTART:20230906T133000Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:22c6c0b1-bfe5-4d69-ab07-93696ef6ae4a@22c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231109T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231109T133000Z
 SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
-UID:fc9991e1-bf67-43af-8b7e-0a0a5f8e6055@fc99.org
+UID:8623e5da-3075-43c6-848f-4c3d324b79af@8623.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20230904T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:3800ede4-24c3-4867-9141-431d0122b77a@3800.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:3ceebb80-a12a-480a-8037-cc9fe411dd44@3cee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Поддержание летной годности
+UID:b327618a-c32e-42e5-9bd0-1e9e5d37c37d@b327.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20230921T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230921T151500Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:bd65e2bb-8490-426a-8b60-1bbab469bfb3@bd65.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230912T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:0cb67402-7bf0-4a62-88fd-92a62f512e04@0cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20230907T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:0ad19bc4-15f9-4a08-9d79-5f27ccb44fd5@0ad1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20230914T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:1cb68bb4-03f8-4a33-be65-84773eb9df4a@1cb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231011T150000Z
+LOCATION:Орш. В-413
+DTSTART:20231011T133000Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:7e99e253-94d0-4ea7-900f-ebc29f3bd557@7e99.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:9603a408-ab45-42e6-aa02-38fd69ed6c1d@9603.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231017T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231017T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:1b1520ed-ec81-44c0-827a-675119b40206@1b15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231018T164500Z
+LOCATION:Орш. В-413
+DTSTART:20231018T151500Z
+SUMMARY:ЛР Технологии искусственного интеллекта
+UID:ccebc5ce-b3f6-4d83-8c19-19686025b730@cceb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20230926T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230926T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:93e699ac-2f7c-4d73-9bb6-4f561a5ffa8a@93e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
+DTEND:20231014T113000Z
+LOCATION:Берн. 14-ИЛА 09
+DTSTART:20231014T100000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:440e40f3-a867-4aa9-a626-0eceed8e2ba4@440e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231109T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:723b38b6-8182-4489-9bfe-160ae68e3495@723b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231130T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231130T133000Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:0555df16-af13-49b6-a873-05fec00f7b1b@0555.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20231019T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231019T100000Z
+SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
+UID:daed1da4-d9be-4da4-b404-3c67a972a221@daed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20230921T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:265817f7-cfc0-4bd0-8f0c-8e169ff87ac0@2658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
+DTEND:20230916T131500Z
+LOCATION:Берн. 14-ИЛА 09
+DTSTART:20230916T114500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:1319de32-cafe-43c5-8d65-27009e3f16e0@1319.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231003T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:cb950e71-cd54-419c-89a8-b45ee935ddee@cb95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231011T164500Z
+LOCATION:Орш. В-413
+DTSTART:20231011T151500Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:4f737ccb-7fd4-479b-b8f3-dc583b327e37@4f73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231108T164500Z
+LOCATION:Орш. В-413
+DTSTART:20231108T151500Z
+SUMMARY:ЛР Технологии искусственного интеллекта
+UID:12630299-dd41-4e41-bf45-5af9a7ac9888@1263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231002T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:b3d7bb04-1edb-471c-b070-cd37dab3741f@b3d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20230918T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:ee15607e-e3b5-4d51-ada3-e2edcdf01c12@ee15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231121T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231121T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:e42c3a65-0888-42fe-bd1d-d8610f97b00c@e42c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231205T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:ce525f79-9435-4da8-bc54-f717a7905006@ce52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20231218T150000Z
+LOCATION:--каф.
+DTSTART:20231218T133000Z
+SUMMARY:ЛК Поддержание летной годности
+UID:7d2462ff-ce56-45f2-a187-6ddebae85742@7d24.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230926T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:91ba6da4-7848-4189-9edd-9928c2b6d8e2@91ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231019T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231019T133000Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:869161dd-daf4-4b70-815c-ed36c5c98296@8691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20231204T164500Z
+LOCATION:--каф.
+DTSTART:20231204T151500Z
+SUMMARY:ПЗ Поддержание летной годности
+UID:d4b21164-e8d3-4d58-999c-4c8fec08ebaa@d4b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T164500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:2696d091-64df-4169-9464-84fac4b4e835@2696.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20230928T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:80c33c5f-9940-4d4a-9319-3fb4cfc478a4@80c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
@@ -1255,6 +475,786 @@ DTEND:20231024T113000Z
 LOCATION:Берн. 14-402-02
 DTSTART:20231024T100000Z
 SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
-UID:359f7d75-c964-4ed6-ad81-40eb4a74580f@359f.org
+UID:4e9e2a91-e24e-4bf3-a739-75a986b25cf1@4e9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231016T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:dc1b7b9c-aea4-48ab-b80a-b368f56ae380@dc1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231108T150000Z
+LOCATION:Орш. В-413
+DTSTART:20231108T133000Z
+SUMMARY:ЛР Технологии искусственного интеллекта
+UID:88c8b6e4-deab-4b92-b1df-4cb7ccbd10fe@88c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20230927T150000Z
+LOCATION:Орш. В-413
+DTSTART:20230927T133000Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:d4cb0857-e0cf-43f2-a7c7-60d783496e14@d4cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:2ceb070b-27ca-4225-bd49-4a9f5d2d4090@2ceb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
+DTEND:20231111T131500Z
+LOCATION:Берн. 14-ИЛА 09
+DTSTART:20231111T114500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:8c151164-5fac-4e8c-b717-cfde65927ab5@8c15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
+DTEND:20230930T131500Z
+LOCATION:Берн. 14-ИЛА 09
+DTSTART:20230930T114500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:7fc892fa-a19d-4287-8377-2746f939eb2f@7fc8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231024T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:865d233f-2169-4c47-a3e8-3872be3eb963@865d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231102T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:b1850bbc-db04-48fc-b4c4-02276982e2a4@b185.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231107T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:1209d382-605d-4b9a-9eb4-4cc669479910@1209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231113T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:c3a8b13a-bd7a-4ee5-a3dd-88ca977a527c@c3a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231018T150000Z
+LOCATION:Орш. В-413
+DTSTART:20231018T133000Z
+SUMMARY:ЛР Технологии искусственного интеллекта
+UID:667a8466-a23c-47b2-9e7b-818caa7813e6@667a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20231109T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231109T114500Z
+SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
+UID:a017e182-adf1-4231-8a03-e74c9f21c720@a017.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:0d5b22b1-d7cf-49a6-a335-1ba08ab2cdb0@0d5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231101T164500Z
+LOCATION:Орш. В-413
+DTSTART:20231101T151500Z
+SUMMARY:ЛР Технологии искусственного интеллекта
+UID:7140ace8-84e3-4f42-a740-fc76ed5804e2@7140.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20230904T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:e9a5c0e3-6fde-4291-aa75-060a3758324a@e9a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231024T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:e897f9ec-df90-492e-823c-a4138643ffc2@e897.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Поддержание летной годности
+UID:7ad1c34e-4f5e-4b5b-820a-13a725472dd1@7ad1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:2e18bfd1-31e0-4aaa-aef9-a39599f9532e@2e18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231219T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231219T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:b933c483-cf79-4ad2-8478-38ef782bf717@b933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20230921T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Менеджмент в сервисе авиационной техники
+UID:06ab3e02-087d-4595-b0b7-cc062991aada@06ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20231026T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231026T100000Z
+SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
+UID:75c5bd90-05c2-47ab-98cd-d943039ed9b6@75c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231010T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:f3d7d155-ef9e-481b-b5c7-79bce8eec51b@f3d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231219T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:87f2e824-06ca-474e-a5e6-87e9356b7e12@87f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230919T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:1b13374f-31cb-483d-81fe-81ad01591395@1b13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ЛК Поддержание летной годности
+UID:bd32413d-7b98-4541-b143-15e532c741a2@bd32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231002T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:08ce0a08-6809-4ffa-b1c4-cddf391a38d9@08ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20230906T164500Z
+LOCATION:Орш. В-413
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:836eeacf-b8f8-4d92-8fd0-c55cd218ca06@836e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:16949295-3de4-4418-9c74-25c7486e13e5@1694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231012T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231012T151500Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:e0ed0705-f2bd-4d3f-8bfa-ebf194b77661@e0ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:2c141f9f-561d-42b6-ab14-735ac8a6a6de@2c14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Поддержание летной годности
+UID:669150d7-9c88-446c-afaf-22fdac751676@6691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
+DTEND:20231028T113000Z
+LOCATION:Берн. 14-ИЛА 09
+DTSTART:20231028T100000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:13a6a9eb-6274-4d25-ae09-f72964a5f537@13a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230926T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:8e7086f5-65b0-4fdf-8d3f-d92bc215dfc4@8e70.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231010T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:0966db6c-e253-4998-8168-7493340cfdec@0966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231019T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:d4a7e4f4-963a-469c-b60d-c1451243f906@d4a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T164500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230926T151500Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:4afed537-926b-410f-b720-f56d4355c825@4afe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20230905T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230905T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:2486bfa3-770c-4a92-90cb-ec1731198a3a@2486.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20230920T150000Z
+LOCATION:Орш. В-413
+DTSTART:20230920T133000Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:ae5204c8-565a-4b31-af6b-a38b125a6e3b@ae52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231130T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231130T151500Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:b877ec2d-b291-46d7-bf0d-93e40b1b8925@b877.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20230920T164500Z
+LOCATION:Орш. В-413
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:5ee420df-fd04-49ba-a0e5-f18f8c3caa93@5ee4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231031T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231031T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:d995be3e-2381-40fe-b1b5-45659c919632@d995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20230907T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Менеджмент в сервисе авиационной техники
+UID:3a97cb63-4274-4a58-9f0f-1db458a61941@3a97.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231121T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:ad0630b1-d207-4490-afad-567f7d730779@ad06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
+DTEND:20231014T131500Z
+LOCATION:Берн. 14-ИЛА 09
+DTSTART:20231014T114500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:4ffad279-7a83-492c-8162-66a9f8343b7e@4ffa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20231026T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231026T114500Z
+SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
+UID:dbddef3e-1e21-4cf5-a79a-eaa0118d3660@dbdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20230921T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Менеджмент в сервисе авиационной техники
+UID:6e976de9-2d37-4fc7-a1f5-e2aee856cbb7@6e97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231004T150000Z
+LOCATION:Орш. В-413
+DTSTART:20231004T133000Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:1358aaf7-b6f8-4929-bc89-99970a874016@1358.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231205T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:55f16c78-fda5-4bc5-b446-2dae3bcd3165@55f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231114T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231114T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:cade3d21-f303-4cf9-86f7-50fbc3c9f557@cade.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ЛК Поддержание летной годности
+UID:1365442e-868d-4ae5-ba3e-837f1da67a34@1365.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231026T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:4ce0efb5-d76c-4ee6-b097-b56b8ca158c2@4ce0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230912T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:091f6595-3533-4996-a348-acc9f8269f67@091f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
+DTEND:20231111T113000Z
+LOCATION:Берн. 14-ИЛА 09
+DTSTART:20231111T100000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:2c01e118-d988-4e3f-ab84-fdb4ef71d776@2c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231123T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:b5d249b3-4806-4ce1-a6df-9b2ea0b6c21c@b5d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T164500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:d03019ae-5a2b-4cec-8e2e-dba0e8e7a8be@d030.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231207T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:aea1457a-9a4e-4fec-a147-7d49100b4b08@aea1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231212T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:2fc6dc1b-1a04-423b-8070-c7d16c9ef7cd@2fc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231205T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231205T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:3141feab-2a91-435b-844a-a587bdda25f6@3141.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20231218T164500Z
+LOCATION:--каф.
+DTSTART:20231218T151500Z
+SUMMARY:ПЗ Поддержание летной годности
+UID:1d46a3a3-6b9e-4042-9860-19b75cf93a84@1d46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ЛК Поддержание летной годности
+UID:b4fb99e5-c4f4-4459-94cd-3b3cb68fedbb@b4fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231005T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:8ad6ee1a-994d-49ae-a4c7-d30674c43cec@8ad6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20231102T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231102T114500Z
+SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
+UID:97788ddf-ce34-4e25-bf3b-008a093fcdf9@9778.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231212T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231212T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:f8f003cc-fe80-4bf3-94b1-3dd448ed611f@f8f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20230913T164500Z
+LOCATION:Орш. В-413
+DTSTART:20230913T151500Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:94c63c33-efc8-45dc-9ed2-243d628afe48@94c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРИЛЛИН АНДРЕЙ ВИКТОРОВИЧ
+DTEND:20231028T131500Z
+LOCATION:Берн. 14-ИЛА 09
+DTSTART:20231028T114500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:21f5ff0c-8634-4803-a95c-6cd69f4b9273@21f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231003T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231003T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:4132e67d-46aa-4280-992b-2e1c031c6119@4132.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20230914T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Менеджмент в сервисе авиационной техники
+UID:f992887c-b7ea-4950-b82c-303011f7a9ac@f992.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231107T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:a62ccaf5-698d-4670-a09b-ff37229092c1@a62c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231128T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231128T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:1ef78207-a454-4373-8ce8-b0ef407773e7@1ef7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20231005T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231005T114500Z
+SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
+UID:18ff4918-c0f0-4101-a348-e02e232f8687@18ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20230914T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230914T151500Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:9355e835-76e4-4df8-86a7-c5de169ffe2c@9355.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231012T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:2305cfae-4c55-412b-aaf1-e9eece50385d@2305.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231026T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231026T133000Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:690e75f5-0997-4bbf-ba50-aade89c39d02@690e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T164500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230912T151500Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:bf87b280-b03d-4cc2-a984-fa3c8196f4c3@bf87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20231012T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231012T100000Z
+SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
+UID:7bbe89f6-8d91-4dfc-b186-26ac9f3400f4@7bbe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230905T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:8b3b6187-6388-4920-9dea-a976a2708bf9@8b3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231102T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231102T133000Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:05571af6-1295-4ebf-ae27-536dbe34e730@0557.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20231109T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231109T100000Z
+SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
+UID:ed4074de-99a9-4167-a7ae-e7d908fa4f74@ed40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20230928T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Безопасность полетов и эксплуатация авиационной техники
+UID:0666985b-a64f-4fe1-9139-abbf4e7b78f7@0666.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20231019T131500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231019T114500Z
+SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
+UID:842a8b5e-2d09-4114-aa90-31b3e3ec3ff7@842a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Поддержание летной годности
+UID:21a002f5-fd47-4d12-bfac-27674f03b25f@21a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T131500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Эргономика в обслуживании авиационной техники
+UID:3af52c7f-4a35-4b26-996d-b2970e23ec4c@3af5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231121T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:7530ad48-4ead-44a9-8de6-947da23b58f1@7530.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231016T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Системный анализ в задачах послепродажного обслуживания
+UID:2c70d7ca-16e3-495d-99d4-f479a90e4faf@2c70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20230912T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20230912T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:2c3c3f99-9b33-4093-860b-5cd62ea1bcd5@2c3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:6769effa-1104-4fb0-808b-e00663c7f863@6769.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20230928T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Менеджмент в сервисе авиационной техники
+UID:a06900cb-c406-4902-a169-15bc5411bf55@a069.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231025T150000Z
+LOCATION:Орш. В-413
+DTSTART:20231025T133000Z
+SUMMARY:ЛР Технологии искусственного интеллекта
+UID:cf6db585-c380-41ed-a4af-3a4834e54458@cf6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T164500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:48fc71e9-813c-46c1-a788-6a5ce2f83d43@48fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231116T164500Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:173182a1-d2ef-42f8-b704-0893efd4bc08@1731.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20231102T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231102T100000Z
+SUMMARY:ПЗ Менеджмент в сервисе авиационной техники
+UID:3338c488-0c5c-475c-8b43-0da8c157f1f3@3338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ЛК Поддержание летной годности
+UID:18bba0fa-4e4c-41a1-8211-b498f2832cf1@18bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T164500Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:280e8ec4-e43e-4647-b2be-8a32ded2e7b7@280e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Поддержание летной годности
+UID:8e471218-4a1a-4e6d-b9e8-8a99db2d26b2@8e47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20230927T164500Z
+LOCATION:Орш. В-413
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Технологии искусственного интеллекта
+UID:a077de70-5d72-4454-a5a2-30a1eb15dd4f@a077.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПИЛИШКИН ВЛАДИМИР НИКОЛАЕВИЧ
+DTEND:20231010T113000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231010T100000Z
+SUMMARY:ПЗ Системный анализ в задачах послепродажного обслуживания
+UID:eb5c8325-55b9-419b-83af-461361f8353d@eb5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТРУНОВА ЕЛЕНА АНАТОЛЬЕВНА
+DTEND:20230914T113000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20230914T100000Z
+SUMMARY:ЛК Менеджмент в сервисе авиационной техники
+UID:3b6b4186-28eb-461f-b30c-e7939859e614@3b6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T150000Z
+LOCATION:Берн. 14-402-02
+DTSTART:20231017T133000Z
+SUMMARY:ПЗ Эргономика в обслуживании авиационной техники
+UID:10cded62-6824-4970-9e0b-df0566a0568f@10cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231116T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231116T133000Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:4ded6f68-659d-4c1a-a333-a69cedce26af@4ded.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОГДАНОВА ОЛЬГА АЛЕКСАНДРОВНА
+DTEND:20231123T150000Z
+LOCATION:Берн. 14-402-06
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ Безопасность полетов и эксплуатация авиационной техники
+UID:b5c88ca8-7b36-4460-92ab-634749c310d9@b5c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КИРПИЧЕВ ИГОРЬ ГЕННАДЬЕВИЧ
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ЛК Поддержание летной годности
+UID:42eb886e-1725-49c7-8ba2-0de82b0a3f74@42eb.org
 END:VEVENT
 END:VCALENDAR

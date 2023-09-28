@@ -2,696 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20230922T131500Z
-LOCATION:--каф.
-DTSTART:20230922T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:21c66d38-760b-49b5-8696-59087ce1d1f2@21c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231003T131500Z
-LOCATION:24-215.1
-DTSTART:20231003T114500Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:c640214c-5945-45e8-b2ac-cd49a338c18f@c640.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T131500Z
-LOCATION:--каф.
-DTSTART:20231013T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:ee11c007-3607-468d-9726-beda6ce628f0@ee11.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T091500Z
-LOCATION:--каф.
-DTSTART:20230929T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:385f67ee-fb33-4f18-8da0-507b14a4fb2e@385f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231115T113000Z
-LOCATION:24-215.1
-DTSTART:20231115T100000Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:35cd346d-1d49-41b5-82f1-0178d11afa6d@35cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231207T073000Z
-LOCATION:24-308Б
-DTSTART:20231207T060000Z
-SUMMARY:ЛР Технология производства летательных аппаратов
-UID:d25a1f8d-b258-4555-9d23-00e638579e16@d25a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231108T091500Z
-LOCATION:24-215.1
-DTSTART:20231108T074500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:71d80d7e-2c6e-4741-a2f4-ec66f9d4204c@71d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231227T091500Z
-LOCATION:24-215.1
-DTSTART:20231227T074500Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:c04db4c3-5ea6-4f96-bd26-f2829c31d2d2@c04d.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Коломоец Елена Николаевна
-DTEND:20231220T131500Z
+DTEND:20231025T131500Z
 LOCATION:24-400
-DTSTART:20231220T114500Z
+DTSTART:20231025T114500Z
 SUMMARY:ЛК Социология
-UID:d9dac99c-60c3-4e02-8da2-a91b1e0869a9@d9da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230919T073000Z
-LOCATION:24-215.1
-DTSTART:20230919T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:cfea77f8-976d-4962-a21d-01d69045e809@cfea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T131500Z
-LOCATION:--каф.
-DTSTART:20231020T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:93e8fc1a-8016-48c1-ae01-724fde0c4c48@93e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231212T073000Z
-LOCATION:24-215.1
-DTSTART:20231212T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:74408550-f0d8-4a58-af43-be68e1c128cc@7440.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231010T113000Z
-LOCATION:24-215.1
-DTSTART:20231010T100000Z
-SUMMARY:ЛР Эффективность функционирования летательных аппаратов
-UID:7203c5a3-93b7-4752-8235-48fb3b082306@7203.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231221T131500Z
-LOCATION:24-210.3
-DTSTART:20231221T114500Z
-SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
-UID:689dc93a-346c-4b51-b0ad-76cfe80672ba@689d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T073000Z
-LOCATION:--каф.
-DTSTART:20231020T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:7536e25b-0029-4235-9f0a-0836cb534cf0@7536.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231017T091500Z
-LOCATION:24-215.1
-DTSTART:20231017T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:dde51526-a6e5-4ea2-b2c5-2152b4799897@dde5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T113000Z
-LOCATION:--каф.
-DTSTART:20231215T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:67f1bef3-5713-476b-be0f-00df6366726d@67f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T131500Z
-LOCATION:--каф.
-DTSTART:20231215T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:d5324369-fb63-4aa8-9122-807313b93012@d532.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T131500Z
-LOCATION:--каф.
-DTSTART:20231117T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:3989ead4-718c-4d7d-8862-4db0a54af333@3989.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231220T113000Z
-LOCATION:24-215.1
-DTSTART:20231220T100000Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:a4932a5e-d432-458d-8b2e-ee9fb5496ddf@a493.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231031T091500Z
-LOCATION:24-215.1
-DTSTART:20231031T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:52c1d626-83a1-41d8-b145-4e3c26329868@52c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T091500Z
-LOCATION:--каф.
-DTSTART:20230922T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:ab33d3c3-a22e-4fef-b796-648a40899c7a@ab33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20230905T113000Z
-LOCATION:24-215.1
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:3680d7ae-f3d4-4795-8125-a78f1c0e0905@3680.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T091500Z
-LOCATION:--каф.
-DTSTART:20231208T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:097154b4-4f2e-402b-90a8-b292bffb6566@0971.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231218T113000Z
-LOCATION:24-210.3
-DTSTART:20231218T100000Z
-SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
-UID:6b55fe54-3a76-4ffe-85d2-5f289736b09c@6b55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231128T131500Z
-LOCATION:24-215.1
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:4997c79c-2439-4b86-889c-ca7e2e92c9c3@4997.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231129T091500Z
-LOCATION:24-215.1
-DTSTART:20231129T074500Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:b78b8239-2aec-4039-8f96-27e7085dfb69@b78b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T131500Z
-LOCATION:--каф.
-DTSTART:20230901T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:20e76559-37d8-4239-ac57-712ca7a6da19@20e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231130T131500Z
-LOCATION:24-215.1
-DTSTART:20231130T114500Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:5e5d0922-69c8-4ad7-a218-faeb39e64433@5e5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231011T113000Z
-LOCATION:24-215.1
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:32dd1861-4d33-43c7-b1ab-b1b3facb0ee7@32dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231102T131500Z
-LOCATION:24-215.1
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:b9c683ef-5c9d-45af-98bc-18cfc5e5b083@b9c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231109T073000Z
-LOCATION:24-308Б
-DTSTART:20231109T060000Z
-SUMMARY:ЛР Технология производства летательных аппаратов
-UID:102a97ce-dd13-4dce-a79b-fb61d9dbdf08@102a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20230906T131500Z
-LOCATION:24-215.1
-DTSTART:20230906T114500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:dd9b79e8-14ae-4ec5-9ff3-553d34e159ee@dd9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231226T091500Z
-LOCATION:24-215.1
-DTSTART:20231226T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:7e2d6ae7-dd8c-4ffa-b3b2-5a3bf02fa1ac@7e2d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T091500Z
-LOCATION:--каф.
-DTSTART:20231222T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:c2e66f40-85f3-436e-a963-7360aff6c8d5@c2e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231206T091500Z
-LOCATION:24-215.1
-DTSTART:20231206T074500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:68a85262-e8de-4562-b4c9-905e04bae034@68a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231116T131500Z
-LOCATION:24-215.1
-DTSTART:20231116T114500Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:ec29da1f-1029-4996-ab2d-de37920c7e1a@ec29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20240120T091500Z
-LOCATION:24-215.1
-DTSTART:20240120T074500Z
-SUMMARY:Экзамен Надежность и обеспечение качества летательных аппаратов
-UID:db7416eb-e1ff-4fa0-8919-fb1086030cdc@db74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231128T073000Z
-LOCATION:24-215.1
-DTSTART:20231128T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:22b6311c-2992-4ca4-808c-99963b5c2884@22b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20230921T091500Z
-LOCATION:24-308Б
-DTSTART:20230921T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:2ca1d14a-1469-4dec-a644-f6ebe427514c@2ca1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матешук Анна Александровна
-DTEND:20230918T073000Z
-LOCATION:24-744
-DTSTART:20230918T060000Z
-SUMMARY:ПЗ Социология
-UID:0b0091a3-c2dc-4cc0-936d-b0332f24e1e1@0b00.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T113000Z
-LOCATION:--каф.
-DTSTART:20231124T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:f7996189-76a3-408b-9cd3-f7a301b02a69@f799.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20230904T091500Z
-LOCATION:24-215.1
-DTSTART:20230904T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:abc0b6c1-a86a-4e1b-8128-d69c03aed9bc@abc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20230921T113000Z
-LOCATION:24-215.1
-DTSTART:20230921T100000Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:a37363b1-ab63-47d2-ae3e-163b28439bac@a373.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231122T113000Z
-LOCATION:24-215.1
-DTSTART:20231122T100000Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:e38e73c5-fab6-4851-b411-2f79365a1871@e38e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231010T131500Z
-LOCATION:24-215.1
-DTSTART:20231010T114500Z
-SUMMARY:ЛР Эффективность функционирования летательных аппаратов
-UID:c8b3cec3-8752-41aa-8af1-2129f7101e52@c8b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230926T091500Z
-LOCATION:24-215.1
-DTSTART:20230926T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:88d96972-4200-4283-9ddb-51999502eaf8@88d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231228T091500Z
-LOCATION:24-308Б
-DTSTART:20231228T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:08c85b5d-884c-47a9-be8b-82e9062a637b@08c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231026T113000Z
-LOCATION:24-210.3
-DTSTART:20231026T100000Z
-SUMMARY:ПЗ УИРС
-UID:876423fe-2ac4-4a21-aba4-9f90227a5dc9@8764.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матешук Анна Александровна
-DTEND:20231030T073000Z
-LOCATION:24-744
-DTSTART:20231030T060000Z
-SUMMARY:ПЗ Социология
-UID:f3962c4a-f716-4838-8f95-84d6ddd2acdc@f396.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231127T113000Z
-LOCATION:24-215.1
-DTSTART:20231127T100000Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:4a7a4fbc-42f7-4b9c-aad3-f4bdd5dab6c8@4a7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231011T091500Z
-LOCATION:24-215.1
-DTSTART:20231011T074500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:9db2484b-8d7a-4e2e-b8e5-862a3d12f5d8@9db2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231031T131500Z
-LOCATION:24-215.1
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:2aff53ea-e8e7-4685-abf1-d4da56a8d8c3@2aff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T113000Z
-LOCATION:--каф.
-DTSTART:20231201T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:1f6b0abf-e661-4871-bb56-0739697c7e52@1f6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231204T131500Z
-LOCATION:24-210.3
-DTSTART:20231204T114500Z
-SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
-UID:822303b0-d0af-45f8-9dc4-664998200650@8223.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20240124T073000Z
-LOCATION:24-215.1
-DTSTART:20240124T060000Z
-SUMMARY:Экзамен Тепловое проектирование конструкций летательных аппаратов
-UID:9ee3f275-80ae-4b93-a272-6e8a81d1b889@9ee3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T091500Z
-LOCATION:--каф.
-DTSTART:20231013T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:73b7c5c8-12a0-40fb-91b2-e4580a0d69ad@73b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231004T113000Z
-LOCATION:24-215.1
-DTSTART:20231004T100000Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:224b528a-fdce-4ca5-9a12-1d5e0b7793bc@224b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231016T113000Z
-LOCATION:24-215.1
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:9360508e-e182-4253-8af7-ff13191bd586@9360.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231128T113000Z
-LOCATION:24-215.1
-DTSTART:20231128T100000Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:38a7ccc2-d079-4ad3-bdc1-81cb92b84e6e@38a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231004T091500Z
-LOCATION:24-215.1
-DTSTART:20231004T074500Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:0843cf2a-38ca-4029-bdc7-e5511bfa9d3f@0843.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231214T131500Z
-LOCATION:24-215.1
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:d3e3945d-2f62-4d64-97f2-b581865536ab@d3e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231113T113000Z
-LOCATION:24-215.1
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:b916bb6d-9f88-4180-bd4e-30cd2dd19a30@b916.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231024T091500Z
-LOCATION:24-215.1
-DTSTART:20231024T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:3cff9bc2-d567-4e6f-9ce4-5f93b8e7ae0e@3cff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231101T131500Z
-LOCATION:24-215.1
-DTSTART:20231101T114500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:ee9906bb-8092-402a-8f5c-c74863acb26b@ee99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231009T091500Z
-LOCATION:24-215.1
-DTSTART:20231009T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:cebb0466-80b3-4412-ba6a-d047d8536814@cebb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матешук Анна Александровна
-DTEND:20231016T073000Z
-LOCATION:24-744
-DTSTART:20231016T060000Z
-SUMMARY:ПЗ Социология
-UID:02d9e3e4-57c1-4313-bc6e-b249347cdd48@02d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231024T131500Z
-LOCATION:24-215.1
-DTSTART:20231024T114500Z
-SUMMARY:ЛР Эффективность функционирования летательных аппаратов
-UID:64f29d04-b487-4115-afb3-8e344ba13fb7@64f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231220T091500Z
-LOCATION:24-215.1
-DTSTART:20231220T074500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:8c6abfb3-ebc8-452e-aa59-a64ced76cde5@8c6a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T113000Z
-LOCATION:--каф.
-DTSTART:20231117T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:9dbf34ea-71a6-4bb9-a66e-a87670805d59@9dbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231010T091500Z
-LOCATION:24-215.1
-DTSTART:20231010T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:8d096559-8761-4757-80dd-db5fc24b401e@8d09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231019T113000Z
-LOCATION:24-215.1
-DTSTART:20231019T100000Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:fea0349f-1dc1-4a35-9647-792ff0e8e008@fea0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231212T091500Z
-LOCATION:24-215.1
-DTSTART:20231212T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:cf9278a5-56d5-4ca7-9ea8-785fb808e563@cf92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231225T091500Z
-LOCATION:24-215.1
-DTSTART:20231225T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:eec148fe-d832-4f97-bc6d-95ea63c1e785@eec1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T091500Z
-LOCATION:--каф.
-DTSTART:20231027T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:fea31445-d876-4b00-b2cb-15bab5582be0@fea3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231228T131500Z
-LOCATION:24-215.1
-DTSTART:20231228T114500Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:f1dcbc8c-c5cc-4b60-8bae-33a901833cf1@f1dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231030T091500Z
-LOCATION:24-215.1
-DTSTART:20231030T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:a7ed1efc-85e0-4e82-9ae5-f8b2ec712df6@a7ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230926T131500Z
-LOCATION:24-215.1
-DTSTART:20230926T114500Z
-SUMMARY:ЛР Эффективность функционирования летательных аппаратов
-UID:dfcf62d3-2eeb-46b8-9f35-53756262c472@dfcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230926T113000Z
-LOCATION:24-215.1
-DTSTART:20230926T100000Z
-SUMMARY:ЛР Эффективность функционирования летательных аппаратов
-UID:a83e8836-fc72-4628-aaaf-acc74bd97594@a83e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T131500Z
-LOCATION:--каф.
-DTSTART:20231208T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:74f54993-2341-4eea-9a59-ac043afa764d@74f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20230918T091500Z
-LOCATION:24-215.1
-DTSTART:20230918T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:adfb6f71-5ece-46e9-91bc-35f0afecbfd8@adfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20230918T113000Z
-LOCATION:24-215.1
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:4812d1f4-1ed4-43b9-90f7-b72b113fe24b@4812.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231109T091500Z
-LOCATION:24-308Б
-DTSTART:20231109T074500Z
-SUMMARY:ЛР Технология производства летательных аппаратов
-UID:1cbfa57c-087e-48bd-8880-b0f87c8d77d9@1cbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20230927T091500Z
-LOCATION:24-215.1
-DTSTART:20230927T074500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:4d1140b2-46d4-4170-bd18-ca3eaa96c9fb@4d11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20230911T091500Z
-LOCATION:24-215.1
-DTSTART:20230911T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:281c9928-54f8-483e-a795-b67857f2d64f@281c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T073000Z
-LOCATION:--каф.
-DTSTART:20230922T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:84c8b154-6789-4fbc-9d25-5210316bef38@84c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231221T073000Z
-LOCATION:24-308Б
-DTSTART:20231221T060000Z
-SUMMARY:ЛР Технология производства летательных аппаратов
-UID:014ca29e-71ac-4856-bc13-b4e10e830412@014c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T131500Z
-LOCATION:--каф.
-DTSTART:20230915T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:9be09a55-e49e-4bd6-b1ea-ca1adaf7f93e@9be0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231005T113000Z
-LOCATION:24-215.1
-DTSTART:20231005T100000Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:2d15e650-43a0-4c05-ab1c-51c7b7f039d0@2d15.org
+UID:a4605c4e-72e2-4a26-a426-e6a98414b22a@a460.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вититин Виктор Федорович
@@ -699,695 +15,15 @@ DTEND:20231211T091500Z
 LOCATION:24-215.1
 DTSTART:20231211T074500Z
 SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:9a948110-aea1-463b-ac88-28c0c7ff8cb9@9a94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230905T073000Z
-LOCATION:24-215.1
-DTSTART:20230905T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:b6d20647-aed6-4fe3-bfed-fbee8f7a121f@b6d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230905T091500Z
-LOCATION:24-215.1
-DTSTART:20230905T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:52938901-9a12-409b-adae-de18d0ed3b2f@5293.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231109T113000Z
-LOCATION:24-210.3
-DTSTART:20231109T100000Z
-SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
-UID:83720527-eb21-4a5c-90fb-40eb47e4d6fb@8372.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20230914T131500Z
-LOCATION:24-210.3
-DTSTART:20230914T114500Z
-SUMMARY:ПЗ УИРС
-UID:cd5cf5e1-a5e5-481d-9573-7b58af4c27cd@cd5c.org
+UID:7621e542-4019-48be-8525-a2aab1be9749@7621.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231115T091500Z
+DTEND:20230906T131500Z
 LOCATION:24-215.1
-DTSTART:20231115T074500Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:63120a92-5b19-42d3-862a-025988ccb0d3@6312.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T073000Z
-LOCATION:--каф.
-DTSTART:20230929T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:b5e86c5f-aaf6-4f11-9c83-118798c97efe@b5e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231019T131500Z
-LOCATION:24-215.1
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:ca10bdc2-c834-4065-9e52-bb42dfa78b72@ca10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матешук Анна Александровна
-DTEND:20231127T073000Z
-LOCATION:24-744
-DTSTART:20231127T060000Z
-SUMMARY:ПЗ Социология
-UID:fe6e5b02-2821-4042-ad56-8361d6b53cf8@fe6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коломоец Елена Николаевна
-DTEND:20231025T131500Z
-LOCATION:24-400
-DTSTART:20231025T114500Z
-SUMMARY:ЛК Социология
-UID:be789150-dc09-49ad-ae33-8db363e978a9@be78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20230906T091500Z
-LOCATION:24-215.1
-DTSTART:20230906T074500Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:2bc97f17-804d-4f9e-a8ad-92d1d860ad9b@2bc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20240116T091500Z
-LOCATION:24-215.1
-DTSTART:20240116T074500Z
-SUMMARY:Экзамен Теоретические основы проектирования летательных аппаратов
-UID:b713dcc1-3703-49ce-8792-4513ca9893e5@b713.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231018T113000Z
-LOCATION:24-215.1
-DTSTART:20231018T100000Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:cb05f17c-eaee-47d1-9531-9f7a75e58a13@cb05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231214T091500Z
-LOCATION:24-308Б
-DTSTART:20231214T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:cdc6c246-6b60-42e1-8ab0-c54ef8f9ad25@cdc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коломоец Елена Николаевна
-DTEND:20231122T131500Z
-LOCATION:24-400
-DTSTART:20231122T114500Z
-SUMMARY:ЛК Социология
-UID:dd4aef7b-a1d6-43ce-914d-11c40d47af58@dd4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231031T073000Z
-LOCATION:24-215.1
-DTSTART:20231031T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:951f8159-1bd3-4f16-b78a-8428c84bd1a2@951f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231101T091500Z
-LOCATION:24-215.1
-DTSTART:20231101T074500Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:4aa19ce6-b1b9-408f-bf77-634d80549649@4aa1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T113000Z
-LOCATION:--каф.
-DTSTART:20230901T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:2bbe91b4-64c8-4228-bdfa-aaa08c7d68a8@2bbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231121T131500Z
-LOCATION:24-215.1
-DTSTART:20231121T114500Z
-SUMMARY:ЛР Теоретические основы проектирования летательных аппаратов
-UID:1582120a-bd02-4dd0-b1dc-99c7641c8134@1582.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231204T091500Z
-LOCATION:24-215.1
-DTSTART:20231204T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:5bf7a54f-d812-47b1-b04a-87e4a3306631@5bf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20230927T113000Z
-LOCATION:24-215.1
-DTSTART:20230927T100000Z
+DTSTART:20230906T114500Z
 SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:cd6aa0f4-08b6-46b0-bde6-91d3c88f9099@cd6a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T073000Z
-LOCATION:--каф.
-DTSTART:20230908T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:87109635-8a03-4a8f-bb5c-00833d93efda@8710.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T091500Z
-LOCATION:--каф.
-DTSTART:20230915T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:13f29c97-78ec-4299-a30d-d550c214ea3e@13f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231002T113000Z
-LOCATION:24-215.1
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:db6da53d-0571-4c51-859a-519981fabc27@db6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T113000Z
-LOCATION:--каф.
-DTSTART:20230929T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:ff8c2e9d-3c97-4dc3-90af-1063f5974365@ff8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231107T091500Z
-LOCATION:24-215.1
-DTSTART:20231107T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:818aa708-ba88-4256-aaa7-28c2e0e7c285@818a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231205T131500Z
-LOCATION:24-215.1
-DTSTART:20231205T114500Z
-SUMMARY:ЛР Теоретические основы проектирования летательных аппаратов
-UID:3490f7a2-12b4-4fc2-bfd8-b588daa9826d@3490.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коломоец Елена Николаевна
-DTEND:20230913T131500Z
-LOCATION:24-400
-DTSTART:20230913T114500Z
-SUMMARY:ЛК Социология
-UID:9274363c-fd66-4a42-b417-c83271d0ddaf@9274.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231130T113000Z
-LOCATION:24-215.1
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:39918984-f6a4-4444-8757-f8d036f5b5dc@3991.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231019T073000Z
-LOCATION:24-308Б
-DTSTART:20231019T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:3de3d5f2-6b51-41ec-98c4-de612e7f319b@3de3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231205T073000Z
-LOCATION:24-215.1
-DTSTART:20231205T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:5a9580b7-0651-4dc3-a238-b0cfe10e821d@5a95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20230914T091500Z
-LOCATION:24-308Б
-DTSTART:20230914T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:4e045f39-2173-48f8-baae-2f02bb6e7faf@4e04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231226T073000Z
-LOCATION:24-215.1
-DTSTART:20231226T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:0d216615-adb3-4558-bea7-e4bfe42b228a@0d21.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T091500Z
-LOCATION:--каф.
-DTSTART:20231215T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:0437112b-012d-4810-8068-087891ed387e@0437.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20230928T091500Z
-LOCATION:24-308Б
-DTSTART:20230928T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:5a58802d-230f-4c10-ba72-997796dd3381@5a58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231212T113000Z
-LOCATION:24-215.1
-DTSTART:20231212T100000Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:1ba6ad9a-ccd8-4006-b3db-d712ede492b0@1ba6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231227T113000Z
-LOCATION:24-215.1
-DTSTART:20231227T100000Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:129959ce-7e82-4e38-908f-9b3cbffd715c@1299.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231017T131500Z
-LOCATION:24-215.1
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:41b504d4-b310-44c7-ba28-a4159cac4850@41b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231102T091500Z
-LOCATION:24-308Б
-DTSTART:20231102T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:dab455c9-ac69-4526-a261-eadd27aaf041@dab4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231129T113000Z
-LOCATION:24-215.1
-DTSTART:20231129T100000Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:615a51b9-a8fb-4041-a36b-4b28c4240a2d@615a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20230913T091500Z
-LOCATION:24-215.1
-DTSTART:20230913T074500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:7db9009b-c7c4-4da8-b420-27b202ba2dbe@7db9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20230921T073000Z
-LOCATION:24-308Б
-DTSTART:20230921T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:88086804-bcab-4f6e-9f6d-e4a9b8aa074c@8808.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20230907T113000Z
-LOCATION:24-215.1
-DTSTART:20230907T100000Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:d38cc74e-5d57-45cd-a8d6-e22c91f55d6a@d38c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20230928T073000Z
-LOCATION:24-308Б
-DTSTART:20230928T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:c4143ca2-fe68-47b9-8358-574eaabe2bb6@c414.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231122T091500Z
-LOCATION:24-215.1
-DTSTART:20231122T074500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:492ce8bd-e670-4d22-81c7-1f9874173038@492c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231114T091500Z
-LOCATION:24-215.1
-DTSTART:20231114T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:fb16e902-b00a-4d1b-a572-9f83488710cc@fb16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231226T131500Z
-LOCATION:24-215.1
-DTSTART:20231226T114500Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:113ea432-9b5c-4a05-8bc0-f58cd3d12542@113e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231101T113000Z
-LOCATION:24-215.1
-DTSTART:20231101T100000Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:b18e86ba-08c3-4c44-8444-dfa167d9f1b2@b18e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T073000Z
-LOCATION:--каф.
-DTSTART:20231006T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:75429c85-b917-4e98-9afa-149e9b89c195@7542.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231120T131500Z
-LOCATION:24-210.3
-DTSTART:20231120T114500Z
-SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
-UID:f617c978-e03d-4606-810b-09412194798d@f617.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T113000Z
-LOCATION:--каф.
-DTSTART:20231110T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:1945e6f9-f453-42c3-bed2-512f5361e197@1945.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231207T113000Z
-LOCATION:24-210.3
-DTSTART:20231207T100000Z
-SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
-UID:cf762183-29cf-482f-a40e-8f11ddb20220@cf76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20230928T113000Z
-LOCATION:24-210.3
-DTSTART:20230928T100000Z
-SUMMARY:ПЗ УИРС
-UID:38f09114-aa93-4d40-97fe-47c39c293c4a@38f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20230914T073000Z
-LOCATION:24-308Б
-DTSTART:20230914T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:e7176721-1994-4022-a58b-170458c5f610@e717.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231023T073000Z
-LOCATION:24-215.1
-DTSTART:20231023T060000Z
-SUMMARY:ПЗ Надежность и обеспечение качества летательных аппаратов
-UID:e6bef7a7-ba73-4b38-9724-b0bb167d4c94@e6be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20230928T131500Z
-LOCATION:24-210.3
-DTSTART:20230928T114500Z
-SUMMARY:ПЗ УИРС
-UID:0007ae7e-8acb-4d1b-8e08-2cd28d29633b@0007.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231219T073000Z
-LOCATION:24-215.1
-DTSTART:20231219T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:08fa773f-e49f-4727-b9e6-f903676d1549@08fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231003T091500Z
-LOCATION:24-215.1
-DTSTART:20231003T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:b0150b5e-2231-4379-bec8-d3af83b2618c@b015.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T073000Z
-LOCATION:--каф.
-DTSTART:20231201T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:b4ed7b5a-0e21-476c-a8a1-774793901f7e@b4ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231005T073000Z
-LOCATION:24-308Б
-DTSTART:20231005T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:2294cf79-cc34-44a0-b035-e677d2183bbf@2294.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231114T113000Z
-LOCATION:24-215.1
-DTSTART:20231114T100000Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:eaf1fc0e-499e-4634-8bbd-6701d7d3c39a@eaf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231121T091500Z
-LOCATION:24-215.1
-DTSTART:20231121T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:12eae3c5-493f-4fd6-b9cb-e243e1f39442@12ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231115T131500Z
-LOCATION:24-215.1
-DTSTART:20231115T114500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:308d32ad-3e8d-4ba3-af51-dd09dd235c00@308d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231025T113000Z
-LOCATION:24-215.1
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:ef32c984-1720-449a-8498-9b4787fc68d6@ef32.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T073000Z
-LOCATION:--каф.
-DTSTART:20230915T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:b38aab44-a55e-4f9e-91db-57fe5b6d67fb@b38a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231012T073000Z
-LOCATION:24-308Б
-DTSTART:20231012T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:c299bf28-b690-427b-a6e1-1b08ab9ed236@c299.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T073000Z
-LOCATION:--каф.
-DTSTART:20231027T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:8b70a47c-e9df-4f8c-8c2f-272e69ec24aa@8b70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20230920T113000Z
-LOCATION:24-215.1
-DTSTART:20230920T100000Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:e7f7afdb-855e-4c4d-b4cb-20786e21e65b@e7f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231106T113000Z
-LOCATION:24-210.3
-DTSTART:20231106T100000Z
-SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
-UID:fea7407b-65cf-41e9-9c46-a4017ffd7326@fea7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T131500Z
-LOCATION:--каф.
-DTSTART:20231124T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:b6fa1288-a8aa-4b9c-9124-b07737cf020c@b6fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T113000Z
-LOCATION:--каф.
-DTSTART:20231103T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:33dec430-6c78-496b-8301-39ecb31c1e26@33de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231012T113000Z
-LOCATION:24-210.3
-DTSTART:20231012T100000Z
-SUMMARY:ПЗ УИРС
-UID:d34db77d-3dea-4193-a618-a4bd82dd3f42@d34d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231116T113000Z
-LOCATION:24-215.1
-DTSTART:20231116T100000Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:251b3e98-790f-4d56-94cc-d6bb398eb040@251b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231219T091500Z
-LOCATION:24-215.1
-DTSTART:20231219T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:97b831fe-8ed2-4a5b-852e-f1eb0640e202@97b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коломоец Елена Николаевна
-DTEND:20231206T131500Z
-LOCATION:24-400
-DTSTART:20231206T114500Z
-SUMMARY:ЛК Социология
-UID:2a134d38-0c2c-407b-8db4-598263664072@2a13.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T113000Z
-LOCATION:--каф.
-DTSTART:20231020T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:a142297c-a04a-4530-9056-b29e16175182@a142.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231221T113000Z
-LOCATION:24-210.3
-DTSTART:20231221T100000Z
-SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
-UID:3a63664b-d9c9-4757-8c34-15b3143d785c@3a63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231214T073000Z
-LOCATION:24-308Б
-DTSTART:20231214T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:c83c81d8-ee39-419a-858d-bf8ce8cd6449@c83c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T091500Z
-LOCATION:--каф.
-DTSTART:20231201T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:2d88c8f9-0a98-4d96-832e-6e63ea542a5c@2d88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231031T113000Z
-LOCATION:24-215.1
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:384f1c06-0894-4e3a-89e4-f62f96cda9fc@384f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231026T091500Z
-LOCATION:24-308Б
-DTSTART:20231026T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:2c2df181-3ada-4849-bea2-ca25e3234d1e@2c2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231102T113000Z
-LOCATION:24-215.1
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:4fa0b04a-fe92-4ec4-85c8-7cd43a5056e2@4fa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20230914T113000Z
-LOCATION:24-210.3
-DTSTART:20230914T100000Z
-SUMMARY:ПЗ УИРС
-UID:e2a0e009-b152-49d8-b628-eb3630a4a6b4@e2a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231102T073000Z
-LOCATION:24-308Б
-DTSTART:20231102T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:08c5755e-f397-40fc-a793-9b5810059351@08c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231211T113000Z
-LOCATION:24-215.1
-DTSTART:20231211T100000Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:aff573a5-7612-4fce-b54b-4802a5e9fd4d@aff5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231221T091500Z
-LOCATION:24-308Б
-DTSTART:20231221T074500Z
-SUMMARY:ЛР Технология производства летательных аппаратов
-UID:fd86c676-cd18-439c-8aba-be4e2710eb9f@fd86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20240116T113000Z
-LOCATION:24-215.1
-DTSTART:20240116T100000Z
-SUMMARY:Экзамен Теоретические основы проектирования летательных аппаратов
-UID:ae2b6ffe-e8e1-4bb9-b646-a1daf039ed78@ae2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T091500Z
-LOCATION:--каф.
-DTSTART:20231117T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:b99f4375-26ec-4939-a702-d05ae674e87e@b99f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231030T131500Z
-LOCATION:24-215.1
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Теоретические основы проектирования летательных аппаратов
-UID:076005a3-ca1a-4eed-b25e-cdd9d07c20b7@0760.org
+UID:220350ee-407b-46dd-9ed3-20df8b1372aa@2203.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Парафесь Сергей Гаврилович
@@ -1395,117 +31,31 @@ DTEND:20231213T131500Z
 LOCATION:24-215.1
 DTSTART:20231213T114500Z
 SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:237a6f3a-86a8-4e5e-94cd-335894ec020c@237a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231228T113000Z
-LOCATION:24-215.1
-DTSTART:20231228T100000Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:f8f66d51-40fd-49cf-bf88-3bca69898061@f8f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20230907T091500Z
-LOCATION:24-308Б
-DTSTART:20230907T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:b5708cf6-8ba2-44a7-b937-9616441bea1d@b570.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231025T091500Z
-LOCATION:24-215.1
-DTSTART:20231025T074500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:937eca39-c75c-4e32-b5f3-b61d4e6c0b97@937e.org
+UID:849c4c14-0571-49ca-8394-e5cd70e53c6d@849c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231107T113000Z
+DTEND:20231212T113000Z
 LOCATION:24-215.1
-DTSTART:20231107T100000Z
-SUMMARY:ЛР Теоретические основы проектирования летательных аппаратов
-UID:da7e22f8-7471-425a-a044-b38912c4ac93@da7e.org
+DTSTART:20231212T100000Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:3fdee23b-ab77-4ccd-abcd-81dcb6aba273@3fde.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231005T131500Z
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231102T073000Z
+LOCATION:24-308Б
+DTSTART:20231102T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:607ef167-34e8-4e1f-bffd-fda89cbfc288@607e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231003T131500Z
 LOCATION:24-215.1
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:82300494-2dc7-4fec-a976-db5a5593c725@8230.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231018T091500Z
-LOCATION:24-215.1
-DTSTART:20231018T074500Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:ceedbdae-4763-4375-a24c-9b3c729c2bcd@ceed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T131500Z
-LOCATION:--каф.
-DTSTART:20230929T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:ed845038-0692-4389-99d4-9f6e59d94680@ed84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матешук Анна Александровна
-DTEND:20231113T073000Z
-LOCATION:24-744
-DTSTART:20231113T060000Z
-SUMMARY:ПЗ Социология
-UID:3ab2429d-5ba2-44a0-a48b-0d9b60772d70@3ab2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231023T091500Z
-LOCATION:24-215.1
-DTSTART:20231023T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:76c6cc49-9c51-4375-8636-2775b52f20df@76c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231213T113000Z
-LOCATION:24-215.1
-DTSTART:20231213T100000Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:731da7a3-760c-4de5-a432-d72ee5881f07@731d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230912T131500Z
-LOCATION:24-215.1
-DTSTART:20230912T114500Z
-SUMMARY:ЛР Эффективность функционирования летательных аппаратов
-UID:e7b00ecc-0122-4ea3-baf5-2d17bbf23ad1@e7b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231009T073000Z
-LOCATION:24-215.1
-DTSTART:20231009T060000Z
-SUMMARY:ПЗ Тепловое проектирование конструкций летательных аппаратов
-UID:823acb16-ef4b-4440-8b97-9a9d5759cb3a@823a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231024T073000Z
-LOCATION:24-215.1
-DTSTART:20231024T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:ac50d286-a74e-4ee7-a654-f3313c1b39ee@ac50.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T131500Z
-LOCATION:--каф.
-DTSTART:20231110T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:8d4d6949-f749-4438-ae35-208d92a36bd2@8d4d.org
+DTSTART:20231003T114500Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:5ed6803e-a6ad-4da6-b474-a391b62d1779@5ed6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Петраш Виктор Яковлевич
@@ -1513,873 +63,23 @@ DTEND:20231107T131500Z
 LOCATION:24-215.1
 DTSTART:20231107T114500Z
 SUMMARY:ЛР Теоретические основы проектирования летательных аппаратов
-UID:8d0c3ccc-04e9-4fa9-9695-896db54c462e@8d0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231212T131500Z
-LOCATION:24-215.1
-DTSTART:20231212T114500Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:8f2b459a-66b9-4394-90cb-401926241f65@8f2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20230920T091500Z
-LOCATION:24-215.1
-DTSTART:20230920T074500Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:abeddc0b-6ab0-448f-a5cd-46ef924aa472@abed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T073000Z
-LOCATION:--каф.
-DTSTART:20231124T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:bb48b8ad-83dd-4001-90b8-3bc3921b4d53@bb48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20230906T113000Z
-LOCATION:24-215.1
-DTSTART:20230906T100000Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:7ad2bc00-ca18-4fd6-a804-b1c8e0d8b370@7ad2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коломоец Елена Николаевна
-DTEND:20230927T131500Z
-LOCATION:24-400
-DTSTART:20230927T114500Z
-SUMMARY:ЛК Социология
-UID:0cc4366d-bded-4c13-9e5e-9333272a64e3@0cc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20230925T091500Z
-LOCATION:24-215.1
-DTSTART:20230925T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:37b3b2e4-ee4b-4438-ba31-00bdf386c75d@37b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20240112T091500Z
-LOCATION:24-215.1
-DTSTART:20240112T074500Z
-SUMMARY:Экзамен Эффективность функционирования летательных аппаратов
-UID:21007a3a-f985-4b69-b275-be6b5753911a@2100.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T113000Z
-LOCATION:--каф.
-DTSTART:20231208T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:7bb88c8b-7bb9-44c2-b6aa-28193687b325@7bb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231227T131500Z
-LOCATION:24-215.1
-DTSTART:20231227T114500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:f0a881df-fa9b-4677-a726-2124ea4a878c@f0a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230926T073000Z
-LOCATION:24-215.1
-DTSTART:20230926T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:c152e646-9725-4531-a65e-7536693a7e83@c152.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T113000Z
-LOCATION:--каф.
-DTSTART:20231006T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:62f91592-095e-4a77-88a7-2d22f9adca11@62f9.org
+UID:0b955cef-e8e5-481f-aeaf-8f1eb0d24860@0b95.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Игорь Александрович
-DTEND:20240124T091500Z
+DTEND:20231009T073000Z
 LOCATION:24-215.1
-DTSTART:20240124T074500Z
-SUMMARY:Экзамен Тепловое проектирование конструкций летательных аппаратов
-UID:a621769a-b464-46fe-9d2f-f4597ce83df4@a621.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T091500Z
-LOCATION:--каф.
-DTSTART:20230901T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:386b098d-063b-4202-90e3-f005d7344d40@386b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231106T131500Z
-LOCATION:24-210.3
-DTSTART:20231106T114500Z
-SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
-UID:680aaccf-e1e2-4ebf-9f5c-86b1d44976f5@680a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231017T113000Z
-LOCATION:24-215.1
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:5ed420e6-b046-4a0a-af6f-493ee46acb4a@5ed4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231120T113000Z
-LOCATION:24-210.3
-DTSTART:20231120T100000Z
-SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
-UID:df917bbe-69cc-487b-bbda-bb5376d5e89a@df91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231016T091500Z
-LOCATION:24-215.1
-DTSTART:20231016T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:fd208217-0627-46b4-a7c0-0a379b8a63a5@fd20.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T131500Z
-LOCATION:--каф.
-DTSTART:20231222T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:3d386b98-997a-45f6-9eac-bb93b6f89fc8@3d38.org
+DTSTART:20231009T060000Z
+SUMMARY:ПЗ Тепловое проектирование конструкций летательных аппаратов
+UID:853dbe38-fa6d-46d1-b2f5-381861a0b16e@853d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20230907T073000Z
+DTEND:20230914T073000Z
 LOCATION:24-308Б
-DTSTART:20230907T060000Z
+DTSTART:20230914T060000Z
 SUMMARY:ЛК Технология производства летательных аппаратов
-UID:bc4b4ba7-2d85-4b19-bbcf-526e5baf9047@bc4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231002T091500Z
-LOCATION:24-215.1
-DTSTART:20231002T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:f0950b9e-4e6a-4ce1-9abe-65b6b08f9b20@f095.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231123T091500Z
-LOCATION:24-308Б
-DTSTART:20231123T074500Z
-SUMMARY:ЛР Технология производства летательных аппаратов
-UID:78f2e136-660f-4875-892f-3d0541e9379b@78f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20230904T113000Z
-LOCATION:24-215.1
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:341140a4-0400-4f37-a901-87075f03a01e@3411.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231030T113000Z
-LOCATION:24-215.1
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:28a8a153-331d-4273-a42e-9cc675bf13d1@28a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231017T073000Z
-LOCATION:24-215.1
-DTSTART:20231017T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:3b04dcbc-8865-40bd-a830-11561ef96a29@3b04.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T131500Z
-LOCATION:--каф.
-DTSTART:20231201T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:e38d5f13-9bfb-4873-bcff-3c4f315a3c87@e38d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231214T113000Z
-LOCATION:24-215.1
-DTSTART:20231214T100000Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:803e1295-a50f-4a78-8d46-4734c44a2f9d@803e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231128T091500Z
-LOCATION:24-215.1
-DTSTART:20231128T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:4b4fd3f6-9e84-4fdb-ac43-5b1bdbb2950a@4b4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T073000Z
-LOCATION:--каф.
-DTSTART:20231103T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:4c5cfee9-edc7-4279-a2e5-63a076f92ec2@4c5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231127T091500Z
-LOCATION:24-215.1
-DTSTART:20231127T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:725c5b33-daf4-4e32-a06c-07870dc027c5@725c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231205T113000Z
-LOCATION:24-215.1
-DTSTART:20231205T100000Z
-SUMMARY:ЛР Теоретические основы проектирования летательных аппаратов
-UID:1eb96852-c49a-46e9-825a-5d2ad14ac4ba@1eb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231123T131500Z
-LOCATION:24-210.3
-DTSTART:20231123T114500Z
-SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
-UID:8ee0c1d9-6d2b-442a-b9f8-0ab7865bb71b@8ee0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20230921T131500Z
-LOCATION:24-215.1
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:2a55a19b-5dda-4878-a5f6-057547382a08@2a55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230919T091500Z
-LOCATION:24-215.1
-DTSTART:20230919T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:36bfcea0-dadb-4e0f-a64b-01a7f6d684e4@36bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231123T113000Z
-LOCATION:24-210.3
-DTSTART:20231123T100000Z
-SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
-UID:22745457-6c3e-416a-bc59-c92a824fcc18@2274.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коломоец Елена Николаевна
-DTEND:20231108T131500Z
-LOCATION:24-400
-DTSTART:20231108T114500Z
-SUMMARY:ЛК Социология
-UID:ff892098-c305-4e79-8f19-431593a98701@ff89.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T113000Z
-LOCATION:--каф.
-DTSTART:20231013T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:18514e04-6cd7-4d56-b8d5-5d30fb29e533@1851.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20230920T131500Z
-LOCATION:24-215.1
-DTSTART:20230920T114500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:9df66db8-2f2a-4b22-bf39-19d888e7a553@9df6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230912T073000Z
-LOCATION:24-215.1
-DTSTART:20230912T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:7574ca95-b2fc-4f10-aa17-2ff20ec44e93@7574.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231129T131500Z
-LOCATION:24-215.1
-DTSTART:20231129T114500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:4e80b074-1eb8-45fb-8b04-9fb58ab18201@4e80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20230927T073000Z
-LOCATION:24-715
-DTSTART:20230927T060000Z
-SUMMARY:ПЗ Технология производства летательных аппаратов
-UID:ed339f11-f290-4689-96f3-3df9a1f26d1a@ed33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20230907T131500Z
-LOCATION:24-215.1
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
-UID:6df812ae-723b-49dc-9013-2e325c174d7b@6df8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231114T131500Z
-LOCATION:24-215.1
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:8f36fe95-0c53-45db-8996-ab5f37de4099@8f36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20230919T131500Z
-LOCATION:24-215.1
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:ed754d69-6a87-400e-9ce2-838d06780bb4@ed75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231206T113000Z
-LOCATION:24-215.1
-DTSTART:20231206T100000Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:e0eefc6c-7d15-4359-9760-712d0742a04c@e0ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T073000Z
-LOCATION:--каф.
-DTSTART:20230901T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:ea4ef04e-5fe4-408e-9c90-4f2c827339b7@ea4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231003T113000Z
-LOCATION:24-215.1
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:8b439fe9-8ba2-408c-a84a-0a3bb65bc7fa@8b43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231226T113000Z
-LOCATION:24-215.1
-DTSTART:20231226T100000Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:a85a9b45-818d-4a50-8fb6-03dccf94d531@a85a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20240120T073000Z
-LOCATION:24-215.1
-DTSTART:20240120T060000Z
-SUMMARY:Экзамен Надежность и обеспечение качества летательных аппаратов
-UID:0c888004-3fec-4ddb-bcee-c913362bd8ad@0c88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231026T131500Z
-LOCATION:24-210.3
-DTSTART:20231026T114500Z
-SUMMARY:ПЗ УИРС
-UID:561c4f8f-60c0-4aa2-a0c9-5adda36945a5@561c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231116T073000Z
-LOCATION:24-308Б
-DTSTART:20231116T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:8f82fe5e-7829-44ee-8006-06cc92dc9584@8f82.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T113000Z
-LOCATION:--каф.
-DTSTART:20231222T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:0229a6eb-bb95-408f-8e52-a9924b095bd1@0229.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матешук Анна Александровна
-DTEND:20231211T073000Z
-LOCATION:24-744
-DTSTART:20231211T060000Z
-SUMMARY:ПЗ Социология
-UID:992341a0-2266-4bf9-ae96-912919d7cae4@9923.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231120T091500Z
-LOCATION:24-215.1
-DTSTART:20231120T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:c92ef1cb-f8d9-46f2-956f-eee6e0b79075@c92e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231114T073000Z
-LOCATION:24-215.1
-DTSTART:20231114T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:e2f32437-586b-46ed-b6bd-c28215c5dd33@e2f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231207T091500Z
-LOCATION:24-308Б
-DTSTART:20231207T074500Z
-SUMMARY:ЛР Технология производства летательных аппаратов
-UID:3d19d20e-94a1-416d-a355-9642c241f722@3d19.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T073000Z
-LOCATION:--каф.
-DTSTART:20231117T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:dbca620a-d919-4cf1-8f4f-d23293ea405c@dbca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230912T113000Z
-LOCATION:24-215.1
-DTSTART:20230912T100000Z
-SUMMARY:ЛР Эффективность функционирования летательных аппаратов
-UID:4d20852d-5ca6-43dd-b609-b65723904f69@4d20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231018T131500Z
-LOCATION:24-215.1
-DTSTART:20231018T114500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:1be99c6c-d539-4829-8956-5c1dadd94d4f@1be9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231024T113000Z
-LOCATION:24-215.1
-DTSTART:20231024T100000Z
-SUMMARY:ЛР Эффективность функционирования летательных аппаратов
-UID:a3df5686-46f4-4c95-ba34-b6114ef7c281@a3df.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T113000Z
-LOCATION:--каф.
-DTSTART:20230915T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:0855effb-2e6c-42d4-94a0-31ef74d3d793@0855.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T131500Z
-LOCATION:--каф.
-DTSTART:20231103T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:06518608-bcb4-4930-8753-af9685036e4a@0651.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231019T091500Z
-LOCATION:24-308Б
-DTSTART:20231019T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:b9f5e762-bccd-427b-b9dc-7943ef10c333@b9f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T131500Z
-LOCATION:--каф.
-DTSTART:20231027T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:3cb9e868-9946-401a-9464-822e3646fc02@3cb9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T073000Z
-LOCATION:--каф.
-DTSTART:20231208T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:c7465c85-6f47-4b49-b0c7-627c5c7ebde1@c746.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231218T091500Z
-LOCATION:24-215.1
-DTSTART:20231218T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:df6ce5cf-5b17-4b43-a23a-3481ab425f84@df6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231204T113000Z
-LOCATION:24-210.3
-DTSTART:20231204T100000Z
-SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
-UID:cabab576-9b92-4338-ac45-b86ee4af4fe8@caba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231113T091500Z
-LOCATION:24-215.1
-DTSTART:20231113T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:8488bfaa-a9d3-4770-85f6-6918df3805a9@8488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231003T073000Z
-LOCATION:24-215.1
-DTSTART:20231003T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:24fbd420-5164-4b6c-8e0b-d0b1cb185d4d@24fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231005T091500Z
-LOCATION:24-308Б
-DTSTART:20231005T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:a337e96c-23bf-4225-ac88-0851f5afd253@a337.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T091500Z
-LOCATION:--каф.
-DTSTART:20231020T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:fb61909d-7fc1-4dab-b1f4-aa222d12dbe3@fb61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230912T091500Z
-LOCATION:24-215.1
-DTSTART:20230912T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:f5ea7198-8553-460d-9716-80b85aada486@f5ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231004T131500Z
-LOCATION:24-215.1
-DTSTART:20231004T114500Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:efaa9fec-46cb-4f2e-b27e-89552d2bb7ad@efaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20230905T131500Z
-LOCATION:24-215.1
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:4435f6b9-2802-4314-b089-5db147e87bf6@4435.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231121T073000Z
-LOCATION:24-215.1
-DTSTART:20231121T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:507b0a6a-b936-4a7b-89bd-b6d13c6ffa66@507b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T073000Z
-LOCATION:--каф.
-DTSTART:20231215T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:79501fe3-cb07-475c-babe-098accac60aa@7950.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231130T073000Z
-LOCATION:24-308Б
-DTSTART:20231130T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:361daff5-811a-4534-b1ca-6ae01a7fedfb@361d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231205T091500Z
-LOCATION:24-215.1
-DTSTART:20231205T074500Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:ab87b2f9-7a6e-43e0-bf24-adac5ecb5ba2@ab87.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T073000Z
-LOCATION:--каф.
-DTSTART:20231013T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:7e5ec5d4-31a9-4fd0-bfd9-c7f018e6cefa@7e5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20230919T113000Z
-LOCATION:24-215.1
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
-UID:4ebdf9a0-98af-4ff0-922e-3366aca12035@4ebd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231026T073000Z
-LOCATION:24-308Б
-DTSTART:20231026T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:47495ed1-7d85-4172-a56f-1e5382f0d3f4@4749.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T091500Z
-LOCATION:--каф.
-DTSTART:20231110T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:cb23a00f-8913-4544-bb29-808cc6595398@cb23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231107T073000Z
-LOCATION:24-215.1
-DTSTART:20231107T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:7859fe1d-e769-4a58-b028-9fb46ae14603@7859.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коломоец Елена Николаевна
-DTEND:20231011T131500Z
-LOCATION:24-400
-DTSTART:20231011T114500Z
-SUMMARY:ЛК Социология
-UID:9987175f-90ca-433e-98fc-d7cb53d1c708@9987.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T113000Z
-LOCATION:--каф.
-DTSTART:20230922T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:5ca595da-d1e1-44f0-9d4d-c3da03ef2274@5ca5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231130T091500Z
-LOCATION:24-308Б
-DTSTART:20231130T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:9f3a7d5f-2d85-4094-a573-e66fad6179c1@9f3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T073000Z
-LOCATION:--каф.
-DTSTART:20231110T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:c148e804-6c6d-41c3-8a8c-1923e84cbb53@c148.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T091500Z
-LOCATION:--каф.
-DTSTART:20231124T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:5a218246-203c-4f40-b90f-86decb0a7171@5a21.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T113000Z
-LOCATION:--каф.
-DTSTART:20230908T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:d4813120-9284-4a43-8af9-e2c7ef5c3258@d481.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20230913T113000Z
-LOCATION:24-215.1
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:3efec8e7-0f75-4686-b746-286683457030@3efe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231225T113000Z
-LOCATION:24-215.1
-DTSTART:20231225T100000Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:2e802695-810b-464c-96bc-04cbf6698d4e@2e80.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T091500Z
-LOCATION:--каф.
-DTSTART:20231103T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:51d920be-b682-4d54-abba-9de8e0fe490b@51d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T091500Z
-LOCATION:--каф.
-DTSTART:20230908T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:2176e946-cc9e-4de4-b9c0-8c57aa7e45d8@2176.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T073000Z
-LOCATION:--каф.
-DTSTART:20231222T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:f22e923e-76c9-4b61-88c4-5e1a69834627@f22e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231108T113000Z
-LOCATION:24-215.1
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
-UID:7381a14e-534b-41b9-a945-f7581fcfa285@7381.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Парафесь Сергей Гаврилович
-DTEND:20231213T091500Z
-LOCATION:24-215.1
-DTSTART:20231213T074500Z
-SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
-UID:23e5c642-c920-4e8c-8a32-0382a7db4832@23e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231218T131500Z
-LOCATION:24-210.3
-DTSTART:20231218T114500Z
-SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
-UID:6cee70ea-a50d-4439-8660-db2fcd67adb0@6cee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20240112T073000Z
-LOCATION:24-215.1
-DTSTART:20240112T060000Z
-SUMMARY:Экзамен Эффективность функционирования летательных аппаратов
-UID:60073fdc-7ea4-4e9a-ab8a-0c5a5a043b8b@6007.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231116T091500Z
-LOCATION:24-308Б
-DTSTART:20231116T074500Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:bde5b91d-01a3-4b0f-8418-70f0b9b66ce0@bde5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231228T073000Z
-LOCATION:24-308Б
-DTSTART:20231228T060000Z
-SUMMARY:ЛК Технология производства летательных аппаратов
-UID:48bdc74f-b161-4b3a-b578-ac128916ee9d@48bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T131500Z
-LOCATION:--каф.
-DTSTART:20231006T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:4035587b-8d41-4979-bac0-7bb266071af0@4035.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T091500Z
-LOCATION:--каф.
-DTSTART:20231006T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:02957231-4573-40fb-a373-03226119c995@0295.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231207T131500Z
-LOCATION:24-210.3
-DTSTART:20231207T114500Z
-SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
-UID:6e65975b-8779-47ca-af4e-3f66f8a3532c@6e65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петраш Виктор Яковлевич
-DTEND:20231121T113000Z
-LOCATION:24-215.1
-DTSTART:20231121T100000Z
-SUMMARY:ЛР Теоретические основы проектирования летательных аппаратов
-UID:6318a2b5-c0de-4f2a-8f98-0893a6dc75ff@6318.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20230925T073000Z
-LOCATION:24-215.1
-DTSTART:20230925T060000Z
-SUMMARY:ПЗ Эффективность функционирования летательных аппаратов
-UID:536861cf-a05d-472f-8833-9460efb8571d@5368.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матешук Анна Александровна
-DTEND:20231002T073000Z
-LOCATION:24-744
-DTSTART:20231002T060000Z
-SUMMARY:ПЗ Социология
-UID:6529d54f-92ef-455b-a2f4-e838fc4d4c43@6529.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Береговой Виктор Георгиевич
-DTEND:20231123T073000Z
-LOCATION:24-308Б
-DTSTART:20231123T060000Z
-SUMMARY:ЛР Технология производства летательных аппаратов
-UID:5ce0cdce-b1fb-43f1-a64a-4114ce13d01a@5ce0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вититин Виктор Федорович
-DTEND:20231106T091500Z
-LOCATION:24-215.1
-DTSTART:20231106T074500Z
-SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
-UID:7f4db79b-a1bf-4f3e-8719-1187b83e706d@7f4d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T131500Z
-LOCATION:--каф.
-DTSTART:20230908T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:6b5bb444-0dcb-4122-a390-c8527c364da9@6b5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусейнов Арсен Буйдалаевич
-DTEND:20231010T073000Z
-LOCATION:24-215.1
-DTSTART:20231010T060000Z
-SUMMARY:ЛК Эффективность функционирования летательных аппаратов
-UID:0698f935-dc85-44f5-b384-18d32fd5be25@0698.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матешук Анна Александровна
-DTEND:20230904T073000Z
-LOCATION:24-744
-DTSTART:20230904T060000Z
-SUMMARY:ПЗ Социология
-UID:ce072558-7cbb-4015-91ca-07d92ef62fe6@ce07.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T113000Z
-LOCATION:--каф.
-DTSTART:20231027T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:de342e8c-206b-4442-9aae-3ae8df6c52f4@de34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Игорь Александрович
-DTEND:20231109T131500Z
-LOCATION:24-210.3
-DTSTART:20231109T114500Z
-SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
-UID:f17b661f-bc34-4587-8ea2-1c2e0c8d1f9e@f17b.org
+UID:8a6efbde-7ad7-446f-828d-0a6a0811f4b9@8a6e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Береговой Виктор Георгиевич
@@ -2387,7 +87,140 @@ DTEND:20231012T091500Z
 LOCATION:24-308Б
 DTSTART:20231012T074500Z
 SUMMARY:ЛК Технология производства летательных аппаратов
-UID:5b53af66-0112-478b-9c53-b8be1cc72c24@5b53.org
+UID:a20aec04-40b8-4360-afbb-a7bc77806f1b@a20a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T113000Z
+LOCATION:--каф.
+DTSTART:20231215T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:3882fc83-ea7d-4bef-b74c-9092dfce5333@3882.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231128T073000Z
+LOCATION:24-215.1
+DTSTART:20231128T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:569d8582-0a3c-4ee3-a079-719db573aa09@569d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матешук Анна Александровна
+DTEND:20230904T073000Z
+LOCATION:24-744
+DTSTART:20230904T060000Z
+SUMMARY:ПЗ Социология
+UID:f7143f27-6aa0-440c-b303-07a85dc1cf1e@f714.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231218T131500Z
+LOCATION:24-210.3
+DTSTART:20231218T114500Z
+SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
+UID:b56555be-e7ce-4a4b-a587-1977464bc655@b565.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231213T113000Z
+LOCATION:24-215.1
+DTSTART:20231213T100000Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:a27a52be-aea7-45ff-8d60-9812750ffe9a@a27a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230905T073000Z
+LOCATION:24-215.1
+DTSTART:20230905T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:29e2fb38-f839-4958-bafe-d3c934041bd6@29e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231122T091500Z
+LOCATION:24-215.1
+DTSTART:20231122T074500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:bfd49ed6-8710-486d-b03c-f04c956c2743@bfd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231109T113000Z
+LOCATION:24-210.3
+DTSTART:20231109T100000Z
+SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
+UID:e5660354-6e10-45c1-998d-0f9e78d03e0a@e566.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231016T113000Z
+LOCATION:24-215.1
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:65601823-13b4-4528-81c0-089fcf03b8e1@6560.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231123T073000Z
+LOCATION:24-308Б
+DTSTART:20231123T060000Z
+SUMMARY:ЛР Технология производства летательных аппаратов
+UID:406bb021-c2de-4159-9743-a55e43cf48fd@406b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231127T113000Z
+LOCATION:24-215.1
+DTSTART:20231127T100000Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:685a6019-ffe8-4a62-8500-04b5209bcc83@685a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231106T091500Z
+LOCATION:24-215.1
+DTSTART:20231106T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:ec242554-3468-4705-9b06-88f853a041a7@ec24.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T131500Z
+LOCATION:--каф.
+DTSTART:20231208T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:9e4e9fcb-9ba7-430a-8f24-9f3c4f74b5fc@9e4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230912T091500Z
+LOCATION:24-215.1
+DTSTART:20230912T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:38f09f38-4cd4-4c06-95fd-e4306a7a4bfe@38f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231204T113000Z
+LOCATION:24-210.3
+DTSTART:20231204T100000Z
+SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
+UID:baa3930f-e044-44ee-9f21-88aaa4e2fe0e@baa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20230921T091500Z
+LOCATION:24-308Б
+DTSTART:20230921T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:14b94b56-f264-45da-a521-c94e3f5910cf@14b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T073000Z
+LOCATION:--каф.
+DTSTART:20231124T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:c43b964b-28cb-4c37-a65c-f7b36bcea75e@c43b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Игорь Александрович
@@ -2395,6 +228,2173 @@ DTEND:20231012T131500Z
 LOCATION:24-210.3
 DTSTART:20231012T114500Z
 SUMMARY:ПЗ УИРС
-UID:1c20acd0-db3f-4b03-a589-4582284c6766@1c20.org
+UID:dd0bce2c-dccd-4d2a-bb74-b5e9cbdac000@dd0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T131500Z
+LOCATION:--каф.
+DTSTART:20231027T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:8cd8ee4e-0a33-498c-a603-b36a3aeee299@8cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231018T113000Z
+LOCATION:24-215.1
+DTSTART:20231018T100000Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:1ea5e262-7269-4edf-accd-6e900a14304e@1ea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20240120T073000Z
+LOCATION:24-215.1
+DTSTART:20240120T060000Z
+SUMMARY:Экзамен Надежность и обеспечение качества летательных аппаратов
+UID:f17f0c01-4f6a-45d2-adc5-eaa8ffea0200@f17f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20231108T131500Z
+LOCATION:24-400
+DTSTART:20231108T114500Z
+SUMMARY:ЛК Социология
+UID:dd4979ab-3a9d-429c-b495-13fdffd1ebdc@dd49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20240120T091500Z
+LOCATION:24-215.1
+DTSTART:20240120T074500Z
+SUMMARY:Экзамен Надежность и обеспечение качества летательных аппаратов
+UID:c8b7602a-e690-4b72-bf1c-7d58d2f6e834@c8b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231115T091500Z
+LOCATION:24-215.1
+DTSTART:20231115T074500Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:e119d4f8-c355-40bd-b824-39e5c6feef79@e119.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231026T131500Z
+LOCATION:24-210.3
+DTSTART:20231026T114500Z
+SUMMARY:ПЗ УИРС
+UID:4aac197d-35de-4832-853a-69f9b5cae59a@4aac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231030T091500Z
+LOCATION:24-215.1
+DTSTART:20231030T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:763b3ecf-499c-459c-b33e-489cf003546c@763b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T131500Z
+LOCATION:--каф.
+DTSTART:20230901T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:370511ef-4bdc-4ec7-b971-dc8b46aaec4f@3705.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231207T091500Z
+LOCATION:24-308Б
+DTSTART:20231207T074500Z
+SUMMARY:ЛР Технология производства летательных аппаратов
+UID:3fb1b549-df8c-4a81-96f2-ca7c7e6b8afa@3fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матешук Анна Александровна
+DTEND:20231113T073000Z
+LOCATION:24-744
+DTSTART:20231113T060000Z
+SUMMARY:ПЗ Социология
+UID:4815f0be-ab90-40e4-ad1a-0faca413e7d4@4815.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20230919T131500Z
+LOCATION:24-215.1
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:67d67314-1e8b-4257-b20d-09848844b37b@67d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T113000Z
+LOCATION:--каф.
+DTSTART:20231027T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:a10a168a-5ed3-4f94-b448-11de5943c1f7@a10a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231228T131500Z
+LOCATION:24-215.1
+DTSTART:20231228T114500Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:0a9872af-59e6-41be-807f-7e9a7dabded9@0a98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231121T113000Z
+LOCATION:24-215.1
+DTSTART:20231121T100000Z
+SUMMARY:ЛР Теоретические основы проектирования летательных аппаратов
+UID:8593bb29-b531-4e51-bda1-1777f92f6970@8593.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231030T131500Z
+LOCATION:24-215.1
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Теоретические основы проектирования летательных аппаратов
+UID:fc1eb936-418e-42cf-996f-3a46fc0cd3c7@fc1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231206T091500Z
+LOCATION:24-215.1
+DTSTART:20231206T074500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:3e2e3068-f275-4abc-b72e-2e9df0c00a7c@3e2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20230928T113000Z
+LOCATION:24-210.3
+DTSTART:20230928T100000Z
+SUMMARY:ПЗ УИРС
+UID:a03e9ffa-9164-4454-9b2f-934b5c854b57@a03e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231116T131500Z
+LOCATION:24-215.1
+DTSTART:20231116T114500Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:f9103cca-271f-4447-aad4-e2c3e9977b61@f910.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231220T091500Z
+LOCATION:24-215.1
+DTSTART:20231220T074500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:0f34414b-131d-45cf-bec6-fb2a06b9be31@0f34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231005T073000Z
+LOCATION:24-308Б
+DTSTART:20231005T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:112566dd-0042-4921-acd7-5bf31eba03ca@1125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231121T073000Z
+LOCATION:24-215.1
+DTSTART:20231121T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:e4785944-f39b-41e6-90dd-9cdc01c039a0@e478.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231122T113000Z
+LOCATION:24-215.1
+DTSTART:20231122T100000Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:d24cc59b-773c-4ff2-b4ea-8b49bed17678@d24c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T113000Z
+LOCATION:--каф.
+DTSTART:20230929T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:329eb110-ebf4-45d1-b355-429f335fd55a@329e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231019T091500Z
+LOCATION:24-308Б
+DTSTART:20231019T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:c1ae6d2b-6ee2-4a49-a171-df0952d62925@c1ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20230919T113000Z
+LOCATION:24-215.1
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:f73d107b-9f74-44a7-b45b-0b175fcc5d9c@f73d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230926T131500Z
+LOCATION:24-215.1
+DTSTART:20230926T114500Z
+SUMMARY:ЛР Эффективность функционирования летательных аппаратов
+UID:e614b767-919a-43c0-8941-276461606c6f@e614.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T073000Z
+LOCATION:--каф.
+DTSTART:20231215T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:3e2e8e0c-ac36-46ba-aef2-9ba94260e4f7@3e2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231228T091500Z
+LOCATION:24-308Б
+DTSTART:20231228T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:c9f55580-28ee-4d8a-ad4c-446c57600af4@c9f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231123T113000Z
+LOCATION:24-210.3
+DTSTART:20231123T100000Z
+SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
+UID:3261256f-caed-4d0e-9715-b547d23f3ced@3261.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231018T091500Z
+LOCATION:24-215.1
+DTSTART:20231018T074500Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:679cb6f5-1c13-44e3-9b59-aa364041cac0@679c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T091500Z
+LOCATION:--каф.
+DTSTART:20231020T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:c0c044cc-584d-4a20-ac16-175a38eea8fc@c0c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231010T131500Z
+LOCATION:24-215.1
+DTSTART:20231010T114500Z
+SUMMARY:ЛР Эффективность функционирования летательных аппаратов
+UID:577469d4-a5ce-4a09-a719-61c20e87f844@5774.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230926T073000Z
+LOCATION:24-215.1
+DTSTART:20230926T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:69df6931-4d38-45a3-b2ca-19f61b9614fc@69df.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T073000Z
+LOCATION:--каф.
+DTSTART:20231027T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:890a14db-f004-4e43-9a73-08d027ebd987@890a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20230914T131500Z
+LOCATION:24-210.3
+DTSTART:20230914T114500Z
+SUMMARY:ПЗ УИРС
+UID:04cdbea1-d157-4b71-b505-34d87206b148@04cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230926T091500Z
+LOCATION:24-215.1
+DTSTART:20230926T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:35fd7f1a-c280-4d31-b027-fb8234248895@35fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231205T073000Z
+LOCATION:24-215.1
+DTSTART:20231205T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:d23f200b-7555-4c46-9ca2-c0e5fb519c78@d23f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T131500Z
+LOCATION:--каф.
+DTSTART:20231124T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:e8c81a4a-9cff-43b8-a340-c0d4c9b684d4@e8c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231204T091500Z
+LOCATION:24-215.1
+DTSTART:20231204T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:c470b08c-3bc6-4df7-9f19-1ed241e5bda3@c470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231107T091500Z
+LOCATION:24-215.1
+DTSTART:20231107T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:7da7d1ce-1065-447d-8a73-fe752ea8a124@7da7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20230905T113000Z
+LOCATION:24-215.1
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:0d9ec4bc-892d-44dc-b2a7-684dff1b3c20@0d9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20230905T131500Z
+LOCATION:24-215.1
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:226d7c16-a133-4b64-a4be-cc4796f45878@226d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T131500Z
+LOCATION:--каф.
+DTSTART:20231013T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:a9bbbc3b-0c5e-4957-be0d-7720fb005829@a9bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231129T113000Z
+LOCATION:24-215.1
+DTSTART:20231129T100000Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:eb775baf-632a-4ef6-b6ca-98b5a5378e5b@eb77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231017T131500Z
+LOCATION:24-215.1
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:7432669e-9648-4861-91f3-2018c6c2c39a@7432.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231102T113000Z
+LOCATION:24-215.1
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:c147c105-5161-41b2-9522-a9b24bad6e17@c147.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T113000Z
+LOCATION:--каф.
+DTSTART:20231110T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:e41c0c9c-0efd-4cbd-a064-4cf2fe1c629e@e41c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231109T091500Z
+LOCATION:24-308Б
+DTSTART:20231109T074500Z
+SUMMARY:ЛР Технология производства летательных аппаратов
+UID:71216ad5-d31a-4b30-89df-d5e5f772d916@7121.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T073000Z
+LOCATION:--каф.
+DTSTART:20231020T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:47b20f29-3ae5-4c2d-89df-92120cc55464@47b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T113000Z
+LOCATION:--каф.
+DTSTART:20231117T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:579d9c78-7112-40c2-9140-47bc75505c95@579d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T091500Z
+LOCATION:--каф.
+DTSTART:20231027T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:1b1a6e6d-861b-49fb-a306-a9751b964846@1b1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231226T073000Z
+LOCATION:24-215.1
+DTSTART:20231226T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:6e26a7e1-7bf1-4327-ab5e-5307d79f5888@6e26.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T073000Z
+LOCATION:--каф.
+DTSTART:20231201T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:731960b4-0211-46de-bb8b-d550fc4c8cd2@7319.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T091500Z
+LOCATION:--каф.
+DTSTART:20231103T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:b5c44bbe-4eb0-4569-8f03-931e85316cc9@b5c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231024T073000Z
+LOCATION:24-215.1
+DTSTART:20231024T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:1e16e471-bdc3-4bc1-b7e4-16316d6c32ef@1e16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20230920T131500Z
+LOCATION:24-215.1
+DTSTART:20230920T114500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:68eb092e-292a-4664-ac7f-735327a4b781@68eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20230913T091500Z
+LOCATION:24-215.1
+DTSTART:20230913T074500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:5a9316b8-5e63-4cb1-9948-80b5eece32ed@5a93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231024T131500Z
+LOCATION:24-215.1
+DTSTART:20231024T114500Z
+SUMMARY:ЛР Эффективность функционирования летательных аппаратов
+UID:d1aa7d33-204a-47bb-abe7-a7e53a3892be@d1aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231225T091500Z
+LOCATION:24-215.1
+DTSTART:20231225T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:b853a53f-4f8a-4107-9826-e1dd36bebc5f@b853.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матешук Анна Александровна
+DTEND:20231127T073000Z
+LOCATION:24-744
+DTSTART:20231127T060000Z
+SUMMARY:ПЗ Социология
+UID:a5f170d5-28ab-4b41-bb68-7031f67dbe83@a5f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T131500Z
+LOCATION:--каф.
+DTSTART:20231103T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:9eaa45d0-5018-434d-bada-f7a4dd40bdf8@9eaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231004T113000Z
+LOCATION:24-215.1
+DTSTART:20231004T100000Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:04b500bf-f194-4265-87a5-6e3d6263d1ed@04b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T091500Z
+LOCATION:--каф.
+DTSTART:20231110T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:04aa8546-3212-49fc-9308-81ac01ca50aa@04aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T131500Z
+LOCATION:--каф.
+DTSTART:20230929T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:3ba5e14d-947f-4d7a-9a8d-551bb81c132e@3ba5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231221T073000Z
+LOCATION:24-308Б
+DTSTART:20231221T060000Z
+SUMMARY:ЛР Технология производства летательных аппаратов
+UID:a01ef0cc-cb38-4b31-b420-7b1cdc4c85e4@a01e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231113T113000Z
+LOCATION:24-215.1
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:5384b9d4-c298-4af2-bfc4-7cde38caeb49@5384.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20231011T131500Z
+LOCATION:24-400
+DTSTART:20231011T114500Z
+SUMMARY:ЛК Социология
+UID:385d632e-4ca0-4d40-a8fd-a9c6722ca530@385d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231004T091500Z
+LOCATION:24-215.1
+DTSTART:20231004T074500Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:5cd63701-4708-4ecc-9747-2172b62754c9@5cd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231123T131500Z
+LOCATION:24-210.3
+DTSTART:20231123T114500Z
+SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
+UID:79865a8d-3c34-4fe5-94c2-4d42d6dce627@7986.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20230918T113000Z
+LOCATION:24-215.1
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:24b03f20-b40a-4d16-afc2-a7f83eb163bb@24b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231130T073000Z
+LOCATION:24-308Б
+DTSTART:20231130T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:d5a80f08-9c20-470c-b43c-0880e5fe2ac4@d5a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231120T131500Z
+LOCATION:24-210.3
+DTSTART:20231120T114500Z
+SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
+UID:9542ca15-9e26-4d47-9ef0-8224704850f0@9542.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231212T131500Z
+LOCATION:24-215.1
+DTSTART:20231212T114500Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:f1f7c418-866f-4d29-93a4-062b64ed3be4@f1f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20230907T113000Z
+LOCATION:24-215.1
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:5b1417cb-4dab-497f-bf63-51f2a0efa147@5b14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20230928T091500Z
+LOCATION:24-308Б
+DTSTART:20230928T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:4d0e43ed-bdda-490f-bcab-30b4f2b782e4@4d0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матешук Анна Александровна
+DTEND:20231016T073000Z
+LOCATION:24-744
+DTSTART:20231016T060000Z
+SUMMARY:ПЗ Социология
+UID:f1fb6cf6-b349-4e18-ac9b-5f268a847873@f1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T113000Z
+LOCATION:--каф.
+DTSTART:20231020T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:6aef2f87-c587-427a-b9ba-84d66e30d85d@6aef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T091500Z
+LOCATION:--каф.
+DTSTART:20231117T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:b05b6404-3044-461f-ade0-eac2180097b9@b05b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231010T091500Z
+LOCATION:24-215.1
+DTSTART:20231010T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:64a1ffd3-fe48-45fa-bb16-aa130c86177d@64a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231109T073000Z
+LOCATION:24-308Б
+DTSTART:20231109T060000Z
+SUMMARY:ЛР Технология производства летательных аппаратов
+UID:63aa003a-f299-4677-8909-89495971862c@63aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20230925T091500Z
+LOCATION:24-215.1
+DTSTART:20230925T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:33c0e566-06bc-4612-ae4e-bd44a925ff04@33c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231010T113000Z
+LOCATION:24-215.1
+DTSTART:20231010T100000Z
+SUMMARY:ЛР Эффективность функционирования летательных аппаратов
+UID:c9ed2b88-f50c-4d03-93ed-ead1c725f4ac@c9ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231212T091500Z
+LOCATION:24-215.1
+DTSTART:20231212T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:b92108c6-7427-443b-9222-f14286a694fb@b921.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20230920T091500Z
+LOCATION:24-215.1
+DTSTART:20230920T074500Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:bb5ede81-6ae4-48ec-bda4-51a11b129c6d@bb5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T113000Z
+LOCATION:--каф.
+DTSTART:20231006T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:adedc33d-0a32-404b-8476-502411686ed9@aded.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231214T073000Z
+LOCATION:24-308Б
+DTSTART:20231214T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:f953f701-1acd-4d9d-bde5-14af1ba55fce@f953.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231114T073000Z
+LOCATION:24-215.1
+DTSTART:20231114T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:99b82363-e46a-4a28-b6a0-86ea358940b5@99b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T113000Z
+LOCATION:--каф.
+DTSTART:20230922T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:77e951b8-a48a-4068-80de-08ed9b11dbad@77e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231213T091500Z
+LOCATION:24-215.1
+DTSTART:20231213T074500Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:8e647522-7321-4cb5-95fb-26c3f31ae55e@8e64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231120T113000Z
+LOCATION:24-210.3
+DTSTART:20231120T100000Z
+SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
+UID:8b4c373f-793a-4213-818f-8c2dd7c28485@8b4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231017T073000Z
+LOCATION:24-215.1
+DTSTART:20231017T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:3b8b75db-bf28-4158-ae08-6d67dc1332ff@3b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20240112T073000Z
+LOCATION:24-215.1
+DTSTART:20240112T060000Z
+SUMMARY:Экзамен Эффективность функционирования летательных аппаратов
+UID:57043168-c6de-43ad-a9b4-22863afa17c9@5704.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231024T113000Z
+LOCATION:24-215.1
+DTSTART:20231024T100000Z
+SUMMARY:ЛР Эффективность функционирования летательных аппаратов
+UID:0f3019cf-4506-4fbb-89fc-a7321f42978c@0f30.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T091500Z
+LOCATION:--каф.
+DTSTART:20231222T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:f538b2d7-3ee7-4a83-a512-959a51eebfdf@f538.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T131500Z
+LOCATION:--каф.
+DTSTART:20230915T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:b5f9b469-46a7-4ad1-886b-c33381b434fa@b5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T113000Z
+LOCATION:--каф.
+DTSTART:20231103T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:b7392815-3146-441d-b7c6-8b8ab3e6387f@b739.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T091500Z
+LOCATION:--каф.
+DTSTART:20231013T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:b11beca5-5c9d-4437-b6d2-08a23a21e2e8@b11b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231005T113000Z
+LOCATION:24-215.1
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:5a4237d5-890b-4366-b765-f83481e42203@5a42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231204T131500Z
+LOCATION:24-210.3
+DTSTART:20231204T114500Z
+SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
+UID:6c18f193-1847-41f1-9683-f37e11953efc@6c18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231227T091500Z
+LOCATION:24-215.1
+DTSTART:20231227T074500Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:49383cb8-1a83-4a46-9ca9-d61cc5907850@4938.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231023T091500Z
+LOCATION:24-215.1
+DTSTART:20231023T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:3cf5f6b5-710a-4b79-85f8-9c49c5f4e426@3cf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231101T091500Z
+LOCATION:24-215.1
+DTSTART:20231101T074500Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:426796ab-482d-41ab-aaf9-d16459106ac3@4267.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231128T113000Z
+LOCATION:24-215.1
+DTSTART:20231128T100000Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:b100728f-72bb-4532-9984-483fc0d67107@b100.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231207T113000Z
+LOCATION:24-210.3
+DTSTART:20231207T100000Z
+SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
+UID:2ffb6036-db05-47cb-a2f8-a6a6749d3068@2ffb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20230918T091500Z
+LOCATION:24-215.1
+DTSTART:20230918T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:293ea9da-1fbd-455a-8321-e9d731902a88@293e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T131500Z
+LOCATION:--каф.
+DTSTART:20231201T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:bb53dd26-6196-46cf-b26f-1613982b89ed@bb53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231115T131500Z
+LOCATION:24-215.1
+DTSTART:20231115T114500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:c78783b5-ac85-4c62-9947-21871b25611e@c787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231130T131500Z
+LOCATION:24-215.1
+DTSTART:20231130T114500Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:98bc7c06-6c9c-4ec2-bf06-9474a66bdbdc@98bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T073000Z
+LOCATION:--каф.
+DTSTART:20230915T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:99b3873e-8bbf-47b3-9f42-6ec5f15700cd@99b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231221T131500Z
+LOCATION:24-210.3
+DTSTART:20231221T114500Z
+SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
+UID:6a0223fa-ca49-4a40-8f7d-10795587ef00@6a02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231123T091500Z
+LOCATION:24-308Б
+DTSTART:20231123T074500Z
+SUMMARY:ЛР Технология производства летательных аппаратов
+UID:d08335bd-465c-438f-a0ea-78ff1f3a0cd1@d083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231025T091500Z
+LOCATION:24-215.1
+DTSTART:20231025T074500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:c0459001-b325-4c2c-aec0-defa2b5b5c62@c045.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T073000Z
+LOCATION:--каф.
+DTSTART:20230922T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:cea5d3a3-eac1-4e01-9725-14992db55f83@cea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231115T113000Z
+LOCATION:24-215.1
+DTSTART:20231115T100000Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:c30f50b6-649c-465f-815b-ba0a03a48bd0@c30f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20230927T073000Z
+LOCATION:24-715
+DTSTART:20230927T060000Z
+SUMMARY:ПЗ Технология производства летательных аппаратов
+UID:cd922d81-cad1-4de1-8a9f-95893bb99114@cd92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231113T091500Z
+LOCATION:24-215.1
+DTSTART:20231113T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:9be3a76a-149c-46f4-9d66-8b238f6fe23c@9be3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T113000Z
+LOCATION:--каф.
+DTSTART:20231201T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:68733f52-8857-4ca8-884b-f21c088a489f@6873.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231116T073000Z
+LOCATION:24-308Б
+DTSTART:20231116T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:6ff6534f-1cf9-4178-a70d-ea3aeb4403bd@6ff6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20230921T073000Z
+LOCATION:24-308Б
+DTSTART:20230921T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:f290fad6-a2e5-48d4-9105-51eb9d3dad26@f290.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231129T091500Z
+LOCATION:24-215.1
+DTSTART:20231129T074500Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:e2dbd19a-4462-470e-b086-fe07d8ba10a5@e2db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231218T091500Z
+LOCATION:24-215.1
+DTSTART:20231218T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:a54c8c5c-f999-4023-b673-083b67715569@a54c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T073000Z
+LOCATION:--каф.
+DTSTART:20231103T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:5f43da50-c4f8-42a1-96f4-d9bd97633d42@5f43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231031T113000Z
+LOCATION:24-215.1
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:47b11925-8277-4cbc-ae98-18d6d75e227f@47b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231102T131500Z
+LOCATION:24-215.1
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:f4b04c8c-cb1b-4f91-bd39-51b22b9308ad@f4b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231128T091500Z
+LOCATION:24-215.1
+DTSTART:20231128T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:1c174c72-1df9-4c82-adfc-228c91e06447@1c17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231121T131500Z
+LOCATION:24-215.1
+DTSTART:20231121T114500Z
+SUMMARY:ЛР Теоретические основы проектирования летательных аппаратов
+UID:39d1ef14-f9ed-4adc-8e91-9a34968877f5@39d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231023T073000Z
+LOCATION:24-215.1
+DTSTART:20231023T060000Z
+SUMMARY:ПЗ Надежность и обеспечение качества летательных аппаратов
+UID:71600a1b-8d5d-4de9-b0b6-0288d97e5958@7160.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231228T073000Z
+LOCATION:24-308Б
+DTSTART:20231228T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:c3fb04ba-5304-4c80-afba-343ac3b79246@c3fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20231122T131500Z
+LOCATION:24-400
+DTSTART:20231122T114500Z
+SUMMARY:ЛК Социология
+UID:59678c78-1f30-45fd-9698-192e3e9be625@5967.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230912T073000Z
+LOCATION:24-215.1
+DTSTART:20230912T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:21883fa6-21d3-4dd1-b81d-a7ac03f50422@2188.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231205T131500Z
+LOCATION:24-215.1
+DTSTART:20231205T114500Z
+SUMMARY:ЛР Теоретические основы проектирования летательных аппаратов
+UID:0e738da9-5269-42b2-af5d-34d474a29522@0e73.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T131500Z
+LOCATION:--каф.
+DTSTART:20231222T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:74041ac4-5b89-4e6e-8748-eff260c0598f@7404.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231017T113000Z
+LOCATION:24-215.1
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:69d5554f-d9c2-4632-bce0-985575c80c71@69d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20230904T113000Z
+LOCATION:24-215.1
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:419a8679-f824-445a-aa5f-b8571a0ea11d@419a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231030T113000Z
+LOCATION:24-215.1
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:eb27051b-21e7-44cd-944d-bc7127b752e2@eb27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231114T091500Z
+LOCATION:24-215.1
+DTSTART:20231114T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:c9b047b6-ef7a-4d68-a977-1c6c2ab0ab88@c9b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231127T091500Z
+LOCATION:24-215.1
+DTSTART:20231127T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:524ffb96-075f-45ea-8e7c-5d99df3f606a@524f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231016T091500Z
+LOCATION:24-215.1
+DTSTART:20231016T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:7e6fe49a-46c5-471e-853c-7bf0f5b7e042@7e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T073000Z
+LOCATION:--каф.
+DTSTART:20231208T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:411bce8d-49c3-4c0f-97b0-464590273906@411b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20240124T073000Z
+LOCATION:24-215.1
+DTSTART:20240124T060000Z
+SUMMARY:Экзамен Тепловое проектирование конструкций летательных аппаратов
+UID:bcec9f68-39fe-402b-9b31-ca588a7b8c44@bcec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231018T131500Z
+LOCATION:24-215.1
+DTSTART:20231018T114500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:d4021111-1e8a-4d1c-8866-f94eb989ed77@d402.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T091500Z
+LOCATION:--каф.
+DTSTART:20231215T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:255123c4-bccf-44f1-a688-b9645860b0d2@2551.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231211T113000Z
+LOCATION:24-215.1
+DTSTART:20231211T100000Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:8f342e5d-c92f-44be-8e81-be335e5654cb@8f34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20230928T073000Z
+LOCATION:24-308Б
+DTSTART:20230928T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:676c099c-e233-466a-b52d-c9e28ec114ec@676c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231228T113000Z
+LOCATION:24-215.1
+DTSTART:20231228T100000Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:35fcecf0-18e0-466d-b3ab-ef3e16e460b4@35fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231003T073000Z
+LOCATION:24-215.1
+DTSTART:20231003T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:06df18d5-2b0d-4b54-968a-12e3e24defdf@06df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231129T131500Z
+LOCATION:24-215.1
+DTSTART:20231129T114500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:5716e3b9-910a-4656-8f1b-d6acf18d5736@5716.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231003T091500Z
+LOCATION:24-215.1
+DTSTART:20231003T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:1d21680d-7d3b-4935-9a60-5af3c0f8e35d@1d21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матешук Анна Александровна
+DTEND:20230918T073000Z
+LOCATION:24-744
+DTSTART:20230918T060000Z
+SUMMARY:ПЗ Социология
+UID:8603a853-3806-47eb-a948-14da14ca69b1@8603.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20231220T131500Z
+LOCATION:24-400
+DTSTART:20231220T114500Z
+SUMMARY:ЛК Социология
+UID:aa847d37-07a3-423e-b3ff-00caae842a19@aa84.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T113000Z
+LOCATION:--каф.
+DTSTART:20231222T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:21ffeffb-3d2c-4a52-b1d7-62c50ba0a8c3@21ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T131500Z
+LOCATION:--каф.
+DTSTART:20230922T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:671c9266-04dd-4d4d-8d55-f9827d780fd1@671c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T091500Z
+LOCATION:--каф.
+DTSTART:20230929T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:09bd8fd1-17d1-4b65-9d82-2784813ec46d@09bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231011T113000Z
+LOCATION:24-215.1
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:13efb0fb-b6f7-484d-bc4e-e7ce7965377e@13ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231002T091500Z
+LOCATION:24-215.1
+DTSTART:20231002T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:c7d84905-032f-4877-9882-6631501050a5@c7d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231107T113000Z
+LOCATION:24-215.1
+DTSTART:20231107T100000Z
+SUMMARY:ЛР Теоретические основы проектирования летательных аппаратов
+UID:84491a33-75c4-4b2c-ae0a-97f0cc80e686@8449.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T073000Z
+LOCATION:--каф.
+DTSTART:20230901T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:e1fa99cf-5139-43d4-9b66-bc1c9d4c6432@e1fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T073000Z
+LOCATION:--каф.
+DTSTART:20230929T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:9346e297-e89e-46d7-b459-5224bb9f1e8c@9346.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231004T131500Z
+LOCATION:24-215.1
+DTSTART:20231004T114500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:f2dfbbe1-1849-4bd8-b0b8-bf3e455e0c10@f2df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231002T113000Z
+LOCATION:24-215.1
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:58986f16-a8b1-498e-8ece-15cbcd554a4d@5898.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231012T113000Z
+LOCATION:24-210.3
+DTSTART:20231012T100000Z
+SUMMARY:ПЗ УИРС
+UID:1cd2e91f-a23c-4775-97b4-a482288e5e0c@1cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T113000Z
+LOCATION:--каф.
+DTSTART:20231124T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:95b90478-4e93-492a-9ae4-25fdbb089089@95b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231019T131500Z
+LOCATION:24-215.1
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:5a0966fb-7132-468c-87e5-369c6c81436a@5a09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231005T091500Z
+LOCATION:24-308Б
+DTSTART:20231005T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:3343381f-b779-4eb2-ae09-f4aa88003a0e@3343.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T091500Z
+LOCATION:--каф.
+DTSTART:20230908T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:1ae4d7f8-ce9a-4776-8c15-db56cfcea9cb@1ae4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231019T113000Z
+LOCATION:24-215.1
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:b178a4ad-783d-4e81-9f76-320e327a0c8d@b178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231107T073000Z
+LOCATION:24-215.1
+DTSTART:20231107T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:ee687d4b-a409-4745-9576-a649089de165@ee68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231214T091500Z
+LOCATION:24-308Б
+DTSTART:20231214T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:c05f342f-8f10-4ed0-baa2-8a9a50dff94b@c05f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231026T113000Z
+LOCATION:24-210.3
+DTSTART:20231026T100000Z
+SUMMARY:ПЗ УИРС
+UID:519b0995-ce3c-428e-b9c9-24e584832c5f@519b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T113000Z
+LOCATION:--каф.
+DTSTART:20230915T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:36119f93-8bba-4641-bfc2-f006e260e4cd@3611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231010T073000Z
+LOCATION:24-215.1
+DTSTART:20231010T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:03285e7f-6b92-46a1-ba9e-9441597f206b@0328.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230905T091500Z
+LOCATION:24-215.1
+DTSTART:20230905T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:76e9420f-44c0-44f3-b089-82b0f96e9c1d@76e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20230907T131500Z
+LOCATION:24-215.1
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:f4e4a2e4-5a9f-4485-b0a2-77eaf885b568@f4e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20230907T073000Z
+LOCATION:24-308Б
+DTSTART:20230907T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:528f4eca-0808-4a40-84f5-09cb98830ca9@528f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T113000Z
+LOCATION:--каф.
+DTSTART:20230908T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:34b5a9c6-dfc9-47b3-b9e7-d93a0609f375@34b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231108T113000Z
+LOCATION:24-215.1
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:8a961598-0ad6-4e9f-8d86-56b749b31f4f@8a96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20240116T113000Z
+LOCATION:24-215.1
+DTSTART:20240116T100000Z
+SUMMARY:Экзамен Теоретические основы проектирования летательных аппаратов
+UID:8069ea62-fed5-4fc3-8820-3904cde55a2b@8069.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20230913T131500Z
+LOCATION:24-400
+DTSTART:20230913T114500Z
+SUMMARY:ЛК Социология
+UID:cfe2e0f9-fa81-477b-b7fe-8428dfa9c2e9@cfe2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T131500Z
+LOCATION:--каф.
+DTSTART:20231110T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:2c2bea53-b388-4e92-ba56-ddc74cb2307c@2c2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20240112T091500Z
+LOCATION:24-215.1
+DTSTART:20240112T074500Z
+SUMMARY:Экзамен Эффективность функционирования летательных аппаратов
+UID:466e4085-d91b-46af-93a4-36194199157a@466e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матешук Анна Александровна
+DTEND:20231030T073000Z
+LOCATION:24-744
+DTSTART:20231030T060000Z
+SUMMARY:ПЗ Социология
+UID:25baca29-1cd0-4ef4-9068-e1b2f6c93ee9@25ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20230914T091500Z
+LOCATION:24-308Б
+DTSTART:20230914T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:d295d5a4-c3d2-46b3-aa01-a74c60fcc674@d295.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20230906T113000Z
+LOCATION:24-215.1
+DTSTART:20230906T100000Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:47a7e702-16c6-43da-8795-4d1461fdcc6f@47a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231019T073000Z
+LOCATION:24-308Б
+DTSTART:20231019T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:36b32bdf-7c4f-4a96-a247-9a50079555a1@36b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231116T113000Z
+LOCATION:24-215.1
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:54687c43-794f-4bfc-8bfa-ee629d2a76ee@5468.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T113000Z
+LOCATION:--каф.
+DTSTART:20230901T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:50e94eba-e8fa-47b6-907c-81e9374a0415@50e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T091500Z
+LOCATION:--каф.
+DTSTART:20230922T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:19870e89-f5c0-46ff-9768-bdec22e473c9@1987.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231106T113000Z
+LOCATION:24-210.3
+DTSTART:20231106T100000Z
+SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
+UID:989c18c5-2353-4758-b953-60ab42974d7e@989c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231226T131500Z
+LOCATION:24-215.1
+DTSTART:20231226T114500Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:f09a63aa-d56b-420e-84be-bc89b9514587@f09a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20230921T113000Z
+LOCATION:24-215.1
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:84b1f031-e134-4ae1-a39e-c5547fd83446@84b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231031T131500Z
+LOCATION:24-215.1
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:bceee0ba-cd35-4ffb-9f2a-9080f2147d03@bcee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T131500Z
+LOCATION:--каф.
+DTSTART:20231117T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:69de31b7-bc3f-4458-a1d0-24d27d9a3698@69de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231130T113000Z
+LOCATION:24-215.1
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:f3bed9f0-53bb-4261-823a-5e8d49eb97e8@f3be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T131500Z
+LOCATION:--каф.
+DTSTART:20231006T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:a023c293-61b4-493c-8354-7cf136962852@a023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231003T113000Z
+LOCATION:24-215.1
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:13477473-91d2-4bfc-897b-8fd94b380993@1347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231109T131500Z
+LOCATION:24-210.3
+DTSTART:20231109T114500Z
+SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
+UID:25b32f12-df40-4e98-8897-224aa0cf028e@25b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T073000Z
+LOCATION:--каф.
+DTSTART:20231110T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:d35fd5fb-8eac-4f1c-a7c6-9ad94ca96724@d35f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230919T073000Z
+LOCATION:24-215.1
+DTSTART:20230919T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:9f1335c8-7668-4533-b69c-bcb285c74486@9f13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матешук Анна Александровна
+DTEND:20231002T073000Z
+LOCATION:24-744
+DTSTART:20231002T060000Z
+SUMMARY:ПЗ Социология
+UID:3ba2fb88-7c22-4a40-a2ee-e721e1ac1beb@3ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20230927T091500Z
+LOCATION:24-215.1
+DTSTART:20230927T074500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:a0de123d-c869-4138-8f55-37616cb8f647@a0de.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T073000Z
+LOCATION:--каф.
+DTSTART:20231222T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:c091c2bc-d1c0-482d-8858-2c408343d424@c091.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231011T091500Z
+LOCATION:24-215.1
+DTSTART:20231011T074500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:b4243185-7e0e-4005-848b-aa3c2d8dc5ff@b424.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T131500Z
+LOCATION:--каф.
+DTSTART:20231020T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:74c39648-e949-4f4a-8d00-ebe6a33d35c0@74c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231226T091500Z
+LOCATION:24-215.1
+DTSTART:20231226T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:482c6d08-7a23-4799-8485-1cd49a953791@482c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20230927T113000Z
+LOCATION:24-215.1
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:45e252b9-b1a3-4906-ae7c-94052be60f4c@45e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231114T113000Z
+LOCATION:24-215.1
+DTSTART:20231114T100000Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:ef060254-c93c-4d2b-bb3f-5875d32babcc@ef06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231130T091500Z
+LOCATION:24-308Б
+DTSTART:20231130T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:62292a9a-85d9-4bc5-bd59-a2da195abbea@6229.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20231206T131500Z
+LOCATION:24-400
+DTSTART:20231206T114500Z
+SUMMARY:ЛК Социология
+UID:58f49ab5-3679-43d6-b04d-e0850a3942a9@58f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20230920T113000Z
+LOCATION:24-215.1
+DTSTART:20230920T100000Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:c45083a5-53e9-4d4f-9ccf-51955a99b6b5@c450.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231121T091500Z
+LOCATION:24-215.1
+DTSTART:20231121T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:f913a924-87a5-4d92-b249-b40a125bd503@f913.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20240124T091500Z
+LOCATION:24-215.1
+DTSTART:20240124T074500Z
+SUMMARY:Экзамен Тепловое проектирование конструкций летательных аппаратов
+UID:38603b77-af7c-49aa-9f6c-3ba94315f5c2@3860.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T091500Z
+LOCATION:--каф.
+DTSTART:20231006T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:5cd87482-e6db-4e46-aecb-fa12e31c3b90@5cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231218T113000Z
+LOCATION:24-210.3
+DTSTART:20231218T100000Z
+SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
+UID:a24c4d0a-e4fa-4673-a0b1-7196bcdf265f@a24c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T091500Z
+LOCATION:--каф.
+DTSTART:20230901T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:aec1f0f1-f648-40d8-82da-4573f827c0cf@aec1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T091500Z
+LOCATION:--каф.
+DTSTART:20230915T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:a1e97f4b-77c1-4fd9-b36b-695a7e455127@a1e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T113000Z
+LOCATION:--каф.
+DTSTART:20231208T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:4be4044b-3040-42d5-8d46-601b6e0caca3@4be4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231214T113000Z
+LOCATION:24-215.1
+DTSTART:20231214T100000Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:658ef7f8-c22a-401c-a62e-34ecc4e7f263@658e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20230921T131500Z
+LOCATION:24-215.1
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:6626c087-b868-47d3-9eda-5936b0a9d023@6626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231012T073000Z
+LOCATION:24-308Б
+DTSTART:20231012T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:2adb8081-3a9c-49f0-a4b8-57e488852dce@2adb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231017T091500Z
+LOCATION:24-215.1
+DTSTART:20231017T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:7ee0bc3e-f462-4db2-8c2d-84274865f2e3@7ee0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231120T091500Z
+LOCATION:24-215.1
+DTSTART:20231120T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:160c6f73-0c0f-4c42-8205-b2bf3d3440cb@160c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20230913T113000Z
+LOCATION:24-215.1
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:e8612ca7-75ea-440e-b2fc-8461df9c52cd@e861.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T113000Z
+LOCATION:--каф.
+DTSTART:20231013T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:f199dc98-4086-4d01-999d-f9f7377fec9a@f199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231106T131500Z
+LOCATION:24-210.3
+DTSTART:20231106T114500Z
+SUMMARY:ЛР Надежность и обеспечение качества летательных аппаратов
+UID:0857489b-d010-4e41-9edc-bf1c0f6cda42@0857.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231214T131500Z
+LOCATION:24-215.1
+DTSTART:20231214T114500Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:110d8c45-e54b-462c-be8e-5e98778801b1@110d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231225T113000Z
+LOCATION:24-215.1
+DTSTART:20231225T100000Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:6c857146-115b-40f9-8c9f-0fac5e97cdca@6c85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231207T073000Z
+LOCATION:24-308Б
+DTSTART:20231207T060000Z
+SUMMARY:ЛР Технология производства летательных аппаратов
+UID:f03ff1e2-4f63-4158-af69-6255cc18bb59@f03f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T073000Z
+LOCATION:--каф.
+DTSTART:20230908T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:ae52fba4-358c-45ec-b034-edb34364b80d@ae52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231205T113000Z
+LOCATION:24-215.1
+DTSTART:20231205T100000Z
+SUMMARY:ЛР Теоретические основы проектирования летательных аппаратов
+UID:b98d2887-322e-44eb-93ce-3a491494d76c@b98d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231221T091500Z
+LOCATION:24-308Б
+DTSTART:20231221T074500Z
+SUMMARY:ЛР Технология производства летательных аппаратов
+UID:86b1a53c-aeba-4017-8a72-68d21a078e48@86b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T073000Z
+LOCATION:--каф.
+DTSTART:20231006T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:a9fe3224-c5fe-4355-8af8-76687d24bb03@a9fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231227T113000Z
+LOCATION:24-215.1
+DTSTART:20231227T100000Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:d9ffe516-ebe0-4e86-8780-8762f28f3f70@d9ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230912T131500Z
+LOCATION:24-215.1
+DTSTART:20230912T114500Z
+SUMMARY:ЛР Эффективность функционирования летательных аппаратов
+UID:d18e2322-175e-4aac-b9fb-cdd3edcd30be@d18e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231005T131500Z
+LOCATION:24-215.1
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Тепловое проектирование конструкций летательных аппаратов
+UID:458db606-a710-458f-8cf8-e640b5a8302f@458d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231101T113000Z
+LOCATION:24-215.1
+DTSTART:20231101T100000Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:e2bc1feb-1460-4f53-93e3-da5e15e78ed9@e2bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T073000Z
+LOCATION:--каф.
+DTSTART:20231117T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:d7f70729-db82-4ff5-9a37-c935d831a66b@d7f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20230928T131500Z
+LOCATION:24-210.3
+DTSTART:20230928T114500Z
+SUMMARY:ПЗ УИРС
+UID:49eb7fdb-94b2-4993-bd55-fe5f5f547899@49eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231220T113000Z
+LOCATION:24-215.1
+DTSTART:20231220T100000Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:efdbf9fe-6fea-4356-b525-a097d7fc50be@efdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20230906T091500Z
+LOCATION:24-215.1
+DTSTART:20230906T074500Z
+SUMMARY:ЛР Инженерные методы проектирования конструкций летательных аппаратов
+UID:61297791-4514-49d7-8582-97ac8043c6f5@6129.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T091500Z
+LOCATION:--каф.
+DTSTART:20231201T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:71862526-d036-4826-a60b-13b8f22ef9d1@7186.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230912T113000Z
+LOCATION:24-215.1
+DTSTART:20230912T100000Z
+SUMMARY:ЛР Эффективность функционирования летательных аппаратов
+UID:f69bc86d-d3ab-481f-989d-4aa4d0c8d026@f69b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20240116T091500Z
+LOCATION:24-215.1
+DTSTART:20240116T074500Z
+SUMMARY:Экзамен Теоретические основы проектирования летательных аппаратов
+UID:185485c2-d6b5-4526-8073-965a41782078@1854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231024T091500Z
+LOCATION:24-215.1
+DTSTART:20231024T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:714ab3ac-8a0d-4a41-b62e-f873f628cced@714a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231128T131500Z
+LOCATION:24-215.1
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:411d7241-3e0a-45d4-882f-6afd2387f5e0@411d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231226T113000Z
+LOCATION:24-215.1
+DTSTART:20231226T100000Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:59366bc3-7d43-4955-81a3-4c7a96f9d009@5936.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231205T091500Z
+LOCATION:24-215.1
+DTSTART:20231205T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:8a032150-a02b-4c2d-9d26-90204e986918@8a03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231207T131500Z
+LOCATION:24-210.3
+DTSTART:20231207T114500Z
+SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
+UID:7146f41c-eb3e-4c6a-ab4e-29f9c20066b6@7146.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матешук Анна Александровна
+DTEND:20231211T073000Z
+LOCATION:24-744
+DTSTART:20231211T060000Z
+SUMMARY:ПЗ Социология
+UID:bbd302f3-3dfb-43f4-a61a-ecff82748e8a@bbd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231227T131500Z
+LOCATION:24-215.1
+DTSTART:20231227T114500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:6e0806f0-2c20-4575-846c-0de7286df39f@6e08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230919T091500Z
+LOCATION:24-215.1
+DTSTART:20230919T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:ff4df4d9-c9cc-4462-baf9-46f656af21c8@ff4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231219T091500Z
+LOCATION:24-215.1
+DTSTART:20231219T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:e18220e6-aaed-4806-964e-44770857b3ea@e182.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231025T113000Z
+LOCATION:24-215.1
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:f9df9da3-d656-4971-9fe7-049f4fd7744d@f9df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230925T073000Z
+LOCATION:24-215.1
+DTSTART:20230925T060000Z
+SUMMARY:ПЗ Эффективность функционирования летательных аппаратов
+UID:c1a49059-448c-418a-9005-170ad2ba59da@c1a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20230907T091500Z
+LOCATION:24-308Б
+DTSTART:20230907T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:3b799975-b1c7-467a-b174-bd049b5e7ad4@3b79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коломоец Елена Николаевна
+DTEND:20230927T131500Z
+LOCATION:24-400
+DTSTART:20230927T114500Z
+SUMMARY:ЛК Социология
+UID:6a26febd-b624-43f3-891b-dc121c2376a1@6a26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20230911T091500Z
+LOCATION:24-215.1
+DTSTART:20230911T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:40b96fb6-ab9e-43e2-811f-74b5b9e66f01@40b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T131500Z
+LOCATION:--каф.
+DTSTART:20231215T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:e855818f-8646-483b-a4cf-b60a61379b8d@e855.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231116T091500Z
+LOCATION:24-308Б
+DTSTART:20231116T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:409fcbee-848b-47b1-a300-c8eb899da8b2@409f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20230926T113000Z
+LOCATION:24-215.1
+DTSTART:20230926T100000Z
+SUMMARY:ЛР Эффективность функционирования летательных аппаратов
+UID:b6da5732-5bc2-4f5f-bf4e-9bbf096a493f@b6da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20231221T113000Z
+LOCATION:24-210.3
+DTSTART:20231221T100000Z
+SUMMARY:ЛР Тепловое проектирование конструкций летательных аппаратов
+UID:e2798d01-0897-42e1-86ac-faac2bd8e669@e279.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231101T131500Z
+LOCATION:24-215.1
+DTSTART:20231101T114500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:6e691fb9-a376-423b-bdd9-b2e14409d787@6e69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231102T091500Z
+LOCATION:24-308Б
+DTSTART:20231102T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:967836cc-0ea0-4beb-a848-2408c60df75b@9678.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20231009T091500Z
+LOCATION:24-215.1
+DTSTART:20231009T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:aab1a170-a6f1-4a0b-88fa-924d96f91ada@aab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петраш Виктор Яковлевич
+DTEND:20231114T131500Z
+LOCATION:24-215.1
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Теоретические основы проектирования летательных аппаратов
+UID:f6377abe-85ec-4b0d-a15a-ac0863f458bc@f637.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T091500Z
+LOCATION:--каф.
+DTSTART:20231208T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:124a5ebd-b8f1-45bd-ab83-c956d4b727f3@124a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231219T073000Z
+LOCATION:24-215.1
+DTSTART:20231219T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:f276fd9c-d8ec-4be3-9e26-ba154c15a295@f276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231206T113000Z
+LOCATION:24-215.1
+DTSTART:20231206T100000Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:aa3abad4-98f0-44b4-b9ee-b0811ded517e@aa3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231212T073000Z
+LOCATION:24-215.1
+DTSTART:20231212T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:5f355104-6a0e-4bc8-905a-e08e13dd90a5@5f35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вититин Виктор Федорович
+DTEND:20230904T091500Z
+LOCATION:24-215.1
+DTSTART:20230904T074500Z
+SUMMARY:ЛК Надежность и обеспечение качества летательных аппаратов
+UID:7527b5f3-4ae5-4465-8ae0-1a45edea2598@7527.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231031T073000Z
+LOCATION:24-215.1
+DTSTART:20231031T060000Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:f6678c47-36b3-456e-b524-5265a88bac5c@f667.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусейнов Арсен Буйдалаевич
+DTEND:20231031T091500Z
+LOCATION:24-215.1
+DTSTART:20231031T074500Z
+SUMMARY:ЛК Эффективность функционирования летательных аппаратов
+UID:4b605c6f-0ea1-4b05-994d-ad10392b4f78@4b60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231026T091500Z
+LOCATION:24-308Б
+DTSTART:20231026T074500Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:7a48edc6-390c-4648-b89a-54d29ec76faf@7a48.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T091500Z
+LOCATION:--каф.
+DTSTART:20231124T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:b20b02e4-1293-4329-8989-baa3f1b73042@b20b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Игорь Александрович
+DTEND:20230914T113000Z
+LOCATION:24-210.3
+DTSTART:20230914T100000Z
+SUMMARY:ПЗ УИРС
+UID:fa73d682-5444-4694-879b-241b110ae60e@fa73.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T131500Z
+LOCATION:--каф.
+DTSTART:20230908T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:33d76da4-7518-44bc-9306-827dccd1edea@33d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T073000Z
+LOCATION:--каф.
+DTSTART:20231013T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:c8d1f88d-9949-45da-8805-50ce99a859cf@c8d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Парафесь Сергей Гаврилович
+DTEND:20231108T091500Z
+LOCATION:24-215.1
+DTSTART:20231108T074500Z
+SUMMARY:ЛК Инженерные методы проектирования конструкций летательных аппаратов
+UID:c7852fd5-bad1-443f-a161-5c61b7f8d272@c785.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Береговой Виктор Георгиевич
+DTEND:20231026T073000Z
+LOCATION:24-308Б
+DTSTART:20231026T060000Z
+SUMMARY:ЛК Технология производства летательных аппаратов
+UID:9fd5bd8b-17a1-49a5-9bbb-a52bc930637f@9fd5.org
 END:VEVENT
 END:VCALENDAR

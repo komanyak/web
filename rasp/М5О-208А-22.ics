@@ -2,221 +2,46 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231026T150000Z
-LOCATION:5-314
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:223f22c8-3b62-4dc1-b012-c102a9fb4fa9@223f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:3c991da4-bb43-4894-91cb-ebfb9568680e@3c99.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T150000Z
-LOCATION:5-314
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:213ce358-3bbe-4fae-87a7-e0ff3ae188d5@213c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3d84e75a-0c95-4511-8ef0-4e1ed339186a@3d84.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:73e2f980-c210-4db5-9b7b-7cfb1db95252@73e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T150000Z
-LOCATION:5-314
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:b604865d-5bdb-4acd-97d5-46b3fc0659c3@b604.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c2374fc0-59a9-4021-86ad-41e31298bc53@c237.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7bd90bd4-265a-40c4-add1-7c938c3a32d3@7bd9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d40e7050-f42e-4cb5-9530-f8101850af71@d40e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:26061b59-250d-4dfd-b91e-272f5dd6caf2@2606.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T164500Z
-LOCATION:5-314
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:2b72065f-324e-4b26-ba99-3e763f644294@2b72.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d5355376-97e1-4354-a266-6568270a9491@d535.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20231109T150000Z
 LOCATION:5-314
 DTSTART:20231109T133000Z
 SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:db5a48da-3153-479d-9ad9-cbed47d3a97e@db5a.org
+UID:d699334e-e5d5-480d-8cf4-1c8b5f8c8432@d699.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230918T164500Z
+DTEND:20231113T150000Z
 LOCATION:--каф.
-DTSTART:20230918T151500Z
+DTSTART:20231113T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:eacff812-0504-4616-aa16-92e239a50aab@eacf.org
+UID:0b4bb29b-5c00-422e-a776-f01e99e2dc48@0b4b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231107T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231107T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:efc5cbe1-7e26-4ab6-adc8-d1f8483a9d9a@efc5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:34a5380d-88d0-4a0d-a168-9980a3135aa7@34a5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T150000Z
+DTEND:20231116T150000Z
 LOCATION:5-314
-DTSTART:20231005T133000Z
+DTSTART:20231116T133000Z
 SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:ee327e2c-9558-4844-a2de-bfbe0f2bb38b@ee32.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T164500Z
-LOCATION:5-314
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:f32a46c1-6ff5-43ca-8e12-2294d549a088@f32a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231121T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231121T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:1e2a098d-a438-4801-b69c-d88aab42beb3@1e2a.org
+UID:5c020a39-a35d-4257-bd7a-50603ba2e042@5c02.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230911T150000Z
 LOCATION:--каф.
 DTSTART:20230911T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:98d08781-a755-40c3-afd9-53cfcf82626c@98d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T164500Z
-LOCATION:5-314
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:e68e0f59-95e9-4d2e-817b-189a44917dd8@e68e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T164500Z
-LOCATION:5-314
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:1bd62a45-75e6-4708-9675-7f8135e37db9@1bd6.org
+UID:253f435b-75a2-4990-af32-19614004e57b@253f.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231002T164500Z
 LOCATION:--каф.
 DTSTART:20231002T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e65e1b97-8fa8-4125-9fb0-ea9de9db3412@e65e.org
+UID:1205dcd9-1389-4bd4-a453-47dc1d67b1e8@1205.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:39dcddad-3d79-4301-9d20-fc6c38a7d06a@39dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T150000Z
-LOCATION:5-314
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:348cdd96-23d7-4833-abfd-4c86b589097f@348c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
+DTEND:20231030T150000Z
 LOCATION:--каф.
-DTSTART:20231120T133000Z
+DTSTART:20231030T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8375ea52-144d-4bc8-9111-951488127c58@8375.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:549374b8-dc84-4b90-b698-0166fb3e77d2@5493.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:6fc94173-033f-44fc-81d5-a7a61fd9fcda@6fc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:481d31c5-6674-4c8b-a87d-d2ad720d57a7@481d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T164500Z
-LOCATION:5-314
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:ef2459a9-49ea-44b4-9046-4814a636b98d@ef24.org
+UID:e6226688-87fa-47c9-b8c2-fda4be81a79b@e622.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -224,208 +49,7 @@ DTEND:20231017T164500Z
 LOCATION:ГУК В-228
 DTSTART:20231017T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:38ce92ca-8634-47b4-998d-57ccc53e1068@38ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:af307db3-198b-4bef-8988-d4d78b8dc703@af30.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T164500Z
-LOCATION:5-314
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:232b5dba-6197-439f-9a86-67345a54959d@232b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T150000Z
-LOCATION:5-314
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:f5e6371f-247b-4fdf-ba1e-3e8869acbfce@f5e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3be92ee1-e8a7-4e38-9670-a469945bdc03@3be9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231121T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231121T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:b510a9df-f5fd-4598-98c3-f9740ba59469@b510.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T150000Z
-LOCATION:5-314
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:c73c5d9e-5cd5-4396-8c33-33eb3f74c5f6@c73c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T164500Z
-LOCATION:5-314
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:96f7bafb-b34b-4601-964d-092e10b5d8d1@96f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T150000Z
-LOCATION:5-314
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:49819795-d928-47d7-be18-19b2bf300266@4981.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b3877d58-0378-4e21-a587-c118f54c5b13@b387.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:811fb422-09a0-4e4f-b766-222a679bfa01@811f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:fdf67695-87d1-4bbf-8e5b-4e37ac736938@fdf6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T150000Z
-LOCATION:5-314
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:486f56a1-2d62-45e1-9215-0e0d2fe593f2@486f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T164500Z
-LOCATION:5-314
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:430be1b4-da6a-4394-bbd7-466a43765689@430b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:20e3283d-8f55-4d5a-87cc-f20739915da5@20e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:85b1266b-1503-4874-8a3c-7839fb764dd1@85b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ede1e37e-f446-44a4-b9a3-a063b4b0db96@ede1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T150000Z
-LOCATION:5-314
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:816c9235-ee40-4ee7-99bf-f28bcdccab9d@816c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T150000Z
-LOCATION:5-314
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:370543aa-1858-4b07-8a29-ef04bccaa638@3705.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T164500Z
-LOCATION:5-314
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:be5fc03d-7cf8-4555-8345-e9f69d173564@be5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4da6fb3e-f6d2-4a63-ae2e-05ac9a964f97@4da6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:bed00b3d-e50e-4680-8387-fa39a03d1b4d@bed0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:48676478-5428-4b35-924e-d75833d3de45@4867.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8b4268b0-c558-420f-8e00-1ade816a2498@8b42.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:62c850d3-b9a4-4bee-b1a4-aecfb8ab6c90@62c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T164500Z
-LOCATION:5-314
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:51c1df75-b90a-48c2-8d6f-0674ad642f6d@51c1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T150000Z
-LOCATION:5-314
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:e53e526e-2aa3-4672-b544-946c30a216cd@e53e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3bf8e6f3-a2a5-441e-9a29-10e2c1aa772a@3bf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231107T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:dce93d49-bb5a-4af1-b79e-182f0eb16182@dce9.org
+UID:703b1fb7-3b45-470c-a706-883373102d16@703b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -433,48 +57,424 @@ DTEND:20231003T164500Z
 LOCATION:ГУК В-228
 DTSTART:20231003T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:a3219091-8a80-4a67-bbe7-4bce514b1802@a321.org
+UID:05d2ad2a-1d7d-4739-babb-9142c56108da@05d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T164500Z
+LOCATION:5-314
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Математическое моделирование при принятии решений
+UID:9dbf125d-d3c3-4a9c-bbcf-9be3e751ef2a@9dbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:59023bb5-e8cd-4ea8-ac2d-2d97369b2d41@5902.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:129a06e7-bbd3-4cd1-881e-89d2dff01b90@129a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:332b3ab5-c9a0-44e9-bb16-7c5938809cec@332b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T150000Z
+LOCATION:5-314
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Математическое моделирование при принятии решений
+UID:2ab13b98-b536-4d66-a4d6-9d32bd6699b5@2ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:1d3e8702-f1b2-472c-a3be-a05912891de2@1d3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T164500Z
+LOCATION:--каф.
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a35466d8-caec-4d3c-bbf4-8d90a5abb8d2@a354.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ddd6993c-d83e-460b-b5a9-d7c4fb9aba3c@ddd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T150000Z
+LOCATION:5-314
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Математическое моделирование при принятии решений
+UID:22d95d1f-188e-456a-a903-635ca87c0f6e@22d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:8d5d5f4d-3ada-4ef4-9559-28ec88579a85@8d5d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T150000Z
+LOCATION:5-314
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Математическое моделирование при принятии решений
+UID:adb79a34-d8eb-4612-8ec7-7c7cb6f2df14@adb7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T164500Z
+LOCATION:5-314
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Математическое моделирование при принятии решений
+UID:30ba2dc7-9992-454e-8f88-77b9baba1505@30ba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T164500Z
+LOCATION:5-314
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Математическое моделирование при принятии решений
+UID:4951ee6d-73a2-40d4-b9f8-3a0b6d46a8c4@4951.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231107T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231107T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:5c3c28ea-0e53-48fe-8ac3-e3dbc0683a55@5c3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:79061a03-3316-4898-a00e-7700cde84bc1@7906.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:15d68716-7eee-4ca1-9649-736d3f6a3911@15d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5cd0127d-42fe-407d-964f-eac8691452ec@5cd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T164500Z
+LOCATION:5-314
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Математическое моделирование при принятии решений
+UID:988c9468-cd04-4af1-8bcf-12df7e8496f4@988c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T164500Z
+LOCATION:5-314
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Математическое моделирование при принятии решений
+UID:b67e88bc-075e-444a-92d6-83793513b94f@b67e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:ad90d24b-2064-4686-bf45-42ad5b19162f@ad90.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T164500Z
+LOCATION:5-314
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Математическое моделирование при принятии решений
+UID:0861128f-aeb6-4594-bce6-b8a10ec5bfac@0861.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:4783f545-ab88-4cfe-b316-01a07ba4e272@4783.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:153835a6-97c9-44cc-a23a-0aa67beaf841@1538.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231116T164500Z
 LOCATION:5-314
 DTSTART:20231116T151500Z
 SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:97a6be66-defa-4ef9-ac8c-abeabfa18af2@97a6.org
+UID:a2bbfd87-46ff-4fe7-978f-1f3a1d8dbbdd@a2bb.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230928T150000Z
+DTEND:20231207T150000Z
 LOCATION:5-314
-DTSTART:20230928T133000Z
+DTSTART:20231207T133000Z
 SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:c9ff3688-499f-4f3d-a2a2-8fd924ad9d36@c9ff.org
+UID:97cec286-d534-4b2b-b39f-99322ae74971@97ce.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230921T150000Z
+DTEND:20231130T150000Z
 LOCATION:5-314
-DTSTART:20230921T133000Z
+DTSTART:20231130T133000Z
 SUMMARY:ЛК Математическое моделирование при принятии решений
-UID:7317c817-8412-4cd0-85c9-35fcf7265ef5@7317.org
+UID:57ce481a-1d66-4afd-a30f-3ff19eba28c3@57ce.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:33cc6d46-8dcc-4335-a977-bb5a82783aae@33cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T164500Z
-LOCATION:5-314
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Математическое моделирование при принятии решений
-UID:3aa9b8df-d6a8-4573-b6c6-a897e5d87ff4@3aa9.org
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231121T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231121T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:d8610d5b-3f2c-4442-b328-adf43cb29642@d861.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230904T150000Z
 LOCATION:--каф.
 DTSTART:20230904T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:18e6f6c1-c475-473e-922e-2fec778aaa69@18e6.org
+UID:8d3f85bf-bfb8-475e-8f27-144d4018f286@8d3f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T150000Z
+LOCATION:5-314
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Математическое моделирование при принятии решений
+UID:4ce92f40-da04-4274-97c9-8aeb5a893123@4ce9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:dd989608-2ea0-4cb9-9288-ed8455732ecb@dd98.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T150000Z
+LOCATION:5-314
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Математическое моделирование при принятии решений
+UID:d7af8032-687f-48b2-95f4-8c38e0b0d454@d7af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T150000Z
+LOCATION:5-314
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Математическое моделирование при принятии решений
+UID:7be44df6-2afc-46dd-8b25-78163d3160be@7be4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:55dbe0b2-78c3-43ba-b7a2-7892ce7b7b4f@55db.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1d67fd4b-22f0-4040-946c-65a3f07d1e47@1d67.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7d72aab5-f0be-4bc3-953c-7fb4d46c16e2@7d72.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e27a525d-0f9d-491c-81cf-5ae010f00efa@e27a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:47ca9536-68e6-42f6-b0b4-31f0f9bfb01d@47ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T164500Z
+LOCATION:5-314
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Математическое моделирование при принятии решений
+UID:ba464d18-07d4-4a38-84ae-dc34386c180b@ba46.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T150000Z
+LOCATION:5-314
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Математическое моделирование при принятии решений
+UID:919cb34c-7c2f-4137-8f98-b74e559545da@919c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T150000Z
+LOCATION:5-314
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Математическое моделирование при принятии решений
+UID:38c55370-7117-48ab-a426-06093ecc4cbf@38c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9c32bef9-965a-47ae-ac90-75b9fa0ac824@9c32.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T164500Z
+LOCATION:5-314
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Математическое моделирование при принятии решений
+UID:338a8d9b-086b-495c-b74f-fe5bb3cd15ac@338a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:a5459fbd-9701-4a35-9dae-b384b9fafe03@a545.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a892f843-caeb-419e-9d08-dff8284f2b46@a892.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:a2968b3e-0568-4aac-bd6f-2c1ba0ee01cd@a296.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T150000Z
+LOCATION:5-314
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Математическое моделирование при принятии решений
+UID:524f7846-39a8-435c-a775-683e8be270fe@524f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T164500Z
+LOCATION:5-314
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Математическое моделирование при принятии решений
+UID:5e30aeb4-1a6b-4b36-b91c-c673f5911d76@5e30.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:caa7e2af-2173-4891-b642-280f23cf83f1@caa7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:93a41071-a825-447a-8d79-59e5582a3a09@93a4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:8a1c674a-4f6b-4845-90c4-ed7396a91e82@8a1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T164500Z
+LOCATION:5-314
+DTSTART:20230921T151500Z
+SUMMARY:ПЗ Математическое моделирование при принятии решений
+UID:b4c77e61-0f1f-4108-8da4-06f670be6a1f@b4c7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ac3d4c0c-ed45-4efd-b859-7576964da9c9@ac3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T150000Z
+LOCATION:5-314
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Математическое моделирование при принятии решений
+UID:67cd50fb-865b-4b1f-a6fe-375c8d0df4ba@67cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T150000Z
+LOCATION:5-314
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Математическое моделирование при принятии решений
+UID:d2c6e7d3-0f54-40fd-a43d-25d4191f6d48@d2c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231121T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231121T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:49963db5-8515-4ee5-8226-5dc3a87357d9@4996.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T164500Z
+LOCATION:5-314
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Математическое моделирование при принятии решений
+UID:446efa29-bec4-4fc2-b081-f340dc96e828@446e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231107T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:8c2ded86-8486-4308-8e11-47706a162a2c@8c2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1d31d0b1-b842-413d-9e0a-bc9eb36f4e9b@1d31.org
 END:VEVENT
 END:VCALENDAR

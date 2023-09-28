@@ -3,339 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231228T183000Z
-LOCATION:5-414Б
-DTSTART:20231228T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:bc999b96-11f2-4501-a8f2-22a1854fe826@bc99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20230907T183000Z
-LOCATION:5-413
-DTSTART:20230907T170000Z
-SUMMARY:ЛК Преддипломный курс
-UID:40215245-0615-48a6-b4c5-a389750d12fa@4021.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ульяшин Владислав Юрьевич
-DTEND:20231010T164500Z
-LOCATION:5-227
-DTSTART:20231010T151500Z
-SUMMARY:ПЗ Современные технологии проектирования информационных систем
-UID:d692a9b2-649d-4132-91e0-07ed390658b0@d692.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
 DTEND:20231214T183000Z
 LOCATION:5-414Б
 DTSTART:20231214T170000Z
 SUMMARY:ЛР Интеллектуальные системы
-UID:68a11c2b-d4e9-4b17-945b-3657788c1c30@68a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231025T183000Z
-LOCATION:5-414Б
-DTSTART:20231025T170000Z
-SUMMARY:ЛР Методы моделирования
-UID:455cbfc9-1a5a-4137-8420-b9db585937a7@455c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231202T131500Z
-LOCATION:5-414В
-DTSTART:20231202T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:21f452ed-fac9-4306-9c10-2769ca8476a1@21f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20230930T113000Z
-LOCATION:5-414В
-DTSTART:20230930T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:d0ef17ae-f48b-4046-b599-c23fc8d3987c@d0ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231005T183000Z
-LOCATION:5-414Б
-DTSTART:20231005T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:b2e5de23-f052-4fb3-b9f6-c62fc194c603@b2e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231130T164500Z
-LOCATION:5-414Б
-DTSTART:20231130T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:e9da6ec0-34de-4a43-bccd-1a262d445c73@e9da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231101T183000Z
-LOCATION:5-414А
-DTSTART:20231101T170000Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:b628a00e-e08b-4407-aa7b-55fb7802b249@b628.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20230920T164500Z
-LOCATION:5-414А
-DTSTART:20230920T151500Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:2dce6618-4d55-4369-8d2a-cecef57c3a6b@2dce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231016T183000Z
-LOCATION:ГУК А-406
-DTSTART:20231016T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:360648fb-38a7-443e-85ba-14f927fa8a5e@3606.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20230923T113000Z
-LOCATION:5-414В
-DTSTART:20230923T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:5a1a37cf-19d5-4b3c-83de-6c4a5c0a1f8e@5a1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ульяшин Владислав Юрьевич
-DTEND:20230912T183000Z
-LOCATION:5-227
-DTSTART:20230912T170000Z
-SUMMARY:ЛК Современные технологии проектирования информационных систем
-UID:167b5e52-808b-4961-b3b9-ed94a64a73a7@167b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230901T183000Z
-LOCATION:5-414В
-DTSTART:20230901T170000Z
-SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
-UID:19e65e60-98d7-406d-8938-8eb528a15ac0@19e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231009T164500Z
-LOCATION:5-413
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Преддипломный курс
-UID:81b9555e-8865-407d-98b9-609089b758c4@81b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231209T131500Z
-LOCATION:5-414В
-DTSTART:20231209T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:61bbd1fe-8991-42e6-94bc-dc705e0fc0ea@61bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20230930T131500Z
-LOCATION:5-414В
-DTSTART:20230930T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:9c10ac66-e577-4291-bbc4-24ff739c11de@9c10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20230921T164500Z
-LOCATION:5-414Б
-DTSTART:20230921T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:b4e1ef68-b733-4827-9c7a-0e9626f82b2b@b4e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231227T183000Z
-LOCATION:5-414А
-DTSTART:20231227T170000Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:f7e6eb7e-0309-4b91-8238-3297fdd29916@f7e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231110T164500Z
-LOCATION:5-414В
-DTSTART:20231110T151500Z
-SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
-UID:13214d6a-1f27-4902-aec5-0970ef8d17b9@1321.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231016T164500Z
-LOCATION:ГУК А-406
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:dce03cad-d44f-4aa9-899a-f813428657d0@dce0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231018T183000Z
-LOCATION:5-414А
-DTSTART:20231018T170000Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:04261b83-b5da-4030-b11f-16854d6cb33b@0426.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20230925T164500Z
-LOCATION:5-413
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Преддипломный курс
-UID:dfbb25c1-1ba4-410a-aba9-e2ffb6a3653e@dfbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231116T164500Z
-LOCATION:5-414Б
-DTSTART:20231116T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:05961c26-5375-4ad6-b9bf-7126d760f584@0596.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230915T183000Z
-LOCATION:5-414В
-DTSTART:20230915T170000Z
-SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
-UID:4614d62c-711b-4ed2-9206-45f514669324@4614.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231204T183000Z
-LOCATION:5-413
-DTSTART:20231204T170000Z
-SUMMARY:ПЗ Преддипломный курс
-UID:7a581ac9-82c5-475f-9bb9-077db45977e5@7a58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231124T164500Z
-LOCATION:5-414В
-DTSTART:20231124T151500Z
-SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
-UID:8b15fed1-d222-4281-8d6b-19b32a8994b8@8b15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231218T164500Z
-LOCATION:5-413
-DTSTART:20231218T151500Z
-SUMMARY:ПЗ Преддипломный курс
-UID:27e54347-c53b-402e-b105-ba34e126cff6@27e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231228T164500Z
-LOCATION:5-414Б
-DTSTART:20231228T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:f814e661-380e-4d98-b1fc-14b20a20e1a2@f814.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231225T164500Z
-LOCATION:ГУК А-406
-DTSTART:20231225T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:c92b903c-ead5-44d2-9ecf-9984ebff98d0@c92b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231118T131500Z
-LOCATION:5-414В
-DTSTART:20231118T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:8be86404-47e6-4874-8098-2dbf1c259dd5@8be8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231129T164500Z
-LOCATION:5-414А
-DTSTART:20231129T151500Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:cafaa390-4060-4052-9a83-738bd039ba69@cafa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231023T183000Z
-LOCATION:5-413
-DTSTART:20231023T170000Z
-SUMMARY:ПЗ Преддипломный курс
-UID:7183de5e-a105-4f4b-a939-2d26f3dce518@7183.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20230902T131500Z
-LOCATION:5-414В
-DTSTART:20230902T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:f2fb43eb-a1f7-4819-b07f-b1a3154e45c8@f2fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231011T183000Z
-LOCATION:5-414Б
-DTSTART:20231011T170000Z
-SUMMARY:ЛР Методы моделирования
-UID:cd4235c1-18bb-4546-a481-bd7e7d7a9200@cd42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231113T164500Z
-LOCATION:ГУК А-406
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:85ce8d30-4a14-41df-bc64-636711c64770@85ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231220T183000Z
-LOCATION:5-414Б
-DTSTART:20231220T170000Z
-SUMMARY:ЛР Методы моделирования
-UID:278dd8eb-033c-453c-9012-1a834d90207a@278d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231208T164500Z
-LOCATION:5-414В
-DTSTART:20231208T151500Z
-SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
-UID:561acac8-a4da-45e0-866f-195c7395bfc3@561a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20230909T113000Z
-LOCATION:5-414В
-DTSTART:20230909T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:9b3c3649-397e-4884-b917-13d9333f73ae@9b3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231007T131500Z
-LOCATION:5-414В
-DTSTART:20231007T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:44886d01-dd96-4119-bde0-f5570006527f@4488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231028T113000Z
-LOCATION:5-414В
-DTSTART:20231028T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:0bbf1b5f-cb82-4b34-a097-b731b8f79da9@0bbf.org
+UID:701f1b1c-a506-4fc0-94cb-8cfc6e53ff93@701f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ефимова Наталья Сергеевна
@@ -343,399 +15,7 @@ DTEND:20230925T183000Z
 LOCATION:5-413
 DTSTART:20230925T170000Z
 SUMMARY:ПЗ Преддипломный курс
-UID:e7655e86-c066-4a24-b34f-d6eafd12414d@e765.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20230927T164500Z
-LOCATION:5-414Б
-DTSTART:20230927T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:110ccf10-6ac9-466e-9976-56c82cd2cee2@110c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ульяшин Владислав Юрьевич
-DTEND:20231107T183000Z
-LOCATION:5-227
-DTSTART:20231107T170000Z
-SUMMARY:ПЗ Современные технологии проектирования информационных систем
-UID:d9e6a8a0-da95-4494-9ac1-093ad93a2b74@d9e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231116T183000Z
-LOCATION:5-414Б
-DTSTART:20231116T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:5b752337-dfe6-48cd-8be1-e5519e41f800@5b75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20230920T183000Z
-LOCATION:5-414А
-DTSTART:20230920T170000Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:0345904f-784a-4251-b4b4-0a43204923fd@0345.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231125T113000Z
-LOCATION:5-414В
-DTSTART:20231125T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:dc02891a-c22e-453f-93ce-c34574bceb3a@dc02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231011T164500Z
-LOCATION:5-414Б
-DTSTART:20231011T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:99810e12-249d-4758-a75f-f332775575c8@9981.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20230904T183000Z
-LOCATION:ГУК А-406
-DTSTART:20230904T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:e78964bc-2fc3-46d2-bbd6-cbe2ecc7caa4@e789.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231216T113000Z
-LOCATION:5-414В
-DTSTART:20231216T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:c954f6a8-75e6-474d-8ef0-55f5cc0f3d17@c954.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20230906T183000Z
-LOCATION:5-414А
-DTSTART:20230906T170000Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:f882faa5-60c1-4ef9-a6ca-202fcac5eae0@f882.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231013T183000Z
-LOCATION:5-414В
-DTSTART:20231013T170000Z
-SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
-UID:1d2ecbff-e238-4106-b86b-673ac0fece5e@1d2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ульяшин Владислав Юрьевич
-DTEND:20231024T164500Z
-LOCATION:5-227
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Современные технологии проектирования информационных систем
-UID:496c9660-7832-44e5-8cfd-6787319a2f06@496c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231102T183000Z
-LOCATION:5-414Б
-DTSTART:20231102T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:c87a8464-5651-492d-9361-44cc16dc61d4@c87a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231214T164500Z
-LOCATION:5-414Б
-DTSTART:20231214T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:312cc2ee-ee86-41a9-9415-790b74057132@312c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231211T183000Z
-LOCATION:ГУК А-406
-DTSTART:20231211T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:41dffb90-49f5-4199-bfe3-5eaed581c8f7@41df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231216T131500Z
-LOCATION:5-414В
-DTSTART:20231216T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:572a7340-357a-4363-a348-c43bee44a2fe@572a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230915T164500Z
-LOCATION:5-414В
-DTSTART:20230915T151500Z
-SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
-UID:5aaafdaf-c513-4d7e-acf6-5ddbfb662c41@5aaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231122T164500Z
-LOCATION:5-414Б
-DTSTART:20231122T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:1b009bbe-da53-4713-be56-ee71968947d2@1b00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ульяшин Владислав Юрьевич
-DTEND:20231024T183000Z
-LOCATION:5-227
-DTSTART:20231024T170000Z
-SUMMARY:ПЗ Современные технологии проектирования информационных систем
-UID:485d5450-7b18-4782-87b0-5049f5d9c8f6@485d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231014T113000Z
-LOCATION:5-414В
-DTSTART:20231014T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:4efb0879-ffa3-4350-bfa0-2c6a4cda59a1@4efb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20230927T183000Z
-LOCATION:5-414Б
-DTSTART:20230927T170000Z
-SUMMARY:ЛР Методы моделирования
-UID:a95d63d5-9825-47b5-90c2-4ad97f47ab6a@a95d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231122T183000Z
-LOCATION:5-414Б
-DTSTART:20231122T170000Z
-SUMMARY:ЛР Методы моделирования
-UID:898d2c1c-a06a-4560-aae8-d3e246a07b5e@898d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231227T164500Z
-LOCATION:5-414А
-DTSTART:20231227T151500Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:a6b7b9b3-6fbc-470d-88b2-c5d60d9293cc@a6b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231021T113000Z
-LOCATION:5-414В
-DTSTART:20231021T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:346a2bc0-008b-45cc-a42f-5661d6b498c4@346a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231206T164500Z
-LOCATION:5-414Б
-DTSTART:20231206T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:fa74ef70-237d-436b-a109-526066788df6@fa74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231108T164500Z
-LOCATION:5-414Б
-DTSTART:20231108T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:7d60a150-c169-4a5f-9319-c3695c4a9265@7d60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230929T164500Z
-LOCATION:5-414В
-DTSTART:20230929T151500Z
-SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
-UID:a03f5369-6506-42ea-9f7c-04724bdc06d8@a03f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231019T183000Z
-LOCATION:5-414Б
-DTSTART:20231019T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:5737cba7-b504-443d-af0f-8983e581cee9@5737.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231204T164500Z
-LOCATION:5-413
-DTSTART:20231204T151500Z
-SUMMARY:ПЗ Преддипломный курс
-UID:d0468ad3-3b4c-4e06-9a5f-ae82079042ba@d046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231220T164500Z
-LOCATION:5-414Б
-DTSTART:20231220T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:3a4894a5-493f-497c-afbf-2459980958b3@3a48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231125T131500Z
-LOCATION:5-414В
-DTSTART:20231125T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:ed5bfea0-0269-4762-8ab4-8d6ce34a4fcb@ed5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20230918T183000Z
-LOCATION:ГУК А-406
-DTSTART:20230918T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:27d32bef-cafd-40a3-96e6-92e5c3bae2fd@27d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20230921T183000Z
-LOCATION:5-414Б
-DTSTART:20230921T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:575a3086-0168-47e9-bd9a-eeaf59091529@575a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231120T164500Z
-LOCATION:5-413
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Преддипломный курс
-UID:97e843ee-509c-457b-9d10-c09d62d12fd8@97e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231102T164500Z
-LOCATION:5-414Б
-DTSTART:20231102T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:d4d6888a-8eeb-4a3f-8011-d56c1dc9fee9@d4d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231115T183000Z
-LOCATION:5-414А
-DTSTART:20231115T170000Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:c5ecf1ec-168a-4787-9c26-9d0adc5f541a@c5ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231019T164500Z
-LOCATION:5-414Б
-DTSTART:20231019T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:c9d7988d-b222-481d-9311-020d44d0c5d4@c9d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230929T183000Z
-LOCATION:5-414В
-DTSTART:20230929T170000Z
-SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
-UID:b0a4f1e0-2c6c-4218-beaa-393b5fd8c996@b0a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231030T164500Z
-LOCATION:ГУК А-406
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:c65be107-3fd6-4a9e-a9f7-4d734fb035a9@c65b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231222T183000Z
-LOCATION:5-414В
-DTSTART:20231222T170000Z
-SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
-UID:3eb4f67a-62a1-4dbd-b744-f290261f941c@3eb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20230913T183000Z
-LOCATION:5-414Б
-DTSTART:20230913T170000Z
-SUMMARY:ЛР Методы моделирования
-UID:3998a74c-bf7a-462b-9c69-61a6c07c04cf@3998.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231211T164500Z
-LOCATION:ГУК А-406
-DTSTART:20231211T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:b34f42ce-1e43-4dc8-9465-8c43c290d7e7@b34f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231108T183000Z
-LOCATION:5-414Б
-DTSTART:20231108T170000Z
-SUMMARY:ЛР Методы моделирования
-UID:4bc80ed7-e2e0-4a72-ada0-9369206bfabf@4bc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20230904T164500Z
-LOCATION:ГУК А-406
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:57572062-199d-4863-908c-ed315a2ec278@5757.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20230913T164500Z
-LOCATION:5-414Б
-DTSTART:20230913T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:d4afd888-5c91-4d43-ac82-2279d2786fa4@d4af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231101T164500Z
-LOCATION:5-414А
-DTSTART:20231101T151500Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:5822a0de-ff80-4772-80c8-31f41238c4d6@5822.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231111T131500Z
-LOCATION:5-414В
-DTSTART:20231111T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:c1be9fcb-4ac8-4aee-bda0-efd911fa9217@c1be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231014T131500Z
-LOCATION:5-414В
-DTSTART:20231014T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:02487545-7b77-4e3b-85c9-c31391a3e273@0248.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230901T164500Z
-LOCATION:5-414В
-DTSTART:20230901T151500Z
-SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
-UID:9093c7dd-a1c2-4e70-b73e-a185bf0780ee@9093.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231027T183000Z
-LOCATION:5-414В
-DTSTART:20231027T170000Z
-SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
-UID:ffc32189-9a2b-47c7-8ab0-7011b725f734@ffc3.org
+UID:cb4683db-0f5b-4677-9165-51b115d52f20@cb46.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Захарова Анна Николаевна
@@ -743,295 +23,55 @@ DTEND:20231127T164500Z
 LOCATION:ГУК А-406
 DTSTART:20231127T151500Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:0b5e2cf1-aba0-4e07-971d-3e100f9f9a4a@0b5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231218T183000Z
-LOCATION:5-413
-DTSTART:20231218T170000Z
-SUMMARY:ПЗ Преддипломный курс
-UID:e92efcb7-b941-41a3-b428-b7e813281e8e@e92e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231002T183000Z
-LOCATION:ГУК А-406
-DTSTART:20231002T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:43ddc139-659c-40a0-97b3-c3b24f8f4a70@43dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231120T183000Z
-LOCATION:5-413
-DTSTART:20231120T170000Z
-SUMMARY:ПЗ Преддипломный курс
-UID:148441c4-1ba2-4ad4-9e14-49c6b23bcb6d@1484.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231118T113000Z
-LOCATION:5-414В
-DTSTART:20231118T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:9c1aacb5-b0f5-4be3-aaa0-2607c1b2f5fc@9c1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231004T164500Z
-LOCATION:5-414А
-DTSTART:20231004T151500Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:dee7f4fe-d6ce-4f84-ab4a-72275fc4c627@dee7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ульяшин Владислав Юрьевич
-DTEND:20230926T183000Z
-LOCATION:5-227
-DTSTART:20230926T170000Z
-SUMMARY:ЛК Современные технологии проектирования информационных систем
-UID:74dbafd4-2307-41b3-885b-574a5135774a@74db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231023T164500Z
-LOCATION:5-413
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Преддипломный курс
-UID:5ea77073-3dd5-4cb5-8c6f-61794a7aa3d7@5ea7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231222T164500Z
-LOCATION:5-414В
-DTSTART:20231222T151500Z
-SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
-UID:0af8d28f-8733-466f-8cdc-dd99536fe14a@0af8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ульяшин Владислав Юрьевич
-DTEND:20230912T164500Z
-LOCATION:5-227
-DTSTART:20230912T151500Z
-SUMMARY:ЛК Современные технологии проектирования информационных систем
-UID:5aa8585e-60bb-4faf-a0aa-a77877472852@5aa8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231202T113000Z
-LOCATION:5-414В
-DTSTART:20231202T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:d6883dcc-4e56-4caf-97da-02ebbe59f942@d688.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231209T113000Z
-LOCATION:5-414В
-DTSTART:20231209T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:6003fd59-d010-434d-94f8-9db10aaafdbb@6003.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20230907T164500Z
-LOCATION:5-413
-DTSTART:20230907T151500Z
-SUMMARY:ЛК Преддипломный курс
-UID:e513c2bd-1c31-45c0-8b23-fb15133a826a@e513.org
+UID:6bfd0dc9-b877-4d37-b7f7-7bd6416f0961@6bfd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231028T131500Z
+DTEND:20230930T131500Z
 LOCATION:5-414В
-DTSTART:20231028T114500Z
+DTSTART:20230930T114500Z
 SUMMARY:ЛК Методы моделирования
-UID:a5e57061-c1a2-4f8c-9698-669919575deb@a5e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231027T164500Z
-LOCATION:5-414В
-DTSTART:20231027T151500Z
-SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
-UID:9a3d58e6-f99d-404a-9471-bde60bcb137a@9a3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231124T183000Z
-LOCATION:5-414В
-DTSTART:20231124T170000Z
-SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
-UID:06500ae2-908b-4d82-8cc0-d70f31d55f36@0650.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231021T131500Z
-LOCATION:5-414В
-DTSTART:20231021T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:e347488b-36d3-43fe-bd9f-ac4fd058d666@e347.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231208T183000Z
-LOCATION:5-414В
-DTSTART:20231208T170000Z
-SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
-UID:4bcd81e2-39da-413f-bc00-75d04b4cfc4f@4bcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ульяшин Владислав Юрьевич
-DTEND:20230926T164500Z
-LOCATION:5-227
-DTSTART:20230926T151500Z
-SUMMARY:ЛК Современные технологии проектирования информационных систем
-UID:cce2b83f-bd56-44e3-9203-db59857c8e8f@cce2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231013T164500Z
-LOCATION:5-414В
-DTSTART:20231013T151500Z
-SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
-UID:28553c79-1f7c-4e89-84a7-290dc6a55780@2855.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ульяшин Владислав Юрьевич
-DTEND:20231107T164500Z
-LOCATION:5-227
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Современные технологии проектирования информационных систем
-UID:be067004-3b70-4be3-94b0-096c3f63f263@be06.org
+UID:4f6399cf-da38-4e6e-bf50-25e40c918dc9@4f63.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231005T164500Z
-LOCATION:5-414Б
-DTSTART:20231005T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:00796c5d-df34-44ba-87c3-d866a9606f51@0079.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20230911T164500Z
-LOCATION:5-413
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Преддипломный курс
-UID:4389aedd-ea2d-4023-b4ef-d3dca72e6076@4389.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231009T183000Z
-LOCATION:5-413
-DTSTART:20231009T170000Z
-SUMMARY:ПЗ Преддипломный курс
-UID:1ef8ee50-237c-484c-87d1-8c0637ac8922@1ef8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20230902T113000Z
+DTEND:20231125T113000Z
 LOCATION:5-414В
-DTSTART:20230902T100000Z
+DTSTART:20231125T100000Z
 SUMMARY:ЛК Интеллектуальные системы
-UID:55cfd485-cbea-4ed2-82d1-d9013bd25983@55cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231018T164500Z
-LOCATION:5-414А
-DTSTART:20231018T151500Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:5e908807-a493-44da-ac89-1cbc6208a4d6@5e90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231113T183000Z
-LOCATION:ГУК А-406
-DTSTART:20231113T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:3dba950b-8e20-4d0c-9a2a-978742c5cacd@3dba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231225T183000Z
-LOCATION:ГУК А-406
-DTSTART:20231225T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:34967fac-4c1b-486b-8e09-541cf1203b83@3496.org
+UID:9309d55d-9d8d-4000-bf87-74da0bf6d7df@9309.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231025T164500Z
+DTEND:20230902T131500Z
+LOCATION:5-414В
+DTSTART:20230902T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:42087823-b72c-4a5c-8c55-de4a6cded715@4208.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231113T164500Z
+LOCATION:ГУК А-406
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:a55ede9a-9c46-43b1-b2d1-c5b2d6ad5c9e@a55e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231122T164500Z
 LOCATION:5-414Б
-DTSTART:20231025T151500Z
+DTSTART:20231122T151500Z
 SUMMARY:ЛР Методы моделирования
-UID:02227259-bb9e-43f0-b212-15404f139f8d@0222.org
+UID:6f5143c9-5980-4986-9b17-063c9ab019f0@6f51.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20230916T131500Z
+DTEND:20231118T131500Z
 LOCATION:5-414В
-DTSTART:20230916T114500Z
+DTSTART:20231118T114500Z
 SUMMARY:ЛК Методы моделирования
-UID:08fbbf48-0df1-4da5-b748-9b0c35cfb23a@08fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231130T183000Z
-LOCATION:5-414Б
-DTSTART:20231130T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:d81b337d-364d-4274-bc38-ecefbe2d6235@d81b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231115T164500Z
-LOCATION:5-414А
-DTSTART:20231115T151500Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:31a237f2-1b6b-4e6b-8be2-bc83b0f5b121@31a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231106T164500Z
-LOCATION:5-413
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Преддипломный курс
-UID:6a631f8a-2231-46a6-bdf0-220d481b3dac@6a63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20230906T164500Z
-LOCATION:5-414А
-DTSTART:20230906T151500Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:906349b8-7ecc-489a-a47a-c491611726f9@9063.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ульяшин Владислав Юрьевич
-DTEND:20231010T183000Z
-LOCATION:5-227
-DTSTART:20231010T170000Z
-SUMMARY:ПЗ Современные технологии проектирования информационных систем
-UID:65b02926-700a-43be-ac2c-52c6eed334e4@65b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231030T183000Z
-LOCATION:ГУК А-406
-DTSTART:20231030T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:51c9ed77-1d29-4f46-8d4d-5b372fd684b4@51c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231127T183000Z
-LOCATION:ГУК А-406
-DTSTART:20231127T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:515f0761-1972-49b0-a730-aed99f73ebcb@515f.org
+UID:6a4d71b3-d6a5-4340-921b-908bdab7e28b@6a4d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бехтин Владимир Анатольевич
@@ -1039,111 +79,23 @@ DTEND:20231129T183000Z
 LOCATION:5-414А
 DTSTART:20231129T170000Z
 SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:f74a2dbd-7559-45d9-8d23-5224cd273e1a@f74a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231213T164500Z
-LOCATION:5-414А
-DTSTART:20231213T151500Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:1104106f-2749-4e8e-a58d-56a22e3c7b2c@1104.org
+UID:75de71a9-0b6b-4aae-a46a-cc9caa85f784@75de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20230911T183000Z
+DTEND:20231106T164500Z
 LOCATION:5-413
-DTSTART:20230911T170000Z
+DTSTART:20231106T151500Z
 SUMMARY:ПЗ Преддипломный курс
-UID:c321edf8-6513-43d2-962e-7dc4f35966f8@c321.org
+UID:7e7938f6-d2bb-47ff-97ae-3d2344fdb9a6@7e79.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ефимова Наталья Сергеевна
-DTEND:20231106T183000Z
-LOCATION:5-413
-DTSTART:20231106T170000Z
-SUMMARY:ПЗ Преддипломный курс
-UID:b0c23212-6da9-422d-8eb4-1f7578d4d996@b0c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20231206T183000Z
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231116T164500Z
 LOCATION:5-414Б
-DTSTART:20231206T170000Z
-SUMMARY:ЛР Методы моделирования
-UID:25992d3d-d552-4c04-b8b4-ec4bbbf32ae0@2599.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231111T113000Z
-LOCATION:5-414В
-DTSTART:20231111T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:cc79dd9b-b42a-496a-b7dc-2c910d2f99ec@cc79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20230909T131500Z
-LOCATION:5-414В
-DTSTART:20230909T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:14218ba7-7405-4d06-a9c8-5eb9837672cb@1421.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231110T183000Z
-LOCATION:5-414В
-DTSTART:20231110T170000Z
-SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
-UID:853b3b90-5e3b-4e63-aed5-6fece3db33ed@853b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20230918T164500Z
-LOCATION:ГУК А-406
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:a32e49cc-b48e-47ee-b6c4-09fd2fcf2cff@a32e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20231007T113000Z
-LOCATION:5-414В
-DTSTART:20231007T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:df036fe9-3370-43db-8fd5-8c68c9762635@df03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пятовский Сергей Евгеньевич
-DTEND:20230923T131500Z
-LOCATION:5-414В
-DTSTART:20230923T114500Z
-SUMMARY:ЛК Методы моделирования
-UID:a17a319a-4028-4930-8cc6-55de863fc4f9@a17a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231004T183000Z
-LOCATION:5-414А
-DTSTART:20231004T170000Z
-SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:06de51fe-96ca-4c3a-a9f5-742c32e3af5f@06de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Захарова Анна Николаевна
-DTEND:20231002T164500Z
-LOCATION:ГУК А-406
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:1173f807-fd69-437a-8af6-ed44e4bb5eaa@1173.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлева Маргарита Владимировна
-DTEND:20230916T113000Z
-LOCATION:5-414В
-DTSTART:20230916T100000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:b9b3aa2c-c6e9-466d-9fec-212f159765db@b9b3.org
+DTSTART:20231116T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:3a95d9f4-73f7-418f-82b1-95d2259f6a4a@3a95.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бехтин Владимир Анатольевич
@@ -1151,6 +103,1054 @@ DTEND:20231213T183000Z
 LOCATION:5-414А
 DTSTART:20231213T170000Z
 SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
-UID:3ed7515f-2528-469a-b584-23d5a6f83017@3ed7.org
+UID:1e74250d-e03a-4d96-a88e-9d89cb7caca7@1e74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231222T183000Z
+LOCATION:5-414В
+DTSTART:20231222T170000Z
+SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
+UID:95231c19-b6cd-41fa-8415-07fa29bf45ba@9523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231102T183000Z
+LOCATION:5-414Б
+DTSTART:20231102T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:8dc4a88e-f79a-42f7-bf00-f37837026307@8dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231111T113000Z
+LOCATION:5-414В
+DTSTART:20231111T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:6e2aa474-57ba-4dd7-aacb-c8124e7f4894@6e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20230906T164500Z
+LOCATION:5-414А
+DTSTART:20230906T151500Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:b6cab668-8ec3-4599-bf7f-c6fb402cfaaf@b6ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231019T164500Z
+LOCATION:5-414Б
+DTSTART:20231019T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:362d1186-204e-409d-a1da-2bfa62aae0fc@362d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231027T183000Z
+LOCATION:5-414В
+DTSTART:20231027T170000Z
+SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
+UID:863e1c31-7278-4302-91da-435cee967353@863e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231013T183000Z
+LOCATION:5-414В
+DTSTART:20231013T170000Z
+SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
+UID:4bdf96e2-df18-4045-b19d-e5e519d081c7@4bdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20230907T183000Z
+LOCATION:5-413
+DTSTART:20230907T170000Z
+SUMMARY:ЛК Преддипломный курс
+UID:9c8644d9-c97e-425a-a291-c63ccae8b517@9c86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20230923T131500Z
+LOCATION:5-414В
+DTSTART:20230923T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:b3733b19-9505-4b6a-b14c-ea760bb459ce@b373.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20231023T183000Z
+LOCATION:5-413
+DTSTART:20231023T170000Z
+SUMMARY:ПЗ Преддипломный курс
+UID:ef1f6037-6ec2-4be5-8c14-fe442a03eaba@ef1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231206T183000Z
+LOCATION:5-414Б
+DTSTART:20231206T170000Z
+SUMMARY:ЛР Методы моделирования
+UID:07501fcc-e18a-4c7f-9b4e-40acde4a28db@0750.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231220T164500Z
+LOCATION:5-414Б
+DTSTART:20231220T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:ad7c8e43-1ee3-4558-9245-d8b5cb6db7d1@ad7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231228T164500Z
+LOCATION:5-414Б
+DTSTART:20231228T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:979309d0-1967-4c9d-9c25-6bcde82e5ac7@9793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20230920T183000Z
+LOCATION:5-414А
+DTSTART:20230920T170000Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:54e8768b-35c9-4e4f-9b9d-0ccc5acbddb5@54e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231002T183000Z
+LOCATION:ГУК А-406
+DTSTART:20231002T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:25ca962d-dc74-4501-948e-5e29a02e82c5@25ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20230904T183000Z
+LOCATION:ГУК А-406
+DTSTART:20230904T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:21587002-2300-4853-8b42-d0a4908bb2c6@2158.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ульяшин Владислав Юрьевич
+DTEND:20230912T183000Z
+LOCATION:5-227
+DTSTART:20230912T170000Z
+SUMMARY:ЛК Современные технологии проектирования информационных систем
+UID:4099ec15-f130-4761-814e-c0bb14ad76c1@4099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20230909T131500Z
+LOCATION:5-414В
+DTSTART:20230909T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:f1df57cb-d2c2-47cc-9ccb-f5704b527666@f1df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20231023T164500Z
+LOCATION:5-413
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Преддипломный курс
+UID:7081ab96-1fa7-4a55-9ed4-0e387b21de98@7081.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230915T183000Z
+LOCATION:5-414В
+DTSTART:20230915T170000Z
+SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
+UID:e9c59324-117b-4f3a-bbee-cd9ada0ec89a@e9c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231108T183000Z
+LOCATION:5-414Б
+DTSTART:20231108T170000Z
+SUMMARY:ЛР Методы моделирования
+UID:6a55a321-b650-42a7-be25-6ea354df2642@6a55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231208T183000Z
+LOCATION:5-414В
+DTSTART:20231208T170000Z
+SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
+UID:d53d41a4-e1a8-42b4-ae00-dca77b79af44@d53d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20230911T183000Z
+LOCATION:5-413
+DTSTART:20230911T170000Z
+SUMMARY:ПЗ Преддипломный курс
+UID:6aaffc13-531b-46bc-af94-d52f5eae4c45@6aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230915T164500Z
+LOCATION:5-414В
+DTSTART:20230915T151500Z
+SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
+UID:b0bb84b1-f072-4566-a8f7-03371578327b@b0bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231115T183000Z
+LOCATION:5-414А
+DTSTART:20231115T170000Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:4bd2e7d8-1571-42a6-a3c8-99cb89f2420a@4bd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231208T164500Z
+LOCATION:5-414В
+DTSTART:20231208T151500Z
+SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
+UID:d3d79694-194a-4f62-a70e-f03948f09dfa@d3d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ульяшин Владислав Юрьевич
+DTEND:20231010T164500Z
+LOCATION:5-227
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Современные технологии проектирования информационных систем
+UID:2ee1747e-8f15-472f-8837-804c9b55b7d5@2ee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20230911T164500Z
+LOCATION:5-413
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Преддипломный курс
+UID:fe384c1e-a89a-4807-8541-da003fbee031@fe38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20230904T164500Z
+LOCATION:ГУК А-406
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:f263e994-b6a5-4842-8bd9-9570f80060b9@f263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230901T164500Z
+LOCATION:5-414В
+DTSTART:20230901T151500Z
+SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
+UID:654844ac-22f2-48d5-9966-7b09a09a6d85@6548.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ульяшин Владислав Юрьевич
+DTEND:20231024T183000Z
+LOCATION:5-227
+DTSTART:20231024T170000Z
+SUMMARY:ПЗ Современные технологии проектирования информационных систем
+UID:d41d4a10-850c-477f-82b0-d7caf1cfdaa0@d41d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231209T113000Z
+LOCATION:5-414В
+DTSTART:20231209T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:ef7065f7-3f23-4051-915d-9e427a7b8051@ef70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20231009T183000Z
+LOCATION:5-413
+DTSTART:20231009T170000Z
+SUMMARY:ПЗ Преддипломный курс
+UID:02f75a40-bcb3-4eb3-b213-f57eec1e58af@02f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231005T164500Z
+LOCATION:5-414Б
+DTSTART:20231005T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:fdf70909-32a9-4af6-a3c0-cb5fb6560e0d@fdf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231122T183000Z
+LOCATION:5-414Б
+DTSTART:20231122T170000Z
+SUMMARY:ЛР Методы моделирования
+UID:f504048f-2f89-406b-8cf1-1f947e15ff7a@f504.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231211T183000Z
+LOCATION:ГУК А-406
+DTSTART:20231211T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:93989f09-96a8-4ba5-b24c-6d18de5bb6f6@9398.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231004T164500Z
+LOCATION:5-414А
+DTSTART:20231004T151500Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:9cc49161-28c1-4f8d-bd9b-9c2d8ea445f4@9cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231025T164500Z
+LOCATION:5-414Б
+DTSTART:20231025T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:2f8b24f3-ec5b-4773-b8a6-5aebf29c85ba@2f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231030T183000Z
+LOCATION:ГУК А-406
+DTSTART:20231030T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:094855ce-15ce-456a-bfdc-81e0f4d61e9a@0948.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20230918T164500Z
+LOCATION:ГУК А-406
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:c183ad29-ccb0-43d3-86a9-9d20be773340@c183.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231011T183000Z
+LOCATION:5-414Б
+DTSTART:20231011T170000Z
+SUMMARY:ЛР Методы моделирования
+UID:3b2b7126-170c-4181-8c0f-4e5db3584116@3b2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20230913T164500Z
+LOCATION:5-414Б
+DTSTART:20230913T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:fc9d02d9-3ba9-491f-8841-6e1afde7086c@fc9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231102T164500Z
+LOCATION:5-414Б
+DTSTART:20231102T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:a1783516-5cc8-41a2-9fa3-005232fa9df1@a178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20230921T183000Z
+LOCATION:5-414Б
+DTSTART:20230921T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:a8280854-5934-4b4f-a1f4-8a2d79dd2a13@a828.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20230930T113000Z
+LOCATION:5-414В
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:16a7b913-ea7e-40f3-a4fa-23ca34c1332f@16a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20231120T183000Z
+LOCATION:5-413
+DTSTART:20231120T170000Z
+SUMMARY:ПЗ Преддипломный курс
+UID:12877048-7f82-4ad8-a858-0906b0e11438@1287.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231002T164500Z
+LOCATION:ГУК А-406
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:e5563451-3be4-4d14-83da-e8ef1297bfce@e556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231214T164500Z
+LOCATION:5-414Б
+DTSTART:20231214T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:f2b2d63b-6540-4732-9119-7963143623a5@f2b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231206T164500Z
+LOCATION:5-414Б
+DTSTART:20231206T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:d312179e-8f1d-4c5c-a649-0feb82c7ccee@d312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20230918T183000Z
+LOCATION:ГУК А-406
+DTSTART:20230918T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:e4b8dbc1-0b8e-4558-90da-7b8bb3ed0fff@e4b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ульяшин Владислав Юрьевич
+DTEND:20230926T183000Z
+LOCATION:5-227
+DTSTART:20230926T170000Z
+SUMMARY:ЛК Современные технологии проектирования информационных систем
+UID:9b8274f5-6f85-4f77-a5dc-0230153fe4e6@9b82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ульяшин Владислав Юрьевич
+DTEND:20231107T164500Z
+LOCATION:5-227
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Современные технологии проектирования информационных систем
+UID:7d2a0a3e-25d0-469b-a5a9-1065232fa632@7d2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20230916T113000Z
+LOCATION:5-414В
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:43d1a1be-3304-433c-a920-8ec49b6dcab4@43d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231013T164500Z
+LOCATION:5-414В
+DTSTART:20231013T151500Z
+SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
+UID:45d77680-d4be-428c-bcc0-bf2bcc8f2d18@45d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230929T183000Z
+LOCATION:5-414В
+DTSTART:20230929T170000Z
+SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
+UID:b957de93-922a-4092-a7e1-4dede9af1c8a@b957.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20231204T183000Z
+LOCATION:5-413
+DTSTART:20231204T170000Z
+SUMMARY:ПЗ Преддипломный курс
+UID:60c45bc3-94a6-47a3-8772-ee3fc644749c@60c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231111T131500Z
+LOCATION:5-414В
+DTSTART:20231111T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:240fc018-88f8-45cd-a01e-7acf18ff4315@240f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231018T183000Z
+LOCATION:5-414А
+DTSTART:20231018T170000Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:1fb98297-6609-4337-a7a4-2356356286a6@1fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231118T113000Z
+LOCATION:5-414В
+DTSTART:20231118T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:971ba6b9-d23a-4650-a047-dfe7f7c590c4@971b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231211T164500Z
+LOCATION:ГУК А-406
+DTSTART:20231211T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:ea79edb4-4b76-46cb-9392-0153c0b57a20@ea79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231222T164500Z
+LOCATION:5-414В
+DTSTART:20231222T151500Z
+SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
+UID:172d0289-db3f-4555-8dfe-480635cbf5b0@172d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20230913T183000Z
+LOCATION:5-414Б
+DTSTART:20230913T170000Z
+SUMMARY:ЛР Методы моделирования
+UID:607caec3-53b0-4e6b-97f5-c2c4c1c8fb01@607c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231228T183000Z
+LOCATION:5-414Б
+DTSTART:20231228T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:e7b073fe-c5cb-4a20-9ae4-9020374521de@e7b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20230916T131500Z
+LOCATION:5-414В
+DTSTART:20230916T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:cb4537da-3a86-4523-a1b1-cbfff0a70995@cb45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ульяшин Владислав Юрьевич
+DTEND:20231010T183000Z
+LOCATION:5-227
+DTSTART:20231010T170000Z
+SUMMARY:ПЗ Современные технологии проектирования информационных систем
+UID:4b84ae23-c11f-4af0-910d-91f4893a10d3@4b84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231014T113000Z
+LOCATION:5-414В
+DTSTART:20231014T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:bbecf780-80dc-457e-a857-a55a93a4b317@bbec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231108T164500Z
+LOCATION:5-414Б
+DTSTART:20231108T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:b754c801-ae41-4158-8bbb-bf01f27aac81@b754.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231227T164500Z
+LOCATION:5-414А
+DTSTART:20231227T151500Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:dedb963e-9947-4830-b8f0-27aef6df83c2@dedb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20231009T164500Z
+LOCATION:5-413
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Преддипломный курс
+UID:6a491f2f-2e32-4bff-9c45-110ee6dbbcd0@6a49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231127T183000Z
+LOCATION:ГУК А-406
+DTSTART:20231127T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:0131c800-2ecb-4b26-93ee-1a1c7624d535@0131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20231204T164500Z
+LOCATION:5-413
+DTSTART:20231204T151500Z
+SUMMARY:ПЗ Преддипломный курс
+UID:c7c3c704-e0a9-42d4-a8f0-0e0601469e2a@c7c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231125T131500Z
+LOCATION:5-414В
+DTSTART:20231125T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:9ae514d6-f14b-4733-9eda-9667204d2160@9ae5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231021T131500Z
+LOCATION:5-414В
+DTSTART:20231021T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:33101bdc-4958-4b29-8723-dbbc231aac08@3310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231115T164500Z
+LOCATION:5-414А
+DTSTART:20231115T151500Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:ac21a36c-0779-4298-b865-b150c0005388@ac21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231202T131500Z
+LOCATION:5-414В
+DTSTART:20231202T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:8c5020dc-9896-4abc-8cee-7457e725d929@8c50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ульяшин Владислав Юрьевич
+DTEND:20230912T164500Z
+LOCATION:5-227
+DTSTART:20230912T151500Z
+SUMMARY:ЛК Современные технологии проектирования информационных систем
+UID:b23819fa-e289-4a61-8e07-2dd2e0113856@b238.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231018T164500Z
+LOCATION:5-414А
+DTSTART:20231018T151500Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:46b5dafa-4fc8-4480-bf7a-86054fbb3ecc@46b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231016T183000Z
+LOCATION:ГУК А-406
+DTSTART:20231016T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:ea9c6ed6-1bab-4492-8c14-cd9f040ff281@ea9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ульяшин Владислав Юрьевич
+DTEND:20231107T183000Z
+LOCATION:5-227
+DTSTART:20231107T170000Z
+SUMMARY:ПЗ Современные технологии проектирования информационных систем
+UID:1e780613-169e-4a99-bc45-14b13afb1d98@1e78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20230925T164500Z
+LOCATION:5-413
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Преддипломный курс
+UID:9be1d7d0-a5a1-466a-b141-ce934e26aaaa@9be1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20230921T164500Z
+LOCATION:5-414Б
+DTSTART:20230921T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:548a506d-a189-4a72-8a40-16cf3640cd7e@548a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ульяшин Владислав Юрьевич
+DTEND:20231024T164500Z
+LOCATION:5-227
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Современные технологии проектирования информационных систем
+UID:b1b0e967-2ef4-4c48-92d4-e51c1da20008@b1b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20231218T183000Z
+LOCATION:5-413
+DTSTART:20231218T170000Z
+SUMMARY:ПЗ Преддипломный курс
+UID:5a15f07c-4b63-4e40-9b81-d8f22a9ddd87@5a15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231216T131500Z
+LOCATION:5-414В
+DTSTART:20231216T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:bc717077-ea7b-4898-8419-d07c9c6a2c11@bc71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231110T164500Z
+LOCATION:5-414В
+DTSTART:20231110T151500Z
+SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
+UID:eeadd1fb-d6ea-422b-aa1e-94c11ec9ca78@eead.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230901T183000Z
+LOCATION:5-414В
+DTSTART:20230901T170000Z
+SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
+UID:a2457482-8d4c-4336-8d3a-f98c90aa7fa9@a245.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20231218T164500Z
+LOCATION:5-413
+DTSTART:20231218T151500Z
+SUMMARY:ПЗ Преддипломный курс
+UID:bc932296-782e-41d2-b0b7-c13687f77659@bc93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231129T164500Z
+LOCATION:5-414А
+DTSTART:20231129T151500Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:66d67816-3ff2-41ce-87f9-eab8017c77d7@66d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20230927T183000Z
+LOCATION:5-414Б
+DTSTART:20230927T170000Z
+SUMMARY:ЛР Методы моделирования
+UID:6646d9af-0493-46a3-b344-9a1e7061d495@6646.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20230920T164500Z
+LOCATION:5-414А
+DTSTART:20230920T151500Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:d9a402cc-43a4-4ef2-bcb5-2c455cee726f@d9a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231007T113000Z
+LOCATION:5-414В
+DTSTART:20231007T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:2d1254e6-0a91-4287-a36c-80916c7c5641@2d12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20230907T164500Z
+LOCATION:5-413
+DTSTART:20230907T151500Z
+SUMMARY:ЛК Преддипломный курс
+UID:faabbd72-3b8e-4491-9916-962e7e6b3d09@faab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20231106T183000Z
+LOCATION:5-413
+DTSTART:20231106T170000Z
+SUMMARY:ПЗ Преддипломный курс
+UID:778086ff-dd54-4629-976c-3779c070cfee@7780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20230927T164500Z
+LOCATION:5-414Б
+DTSTART:20230927T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:c749c295-f418-4c72-8450-8cf8f5177288@c749.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231216T113000Z
+LOCATION:5-414В
+DTSTART:20231216T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:58ebd7fa-8569-470e-a3f7-b78ce76f74ed@58eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231225T164500Z
+LOCATION:ГУК А-406
+DTSTART:20231225T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:ebb2487f-bf70-4f63-bd5c-f0c15fc1bf89@ebb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231019T183000Z
+LOCATION:5-414Б
+DTSTART:20231019T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:63b123f2-fba5-4957-a538-9219510672fc@63b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231227T183000Z
+LOCATION:5-414А
+DTSTART:20231227T170000Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:af09db91-d43e-4d2e-a0d9-bc55ac19aa29@af09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20230902T113000Z
+LOCATION:5-414В
+DTSTART:20230902T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:ca3b674a-463b-4b70-b031-bfe21656c7dd@ca3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231021T113000Z
+LOCATION:5-414В
+DTSTART:20231021T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:f8c07b01-db54-4bab-90b6-0a362fdabec6@f8c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231213T164500Z
+LOCATION:5-414А
+DTSTART:20231213T151500Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:54f4132d-47f6-42f6-91ba-aeef92403781@54f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20230906T183000Z
+LOCATION:5-414А
+DTSTART:20230906T170000Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:b49d400b-9e74-49ed-b586-6a409a3dae91@b49d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231110T183000Z
+LOCATION:5-414В
+DTSTART:20231110T170000Z
+SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
+UID:5f20b9a0-66c8-4623-a5e9-d77ed796428f@5f20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ульяшин Владислав Юрьевич
+DTEND:20230926T164500Z
+LOCATION:5-227
+DTSTART:20230926T151500Z
+SUMMARY:ЛК Современные технологии проектирования информационных систем
+UID:14f0851f-bbaf-436b-838a-2899f3cd5e8a@14f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20230909T113000Z
+LOCATION:5-414В
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:44c439dc-3a1a-4d7c-826b-7158ab1ffe4b@44c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231130T164500Z
+LOCATION:5-414Б
+DTSTART:20231130T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:e6527daa-569b-4a05-b4eb-9d4f385a0cdc@e652.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231027T164500Z
+LOCATION:5-414В
+DTSTART:20231027T151500Z
+SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
+UID:344729e9-ff22-476d-89da-8fdc3a0be0dc@3447.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231007T131500Z
+LOCATION:5-414В
+DTSTART:20231007T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:aea4a54a-9d01-4584-93a8-46cb89bee0f0@aea4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231016T164500Z
+LOCATION:ГУК А-406
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:54604df2-a185-4a42-a04a-1c9d577891a5@5460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231124T183000Z
+LOCATION:5-414В
+DTSTART:20231124T170000Z
+SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
+UID:a86b0c9b-bf89-47e5-b3b9-b5c1a82210d3@a86b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231202T113000Z
+LOCATION:5-414В
+DTSTART:20231202T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:d7a0fb6b-60bb-4632-a52a-c06ca8520d08@d7a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230929T164500Z
+LOCATION:5-414В
+DTSTART:20230929T151500Z
+SUMMARY:ЛК Обеспечение безопасности экономических ресурсов
+UID:fa7df0e0-5aad-4664-b753-5971d7f20c26@fa7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231004T183000Z
+LOCATION:5-414А
+DTSTART:20231004T170000Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:16a65b40-a0fa-49ab-b473-a062fc1aa11f@16a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231225T183000Z
+LOCATION:ГУК А-406
+DTSTART:20231225T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:5345ca79-6ef7-4b5f-b2ae-989cd0bcc127@5345.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231025T183000Z
+LOCATION:5-414Б
+DTSTART:20231025T170000Z
+SUMMARY:ЛР Методы моделирования
+UID:778efb6c-f03d-4a0a-aab7-99ee41f7ed09@778e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231014T131500Z
+LOCATION:5-414В
+DTSTART:20231014T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:cfdc9854-d8e3-4d35-99cf-824549a3a82e@cfdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231124T164500Z
+LOCATION:5-414В
+DTSTART:20231124T151500Z
+SUMMARY:ПЗ Обеспечение безопасности экономических ресурсов
+UID:e8e6a808-d95e-4267-96f4-029ea124a990@e8e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231101T164500Z
+LOCATION:5-414А
+DTSTART:20231101T151500Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:e6fa64ad-432d-4d23-b8dd-dabef34aecfb@e6fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231030T164500Z
+LOCATION:ГУК А-406
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:fdb3ebcc-3b42-4cdf-a137-e208d0f0c94d@fdb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231116T183000Z
+LOCATION:5-414Б
+DTSTART:20231116T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:7ff19f21-2d03-4e31-8279-8b628bd744d2@7ff1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231101T183000Z
+LOCATION:5-414А
+DTSTART:20231101T170000Z
+SUMMARY:ПЗ Научный семинар по информатике и вычислительной технике
+UID:4e4a6eaa-e7fb-4227-b409-30b090989522@4e4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20230923T113000Z
+LOCATION:5-414В
+DTSTART:20230923T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:60c0f47a-1864-4aaf-8b46-311a78d25376@60c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Захарова Анна Николаевна
+DTEND:20231113T183000Z
+LOCATION:ГУК А-406
+DTSTART:20231113T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:7874a7af-e962-451f-ab7d-31fdc14645a3@7874.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231130T183000Z
+LOCATION:5-414Б
+DTSTART:20231130T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:ba054ae9-0e11-407e-a881-c8a162f696b5@ba05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231220T183000Z
+LOCATION:5-414Б
+DTSTART:20231220T170000Z
+SUMMARY:ЛР Методы моделирования
+UID:b379272d-5172-4dab-9451-cfeac8f7cb1b@b379.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231005T183000Z
+LOCATION:5-414Б
+DTSTART:20231005T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:1f010baa-517a-4942-ba98-39f0f3b0c2d4@1f01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ефимова Наталья Сергеевна
+DTEND:20231120T164500Z
+LOCATION:5-413
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Преддипломный курс
+UID:531f7722-da4d-4760-ad8f-8d6955b9f6de@531f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлева Маргарита Владимировна
+DTEND:20231028T113000Z
+LOCATION:5-414В
+DTSTART:20231028T100000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:a48cede3-30c6-408d-bb74-e0d5c4f78ed4@a48c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231209T131500Z
+LOCATION:5-414В
+DTSTART:20231209T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:7c43e8e1-8532-4d01-8a9c-9a3f1f1982d9@7c43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231028T131500Z
+LOCATION:5-414В
+DTSTART:20231028T114500Z
+SUMMARY:ЛК Методы моделирования
+UID:cfd3113c-87db-47e2-97b9-3fd5dd42ddcc@cfd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пятовский Сергей Евгеньевич
+DTEND:20231011T164500Z
+LOCATION:5-414Б
+DTSTART:20231011T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:64852a51-b9fc-4db9-85dc-2969c7ce98d7@6485.org
 END:VEVENT
 END:VCALENDAR

@@ -2,190 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231016T164500Z
-LOCATION:3-Зал А
-DTSTART:20231016T151500Z
-SUMMARY:ЛК История и философия науки
-UID:5acedd7c-11ea-4554-96f3-e95f30fd315d@5ace.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T131500Z
-LOCATION:--каф.
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:200bf32b-4a41-4754-a18d-0ebc92f5e7e5@200b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231207T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231207T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:1884b2b6-da6a-4018-95c4-4a051b9ff9f8@1884.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20240118T113000Z
-LOCATION:ГУК А-510
-DTSTART:20240118T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:21094cee-e6b4-475e-b68e-92e04e14f65c@2109.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231102T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231102T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:e660c5ab-f498-444b-a4f9-6f6ce0732e53@e660.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20240125T131500Z
-LOCATION:ГУК А-510
-DTSTART:20240125T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:fef34f47-96b9-4bb9-9e7f-3601f2167a76@fef3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231214T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231214T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:a724d844-2a2f-4ab5-a10b-1ca39f9615ce@a724.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240118T150000Z
-LOCATION:ГУК А-512
-DTSTART:20240118T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:8dd49f59-d70e-4bb2-bca7-517e225d447e@8dd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231109T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231109T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:16fde89b-f749-4a31-bced-286bb0737ec1@16fd.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
 DTEND:20231109T131500Z
 LOCATION:ГУК А-510
 DTSTART:20231109T114500Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:b8e7765f-62e3-4663-99d2-8ac170b98bc9@b8e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T131500Z
-LOCATION:--каф.
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5ace9cae-d952-4ec8-8c29-911fd0c079a1@5ace.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:be610f88-fe03-4a10-b65d-f166408e17d5@be61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231030T164500Z
-LOCATION:3-Зал А
-DTSTART:20231030T151500Z
-SUMMARY:ЛК История и философия науки
-UID:64b1c8a6-4b32-4159-b3e3-69bd98cfa2ea@64b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240111T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240111T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:0ff12b37-1f87-4195-abf5-16e626d0aa9e@0ff1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231130T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231130T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:8f9f0528-485b-43e0-80ee-b43d7cf67a85@8f9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231221T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231221T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:e8d3e53f-c607-48cc-a5da-04755e9adf73@e8d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230918T183000Z
-LOCATION:3-Зал А
-DTSTART:20230918T170000Z
-SUMMARY:ЛК История и философия науки
-UID:1f345235-c2e1-43ad-bbbc-5d85785989f1@1f34.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T131500Z
-LOCATION:--каф.
-DTSTART:20230904T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:9f56a11f-6c69-488e-913b-86013e302574@9f56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231130T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231130T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:9c4b6741-68f7-45e6-a7cd-93f742c17a6d@9c4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240201T150000Z
-LOCATION:ГУК А-512
-DTSTART:20240201T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:fad9f751-8249-45a0-88f7-ef0c7f8def70@fad9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230904T183000Z
-LOCATION:3-Зал А
-DTSTART:20230904T170000Z
-SUMMARY:ЛК История и философия науки
-UID:fc6f9e32-7a2b-42c7-82a1-e053346e5322@fc6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T131500Z
-LOCATION:--каф.
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:87a6e04b-33be-4143-895c-6f4dfd57d151@87a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231026T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231026T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:dbbf45a1-59d8-4967-a155-e8130910e0c6@dbbf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T131500Z
-LOCATION:--каф.
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e3a55017-07fb-4763-9b55-a5dad30caef0@e3a5.org
+UID:bb01f634-f635-4a02-9e26-360bf2f33c3c@bb01.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
@@ -193,481 +15,14 @@ DTEND:20240118T131500Z
 LOCATION:ГУК А-510
 DTSTART:20240118T114500Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:8f9984ef-5078-4948-a763-ad0a68700109@8f99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231102T131500Z
-LOCATION:ГУК А-510
-DTSTART:20231102T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:5c1d3b15-d666-4e58-b31a-a9f40bdd07d1@5c1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231116T131500Z
-LOCATION:ГУК А-510
-DTSTART:20231116T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:dbe4879c-8773-41bc-8cb3-77d1d6b54d5b@dbe4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231030T183000Z
-LOCATION:3-Зал А
-DTSTART:20231030T170000Z
-SUMMARY:ЛК История и философия науки
-UID:b1264808-8294-4808-ace4-a17c874eed1c@b126.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8a20a05b-7191-4827-828f-bc44ad0c17cc@8a20.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c702a523-0b71-480f-943f-6c5dbfc5e20c@c702.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231214T131500Z
-LOCATION:ГУК А-510
-DTSTART:20231214T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:1c0aeb56-ec79-41bd-a6db-9430b5077c7e@1c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230921T131500Z
-LOCATION:ГУК А-510
-DTSTART:20230921T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:20294067-e93f-4ed2-8f21-6c60a3884e7c@2029.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T131500Z
-LOCATION:--каф.
-DTSTART:20230918T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f32b6e77-4549-4393-9e68-b91048f663e9@f32b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230907T113000Z
-LOCATION:ГУК А-510
-DTSTART:20230907T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:08424157-2d01-47a1-9cb9-eb697587ed74@0842.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231130T131500Z
-LOCATION:ГУК А-510
-DTSTART:20231130T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:e882fdd8-c0fe-4759-abe8-6251fd292c9f@e882.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231123T131500Z
-LOCATION:ГУК А-510
-DTSTART:20231123T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:30580fdb-9c0c-479d-a24c-7d3e5d7857c7@3058.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20240111T113000Z
-LOCATION:ГУК А-510
-DTSTART:20240111T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4800ddbd-8cab-4fad-b083-2969f94ab4af@4800.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T131500Z
-LOCATION:--каф.
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:99403917-5341-45ab-80fc-272750d73d16@9940.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231221T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231221T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:9e6fc760-7110-4e78-87ec-188ba9246342@9e6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240125T150000Z
-LOCATION:ГУК А-512
-DTSTART:20240125T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:9fa4e099-4e6d-4332-84fd-7fb80eb16581@9fa4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230928T113000Z
-LOCATION:ГУК А-510
-DTSTART:20230928T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:747a82ef-40de-43c3-aee1-51d1e87b7bce@747a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231221T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231221T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:6663eaa0-fba3-4bf1-855b-78d21ecf423e@6663.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231002T164500Z
-LOCATION:3-Зал А
-DTSTART:20231002T151500Z
-SUMMARY:ЛК История и философия науки
-UID:a6c25c6f-1a28-4d0c-9398-9b9ee45a7c46@a6c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231012T131500Z
-LOCATION:ГУК А-510
-DTSTART:20231012T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:40126c19-70f0-4083-a9a6-58392f4f879d@4012.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231009T164500Z
-LOCATION:3-Зал А
-DTSTART:20231009T151500Z
-SUMMARY:ЛК История и философия науки
-UID:e9086022-28e8-46ca-b222-c330d9e66cb0@e908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20240201T113000Z
-LOCATION:ГУК А-510
-DTSTART:20240201T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:c4dbe0c8-34c7-4ff0-8cb9-80cf9855d15a@c4db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231005T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231005T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:0b1ac43a-4a04-40fc-8660-4c974cdc43c2@0b1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231123T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:f0b505e7-eb9f-43cd-a1f3-9240acc4d3ea@f0b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230925T164500Z
-LOCATION:3-Зал А
-DTSTART:20230925T151500Z
-SUMMARY:ЛК История и философия науки
-UID:ca6ee9db-723d-47a3-be17-527b3d3bb203@ca6e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:840fda42-1b8c-4894-8661-670070b9ffaa@840f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:0e989f03-6307-469a-aa3f-336e9bd8b015@0e98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231023T183000Z
-LOCATION:3-Зал А
-DTSTART:20231023T170000Z
-SUMMARY:ЛК История и философия науки
-UID:1519c979-fd05-4784-974c-3638cc9a7c55@1519.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231207T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231207T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:03b1c28e-0c57-4aab-96b7-2279988ad593@03b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231109T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231109T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:dccc3b17-dd9c-4eed-95c7-97c14f310468@dccc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231019T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231019T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:eedef992-2e5a-4548-bd14-8177d6aa6373@eede.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231005T131500Z
-LOCATION:ГУК А-510
-DTSTART:20231005T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:bfcb9ac6-fe2c-4f77-8151-54f4b6bd2055@bfcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231123T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231123T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:bb737a01-4465-4327-8a74-c87756402cc2@bb73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231002T183000Z
-LOCATION:3-Зал А
-DTSTART:20231002T170000Z
-SUMMARY:ЛК История и философия науки
-UID:fdee7d5f-80e2-465d-9e3b-1316c8ea46da@fdee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231116T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231116T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:003fe427-9768-43d3-9c82-c91eb8f6d1cb@003f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b189c994-9971-430b-ac58-980862d129e8@b189.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:52060247-ed51-42d8-a7f7-23ee949628a5@5206.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231130T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231130T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:ea5a26a7-bff1-4653-9cf7-c90473a52969@ea5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231214T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231214T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:705238a3-0ca0-476c-922a-3e2982f7b749@7052.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231016T183000Z
-LOCATION:3-Зал А
-DTSTART:20231016T170000Z
-SUMMARY:ЛК История и философия науки
-UID:c2365725-c765-4a1e-adee-5dd4e932af5c@c236.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230918T164500Z
-LOCATION:3-Зал А
-DTSTART:20230918T151500Z
-SUMMARY:ЛК История и философия науки
-UID:abd33ae8-9b3a-4cc8-890b-838e6a5864ce@abd3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T131500Z
-LOCATION:--каф.
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d41a45b3-61d0-4c2a-9456-bd5042414454@d41a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230907T131500Z
-LOCATION:ГУК А-510
-DTSTART:20230907T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:6a76624b-204e-4883-8a32-28f68c9a4c49@6a76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230925T183000Z
-LOCATION:3-Зал А
-DTSTART:20230925T170000Z
-SUMMARY:ЛК История и философия науки
-UID:448410b3-087b-430f-b6fd-c4339c2336d6@4484.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231012T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231012T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:0cc2a20f-cddf-436f-8496-94b5df5afc67@0cc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240125T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240125T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:bc3ba84c-a258-4c2a-8ea9-bf1e9f451f78@bc3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231207T131500Z
-LOCATION:ГУК А-510
-DTSTART:20231207T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:b85c26a6-5781-42fc-ac5c-d93803e96649@b85c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240118T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240118T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:a129fb37-043b-4221-9a28-b3757da7acbd@a129.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T131500Z
-LOCATION:--каф.
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ea9c413a-2b33-4ad2-a0d2-84e52603e726@ea9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230911T183000Z
-LOCATION:3-Зал А
-DTSTART:20230911T170000Z
-SUMMARY:ЛК История и философия науки
-UID:0982a3c4-0b87-4b33-a23e-fed1febbd129@0982.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231228T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231228T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:d65d6ad9-6628-4e96-b6bb-407cd5319ca0@d65d.org
+UID:7ac58b70-586e-42d0-9792-7f296e02e0b5@7ac5.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231002T150000Z
 LOCATION:--каф.
 DTSTART:20231002T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8571c065-3059-4a2e-92d5-0f18016681ed@8571.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230904T164500Z
-LOCATION:3-Зал А
-DTSTART:20230904T151500Z
-SUMMARY:ЛК История и философия науки
-UID:fce4d9c4-9f03-49f0-9fb8-320c96bdfbfd@fce4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T131500Z
-LOCATION:--каф.
-DTSTART:20231002T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a0755eef-12d1-48c0-8af7-0fc71db1e1c3@a075.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c48ecea0-2e28-49f0-b3a0-7b7a049356c6@c48e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230914T131500Z
-LOCATION:ГУК А-510
-DTSTART:20230914T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:2ff49368-2b4f-417e-8f08-44a1920aac35@2ff4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T131500Z
-LOCATION:--каф.
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:73c22248-1298-463f-a1e5-e6f891475087@73c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230921T113000Z
-LOCATION:ГУК А-510
-DTSTART:20230921T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:dac47591-afe0-4759-8da2-d1d9a0b15b7b@dac4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240111T150000Z
-LOCATION:ГУК А-512
-DTSTART:20240111T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:c0ba9a63-c20d-4665-92e9-b900a90bef33@c0ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231026T131500Z
-LOCATION:ГУК А-510
-DTSTART:20231026T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:2db18690-38d2-4409-ba0d-cccd95cd2569@2db1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231228T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231228T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:0a068c7f-7530-4335-86e0-b7782f07236f@0a06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231019T131500Z
-LOCATION:ГУК А-510
-DTSTART:20231019T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:febdcd83-fdfe-45be-bdb2-7c128705fdca@febd.org
+UID:1d2c4dcd-f9ec-447f-9f89-0c48a15acd7c@1d2c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
@@ -675,60 +30,68 @@ DTEND:20231228T131500Z
 LOCATION:ГУК А-510
 DTSTART:20231228T114500Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:e4cb0687-e259-412f-973d-fdbba19525d8@e4cb.org
+UID:48681966-6c10-469e-9786-628af8ed9b78@4868.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231130T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231130T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:1e89c06b-c4e2-44d1-9c01-7f4932044e44@1e89.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:bb053607-8357-49e6-b5e8-589bd073066b@bb05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231130T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231130T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:cf21635d-4744-44f7-9097-4569761a8eb1@cf21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230921T113000Z
+LOCATION:ГУК А-510
+DTSTART:20230921T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:fa5bc734-db93-4894-87b6-40db02cce6fa@fa5b.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230925T150000Z
 LOCATION:--каф.
 DTSTART:20230925T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8fd984e2-95ed-4b27-9375-775f9ef3e496@8fd9.org
+UID:17df0360-41a1-4604-a485-bb4d19d50665@17df.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231106T150000Z
+DTEND:20230911T131500Z
 LOCATION:--каф.
-DTSTART:20231106T133000Z
+DTSTART:20230911T114500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b5066cc4-9278-4f27-afa9-28ff8b3ae6a4@b506.org
+UID:72e0f86c-e82f-4c40-b610-b6fa454f5fd5@72e0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230914T113000Z
+DTEND:20230914T131500Z
 LOCATION:ГУК А-510
-DTSTART:20230914T100000Z
+DTSTART:20230914T114500Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:9e440d69-ca56-4526-8f4e-938aa02dee43@9e44.org
+UID:b2ccfdcb-c270-4fa8-ac91-e01b92767d6e@b2cc.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1aa3c05f-de4d-4195-90e3-c1b96ccaea5e@1aa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231116T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231116T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:0bd97f9e-62e5-422a-b485-3a2c733a9747@0bd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231109T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:40610c01-ef3d-450d-91cb-99846541ca4e@4061.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20240111T131500Z
-LOCATION:ГУК А-510
-DTSTART:20240111T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:3f1019f7-7f3a-4c0c-9f94-f8165ef05a36@3f10.org
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231002T164500Z
+LOCATION:3-Зал А
+DTSTART:20231002T151500Z
+SUMMARY:ЛК История и философия науки
+UID:bd02f5d6-bbe0-479a-b7dd-f301a69e0dac@bd02.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
@@ -736,93 +99,7 @@ DTEND:20240201T131500Z
 LOCATION:ГУК А-510
 DTSTART:20240201T114500Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4ad78ece-c163-44e8-8080-33f2f0f6580b@4ad7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230911T164500Z
-LOCATION:3-Зал А
-DTSTART:20230911T151500Z
-SUMMARY:ЛК История и философия науки
-UID:dccc3a3e-8086-4b0f-9767-ecd7053b9de9@dccc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231009T183000Z
-LOCATION:3-Зал А
-DTSTART:20231009T170000Z
-SUMMARY:ЛК История и философия науки
-UID:e8faa1eb-05ac-4c47-84b2-dd2d88b182b3@e8fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231221T131500Z
-LOCATION:ГУК А-510
-DTSTART:20231221T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:2d85beb0-6c94-4fa9-b4db-234ac310cb3b@2d85.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:48fb0e23-ba80-4b15-934e-ef1dee2b8c31@48fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231123T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:5a04d8cc-d52f-4ac4-9161-6d1fbcce4e19@5a04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240201T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240201T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:b93256b7-dc95-4458-ae58-39fa31cfa570@b932.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231023T164500Z
-LOCATION:3-Зал А
-DTSTART:20231023T151500Z
-SUMMARY:ЛК История и философия науки
-UID:19ccb4bc-d1a8-4422-8c7e-af8311cf4aea@19cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231214T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231214T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:a20c8c74-0238-4803-930b-20ac1cc682cf@a20c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T131500Z
-LOCATION:--каф.
-DTSTART:20231016T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:945eb97b-23a4-4284-bc0a-5ef49450bff5@945e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231228T113000Z
-LOCATION:ГУК А-510
-DTSTART:20231228T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4a038110-bf09-4464-aa23-d2ee87ddb7e8@4a03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20240125T113000Z
-LOCATION:ГУК А-510
-DTSTART:20240125T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:8a15619d-da6d-4014-927b-8959654c7e64@8a15.org
+UID:0d508129-8d91-4d6b-8ba7-7699b1626f89@0d50.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Павлова Татьяна Петровна
@@ -830,15 +107,109 @@ DTEND:20231207T150000Z
 LOCATION:ГУК А-512
 DTSTART:20231207T133000Z
 SUMMARY:ПЗ История и философия науки
-UID:17d6e524-4e45-4621-a9e4-02aa17e148e3@17d6.org
+UID:fa0d6773-305e-4734-891d-a7713e1cb005@fa0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230911T164500Z
+LOCATION:3-Зал А
+DTSTART:20230911T151500Z
+SUMMARY:ЛК История и философия науки
+UID:6e8e725f-e042-4cb9-a817-05f4621e6ca7@6e8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T131500Z
+LOCATION:--каф.
+DTSTART:20230918T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:537b8d9c-ea0b-4a09-bb44-a1e1b8ec8fc5@537b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230928T131500Z
+DTEND:20231019T113000Z
 LOCATION:ГУК А-510
-DTSTART:20230928T114500Z
+DTSTART:20231019T100000Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4d922085-2b5c-4ae8-923a-1bf133b755bd@4d92.org
+UID:8b95779e-752b-4759-a0e5-62f20fc0568f@8b95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240118T150000Z
+LOCATION:ГУК А-512
+DTSTART:20240118T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:5108b456-42bd-48bb-9173-6cea4932b80e@5108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231009T164500Z
+LOCATION:3-Зал А
+DTSTART:20231009T151500Z
+SUMMARY:ЛК История и философия науки
+UID:9c90fe0a-88e3-4f30-b4fa-24ee66b9236f@9c90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231228T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231228T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:9922b67f-b050-487b-b56d-d3ec4ae86eef@9922.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0fb08ba3-b2ad-4955-aef0-f4386c1e4cd2@0fb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231123T131500Z
+LOCATION:ГУК А-510
+DTSTART:20231123T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:31b8a73a-8625-4461-95ce-8aef93db8a14@31b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231026T131500Z
+LOCATION:ГУК А-510
+DTSTART:20231026T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:81db121d-1932-4a70-80e8-2fa2eb01ff05@81db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231207T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231207T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:c0345433-cd16-4a44-9e16-1acd6bc269b1@c034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231005T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231005T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:d659f2a7-1f6f-4ddd-a199-9a24e835e406@d659.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230918T164500Z
+LOCATION:3-Зал А
+DTSTART:20230918T151500Z
+SUMMARY:ЛК История и философия науки
+UID:558ee988-ccb4-436f-84f6-313d27cf33fb@558e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240125T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240125T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:f738f515-90fd-475d-9ef1-d575d84d94e1@f738.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Павлова Татьяна Петровна
@@ -846,6 +217,635 @@ DTEND:20231116T164500Z
 LOCATION:ГУК А-512
 DTSTART:20231116T151500Z
 SUMMARY:ПЗ История и философия науки
-UID:04036dd0-c555-4911-a965-095d6c5e9ed8@0403.org
+UID:4246a226-f4c3-4652-9135-425d1f8eb51b@4246.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T131500Z
+LOCATION:--каф.
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9ade5c89-ea26-4f65-954c-c2073d1f6579@9ade.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231130T131500Z
+LOCATION:ГУК А-510
+DTSTART:20231130T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:b56426b8-f54d-46c3-8756-3fa0040d6b2f@b564.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T131500Z
+LOCATION:--каф.
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3d911add-2fb8-4ebe-8427-3c4c41d6a82b@3d91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231026T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231026T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:a536d773-6849-4d1d-9694-84f19c9e96fa@a536.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T131500Z
+LOCATION:--каф.
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:430a7364-fc28-45f4-bd1b-f43062692e81@430a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f4906656-3e0b-4e22-ab55-533066f67798@f490.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231123T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231123T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:8d9c96b2-bfda-45e4-b129-5fd8a8266b09@8d9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240111T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240111T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:fc5eddbf-3adb-49fe-b87a-db6cb7b0ad43@fc5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230907T131500Z
+LOCATION:ГУК А-510
+DTSTART:20230907T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:67ef1cd9-2132-4b42-9174-794fc75df24a@67ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231102T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231102T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:718c2b98-6ca6-41f3-9a08-59683b89f8f5@718c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20240125T113000Z
+LOCATION:ГУК А-510
+DTSTART:20240125T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:a1fd4d3c-a832-402d-b9b8-61197204e756@a1fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230925T164500Z
+LOCATION:3-Зал А
+DTSTART:20230925T151500Z
+SUMMARY:ЛК История и философия науки
+UID:7d51cccc-e7eb-49e6-8561-4ec4383da674@7d51.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9298e6c5-d0f9-466a-9447-505406b00a68@9298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231016T164500Z
+LOCATION:3-Зал А
+DTSTART:20231016T151500Z
+SUMMARY:ЛК История и философия науки
+UID:33520de8-b912-4178-ba99-4c48a83635b6@3352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231023T164500Z
+LOCATION:3-Зал А
+DTSTART:20231023T151500Z
+SUMMARY:ЛК История и философия науки
+UID:68920fec-6cfb-4645-bb53-ee634a79ec87@6892.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230904T164500Z
+LOCATION:3-Зал А
+DTSTART:20230904T151500Z
+SUMMARY:ЛК История и философия науки
+UID:1f09ab16-202c-477e-83d2-ee2ebe93d31d@1f09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20240118T113000Z
+LOCATION:ГУК А-510
+DTSTART:20240118T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:d445fbcb-e7d9-4aac-bedf-01ef67d42878@d445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231109T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:23a50c00-4e5f-4f74-aa8e-4186a010d10a@23a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231002T183000Z
+LOCATION:3-Зал А
+DTSTART:20231002T170000Z
+SUMMARY:ЛК История и философия науки
+UID:44bb3ae7-8f8c-4a50-81fc-5078d83450fa@44bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T131500Z
+LOCATION:--каф.
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:75eee4de-2eb0-4457-9339-1e5fe657def7@75ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231012T131500Z
+LOCATION:ГУК А-510
+DTSTART:20231012T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:0b63dc58-e66b-4082-a667-ba70652bd014@0b63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231116T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231116T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:960ddd0b-9d39-4ffe-84fe-1b6911519bc9@960d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231214T131500Z
+LOCATION:ГУК А-510
+DTSTART:20231214T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:397c9f83-8c34-407d-9bb8-7595718d1259@397c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231016T183000Z
+LOCATION:3-Зал А
+DTSTART:20231016T170000Z
+SUMMARY:ЛК История и философия науки
+UID:0a0bb758-d0dd-45cc-93a5-cb18e92f98a1@0a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a59928b5-4b05-46df-a815-5d141955dc09@a599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20240111T113000Z
+LOCATION:ГУК А-510
+DTSTART:20240111T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:622d1873-1099-4cf7-b0f1-3fa6577b4491@622d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230921T131500Z
+LOCATION:ГУК А-510
+DTSTART:20230921T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:255370e0-f977-424a-930a-bf859689b814@2553.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231228T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231228T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:ff209085-3563-46d9-aab7-b42b6d991842@ff20.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3e78fdbd-b522-491f-be65-e61922019951@3e78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231116T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231116T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:9930af66-697d-48fd-a405-450eab69a7ea@9930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231130T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231130T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:392af2ad-1a22-4066-841e-8a78fbd479f8@392a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231030T183000Z
+LOCATION:3-Зал А
+DTSTART:20231030T170000Z
+SUMMARY:ЛК История и философия науки
+UID:0cb74ad4-2ebf-4a51-a8c7-e535989ba739@0cb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240125T150000Z
+LOCATION:ГУК А-512
+DTSTART:20240125T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:954fb5a0-d08a-44cd-842b-01558b29efdf@954f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231228T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231228T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:5a544348-7e7f-489a-a08b-93691cf24305@5a54.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T131500Z
+LOCATION:--каф.
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:75efcde1-47bc-45d3-88ae-51998840aaa3@75ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230911T183000Z
+LOCATION:3-Зал А
+DTSTART:20230911T170000Z
+SUMMARY:ЛК История и философия науки
+UID:8f4920e1-cf6d-4082-96ed-965dcbca9a6f@8f49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20240201T113000Z
+LOCATION:ГУК А-510
+DTSTART:20240201T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:770cd7c6-e574-4ed4-b087-9bad735b6810@770c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231221T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231221T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:a1226cb2-c359-4918-84a8-3385863ae1fa@a122.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231207T131500Z
+LOCATION:ГУК А-510
+DTSTART:20231207T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:167bf9cc-edc7-4577-add0-f318ebc858ff@167b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230904T183000Z
+LOCATION:3-Зал А
+DTSTART:20230904T170000Z
+SUMMARY:ЛК История и философия науки
+UID:db7809c0-5006-4ba2-b3ad-99df6375bf4b@db78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230907T113000Z
+LOCATION:ГУК А-510
+DTSTART:20230907T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:e21b63b8-28dc-473e-ad8c-9502ce081596@e21b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:4818d4c9-2a27-4126-a3a2-54560dc7b627@4818.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T131500Z
+LOCATION:--каф.
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:26539fc3-58a9-4ad3-882c-fbe76a0d1091@2653.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:40361e07-4b49-441c-8aa7-d030481e2c4a@4036.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231123T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:532b9539-3389-47fc-804c-e839a2bbaaac@532b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231214T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231214T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:47a7b2a2-8424-42e5-b6a6-346ecbe1b557@47a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T131500Z
+LOCATION:--каф.
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:dd19141c-294b-4703-8593-f98d826e1b77@dd19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231109T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231109T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:02869d4f-0d7f-45c7-ae5a-02925788641a@0286.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231214T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231214T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:c56c0c09-6c67-4e9c-b46e-cde31cf24b6b@c56c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231030T164500Z
+LOCATION:3-Зал А
+DTSTART:20231030T151500Z
+SUMMARY:ЛК История и философия науки
+UID:a3e8337b-530b-433e-a724-61439621560f@a3e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231214T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231214T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:c12d8535-f788-4e1d-b6bd-be9262d898ae@c12d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20240125T131500Z
+LOCATION:ГУК А-510
+DTSTART:20240125T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:227f402b-e78a-473f-b5ce-3a0d4fc495e3@227f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231012T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231012T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:e9cc97c5-edb9-4cf6-9f68-dfe5e3c2f870@e9cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T131500Z
+LOCATION:--каф.
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c6f8d2ec-8f07-4cf7-b21d-5c840522aac4@c6f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20240111T131500Z
+LOCATION:ГУК А-510
+DTSTART:20240111T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:89f5730d-bc5f-4669-a926-a084c5c9d483@89f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231221T131500Z
+LOCATION:ГУК А-510
+DTSTART:20231221T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:aed297ac-9d21-4d3d-bfdb-ecae1285d22e@aed2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:426f6cc3-11d6-4ec1-943c-057e55306e44@426f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231019T131500Z
+LOCATION:ГУК А-510
+DTSTART:20231019T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:48237190-c326-4b7e-bfe8-ffc557eac9aa@4823.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231009T183000Z
+LOCATION:3-Зал А
+DTSTART:20231009T170000Z
+SUMMARY:ЛК История и философия науки
+UID:817309e5-6ccf-4edb-898d-4e0ba24b5eeb@8173.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T131500Z
+LOCATION:--каф.
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e91fb15e-87f0-47fa-be83-0c284c608811@e91f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231023T183000Z
+LOCATION:3-Зал А
+DTSTART:20231023T170000Z
+SUMMARY:ЛК История и философия науки
+UID:c33adf09-e490-4f01-8c42-372e782fd75d@c33a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231005T131500Z
+LOCATION:ГУК А-510
+DTSTART:20231005T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:69e03d18-7ab3-47b0-878c-0be49b557145@69e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240201T150000Z
+LOCATION:ГУК А-512
+DTSTART:20240201T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:3a1b17f9-215b-4a02-90f3-db3f50d4d453@3a1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:4cecf832-bee7-43f7-aeea-a4d4951189ba@4cec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231102T131500Z
+LOCATION:ГУК А-510
+DTSTART:20231102T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2577822a-252a-42bc-b919-7721b3fe3941@2577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231116T131500Z
+LOCATION:ГУК А-510
+DTSTART:20231116T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:cdc27b5a-7344-45df-b7ff-5a224735edd0@cdc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230914T113000Z
+LOCATION:ГУК А-510
+DTSTART:20230914T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:91edf421-e17d-436a-a6fd-032840e8694b@91ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231109T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231109T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:80c9fca9-399a-4b7d-bc61-83325f8cc63d@80c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230925T183000Z
+LOCATION:3-Зал А
+DTSTART:20230925T170000Z
+SUMMARY:ЛК История и философия науки
+UID:94c372d9-50cd-4a65-a54d-3b2530a0ca50@94c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231123T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:d72aa4a2-58f1-43e4-9634-9c7da3b2444e@d72a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240201T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240201T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:4ff25f1d-d51e-4227-96e3-3c4c30b4e535@4ff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231207T113000Z
+LOCATION:ГУК А-510
+DTSTART:20231207T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:1e2d0637-78c8-4b7d-b83d-195188a57a71@1e2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231221T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231221T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:f7c2dae0-9d03-4c19-aaa4-6aff22367afe@f7c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:cbf1bc49-45e2-45b0-ab82-36850606e17b@cbf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230928T131500Z
+LOCATION:ГУК А-510
+DTSTART:20230928T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:248d886b-973f-420a-beb3-6a08fc5ee9f7@248d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240118T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240118T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:c5d3dc27-3e0a-4b7d-810a-122a388d5a09@c5d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T131500Z
+LOCATION:--каф.
+DTSTART:20230904T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7b771c78-71ed-4a62-a949-d39d0935f2a0@7b77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230918T183000Z
+LOCATION:3-Зал А
+DTSTART:20230918T170000Z
+SUMMARY:ЛК История и философия науки
+UID:effd3e02-f028-4315-aa1d-5864aef4283e@effd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230928T113000Z
+LOCATION:ГУК А-510
+DTSTART:20230928T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:236ee841-0446-45b0-95bf-e359224af7db@236e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240111T150000Z
+LOCATION:ГУК А-512
+DTSTART:20240111T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:a99e22a3-3bb5-40fe-b589-9f52d418d0dd@a99e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231221T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:519ea3d0-5893-4339-8fb4-52e9b2c31d85@519e.org
 END:VEVENT
 END:VCALENDAR

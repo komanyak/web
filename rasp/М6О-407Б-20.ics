@@ -2,1628 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20230908T131500Z
-LOCATION:24-314
-DTSTART:20230908T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:c5c41e21-1a63-45e8-998d-c6aafbf5b56b@c5c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231120T131500Z
-LOCATION:24-502
-DTSTART:20231120T114500Z
-SUMMARY:ЛК Системный анализ
-UID:fe2edaa5-f879-400d-b765-762deb0d2a9f@fe2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231212T131500Z
-LOCATION:24-316Б
-DTSTART:20231212T114500Z
-SUMMARY:ЛК Управление в организационных системах
-UID:2de25b8a-8617-4604-9a39-642f2947fcd3@2de2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230908T073000Z
-LOCATION:24-314
-DTSTART:20230908T060000Z
-SUMMARY:ПЗ Надежность аэрокосмических систем
-UID:034bdf1d-5a09-4d97-9336-5c69517f789e@034b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231010T091500Z
-LOCATION:24-318А
-DTSTART:20231010T074500Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:b56040c5-ca62-4a52-901f-84fa7766a85a@b560.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231010T073000Z
-LOCATION:24-318А
-DTSTART:20231010T060000Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:3a9f3da8-15af-43c8-9907-36dd4de6db31@3a9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231101T113000Z
-LOCATION:24-711
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:2b43739d-9303-48f5-902a-e82a0b0c9d72@2b43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230901T091500Z
-LOCATION:24-314
-DTSTART:20230901T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:42695efd-77db-4c80-9f90-84b8308ed91c@4269.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231117T073000Z
-LOCATION:24-314
-DTSTART:20231117T060000Z
-SUMMARY:ПЗ Надежность аэрокосмических систем
-UID:8adc946e-9098-403d-b43b-a174ed37253c@8adc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231103T073000Z
-LOCATION:24-314
-DTSTART:20231103T060000Z
-SUMMARY:ПЗ Надежность аэрокосмических систем
-UID:144d53d3-ebbe-4b07-bdf8-07e63a639358@144d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230918T073000Z
-LOCATION:24-316Б
-DTSTART:20230918T060000Z
-SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
-UID:f66ab222-84ad-4ee3-810a-f2d23df484ad@f66a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231129T131500Z
-LOCATION:24-413
-DTSTART:20231129T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:49bb6ce7-b2ee-40d1-a870-c4b7b2fbd202@49bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20230926T131500Z
-LOCATION:24-316Б
-DTSTART:20230926T114500Z
-SUMMARY:ПЗ Управление в организационных системах
-UID:29735598-5167-4608-bd86-acf35339ef87@2973.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20230930T091500Z
-LOCATION:24-314
-DTSTART:20230930T074500Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:8938b0ac-79b6-4276-a880-f4284860e2ea@8938.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20230905T113000Z
-LOCATION:24-316Б
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Управление в организационных системах
-UID:4b7691fb-c6b0-48dc-8607-11cb162ed647@4b76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231209T091500Z
-LOCATION:24-314
-DTSTART:20231209T074500Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:48acb970-7925-4142-bcff-d42123b1cac4@48ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231218T131500Z
-LOCATION:24-502
-DTSTART:20231218T114500Z
-SUMMARY:ЛК Системный анализ
-UID:e052928f-0c37-4c23-9477-cbe6820fe45e@e052.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231124T113000Z
-LOCATION:24-314
-DTSTART:20231124T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:b26ab6aa-459c-44ee-aaeb-691256018332@b26a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231129T113000Z
-LOCATION:24-711
-DTSTART:20231129T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:83ae2faf-22da-44b2-a970-ac02a4d9dafa@83ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231117T091500Z
-LOCATION:24-314
-DTSTART:20231117T074500Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:91d94f80-2ea6-4b30-b65e-92eaf76245a7@91d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231118T113000Z
-LOCATION:24-314
-DTSTART:20231118T100000Z
-SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
-UID:e29ccffd-b92b-4627-bbfc-5f6279626fef@e29c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231205T073000Z
-LOCATION:24-318А
-DTSTART:20231205T060000Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:d0acfa2c-d6c9-46fb-996b-5e61a869c4ea@d0ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20230922T113000Z
-LOCATION:24-314
-DTSTART:20230922T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:6ef64e94-daf6-403f-938a-6ddfb470b9d5@6ef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231122T150000Z
-LOCATION:24-715
-DTSTART:20231122T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:b6ee4044-9491-45e9-b90a-9c78860e0656@b6ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231021T091500Z
-LOCATION:24-314
-DTSTART:20231021T074500Z
-SUMMARY:ЛР Динамическое проектирование систем управления ЛА
-UID:13c70eaf-a6e6-4ce6-87dc-c699a8706e88@13c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231118T091500Z
-LOCATION:24-314
-DTSTART:20231118T074500Z
-SUMMARY:ЛР Динамическое проектирование систем управления ЛА
-UID:0ebeb25a-8db1-4957-aa14-857440e4afd0@0ebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231023T113000Z
-LOCATION:5-101
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Экология
-UID:46c247da-88b1-4994-85f6-e70e8b790383@46c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231003T131500Z
-LOCATION:24-316Б
-DTSTART:20231003T114500Z
-SUMMARY:ЛК Управление в организационных системах
-UID:fd666fea-07fd-416d-accb-0291300d4b1c@fd66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20230926T113000Z
-LOCATION:24-316Б
-DTSTART:20230926T100000Z
-SUMMARY:ПЗ Управление в организационных системах
-UID:1ac181d8-c4a2-40d3-a528-bd66bed2705a@1ac1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231013T091500Z
-LOCATION:24-314
-DTSTART:20231013T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:5886597a-5d2d-43f1-be93-f14578cd2f50@5886.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231115T131500Z
-LOCATION:24-413
-DTSTART:20231115T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:4049099f-751d-410a-8847-b3e6b79b5753@4049.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230926T073000Z
-LOCATION:24-318А
-DTSTART:20230926T060000Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:0546d7dd-3b29-4099-968d-513bb12f0f00@0546.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231120T073000Z
-LOCATION:24-316Б
-DTSTART:20231120T060000Z
-SUMMARY:ПЗ Основы научных исследований
-UID:58ac9746-a64e-437f-a62b-093a800f8903@58ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20230913T113000Z
-LOCATION:24-711
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:addbadbd-71a6-420e-9eae-9aefdec6a7a4@addb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231024T131500Z
-LOCATION:24-316Б
-DTSTART:20231024T114500Z
-SUMMARY:ЛР Управление в организационных системах
-UID:193684bb-85e0-4ad3-84ba-a4330a8f3797@1936.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231106T073000Z
-LOCATION:24-316Б
-DTSTART:20231106T060000Z
-SUMMARY:ПЗ Основы научных исследований
-UID:293e93a3-1f78-4472-9652-55911cfe7518@293e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231226T131500Z
-LOCATION:24-316Б
-DTSTART:20231226T114500Z
-SUMMARY:ЛК Управление в организационных системах
-UID:ee040559-1d15-4a91-b791-b7a963b98db1@ee04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230918T131500Z
-LOCATION:24-502
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Системный анализ
-UID:ee8ba7bd-ba47-431a-9109-17fcacc5649a@ee8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231212T073000Z
-LOCATION:3-119б
-DTSTART:20231212T060000Z
-SUMMARY:ЛР Экология
-UID:a60d97dc-f494-4eec-a577-02d9e3e684bf@a60d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231128T091500Z
-LOCATION:3-119б
-DTSTART:20231128T074500Z
-SUMMARY:ЛР Экология
-UID:da1ee8ca-1910-40f7-be96-2e8203369750@da1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231020T073000Z
-LOCATION:24-314
-DTSTART:20231020T060000Z
-SUMMARY:ПЗ Надежность аэрокосмических систем
-UID:014250a2-5b1e-42b9-b425-57d97435d53e@0142.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230905T073000Z
-LOCATION:5-122
-DTSTART:20230905T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:87169c80-832a-469d-8e69-b4e363117000@8716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20230927T113000Z
-LOCATION:24-711
-DTSTART:20230927T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:f38776ce-d7cc-4f55-8844-1470bab778e6@f387.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230927T131500Z
-LOCATION:24-413
-DTSTART:20230927T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:2e32b033-1ad0-4d45-a2b2-a2c5c57e43d9@2e32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230919T091500Z
-LOCATION:5-122
-DTSTART:20230919T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:5fd07675-538d-4655-a866-38b323fd15ef@5fd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231023T131500Z
-LOCATION:24-502
-DTSTART:20231023T114500Z
-SUMMARY:ЛК Системный анализ
-UID:fc77e671-668a-46aa-ad29-cb183e8aa915@fc77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231009T113000Z
-LOCATION:5-101
-DTSTART:20231009T100000Z
-SUMMARY:ЛК Экология
-UID:5b521d1b-c329-4ed4-9eb5-bc6112b066df@5b52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231027T113000Z
-LOCATION:24-314
-DTSTART:20231027T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:9c34f0a8-f61b-466e-ad47-26a812e59bee@9c34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231120T091500Z
-LOCATION:5-401
-DTSTART:20231120T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:24defaf8-978a-41d0-97cf-f2de76efa546@24de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231006T073000Z
-LOCATION:24-314
-DTSTART:20231006T060000Z
-SUMMARY:ПЗ Надежность аэрокосмических систем
-UID:8b870ad2-8ccf-4e70-b6dd-fc1657909902@8b87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231009T091500Z
-LOCATION:5-401
-DTSTART:20231009T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:aae6733c-48ee-44af-80d0-f264c067affc@aae6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231122T131500Z
-LOCATION:24-413
-DTSTART:20231122T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:f12c9eee-6dcf-4826-b395-9588db6c2980@f12c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231020T091500Z
-LOCATION:24-314
-DTSTART:20231020T074500Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:bf223fbd-1df8-4bbf-af2f-a525d5c4603d@bf22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231031T113000Z
-LOCATION:24-316Б
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Управление в организационных системах
-UID:6a6546bb-1c66-42d2-958e-264f89c0645a@6a65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231205T091500Z
-LOCATION:24-318А
-DTSTART:20231205T074500Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:532910f7-2ea5-45b2-b15e-66d7fb48034d@5329.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20230913T091500Z
-LOCATION:24-715
-DTSTART:20230913T074500Z
-SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
-UID:25e46755-ba68-4d4f-8c44-683ebf015cd4@25e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231212T091500Z
-LOCATION:3-119б
-DTSTART:20231212T074500Z
-SUMMARY:ЛР Экология
-UID:63be469f-268b-4c92-b2a8-80660c2c64a4@63be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231011T131500Z
-LOCATION:24-413
-DTSTART:20231011T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:8cbb93b6-59d8-4009-a5a6-20bb068adc28@8cbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230929T091500Z
-LOCATION:24-314
-DTSTART:20230929T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:5989be55-8c3e-421b-9203-c5f0f5f70544@5989.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230929T113000Z
-LOCATION:24-314
-DTSTART:20230929T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:268cef7d-f78b-44d3-8004-7b82f162e666@268c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231204T073000Z
-LOCATION:24-316Б
-DTSTART:20231204T060000Z
-SUMMARY:ПЗ Основы научных исследований
-UID:d8712fe6-a507-4490-bbc1-3e09cca792ac@d871.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230920T131500Z
-LOCATION:24-413
-DTSTART:20230920T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:e6c9b4b5-2662-437a-ae92-304f4300fc64@e6c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231011T091500Z
-LOCATION:24-715
-DTSTART:20231011T074500Z
-SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
-UID:be40fc49-9eac-491c-a6be-82ff3d4b06e1@be40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231030T131500Z
-LOCATION:24-502
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Системный анализ
-UID:2cb61b17-2b36-4414-9b46-fe5db8f43aa9@2cb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231124T091500Z
-LOCATION:24-314
-DTSTART:20231124T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:fad370e3-9822-4970-b40e-5e7fad7fb381@fad3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231220T113000Z
-LOCATION:24-711
-DTSTART:20231220T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:43f96ce2-80cf-4b52-a622-ee1f81cf8061@43f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231025T091500Z
-LOCATION:24-715
-DTSTART:20231025T074500Z
-SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
-UID:8b9a7096-4fd1-4825-b7b0-5be565d4491c@8b9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231108T131500Z
-LOCATION:24-413
-DTSTART:20231108T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:53f1e218-f6ba-41b6-bf13-2ad110aab683@53f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231023T073000Z
-LOCATION:24-316Б
-DTSTART:20231023T060000Z
-SUMMARY:ПЗ Основы научных исследований
-UID:a61030c9-3a96-4f1a-92da-31347754d6b0@a610.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моисеев Дмитрий Викторович
 DTEND:20231218T073000Z
 LOCATION:24-316Б
 DTSTART:20231218T060000Z
 SUMMARY:ПЗ Основы научных исследований
-UID:ac4c905e-86c5-46cd-a6b1-6e03f62e28c9@ac4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231023T091500Z
-LOCATION:5-401
-DTSTART:20231023T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:64ac2f67-c24c-4323-a9a7-466a73f0bb3e@64ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231206T150000Z
-LOCATION:24-715
-DTSTART:20231206T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:be916986-d3d6-4203-a47a-f57d8aef5b0d@be91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231024T073000Z
-LOCATION:24-318А
-DTSTART:20231024T060000Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:18124cdb-8589-4000-9579-7a3bbc78a2c0@1812.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231024T113000Z
-LOCATION:24-316Б
-DTSTART:20231024T100000Z
-SUMMARY:ЛР Управление в организационных системах
-UID:12b20e91-226c-4e40-b971-b72b02e34d0b@12b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231114T091500Z
-LOCATION:3-119б
-DTSTART:20231114T074500Z
-SUMMARY:ЛР Экология
-UID:4b5f857b-cd8c-4585-a491-f167a85c0e74@4b5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230927T150000Z
-LOCATION:24-715
-DTSTART:20230927T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:4ddf26ee-9d8a-4940-841e-ec6c946d6b0b@4ddf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231030T091500Z
-LOCATION:5-401
-DTSTART:20231030T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:69e89f3e-5d77-43ae-9689-0d158b461f90@69e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230904T131500Z
-LOCATION:24-502
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Системный анализ
-UID:b3d1086b-a5e2-4d7d-9e2e-be99cd3fdd7c@b3d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231229T131500Z
-LOCATION:24-314
-DTSTART:20231229T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:cb6c35cd-7ab9-40c1-ae54-8028f4fbad9e@cb6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231213T150000Z
-LOCATION:24-715
-DTSTART:20231213T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:8be2ba7f-1659-410d-ae1f-f062e8e5a7ef@8be2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20230912T131500Z
-LOCATION:24-316Б
-DTSTART:20230912T114500Z
-SUMMARY:ПЗ Управление в организационных системах
-UID:371a0d94-c210-4a00-aa0c-2ae94735928e@371a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231016T091500Z
-LOCATION:5-401
-DTSTART:20231016T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:95256b39-13d7-4ea4-acf8-ae4d85044e15@9525.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231215T073000Z
-LOCATION:24-314
-DTSTART:20231215T060000Z
-SUMMARY:ПЗ Надежность аэрокосмических систем
-UID:52ea1f0d-6401-407c-933d-afc8b903e754@52ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231108T113000Z
-LOCATION:24-711
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:458b91f4-8f5b-47c4-9f0f-77701fb317af@458b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231006T091500Z
-LOCATION:24-314
-DTSTART:20231006T074500Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:d6bf59d6-95f9-446c-9d5e-c5143ad32fd5@d6bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231127T131500Z
-LOCATION:24-502
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Системный анализ
-UID:b80810b3-1acb-44d6-9db0-2ac00a1c5c66@b808.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231127T091500Z
-LOCATION:5-401
-DTSTART:20231127T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:8ec95ece-741b-4f5d-8bd8-b5c245879a83@8ec9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231125T073000Z
-LOCATION:24-314
-DTSTART:20231125T060000Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:bae05316-c401-4c28-9836-b859bd088d47@bae0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231030T113000Z
-LOCATION:5-101
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Экология
-UID:6a5a3909-8236-4a94-b0b4-97a420d68b85@6a5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20230905T131500Z
-LOCATION:24-316Б
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Управление в организационных системах
-UID:a456fdc1-54c8-4be7-afbe-bb3abaa3e730@a456.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20230925T073000Z
-LOCATION:24-316Б
-DTSTART:20230925T060000Z
-SUMMARY:ПЗ Основы научных исследований
-UID:4514c94a-ee40-4789-9157-7aa5de1b52ba@4514.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20230920T113000Z
-LOCATION:24-711
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:0911b6b8-0193-44a4-a210-806ac94d624c@0911.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231213T113000Z
-LOCATION:24-711
-DTSTART:20231213T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:af7e1a3d-acac-43b0-b5b1-23772157b21e@af7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231206T113000Z
-LOCATION:24-711
-DTSTART:20231206T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:c3256fc0-8a85-4b2c-a995-1573c0863823@c325.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231003T091500Z
-LOCATION:5-122
-DTSTART:20231003T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:666e8b6c-cdc9-4930-afd1-c84d819c75f8@666e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230920T150000Z
-LOCATION:24-715
-DTSTART:20230920T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:3ee9c296-e5c6-42b5-b1ac-ade36e5b6596@3ee9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231009T073000Z
-LOCATION:24-316Б
-DTSTART:20231009T060000Z
-SUMMARY:ПЗ Основы научных исследований
-UID:53fad8d1-68bd-4c5a-aeb7-a6f1ee9442e7@53fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231014T091500Z
-LOCATION:24-314
-DTSTART:20231014T074500Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:0a59e702-cff2-4357-9bdb-1aa1fd49c28b@0a59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231031T073000Z
-LOCATION:5-122
-DTSTART:20231031T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:b94818e7-74f9-4ef5-8364-a5ecf735d94f@b948.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231114T073000Z
-LOCATION:3-119б
-DTSTART:20231114T060000Z
-SUMMARY:ЛР Экология
-UID:0ae4930d-6ad4-4681-aba9-86f5f7e059a8@0ae4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231002T091500Z
-LOCATION:5-401
-DTSTART:20231002T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:b229819e-da95-480d-9e34-401ee618e2a7@b229.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231101T131500Z
-LOCATION:24-413
-DTSTART:20231101T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:5de84436-fb21-40d7-a0f1-31c1aa1cb800@5de8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231129T150000Z
-LOCATION:24-715
-DTSTART:20231129T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:4147187c-77d1-4e6d-be67-3452886dd018@4147.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231225T131500Z
-LOCATION:24-502
-DTSTART:20231225T114500Z
-SUMMARY:ЛК Системный анализ
-UID:f3f2bda0-fc35-43e8-8af8-4acdcf8cdf7c@f3f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231018T113000Z
-LOCATION:24-711
-DTSTART:20231018T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:bfc730f3-35ff-4d8e-9a25-5d955d1befa4@bfc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231220T091500Z
-LOCATION:24-715
-DTSTART:20231220T074500Z
-SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
-UID:da62c711-afa3-43c1-ae92-f49dcd9de3d8@da62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231106T113000Z
-LOCATION:5-101
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Экология
-UID:8151885b-7af0-4657-b712-2aa3924352af@8151.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20230906T113000Z
-LOCATION:24-711
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:99270a9a-6b8b-4577-a1fb-7e804587ddcd@9927.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231103T091500Z
-LOCATION:24-314
-DTSTART:20231103T074500Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:f16ef575-7fec-4ece-a95c-a8670a8bacb1@f16e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20230908T113000Z
-LOCATION:24-314
-DTSTART:20230908T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:56744883-18ee-499f-861f-09c02bffd6bd@5674.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231201T131500Z
-LOCATION:24-314
-DTSTART:20231201T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:96b6576c-56f0-44f2-9055-f23eb020de0d@96b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231206T091500Z
-LOCATION:24-715
-DTSTART:20231206T074500Z
-SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
-UID:d3e03713-d9a4-4dc6-8141-102f2be0fdf5@d3e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231011T150000Z
-LOCATION:24-715
-DTSTART:20231011T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:73275376-589f-482e-8f9e-4f4442f81f60@7327.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230926T091500Z
-LOCATION:24-318А
-DTSTART:20230926T074500Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:084e7bdd-ad64-4185-bb01-f79ea72b67d3@084e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231013T113000Z
-LOCATION:24-314
-DTSTART:20231013T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:62fa80f6-673e-4d66-bbf1-e198353a7905@62fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231031T131500Z
-LOCATION:24-316Б
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Управление в организационных системах
-UID:29e13e79-37a6-47ef-a574-2df923330e2f@29e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231016T113000Z
-LOCATION:5-101
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Экология
-UID:2e2f4f7e-b8b5-495c-a84d-2fc3b015e357@2e2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231202T113000Z
-LOCATION:24-314
-DTSTART:20231202T100000Z
-SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
-UID:382987f2-336e-42d5-b06a-2d079cbc4595@3829.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231106T131500Z
-LOCATION:24-502
-DTSTART:20231106T114500Z
-SUMMARY:ЛК Системный анализ
-UID:4eaaff43-9e8e-4d37-b782-3ae11f01993d@4eaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231004T150000Z
-LOCATION:24-715
-DTSTART:20231004T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:c45960c2-8869-40ec-a45c-311e8773c00b@c459.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231211T131500Z
-LOCATION:24-502
-DTSTART:20231211T114500Z
-SUMMARY:ЛК Системный анализ
-UID:2fc298c3-068c-4c03-bc4a-4815a127907f@2fc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230906T131500Z
-LOCATION:24-413
-DTSTART:20230906T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:00a91133-3f4f-4cf6-8951-1658eda10fdd@00a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230925T091500Z
-LOCATION:5-401
-DTSTART:20230925T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:6d2e1622-8680-4c56-9184-3afd908e3339@6d2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230911T131500Z
-LOCATION:24-502
-DTSTART:20230911T114500Z
-SUMMARY:ЛК Системный анализ
-UID:ce1bee6c-98cd-4beb-9af6-6db72d6cebd1@ce1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231115T113000Z
-LOCATION:24-711
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:40c66231-5eef-4e03-afbe-1279fc19852d@40c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231111T091500Z
-LOCATION:24-314
-DTSTART:20231111T074500Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:4bffb323-8684-4cdf-98e9-711ad6d9cf03@4bff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231002T131500Z
-LOCATION:24-502
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Системный анализ
-UID:12fc9a09-74ff-45ad-b485-7a8b57771dc2@12fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230912T073000Z
-LOCATION:24-318А
-DTSTART:20230912T060000Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:d1868900-3ee0-4ca3-9f4d-1b6e60687b2d@d186.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231009T131500Z
-LOCATION:24-502
-DTSTART:20231009T114500Z
-SUMMARY:ЛК Системный анализ
-UID:0267a5af-d860-49aa-8988-3575b7e6ed1f@0267.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231113T113000Z
-LOCATION:5-101
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Экология
-UID:9141f846-1df7-4a97-890e-4797244897e5@9141.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231031T091500Z
-LOCATION:5-122
-DTSTART:20231031T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:cc9b1942-007f-4a6b-80da-165e0f7ae41b@cc9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231018T150000Z
-LOCATION:24-715
-DTSTART:20231018T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:d699eb54-ef7d-4584-933d-821ba7ce52ea@d699.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231017T091500Z
-LOCATION:5-122
-DTSTART:20231017T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:fa54efe4-cc5d-40bd-a3d7-08c87c9ef841@fa54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231201T073000Z
-LOCATION:24-314
-DTSTART:20231201T060000Z
-SUMMARY:ПЗ Надежность аэрокосмических систем
-UID:c38ca6aa-8005-49c0-89e4-59758d02b9b9@c38c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231020T113000Z
-LOCATION:24-314
-DTSTART:20231020T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:8c1d7e6e-48b3-4ed5-bcca-64123aebbca0@8c1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20230908T091500Z
-LOCATION:24-314
-DTSTART:20230908T074500Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:c1aee40d-395b-4bff-9576-820315491cac@c1ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20230911T073000Z
-LOCATION:24-316Б
-DTSTART:20230911T060000Z
-SUMMARY:ПЗ Основы научных исследований
-UID:19731408-31a2-45ef-b378-e618dfe693d0@1973.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20230902T073000Z
-LOCATION:24-314
-DTSTART:20230902T060000Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:568f1a5a-cf51-4426-8b46-8a5cb3333155@568f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231014T073000Z
-LOCATION:24-314
-DTSTART:20231014T060000Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:f03fb1df-7c5b-4a8b-8161-aaee34af5492@f03f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231024T091500Z
-LOCATION:24-318А
-DTSTART:20231024T074500Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:7053acd0-6695-40ce-9ef4-71a4e105834e@7053.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231226T113000Z
-LOCATION:24-316Б
-DTSTART:20231226T100000Z
-SUMMARY:ЛК Управление в организационных системах
-UID:42c0e8ab-776d-4509-8efc-43c30690e935@42c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231004T131500Z
-LOCATION:24-413
-DTSTART:20231004T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:abff17e3-d912-46ff-9367-e14c3f866ae6@abff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231114T113000Z
-LOCATION:24-316Б
-DTSTART:20231114T100000Z
-SUMMARY:ЛК Управление в организационных системах
-UID:74e82870-c330-4cb2-be3d-94b565fb0303@74e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230901T113000Z
-LOCATION:24-314
-DTSTART:20230901T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:76e2ab80-a3d5-4c7b-9563-00fd074eb17b@76e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231017T073000Z
-LOCATION:5-122
-DTSTART:20231017T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:2d753197-e594-47ce-84d8-7debaea70444@2d75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231028T073000Z
-LOCATION:24-314
-DTSTART:20231028T060000Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:dbe3fd30-3a67-4c26-a28b-6b188531b0d2@dbe3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231028T091500Z
-LOCATION:24-314
-DTSTART:20231028T074500Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:9e89b571-dce8-4426-8fce-b79d2687b67e@9e89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231118T073000Z
-LOCATION:24-314
-DTSTART:20231118T060000Z
-SUMMARY:ЛР Динамическое проектирование систем управления ЛА
-UID:71fcb398-aad9-461a-86a1-c0d4290f740c@71fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231128T113000Z
-LOCATION:24-316Б
-DTSTART:20231128T100000Z
-SUMMARY:ЛК Управление в организационных системах
-UID:382fdc7f-54bf-4798-aabe-5940fe33f211@382f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231106T091500Z
-LOCATION:5-401
-DTSTART:20231106T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:76386036-9ebd-4fb1-8d90-101831e2ec2b@7638.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231220T131500Z
-LOCATION:24-413
-DTSTART:20231220T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:4fa5b90f-b139-468e-8788-884c3b5c7fbe@4fa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231003T113000Z
-LOCATION:24-316Б
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Управление в организационных системах
-UID:1ba66455-925d-4981-8fc1-68c88ebf03ba@1ba6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231121T073000Z
-LOCATION:24-318А
-DTSTART:20231121T060000Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:11e90c3a-8e40-4906-be12-2f58ba13a7e9@11e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230905T091500Z
-LOCATION:5-122
-DTSTART:20230905T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:39369671-5a5c-4a89-89ff-2be8513ab89c@3936.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20230922T131500Z
-LOCATION:24-314
-DTSTART:20230922T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:b99dc5d9-7495-4aad-941c-16f57d98ab77@b99d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231229T073000Z
-LOCATION:24-314
-DTSTART:20231229T060000Z
-SUMMARY:ПЗ Надежность аэрокосмических систем
-UID:48c26a5c-8d1b-4426-a650-df66a2c98d1e@48c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231101T150000Z
-LOCATION:24-715
-DTSTART:20231101T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:e24f6d7b-f0bc-415f-9493-28b2a6c590da@e24f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231021T073000Z
-LOCATION:24-314
-DTSTART:20231021T060000Z
-SUMMARY:ЛР Динамическое проектирование систем управления ЛА
-UID:7caf554e-3a51-4a89-937e-427a1d7f555d@7caf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231020T131500Z
-LOCATION:24-314
-DTSTART:20231020T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:9eeccd20-e0e9-4e2f-acd3-5da2b47a5bf2@9eec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231006T131500Z
-LOCATION:24-314
-DTSTART:20231006T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:c27759cf-55d4-466e-8201-c03f7d87415f@c277.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231222T091500Z
-LOCATION:24-314
-DTSTART:20231222T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:49ff88f9-5a3d-4e5a-a365-428848a60c58@49ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231202T073000Z
-LOCATION:24-314
-DTSTART:20231202T060000Z
-SUMMARY:ЛР Динамическое проектирование систем управления ЛА
-UID:ab534e3e-49b7-4774-81f9-baec608e0711@ab53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231004T113000Z
-LOCATION:24-711
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:ea35d0c6-756c-4a56-9491-6a26cd731627@ea35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230922T073000Z
-LOCATION:24-314
-DTSTART:20230922T060000Z
-SUMMARY:ПЗ Надежность аэрокосмических систем
-UID:e5554bd7-1c1b-42e4-99f7-24acc28ca3b1@e555.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231027T091500Z
-LOCATION:24-314
-DTSTART:20231027T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:f97fc38d-1406-4632-8dc8-b6c2c2a77ae8@f97f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230904T113000Z
-LOCATION:5-101
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Экология
-UID:e7654796-8c2d-43eb-bffa-a1e57523ea39@e765.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231220T150000Z
-LOCATION:24-715
-DTSTART:20231220T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:353199a4-f860-4e6d-837e-fa0466f5b351@3531.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231213T131500Z
-LOCATION:24-413
-DTSTART:20231213T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:20b671b6-17a0-4afd-9c32-dac38aa84a77@20b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231204T091500Z
-LOCATION:5-401
-DTSTART:20231204T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:eb74a32f-6ad7-42ed-879c-ae972e05a1ba@eb74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231025T150000Z
-LOCATION:24-715
-DTSTART:20231025T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:a2c8dfb9-b2ac-4ea9-bf01-38fa537f0486@a2c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230906T150000Z
-LOCATION:24-715
-DTSTART:20230906T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:478e276a-5a16-48a5-bb85-a2b5f159c683@478e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230911T113000Z
-LOCATION:5-101
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Экология
-UID:5af7b054-eeeb-4b8c-a9f4-8ebbdbb0bfac@5af7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231017T113000Z
-LOCATION:24-316Б
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Управление в организационных системах
-UID:ec3c9523-6f59-40f6-8efd-3631f3975d8d@ec3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231107T131500Z
-LOCATION:24-316Б
-DTSTART:20231107T114500Z
-SUMMARY:ЛР Управление в организационных системах
-UID:ad1450a2-d232-45be-b5a6-da28fb6082f8@ad14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230912T091500Z
-LOCATION:24-318А
-DTSTART:20230912T074500Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:3a23a0f8-1037-47d5-be26-efe023d7f957@3a23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231117T113000Z
-LOCATION:24-314
-DTSTART:20231117T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:60d6f316-4caa-432d-b086-01431da721c3@60d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231114T131500Z
-LOCATION:24-316Б
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Управление в организационных системах
-UID:004ee171-fb17-4b24-92ad-7016199e2de3@004e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230913T131500Z
-LOCATION:24-413
-DTSTART:20230913T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:f0e2824d-8c71-4af4-8649-d60f48dbb9db@f0e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231110T091500Z
-LOCATION:24-314
-DTSTART:20231110T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:23c53c9d-b778-4bec-8b7b-304cb79691b5@23c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230918T113000Z
-LOCATION:5-101
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Экология
-UID:e69f715b-f69f-4068-9497-febdb1c6d175@e69f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230919T073000Z
-LOCATION:5-122
-DTSTART:20230919T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:006059a4-509d-4386-96e6-4073a0a55fa8@0060.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231206T131500Z
-LOCATION:24-413
-DTSTART:20231206T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:b3cc94c9-dbf0-4826-bf59-48d8266cc633@b3cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231120T113000Z
-LOCATION:5-101
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Экология
-UID:8e8df3ea-37da-44f9-9e83-763468186a32@8e8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231204T131500Z
-LOCATION:24-502
-DTSTART:20231204T114500Z
-SUMMARY:ЛК Системный анализ
-UID:ae81a929-a1fd-4f8e-8c62-d1e82b4dcfae@ae81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231003T073000Z
-LOCATION:5-122
-DTSTART:20231003T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:edcd3d6b-1c68-47b7-b43f-9e460d3c3627@edcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231108T150000Z
-LOCATION:24-715
-DTSTART:20231108T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:6ca10e65-1c17-4efa-9cf7-f924106d4a12@6ca1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231201T113000Z
-LOCATION:24-314
-DTSTART:20231201T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:ede49cba-694c-43fb-b3c4-0c0ddc717482@ede4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231216T113000Z
-LOCATION:24-314
-DTSTART:20231216T100000Z
-SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
-UID:4c81c597-2bb4-4418-bddb-623d0589da20@4c81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231017T131500Z
-LOCATION:24-316Б
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Управление в организационных системах
-UID:d6fb996d-31fe-4010-8c28-4c4837ff2c12@d6fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231201T091500Z
-LOCATION:24-314
-DTSTART:20231201T074500Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:91ddb41e-5f29-4575-bbe1-b3dff18541f4@91dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20230919T131500Z
-LOCATION:24-316Б
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Управление в организационных системах
-UID:a8a227ac-3a55-43d5-8d62-f7c28b6423d9@a8a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231010T131500Z
-LOCATION:24-316Б
-DTSTART:20231010T114500Z
-SUMMARY:ПЗ Управление в организационных системах
-UID:0aa96452-6b57-448f-b2f6-8be8b6fd92ab@0aa9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20230922T091500Z
-LOCATION:24-314
-DTSTART:20230922T074500Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:f87be960-c740-47b4-8db4-390ecafb252c@f87b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231103T113000Z
-LOCATION:24-314
-DTSTART:20231103T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:730b6ed2-1bd9-44f5-af04-fba9e1d8f8e2@730b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231107T073000Z
-LOCATION:24-318А
-DTSTART:20231107T060000Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:a4edc97e-8397-4b93-870e-c5b34fe5834a@a4ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20230919T113000Z
-LOCATION:24-316Б
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Управление в организационных системах
-UID:cb15168d-d065-4ca4-a564-08f209bf84ce@cb15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231002T113000Z
-LOCATION:5-101
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Экология
-UID:1fcdda14-557d-4440-b88c-4620b4e77ad2@1fcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231010T113000Z
-LOCATION:24-316Б
-DTSTART:20231010T100000Z
-SUMMARY:ПЗ Управление в организационных системах
-UID:67eef8cd-407a-477b-8314-265c6c41f3b7@67ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231108T091500Z
-LOCATION:24-715
-DTSTART:20231108T074500Z
-SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
-UID:b1d90b6a-5766-46f8-8ec1-7ce67a911b60@b1d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231107T113000Z
-LOCATION:24-316Б
-DTSTART:20231107T100000Z
-SUMMARY:ЛР Управление в организационных системах
-UID:efaf7517-38d7-420c-ae9a-d6b13cb7a962@efaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231122T113000Z
-LOCATION:24-711
-DTSTART:20231122T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:9d4b650d-f72b-4ce1-ba53-233164c2f475@9d4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231128T073000Z
-LOCATION:3-119б
-DTSTART:20231128T060000Z
-SUMMARY:ЛР Экология
-UID:4e999c9f-c8eb-4b5a-b47c-7aa6a08d9aae@4e99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230925T113000Z
-LOCATION:5-101
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Экология
-UID:a4b1d85a-d6c4-4f0d-9fbb-78b671a3d095@a4b1.org
+UID:22f47cb4-621d-4382-b33c-85b02f3c3ef5@22f4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Балыбердин Юрий Александрович
@@ -1631,343 +15,71 @@ DTEND:20231025T113000Z
 LOCATION:24-711
 DTSTART:20231025T100000Z
 SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:58b6ba15-4577-4c9f-8fcb-dcaae11ea0a1@58b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231227T131500Z
-LOCATION:24-413
-DTSTART:20231227T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:91186e8d-b28c-41f5-bc2f-3321d6fbc430@9118.org
+UID:7d3bf5ac-1188-4664-936a-849fbd40f1f8@7d3b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231115T150000Z
+DTEND:20230927T150000Z
 LOCATION:24-715
-DTSTART:20231115T133000Z
+DTSTART:20230927T133000Z
 SUMMARY:ПЗ Системный анализ
-UID:b21d7334-278a-4367-bd22-fe4fcfdf6937@b21d.org
+UID:75bc4189-77bc-4db4-abc4-fed42c18b08a@75bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20230930T091500Z
+LOCATION:24-314
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:36e25e90-5d4c-4baf-b1b9-5bd06b593508@36e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230925T091500Z
+LOCATION:5-401
+DTSTART:20230925T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:b5db4f67-16f8-4ddc-ac96-6f3048332fc5@b5db.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20230912T113000Z
+DTEND:20231107T113000Z
 LOCATION:24-316Б
-DTSTART:20230912T100000Z
+DTSTART:20231107T100000Z
+SUMMARY:ЛР Управление в организационных системах
+UID:29658b3f-2ab0-4b71-a33c-c8aece00203a@2965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231010T113000Z
+LOCATION:24-316Б
+DTSTART:20231010T100000Z
 SUMMARY:ПЗ Управление в организационных системах
-UID:c1a3d6a2-839e-4a08-ab4a-c281e4000f73@c1a3.org
+UID:1738ca0a-10b8-47b9-96bc-cdfddca97ac9@1738.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231128T131500Z
+DTEND:20230925T073000Z
 LOCATION:24-316Б
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Управление в организационных системах
-UID:b86c4b1c-4a79-4aa5-a16a-a79401bdc417@b86c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231216T131500Z
-LOCATION:24-314
-DTSTART:20231216T114500Z
-SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
-UID:d34eeba4-02f6-48d7-a164-c6d9d9f67bfc@d34e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231107T091500Z
-LOCATION:24-318А
-DTSTART:20231107T074500Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:01103062-862a-4441-9a02-dcb47e52b392@0110.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231222T113000Z
-LOCATION:24-314
-DTSTART:20231222T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:604bc53d-9f0e-4a5d-9793-11eea49b6d3c@604b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20230916T073000Z
-LOCATION:24-314
-DTSTART:20230916T060000Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:dabcacbb-88c1-4547-b689-8d731af510ba@dabc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230904T091500Z
-LOCATION:5-401
-DTSTART:20230904T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:7a7f4d5c-11bf-4999-b6cc-982d14c0fbfd@7a7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231208T113000Z
-LOCATION:24-314
-DTSTART:20231208T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:668f3e91-8b38-4dc5-a45c-dba477c6837c@668f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20230930T073000Z
-LOCATION:24-314
-DTSTART:20230930T060000Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:ade5e022-ecad-4000-ac7a-30bd68b78cc5@ade5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231121T091500Z
-LOCATION:24-318А
-DTSTART:20231121T074500Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:bd3af755-f2d1-4a1e-b167-1a43632cdbaa@bd3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231202T091500Z
-LOCATION:24-314
-DTSTART:20231202T074500Z
-SUMMARY:ЛР Динамическое проектирование систем управления ЛА
-UID:247228c7-a0d9-4b79-9d28-c8385c3876bd@2472.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231110T113000Z
-LOCATION:24-314
-DTSTART:20231110T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:fbb4b605-8cbb-4a27-b6b5-afb271aa5bbd@fbb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231202T131500Z
-LOCATION:24-314
-DTSTART:20231202T114500Z
-SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
-UID:96e308dd-5053-4836-9b21-bce3e8969ebf@96e3.org
+DTSTART:20230925T060000Z
+SUMMARY:ПЗ Основы научных исследований
+UID:a66011e5-7cbc-4ebf-a87c-4e7779f49766@a660.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зонов Николай Иванович
-DTEND:20231117T131500Z
+DTEND:20231020T113000Z
 LOCATION:24-314
-DTSTART:20231117T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:e895b5a1-b6ea-4880-b842-86d995f47da5@e895.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231122T091500Z
-LOCATION:24-715
-DTSTART:20231122T074500Z
-SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
-UID:342faafa-25aa-4144-b191-031bc46b008a@342f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231209T073000Z
-LOCATION:24-314
-DTSTART:20231209T060000Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:eb12eb85-833d-4407-8343-ca9997b178ad@eb12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231125T091500Z
-LOCATION:24-314
-DTSTART:20231125T074500Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:2688781b-2c72-444b-88a5-3c1e888889c1@2688.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230911T091500Z
-LOCATION:5-401
-DTSTART:20230911T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:cd5e8043-8531-4ae4-9d95-19346e5b6503@cd5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230913T150000Z
-LOCATION:24-715
-DTSTART:20230913T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:de093ca9-20fa-44b5-bbf4-b6d391db6eac@de09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231111T073000Z
-LOCATION:24-314
-DTSTART:20231111T060000Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:755339eb-8337-4f38-ac91-9f0b52cab0bb@7553.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20230927T091500Z
-LOCATION:24-715
-DTSTART:20230927T074500Z
-SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
-UID:2f62a369-5a33-428c-abe7-37c634c8bca4@2f62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231006T113000Z
-LOCATION:24-314
-DTSTART:20231006T100000Z
+DTSTART:20231020T100000Z
 SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:8bc1976b-6a03-4922-823c-1c7e204a0f1a@8bc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231113T091500Z
-LOCATION:5-401
-DTSTART:20231113T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:42271b93-cc31-41f8-8359-d2e64cf8297b@4227.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231208T091500Z
-LOCATION:24-314
-DTSTART:20231208T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:fa587e8d-f56f-4097-81db-c571d8762e0f@fa58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230904T073000Z
-LOCATION:24-316Б
-DTSTART:20230904T060000Z
-SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
-UID:e1f353f2-f058-4950-b3fd-4cc1bea13a16@e1f3.org
+UID:8b1cb256-a3ff-4946-9f54-056f46f53342@8b1c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231016T131500Z
-LOCATION:24-502
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Системный анализ
-UID:e1fdcc06-b890-4bbb-844c-e06d38840b26@e1fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231018T131500Z
-LOCATION:24-413
-DTSTART:20231018T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:435c96ac-3cce-4e19-ba43-e87e2f361c7e@435c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230918T091500Z
-LOCATION:5-401
-DTSTART:20230918T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:29d0803f-8910-44f2-b06b-37896842c884@29d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230925T131500Z
-LOCATION:24-502
-DTSTART:20230925T114500Z
-SUMMARY:ЛК Системный анализ
-UID:ad5cc0fd-3674-4c76-9e95-071c292b688f@ad5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231002T073000Z
-LOCATION:24-316Б
-DTSTART:20231002T060000Z
-SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
-UID:cc4be5d2-e58c-40e9-b237-22b9b5b6b73e@cc4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231227T113000Z
-LOCATION:24-711
-DTSTART:20231227T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:da8fe8d8-aa54-42b0-8c1c-fe6e9daf3261@da8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балыбердин Юрий Александрович
-DTEND:20231011T113000Z
-LOCATION:24-711
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Интеллектуальные технологии и представление знаний
-UID:87dab816-538e-4ec6-af06-c7d1d75cf1a1@87da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230915T113000Z
-LOCATION:24-314
-DTSTART:20230915T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:fa0e0364-24bf-4086-a1d7-29b57aaca75c@fa0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20231118T131500Z
-LOCATION:24-314
-DTSTART:20231118T114500Z
-SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
-UID:bc6dc09a-c5dd-4dda-a24e-cea9cea4da5a@bc6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моисеев Дмитрий Викторович
-DTEND:20231212T113000Z
-LOCATION:24-316Б
-DTSTART:20231212T100000Z
-SUMMARY:ЛК Управление в организационных системах
-UID:6a6c1b31-014e-44c3-a528-858d562df0f8@6a6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зонов Николай Иванович
-DTEND:20231103T131500Z
-LOCATION:24-314
-DTSTART:20231103T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:5f8ced5d-9ede-4182-a6de-58492f2ec502@5f8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20230916T091500Z
-LOCATION:24-314
-DTSTART:20230916T074500Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:6d4ebe69-1b57-4916-9bab-abc249bdb004@6d4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231025T131500Z
-LOCATION:24-413
-DTSTART:20231025T114500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:4f3a62bf-307f-4436-bbb0-32429451f66b@4f3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Розин Петр Евгеньевич
-DTEND:20230902T091500Z
-LOCATION:24-314
-DTSTART:20230902T074500Z
-SUMMARY:ЛК Динамическое проектирование систем управления ЛА
-UID:cafde94d-0875-4880-b205-4da17aec65a0@cafd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231016T073000Z
-LOCATION:24-316Б
-DTSTART:20231016T060000Z
-SUMMARY:ПЗ Надежность аэрокосмических систем
-UID:3712480a-41f2-4408-8343-bc2e8877335a@3712.org
+DTEND:20230920T150000Z
+LOCATION:24-715
+DTSTART:20230920T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:8d665afe-bb42-4542-a7da-9e885808c689@8d66.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Малышев Вениамин Васильевич
@@ -1975,7 +87,423 @@ DTEND:20231113T131500Z
 LOCATION:24-502
 DTSTART:20231113T114500Z
 SUMMARY:ЛК Системный анализ
-UID:8c409657-1e9b-4941-9fcc-4b29ac5bd24d@8c40.org
+UID:7c08474e-dd57-4154-953e-e3414eb268f8@7c08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231127T131500Z
+LOCATION:24-502
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Системный анализ
+UID:0f5a2b43-f4a9-4d51-919a-acb7d824f967@0f5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231124T091500Z
+LOCATION:24-314
+DTSTART:20231124T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:bfb3b92c-8fdc-46ea-89e9-83db9ae7f1a2@bfb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231117T073000Z
+LOCATION:24-314
+DTSTART:20231117T060000Z
+SUMMARY:ПЗ Надежность аэрокосмических систем
+UID:543821d6-9174-4a5e-9646-93fbe82bb9d0@5438.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231226T131500Z
+LOCATION:24-316Б
+DTSTART:20231226T114500Z
+SUMMARY:ЛК Управление в организационных системах
+UID:39c55097-083c-41bc-83a9-39ca8af6c745@39c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231009T091500Z
+LOCATION:5-401
+DTSTART:20231009T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:47685c9b-438a-4a7f-9b43-69c93e255682@4768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231111T073000Z
+LOCATION:24-314
+DTSTART:20231111T060000Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:78181e21-acec-4bd9-ab4d-d1e3c66d046f@7818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20230913T113000Z
+LOCATION:24-711
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:1ddb7601-dc6e-423d-9ee1-f0c733854fec@1ddb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231115T131500Z
+LOCATION:24-413
+DTSTART:20231115T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:4dc63c17-6d59-4fa3-980f-d4598a28759c@4dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231129T131500Z
+LOCATION:24-413
+DTSTART:20231129T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:511f679a-2147-4786-a89f-b22b0d6c8dac@511f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231206T091500Z
+LOCATION:24-715
+DTSTART:20231206T074500Z
+SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
+UID:cc23f2b6-b46d-4c26-8eaf-b2c527384152@cc23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231202T131500Z
+LOCATION:24-314
+DTSTART:20231202T114500Z
+SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
+UID:b0e0a613-5aff-482b-aaeb-5cbc31ba3e32@b0e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20230912T113000Z
+LOCATION:24-316Б
+DTSTART:20230912T100000Z
+SUMMARY:ПЗ Управление в организационных системах
+UID:345cbddf-e968-4544-990b-4e6b6c06bb1c@345c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231018T150000Z
+LOCATION:24-715
+DTSTART:20231018T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:b776ad37-d40f-49f2-86d4-af95aaf08ba7@b776.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20230902T073000Z
+LOCATION:24-314
+DTSTART:20230902T060000Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:531ec7b1-edd3-4c39-93cb-8568333cde77@531e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230901T091500Z
+LOCATION:24-314
+DTSTART:20230901T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:07e1e128-e76a-4f0b-a9c8-b6ee17136d3e@07e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20230926T131500Z
+LOCATION:24-316Б
+DTSTART:20230926T114500Z
+SUMMARY:ПЗ Управление в организационных системах
+UID:5ca4988f-b545-42b5-897f-676cf277f212@5ca4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231002T091500Z
+LOCATION:5-401
+DTSTART:20231002T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:d5d2a4f3-c67c-4c06-88d0-f807ec875b4e@d5d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230905T073000Z
+LOCATION:5-122
+DTSTART:20230905T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:f64349b4-1084-4b88-ad5d-bc02407c4f35@f643.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231004T113000Z
+LOCATION:24-711
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:5b889dac-e88e-4bb8-974a-bfce87eae79c@5b88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231023T113000Z
+LOCATION:5-101
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Экология
+UID:dc725276-376f-4341-8457-d8264dc5be6e@dc72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231031T113000Z
+LOCATION:24-316Б
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Управление в организационных системах
+UID:bd6fb59a-eea6-44ac-9cb3-7361847cbc07@bd6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231006T131500Z
+LOCATION:24-314
+DTSTART:20231006T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:64b75ebd-fe1e-418c-be9c-2328a033d4da@64b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231215T073000Z
+LOCATION:24-314
+DTSTART:20231215T060000Z
+SUMMARY:ПЗ Надежность аэрокосмических систем
+UID:189a1acb-6097-4991-8578-b372d30d9511@189a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231108T150000Z
+LOCATION:24-715
+DTSTART:20231108T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:db4304d2-4114-455f-812e-f20eca8e9b86@db43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231120T091500Z
+LOCATION:5-401
+DTSTART:20231120T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:5d78f27a-025a-4632-9287-f1de58f3c3d2@5d78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231202T113000Z
+LOCATION:24-314
+DTSTART:20231202T100000Z
+SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
+UID:4da26e9a-1fb6-4a4a-8f4f-d7e7da8e5ab3@4da2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231122T091500Z
+LOCATION:24-715
+DTSTART:20231122T074500Z
+SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
+UID:45f7b9a6-09ea-46c9-b742-a7ced409131e@45f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231017T113000Z
+LOCATION:24-316Б
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Управление в организационных системах
+UID:20caedae-b4a0-43fa-b219-2ea5f94682de@20ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231107T131500Z
+LOCATION:24-316Б
+DTSTART:20231107T114500Z
+SUMMARY:ЛР Управление в организационных системах
+UID:b103e7ed-5764-4f16-b462-0f427768980e@b103.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231216T131500Z
+LOCATION:24-314
+DTSTART:20231216T114500Z
+SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
+UID:944f9755-90d8-4929-80bb-d4a9ad78d419@944f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20230920T113000Z
+LOCATION:24-711
+DTSTART:20230920T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:6fd5e5a9-3fef-44dc-9a8b-8c870cc6593f@6fd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231016T113000Z
+LOCATION:5-101
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Экология
+UID:eeee5fa6-8c69-4733-a087-3e0689a6843d@eeee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20230913T091500Z
+LOCATION:24-715
+DTSTART:20230913T074500Z
+SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
+UID:b615f454-604d-4b3c-9500-bd6c3963d4f3@b615.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231024T073000Z
+LOCATION:24-318А
+DTSTART:20231024T060000Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:445a9fbb-0ff9-4a63-9ff6-c476c1e52ff8@445a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20230919T131500Z
+LOCATION:24-316Б
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Управление в организационных системах
+UID:8867f7e4-7e4d-45ee-8343-caf42e10d272@8867.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231128T113000Z
+LOCATION:24-316Б
+DTSTART:20231128T100000Z
+SUMMARY:ЛК Управление в организационных системах
+UID:0ddb5116-14d3-4a89-b238-56e97599c4c1@0ddb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231205T073000Z
+LOCATION:24-318А
+DTSTART:20231205T060000Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:ac8ba73a-6c52-49a0-8395-546f10e15415@ac8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231014T091500Z
+LOCATION:24-314
+DTSTART:20231014T074500Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:8066f8a9-a9fe-4fb8-b38f-cbcfe8cc6b01@8066.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231115T113000Z
+LOCATION:24-711
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:011fb305-7122-4a56-91dd-f52983ca2dbd@011f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231002T073000Z
+LOCATION:24-316Б
+DTSTART:20231002T060000Z
+SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
+UID:6c166129-6b87-4398-a606-4f814f933320@6c16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231106T091500Z
+LOCATION:5-401
+DTSTART:20231106T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:6acd7ab3-2a6c-47ad-8369-5fd8cc6f0460@6acd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231118T113000Z
+LOCATION:24-314
+DTSTART:20231118T100000Z
+SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
+UID:bcbccfbf-7f91-49c7-9ed3-db0f66d6615a@bcbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231114T073000Z
+LOCATION:3-119б
+DTSTART:20231114T060000Z
+SUMMARY:ЛР Экология
+UID:1aca2b2d-34e0-4c8e-8d8b-93eca9537373@1aca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231017T131500Z
+LOCATION:24-316Б
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Управление в организационных системах
+UID:1f40ed42-5d22-4fb0-8acb-7583ce3d2838@1f40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231125T091500Z
+LOCATION:24-314
+DTSTART:20231125T074500Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:a77eba82-8ddc-42ca-82c8-61d1114ca0d7@a77e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231220T131500Z
+LOCATION:24-413
+DTSTART:20231220T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:ff6bfa83-917e-41f4-a788-c9c3ea192535@ff6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231103T131500Z
+LOCATION:24-314
+DTSTART:20231103T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:99db1cc3-ce2c-4710-b8fd-b37bf5bb64e2@99db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231011T150000Z
+LOCATION:24-715
+DTSTART:20231011T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:e2c2bc87-2ede-47c1-818d-006fa19ba9e9@e2c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231014T073000Z
+LOCATION:24-314
+DTSTART:20231014T060000Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:d1810861-dea0-46a2-9776-ffa393e89277@d181.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231122T113000Z
+LOCATION:24-711
+DTSTART:20231122T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:b6bca62f-f593-4662-acd6-70dbebe8d711@b6bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20230916T073000Z
+LOCATION:24-314
+DTSTART:20230916T060000Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:2fd97c24-60d6-46b2-b15e-ec041442f387@2fd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231004T131500Z
+LOCATION:24-413
+DTSTART:20231004T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:bfb258d3-f204-479e-8359-10b2777a748e@bfb2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зонов Николай Иванович
@@ -1983,7 +511,1287 @@ DTEND:20231215T131500Z
 LOCATION:24-314
 DTSTART:20231215T114500Z
 SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:6ab5d761-3a29-4060-8fd1-f394a185a3a7@6ab5.org
+UID:ad105c37-c415-47b9-99ca-e4d676b704e3@ad10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231220T091500Z
+LOCATION:24-715
+DTSTART:20231220T074500Z
+SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
+UID:26a5508c-7203-4ef4-a37e-2c446bf5ec43@26a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230919T073000Z
+LOCATION:5-122
+DTSTART:20230919T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:c40d052f-f81a-4c99-afdb-673e982e8415@c40d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231124T113000Z
+LOCATION:24-314
+DTSTART:20231124T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:66e63f85-c1ab-4694-8f90-cf205ced49f0@66e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20230922T091500Z
+LOCATION:24-314
+DTSTART:20230922T074500Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:1a789772-cd1d-4077-a963-d752f68caa81@1a78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231016T091500Z
+LOCATION:5-401
+DTSTART:20231016T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:24fe7802-9835-4a95-a414-d4de7b7d1528@24fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231030T113000Z
+LOCATION:5-101
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Экология
+UID:aebb7b4c-fe2f-4161-bf7c-48cd93e30b95@aebb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231226T113000Z
+LOCATION:24-316Б
+DTSTART:20231226T100000Z
+SUMMARY:ЛК Управление в организационных системах
+UID:bcaa1b8b-ad09-48ee-b263-243ffce2ea91@bcaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231011T113000Z
+LOCATION:24-711
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:73df9f61-2c23-41dd-adc1-536a05c552af@73df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231003T073000Z
+LOCATION:5-122
+DTSTART:20231003T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:711d767d-1ced-4e8f-958d-00188b6dd923@711d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231025T150000Z
+LOCATION:24-715
+DTSTART:20231025T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:0ca58599-6010-4bb4-ab34-55827c1f318f@0ca5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231128T091500Z
+LOCATION:3-119б
+DTSTART:20231128T074500Z
+SUMMARY:ЛР Экология
+UID:34eb2f64-c0e3-44e7-8b19-3a21af81d96f@34eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231018T131500Z
+LOCATION:24-413
+DTSTART:20231018T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:a2b8c51e-5fae-4d53-94fa-fdbdd6ea7ef3@a2b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231107T091500Z
+LOCATION:24-318А
+DTSTART:20231107T074500Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:b0687bad-3670-4add-82f5-6e5fa2db0e2a@b068.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230911T131500Z
+LOCATION:24-502
+DTSTART:20230911T114500Z
+SUMMARY:ЛК Системный анализ
+UID:55ff30e5-76f7-4ec4-bbc4-8529850f910c@55ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20230908T113000Z
+LOCATION:24-314
+DTSTART:20230908T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:91f462ab-9021-46f4-a281-3a29d2adcd64@91f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20230905T113000Z
+LOCATION:24-316Б
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Управление в организационных системах
+UID:560faf5b-0803-4368-87ae-b0de1dc5abc2@560f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231003T113000Z
+LOCATION:24-316Б
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Управление в организационных системах
+UID:0261afe6-3faf-4125-a534-a373dec87992@0261.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231021T091500Z
+LOCATION:24-314
+DTSTART:20231021T074500Z
+SUMMARY:ЛР Динамическое проектирование систем управления ЛА
+UID:8f5fdc20-e666-4cf7-a6b6-49076ea1bbd2@8f5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231125T073000Z
+LOCATION:24-314
+DTSTART:20231125T060000Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:88885545-c39e-4b6c-87db-64abc782e156@8888.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230904T113000Z
+LOCATION:5-101
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Экология
+UID:b7e33b29-472d-4a2f-970a-f831fa2d7ed5@b7e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231120T073000Z
+LOCATION:24-316Б
+DTSTART:20231120T060000Z
+SUMMARY:ПЗ Основы научных исследований
+UID:a824ddea-6641-4aa8-b687-4b6a570d7b2f@a824.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231020T131500Z
+LOCATION:24-314
+DTSTART:20231020T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:4cc9cb9f-6723-4e2d-9f62-852a2c0adfa2@4cc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231213T131500Z
+LOCATION:24-413
+DTSTART:20231213T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:20a2e434-8a1e-4f43-ad21-b23841568267@20a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231030T091500Z
+LOCATION:5-401
+DTSTART:20231030T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:4354a770-1c4f-4927-93ad-253225cc72a1@4354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231206T113000Z
+LOCATION:24-711
+DTSTART:20231206T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:8b951eaf-ab15-4ab2-b318-28518f6d98f7@8b95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231208T113000Z
+LOCATION:24-314
+DTSTART:20231208T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:b314982f-0a63-4df3-8f12-8834dfa6ee55@b314.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231009T073000Z
+LOCATION:24-316Б
+DTSTART:20231009T060000Z
+SUMMARY:ПЗ Основы научных исследований
+UID:92ee752b-5e5d-4524-8ed6-321145c47d03@92ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231108T091500Z
+LOCATION:24-715
+DTSTART:20231108T074500Z
+SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
+UID:d3f4a4a8-5242-4842-a9cb-a9a6e190a2db@d3f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231003T091500Z
+LOCATION:5-122
+DTSTART:20231003T074500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:22ba5fd0-c2a0-4b2d-9e05-7396fbe1abe2@22ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231117T091500Z
+LOCATION:24-314
+DTSTART:20231117T074500Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:cbb5cd76-183f-4627-b87f-4caf7ec0238c@cbb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231114T091500Z
+LOCATION:3-119б
+DTSTART:20231114T074500Z
+SUMMARY:ЛР Экология
+UID:a1db55d7-2cc4-4db0-ad26-4722d4594425@a1db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230911T113000Z
+LOCATION:5-101
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Экология
+UID:1c6e3f4a-5fdb-4b42-bca4-63f568eae0c5@1c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231212T131500Z
+LOCATION:24-316Б
+DTSTART:20231212T114500Z
+SUMMARY:ЛК Управление в организационных системах
+UID:5c75d027-ab40-40a5-98e5-4e47bd5731e3@5c75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231024T131500Z
+LOCATION:24-316Б
+DTSTART:20231024T114500Z
+SUMMARY:ЛР Управление в организационных системах
+UID:de35899e-c326-4c5c-8205-45033ee99d1d@de35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230929T113000Z
+LOCATION:24-314
+DTSTART:20230929T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:4668cd64-0954-4a82-8b42-b8a23f7b786b@4668.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231213T113000Z
+LOCATION:24-711
+DTSTART:20231213T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:9dd8a5c5-8eee-4034-b54e-9dce7fb4bb7d@9dd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231025T091500Z
+LOCATION:24-715
+DTSTART:20231025T074500Z
+SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
+UID:db6560b2-4e1d-4757-b8ac-ef751dd5a5b3@db65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230922T073000Z
+LOCATION:24-314
+DTSTART:20230922T060000Z
+SUMMARY:ПЗ Надежность аэрокосмических систем
+UID:304994bd-1c99-4b89-a4cc-8935ac5bb0d0@3049.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231114T131500Z
+LOCATION:24-316Б
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Управление в организационных системах
+UID:220c1efc-2c59-45f0-a8be-b11f60fc3f06@220c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231218T131500Z
+LOCATION:24-502
+DTSTART:20231218T114500Z
+SUMMARY:ЛК Системный анализ
+UID:5bf0a402-fbe6-46c6-92d1-70de06c584cf@5bf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231220T113000Z
+LOCATION:24-711
+DTSTART:20231220T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:4494b40f-7ba2-4661-b4b3-858c39017f0f@4494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231028T091500Z
+LOCATION:24-314
+DTSTART:20231028T074500Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:8ad541f6-650a-45f7-b509-2757da716728@8ad5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230906T150000Z
+LOCATION:24-715
+DTSTART:20230906T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:f77a04ef-c0cc-4fac-b8a1-93b374a22d17@f77a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230918T131500Z
+LOCATION:24-502
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Системный анализ
+UID:2c19a85b-7a23-434b-93ea-ba7172a9f7bb@2c19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230927T131500Z
+LOCATION:24-413
+DTSTART:20230927T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:3ae2ac06-b3b7-4a17-b274-8ef2fc11d534@3ae2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231227T131500Z
+LOCATION:24-413
+DTSTART:20231227T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:8db3e5b5-6417-4ea0-9a16-eedadaee5f12@8db3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231222T091500Z
+LOCATION:24-314
+DTSTART:20231222T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:726b80b4-f245-432c-a9d3-acb291bf10d4@726b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231017T073000Z
+LOCATION:5-122
+DTSTART:20231017T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:0c0ae395-782a-4fd5-8f0a-852dda004dd2@0c0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231202T091500Z
+LOCATION:24-314
+DTSTART:20231202T074500Z
+SUMMARY:ЛР Динамическое проектирование систем управления ЛА
+UID:0b61dbe0-a06b-4ccd-ad21-8c28356f4111@0b61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231009T131500Z
+LOCATION:24-502
+DTSTART:20231009T114500Z
+SUMMARY:ЛК Системный анализ
+UID:7ffad39e-17ea-4f7e-8604-c8f6c12d814f@7ffa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231018T113000Z
+LOCATION:24-711
+DTSTART:20231018T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:3dcfd2af-1c07-4c25-a6fd-be850176f1dc@3dcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231121T091500Z
+LOCATION:24-318А
+DTSTART:20231121T074500Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:36ac409e-4e2e-4b8d-bc38-1f5211d5b843@36ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231103T073000Z
+LOCATION:24-314
+DTSTART:20231103T060000Z
+SUMMARY:ПЗ Надежность аэрокосмических систем
+UID:4299d733-4d62-4d39-85df-b37787852b1a@4299.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231122T131500Z
+LOCATION:24-413
+DTSTART:20231122T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:46cebb80-82ec-4d79-a4f8-53ad849e1ff7@46ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231222T113000Z
+LOCATION:24-314
+DTSTART:20231222T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:7ee9293c-e66c-4677-b007-9a7b04a68421@7ee9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231220T150000Z
+LOCATION:24-715
+DTSTART:20231220T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:52808f1e-6bce-44c5-8ab3-62fc7de1e125@5280.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231031T091500Z
+LOCATION:5-122
+DTSTART:20231031T074500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:c570b940-cc85-452d-99a2-56d35a114e5e@c570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231103T091500Z
+LOCATION:24-314
+DTSTART:20231103T074500Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:40f841f6-2805-47c3-a7f9-46784854c1f0@40f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231212T091500Z
+LOCATION:3-119б
+DTSTART:20231212T074500Z
+SUMMARY:ЛР Экология
+UID:3d45ef72-e5de-4d86-9545-7721d7d232dc@3d45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231024T113000Z
+LOCATION:24-316Б
+DTSTART:20231024T100000Z
+SUMMARY:ЛР Управление в организационных системах
+UID:caee4b2f-f947-4eb0-ba21-3e363a49f233@caee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231108T113000Z
+LOCATION:24-711
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:9bd0f9a5-ba70-42e5-adc5-bc1e10bbf86e@9bd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231213T150000Z
+LOCATION:24-715
+DTSTART:20231213T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:ed730f84-773b-471c-9de2-cc0c192bdf9d@ed73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231011T131500Z
+LOCATION:24-413
+DTSTART:20231011T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:eabc4999-76c9-4040-9b7a-a071f296bc8d@eabc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231225T131500Z
+LOCATION:24-502
+DTSTART:20231225T114500Z
+SUMMARY:ЛК Системный анализ
+UID:24f525f2-5f06-485d-b53f-d66391266f6d@24f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231206T131500Z
+LOCATION:24-413
+DTSTART:20231206T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:1a62e4d0-c8af-4632-a072-9810f634b2b9@1a62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231209T091500Z
+LOCATION:24-314
+DTSTART:20231209T074500Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:7532c4bb-7bb8-48d9-a672-96fa1c929bab@7532.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231110T113000Z
+LOCATION:24-314
+DTSTART:20231110T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:2fd01606-dbd2-4510-a1d4-f48d284df1b4@2fd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231006T091500Z
+LOCATION:24-314
+DTSTART:20231006T074500Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:ae54b939-e9d0-4af9-afe7-e10228b7b983@ae54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231028T073000Z
+LOCATION:24-314
+DTSTART:20231028T060000Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:3cf73d96-4fbe-4bc2-b99c-e34f90fe480a@3cf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20230922T131500Z
+LOCATION:24-314
+DTSTART:20230922T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:dcdebc08-c669-4051-8192-ad13e5e7c185@dcde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231117T131500Z
+LOCATION:24-314
+DTSTART:20231117T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:50c6fd10-f522-4c82-a9e5-5422cff77880@50c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231122T150000Z
+LOCATION:24-715
+DTSTART:20231122T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:5dd67431-e93c-4099-9e66-81e86e9b45f5@5dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230913T150000Z
+LOCATION:24-715
+DTSTART:20230913T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:eaa7fb2a-2dc7-4053-8c81-cb185a8bb9a9@eaa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231101T113000Z
+LOCATION:24-711
+DTSTART:20231101T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:55baf658-8da1-4a6f-94fd-1d826f7c4f07@55ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231115T150000Z
+LOCATION:24-715
+DTSTART:20231115T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:85781649-222f-4281-ad50-c930a03c6844@8578.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231113T113000Z
+LOCATION:5-101
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Экология
+UID:717acfff-e3e3-49a2-8d8e-e87a0761155e@717a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231009T113000Z
+LOCATION:5-101
+DTSTART:20231009T100000Z
+SUMMARY:ЛК Экология
+UID:e6d82810-9d55-44e3-b6ae-7443d3117def@e6d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231024T091500Z
+LOCATION:24-318А
+DTSTART:20231024T074500Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:054d216f-ef43-4644-8c74-6b74c565829b@054d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230913T131500Z
+LOCATION:24-413
+DTSTART:20230913T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:844b2918-c449-4d29-b19b-267dcac6af64@844b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230906T131500Z
+LOCATION:24-413
+DTSTART:20230906T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:d02f6ea4-e922-4207-8c6f-79e381a2f66e@d02f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231106T131500Z
+LOCATION:24-502
+DTSTART:20231106T114500Z
+SUMMARY:ЛК Системный анализ
+UID:47f72b46-deca-4d7d-a676-91d6899c054e@47f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231013T091500Z
+LOCATION:24-314
+DTSTART:20231013T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:c5da810b-2cad-4352-8e43-1e45f83fb727@c5da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231121T073000Z
+LOCATION:24-318А
+DTSTART:20231121T060000Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:02d0a8ea-f5ae-4716-818c-153b43a73cae@02d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231212T073000Z
+LOCATION:3-119б
+DTSTART:20231212T060000Z
+SUMMARY:ЛР Экология
+UID:a5288ca0-0d8c-4325-8360-abfb3de840f9@a528.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231017T091500Z
+LOCATION:5-122
+DTSTART:20231017T074500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:a02cc996-43e0-47fd-bec6-2d73714eebbc@a02c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231212T113000Z
+LOCATION:24-316Б
+DTSTART:20231212T100000Z
+SUMMARY:ЛК Управление в организационных системах
+UID:dd1d4c44-50ec-41bd-b1c9-7b8a06aba33a@dd1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231111T091500Z
+LOCATION:24-314
+DTSTART:20231111T074500Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:a49a3e03-78fd-4103-a726-c032880c4e8c@a49a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20230916T091500Z
+LOCATION:24-314
+DTSTART:20230916T074500Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:43ffdcc3-02ce-41ec-9eba-75b61770bb8c@43ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231023T091500Z
+LOCATION:5-401
+DTSTART:20231023T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:28a1bb5c-9845-47f2-9629-4c3cdc001b1f@28a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231106T073000Z
+LOCATION:24-316Б
+DTSTART:20231106T060000Z
+SUMMARY:ПЗ Основы научных исследований
+UID:3d6aa207-b42a-4d9b-a598-6d4a1cdac294@3d6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231002T131500Z
+LOCATION:24-502
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Системный анализ
+UID:076ef270-12cc-4ed1-9042-509d28e92429@076e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231025T131500Z
+LOCATION:24-413
+DTSTART:20231025T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:051cba20-fbe7-433d-b34d-799195140b50@051c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230905T091500Z
+LOCATION:5-122
+DTSTART:20230905T074500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:7e5d01ea-1a9b-405f-ba95-d64241432323@7e5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20230906T113000Z
+LOCATION:24-711
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:a4ed889f-9f75-4848-a837-35c0dd4d9775@a4ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230911T091500Z
+LOCATION:5-401
+DTSTART:20230911T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:b4c28eca-bf73-4f49-a3a0-e9322d559a25@b4c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231003T131500Z
+LOCATION:24-316Б
+DTSTART:20231003T114500Z
+SUMMARY:ЛК Управление в организационных системах
+UID:75b27b9d-615b-4e2a-ae81-66f68f609282@75b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231118T091500Z
+LOCATION:24-314
+DTSTART:20231118T074500Z
+SUMMARY:ЛР Динамическое проектирование систем управления ЛА
+UID:0ca6a743-f255-4932-835c-24edbed46d29@0ca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230920T131500Z
+LOCATION:24-413
+DTSTART:20230920T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:65ac0d07-e771-4060-9df0-8d7f15b7313f@65ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231128T131500Z
+LOCATION:24-316Б
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Управление в организационных системах
+UID:75291822-3d88-49ab-93a4-c62ac149f094@7529.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20230908T131500Z
+LOCATION:24-314
+DTSTART:20230908T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:8393880f-e004-47af-b700-f105f786ddb0@8393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230912T073000Z
+LOCATION:24-318А
+DTSTART:20230912T060000Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:1e323391-c2c3-48b0-acd7-70a7ae99937a@1e32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231227T113000Z
+LOCATION:24-711
+DTSTART:20231227T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:7b2ce018-85f4-4df4-b6c8-4ba878bc13c5@7b2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231118T073000Z
+LOCATION:24-314
+DTSTART:20231118T060000Z
+SUMMARY:ЛР Динамическое проектирование систем управления ЛА
+UID:b6e9c569-4924-47c3-9028-54a85d5ea2d9@b6e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231120T113000Z
+LOCATION:5-101
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Экология
+UID:96d9c4bd-cc34-4955-8c0a-ff9d1c1d7f4b@96d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231206T150000Z
+LOCATION:24-715
+DTSTART:20231206T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:248babf3-da8e-4043-94b8-3a30aa5aa4bb@248b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20230911T073000Z
+LOCATION:24-316Б
+DTSTART:20230911T060000Z
+SUMMARY:ПЗ Основы научных исследований
+UID:1d8d42f0-5f7b-4c9f-82cd-0c94a07949a2@1d8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231101T131500Z
+LOCATION:24-413
+DTSTART:20231101T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:9bf5b857-e6b2-4264-83df-188422c90d7f@9bf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231229T073000Z
+LOCATION:24-314
+DTSTART:20231229T060000Z
+SUMMARY:ПЗ Надежность аэрокосмических систем
+UID:f5491fb3-d3bc-4b5f-883d-b5874a5770c3@f549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231229T131500Z
+LOCATION:24-314
+DTSTART:20231229T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:612362fe-8e4f-49da-9818-9206859fad38@6123.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231006T073000Z
+LOCATION:24-314
+DTSTART:20231006T060000Z
+SUMMARY:ПЗ Надежность аэрокосмических систем
+UID:385c7ac5-3f22-4fe7-9806-db6d191e15f2@385c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231118T131500Z
+LOCATION:24-314
+DTSTART:20231118T114500Z
+SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
+UID:34edaf0d-d79d-4634-bfac-0ae7628334a5@34ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231129T150000Z
+LOCATION:24-715
+DTSTART:20231129T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:4f3837ac-bf70-403c-994b-698eacdf5f97@4f38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231208T091500Z
+LOCATION:24-314
+DTSTART:20231208T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:8dd61969-a3d7-4d9d-b12e-e12fb88afebd@8dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231205T091500Z
+LOCATION:24-318А
+DTSTART:20231205T074500Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:b7993416-adfa-445e-9597-ccf97f412f46@b799.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231209T073000Z
+LOCATION:24-314
+DTSTART:20231209T060000Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:aafd767e-e64f-47a6-b306-1e0510ee42f6@aafd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20230908T091500Z
+LOCATION:24-314
+DTSTART:20230908T074500Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:2af56c63-c0e8-4cfe-a474-217564b88312@2af5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231023T073000Z
+LOCATION:24-316Б
+DTSTART:20231023T060000Z
+SUMMARY:ПЗ Основы научных исследований
+UID:bc37edea-8a9d-481d-a0ed-f6c78dc45bcd@bc37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231127T091500Z
+LOCATION:5-401
+DTSTART:20231127T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:2c7ae51f-abf9-4305-8420-d7926f031964@2c7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20230905T131500Z
+LOCATION:24-316Б
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Управление в организационных системах
+UID:eebeb780-10f0-453e-bc19-4910f4a8bcbe@eebe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231101T150000Z
+LOCATION:24-715
+DTSTART:20231101T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:5cb7b54c-2cd3-40c1-862e-a5e49f238d1e@5cb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230901T113000Z
+LOCATION:24-314
+DTSTART:20230901T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:12db851f-8f39-4d0a-b0d0-abc4eb9ba0ec@12db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20230927T091500Z
+LOCATION:24-715
+DTSTART:20230927T074500Z
+SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
+UID:6d8750c5-e9b9-4776-8fb3-83666e9384ef@6d87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231204T091500Z
+LOCATION:5-401
+DTSTART:20231204T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:992c29d7-4150-44d7-b378-b67617e2a571@992c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231202T073000Z
+LOCATION:24-314
+DTSTART:20231202T060000Z
+SUMMARY:ЛР Динамическое проектирование систем управления ЛА
+UID:c0a106d7-f5ec-43cc-abf2-fa841e0890e4@c0a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231211T131500Z
+LOCATION:24-502
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Системный анализ
+UID:68d47030-f6d6-4e87-af7d-a0e9032f87e2@68d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230925T131500Z
+LOCATION:24-502
+DTSTART:20230925T114500Z
+SUMMARY:ЛК Системный анализ
+UID:e3ce8d7d-6d8e-4698-a65d-677a5def4d83@e3ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20230930T073000Z
+LOCATION:24-314
+DTSTART:20230930T060000Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:1881e549-3f44-4134-886a-cd44c30fb157@1881.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230919T091500Z
+LOCATION:5-122
+DTSTART:20230919T074500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:ce8362c0-b786-48b3-9676-89c19ccebb50@ce83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231023T131500Z
+LOCATION:24-502
+DTSTART:20231023T114500Z
+SUMMARY:ЛК Системный анализ
+UID:be963330-3c11-479c-9e5f-3866f10e39a6@be96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231016T073000Z
+LOCATION:24-316Б
+DTSTART:20231016T060000Z
+SUMMARY:ПЗ Надежность аэрокосмических систем
+UID:a04556bd-7bbf-41dc-ab2f-d3f5eda454d2@a045.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230908T073000Z
+LOCATION:24-314
+DTSTART:20230908T060000Z
+SUMMARY:ПЗ Надежность аэрокосмических систем
+UID:00a6da5c-da15-4ff6-ab7d-4113be29ffc6@00a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231201T073000Z
+LOCATION:24-314
+DTSTART:20231201T060000Z
+SUMMARY:ПЗ Надежность аэрокосмических систем
+UID:7c883b74-ae9a-4dab-af98-bd62a96f08ab@7c88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230904T131500Z
+LOCATION:24-502
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Системный анализ
+UID:9ee7290a-0865-4d96-9b51-9dc714e653cf@9ee7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231013T113000Z
+LOCATION:24-314
+DTSTART:20231013T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:51951fd2-c166-4eba-9462-855df30c6617@5195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20230912T131500Z
+LOCATION:24-316Б
+DTSTART:20230912T114500Z
+SUMMARY:ПЗ Управление в организационных системах
+UID:7c8eb976-cdd2-428d-93ad-9921bf8ce63c@7c8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231114T113000Z
+LOCATION:24-316Б
+DTSTART:20231114T100000Z
+SUMMARY:ЛК Управление в организационных системах
+UID:545f9b5d-1206-492f-8367-277107d0c9e0@545f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231128T073000Z
+LOCATION:3-119б
+DTSTART:20231128T060000Z
+SUMMARY:ЛР Экология
+UID:ee124160-53f5-4f49-93a9-a8bbb4489c24@ee12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231201T113000Z
+LOCATION:24-314
+DTSTART:20231201T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:5b88fcc0-018c-45fb-ba3f-68b8f90ec500@5b88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230904T073000Z
+LOCATION:24-316Б
+DTSTART:20230904T060000Z
+SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
+UID:d98a16d9-7ebe-4626-aea5-5fafd43ef148@d98a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230918T113000Z
+LOCATION:5-101
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Экология
+UID:efd8b0cb-7c5e-4c0c-b8ad-ffe3beddbc86@efd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231004T150000Z
+LOCATION:24-715
+DTSTART:20231004T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:5782ddfb-62ff-445d-99a7-0880f6f3d521@5782.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231108T131500Z
+LOCATION:24-413
+DTSTART:20231108T114500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:1871de0b-be09-4034-b60e-523931acdeab@1871.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231010T091500Z
+LOCATION:24-318А
+DTSTART:20231010T074500Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:4e23ad94-90f6-428e-8d4d-88acbe787256@4e23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230929T091500Z
+LOCATION:24-314
+DTSTART:20230929T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:a6c346b4-8def-42ee-8fb0-e56b5d060770@a6c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231216T113000Z
+LOCATION:24-314
+DTSTART:20231216T100000Z
+SUMMARY:ПЗ Динамическое проектирование систем управления ЛА
+UID:d42e4ec9-9176-419d-9d15-75defef79b0d@d42e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231201T091500Z
+LOCATION:24-314
+DTSTART:20231201T074500Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:b8e371d6-24f7-48e0-91c9-161a0d1180e3@b8e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231204T131500Z
+LOCATION:24-502
+DTSTART:20231204T114500Z
+SUMMARY:ЛК Системный анализ
+UID:9ba41937-88ae-4cc9-a53f-78712b5748a0@9ba4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231031T073000Z
+LOCATION:5-122
+DTSTART:20231031T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:097cd18d-e134-43fb-bab3-fa85b64ea1dc@097c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231204T073000Z
+LOCATION:24-316Б
+DTSTART:20231204T060000Z
+SUMMARY:ПЗ Основы научных исследований
+UID:e7800be1-4e37-4cb3-8f7e-9253b61b9219@e780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231129T113000Z
+LOCATION:24-711
+DTSTART:20231129T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:fd0da773-df0a-4819-b539-f06fe0f829f7@fd0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231002T113000Z
+LOCATION:5-101
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Экология
+UID:4c1ebda0-6f03-4847-b8e7-70836e282224@4c1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231006T113000Z
+LOCATION:24-314
+DTSTART:20231006T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:dd51aa32-4efa-4de1-929d-9ad4874ad710@dd51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230925T113000Z
+LOCATION:5-101
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Экология
+UID:1b53bf2c-d55f-4fd9-a7ee-b924526779f7@1b53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230912T091500Z
+LOCATION:24-318А
+DTSTART:20230912T074500Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:4e8e0313-def6-4b48-b7c4-888a44255e6a@4e8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230915T113000Z
+LOCATION:24-314
+DTSTART:20230915T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:167a95eb-f9ad-4cec-9697-0b4378f9b524@167a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231031T131500Z
+LOCATION:24-316Б
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Управление в организационных системах
+UID:ff9e8da2-781e-4888-b107-9fd2b1706267@ff9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231106T113000Z
+LOCATION:5-101
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Экология
+UID:49fe5d27-fe6a-4219-8795-625e7020e457@49fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231120T131500Z
+LOCATION:24-502
+DTSTART:20231120T114500Z
+SUMMARY:ЛК Системный анализ
+UID:f3b049c8-81df-42c5-bb97-38a0de4c9dbf@f3b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231016T131500Z
+LOCATION:24-502
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Системный анализ
+UID:7b64c066-de1c-48ce-ba58-5fd97d64b4f1@7b64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20230919T113000Z
+LOCATION:24-316Б
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Управление в организационных системах
+UID:35e5baf1-fea3-4380-a0a6-498fa3c36a86@35e5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пельтихин Александр Васильевич
@@ -1991,6 +1799,198 @@ DTEND:20230915T091500Z
 LOCATION:24-314
 DTSTART:20230915T074500Z
 SUMMARY:ЛК Надежность аэрокосмических систем
-UID:d545e3d3-e3b7-46a0-be1c-cc34a05cfd9e@d545.org
+UID:7a2dbe05-712e-44c4-8413-0f8299f445f7@7a2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231110T091500Z
+LOCATION:24-314
+DTSTART:20231110T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:db0f83eb-c744-4a5c-9f76-1be225a0e1b0@db0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231117T113000Z
+LOCATION:24-314
+DTSTART:20231117T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:367b0288-8db6-40a1-8a13-763255f82562@367b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231027T113000Z
+LOCATION:24-314
+DTSTART:20231027T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:ce4320be-4f7f-4be2-93a0-382e010335e3@ce43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230926T091500Z
+LOCATION:24-318А
+DTSTART:20230926T074500Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:73e9b2c6-1326-419f-8d2e-377d612c0385@73e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20230926T113000Z
+LOCATION:24-316Б
+DTSTART:20230926T100000Z
+SUMMARY:ПЗ Управление в организационных системах
+UID:0183fb2a-a405-4ee6-9c81-f62867e60bd7@0183.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20230922T113000Z
+LOCATION:24-314
+DTSTART:20230922T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:55677aa1-22ff-4962-b0f6-c88245994cb4@5567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230926T073000Z
+LOCATION:24-318А
+DTSTART:20230926T060000Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:0658cf44-3646-4d2b-85f6-0e172c06682a@0658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20231011T091500Z
+LOCATION:24-715
+DTSTART:20231011T074500Z
+SUMMARY:ПЗ Интеллектуальные технологии и представление знаний
+UID:77563e19-87a5-419a-a980-0a07d5b20ae8@7756.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балыбердин Юрий Александрович
+DTEND:20230927T113000Z
+LOCATION:24-711
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Интеллектуальные технологии и представление знаний
+UID:58b3379e-6eb4-44b6-9c90-2d46525bb09b@58b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231020T073000Z
+LOCATION:24-314
+DTSTART:20231020T060000Z
+SUMMARY:ПЗ Надежность аэрокосмических систем
+UID:5137dc1b-7b63-4d33-8025-425bcb56bf29@5137.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20231021T073000Z
+LOCATION:24-314
+DTSTART:20231021T060000Z
+SUMMARY:ЛР Динамическое проектирование систем управления ЛА
+UID:2f58ff3f-b971-432d-af4c-5c515d64e93e@2f58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231113T091500Z
+LOCATION:5-401
+DTSTART:20231113T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:86bbed05-9658-432e-a66b-6bf20c69bcd8@86bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231107T073000Z
+LOCATION:24-318А
+DTSTART:20231107T060000Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:5856dddf-db7e-41bc-9961-bb366235a1c9@5856.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231030T131500Z
+LOCATION:24-502
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Системный анализ
+UID:a0978b8c-a22f-4acf-8810-cef43cd82539@a097.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Розин Петр Евгеньевич
+DTEND:20230902T091500Z
+LOCATION:24-314
+DTSTART:20230902T074500Z
+SUMMARY:ЛК Динамическое проектирование систем управления ЛА
+UID:eb34d168-685d-4566-a6c4-0506a60be0ee@eb34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231027T091500Z
+LOCATION:24-314
+DTSTART:20231027T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:0bf4910f-b178-49bf-8a13-994f2dc46774@0bf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230904T091500Z
+LOCATION:5-401
+DTSTART:20230904T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:65e3c317-28f5-4b91-8230-d36f0e85b224@65e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230918T091500Z
+LOCATION:5-401
+DTSTART:20230918T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:0387ae9b-acc0-4a45-aeff-b342b61cd361@0387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231103T113000Z
+LOCATION:24-314
+DTSTART:20231103T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:22af954c-5d2b-4008-a383-96226221e827@22af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231010T073000Z
+LOCATION:24-318А
+DTSTART:20231010T060000Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:9fc0eb3e-4b37-4832-9158-67509eb9b49e@9fc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231020T091500Z
+LOCATION:24-314
+DTSTART:20231020T074500Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:487bace0-bdda-494d-b497-6eed998fbdfa@487b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зонов Николай Иванович
+DTEND:20231201T131500Z
+LOCATION:24-314
+DTSTART:20231201T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:b32cd4ba-db7a-40c7-887e-cd46d2c5b173@b32c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моисеев Дмитрий Викторович
+DTEND:20231010T131500Z
+LOCATION:24-316Б
+DTSTART:20231010T114500Z
+SUMMARY:ПЗ Управление в организационных системах
+UID:a570c039-50fd-4f73-a54d-60e78fbe0098@a570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230918T073000Z
+LOCATION:24-316Б
+DTSTART:20230918T060000Z
+SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
+UID:59c9b8a2-3204-4980-b19d-188fbea8eedb@59c9.org
 END:VEVENT
 END:VCALENDAR

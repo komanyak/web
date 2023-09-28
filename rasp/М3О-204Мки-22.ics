@@ -2,732 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231030T113000Z
-LOCATION:3-145
-DTSTART:20231030T100000Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:18312dfb-401e-4659-848d-5b04b79086e9@1831.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231109T164500Z
-LOCATION:3-145
-DTSTART:20231109T151500Z
-SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
-UID:7b9c0295-2f38-4e1b-92e8-46ce661471c4@7b9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231026T113000Z
-LOCATION:3-145
-DTSTART:20231026T100000Z
-SUMMARY:ЛК Современные проблемы теории управления
-UID:6e99733c-7c53-438a-aed1-3cb7adf06057@6e99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231130T113000Z
-LOCATION:3-145
-DTSTART:20231130T100000Z
-SUMMARY:ЛР Современные проблемы теории управления
-UID:2aa31b88-a82f-4245-ae2e-81c49d94ce89@2aa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20230927T150000Z
-LOCATION:3-141
-DTSTART:20230927T133000Z
-SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
-UID:ed78f4da-188a-46f6-9bcc-3e928973eca3@ed78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231205T091500Z
-LOCATION:3-247
-DTSTART:20231205T074500Z
-SUMMARY:ЛР Обучающиеся технические системы
-UID:9df06e99-ee43-4399-8134-22f8b1b2a5a6@9df0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20231002T113000Z
-LOCATION:3-241
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Обработка видеоинформации в системах управления
-UID:e1cf19f0-7e9d-412c-98f8-496206e6e391@e1cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231023T131500Z
-LOCATION:3-247
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
-UID:af4fe3e5-c291-494e-a3b8-d22bc72e4a40@af4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231109T150000Z
-LOCATION:3-145
-DTSTART:20231109T133000Z
-SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
-UID:1e7e36dd-2808-4639-b972-d1fd0df2484a@1e7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231113T131500Z
-LOCATION:3-145
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:1ce7eda9-2fa7-449f-99c2-424759e71919@1ce7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231123T164500Z
-LOCATION:3-145
-DTSTART:20231123T151500Z
-SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
-UID:f35eb6e0-adc5-4b72-95e6-f22e2e658e34@f35e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20230927T113000Z
-LOCATION:3-145
-DTSTART:20230927T100000Z
-SUMMARY:ЛК Оптические и волоконно-оптические устройства и системы
-UID:d5dc9e1e-7310-4641-901f-68c97fec1943@d5dc.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231213T131500Z
+DTEND:20231004T131500Z
 LOCATION:3-145
-DTSTART:20231213T114500Z
+DTSTART:20231004T114500Z
 SUMMARY:ЛК Искусственный интеллект в технических системах
-UID:31a96543-67cf-4887-af50-32823a40dd38@31a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231011T150000Z
-LOCATION:3-141
-DTSTART:20231011T133000Z
-SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
-UID:c02bda3a-704e-416c-8e31-15d60ce6917d@c02b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231115T113000Z
-LOCATION:3-145
-DTSTART:20231115T100000Z
-SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
-UID:c1763772-0b83-40dc-b575-f184f400478f@c176.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231107T131500Z
-LOCATION:3-141
-DTSTART:20231107T114500Z
-SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
-UID:7fdd4753-76dc-4964-bb07-84e26561a7c0@7fdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231009T131500Z
-LOCATION:3-247
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
-UID:80da6cac-0088-4ec1-bbf5-cc4b9a8ea40d@80da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231003T073000Z
-LOCATION:3-247
-DTSTART:20231003T060000Z
-SUMMARY:ЛК Обучающиеся технические системы
-UID:3cf16ac2-32a6-44aa-9974-6e2351f43f75@3cf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231024T131500Z
-LOCATION:3-141
-DTSTART:20231024T114500Z
-SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
-UID:f48073fb-049f-4862-b65c-93c5af307c2c@f480.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231101T113000Z
-LOCATION:3-145
-DTSTART:20231101T100000Z
-SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
-UID:2396c8be-5d83-4cf0-9be8-a3e1e8d091ab@2396.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231206T150000Z
-LOCATION:3-141
-DTSTART:20231206T133000Z
-SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
-UID:4f2b1883-bad3-4084-9a39-ecaa38504e1d@4f2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231003T091500Z
-LOCATION:3-247
-DTSTART:20231003T074500Z
-SUMMARY:ПЗ Обучающиеся технические системы
-UID:ad888aa8-01d7-489c-b014-2ee7834bd7bd@ad88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231211T131500Z
-LOCATION:3-145
-DTSTART:20231211T114500Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:26d3f195-6664-477d-b4f7-810509935806@26d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231129T131500Z
-LOCATION:3-145
-DTSTART:20231129T114500Z
-SUMMARY:ЛК Искусственный интеллект в технических системах
-UID:6b8907b6-9c4d-4c0b-9279-11afaba2fe15@6b89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231122T113000Z
-LOCATION:3-145
-DTSTART:20231122T100000Z
-SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
-UID:41321b83-963a-4052-a354-afe60a40716d@4132.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231031T091500Z
-LOCATION:3-247
-DTSTART:20231031T074500Z
-SUMMARY:ПЗ Обучающиеся технические системы
-UID:3c2c03aa-71e7-4eeb-a9ab-409c76d63332@3c2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231115T131500Z
-LOCATION:3-145
-DTSTART:20231115T114500Z
-SUMMARY:ЛК Искусственный интеллект в технических системах
-UID:f8a54255-134f-48d7-9417-93ab339b9fd8@f8a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231207T164500Z
-LOCATION:3-145
-DTSTART:20231207T151500Z
-SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
-UID:c5606645-fa0c-48bc-9031-4d26b07c297e@c560.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20230905T091500Z
-LOCATION:3-247
-DTSTART:20230905T074500Z
-SUMMARY:ПЗ Обучающиеся технические системы
-UID:51c86d60-5110-48e9-9312-c2091811a4d6@51c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231121T113000Z
-LOCATION:3-141
-DTSTART:20231121T100000Z
-SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
-UID:28f9e422-ce91-4823-8353-8dd0df52a90f@28f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231031T073000Z
-LOCATION:3-247
-DTSTART:20231031T060000Z
-SUMMARY:ЛК Обучающиеся технические системы
-UID:3b92fca8-65a0-45f6-b7f1-5682f90a6473@3b92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231212T073000Z
-LOCATION:3-247
-DTSTART:20231212T060000Z
-SUMMARY:ЛК Обучающиеся технические системы
-UID:7947c1f6-27b9-4690-b4a7-1bc80d1fbf42@7947.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20230904T131500Z
-LOCATION:3-247
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Математическое моделирование технических объектов и систем управления
-UID:19be4f7c-251c-434e-b3d7-e6c7b907c9c8@19be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231030T164500Z
-LOCATION:3-243
-DTSTART:20231030T151500Z
-SUMMARY:ЛР Математическое моделирование технических объектов и систем управления
-UID:0ab7aae4-a7d2-4866-b650-1ea683fd5988@0ab7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231101T164500Z
-LOCATION:3-241
-DTSTART:20231101T151500Z
-SUMMARY:ЛР Искусственный интеллект в технических системах
-UID:a36f42b3-c3da-46e1-aaef-8d8cd796f255@a36f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231129T113000Z
-LOCATION:3-145
-DTSTART:20231129T100000Z
-SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
-UID:0b97fe4d-4447-4a7b-a3dd-f5ed7d194878@0b97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231218T131500Z
-LOCATION:3-145
-DTSTART:20231218T114500Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:a2f5ad58-452d-4922-933c-ed7a8867b9aa@a2f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231225T113000Z
-LOCATION:3-145
-DTSTART:20231225T100000Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:8d9f34a6-85af-496b-9c69-a34ffbfcac46@8d9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231018T131500Z
-LOCATION:3-145
-DTSTART:20231018T114500Z
-SUMMARY:ЛК Искусственный интеллект в технических системах
-UID:f6766640-8951-41df-aa4c-73519961595d@f676.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231219T113000Z
-LOCATION:3-141
-DTSTART:20231219T100000Z
-SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
-UID:37cd753a-ac38-492e-bd76-80c8a4c356c2@37cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231207T150000Z
-LOCATION:3-145
-DTSTART:20231207T133000Z
-SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
-UID:1b267d4a-77b6-4f9a-95b2-4f93262f608e@1b26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231114T091500Z
-LOCATION:3-247
-DTSTART:20231114T074500Z
-SUMMARY:ПЗ Обучающиеся технические системы
-UID:234af2c7-c091-41db-a578-27888cf6149a@234a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231116T131500Z
-LOCATION:3-145
-DTSTART:20231116T114500Z
-SUMMARY:ЛР Современные проблемы теории управления
-UID:cb5a1c53-1c73-4df1-bc8a-41d8584a7e99@cb5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моржин Александр Викторович
-DTEND:20231207T113000Z
-LOCATION:3-241
-DTSTART:20231207T100000Z
-SUMMARY:ЛР Обработка видеоинформации в системах управления
-UID:40665aff-7ef9-4215-95a5-726405ae439a@4066.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20230925T131500Z
-LOCATION:3-247
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
-UID:9f9d2599-62aa-455c-ac11-3f7740a12f65@9f9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20230925T091500Z
-LOCATION:3-241
-DTSTART:20230925T074500Z
-SUMMARY:ПЗ Обработка видеоинформации в системах управления
-UID:df8879e1-616a-44f7-83e4-362c4240e58c@df88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231120T150000Z
-LOCATION:3-247
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
-UID:da54916a-a3ab-4d60-93e1-72591fde88bb@da54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20230927T131500Z
-LOCATION:3-145
-DTSTART:20230927T114500Z
-SUMMARY:ПЗ Искусственный интеллект в технических системах
-UID:e31b877e-08f2-4113-a965-dd092042f603@e31b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231221T164500Z
-LOCATION:3-145
-DTSTART:20231221T151500Z
-SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
-UID:a3c4a3e5-38a3-45e7-a7cd-1771bff56974@a3c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231130T131500Z
-LOCATION:3-145
-DTSTART:20231130T114500Z
-SUMMARY:ЛР Современные проблемы теории управления
-UID:ff4ce5fc-247a-48b0-be0c-05817c1958ad@ff4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231018T164500Z
-LOCATION:3-241
-DTSTART:20231018T151500Z
-SUMMARY:ЛР Искусственный интеллект в технических системах
-UID:35316fbc-52c4-4ecd-95b8-2f73e122dc48@3531.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231106T131500Z
-LOCATION:3-145
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:f8d91377-191b-4dc0-b550-eb9c876983f1@f8d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231002T131500Z
-LOCATION:3-247
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Математическое моделирование технических объектов и систем управления
-UID:7327f62e-f31d-491c-8b2b-5d06750d83f4@7327.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231220T113000Z
-LOCATION:3-145
-DTSTART:20231220T100000Z
-SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
-UID:e9d50e66-97bf-48d0-9e0e-1c873492c2db@e9d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20230928T113000Z
-LOCATION:3-145
-DTSTART:20230928T100000Z
-SUMMARY:ЛК Современные проблемы теории управления
-UID:a806b8be-20cc-4d79-b1b5-14cadb2c51b0@a806.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231106T113000Z
-LOCATION:3-145
-DTSTART:20231106T100000Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:a4582fd7-27cc-41bd-bb58-307552fb1ac9@a458.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231123T131500Z
-LOCATION:3-145
-DTSTART:20231123T114500Z
-SUMMARY:ПЗ Современные проблемы теории управления
-UID:bf15f74c-7918-4c00-ba79-c7a4ba65e6ff@bf15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231205T131500Z
-LOCATION:3-141
-DTSTART:20231205T114500Z
-SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
-UID:9f26ac8c-b299-4f70-8377-94f99a3befc3@9f26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20231218T113000Z
-LOCATION:3-241
-DTSTART:20231218T100000Z
-SUMMARY:ПЗ Обработка видеоинформации в системах управления
-UID:512d84e7-fa2c-4c98-8308-58dbed290b9d@512d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231127T113000Z
-LOCATION:3-145
-DTSTART:20231127T100000Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:1f6a11be-2f23-4725-8ac6-c3a1ee5b6bd5@1f6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20231218T091500Z
-LOCATION:3-241
-DTSTART:20231218T074500Z
-SUMMARY:ПЗ Обработка видеоинформации в системах управления
-UID:9b16d0cc-efe6-4582-aa2e-d6b8a5fa17a0@9b16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231219T131500Z
-LOCATION:3-141
-DTSTART:20231219T114500Z
-SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
-UID:7a703837-0919-4369-a76f-55cef47a86a4@7a70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231206T113000Z
-LOCATION:3-145
-DTSTART:20231206T100000Z
-SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
-UID:82b6180c-2146-45a8-a40d-d1ab884959ee@82b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231213T150000Z
-LOCATION:3-241
-DTSTART:20231213T133000Z
-SUMMARY:ЛР Искусственный интеллект в технических системах
-UID:072cbd28-d07d-47c0-b360-79e945a10f9c@072c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231025T150000Z
-LOCATION:3-141
-DTSTART:20231025T133000Z
-SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
-UID:10b53468-af1b-4ebc-a9b9-6ab8bf064dd9@10b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231109T113000Z
-LOCATION:3-145
-DTSTART:20231109T100000Z
-SUMMARY:ЛК Современные проблемы теории управления
-UID:4626d2f4-fe9d-45ca-9920-a58311dba7c1@4626.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231009T113000Z
-LOCATION:3-145
-DTSTART:20231009T100000Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:28948c61-133b-4e74-aac0-83ac4032f149@2894.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231204T131500Z
-LOCATION:3-145
-DTSTART:20231204T114500Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:cbd20d13-6a58-45f9-99f4-ed864f05a45e@cbd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231219T091500Z
-LOCATION:3-247
-DTSTART:20231219T074500Z
-SUMMARY:ЛР Обучающиеся технические системы
-UID:d3cb5719-f22e-4c5e-bb66-1c78da6d7714@d3cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231107T091500Z
-LOCATION:3-247
-DTSTART:20231107T074500Z
-SUMMARY:ЛР Обучающиеся технические системы
-UID:b93a78c3-e269-48b8-b7d2-5b080fd5700e@b93a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20230911T113000Z
-LOCATION:3-241
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Обработка видеоинформации в системах управления
-UID:cac37982-4386-44f5-aff3-528c353ac858@cac3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231226T091500Z
-LOCATION:3-247
-DTSTART:20231226T074500Z
-SUMMARY:ПЗ Обучающиеся технические системы
-UID:35ebabdd-2751-4112-8920-26f373b19e96@35eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20231106T091500Z
-LOCATION:3-241
-DTSTART:20231106T074500Z
-SUMMARY:ПЗ Обработка видеоинформации в системах управления
-UID:f6cb389c-aa04-4e1a-87d6-d4738c87cb13@f6cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231128T091500Z
-LOCATION:3-247
-DTSTART:20231128T074500Z
-SUMMARY:ПЗ Обучающиеся технические системы
-UID:4910d3d9-725e-4646-9014-b6c0f34cf8f8@4910.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231205T113000Z
-LOCATION:3-141
-DTSTART:20231205T100000Z
-SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
-UID:0aefe156-626c-4ea5-978b-84b0e2419cf4@0aef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231226T073000Z
-LOCATION:3-247
-DTSTART:20231226T060000Z
-SUMMARY:ЛК Обучающиеся технические системы
-UID:1c5f20fd-bf28-4175-bed5-9c119190b641@1c5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231012T113000Z
-LOCATION:3-145
-DTSTART:20231012T100000Z
-SUMMARY:ЛК Современные проблемы теории управления
-UID:87235a64-aa51-44ad-b8b6-a99ecb065c40@8723.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231226T113000Z
-LOCATION:3-247
-DTSTART:20231226T100000Z
-SUMMARY:ПЗ Обучающиеся технические системы
-UID:dbe572d3-bcbe-4956-a4e0-7fe99a86ef53@dbe5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231026T150000Z
-LOCATION:3-145
-DTSTART:20231026T133000Z
-SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
-UID:5e8c0ff6-545c-48ee-866c-f33626bc394b@5e8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20230905T073000Z
-LOCATION:3-247
-DTSTART:20230905T060000Z
-SUMMARY:ЛК Обучающиеся технические системы
-UID:8430cff1-6453-4c96-b0b6-43410e89f092@8430.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20230906T113000Z
-LOCATION:3-145
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Оптические и волоконно-оптические устройства и системы
-UID:1f951c6b-4799-42a0-9887-b21034211ba4@1f95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20230913T150000Z
-LOCATION:3-141
-DTSTART:20230913T133000Z
-SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
-UID:f231cd62-241a-4c71-a263-f2f86625a719@f231.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20231023T091500Z
-LOCATION:3-241
-DTSTART:20231023T074500Z
-SUMMARY:ПЗ Обработка видеоинформации в системах управления
-UID:408d7ccb-6857-4977-b4e8-0181372d16f4@408d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20230920T131500Z
-LOCATION:3-145
-DTSTART:20230920T114500Z
-SUMMARY:ЛК Искусственный интеллект в технических системах
-UID:f2c791ea-5403-4f42-a7c0-107634269352@f2c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231026T164500Z
-LOCATION:3-145
-DTSTART:20231026T151500Z
-SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
-UID:459924b2-92b1-44e8-805c-03ca7301190b@4599.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231122T150000Z
-LOCATION:3-141
-DTSTART:20231122T133000Z
-SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
-UID:66d9e99f-3406-4d01-8b53-ca522a211759@66d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231214T113000Z
-LOCATION:3-145
-DTSTART:20231214T100000Z
-SUMMARY:ЛР Современные проблемы теории управления
-UID:dd3926d5-d987-45c2-bb63-8bd66c376fc9@dd39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231108T131500Z
-LOCATION:3-145
-DTSTART:20231108T114500Z
-SUMMARY:ПЗ Искусственный интеллект в технических системах
-UID:1ecd1168-f33a-4800-a5a7-59b9c6d583d2@1ecd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231012T131500Z
-LOCATION:3-145
-DTSTART:20231012T114500Z
-SUMMARY:ПЗ Современные проблемы теории управления
-UID:fcdf958b-5a0a-45bb-b266-dc4c0b2f990d@fcdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231026T131500Z
-LOCATION:3-145
-DTSTART:20231026T114500Z
-SUMMARY:ПЗ Современные проблемы теории управления
-UID:19f6fb61-b92d-43d5-a093-107a43c30814@19f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231213T164500Z
-LOCATION:3-241
-DTSTART:20231213T151500Z
-SUMMARY:ЛР Искусственный интеллект в технических системах
-UID:4378c049-0920-46fe-a1ef-9508f91554d2@4378.org
+UID:d5aaf431-77c0-40f0-9d8f-6d3cda7a2437@d5aa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцев Павел Сергеевич
@@ -735,439 +15,7 @@ DTEND:20231030T131500Z
 LOCATION:3-247
 DTSTART:20231030T114500Z
 SUMMARY:ЛК Математическое моделирование технических объектов и систем управления
-UID:e27a8526-09b1-4b67-a06c-746b4ef9e87b@e27a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моржин Александр Викторович
-DTEND:20231207T131500Z
-LOCATION:3-241
-DTSTART:20231207T114500Z
-SUMMARY:ЛР Обработка видеоинформации в системах управления
-UID:fa6682c4-0d0d-447a-a34e-e600b1f06144@fa66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20230920T113000Z
-LOCATION:3-145
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Оптические и волоконно-оптические устройства и системы
-UID:05a33459-1d10-40cb-b3f1-6aa9b85e0327@05a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231206T131500Z
-LOCATION:3-145
-DTSTART:20231206T114500Z
-SUMMARY:ПЗ Искусственный интеллект в технических системах
-UID:eeae82af-2e02-4a2c-9c8e-718d7d8e63c0@eeae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231004T113000Z
-LOCATION:3-145
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Оптические и волоконно-оптические устройства и системы
-UID:44ee13e4-d2c2-4b90-a940-7061156bb526@44ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231122T131500Z
-LOCATION:3-145
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Искусственный интеллект в технических системах
-UID:5f78a296-d833-4896-912d-7369f4015f1f@5f78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231128T073000Z
-LOCATION:3-247
-DTSTART:20231128T060000Z
-SUMMARY:ЛК Обучающиеся технические системы
-UID:759045ed-913b-4c0b-81b8-d54826fcf6d7@7590.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231018T150000Z
-LOCATION:3-241
-DTSTART:20231018T133000Z
-SUMMARY:ЛР Искусственный интеллект в технических системах
-UID:f8ee36a6-0465-401c-921c-30e612ef55fd@f8ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231123T150000Z
-LOCATION:3-145
-DTSTART:20231123T133000Z
-SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
-UID:3df2ba7c-9916-4c9c-91df-41aba7176656@3df2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231024T113000Z
-LOCATION:3-141
-DTSTART:20231024T100000Z
-SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
-UID:751c5722-60a5-4463-9250-53f9ad3ad8c9@751c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231220T131500Z
-LOCATION:3-145
-DTSTART:20231220T114500Z
-SUMMARY:ПЗ Искусственный интеллект в технических системах
-UID:58a181cb-8ff8-4d9c-95ee-7716909a74b3@58a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20230906T131500Z
-LOCATION:3-145
-DTSTART:20230906T114500Z
-SUMMARY:ЛК Искусственный интеллект в технических системах
-UID:b84eb2ae-ec0d-4ba5-bc79-23e8ab0a2180@b84e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231218T150000Z
-LOCATION:3-247
-DTSTART:20231218T133000Z
-SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
-UID:79fbd705-8022-4513-a164-fb9d6eb8bb28@79fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20231009T091500Z
-LOCATION:3-241
-DTSTART:20231009T074500Z
-SUMMARY:ПЗ Обработка видеоинформации в системах управления
-UID:8642f3a2-97c7-4d07-9439-cd2dcf6e3846@8642.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231113T113000Z
-LOCATION:3-145
-DTSTART:20231113T100000Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:440ddfb9-6454-4c54-8d37-a9a38c9e2fa0@440d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231129T150000Z
-LOCATION:3-241
-DTSTART:20231129T133000Z
-SUMMARY:ЛР Искусственный интеллект в технических системах
-UID:7354e03a-682b-48c7-807b-7cd5f13c2418@7354.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231023T113000Z
-LOCATION:3-145
-DTSTART:20231023T100000Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:c16e7e6f-8d42-4ca6-a3bd-775ebf39e3bb@c16e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231018T113000Z
-LOCATION:3-145
-DTSTART:20231018T100000Z
-SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
-UID:e2d5d2d3-2b6c-4c42-932e-d1d60ad75be4@e2d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231120T131500Z
-LOCATION:3-145
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:e51159f0-2cf9-4dee-8de5-207928541b52@e511.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231123T113000Z
-LOCATION:3-145
-DTSTART:20231123T100000Z
-SUMMARY:ЛК Современные проблемы теории управления
-UID:6b506b5b-399d-4e76-8b8c-f9cb3fb67399@6b50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231220T150000Z
-LOCATION:3-141
-DTSTART:20231220T133000Z
-SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
-UID:693c80c3-6852-430a-927e-9d9157362515@693c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20230911T131500Z
-LOCATION:3-247
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
-UID:11a7d00d-ad98-45ee-903b-a18b0da42dbc@11a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231115T150000Z
-LOCATION:3-241
-DTSTART:20231115T133000Z
-SUMMARY:ЛР Искусственный интеллект в технических системах
-UID:1ad3fcb1-1f2f-469b-abb1-242000a36bf7@1ad3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231211T113000Z
-LOCATION:3-145
-DTSTART:20231211T100000Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:059cfb93-8335-4a77-848f-09f056c01385@059c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231011T113000Z
-LOCATION:3-145
-DTSTART:20231011T100000Z
-SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
-UID:6df6ecc7-e9ec-4989-bd25-92cc9878d5b5@6df6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231113T150000Z
-LOCATION:3-243
-DTSTART:20231113T133000Z
-SUMMARY:ЛР Математическое моделирование технических объектов и систем управления
-UID:4f260d9b-e8d5-488f-ac8f-cfabcb7046d1@4f26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20231120T091500Z
-LOCATION:3-241
-DTSTART:20231120T074500Z
-SUMMARY:ПЗ Обработка видеоинформации в системах управления
-UID:602b4de8-cb13-467f-86b8-3319d3d8dc65@602b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20230919T091500Z
-LOCATION:3-247
-DTSTART:20230919T074500Z
-SUMMARY:ПЗ Обучающиеся технические системы
-UID:b856021c-eb13-467c-8667-77e6cee6a400@b856.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231108T113000Z
-LOCATION:3-145
-DTSTART:20231108T100000Z
-SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
-UID:b3f1309a-a703-4c15-80f8-cdc2507fb39b@b3f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20230925T113000Z
-LOCATION:3-241
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Обработка видеоинформации в системах управления
-UID:3c6b639f-372e-483b-9cdf-cc86962a5e04@3c6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231204T113000Z
-LOCATION:3-145
-DTSTART:20231204T100000Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:86097026-d8e0-4371-b47a-457866ab7e91@8609.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231212T091500Z
-LOCATION:3-247
-DTSTART:20231212T074500Z
-SUMMARY:ПЗ Обучающиеся технические системы
-UID:1ce23c45-7a64-4fa4-8c36-ddf9a26a67cb@1ce2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231225T131500Z
-LOCATION:3-247
-DTSTART:20231225T114500Z
-SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
-UID:ae3413ea-18f1-455a-9c83-4813bb21e84d@ae34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20230918T113000Z
-LOCATION:3-241
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Обработка видеоинформации в системах управления
-UID:1d94b0a6-5903-40b9-aff4-d199829ebb00@1d94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20230911T091500Z
-LOCATION:3-241
-DTSTART:20230911T074500Z
-SUMMARY:ПЗ Обработка видеоинформации в системах управления
-UID:86680a5b-0d4c-4af2-b49b-65927a04899f@8668.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231129T164500Z
-LOCATION:3-241
-DTSTART:20231129T151500Z
-SUMMARY:ЛР Искусственный интеллект в технических системах
-UID:3145bdf3-ae09-451c-95b4-8f21e619e96f@3145.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моржин Александр Викторович
-DTEND:20231221T113000Z
-LOCATION:3-241
-DTSTART:20231221T100000Z
-SUMMARY:ЛР Обработка видеоинформации в системах управления
-UID:48ceef65-0cdc-44ea-a22d-f1c34f754419@48ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231114T073000Z
-LOCATION:3-247
-DTSTART:20231114T060000Z
-SUMMARY:ЛК Обучающиеся технические системы
-UID:326d1145-3548-4452-811f-6810c1c450f5@326d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20230913T113000Z
-LOCATION:3-145
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Оптические и волоконно-оптические устройства и системы
-UID:8a53d35e-ea8f-4639-ab07-f9647f765a76@8a53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231121T073000Z
-LOCATION:3-247
-DTSTART:20231121T060000Z
-SUMMARY:ЛР Обучающиеся технические системы
-UID:40caf538-d6ae-4955-8513-ce0f637886e7@40ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231120T113000Z
-LOCATION:3-145
-DTSTART:20231120T100000Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:d0414731-fdcb-46e3-926b-03900012f951@d041.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231109T131500Z
-LOCATION:3-145
-DTSTART:20231109T114500Z
-SUMMARY:ПЗ Современные проблемы теории управления
-UID:982db48b-0718-4339-ad15-456260f9e0dd@982d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231030T150000Z
-LOCATION:3-243
-DTSTART:20231030T133000Z
-SUMMARY:ЛР Математическое моделирование технических объектов и систем управления
-UID:db8b7f0c-364c-49f0-b7ff-80cddba1ae34@db8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20230919T073000Z
-LOCATION:3-247
-DTSTART:20230919T060000Z
-SUMMARY:ЛК Обучающиеся технические системы
-UID:732d67ae-766e-43fa-b9ef-c4179b61a23b@732d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231004T131500Z
-LOCATION:3-145
-DTSTART:20231004T114500Z
-SUMMARY:ЛК Искусственный интеллект в технических системах
-UID:3334dd01-dc50-4bb3-9adf-bddeb0c4a52c@3334.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231227T131500Z
-LOCATION:3-145
-DTSTART:20231227T114500Z
-SUMMARY:ПЗ Искусственный интеллект в технических системах
-UID:a132ed36-a19f-4b7d-ab1e-b1274e9c6b4a@a132.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231016T113000Z
-LOCATION:3-145
-DTSTART:20231016T100000Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:841a2f3c-209a-4aa6-8292-fc22072d31aa@841a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20230913T131500Z
-LOCATION:3-145
-DTSTART:20230913T114500Z
-SUMMARY:ПЗ Искусственный интеллект в технических системах
-UID:9b90124e-71c8-475b-8e8e-c7c683c79148@9b90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231121T091500Z
-LOCATION:3-247
-DTSTART:20231121T074500Z
-SUMMARY:ЛР Обучающиеся технические системы
-UID:bc371344-9531-4069-bb61-bc2249c32c53@bc37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231221T150000Z
-LOCATION:3-145
-DTSTART:20231221T133000Z
-SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
-UID:21bf925f-8fcb-4e40-92d3-92a75258bc11@21bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20231204T091500Z
-LOCATION:3-241
-DTSTART:20231204T074500Z
-SUMMARY:ПЗ Обработка видеоинформации в системах управления
-UID:3f933e3f-341c-4afa-8997-f597d9d8cc7d@3f93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231214T131500Z
-LOCATION:3-145
-DTSTART:20231214T114500Z
-SUMMARY:ЛР Современные проблемы теории управления
-UID:68ebb5b8-b222-4a4e-a057-51fed5b1210d@68eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231106T150000Z
-LOCATION:3-247
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
-UID:c3680769-9137-46c8-9bbd-b531f121aa44@c368.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231107T073000Z
-LOCATION:3-247
-DTSTART:20231107T060000Z
-SUMMARY:ЛР Обучающиеся технические системы
-UID:3377733c-37d7-4ea7-b1b6-f0bd38df3832@3377.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231205T073000Z
-LOCATION:3-247
-DTSTART:20231205T060000Z
-SUMMARY:ЛР Обучающиеся технические системы
-UID:c483f14f-9106-40b7-934e-8dd5d52218e3@c483.org
+UID:7fbefa61-5e56-4c96-a053-93913c9abb51@7fbe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казарьян Александр Викторович
@@ -1175,127 +23,15 @@ DTEND:20231213T113000Z
 LOCATION:3-145
 DTSTART:20231213T100000Z
 SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
-UID:54aa52f3-9441-4326-ab75-9a1002dbb99a@54aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моржин Александр Викторович
-DTEND:20231221T131500Z
-LOCATION:3-241
-DTSTART:20231221T114500Z
-SUMMARY:ЛР Обработка видеоинформации в системах управления
-UID:a099affc-2cbf-4f52-9e53-604f05d5770e@a099.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Георгий Николаевич
-DTEND:20231116T113000Z
-LOCATION:3-145
-DTSTART:20231116T100000Z
-SUMMARY:ЛР Современные проблемы теории управления
-UID:acd1b1d5-9574-4d94-970e-19de1e8a51b1@acd1.org
+UID:b2298807-3f09-4275-bb86-2be06eadc1bc@b229.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231017T091500Z
+DTEND:20231128T073000Z
 LOCATION:3-247
-DTSTART:20231017T074500Z
-SUMMARY:ПЗ Обучающиеся технические системы
-UID:69cf7550-f9e0-42be-b98e-94dc187ae2ae@69cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231115T164500Z
-LOCATION:3-241
-DTSTART:20231115T151500Z
-SUMMARY:ЛР Искусственный интеллект в технических системах
-UID:b4aff91c-6de3-4cbe-b86e-e073b65398d0@b4af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231017T073000Z
-LOCATION:3-247
-DTSTART:20231017T060000Z
+DTSTART:20231128T060000Z
 SUMMARY:ЛК Обучающиеся технические системы
-UID:2cac8f5a-c0c9-4e82-8a3a-f103b120e582@2cac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кананадзе Сергей Сергеевич
-DTEND:20231101T131500Z
-LOCATION:3-145
-DTSTART:20231101T114500Z
-SUMMARY:ЛК Искусственный интеллект в технических системах
-UID:aa79a6a5-896a-448d-826f-0a3c0aa4df34@aa79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231107T113000Z
-LOCATION:3-141
-DTSTART:20231107T100000Z
-SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
-UID:2a3a976f-694c-40a9-aefe-4cf26a0e08ab@2a3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231219T073000Z
-LOCATION:3-247
-DTSTART:20231219T060000Z
-SUMMARY:ЛР Обучающиеся технические системы
-UID:9244b591-5aa3-481f-b6c0-6a7feb205e39@9244.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20230918T131500Z
-LOCATION:3-247
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Математическое моделирование технических объектов и систем управления
-UID:69bff1e2-1a28-4e1c-845f-b442286acbe3@69bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казарьян Александр Викторович
-DTEND:20231025T113000Z
-LOCATION:3-145
-DTSTART:20231025T100000Z
-SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
-UID:fd884237-e014-4470-9cf2-23a2ca63f3fe@fd88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231108T150000Z
-LOCATION:3-141
-DTSTART:20231108T133000Z
-SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
-UID:e7206e2e-10ac-41ad-bb3d-a3d593542e20@e720.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Визильтер Юрий Валентинович
-DTEND:20230904T113000Z
-LOCATION:3-241
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Обработка видеоинформации в системах управления
-UID:1b7538e5-47a5-4f5c-b2e0-41065420349f@1b75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бусурин Владимир Игоревич
-DTEND:20231127T131500Z
-LOCATION:3-145
-DTSTART:20231127T114500Z
-SUMMARY:ПЗ Научный семинар по управлению в технических системах
-UID:e1c21d82-82d8-4ff5-9348-0305b44cc953@e1c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231016T131500Z
-LOCATION:3-247
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Математическое моделирование технических объектов и систем управления
-UID:15d33021-cded-4b2c-a49a-3b138b6dd9e9@15d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мулин Павел Викторович
-DTEND:20231121T131500Z
-LOCATION:3-141
-DTSTART:20231121T114500Z
-SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
-UID:dcfc6ce6-69dd-41ea-a79b-9b98c5a371eb@dcfc.org
+UID:d3837c94-bb23-4070-a271-65d054754092@d383.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
@@ -1303,15 +39,839 @@ DTEND:20231101T150000Z
 LOCATION:3-241
 DTSTART:20231101T133000Z
 SUMMARY:ЛР Искусственный интеллект в технических системах
-UID:a1a106b4-1798-4822-92f5-a94072187d70@a1a1.org
+UID:712795eb-476a-43c7-a190-7353541322ee@7127.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231121T113000Z
+LOCATION:3-141
+DTSTART:20231121T100000Z
+SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
+UID:94753217-ad32-4456-94ab-cb14a0efba60@9475.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцев Павел Сергеевич
-DTEND:20231204T150000Z
+DTEND:20231128T091500Z
 LOCATION:3-247
-DTSTART:20231204T133000Z
+DTSTART:20231128T074500Z
+SUMMARY:ПЗ Обучающиеся технические системы
+UID:086f9a88-a709-419c-acdf-9c7ded46afb7@086f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моржин Александр Викторович
+DTEND:20231207T113000Z
+LOCATION:3-241
+DTSTART:20231207T100000Z
+SUMMARY:ЛР Обработка видеоинформации в системах управления
+UID:88c01ea5-c1d0-443f-a784-89e89a4282b2@88c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20231002T113000Z
+LOCATION:3-241
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Обработка видеоинформации в системах управления
+UID:8d377ee0-cf8d-4b2d-81db-b5013712a224@8d37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231030T164500Z
+LOCATION:3-243
+DTSTART:20231030T151500Z
+SUMMARY:ЛР Математическое моделирование технических объектов и систем управления
+UID:458efdd3-39c8-4467-bf06-899fa8362943@458e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231122T131500Z
+LOCATION:3-145
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Искусственный интеллект в технических системах
+UID:75809ec1-2d84-42a2-91e8-7ef24dd3e0cf@7580.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231018T113000Z
+LOCATION:3-145
+DTSTART:20231018T100000Z
+SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
+UID:42c5e38d-f8ac-4976-a5c9-ea13f73aa762@42c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20230918T113000Z
+LOCATION:3-241
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Обработка видеоинформации в системах управления
+UID:0caa66b4-bf4c-4d80-a794-9ba8506323bb@0caa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231226T091500Z
+LOCATION:3-247
+DTSTART:20231226T074500Z
+SUMMARY:ПЗ Обучающиеся технические системы
+UID:833a8326-06ec-4b94-9666-6739d0a77635@833a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231012T131500Z
+LOCATION:3-145
+DTSTART:20231012T114500Z
+SUMMARY:ПЗ Современные проблемы теории управления
+UID:99c7392d-c435-46a0-b9e9-b6bb0043d2e1@99c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231017T091500Z
+LOCATION:3-247
+DTSTART:20231017T074500Z
+SUMMARY:ПЗ Обучающиеся технические системы
+UID:60f47487-c670-4928-8bf1-62c0ca770d7f@60f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231211T113000Z
+LOCATION:3-145
+DTSTART:20231211T100000Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:ac3ffc64-b64d-4ae6-af9c-fb572e3bcd68@ac3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231219T091500Z
+LOCATION:3-247
+DTSTART:20231219T074500Z
+SUMMARY:ЛР Обучающиеся технические системы
+UID:4d609ffa-76a8-4080-9f24-5fee7a0acfb4@4d60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20231023T091500Z
+LOCATION:3-241
+DTSTART:20231023T074500Z
+SUMMARY:ПЗ Обработка видеоинформации в системах управления
+UID:0818174a-2e2a-4e98-b01a-8ba575ad8d65@0818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231220T131500Z
+LOCATION:3-145
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Искусственный интеллект в технических системах
+UID:37838c0e-e623-4d70-aa30-73b7a25b2cac@3783.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231206T150000Z
+LOCATION:3-141
+DTSTART:20231206T133000Z
+SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
+UID:7129c2ad-0dd7-4a00-bb39-1d1faac9dfeb@7129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231212T073000Z
+LOCATION:3-247
+DTSTART:20231212T060000Z
+SUMMARY:ЛК Обучающиеся технические системы
+UID:c1e608f2-f9d2-4c61-8eca-348bbf4b3542@c1e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231101T113000Z
+LOCATION:3-145
+DTSTART:20231101T100000Z
+SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
+UID:66af3731-3957-4b14-b912-af6d95f382d1@66af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231120T150000Z
+LOCATION:3-247
+DTSTART:20231120T133000Z
 SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
-UID:0986f436-648f-4c7b-87c9-8dd9721bdcc1@0986.org
+UID:71d2260e-63b0-4d2b-b006-4ab27e307d66@71d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231129T131500Z
+LOCATION:3-145
+DTSTART:20231129T114500Z
+SUMMARY:ЛК Искусственный интеллект в технических системах
+UID:2660d7ca-875f-4fdd-944d-d414a1006728@2660.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231219T113000Z
+LOCATION:3-141
+DTSTART:20231219T100000Z
+SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
+UID:97792cbb-2817-411a-9b1d-dc9068366efb@9779.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231101T164500Z
+LOCATION:3-241
+DTSTART:20231101T151500Z
+SUMMARY:ЛР Искусственный интеллект в технических системах
+UID:f3586918-e799-438e-9aec-ab78d49e4a62@f358.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231114T091500Z
+LOCATION:3-247
+DTSTART:20231114T074500Z
+SUMMARY:ПЗ Обучающиеся технические системы
+UID:32f1dafa-13fd-411e-b23d-34b501b9fe4c@32f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231109T150000Z
+LOCATION:3-145
+DTSTART:20231109T133000Z
+SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
+UID:17dc3716-f1dc-4b57-baec-4d1adf4aefaa@17dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231130T113000Z
+LOCATION:3-145
+DTSTART:20231130T100000Z
+SUMMARY:ЛР Современные проблемы теории управления
+UID:7ede554c-4d0d-4231-afab-5e532353ba48@7ede.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231206T131500Z
+LOCATION:3-145
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Искусственный интеллект в технических системах
+UID:76ba12a4-5008-4678-9b10-3f73840ae10e@76ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231218T131500Z
+LOCATION:3-145
+DTSTART:20231218T114500Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:a1cfe835-b1ba-4cf8-9750-1064655da8dd@a1cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231002T131500Z
+LOCATION:3-247
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Математическое моделирование технических объектов и систем управления
+UID:3cce0f76-5e74-47f9-8653-d47c0975f246@3cce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231121T091500Z
+LOCATION:3-247
+DTSTART:20231121T074500Z
+SUMMARY:ЛР Обучающиеся технические системы
+UID:d23212fa-c922-4c7a-9b9a-6daf7d4b7877@d232.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231123T150000Z
+LOCATION:3-145
+DTSTART:20231123T133000Z
+SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
+UID:bfbd2699-c402-4b44-a063-b2dd95fbb99a@bfbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231023T113000Z
+LOCATION:3-145
+DTSTART:20231023T100000Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:e99f2c3e-9a9e-4940-a92b-8874db69479d@e99f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20230913T131500Z
+LOCATION:3-145
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Искусственный интеллект в технических системах
+UID:9dfeeb42-5471-4240-970e-752a8bd2447f@9dfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20230920T113000Z
+LOCATION:3-145
+DTSTART:20230920T100000Z
+SUMMARY:ЛК Оптические и волоконно-оптические устройства и системы
+UID:a6d5c47a-3f26-4428-8475-d666f4c831e7@a6d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231011T113000Z
+LOCATION:3-145
+DTSTART:20231011T100000Z
+SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
+UID:a7e3c1f7-9e51-4eba-b76b-3868012c5031@a7e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моржин Александр Викторович
+DTEND:20231207T131500Z
+LOCATION:3-241
+DTSTART:20231207T114500Z
+SUMMARY:ЛР Обработка видеоинформации в системах управления
+UID:ade9daf8-7264-41fd-aff8-5eb769fa93fa@ade9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231106T131500Z
+LOCATION:3-145
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:22f7b779-4443-463e-b489-f101d098e14f@22f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231218T150000Z
+LOCATION:3-247
+DTSTART:20231218T133000Z
+SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
+UID:281662cc-49e4-4e10-a423-dfc026c6412c@2816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231025T150000Z
+LOCATION:3-141
+DTSTART:20231025T133000Z
+SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
+UID:d349b5c2-0008-440c-b676-00aa8d23f0ca@d349.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20231009T091500Z
+LOCATION:3-241
+DTSTART:20231009T074500Z
+SUMMARY:ПЗ Обработка видеоинформации в системах управления
+UID:1a45ae0e-5f96-4464-95ef-9fed5437fef4@1a45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231207T164500Z
+LOCATION:3-145
+DTSTART:20231207T151500Z
+SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
+UID:e233e2d8-39b2-4936-979e-93492f75d817@e233.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231016T131500Z
+LOCATION:3-247
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Математическое моделирование технических объектов и систем управления
+UID:33c7ad88-55bf-48e6-9c0e-a1aa4bfccc4d@33c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231121T131500Z
+LOCATION:3-141
+DTSTART:20231121T114500Z
+SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
+UID:8dfdb534-7718-4bda-8f41-f77a382e691e@8dfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231130T131500Z
+LOCATION:3-145
+DTSTART:20231130T114500Z
+SUMMARY:ЛР Современные проблемы теории управления
+UID:e439f4c8-1f03-4650-a3e7-6bb070b25352@e439.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231003T091500Z
+LOCATION:3-247
+DTSTART:20231003T074500Z
+SUMMARY:ПЗ Обучающиеся технические системы
+UID:161515d3-989c-4516-b5c6-6a380e83a8ca@1615.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20230911T091500Z
+LOCATION:3-241
+DTSTART:20230911T074500Z
+SUMMARY:ПЗ Обработка видеоинформации в системах управления
+UID:390d104b-316d-478e-bc06-868ba69fff96@390d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20230911T113000Z
+LOCATION:3-241
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Обработка видеоинформации в системах управления
+UID:93348880-2337-4096-9870-030df78a28b3@9334.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231129T164500Z
+LOCATION:3-241
+DTSTART:20231129T151500Z
+SUMMARY:ЛР Искусственный интеллект в технических системах
+UID:4a7171e3-8eea-4265-ada5-9e6b124fc4e6@4a71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231115T164500Z
+LOCATION:3-241
+DTSTART:20231115T151500Z
+SUMMARY:ЛР Искусственный интеллект в технических системах
+UID:f8f53c2f-3e17-439c-a9b7-16a0a3cefcf7@f8f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20230925T131500Z
+LOCATION:3-247
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
+UID:aea4e75c-117a-4852-96bd-0917ddfe9070@aea4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231018T150000Z
+LOCATION:3-241
+DTSTART:20231018T133000Z
+SUMMARY:ЛР Искусственный интеллект в технических системах
+UID:b227b1aa-a4bf-424d-9681-f17d5375862b@b227.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20230920T131500Z
+LOCATION:3-145
+DTSTART:20230920T114500Z
+SUMMARY:ЛК Искусственный интеллект в технических системах
+UID:ab2e9085-09ec-4622-86b6-f2939ff926b6@ab2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231107T091500Z
+LOCATION:3-247
+DTSTART:20231107T074500Z
+SUMMARY:ЛР Обучающиеся технические системы
+UID:af2a8cac-ff7e-4459-b752-766d28ec8157@af2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231004T113000Z
+LOCATION:3-145
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Оптические и волоконно-оптические устройства и системы
+UID:fac4c7e3-e307-4394-afc2-c217695c2593@fac4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231030T113000Z
+LOCATION:3-145
+DTSTART:20231030T100000Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:b8fbacf8-78f2-4583-a051-0dddf19d193d@b8fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231113T131500Z
+LOCATION:3-145
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:f64db5f8-8353-4c72-b8a8-21c3dd80f7b9@f64d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20230905T091500Z
+LOCATION:3-247
+DTSTART:20230905T074500Z
+SUMMARY:ПЗ Обучающиеся технические системы
+UID:81736af0-aff4-4a14-b57d-d3165fd5f5e1@8173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231113T113000Z
+LOCATION:3-145
+DTSTART:20231113T100000Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:f4ca8b4d-5b61-423c-8513-7916ccf73a6e@f4ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231109T131500Z
+LOCATION:3-145
+DTSTART:20231109T114500Z
+SUMMARY:ПЗ Современные проблемы теории управления
+UID:8889674e-e9b6-43f8-9a41-8067628ed798@8889.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231122T150000Z
+LOCATION:3-141
+DTSTART:20231122T133000Z
+SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
+UID:b8b11b2e-7ce3-488b-9aeb-90de047a21c9@b8b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231214T113000Z
+LOCATION:3-145
+DTSTART:20231214T100000Z
+SUMMARY:ЛР Современные проблемы теории управления
+UID:5b02884b-2334-43e6-a6e6-21759295ab76@5b02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231226T113000Z
+LOCATION:3-247
+DTSTART:20231226T100000Z
+SUMMARY:ПЗ Обучающиеся технические системы
+UID:dff4f2ce-6235-4975-9710-645afb7edad2@dff4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231129T150000Z
+LOCATION:3-241
+DTSTART:20231129T133000Z
+SUMMARY:ЛР Искусственный интеллект в технических системах
+UID:66063aad-3416-4022-8396-45bdb19c3ee3@6606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231115T131500Z
+LOCATION:3-145
+DTSTART:20231115T114500Z
+SUMMARY:ЛК Искусственный интеллект в технических системах
+UID:ef072e05-b226-42e5-8cc9-2e0ca8acddb5@ef07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231205T131500Z
+LOCATION:3-141
+DTSTART:20231205T114500Z
+SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
+UID:a87116b7-9e9a-4aa2-9eb8-d2e6b7efdb8a@a871.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231226T073000Z
+LOCATION:3-247
+DTSTART:20231226T060000Z
+SUMMARY:ЛК Обучающиеся технические системы
+UID:9a079fe6-1f69-4b3a-8841-bc6f93a1bbd8@9a07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20230904T131500Z
+LOCATION:3-247
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Математическое моделирование технических объектов и систем управления
+UID:9464307e-584a-468a-9e0f-995a51250961@9464.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20231218T091500Z
+LOCATION:3-241
+DTSTART:20231218T074500Z
+SUMMARY:ПЗ Обработка видеоинформации в системах управления
+UID:3d1a6a28-9902-42ec-b98a-70f430977b8a@3d1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231205T113000Z
+LOCATION:3-141
+DTSTART:20231205T100000Z
+SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
+UID:1f16ece3-2ce7-4be6-803d-6cb966d47bde@1f16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231220T150000Z
+LOCATION:3-141
+DTSTART:20231220T133000Z
+SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
+UID:f3af28ee-6696-440e-9b86-82b5ee835f5c@f3af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231205T073000Z
+LOCATION:3-247
+DTSTART:20231205T060000Z
+SUMMARY:ЛР Обучающиеся технические системы
+UID:9cf3729b-b66d-4db3-8cf9-efc504cbd954@9cf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231227T131500Z
+LOCATION:3-145
+DTSTART:20231227T114500Z
+SUMMARY:ПЗ Искусственный интеллект в технических системах
+UID:b0ede79f-7b11-4006-845e-1e14138cb283@b0ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20230928T113000Z
+LOCATION:3-145
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Современные проблемы теории управления
+UID:1f9e26e4-a8b3-4d6c-bd86-f9d0f542c8eb@1f9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231106T113000Z
+LOCATION:3-145
+DTSTART:20231106T100000Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:1e68ac1b-fbe3-4482-b1b5-e6bda38858ca@1e68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231012T113000Z
+LOCATION:3-145
+DTSTART:20231012T100000Z
+SUMMARY:ЛК Современные проблемы теории управления
+UID:6ac35146-93bf-469d-be82-1924044630f2@6ac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231115T150000Z
+LOCATION:3-241
+DTSTART:20231115T133000Z
+SUMMARY:ЛР Искусственный интеллект в технических системах
+UID:110cd459-c222-420c-bb51-0c53ffc86a29@110c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231225T113000Z
+LOCATION:3-145
+DTSTART:20231225T100000Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:93fea113-28ff-47ce-b867-185e5b113f70@93fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231115T113000Z
+LOCATION:3-145
+DTSTART:20231115T100000Z
+SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
+UID:5659448f-cf82-49b0-9f13-556fa8e3ecc2@5659.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231106T150000Z
+LOCATION:3-247
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
+UID:2bb2d17b-dd5e-4a62-91fc-de5c993b97b5@2bb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231109T164500Z
+LOCATION:3-145
+DTSTART:20231109T151500Z
+SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
+UID:43116b69-4a9f-45c5-9528-e69a29f4dc8e@4311.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231127T113000Z
+LOCATION:3-145
+DTSTART:20231127T100000Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:07ab5f08-bd48-4fa8-b327-aec7e700dc12@07ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231031T091500Z
+LOCATION:3-247
+DTSTART:20231031T074500Z
+SUMMARY:ПЗ Обучающиеся технические системы
+UID:5041afcd-5162-48b4-be3c-1dad90809f9b@5041.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20230927T131500Z
+LOCATION:3-145
+DTSTART:20230927T114500Z
+SUMMARY:ПЗ Искусственный интеллект в технических системах
+UID:94b9440c-21ed-4ad6-928f-aa89e0e10e41@94b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231030T150000Z
+LOCATION:3-243
+DTSTART:20231030T133000Z
+SUMMARY:ЛР Математическое моделирование технических объектов и систем управления
+UID:de5ca016-1163-4844-bf12-710d22e8cb0f@de5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231213T150000Z
+LOCATION:3-241
+DTSTART:20231213T133000Z
+SUMMARY:ЛР Искусственный интеллект в технических системах
+UID:88fcd07c-3da2-4b36-b10d-b392c857f2fd@88fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231023T131500Z
+LOCATION:3-247
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
+UID:0367842a-7b43-41c7-8eef-80e10188bb48@0367.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231101T131500Z
+LOCATION:3-145
+DTSTART:20231101T114500Z
+SUMMARY:ЛК Искусственный интеллект в технических системах
+UID:7fc9001e-8fb9-4787-9406-7ad83a691d03@7fc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231018T131500Z
+LOCATION:3-145
+DTSTART:20231018T114500Z
+SUMMARY:ЛК Искусственный интеллект в технических системах
+UID:5d396154-4b98-4a12-aaf3-ba500355b8b0@5d39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231107T131500Z
+LOCATION:3-141
+DTSTART:20231107T114500Z
+SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
+UID:04e35c36-c0e4-4120-89da-01c555e29dcc@04e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20230927T113000Z
+LOCATION:3-145
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Оптические и волоконно-оптические устройства и системы
+UID:96243dcc-3de0-41c6-87de-e60a216d7188@9624.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231214T131500Z
+LOCATION:3-145
+DTSTART:20231214T114500Z
+SUMMARY:ЛР Современные проблемы теории управления
+UID:9afe7061-8279-4415-bfee-b8bc59f8503e@9afe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20230919T073000Z
+LOCATION:3-247
+DTSTART:20230919T060000Z
+SUMMARY:ЛК Обучающиеся технические системы
+UID:4eba4bcd-b596-4cbb-af4a-fa670c05ad4b@4eba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20230906T131500Z
+LOCATION:3-145
+DTSTART:20230906T114500Z
+SUMMARY:ЛК Искусственный интеллект в технических системах
+UID:dad5c337-8645-4f0b-97d4-c2144b597e9d@dad5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231107T113000Z
+LOCATION:3-141
+DTSTART:20231107T100000Z
+SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
+UID:091b09f3-9103-425a-a5ff-4e0c0c588fbc@091b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231108T150000Z
+LOCATION:3-141
+DTSTART:20231108T133000Z
+SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
+UID:6e3f4ea2-964f-470f-9f8a-409bbd3f51c6@6e3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231026T131500Z
+LOCATION:3-145
+DTSTART:20231026T114500Z
+SUMMARY:ПЗ Современные проблемы теории управления
+UID:ad86c173-f986-4fb4-820e-890e9a17aec5@ad86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231024T113000Z
+LOCATION:3-141
+DTSTART:20231024T100000Z
+SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
+UID:46c55b4f-dd9d-415b-ba18-70705ba2b53a@46c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231221T150000Z
+LOCATION:3-145
+DTSTART:20231221T133000Z
+SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
+UID:e33578a6-5a5f-49f9-9132-6fa64aa8552c@e335.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231120T113000Z
+LOCATION:3-145
+DTSTART:20231120T100000Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:87e9a114-a302-42c5-b524-b469d0fc2cd0@87e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231116T131500Z
+LOCATION:3-145
+DTSTART:20231116T114500Z
+SUMMARY:ЛР Современные проблемы теории управления
+UID:f01f7280-cf7c-477f-a1f8-0f7bcf88b588@f01f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231123T113000Z
+LOCATION:3-145
+DTSTART:20231123T100000Z
+SUMMARY:ЛК Современные проблемы теории управления
+UID:e50ce8de-1162-4485-8c0c-d969d724d451@e50c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20230904T113000Z
+LOCATION:3-241
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Обработка видеоинформации в системах управления
+UID:61d359fa-ccfd-4553-83bf-e01da14269c8@61d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20230927T150000Z
+LOCATION:3-141
+DTSTART:20230927T133000Z
+SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
+UID:34273cb0-e461-4dc8-8294-31afe017a616@3427.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231017T073000Z
+LOCATION:3-247
+DTSTART:20231017T060000Z
+SUMMARY:ЛК Обучающиеся технические системы
+UID:1cac1d61-bfcb-4403-a190-9621e4b72bd7@1cac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231204T113000Z
+LOCATION:3-145
+DTSTART:20231204T100000Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:e932bc35-de32-4448-bd81-7275f854ae50@e932.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
@@ -1319,7 +879,223 @@ DTEND:20231011T131500Z
 LOCATION:3-145
 DTSTART:20231011T114500Z
 SUMMARY:ПЗ Искусственный интеллект в технических системах
-UID:101e3fa8-6b2b-44f2-a5d8-3ee11feff5d9@101e.org
+UID:e3b0589a-c4db-439c-9f55-270fa2a1925e@e3b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231219T131500Z
+LOCATION:3-141
+DTSTART:20231219T114500Z
+SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
+UID:3d9c3fc1-fb24-4d06-bc4d-89f7cde5f556@3d9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20231218T113000Z
+LOCATION:3-241
+DTSTART:20231218T100000Z
+SUMMARY:ПЗ Обработка видеоинформации в системах управления
+UID:0b4237e3-5a14-4e84-a6e6-cdabdb463fdc@0b42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231225T131500Z
+LOCATION:3-247
+DTSTART:20231225T114500Z
+SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
+UID:51388cd2-9032-4fed-afda-e82169b7c74e@5138.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231204T150000Z
+LOCATION:3-247
+DTSTART:20231204T133000Z
+SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
+UID:5038ecf4-7529-4090-9e0e-c10f372663cd@5038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231018T164500Z
+LOCATION:3-241
+DTSTART:20231018T151500Z
+SUMMARY:ЛР Искусственный интеллект в технических системах
+UID:c7700292-f435-4bef-a002-a6a8f88b2cca@c770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231213T164500Z
+LOCATION:3-241
+DTSTART:20231213T151500Z
+SUMMARY:ЛР Искусственный интеллект в технических системах
+UID:852b553c-fc37-4c16-a708-3d217ac490e8@852b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20230925T113000Z
+LOCATION:3-241
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Обработка видеоинформации в системах управления
+UID:cd2e867c-3644-4c53-bdde-f69e4b488900@cd2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231220T113000Z
+LOCATION:3-145
+DTSTART:20231220T100000Z
+SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
+UID:edf49b40-b954-4d0a-bfa4-de694ec6082f@edf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231031T073000Z
+LOCATION:3-247
+DTSTART:20231031T060000Z
+SUMMARY:ЛК Обучающиеся технические системы
+UID:f19085dd-6962-49ee-8647-f9590e25991d@f190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20230913T150000Z
+LOCATION:3-141
+DTSTART:20230913T133000Z
+SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
+UID:6c904f70-02a4-4794-952c-f1bcada001d8@6c90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231025T113000Z
+LOCATION:3-145
+DTSTART:20231025T100000Z
+SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
+UID:2a08bbdb-de69-458f-8fb3-62b039684abf@2a08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231116T113000Z
+LOCATION:3-145
+DTSTART:20231116T100000Z
+SUMMARY:ЛР Современные проблемы теории управления
+UID:52e82dac-3247-4989-8b8c-de7d7e05e08f@52e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20230919T091500Z
+LOCATION:3-247
+DTSTART:20230919T074500Z
+SUMMARY:ПЗ Обучающиеся технические системы
+UID:3f5a3630-7022-489a-95e3-b7ebcb9e8c67@3f5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231121T073000Z
+LOCATION:3-247
+DTSTART:20231121T060000Z
+SUMMARY:ЛР Обучающиеся технические системы
+UID:b0642842-3d66-4e87-b9c4-ad2e1ad4c214@b064.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231206T113000Z
+LOCATION:3-145
+DTSTART:20231206T100000Z
+SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
+UID:7acccef8-c88e-49e5-b0ba-a50e87b98c99@7acc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231109T113000Z
+LOCATION:3-145
+DTSTART:20231109T100000Z
+SUMMARY:ЛК Современные проблемы теории управления
+UID:e9b3deff-8026-48b9-a7b9-87b39057f1a0@e9b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231026T164500Z
+LOCATION:3-145
+DTSTART:20231026T151500Z
+SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
+UID:d62afb73-4533-4c54-b826-6da78617e81e@d62a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20231120T091500Z
+LOCATION:3-241
+DTSTART:20231120T074500Z
+SUMMARY:ПЗ Обработка видеоинформации в системах управления
+UID:b4459546-1fc0-4bc1-964e-df0721085826@b445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20230918T131500Z
+LOCATION:3-247
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Математическое моделирование технических объектов и систем управления
+UID:edcdd2ed-9bed-4013-ae0b-960c683838f6@edcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моржин Александр Викторович
+DTEND:20231221T113000Z
+LOCATION:3-241
+DTSTART:20231221T100000Z
+SUMMARY:ЛР Обработка видеоинформации в системах управления
+UID:decd30a7-fd17-46d6-b35d-58bc5ef5f011@decd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231129T113000Z
+LOCATION:3-145
+DTSTART:20231129T100000Z
+SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
+UID:84c6c6f0-f5ed-4a0d-abca-3bb133c9e213@84c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231011T150000Z
+LOCATION:3-141
+DTSTART:20231011T133000Z
+SUMMARY:ЛК Автоматизированное проектирование средств и систем управления
+UID:2397344d-a8b7-4395-a35d-263ee435bf98@2397.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231107T073000Z
+LOCATION:3-247
+DTSTART:20231107T060000Z
+SUMMARY:ЛР Обучающиеся технические системы
+UID:2a3147b2-e9c7-468d-b02d-a3648a4ef812@2a31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231211T131500Z
+LOCATION:3-145
+DTSTART:20231211T114500Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:5012aafe-65a7-48a5-87bf-29fb9ed83df8@5012.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231122T113000Z
+LOCATION:3-145
+DTSTART:20231122T100000Z
+SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
+UID:bcf8fd7b-891f-4bf7-affe-453f8d362666@bcf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231212T091500Z
+LOCATION:3-247
+DTSTART:20231212T074500Z
+SUMMARY:ПЗ Обучающиеся технические системы
+UID:535e222e-239f-4f3d-a5dd-fccf8e7045fe@535e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231123T131500Z
+LOCATION:3-145
+DTSTART:20231123T114500Z
+SUMMARY:ПЗ Современные проблемы теории управления
+UID:915be51c-f2a8-4f45-b97f-2ba383673001@915b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кананадзе Сергей Сергеевич
@@ -1327,7 +1103,207 @@ DTEND:20231025T131500Z
 LOCATION:3-145
 DTSTART:20231025T114500Z
 SUMMARY:ПЗ Искусственный интеллект в технических системах
-UID:b6cac4d9-2d0d-4e74-8353-e32058a79478@b6ca.org
+UID:5526d597-bed6-4092-a06f-15cb56bbcdd5@5526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231127T131500Z
+LOCATION:3-145
+DTSTART:20231127T114500Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:040bfaae-829f-4850-aff5-7edac5a14eec@040b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231016T113000Z
+LOCATION:3-145
+DTSTART:20231016T100000Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:1a629021-f8b6-4666-a3ab-77fdcaf5e9e8@1a62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моржин Александр Викторович
+DTEND:20231221T131500Z
+LOCATION:3-241
+DTSTART:20231221T114500Z
+SUMMARY:ЛР Обработка видеоинформации в системах управления
+UID:30420d79-f048-41e0-bdaa-3a4b07744dc0@3042.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231204T131500Z
+LOCATION:3-145
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:2e84ed16-a045-49f7-800d-f6b1ce5e87fc@2e84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231221T164500Z
+LOCATION:3-145
+DTSTART:20231221T151500Z
+SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
+UID:24c69be1-aaf5-45a7-9216-c04a561abac0@24c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20230906T113000Z
+LOCATION:3-145
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Оптические и волоконно-оптические устройства и системы
+UID:9a8a1b41-5a9f-4492-9e6f-d8c74b06beef@9a8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20230911T131500Z
+LOCATION:3-247
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
+UID:e92b2308-9a46-4bb6-873e-e064721ab7e1@e92b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231123T164500Z
+LOCATION:3-145
+DTSTART:20231123T151500Z
+SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
+UID:d1de0ace-abf3-47d0-9b03-76c9dc2abc4c@d1de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20231204T091500Z
+LOCATION:3-241
+DTSTART:20231204T074500Z
+SUMMARY:ПЗ Обработка видеоинформации в системах управления
+UID:0102f387-7c0c-4233-9156-0408fbe5c234@0102.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20231106T091500Z
+LOCATION:3-241
+DTSTART:20231106T074500Z
+SUMMARY:ПЗ Обработка видеоинформации в системах управления
+UID:fad34dcc-f9c0-4ad0-bcf2-22014df336f3@fad3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231213T131500Z
+LOCATION:3-145
+DTSTART:20231213T114500Z
+SUMMARY:ЛК Искусственный интеллект в технических системах
+UID:43043670-fa35-4d30-a2df-cb2a590c8da9@4304.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231207T150000Z
+LOCATION:3-145
+DTSTART:20231207T133000Z
+SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
+UID:f699f241-88ba-4e1d-a6ca-da9930625b26@f699.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231003T073000Z
+LOCATION:3-247
+DTSTART:20231003T060000Z
+SUMMARY:ЛК Обучающиеся технические системы
+UID:8236f585-5944-439f-abb1-88e49f2979d5@8236.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кананадзе Сергей Сергеевич
+DTEND:20231108T131500Z
+LOCATION:3-145
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Искусственный интеллект в технических системах
+UID:c4c6e366-20c4-4c0a-8c9d-d5f918938453@c4c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231009T131500Z
+LOCATION:3-247
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Математическое моделирование технических объектов и систем управления
+UID:ccb5861f-cafc-4b04-baf1-19900b46dcdf@ccb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20230905T073000Z
+LOCATION:3-247
+DTSTART:20230905T060000Z
+SUMMARY:ЛК Обучающиеся технические системы
+UID:6952ed46-9a9c-4bf8-811a-924fbcbd0bcc@6952.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20230913T113000Z
+LOCATION:3-145
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Оптические и волоконно-оптические устройства и системы
+UID:753073df-e941-431c-8bbb-429cfb73c0d4@7530.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231120T131500Z
+LOCATION:3-145
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:d85efc96-c5f6-4885-8c92-a241305d70d8@d85e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231219T073000Z
+LOCATION:3-247
+DTSTART:20231219T060000Z
+SUMMARY:ЛР Обучающиеся технические системы
+UID:e8f6aefa-aeb3-459b-8f06-fe40e6ea897d@e8f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231205T091500Z
+LOCATION:3-247
+DTSTART:20231205T074500Z
+SUMMARY:ЛР Обучающиеся технические системы
+UID:38489613-2eaa-4a5c-a321-b7861948a96b@3848.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мулин Павел Викторович
+DTEND:20231024T131500Z
+LOCATION:3-141
+DTSTART:20231024T114500Z
+SUMMARY:ЛР Автоматизированное проектирование средств и систем управления
+UID:3b2c0529-607a-49a6-b81f-546df5b37c15@3b2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Визильтер Юрий Валентинович
+DTEND:20230925T091500Z
+LOCATION:3-241
+DTSTART:20230925T074500Z
+SUMMARY:ПЗ Обработка видеоинформации в системах управления
+UID:fbee649d-f1b8-4231-9d2b-6ee7321c3072@fbee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231113T150000Z
+LOCATION:3-243
+DTSTART:20231113T133000Z
+SUMMARY:ЛР Математическое моделирование технических объектов и систем управления
+UID:260cfecb-7a9b-4cd8-9c8e-026043efaedf@260c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лебедев Георгий Николаевич
+DTEND:20231026T113000Z
+LOCATION:3-145
+DTSTART:20231026T100000Z
+SUMMARY:ЛК Современные проблемы теории управления
+UID:0d0f99bf-e0af-4487-a24f-3655a9c375a6@0d0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231026T150000Z
+LOCATION:3-145
+DTSTART:20231026T133000Z
+SUMMARY:ЛР Оптические и волоконно-оптические устройства и системы
+UID:a6b76eac-4f95-4857-9c74-4cae66817c9d@a6b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцев Павел Сергеевич
@@ -1335,6 +1311,30 @@ DTEND:20231113T164500Z
 LOCATION:3-243
 DTSTART:20231113T151500Z
 SUMMARY:ЛР Математическое моделирование технических объектов и систем управления
-UID:ef4afb60-f6a4-426e-a94b-967ef0807b96@ef4a.org
+UID:0a426f62-6c30-4153-b149-20f0027b974c@0a42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцев Павел Сергеевич
+DTEND:20231114T073000Z
+LOCATION:3-247
+DTSTART:20231114T060000Z
+SUMMARY:ЛК Обучающиеся технические системы
+UID:e5497427-9913-4e4b-8e3f-dc6a145b97eb@e549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бусурин Владимир Игоревич
+DTEND:20231009T113000Z
+LOCATION:3-145
+DTSTART:20231009T100000Z
+SUMMARY:ПЗ Научный семинар по управлению в технических системах
+UID:92d73fd5-dfae-4cbb-a44a-1a03d60fbd53@92d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казарьян Александр Викторович
+DTEND:20231108T113000Z
+LOCATION:3-145
+DTSTART:20231108T100000Z
+SUMMARY:ПЗ Оптические и волоконно-оптические устройства и системы
+UID:2d5294d8-9cf2-44ac-af1a-afc4a3dca2be@2d52.org
 END:VEVENT
 END:VCALENDAR

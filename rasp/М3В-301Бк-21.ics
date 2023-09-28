@@ -2,372 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20230914T183000Z
-LOCATION:5-233
-DTSTART:20230914T170000Z
-SUMMARY:ЛК Информационная безопасность
-UID:f2a67d8d-d27f-45bf-a373-cbbfd1e5f992@f2a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Илья Сергеевич
-DTEND:20230911T183000Z
-LOCATION:3-435
-DTSTART:20230911T170000Z
-SUMMARY:ЛК Экология
-UID:c7420b4d-eeb9-43ea-a532-20f784c47175@c742.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20230914T164500Z
-LOCATION:5-233
-DTSTART:20230914T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:230b7250-c0de-4405-9f4c-ec81c7f8a6e0@230b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231004T183000Z
-LOCATION:5-233
-DTSTART:20231004T170000Z
-SUMMARY:ЛК Бизнес-аналитика производственной деятельности
-UID:8940e874-dae7-4404-93b0-eb9b37ba6a9d@8940.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231123T183000Z
-LOCATION:5-233
-DTSTART:20231123T170000Z
-SUMMARY:ЛР Информационная безопасность
-UID:bf6ee5fb-389e-495c-bb6d-0ebc4d8385f8@bf6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лаврова Людмила Афанасьевна
-DTEND:20230921T164500Z
-LOCATION:Орш. В-304
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Экономика отрасли
-UID:8d7952d1-9bef-4320-8ea7-15ac7842773f@8d79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231226T183000Z
-LOCATION:5-233
-DTSTART:20231226T170000Z
-SUMMARY:ЛР Информационная безопасность
-UID:4d151e71-9b33-4025-8ee2-2414a6f87fc4@4d15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20230901T164500Z
-LOCATION:5-414А
-DTSTART:20230901T151500Z
-SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
-UID:b34fce25-a078-47b9-ba70-862b5916123e@b34f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231011T164500Z
-LOCATION:5-414А
-DTSTART:20231011T151500Z
-SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
-UID:42906e30-122d-4f65-aa42-2e2e1cd3beb0@4290.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231031T164500Z
-LOCATION:5-233
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:ee2163d6-41fc-4b41-a51c-778e5117b5fc@ee21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231114T164500Z
-LOCATION:5-233
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:0b93d191-122b-4903-b103-22e17f50b857@0b93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231206T164500Z
-LOCATION:5-414А
-DTSTART:20231206T151500Z
-SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
-UID:a867b5f6-85cb-4929-a8ae-9089a36db152@a867.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231205T183000Z
-LOCATION:5-233
-DTSTART:20231205T170000Z
-SUMMARY:ПЗ Информационный менеджмент
-UID:2da71515-101c-44e8-97f8-6cdfebc26c91@2da7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231012T183000Z
-LOCATION:5-233
-DTSTART:20231012T170000Z
-SUMMARY:ЛК Информационная безопасность
-UID:f636650a-0791-4ae5-a714-444eb1ac9a1b@f636.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231115T183000Z
-LOCATION:5-233
-DTSTART:20231115T170000Z
-SUMMARY:ЛР Бизнес-аналитика производственной деятельности
-UID:e0357c7f-7d46-4343-ba9c-d7e35c1ecf2f@e035.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20230908T183000Z
-LOCATION:5-227
-DTSTART:20230908T170000Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:f37c1c6b-2b1a-40b7-966e-b9f627d2c78f@f37c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231124T183000Z
-LOCATION:5-414А
-DTSTART:20231124T170000Z
-SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
-UID:f0e3d628-2a26-4627-add6-42b061273bce@f0e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231107T183000Z
-LOCATION:5-233
-DTSTART:20231107T170000Z
-SUMMARY:ПЗ Информационный менеджмент
-UID:cd8c890d-8bf6-4d97-a0f8-d5c3d852bf78@cd8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231018T164500Z
-LOCATION:5-233
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Бизнес-аналитика производственной деятельности
-UID:9df1ce83-334f-4160-bc5c-12989e3b0bfa@9df1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231109T183000Z
-LOCATION:5-233
-DTSTART:20231109T170000Z
-SUMMARY:ЛК Информационная безопасность
-UID:092706af-4dbb-4787-b3b6-93fd330d4dbb@0927.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231222T183000Z
-LOCATION:5-414А
-DTSTART:20231222T170000Z
-SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
-UID:246cd205-8221-44ad-ad96-d29bf3dc6444@246c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231017T183000Z
-LOCATION:5-233
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:54d31cb2-4780-453f-9ad9-ecf9b63a1b3b@54d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231222T164500Z
-LOCATION:5-414А
-DTSTART:20231222T151500Z
-SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
-UID:e875299e-2096-4bfe-a690-2ec382483bd3@e875.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231221T183000Z
-LOCATION:5-233
-DTSTART:20231221T170000Z
-SUMMARY:ЛР Информационная безопасность
-UID:41b97423-5ff7-455d-b2e1-4881ce0f1d9f@41b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231121T183000Z
-LOCATION:5-233
-DTSTART:20231121T170000Z
-SUMMARY:ПЗ Информационный менеджмент
-UID:8a7d5268-8113-48c7-b539-05f04f137055@8a7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231018T183000Z
-LOCATION:5-233
-DTSTART:20231018T170000Z
-SUMMARY:ЛК Бизнес-аналитика производственной деятельности
-UID:79ae17ee-390c-473f-9dd0-b26fc930b874@79ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Илья Сергеевич
-DTEND:20230911T164500Z
-LOCATION:3-435
-DTSTART:20230911T151500Z
-SUMMARY:ЛК Экология
-UID:5b72d97d-9613-4b8a-94a0-5d355304192c@5b72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20231117T164500Z
-LOCATION:5-227
-DTSTART:20231117T151500Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:461e2ca4-69c6-4fe9-a08e-7d70973c382f@461e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231225T183000Z
-LOCATION:5-414В
-DTSTART:20231225T170000Z
-SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
-UID:f3588962-6ce2-4679-bc60-646b82a2ffcd@f358.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20230915T183000Z
-LOCATION:5-414А
-DTSTART:20230915T170000Z
-SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
-UID:a59680a1-6e43-4456-aee3-24473faeaa7b@a596.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231124T164500Z
-LOCATION:5-414А
-DTSTART:20231124T151500Z
-SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
-UID:1868d768-2cca-4201-a6a1-ff6310f13583@1868.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231025T183000Z
-LOCATION:5-414А
-DTSTART:20231025T170000Z
-SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
-UID:00bdf2a1-caf1-433f-8ac5-6d270b9ed474@00bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Илья Сергеевич
-DTEND:20231023T183000Z
-LOCATION:3-431
-DTSTART:20231023T170000Z
-SUMMARY:ЛР Экология
-UID:1e68f924-2832-499b-b7c0-5c077814c057@1e68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20230913T164500Z
-LOCATION:5-414А
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
-UID:673c2174-de96-4be1-8ada-a16489f99b21@673c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231013T183000Z
-LOCATION:5-414А
-DTSTART:20231013T170000Z
-SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
-UID:58b038c5-9db5-4b95-9808-cca9fd45ac45@58b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231205T164500Z
-LOCATION:5-233
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Информационный менеджмент
-UID:ccd92900-a3f7-4e6c-9fd6-32a931f3659e@ccd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20231020T164500Z
-LOCATION:5-227
-DTSTART:20231020T151500Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:91f65f63-eb08-409d-97a1-ec70e3f5701e@91f6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Новиков Александр Николаевич
 DTEND:20231108T164500Z
 LOCATION:5-414А
 DTSTART:20231108T151500Z
 SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
-UID:d8f8edec-cf99-43e1-a824-f968ee3b5eeb@d8f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231109T164500Z
-LOCATION:5-233
-DTSTART:20231109T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:a71982ae-2a8a-48cf-a350-c98207a41ad5@a719.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20230926T164500Z
-LOCATION:5-233
-DTSTART:20230926T151500Z
-SUMMARY:ЛК Информационный менеджмент
-UID:eb4d9d8c-86fa-45b6-9158-beae3328c9ea@eb4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231128T164500Z
-LOCATION:5-233
-DTSTART:20231128T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:eb0b0901-fc78-450f-b4a7-bf3f8a9cf912@eb0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231027T164500Z
-LOCATION:5-414А
-DTSTART:20231027T151500Z
-SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
-UID:ed1f3e98-02f8-4232-8a99-4c2069fc3db4@ed1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20231215T183000Z
-LOCATION:5-227
-DTSTART:20231215T170000Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:705a1f60-6f7a-4256-b1e2-3d0a770fc91f@705a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231110T164500Z
-LOCATION:5-414А
-DTSTART:20231110T151500Z
-SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
-UID:9f6f0aeb-7ce7-466d-b116-c4b984485a5c@9f6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231101T183000Z
-LOCATION:5-233
-DTSTART:20231101T170000Z
-SUMMARY:ЛР Бизнес-аналитика производственной деятельности
-UID:ce96d915-b030-4aaf-96da-75d455b88f23@ce96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231213T164500Z
-LOCATION:5-233
-DTSTART:20231213T151500Z
-SUMMARY:ЛР Бизнес-аналитика производственной деятельности
-UID:c1726673-f2a7-4d9d-9a12-f5eb139f87c3@c172.org
+UID:80f23a2c-216f-4ef4-a7d6-bd0be3195064@80f2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лапушкина Елена Александровна
@@ -375,335 +15,7 @@ DTEND:20231020T183000Z
 LOCATION:5-227
 DTSTART:20231020T170000Z
 SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:25b9e953-4026-4f9a-bdfe-2ef2002a7767@25b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231101T164500Z
-LOCATION:5-233
-DTSTART:20231101T151500Z
-SUMMARY:ЛР Бизнес-аналитика производственной деятельности
-UID:cf75e7e9-65ef-4053-ad31-74080e7d4111@cf75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231129T164500Z
-LOCATION:5-233
-DTSTART:20231129T151500Z
-SUMMARY:ЛР Бизнес-аналитика производственной деятельности
-UID:dec6201e-fd02-448c-af46-86ae197e2594@dec6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20231006T183000Z
-LOCATION:5-227
-DTSTART:20231006T170000Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:262fb1af-6da1-4ad2-909b-248bbd016eed@262f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20231215T164500Z
-LOCATION:5-227
-DTSTART:20231215T151500Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:2007edaf-3c02-4473-9976-d84c327c35d2@2007.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231003T164500Z
-LOCATION:5-233
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:ce4010dd-e7bb-484b-94ec-9214df87e867@ce40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонова Марина Владимировна
-DTEND:20230907T183000Z
-LOCATION:Орш. В-304
-DTSTART:20230907T170000Z
-SUMMARY:ЛК Экономика отрасли
-UID:660e3a25-5fdf-47b8-ac69-ea294d5522fb@660e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231024T183000Z
-LOCATION:5-233
-DTSTART:20231024T170000Z
-SUMMARY:ЛК Информационный менеджмент
-UID:50808b29-6eef-4203-92de-d6ee8ff88018@5080.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20230927T183000Z
-LOCATION:5-414А
-DTSTART:20230927T170000Z
-SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
-UID:76a58515-2213-4a18-ae22-e50d039f6c18@76a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20230928T183000Z
-LOCATION:5-233
-DTSTART:20230928T170000Z
-SUMMARY:ЛК Информационная безопасность
-UID:ddec5bd8-8915-46be-bfa7-d4ced65d5cef@ddec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20230927T164500Z
-LOCATION:5-414А
-DTSTART:20230927T151500Z
-SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
-UID:36015bf6-03e4-4d55-8b15-d0a9667d5bb0@3601.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231026T164500Z
-LOCATION:5-233
-DTSTART:20231026T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:2ca7980f-dba0-40ff-91ce-cab5aa0c94e9@2ca7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231122T183000Z
-LOCATION:5-414А
-DTSTART:20231122T170000Z
-SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
-UID:011e39c8-74a1-430c-8f98-139901bc0b1c@011e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231220T164500Z
-LOCATION:5-414А
-DTSTART:20231220T151500Z
-SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
-UID:2ca2de74-e571-4c6e-9659-e4007a79c9ab@2ca2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230906T164500Z
-LOCATION:5-233
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Бизнес-аналитика производственной деятельности
-UID:56e0b79f-b2a0-43a5-bc93-007b07d13740@56e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230920T164500Z
-LOCATION:5-233
-DTSTART:20230920T151500Z
-SUMMARY:ЛК Бизнес-аналитика производственной деятельности
-UID:0cef3aa2-2f26-4f34-b79f-67977ce8aa67@0cef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20231006T164500Z
-LOCATION:5-227
-DTSTART:20231006T151500Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:e62ca418-3f65-43a6-9589-c93ddf4ac389@e62c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231226T164500Z
-LOCATION:5-233
-DTSTART:20231226T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:bd43ab65-9c08-486d-aea7-b17e248acf9e@bd43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20230922T183000Z
-LOCATION:5-227
-DTSTART:20230922T170000Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:c0f5e2c9-ca39-4c8e-a6da-5bb8c8ee3e49@c0f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20230929T164500Z
-LOCATION:5-414А
-DTSTART:20230929T151500Z
-SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
-UID:d1d40c23-1253-4570-b4ae-aaf63dac534d@d1d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Илья Сергеевич
-DTEND:20230925T183000Z
-LOCATION:3-435
-DTSTART:20230925T170000Z
-SUMMARY:ЛК Экология
-UID:afd2baec-5379-4272-8d30-2f5cee2fa177@afd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20231117T183000Z
-LOCATION:5-227
-DTSTART:20231117T170000Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:cbcbfca8-5485-4020-b5c7-f94651009d62@cbcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20230905T164500Z
-LOCATION:5-233
-DTSTART:20230905T151500Z
-SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:6022dbc6-9555-4d5c-a3a2-52d6243a0c26@6022.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231012T164500Z
-LOCATION:5-233
-DTSTART:20231012T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:ba730fed-54f4-4e79-af5e-d0a47a4c2e14@ba73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231004T164500Z
-LOCATION:5-233
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Бизнес-аналитика производственной деятельности
-UID:14e61be5-e42e-41cd-8fd9-d5c2cfe4744c@14e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231026T183000Z
-LOCATION:5-233
-DTSTART:20231026T170000Z
-SUMMARY:ЛК Информационная безопасность
-UID:c20ab0c3-a1c0-4bdf-a1a2-f36427e27eb2@c20a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20231201T183000Z
-LOCATION:5-227
-DTSTART:20231201T170000Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:932ad3ec-fe28-40a1-a2d5-4d0c40037452@932a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонова Марина Владимировна
-DTEND:20230921T183000Z
-LOCATION:Орш. В-304
-DTSTART:20230921T170000Z
-SUMMARY:ЛК Экономика отрасли
-UID:599eb407-2051-48da-9893-dae4c34a2c82@599e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231024T164500Z
-LOCATION:5-233
-DTSTART:20231024T151500Z
-SUMMARY:ЛК Информационный менеджмент
-UID:9b520a7c-4388-4b1d-8284-d904524332fe@9b52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20230913T183000Z
-LOCATION:5-414А
-DTSTART:20230913T170000Z
-SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
-UID:6d41d536-0a7d-4728-bedd-f470768fc7a2@6d41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20230928T164500Z
-LOCATION:5-233
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:929db79b-c78b-44ea-9ce3-983845dc6889@929d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231212T183000Z
-LOCATION:5-233
-DTSTART:20231212T170000Z
-SUMMARY:ЛР Информационная безопасность
-UID:0d60bb65-20a3-4a1a-b74b-549ca21d22f3@0d60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20230905T183000Z
-LOCATION:5-233
-DTSTART:20230905T170000Z
-SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:bf22e7f3-e672-4091-a3d4-b839ac0c1c4a@bf22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231108T183000Z
-LOCATION:5-414А
-DTSTART:20231108T170000Z
-SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
-UID:8bd1d765-cfee-4180-bb84-67178c3a1e12@8bd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231110T183000Z
-LOCATION:5-414А
-DTSTART:20231110T170000Z
-SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
-UID:85ee3760-6a81-407c-af4e-b5e3fb755211@85ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231010T183000Z
-LOCATION:5-233
-DTSTART:20231010T170000Z
-SUMMARY:ЛК Информационный менеджмент
-UID:3491d46c-3b3c-4a2c-bc1f-12bd2539a675@3491.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20230929T183000Z
-LOCATION:5-414А
-DTSTART:20230929T170000Z
-SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
-UID:493762c1-7ebe-441c-99ca-6e19a90640db@4937.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231207T164500Z
-LOCATION:5-233
-DTSTART:20231207T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:8157737d-8efc-45b0-927a-f7066a413ebf@8157.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20230922T164500Z
-LOCATION:5-227
-DTSTART:20230922T151500Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:0e00ff10-6c97-4514-9127-482be2dfd580@0e00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231220T183000Z
-LOCATION:5-414А
-DTSTART:20231220T170000Z
-SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
-UID:5fa52a52-25d4-4487-bef5-e9586006665c@5fa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балашова Ирина Витальевна
-DTEND:20230918T183000Z
-LOCATION:3-408
-DTSTART:20230918T170000Z
-SUMMARY:ПЗ Иностранный язык
-UID:e7196265-c336-42b1-90cf-d357673f3352@e719.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балашова Ирина Витальевна
-DTEND:20230918T164500Z
-LOCATION:3-408
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Иностранный язык
-UID:27df34bb-7915-48f8-b841-d66656cc129d@27df.org
+UID:2885314d-b098-4a0b-8a1f-89e95539129a@2885.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Щеулина Татьяна Валентиновна
@@ -711,87 +23,39 @@ DTEND:20231010T164500Z
 LOCATION:5-233
 DTSTART:20231010T151500Z
 SUMMARY:ЛК Информационный менеджмент
-UID:cba37174-cc5c-4fca-886f-fd792fd4a389@cba3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231122T164500Z
-LOCATION:5-414А
-DTSTART:20231122T151500Z
-SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
-UID:9b95ea7f-64a4-437e-88a9-d7ade6dbddd8@9b95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231221T164500Z
-LOCATION:5-233
-DTSTART:20231221T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:446b632b-a6e4-4da1-be29-9355a8b826e2@446b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231123T164500Z
-LOCATION:5-233
-DTSTART:20231123T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:9f2677e3-b7d5-4897-b2c5-a673edbb9fed@9f26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231025T164500Z
-LOCATION:5-414А
-DTSTART:20231025T151500Z
-SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
-UID:9918e423-04d5-4c53-9677-7ef2c8daf8be@9918.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231114T183000Z
-LOCATION:5-233
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:887d496b-9a13-4d3b-beca-2751f738fda5@887d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лапушкина Елена Александровна
-DTEND:20231201T164500Z
-LOCATION:5-227
-DTSTART:20231201T151500Z
-SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:51d490a2-9209-444b-81e7-7ef239875de3@51d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231212T164500Z
-LOCATION:5-233
-DTSTART:20231212T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:00a2e236-7471-4bf8-95e2-e35ca563997b@00a2.org
+UID:37848ca7-ac7e-4bd9-93c0-d1058a7a68d8@3784.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230906T183000Z
+DTEND:20231115T183000Z
 LOCATION:5-233
-DTSTART:20230906T170000Z
-SUMMARY:ЛК Бизнес-аналитика производственной деятельности
-UID:ab850169-8e78-42e0-9b55-377bdf4cf388@ab85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонова Марина Владимировна
-DTEND:20231102T183000Z
-LOCATION:Орш. В-304
-DTSTART:20231102T170000Z
-SUMMARY:ПЗ Экономика отрасли
-UID:22f2fd3a-cf36-42f4-9d68-545d49301674@22f2.org
+DTSTART:20231115T170000Z
+SUMMARY:ЛР Бизнес-аналитика производственной деятельности
+UID:dcd2d23d-119a-4e3e-8baf-344f284905c2@dcd2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20230915T164500Z
-LOCATION:5-414А
-DTSTART:20230915T151500Z
-SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
-UID:31fd6ad2-56e6-4d1e-b12f-dd12d3d58988@31fd.org
+DTEND:20231121T183000Z
+LOCATION:5-233
+DTSTART:20231121T170000Z
+SUMMARY:ПЗ Информационный менеджмент
+UID:d0360eab-e634-4209-b53d-a7ca395c83c2@d036.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230920T164500Z
+LOCATION:5-233
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Бизнес-аналитика производственной деятельности
+UID:473242d9-3b72-4bf4-ba94-bd9597b9bfe6@4732.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Илья Сергеевич
+DTEND:20230911T183000Z
+LOCATION:3-435
+DTSTART:20230911T170000Z
+SUMMARY:ЛК Экология
+UID:2a6093a1-257a-4444-a9e0-57ecc586c402@2a60.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бехтин Владимир Анатольевич
@@ -799,247 +63,7 @@ DTEND:20231031T183000Z
 LOCATION:5-233
 DTSTART:20231031T170000Z
 SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:aa9af9a8-b8a7-4c31-ac8d-929f960bd190@aa9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231003T183000Z
-LOCATION:5-233
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:6d757655-a1b9-4e0c-bd0f-13fdc7468f91@6d75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231013T164500Z
-LOCATION:5-414А
-DTSTART:20231013T151500Z
-SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
-UID:cd62a2b0-b289-4b32-a0ce-1dac6d43ef21@cd62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонова Марина Владимировна
-DTEND:20231005T183000Z
-LOCATION:Орш. В-304
-DTSTART:20231005T170000Z
-SUMMARY:ПЗ Экономика отрасли
-UID:dbf9c145-0c17-4928-a64e-0bf958b2fbb6@dbf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231115T164500Z
-LOCATION:5-233
-DTSTART:20231115T151500Z
-SUMMARY:ЛР Бизнес-аналитика производственной деятельности
-UID:787decfb-ec3d-4a05-95d4-59408b750d10@787d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Илья Сергеевич
-DTEND:20230925T164500Z
-LOCATION:3-435
-DTSTART:20230925T151500Z
-SUMMARY:ЛК Экология
-UID:e9f0694d-50d4-4880-b890-13dfdc80a1ea@e9f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231121T164500Z
-LOCATION:5-233
-DTSTART:20231121T151500Z
-SUMMARY:ПЗ Информационный менеджмент
-UID:ac02f83e-6f3c-4ba6-be93-87aaa2c54abe@ac02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20230912T164500Z
-LOCATION:5-233
-DTSTART:20230912T151500Z
-SUMMARY:ЛК Информационный менеджмент
-UID:9d5ebc38-df67-4750-8779-7d2de6205c79@9d5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231219T164500Z
-LOCATION:5-233
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Информационный менеджмент
-UID:2ca0d4ea-9822-4c93-912c-8d640d5bbbd7@2ca0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Илья Сергеевич
-DTEND:20231009T183000Z
-LOCATION:3-431
-DTSTART:20231009T170000Z
-SUMMARY:ЛР Экология
-UID:d96dbfb6-d736-4a09-8e67-828a063764d0@d96d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231208T183000Z
-LOCATION:5-414А
-DTSTART:20231208T170000Z
-SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
-UID:21fb444a-3dfb-447d-857a-8544424c63f1@21fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231027T183000Z
-LOCATION:5-414А
-DTSTART:20231027T170000Z
-SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
-UID:7bd546c5-9ec3-4f62-b738-fcbd7cb4d41d@7bd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20230919T183000Z
-LOCATION:5-233
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:380844ba-17f0-48d1-8af3-40fce00c546d@3808.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20230926T183000Z
-LOCATION:5-233
-DTSTART:20230926T170000Z
-SUMMARY:ЛК Информационный менеджмент
-UID:bef68db2-8bf9-4e6c-ae3c-62cc42f7f2c6@bef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231107T164500Z
-LOCATION:5-233
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Информационный менеджмент
-UID:b1336fca-92ee-4dd2-9b86-c2018f25eaf4@b133.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231206T183000Z
-LOCATION:5-414А
-DTSTART:20231206T170000Z
-SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
-UID:f7f39a3e-fe63-4460-afaa-501fa9ed888f@f7f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231225T164500Z
-LOCATION:5-414В
-DTSTART:20231225T151500Z
-SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
-UID:58dcd159-0a39-4465-a7fe-2fc149fc477a@58dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лаврова Людмила Афанасьевна
-DTEND:20231005T164500Z
-LOCATION:Орш. В-304
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Экономика отрасли
-UID:a72c69be-b1ce-48e8-87de-8f5fbe7cddab@a72c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20230919T164500Z
-LOCATION:5-233
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:59a76d3f-6d9e-4538-a8d0-2696905b69bc@59a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230920T183000Z
-LOCATION:5-233
-DTSTART:20230920T170000Z
-SUMMARY:ЛК Бизнес-аналитика производственной деятельности
-UID:d8539e16-0890-4040-91cd-7244cd858d24@d853.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231213T183000Z
-LOCATION:5-233
-DTSTART:20231213T170000Z
-SUMMARY:ЛР Бизнес-аналитика производственной деятельности
-UID:cc895746-86d4-4eee-8d3a-61a31e84f795@cc89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231128T183000Z
-LOCATION:5-233
-DTSTART:20231128T170000Z
-SUMMARY:ЛР Информационная безопасность
-UID:d56e8267-2aa6-41c5-b31d-d128d16502d7@d56e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231129T183000Z
-LOCATION:5-233
-DTSTART:20231129T170000Z
-SUMMARY:ЛР Бизнес-аналитика производственной деятельности
-UID:a6a04f70-e374-460b-9ea5-b09d32d9408f@a6a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20230901T183000Z
-LOCATION:5-414А
-DTSTART:20230901T170000Z
-SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
-UID:6ff307b8-f28a-41cc-aada-07f4224db25c@6ff3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231208T164500Z
-LOCATION:5-414А
-DTSTART:20231208T151500Z
-SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
-UID:2f83239a-fa8b-47fa-ada3-b2e3ed27f785@2f83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Александр Николаевич
-DTEND:20231011T183000Z
-LOCATION:5-414А
-DTSTART:20231011T170000Z
-SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
-UID:fc4547ec-7e53-4902-81b0-33768dcf55f8@fc45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бехтин Владимир Анатольевич
-DTEND:20231017T164500Z
-LOCATION:5-233
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Технология производства программных продуктов и услуг
-UID:2c40f70c-1e01-480e-a0c7-ba8e18798691@2c40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Прохоров Илья Сергеевич
-DTEND:20231009T164500Z
-LOCATION:3-431
-DTSTART:20231009T151500Z
-SUMMARY:ЛР Экология
-UID:59d9938b-8d3d-4767-8b39-a253a99a79a1@59d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонова Марина Владимировна
-DTEND:20231019T183000Z
-LOCATION:Орш. В-304
-DTSTART:20231019T170000Z
-SUMMARY:ПЗ Экономика отрасли
-UID:b2ff4b5c-7e05-4ee2-9a1d-faecfbb91856@b2ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ковалев Александр Михайлович
-DTEND:20231207T183000Z
-LOCATION:5-233
-DTSTART:20231207T170000Z
-SUMMARY:ЛР Информационная безопасность
-UID:9e719558-9574-46f6-9e0f-d57579571d9a@9e71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20230912T183000Z
-LOCATION:5-233
-DTSTART:20230912T170000Z
-SUMMARY:ЛК Информационный менеджмент
-UID:5f8ebd0f-59e6-4d08-9282-dca43320b927@5f8e.org
+UID:14d0654f-d10f-447c-a43d-a402636df54c@14d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лапушкина Елена Александровна
@@ -1047,15 +71,295 @@ DTEND:20230908T164500Z
 LOCATION:5-227
 DTSTART:20230908T151500Z
 SUMMARY:ЛР Технология производства программных продуктов и услуг
-UID:1f8ba24b-42f2-4463-9bd1-385ce7ddb2ac@1f8b.org
+UID:2f4b9148-3c85-4535-8e0d-8e03ceafa000@2f4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20230913T183000Z
+LOCATION:5-414А
+DTSTART:20230913T170000Z
+SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
+UID:436e4e32-e761-4191-8f02-350683983ccb@436e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231221T164500Z
+LOCATION:5-233
+DTSTART:20231221T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:9d1e18e2-60d6-4051-81a7-feb9844faedf@9d1e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Щеулина Татьяна Валентиновна
-DTEND:20231219T183000Z
+DTEND:20231205T164500Z
 LOCATION:5-233
-DTSTART:20231219T170000Z
+DTSTART:20231205T151500Z
 SUMMARY:ПЗ Информационный менеджмент
-UID:dce0b42e-395d-4ef5-afa9-f79a0cf07921@dce0.org
+UID:454462d6-8f8e-42d1-a83a-08980d4314c6@4544.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лаврова Людмила Афанасьевна
+DTEND:20230907T164500Z
+LOCATION:Орш. В-304
+DTSTART:20230907T151500Z
+SUMMARY:ЛК Экономика отрасли
+UID:04873d3e-37bd-4a19-9c11-90655c31cedc@0487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231018T183000Z
+LOCATION:5-233
+DTSTART:20231018T170000Z
+SUMMARY:ЛК Бизнес-аналитика производственной деятельности
+UID:608f522f-896b-4a79-b9a6-c79735cc21c4@608f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231124T164500Z
+LOCATION:5-414А
+DTSTART:20231124T151500Z
+SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
+UID:ed8513ba-afe5-4cd6-8fe1-0c1ff49137e8@ed85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231004T164500Z
+LOCATION:5-233
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Бизнес-аналитика производственной деятельности
+UID:22618c17-6363-463a-b964-99ed52a438e3@2261.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20230919T183000Z
+LOCATION:5-233
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Технология производства программных продуктов и услуг
+UID:b160ffd7-5198-4038-8314-e168cedfc95a@b160.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20230908T183000Z
+LOCATION:5-227
+DTSTART:20230908T170000Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:18594325-2388-45ab-94e5-4cb57e84e785@1859.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20231215T164500Z
+LOCATION:5-227
+DTSTART:20231215T151500Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:1241dc90-e78d-4b7e-b621-0b160441bce0@1241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20230914T164500Z
+LOCATION:5-233
+DTSTART:20230914T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:e5fd573d-4ef9-4b6c-a8b5-c7859b5fed8d@e5fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231206T183000Z
+LOCATION:5-414А
+DTSTART:20231206T170000Z
+SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
+UID:b88752ba-3d24-430b-b000-05671a3fa485@b887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231212T183000Z
+LOCATION:5-233
+DTSTART:20231212T170000Z
+SUMMARY:ЛР Информационная безопасность
+UID:254fe127-c790-41b2-b475-30d9daf9a007@254f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231027T183000Z
+LOCATION:5-414А
+DTSTART:20231027T170000Z
+SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
+UID:40fe4bbd-64b7-40ec-b0ec-a6d6f1406ef0@40fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лаврова Людмила Афанасьевна
+DTEND:20230921T164500Z
+LOCATION:Орш. В-304
+DTSTART:20230921T151500Z
+SUMMARY:ЛК Экономика отрасли
+UID:ee32d946-306c-4224-87c9-7a3d198bc579@ee32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231213T183000Z
+LOCATION:5-233
+DTSTART:20231213T170000Z
+SUMMARY:ЛР Бизнес-аналитика производственной деятельности
+UID:6cfc12d2-0b64-4263-9390-fa212b137ec8@6cfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231123T183000Z
+LOCATION:5-233
+DTSTART:20231123T170000Z
+SUMMARY:ЛР Информационная безопасность
+UID:1d0188ea-69ec-4059-8f49-e5597bbae391@1d01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231220T183000Z
+LOCATION:5-414А
+DTSTART:20231220T170000Z
+SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
+UID:80c08aa8-2377-441e-9e5e-5270e26adb89@80c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20230913T164500Z
+LOCATION:5-414А
+DTSTART:20230913T151500Z
+SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
+UID:4e6ea4e2-bd52-44e0-a088-3a13405bad15@4e6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231025T183000Z
+LOCATION:5-414А
+DTSTART:20231025T170000Z
+SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
+UID:018f09e2-4a6d-4ae1-9098-1abc5b68520e@018f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20230928T164500Z
+LOCATION:5-233
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:9461e83a-0518-4fe8-a27e-dbfceb6f4b04@9461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231221T183000Z
+LOCATION:5-233
+DTSTART:20231221T170000Z
+SUMMARY:ЛР Информационная безопасность
+UID:f5543e11-5bba-4c3c-a872-231904fb98b4@f554.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Илья Сергеевич
+DTEND:20230925T164500Z
+LOCATION:3-435
+DTSTART:20230925T151500Z
+SUMMARY:ЛК Экология
+UID:9205350c-e440-4681-a9a2-fcbd1ad4d229@9205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20230905T183000Z
+LOCATION:5-233
+DTSTART:20230905T170000Z
+SUMMARY:ЛК Технология производства программных продуктов и услуг
+UID:52d97fee-f034-4672-b6b7-8ac28830aca2@52d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231003T183000Z
+LOCATION:5-233
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Технология производства программных продуктов и услуг
+UID:e42700e9-1ac1-4a9d-874f-5305e64301b7@e427.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231012T183000Z
+LOCATION:5-233
+DTSTART:20231012T170000Z
+SUMMARY:ЛК Информационная безопасность
+UID:037fdcd9-fc6a-49fd-80fd-331ea69a637a@037f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231115T164500Z
+LOCATION:5-233
+DTSTART:20231115T151500Z
+SUMMARY:ЛР Бизнес-аналитика производственной деятельности
+UID:c314809f-c638-4685-bc44-69bb89aa7ecb@c314.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231108T183000Z
+LOCATION:5-414А
+DTSTART:20231108T170000Z
+SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
+UID:f46bd452-5420-4090-a235-b6ddcf870a2f@f46b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20230926T183000Z
+LOCATION:5-233
+DTSTART:20230926T170000Z
+SUMMARY:ЛК Информационный менеджмент
+UID:b27062ca-d761-4656-8936-5eab136fcfb2@b270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20230922T183000Z
+LOCATION:5-227
+DTSTART:20230922T170000Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:1186dcf3-014a-4527-89d0-f86a9aaaaa90@1186.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231026T164500Z
+LOCATION:5-233
+DTSTART:20231026T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:07b5b461-a3bd-4d90-93de-faeeeb795c3a@07b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231018T164500Z
+LOCATION:5-233
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Бизнес-аналитика производственной деятельности
+UID:22c4ca36-a29f-40c8-9b0d-4e21a52dedb1@22c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231013T164500Z
+LOCATION:5-414А
+DTSTART:20231013T151500Z
+SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
+UID:5e70441c-d963-4ba5-80be-e6d7f7f3b710@5e70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231129T164500Z
+LOCATION:5-233
+DTSTART:20231129T151500Z
+SUMMARY:ЛР Бизнес-аналитика производственной деятельности
+UID:70b3fb8b-b90c-4134-a9d0-ccfd6731ee59@70b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231010T183000Z
+LOCATION:5-233
+DTSTART:20231010T170000Z
+SUMMARY:ЛК Информационный менеджмент
+UID:979d3805-96b8-4618-abea-b9513b1b449b@979d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20230929T183000Z
+LOCATION:5-414А
+DTSTART:20230929T170000Z
+SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
+UID:7d157157-c365-47c6-8862-60c5cfaaee07@7d15.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Прохоров Илья Сергеевич
@@ -1063,6 +367,726 @@ DTEND:20231023T164500Z
 LOCATION:3-431
 DTSTART:20231023T151500Z
 SUMMARY:ЛР Экология
-UID:efbac128-0df6-4fb8-a1e3-66cc19a8ffaf@efba.org
+UID:4cdc0241-0b37-4460-8dd5-16c3ed4a2194@4cdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231213T164500Z
+LOCATION:5-233
+DTSTART:20231213T151500Z
+SUMMARY:ЛР Бизнес-аналитика производственной деятельности
+UID:a49f18f9-24fa-4340-863a-cda4109c2b03@a49f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231024T164500Z
+LOCATION:5-233
+DTSTART:20231024T151500Z
+SUMMARY:ЛК Информационный менеджмент
+UID:4de78fd7-0068-456e-b8c9-75f58dbb1447@4de7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231017T164500Z
+LOCATION:5-233
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Технология производства программных продуктов и услуг
+UID:1953a94c-56e7-4fcb-aee4-7582154c1857@1953.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231031T164500Z
+LOCATION:5-233
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Технология производства программных продуктов и услуг
+UID:18edbe82-4515-452b-bdae-980012bdcd76@18ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20230915T164500Z
+LOCATION:5-414А
+DTSTART:20230915T151500Z
+SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
+UID:c2b853bd-0f8d-4e1a-98df-36d1c55594e3@c2b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231012T164500Z
+LOCATION:5-233
+DTSTART:20231012T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:7073126e-66df-40f7-8033-6b6b54c2748b@7073.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231107T164500Z
+LOCATION:5-233
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Информационный менеджмент
+UID:a69e5272-bb20-4dff-b4d8-fd78265a2ee5@a69e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лаврова Людмила Афанасьевна
+DTEND:20230907T183000Z
+LOCATION:Орш. В-304
+DTSTART:20230907T170000Z
+SUMMARY:ЛК Экономика отрасли
+UID:abbcf936-42b7-4271-a93f-068e392e6581@abbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231101T164500Z
+LOCATION:5-233
+DTSTART:20231101T151500Z
+SUMMARY:ЛР Бизнес-аналитика производственной деятельности
+UID:408ead62-5a3d-48c0-bd76-4fbfc07fdf0a@408e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Илья Сергеевич
+DTEND:20231009T183000Z
+LOCATION:3-431
+DTSTART:20231009T170000Z
+SUMMARY:ЛР Экология
+UID:e5ca3f0b-f72d-4ba0-bc7c-b743d94d397c@e5ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231129T183000Z
+LOCATION:5-233
+DTSTART:20231129T170000Z
+SUMMARY:ЛР Бизнес-аналитика производственной деятельности
+UID:6832816a-4b54-423e-8d3d-27136d1fdd5c@6832.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20231201T183000Z
+LOCATION:5-227
+DTSTART:20231201T170000Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:ceb757b4-4d49-494b-a592-d5b1fa444828@ceb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231207T164500Z
+LOCATION:5-233
+DTSTART:20231207T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:3685acdc-e7b9-402e-b1ad-a1b9328fbaec@3685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231128T164500Z
+LOCATION:5-233
+DTSTART:20231128T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:53ab0c4a-5c8e-401b-8be1-a8814d1ffbca@53ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20230922T164500Z
+LOCATION:5-227
+DTSTART:20230922T151500Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:64ba4baa-c218-40b2-83dd-b59bc48ceb6e@64ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20230901T164500Z
+LOCATION:5-414А
+DTSTART:20230901T151500Z
+SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
+UID:4799c3db-932e-4e3b-bb86-c54dcbad2ed2@4799.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лаврова Людмила Афанасьевна
+DTEND:20230921T183000Z
+LOCATION:Орш. В-304
+DTSTART:20230921T170000Z
+SUMMARY:ЛК Экономика отрасли
+UID:06eeb275-9ea7-4089-8a02-26a8834881f8@06ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231109T164500Z
+LOCATION:5-233
+DTSTART:20231109T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:e3c09409-5b44-40e9-86f5-074d5a64fcf3@e3c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231114T183000Z
+LOCATION:5-233
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Технология производства программных продуктов и услуг
+UID:d9846f60-b8b1-4439-aac8-16e7ebb91652@d984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лаврова Людмила Афанасьевна
+DTEND:20231019T164500Z
+LOCATION:Орш. В-304
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Экономика отрасли
+UID:ab77dc70-cb4e-422d-b221-14b712547c0d@ab77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20230929T164500Z
+LOCATION:5-414А
+DTSTART:20230929T151500Z
+SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
+UID:990496ec-49ef-4fd7-9787-2416bc182053@9904.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Илья Сергеевич
+DTEND:20231023T183000Z
+LOCATION:3-431
+DTSTART:20231023T170000Z
+SUMMARY:ЛР Экология
+UID:e5cdfb2e-8547-43b5-8279-214fc4456e0a@e5cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20230919T164500Z
+LOCATION:5-233
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Технология производства программных продуктов и услуг
+UID:e5ef8ae7-661b-49c7-a221-ffd32887a3bc@e5ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20230912T164500Z
+LOCATION:5-233
+DTSTART:20230912T151500Z
+SUMMARY:ЛК Информационный менеджмент
+UID:9b13a229-76d9-449a-ae0b-20c9eb0e2bf3@9b13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231226T183000Z
+LOCATION:5-233
+DTSTART:20231226T170000Z
+SUMMARY:ЛР Информационная безопасность
+UID:ae2fa870-0ede-45ed-8ced-c3edf38be939@ae2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231208T183000Z
+LOCATION:5-414А
+DTSTART:20231208T170000Z
+SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
+UID:a1cc93c8-b0da-4f75-817e-dd453f717cd1@a1cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20231201T164500Z
+LOCATION:5-227
+DTSTART:20231201T151500Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:4615142f-6a1a-4246-bda1-4d5ee32deb8d@4615.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231025T164500Z
+LOCATION:5-414А
+DTSTART:20231025T151500Z
+SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
+UID:49fbd3ca-2ffe-44e3-8cdd-3a769937d508@49fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230906T183000Z
+LOCATION:5-233
+DTSTART:20230906T170000Z
+SUMMARY:ЛК Бизнес-аналитика производственной деятельности
+UID:d55b3446-7f65-483b-94ab-bcea9c2ee27d@d55b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231011T164500Z
+LOCATION:5-414А
+DTSTART:20231011T151500Z
+SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
+UID:abbffbd7-65f1-4b8f-8300-6ae8bcb1bd14@abbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231212T164500Z
+LOCATION:5-233
+DTSTART:20231212T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:bfb8405f-d04d-4a44-a830-f82785b943a7@bfb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231107T183000Z
+LOCATION:5-233
+DTSTART:20231107T170000Z
+SUMMARY:ПЗ Информационный менеджмент
+UID:9f391cd5-40d1-4c1f-8e0f-d2d5458ae155@9f39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20231117T183000Z
+LOCATION:5-227
+DTSTART:20231117T170000Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:1e662b5d-0e64-48b5-bb3a-f0cd6f5f1522@1e66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231207T183000Z
+LOCATION:5-233
+DTSTART:20231207T170000Z
+SUMMARY:ЛР Информационная безопасность
+UID:06b5af2c-d786-4692-a28e-c446da63e731@06b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231101T183000Z
+LOCATION:5-233
+DTSTART:20231101T170000Z
+SUMMARY:ЛР Бизнес-аналитика производственной деятельности
+UID:367f7cbe-681a-4e6b-b872-24251511aab5@367f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231024T183000Z
+LOCATION:5-233
+DTSTART:20231024T170000Z
+SUMMARY:ЛК Информационный менеджмент
+UID:30a766db-095b-4452-9b94-35060df079c6@30a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20230926T164500Z
+LOCATION:5-233
+DTSTART:20230926T151500Z
+SUMMARY:ЛК Информационный менеджмент
+UID:e4db1241-626d-421d-ab80-c4931283a500@e4db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231013T183000Z
+LOCATION:5-414А
+DTSTART:20231013T170000Z
+SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
+UID:a847484c-7d16-42c5-9a23-d9f9e3ede851@a847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231027T164500Z
+LOCATION:5-414А
+DTSTART:20231027T151500Z
+SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
+UID:46ba4863-38e8-462a-a1b7-fb24ab09cf1c@46ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230920T183000Z
+LOCATION:5-233
+DTSTART:20230920T170000Z
+SUMMARY:ЛК Бизнес-аналитика производственной деятельности
+UID:4aaa8974-4c58-4240-8921-403e3d0a75b6@4aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Илья Сергеевич
+DTEND:20231009T164500Z
+LOCATION:3-431
+DTSTART:20231009T151500Z
+SUMMARY:ЛР Экология
+UID:ca95baa6-395c-4c66-9586-099a5beea8f5@ca95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231017T183000Z
+LOCATION:5-233
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Технология производства программных продуктов и услуг
+UID:442a886e-b6c7-4851-aa93-a2171135f93f@442a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20230912T183000Z
+LOCATION:5-233
+DTSTART:20230912T170000Z
+SUMMARY:ЛК Информационный менеджмент
+UID:4f804a1a-1a8e-4bcd-8d5c-0c3e4924e15e@4f80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20231020T164500Z
+LOCATION:5-227
+DTSTART:20231020T151500Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:3f5825e1-d848-4eb7-8852-36ad37313929@3f58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231205T183000Z
+LOCATION:5-233
+DTSTART:20231205T170000Z
+SUMMARY:ПЗ Информационный менеджмент
+UID:f929faed-9f6d-40cd-ab50-03c9f16b5d43@f929.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лаврова Людмила Афанасьевна
+DTEND:20231019T183000Z
+LOCATION:Орш. В-304
+DTSTART:20231019T170000Z
+SUMMARY:ПЗ Экономика отрасли
+UID:8062f768-9c67-48ce-96a0-9e063136b258@8062.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20231006T183000Z
+LOCATION:5-227
+DTSTART:20231006T170000Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:32c43396-cfc7-47b3-89de-52fbd446cec3@32c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231011T183000Z
+LOCATION:5-414А
+DTSTART:20231011T170000Z
+SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
+UID:b9330325-98db-4160-98bb-359c316e8ed6@b933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231123T164500Z
+LOCATION:5-233
+DTSTART:20231123T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:cdb9d997-6bf3-46d7-a5dc-fd5008bbb104@cdb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20231215T183000Z
+LOCATION:5-227
+DTSTART:20231215T170000Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:aeeedae5-9a67-4ba0-8c37-785d10153bab@aeee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20230905T164500Z
+LOCATION:5-233
+DTSTART:20230905T151500Z
+SUMMARY:ЛК Технология производства программных продуктов и услуг
+UID:f2fe772b-1342-452e-94e4-131b6ba2fc40@f2fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20230927T164500Z
+LOCATION:5-414А
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
+UID:cad26206-e717-479d-ae90-c350cf208bc8@cad2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231003T164500Z
+LOCATION:5-233
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Технология производства программных продуктов и услуг
+UID:c7f90d61-b099-4ff9-8d30-0b92afb567e5@c7f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231121T164500Z
+LOCATION:5-233
+DTSTART:20231121T151500Z
+SUMMARY:ПЗ Информационный менеджмент
+UID:cf3e5dad-66c7-42f3-8da5-26edecf7a635@cf3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231222T183000Z
+LOCATION:5-414А
+DTSTART:20231222T170000Z
+SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
+UID:cc9bab7e-37d7-4854-8b58-ccd3f4b26966@cc9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20230901T183000Z
+LOCATION:5-414А
+DTSTART:20230901T170000Z
+SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
+UID:320f36e8-8723-4d86-ae4c-974ff7fb08ed@320f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20230915T183000Z
+LOCATION:5-414А
+DTSTART:20230915T170000Z
+SUMMARY:ЛК Стандартизация и сертификация в информационной сфере
+UID:d4c7c7ab-5c45-4374-8744-76b2baea8583@d4c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231222T164500Z
+LOCATION:5-414А
+DTSTART:20231222T151500Z
+SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
+UID:ee1e4a60-4209-439c-971d-1e03644a5c20@ee1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231225T164500Z
+LOCATION:5-414В
+DTSTART:20231225T151500Z
+SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
+UID:5ce849ea-cc30-4786-9898-70fd12de3b79@5ce8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231122T183000Z
+LOCATION:5-414А
+DTSTART:20231122T170000Z
+SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
+UID:4c58e4a7-521f-424c-8b19-a0bab0a43bb0@4c58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231110T164500Z
+LOCATION:5-414А
+DTSTART:20231110T151500Z
+SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
+UID:557b2ad7-26f8-4286-9b12-9ab2d94349e6@557b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Илья Сергеевич
+DTEND:20230911T164500Z
+LOCATION:3-435
+DTSTART:20230911T151500Z
+SUMMARY:ЛК Экология
+UID:7f901021-33a6-4a77-a856-7403df9772e1@7f90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лаврова Людмила Афанасьевна
+DTEND:20231102T164500Z
+LOCATION:Орш. В-304
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Экономика отрасли
+UID:3c200e5e-b95f-4f6e-adbf-6c9c29fa08e8@3c20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лаврова Людмила Афанасьевна
+DTEND:20231005T164500Z
+LOCATION:Орш. В-304
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Экономика отрасли
+UID:14573b88-a89b-41f2-94e5-873535b51878@1457.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20230914T183000Z
+LOCATION:5-233
+DTSTART:20230914T170000Z
+SUMMARY:ЛК Информационная безопасность
+UID:5ed1094f-e256-4ee5-922d-ce0f02328c26@5ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231225T183000Z
+LOCATION:5-414В
+DTSTART:20231225T170000Z
+SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
+UID:f9afd44e-2d43-44b0-a9f1-97bc47697c47@f9af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Прохоров Илья Сергеевич
+DTEND:20230925T183000Z
+LOCATION:3-435
+DTSTART:20230925T170000Z
+SUMMARY:ЛК Экология
+UID:b179da9a-8a80-4d15-8280-f2fb7b3a77b4@b179.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231026T183000Z
+LOCATION:5-233
+DTSTART:20231026T170000Z
+SUMMARY:ЛК Информационная безопасность
+UID:a1a00dc9-fed6-4194-a6ed-64c0cb5df7a3@a1a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231110T183000Z
+LOCATION:5-414А
+DTSTART:20231110T170000Z
+SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
+UID:af15c4a3-191b-4991-a131-f73056075774@af15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231206T164500Z
+LOCATION:5-414А
+DTSTART:20231206T151500Z
+SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
+UID:697a5ff0-bda9-4253-85a0-e97b39b7aa2c@697a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231124T183000Z
+LOCATION:5-414А
+DTSTART:20231124T170000Z
+SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
+UID:13147868-8bba-4e1d-8d31-efed9a9bfd67@1314.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231219T183000Z
+LOCATION:5-233
+DTSTART:20231219T170000Z
+SUMMARY:ПЗ Информационный менеджмент
+UID:e369c011-3788-4d95-baeb-3d37055c8c72@e369.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20231006T164500Z
+LOCATION:5-227
+DTSTART:20231006T151500Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:1a0a3c1b-86c0-46e9-bbca-ca1f487d00e1@1a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231122T164500Z
+LOCATION:5-414А
+DTSTART:20231122T151500Z
+SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
+UID:08cff800-4bc8-4570-ba92-d340e1584b05@08cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231219T164500Z
+LOCATION:5-233
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Информационный менеджмент
+UID:de7f1a14-0dcf-40b6-bf46-8ca874ac2b9f@de7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231109T183000Z
+LOCATION:5-233
+DTSTART:20231109T170000Z
+SUMMARY:ЛК Информационная безопасность
+UID:94120569-33ab-47c1-ae70-657284ce6628@9412.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231226T164500Z
+LOCATION:5-233
+DTSTART:20231226T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:25415a82-9069-471f-b1fb-58f419eaf95d@2541.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балашова Ирина Витальевна
+DTEND:20230918T164500Z
+LOCATION:3-408
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Иностранный язык
+UID:8f615c6e-3abe-4256-ad33-201125fa8ea9@8f61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лаврова Людмила Афанасьевна
+DTEND:20231005T183000Z
+LOCATION:Орш. В-304
+DTSTART:20231005T170000Z
+SUMMARY:ПЗ Экономика отрасли
+UID:f746ac9b-1ce7-4702-ad9e-65d500327b17@f746.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лаврова Людмила Афанасьевна
+DTEND:20231102T183000Z
+LOCATION:Орш. В-304
+DTSTART:20231102T170000Z
+SUMMARY:ПЗ Экономика отрасли
+UID:45f8c124-f591-4bed-9127-172a2a97deae@45f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20231128T183000Z
+LOCATION:5-233
+DTSTART:20231128T170000Z
+SUMMARY:ЛР Информационная безопасность
+UID:08604981-3ffc-411a-a0a8-f8e8ec08669b@0860.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балашова Ирина Витальевна
+DTEND:20230918T183000Z
+LOCATION:3-408
+DTSTART:20230918T170000Z
+SUMMARY:ПЗ Иностранный язык
+UID:4a4f1139-04ff-4c9f-8e05-5daa6b8a6a00@4a4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231004T183000Z
+LOCATION:5-233
+DTSTART:20231004T170000Z
+SUMMARY:ЛК Бизнес-аналитика производственной деятельности
+UID:8323fd31-f34a-4477-8363-973ceb3ebfdf@8323.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бехтин Владимир Анатольевич
+DTEND:20231114T164500Z
+LOCATION:5-233
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Технология производства программных продуктов и услуг
+UID:9da6d94e-713c-4508-9230-1bec2c0c7851@9da6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20230927T183000Z
+LOCATION:5-414А
+DTSTART:20230927T170000Z
+SUMMARY:ЛК Финансово-экономический мониторинг информационных систем
+UID:abf12e55-dbee-4a30-957c-51ec3927d704@abf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ковалев Александр Михайлович
+DTEND:20230928T183000Z
+LOCATION:5-233
+DTSTART:20230928T170000Z
+SUMMARY:ЛК Информационная безопасность
+UID:874bfbe2-b1d6-474d-bc56-f13cdea614fd@874b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лапушкина Елена Александровна
+DTEND:20231117T164500Z
+LOCATION:5-227
+DTSTART:20231117T151500Z
+SUMMARY:ЛР Технология производства программных продуктов и услуг
+UID:fbeacaef-f83d-4407-b116-f7245b1b4724@fbea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230906T164500Z
+LOCATION:5-233
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Бизнес-аналитика производственной деятельности
+UID:5bbdfcbc-0402-4fca-bddb-50855a58b4f8@5bbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Александр Николаевич
+DTEND:20231220T164500Z
+LOCATION:5-414А
+DTSTART:20231220T151500Z
+SUMMARY:ЛР Финансово-экономический мониторинг информационных систем
+UID:b04ad01a-fc5b-47f7-bfc8-cf9c500ab93b@b04a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щеулина Татьяна Валентиновна
+DTEND:20231208T164500Z
+LOCATION:5-414А
+DTSTART:20231208T151500Z
+SUMMARY:ЛР Стандартизация и сертификация в информационной сфере
+UID:abe053d6-7abb-4ce5-b82a-6725e25b1d1f@abe0.org
 END:VEVENT
 END:VCALENDAR

@@ -2,60 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231208T150000Z
-LOCATION:24Б-329
-DTSTART:20231208T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:4a837b5f-611b-4434-8e4f-87dc8a0eb61c@4a83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231208T164500Z
-LOCATION:24Б-329
-DTSTART:20231208T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:2ad2b331-8e01-4420-bce4-38799da9fa97@2ad2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230918T131500Z
+DTEND:20230925T131500Z
 LOCATION:24Б-326
-DTSTART:20230918T114500Z
+DTSTART:20230925T114500Z
 SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:22e53ac4-cb0b-4f7d-a3cb-97a3a87164fa@22e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231205T131500Z
-LOCATION:24Б-324
-DTSTART:20231205T114500Z
-SUMMARY:ЛР Кодирование в телекоммуникационных системах
-UID:cfd5f37f-bccc-4236-b878-0484105af499@cfd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231225T113000Z
-LOCATION:24Б-326
-DTSTART:20231225T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:093c2c1a-5dbd-4d22-8830-bcb65aa3808e@093c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231018T073000Z
-LOCATION:24Б-326
-DTSTART:20231018T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:8300306c-75d3-4065-922d-fbd2ab8412a7@8300.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231019T150000Z
-LOCATION:24Б-329
-DTSTART:20231019T133000Z
-SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:6f8ac43b-9143-4986-abab-293109a49009@6f8a.org
+UID:b03b68ff-7ea4-4a4d-bf3a-6a2af7b53632@b03b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
@@ -63,335 +15,7 @@ DTEND:20231009T113000Z
 LOCATION:24Б-326
 DTSTART:20231009T100000Z
 SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:d720277c-84f4-4de3-a8b4-1044b6e76e66@d720.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231101T091500Z
-LOCATION:24Б-326
-DTSTART:20231101T074500Z
-SUMMARY:ПЗ Криптографические методы защиты информации
-UID:eb2de7e2-1627-4fcf-ac2f-e1c87a80367e@eb2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231220T113000Z
-LOCATION:24Б-327
-DTSTART:20231220T100000Z
-SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
-UID:b285f3e9-a8b1-4cc2-8b31-0692f01e499d@b285.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231118T091500Z
-LOCATION:24Б-329
-DTSTART:20231118T074500Z
-SUMMARY:ПЗ Компьютерные сети
-UID:203f8cfe-55b5-4910-976f-c1fe9e6a68c1@203f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231122T073000Z
-LOCATION:24Б-326
-DTSTART:20231122T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:7786df5c-12e4-4950-bc55-26fe20bdf958@7786.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230920T091500Z
-LOCATION:24Б-326
-DTSTART:20230920T074500Z
-SUMMARY:ПЗ Криптографические методы защиты информации
-UID:9563e86a-62bb-4ec0-a872-ad92ffbddfb3@9563.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231206T073000Z
-LOCATION:24Б-326
-DTSTART:20231206T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:26756720-53fb-4183-8e84-76908da98e34@2675.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231230T073000Z
-LOCATION:24Б-329
-DTSTART:20231230T060000Z
-SUMMARY:ЛР Компьютерные сети
-UID:4e9e5fbf-724c-4aad-97de-2d6260085e7d@4e9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231222T150000Z
-LOCATION:24Б-329
-DTSTART:20231222T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:1eccf835-d712-4abc-86ab-0efe8fc49b6f@1ecc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230906T091500Z
-LOCATION:24Б-326
-DTSTART:20230906T074500Z
-SUMMARY:ПЗ Криптографические методы защиты информации
-UID:5447eccc-3a5f-4870-9559-b5b986e03ab2@5447.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231204T164500Z
-LOCATION:24Б-326
-DTSTART:20231204T151500Z
-SUMMARY:ЛР Защита информационных процессов в компьютерных системах
-UID:f66ffa57-a892-4a6e-8fbe-cba44aa241bb@f66f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231108T113000Z
-LOCATION:24Б-327
-DTSTART:20231108T100000Z
-SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
-UID:34c994d5-4195-4a82-9867-b8544cf58715@34c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231024T113000Z
-LOCATION:24Б-324
-DTSTART:20231024T100000Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:58abbc30-0cdb-4422-877a-63341dcebafc@58ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231130T164500Z
-LOCATION:24Б-329
-DTSTART:20231130T151500Z
-SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:bcb072fc-4e76-4faa-a1a1-27d5868c33cf@bcb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231215T164500Z
-LOCATION:24Б-329
-DTSTART:20231215T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:88fcc1f9-4588-4f89-9afd-e885bfb489e3@88fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231007T091500Z
-LOCATION:24Б-329
-DTSTART:20231007T074500Z
-SUMMARY:ЛК Компьютерные сети
-UID:fe9e6564-b91e-49ce-97c4-2b093db41beb@fe9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20230926T091500Z
-LOCATION:24Б-327
-DTSTART:20230926T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:f19ba9ac-b362-47b8-bedb-2a7323dd1870@f19b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230923T091500Z
-LOCATION:24Б-329
-DTSTART:20230923T074500Z
-SUMMARY:ЛК Компьютерные сети
-UID:4368770a-6d10-49f9-94ac-0fff592a09be@4368.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231117T164500Z
-LOCATION:24Б-329
-DTSTART:20231117T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:f08a2b23-869b-4e77-af90-26eeaa765c4f@f08a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20231024T091500Z
-LOCATION:24Б-327
-DTSTART:20231024T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:2baf7896-6fe6-47ff-addf-3ab65eec0d03@2baf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231204T131500Z
-LOCATION:24Б-326
-DTSTART:20231204T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:fd4ea2c1-b00e-45fc-9946-e2476981d237@fd4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231113T113000Z
-LOCATION:24Б-326
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:c9ed7f79-0235-4c0c-84fb-d841b9f6eb53@c9ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231027T164500Z
-LOCATION:24Б-329
-DTSTART:20231027T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:7772ea20-67ba-49d3-8f85-fb898c7ce821@7772.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20231003T091500Z
-LOCATION:24Б-327
-DTSTART:20231003T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:520bd088-c6c2-40dd-917a-f26336b96cfd@520b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230904T113000Z
-LOCATION:24Б-326
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:fac67295-66fb-46ba-b641-51246c7a387d@fac6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231107T131500Z
-LOCATION:24Б-324
-DTSTART:20231107T114500Z
-SUMMARY:ПЗ Кодирование в телекоммуникационных системах
-UID:f9b92b28-342d-406e-8b91-2224ec8584dc@f9b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вакульчик Ольга Витальевна
-DTEND:20230904T091500Z
-LOCATION:24Б-324
-DTSTART:20230904T074500Z
-SUMMARY:ПЗ УИРС
-UID:e314b3e2-2e14-4c1c-a97a-55107a8311f4@e314.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20230919T131500Z
-LOCATION:24Б-324
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:c78b40b2-6232-45f8-b396-b07729f9ef50@c78b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вакульчик Ольга Витальевна
-DTEND:20231016T091500Z
-LOCATION:24Б-324
-DTSTART:20231016T074500Z
-SUMMARY:ПЗ УИРС
-UID:192d274f-1d39-4c6b-93b8-7fa1268552d0@192d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230902T091500Z
-LOCATION:24Б-329
-DTSTART:20230902T074500Z
-SUMMARY:ЛК Компьютерные сети
-UID:73358ca6-5d9d-4367-b2ac-8df40c17e496@7335.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231024T131500Z
-LOCATION:24Б-324
-DTSTART:20231024T114500Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:8e34b693-9d80-400f-b8a8-a363ef8c4dfe@8e34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230909T091500Z
-LOCATION:24Б-329
-DTSTART:20230909T074500Z
-SUMMARY:ЛК Компьютерные сети
-UID:67f78776-935e-4a06-ae07-4f42f9b530e8@67f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231002T113000Z
-LOCATION:24Б-326
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:9580e476-fefc-4047-b8f5-54a929128f76@9580.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231230T091500Z
-LOCATION:24Б-329
-DTSTART:20231230T074500Z
-SUMMARY:ЛР Компьютерные сети
-UID:903b6974-5d84-4220-bc6a-bd305d7e9039@903b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231118T073000Z
-LOCATION:24Б-329
-DTSTART:20231118T060000Z
-SUMMARY:ПЗ Компьютерные сети
-UID:b59cb6a6-1444-4dc4-b576-72132ddd81c5@b59c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231110T150000Z
-LOCATION:24Б-329
-DTSTART:20231110T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:3d606934-8111-4a11-9460-fac102707bc0@3d60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230908T164500Z
-LOCATION:24Б-329
-DTSTART:20230908T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:b1da5e41-d4df-48a4-bc8f-7e4c573df416@b1da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231130T150000Z
-LOCATION:24Б-329
-DTSTART:20231130T133000Z
-SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:908a90c5-e289-4f2a-a53c-52519b2c2410@908a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231226T113000Z
-LOCATION:24Б-324
-DTSTART:20231226T100000Z
-SUMMARY:ЛР Кодирование в телекоммуникационных системах
-UID:2c56a6d7-2963-436a-8bac-b8acae16d3a3@2c56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231125T073000Z
-LOCATION:24Б-329
-DTSTART:20231125T060000Z
-SUMMARY:ЛР Компьютерные сети
-UID:b96f4d5d-dbe1-4a71-8fd4-da11f195b288@b96f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231021T073000Z
-LOCATION:24Б-329
-DTSTART:20231021T060000Z
-SUMMARY:ПЗ Компьютерные сети
-UID:b3d99730-1b68-43d0-a903-c25846d6ed4c@b3d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230908T150000Z
-LOCATION:24Б-329
-DTSTART:20230908T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:82a1d7fd-2221-438d-9333-128acc7ce49a@82a1.org
+UID:74fc6e50-8f7c-467e-854e-bd6ac683fb95@74fc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терехин Алексей Геннадиевич
@@ -399,447 +23,31 @@ DTEND:20231116T150000Z
 LOCATION:24Б-329
 DTSTART:20231116T133000Z
 SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:43b5e190-b45a-4e56-b4f5-bf52afdeb6f0@43b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231219T113000Z
-LOCATION:24Б-324
-DTSTART:20231219T100000Z
-SUMMARY:ЛР Кодирование в телекоммуникационных системах
-UID:356c6328-7ef9-412c-bf9f-4f61de45b42b@356c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20230919T113000Z
-LOCATION:24Б-324
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:0ba17863-5c16-4e30-b610-8092c7e09a6b@0ba1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230923T073000Z
-LOCATION:24Б-329
-DTSTART:20230923T060000Z
-SUMMARY:ЛК Компьютерные сети
-UID:058cdd79-304a-497d-9db9-2a31527b4e25@058c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230930T091500Z
-LOCATION:24Б-329
-DTSTART:20230930T074500Z
-SUMMARY:ЛК Компьютерные сети
-UID:a48ccfef-7027-45f7-9980-f606867d6b61@a48c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230913T073000Z
-LOCATION:24Б-326
-DTSTART:20230913T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:70f00232-9e33-46f2-8731-c19c1d7f1593@70f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230904T131500Z
-LOCATION:24Б-326
-DTSTART:20230904T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:c9d126b1-9061-4250-af8d-f0aa7a30b75b@c9d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231213T091500Z
-LOCATION:24Б-326
-DTSTART:20231213T074500Z
-SUMMARY:ПЗ Криптографические методы защиты информации
-UID:53e4e1d8-03eb-40f2-84af-631a7c563f74@53e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230927T073000Z
-LOCATION:24Б-326
-DTSTART:20230927T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:095081ce-7bf2-4689-bc8a-80e56c033312@0950.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231028T091500Z
-LOCATION:24Б-329
-DTSTART:20231028T074500Z
-SUMMARY:ПЗ Компьютерные сети
-UID:64bad96e-8523-4eaf-ad06-6381881a5e9a@64ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231027T150000Z
-LOCATION:24Б-329
-DTSTART:20231027T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:f99f8db6-c38b-4391-8aea-de4b00ffefd2@f99f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231111T073000Z
-LOCATION:24Б-329
-DTSTART:20231111T060000Z
-SUMMARY:ПЗ Компьютерные сети
-UID:c00913dd-d2e7-4606-aeeb-136acc87a048@c009.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231218T150000Z
-LOCATION:24Б-326
-DTSTART:20231218T133000Z
-SUMMARY:ЛР Защита информационных процессов в компьютерных системах
-UID:64609bc6-d1ce-4436-bb3b-d67326dcb3e3@6460.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231120T150000Z
-LOCATION:24Б-326
-DTSTART:20231120T133000Z
-SUMMARY:ЛР Защита информационных процессов в компьютерных системах
-UID:e507ac7d-3b67-46b0-b786-04d7dea16522@e507.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230911T131500Z
-LOCATION:24Б-326
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:97192840-6952-42f5-898b-dfa43ce1ba58@9719.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231014T091500Z
-LOCATION:24Б-329
-DTSTART:20231014T074500Z
-SUMMARY:ЛК Компьютерные сети
-UID:4f4073c2-6613-43a3-9ed3-160f0399a03c@4f40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231204T113000Z
-LOCATION:24Б-326
-DTSTART:20231204T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:b7b68333-b3fa-4aac-bb36-36bfbebb008d@b7b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231229T150000Z
-LOCATION:24Б-329
-DTSTART:20231229T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:9c425d48-676c-474a-aad5-51731b4f5d17@9c42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231220T131500Z
-LOCATION:24Б-327
-DTSTART:20231220T114500Z
-SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
-UID:e8cfa42b-3c7b-40c4-87bb-eda8c7e7ab98@e8cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231108T091500Z
-LOCATION:24Б-327
-DTSTART:20231108T074500Z
-SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
-UID:6391b172-c1e7-440b-bfa4-fb2472623c8f@6391.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231018T091500Z
-LOCATION:24Б-326
-DTSTART:20231018T074500Z
-SUMMARY:ПЗ Криптографические методы защиты информации
-UID:b14affc8-5fb2-45de-8328-d94200b1d0c0@b14a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231202T091500Z
-LOCATION:24Б-329
-DTSTART:20231202T074500Z
-SUMMARY:ЛР Компьютерные сети
-UID:bf258146-d614-47b0-9a8f-152a22974cab@bf25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231113T131500Z
-LOCATION:24Б-326
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:cc4eacbe-41a2-453b-8d1a-ff2ff016c4e8@cc4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231028T073000Z
-LOCATION:24Б-329
-DTSTART:20231028T060000Z
-SUMMARY:ПЗ Компьютерные сети
-UID:dc93000d-368d-4dd6-8d7f-39083c60df89@dc93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231216T073000Z
-LOCATION:24Б-329
-DTSTART:20231216T060000Z
-SUMMARY:ЛР Компьютерные сети
-UID:c87132a3-4dd6-4fa3-922f-1ccbafecde65@c871.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230925T131500Z
-LOCATION:24Б-326
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:df76ec2b-6a45-49ca-9e1c-52c12f45f09e@df76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20231114T091500Z
-LOCATION:24Б-327
-DTSTART:20231114T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:0836f777-bd00-48c7-aae0-b65be04a4b9f@0836.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231030T113000Z
-LOCATION:24Б-326
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:89ad37b4-2ffc-456a-a003-1af11993ca70@89ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231019T164500Z
-LOCATION:24Б-329
-DTSTART:20231019T151500Z
-SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:905e71b8-793a-4413-a17f-726320382e71@905e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231212T131500Z
-LOCATION:24Б-324
-DTSTART:20231212T114500Z
-SUMMARY:ЛР Кодирование в телекоммуникационных системах
-UID:f09d0df2-f5b6-41cb-849e-88a95133aa03@f09d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230909T073000Z
-LOCATION:24Б-329
-DTSTART:20230909T060000Z
-SUMMARY:ЛК Компьютерные сети
-UID:86547400-e9ef-47c4-bb23-f0752283eb0c@8654.org
+UID:7a89fbe4-6d37-4f2b-a4fd-49f8c16b513a@7a89.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вакульчик Ольга Витальевна
-DTEND:20231030T091500Z
-LOCATION:24Б-324
-DTSTART:20231030T074500Z
+DTEND:20231211T091500Z
+LOCATION:24Б-326
+DTSTART:20231211T074500Z
 SUMMARY:ПЗ УИРС
-UID:93455660-9e02-4c82-9d8f-f0ae0d9fff13@9345.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231017T113000Z
-LOCATION:24Б-324
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:91c5b83b-88b2-4345-a86e-5938803a9cf5@91c5.org
+UID:c05f9652-3892-49c1-af92-9c1a5b2b4cac@c05f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231216T091500Z
+DTEND:20231117T164500Z
 LOCATION:24Б-329
-DTSTART:20231216T074500Z
-SUMMARY:ЛР Компьютерные сети
-UID:0bbb7949-6fd8-4ecf-bb47-5002842b4eb4@0bbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231122T131500Z
-LOCATION:24Б-327
-DTSTART:20231122T114500Z
-SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
-UID:da428105-f220-458e-994b-c31eb2b6daec@da42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231125T091500Z
-LOCATION:24Б-329
-DTSTART:20231125T074500Z
-SUMMARY:ЛР Компьютерные сети
-UID:89a3ff76-3cce-4aa3-ad4b-8d32b4097fba@89a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231023T131500Z
-LOCATION:24Б-326
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:492aab7a-6e51-49cd-9f1b-29c548a3a08b@492a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231214T164500Z
-LOCATION:24Б-329
-DTSTART:20231214T151500Z
-SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:5d62c6c8-66a9-4132-b548-800c70a4c038@5d62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230916T073000Z
-LOCATION:24Б-329
-DTSTART:20230916T060000Z
-SUMMARY:ЛК Компьютерные сети
-UID:013cc46a-6d1f-4740-82d1-30d9a3263ffe@013c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230925T113000Z
-LOCATION:24Б-326
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:0682cfce-6349-46ed-9ffe-70352b521770@0682.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20230912T113000Z
-LOCATION:24Б-324
-DTSTART:20230912T100000Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:44ff334f-71cf-4827-a115-500341ced66e@44ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231115T091500Z
-LOCATION:24Б-326
-DTSTART:20231115T074500Z
-SUMMARY:ПЗ Криптографические методы защиты информации
-UID:d2f53a5f-c9a9-49ba-9e55-1c9a81398c61@d2f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231218T131500Z
-LOCATION:24Б-326
-DTSTART:20231218T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:73461e7d-d5ba-4486-91c8-8da2c158e513@7346.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вакульчик Ольга Витальевна
-DTEND:20230918T091500Z
-LOCATION:24Б-324
-DTSTART:20230918T074500Z
-SUMMARY:ПЗ УИРС
-UID:b03d8de6-d803-4fa4-8373-cc2bd1eb366c@b03d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230906T073000Z
-LOCATION:24Б-326
-DTSTART:20230906T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:d50308fa-63b2-4553-a001-6539a80f2de8@d503.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231128T131500Z
-LOCATION:24Б-324
-DTSTART:20231128T114500Z
-SUMMARY:ПЗ Кодирование в телекоммуникационных системах
-UID:d2f63248-fc84-41cd-9070-b0f936d89c48@d2f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230902T073000Z
-LOCATION:24Б-329
-DTSTART:20230902T060000Z
-SUMMARY:ЛК Компьютерные сети
-UID:e8473fea-0001-4f6d-be76-a2bdff98ae72@e847.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231106T113000Z
-LOCATION:24Б-326
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:a319bf3f-2e1c-42e8-b830-a5cc257ea44f@a319.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20230919T091500Z
-LOCATION:24Б-327
-DTSTART:20230919T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:b18f83cf-01c7-465a-8eca-c248f2682354@b18f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20230927T091500Z
-LOCATION:24Б-327
-DTSTART:20230927T074500Z
-SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
-UID:399fbf2b-f8ae-4226-818a-397045e314e1@399f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230922T164500Z
-LOCATION:24Б-329
-DTSTART:20230922T151500Z
+DTSTART:20231117T151500Z
 SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:11fb46fd-7965-46b1-85bc-f349969d8adf@11fb.org
+UID:fd870e77-15ae-4b69-91b8-377949e5752b@fd87.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231004T073000Z
+DESCRIPTION:Вакульчик Ольга Витальевна
+DTEND:20231113T091500Z
 LOCATION:24Б-326
-DTSTART:20231004T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:92de6f14-f0df-4004-b2cb-2539f788dbeb@92de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231102T150000Z
-LOCATION:24Б-329
-DTSTART:20231102T133000Z
-SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:e41a0dc0-aefb-4e57-9c80-8a0163b30bc3@e41a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231120T131500Z
-LOCATION:24Б-326
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:b4bde8ef-b381-4208-ad68-3d3ab66cce00@b4bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231013T150000Z
-LOCATION:24Б-329
-DTSTART:20231013T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:4c0422a3-8af1-4416-8d4b-ee9e1c782444@4c04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230916T091500Z
-LOCATION:24Б-329
-DTSTART:20230916T074500Z
-SUMMARY:ЛК Компьютерные сети
-UID:ece79728-161e-4170-9f10-3fde7923869d@ece7.org
+DTSTART:20231113T074500Z
+SUMMARY:ПЗ УИРС
+UID:fe4c37c9-5cca-445a-af96-53e75fb8a07b@fe4c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терехин Алексей Геннадиевич
@@ -847,447 +55,31 @@ DTEND:20231201T164500Z
 LOCATION:24Б-329
 DTSTART:20231201T151500Z
 SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:b9ad07a5-5634-4fdc-83e4-45d5ab90fdef@b9ad.org
+UID:4742adbd-cb1c-4cc9-837a-febc600dd5a7@4742.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231023T131500Z
+LOCATION:24Б-326
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:5c0e8380-0082-4f12-bc7a-7aa27601c35a@5c0e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231215T150000Z
+DTEND:20231014T091500Z
 LOCATION:24Б-329
-DTSTART:20231215T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:8414b39d-dd48-401f-aec4-d99eddb114aa@8414.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231229T164500Z
-LOCATION:24Б-329
-DTSTART:20231229T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:5c1fb495-088c-4b62-a9c0-ade46f8b9387@5c1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231007T073000Z
-LOCATION:24Б-329
-DTSTART:20231007T060000Z
+DTSTART:20231014T074500Z
 SUMMARY:ЛК Компьютерные сети
-UID:272fb2e9-0353-483f-b934-019f918e38d6@272f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20230905T091500Z
-LOCATION:24Б-327
-DTSTART:20230905T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:57238108-93e6-4e07-a6f0-2537ab95f8cb@5723.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231020T150000Z
-LOCATION:24Б-329
-DTSTART:20231020T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:c465a0fb-2f19-4c3f-a40f-5192b42aef51@c465.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231002T131500Z
-LOCATION:24Б-326
-DTSTART:20231002T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:6f0b084e-c1c9-4c98-b8d7-92fb0969201d@6f0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231127T131500Z
-LOCATION:24Б-326
-DTSTART:20231127T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:515dd3b3-cbc7-440e-aafb-92f2326b17d3@515d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231016T131500Z
-LOCATION:24Б-326
-DTSTART:20231016T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:b19d0d4b-63b1-4807-983a-adc498b7273b@b19d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231117T150000Z
-LOCATION:24Б-329
-DTSTART:20231117T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:3a8e6517-5b95-4085-b5c9-f64c173de6fc@3a8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231014T073000Z
-LOCATION:24Б-329
-DTSTART:20231014T060000Z
-SUMMARY:ЛК Компьютерные сети
-UID:c6855e36-aaeb-42fd-a0b7-6b4abb5525f1@c685.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20231017T091500Z
-LOCATION:24Б-327
-DTSTART:20231017T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:c0ad5c71-7a0f-4fb4-a95d-109bbc02c5c7@c0ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231010T131500Z
-LOCATION:24Б-324
-DTSTART:20231010T114500Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:94354f7d-4d8e-4144-afa4-785bc84a7fd5@9435.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231006T164500Z
-LOCATION:24Б-329
-DTSTART:20231006T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:d4c3e2cf-f05d-4417-b1fb-6dcdb21be887@d4c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231129T091500Z
-LOCATION:24Б-326
-DTSTART:20231129T074500Z
-SUMMARY:ПЗ Криптографические методы защиты информации
-UID:603a42c2-b382-4055-b24f-cb3f20698de2@603a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231220T073000Z
-LOCATION:24Б-326
-DTSTART:20231220T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:b42d4218-f213-4cac-bb74-f2c55372a009@b42d.org
+UID:7f42e228-6fcf-4034-972e-63dbc7b8aaa8@7f42.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вакульчик Ольга Витальевна
-DTEND:20231113T091500Z
-LOCATION:24Б-324
-DTSTART:20231113T074500Z
+DTEND:20231225T091500Z
+LOCATION:24Б-326
+DTSTART:20231225T074500Z
 SUMMARY:ПЗ УИРС
-UID:03a99022-d953-43aa-9880-c60d0d8f2493@03a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231110T164500Z
-LOCATION:24Б-329
-DTSTART:20231110T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:c6c78bc5-3f78-4bac-bcf5-baa7e77b78b8@c6c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231013T164500Z
-LOCATION:24Б-329
-DTSTART:20231013T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:3326439e-e3de-42a7-81ce-991827137fa5@3326.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20230926T131500Z
-LOCATION:24Б-324
-DTSTART:20230926T114500Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:44c6fb02-625e-49a0-89c7-a35466992034@44c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231025T073000Z
-LOCATION:24Б-326
-DTSTART:20231025T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:6e35ab7e-751f-49bf-8934-eec00175000b@6e35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231011T091500Z
-LOCATION:24Б-327
-DTSTART:20231011T074500Z
-SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
-UID:ae0dbe8a-1dd4-4433-ac2d-0b01de7d3989@ae0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20231031T091500Z
-LOCATION:24Б-327
-DTSTART:20231031T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:b2efc97b-6f89-4719-8877-0f76b1492f1c@b2ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230901T150000Z
-LOCATION:24Б-329
-DTSTART:20230901T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:bad9ca55-58af-452f-8503-6a68e0282a3b@bad9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231122T113000Z
-LOCATION:24Б-327
-DTSTART:20231122T100000Z
-SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
-UID:53190d70-68a6-40b1-b46d-b4eaf8cef990@5319.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230901T164500Z
-LOCATION:24Б-329
-DTSTART:20230901T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:06f0d72d-f339-4adc-a818-5c860e6d0274@06f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231006T150000Z
-LOCATION:24Б-329
-DTSTART:20231006T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:ce565dd0-da23-4e26-8f97-300778d86ab0@ce56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230918T113000Z
-LOCATION:24Б-326
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:42a27e67-8276-46fe-9926-c11f933a4c6a@42a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231202T073000Z
-LOCATION:24Б-329
-DTSTART:20231202T060000Z
-SUMMARY:ЛР Компьютерные сети
-UID:d0786084-1bb5-4536-b18c-90485d31822a@d078.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20230905T113000Z
-LOCATION:24Б-324
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:3439815a-e544-4e09-9ea1-f24a39aa5922@3439.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231101T073000Z
-LOCATION:24Б-326
-DTSTART:20231101T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:57d64ce5-8673-4722-b4cf-5a69c2ba1f6e@57d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231204T150000Z
-LOCATION:24Б-326
-DTSTART:20231204T133000Z
-SUMMARY:ЛР Защита информационных процессов в компьютерных системах
-UID:9b5828fb-db50-4bbf-97c6-4d241f4a3f36@9b58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231211T131500Z
-LOCATION:24Б-326
-DTSTART:20231211T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:208eab90-3dfe-40b3-bb2f-c116f307cfcd@208e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231214T150000Z
-LOCATION:24Б-329
-DTSTART:20231214T133000Z
-SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:c910c629-f56c-49f4-a3b9-6df6b350ddbc@c910.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231227T091500Z
-LOCATION:24Б-326
-DTSTART:20231227T074500Z
-SUMMARY:ПЗ Криптографические методы защиты информации
-UID:0324236e-76f1-48a0-831b-3a229f86cc34@0324.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231213T073000Z
-LOCATION:24Б-326
-DTSTART:20231213T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:e2a94d44-22fb-4496-8d1c-77952b5e8636@e2a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20230926T113000Z
-LOCATION:24Б-324
-DTSTART:20230926T100000Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:fa1e3e58-3b1c-4391-99eb-40b5bed1864a@fa1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231025T091500Z
-LOCATION:24Б-327
-DTSTART:20231025T074500Z
-SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
-UID:2b1845b2-0153-4251-962d-b1309792b6dd@2b18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231212T113000Z
-LOCATION:24Б-324
-DTSTART:20231212T100000Z
-SUMMARY:ЛР Кодирование в телекоммуникационных системах
-UID:e77a6c66-df79-43aa-890a-72ea0f7d63e2@e77a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230915T150000Z
-LOCATION:24Б-329
-DTSTART:20230915T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:b4f29a4b-4561-49b3-9830-dc48f45da092@b4f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231106T131500Z
-LOCATION:24Б-326
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:882064a8-79a5-4e20-928a-f62d95070427@8820.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231114T131500Z
-LOCATION:24Б-324
-DTSTART:20231114T114500Z
-SUMMARY:ПЗ Кодирование в телекоммуникационных системах
-UID:5396db28-4fa0-47e1-ad76-8b3cf1f61a6d@5396.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231111T091500Z
-LOCATION:24Б-329
-DTSTART:20231111T074500Z
-SUMMARY:ПЗ Компьютерные сети
-UID:cc3bd46e-a097-4e82-842a-221b5c54fe5f@cc3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231206T113000Z
-LOCATION:24Б-327
-DTSTART:20231206T100000Z
-SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
-UID:bdf51d40-377d-4214-bd1e-4b3ee5a2416a@bdf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231003T113000Z
-LOCATION:24Б-324
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:4a3a7ec1-64f3-48cf-b762-baae928816d3@4a3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20230912T091500Z
-LOCATION:24Б-327
-DTSTART:20230912T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:3b25e4b4-cbbb-4713-a129-66674117b57b@3b25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231021T091500Z
-LOCATION:24Б-329
-DTSTART:20231021T074500Z
-SUMMARY:ПЗ Компьютерные сети
-UID:b72c80ee-d571-41e7-9527-16f3224719f8@b72c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231016T113000Z
-LOCATION:24Б-326
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:a9aae0eb-4e0f-473f-a9e0-f63b940ce11c@a9aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231020T164500Z
-LOCATION:24Б-329
-DTSTART:20231020T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:68a7f9c4-afb9-4d60-af55-4ec2c3f2150a@68a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231031T131500Z
-LOCATION:24Б-324
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:e341edc5-f8f4-458a-9ee5-cd4b8aaeb3eb@e341.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231106T150000Z
-LOCATION:24Б-326
-DTSTART:20231106T133000Z
-SUMMARY:ЛР Защита информационных процессов в компьютерных системах
-UID:0506a4f3-f487-46f7-905e-5ab9ca70edf4@0506.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231010T113000Z
-LOCATION:24Б-324
-DTSTART:20231010T100000Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:c4dde04b-6615-4be9-bec8-b8d4866586b8@c4dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231124T164500Z
-LOCATION:24Б-329
-DTSTART:20231124T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:386da8dc-2c61-4fe0-a6c0-ba9a15c6a7b9@386d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231011T073000Z
-LOCATION:24Б-326
-DTSTART:20231011T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:a1fadc81-5136-4088-b7ef-7c7ece743c3e@a1fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231004T091500Z
-LOCATION:24Б-326
-DTSTART:20231004T074500Z
-SUMMARY:ПЗ Криптографические методы защиты информации
-UID:65581f12-d56e-4d30-b230-cb6890d00750@6558.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20231107T091500Z
-LOCATION:24Б-327
-DTSTART:20231107T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:bd4d9b94-7e41-4c70-a35a-905f46551084@bd4d.org
+UID:22aa048a-e6bc-49e5-8c30-52f519769317@22aa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
@@ -1295,79 +87,23 @@ DTEND:20231108T073000Z
 LOCATION:24Б-326
 DTSTART:20231108T060000Z
 SUMMARY:ЛК Криптографические методы защиты информации
-UID:4f094aa5-eccb-498b-91cb-311a7c016817@4f09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20231010T091500Z
-LOCATION:24Б-327
-DTSTART:20231010T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:f79d1b3a-6b1c-4a86-9a34-2780521b2080@f79d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231108T131500Z
-LOCATION:24Б-327
-DTSTART:20231108T114500Z
-SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
-UID:2016d88f-f385-425a-a174-9e60d70548a1@2016.org
+UID:bdedd0c7-28d3-4941-b7d6-b31bf058a4a8@bded.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231116T164500Z
+DTEND:20231117T150000Z
 LOCATION:24Б-329
-DTSTART:20231116T151500Z
-SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:94ca09b1-5993-48a2-9080-67b0a6afb5b4@94ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карпухин Евгений Олегович
-DTEND:20231121T091500Z
-LOCATION:24Б-327
-DTSTART:20231121T074500Z
-SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
-UID:f769e4a6-df44-4e65-986e-ad3fc5d6f56a@f769.org
+DTSTART:20231117T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:45440973-c9d1-42a2-aa67-4e0290b93202@4544.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231121T113000Z
+DTEND:20231212T113000Z
 LOCATION:24Б-324
-DTSTART:20231121T100000Z
-SUMMARY:ПЗ Кодирование в телекоммуникационных системах
-UID:e3feb351-a232-4373-8944-ce354bd332eb@e3fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231124T150000Z
-LOCATION:24Б-329
-DTSTART:20231124T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:0f0a4517-ef2a-499b-9699-20a466b59afd@0f0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231206T091500Z
-LOCATION:24Б-327
-DTSTART:20231206T074500Z
-SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
-UID:ae3ff5c8-4134-4155-9e51-4dec71389b04@ae3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230929T164500Z
-LOCATION:24Б-329
-DTSTART:20230929T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:f0fb39d3-f48f-49c8-bec5-cb68deb14778@f0fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231030T131500Z
-LOCATION:24Б-326
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:b69ee853-b5f6-42b6-83f3-ce13ee75c9e6@b69e.org
+DTSTART:20231212T100000Z
+SUMMARY:ЛР Кодирование в телекоммуникационных системах
+UID:2a91eb70-0a5a-4f29-bff6-6f38e3e81c1f@2a91.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
@@ -1375,23 +111,71 @@ DTEND:20231218T164500Z
 LOCATION:24Б-326
 DTSTART:20231218T151500Z
 SUMMARY:ЛР Защита информационных процессов в компьютерных системах
-UID:7d4aa1f2-2008-46b1-8bd8-f6d882bf2dc0@7d4a.org
+UID:5f0c75cf-f474-46f4-b21e-9393ae9965bc@5f0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230929T164500Z
+LOCATION:24Б-329
+DTSTART:20230929T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:472d05b5-9cba-48d0-bcde-52a16cdffa45@472d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231116T164500Z
+LOCATION:24Б-329
+DTSTART:20231116T151500Z
+SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:386e71ae-6653-49b7-8296-cc6c88b3f683@386e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231023T113000Z
+DTEND:20230904T113000Z
 LOCATION:24Б-326
-DTSTART:20231023T100000Z
+DTSTART:20230904T100000Z
 SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:e85d4723-3b59-4576-a2f8-9e005897a3bc@e85d.org
+UID:a0892999-eb91-4353-ba7a-d3ce0495eff0@a089.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231127T113000Z
+DTEND:20231018T073000Z
 LOCATION:24Б-326
-DTSTART:20231127T100000Z
+DTSTART:20231018T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:88f54f31-e6fe-43d0-9147-0df45bc35d30@88f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231118T073000Z
+LOCATION:24Б-329
+DTSTART:20231118T060000Z
+SUMMARY:ПЗ Компьютерные сети
+UID:473a4a7c-518f-4a0c-995f-688275da4f57@473a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20230925T113000Z
+LOCATION:24Б-326
+DTSTART:20230925T100000Z
 SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:925eed49-9442-475d-bfa1-91e99082553e@925e.org
+UID:6aad875b-8b84-46f5-8e07-a4cab7cb242a@6aad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231002T113000Z
+LOCATION:24Б-326
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:9231826f-10df-41ef-854e-f933e8b061b1@9231.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20230905T091500Z
+LOCATION:24Б-325
+DTSTART:20230905T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:d8a6bbe9-3b60-4288-91e9-71cd880e392b@d8a6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Михайлов Владимир Юрьевич
@@ -1399,143 +183,7 @@ DTEND:20231003T131500Z
 LOCATION:24Б-324
 DTSTART:20231003T114500Z
 SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:a5ebe33d-1f59-410a-99f7-9a31767f4561@a5eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20230913T091500Z
-LOCATION:24Б-327
-DTSTART:20230913T074500Z
-SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
-UID:98225cf9-161e-481a-81c5-5fe17db2d844@9822.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231122T091500Z
-LOCATION:24Б-327
-DTSTART:20231122T074500Z
-SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
-UID:d76a8f77-7ed0-44fe-9836-41f9e1e35a85@d76a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231107T113000Z
-LOCATION:24Б-324
-DTSTART:20231107T100000Z
-SUMMARY:ПЗ Кодирование в телекоммуникационных системах
-UID:b816ec11-f624-41e3-8c9a-a1d4db161403@b816.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231114T113000Z
-LOCATION:24Б-324
-DTSTART:20231114T100000Z
-SUMMARY:ПЗ Кодирование в телекоммуникационных системах
-UID:fd88a0db-9b6a-4196-a255-4d145958f033@fd88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вакульчик Ольга Витальевна
-DTEND:20231211T091500Z
-LOCATION:24Б-324
-DTSTART:20231211T074500Z
-SUMMARY:ПЗ УИРС
-UID:4ad71a58-f850-4899-aae7-6f4c2cf9b614@4ad7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231128T113000Z
-LOCATION:24Б-324
-DTSTART:20231128T100000Z
-SUMMARY:ПЗ Кодирование в телекоммуникационных системах
-UID:b150c4de-8b37-4a02-98ef-d4f13aa25578@b150.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231227T073000Z
-LOCATION:24Б-326
-DTSTART:20231227T060000Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:266efa39-fea2-41c7-b39d-a8130f6d4e65@266e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231226T131500Z
-LOCATION:24Б-324
-DTSTART:20231226T114500Z
-SUMMARY:ЛР Кодирование в телекоммуникационных системах
-UID:fee64d53-f133-4b36-b529-5405de10648d@fee6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231009T131500Z
-LOCATION:24Б-326
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
-UID:096e997a-06d2-45cc-8c2b-e820a663f566@096e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Джум Владимир Сергеевич
-DTEND:20231206T131500Z
-LOCATION:24Б-327
-DTSTART:20231206T114500Z
-SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
-UID:ade44f70-7ef2-47a4-bcdb-feada7edbef5@ade4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231211T113000Z
-LOCATION:24Б-326
-DTSTART:20231211T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:b1235279-83c0-49a5-af32-c984284f73d0@b123.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230930T073000Z
-LOCATION:24Б-329
-DTSTART:20230930T060000Z
-SUMMARY:ЛК Компьютерные сети
-UID:8d7acd25-0ae0-4eb9-b99e-e90f92e03463@8d7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231219T131500Z
-LOCATION:24Б-324
-DTSTART:20231219T114500Z
-SUMMARY:ЛР Кодирование в телекоммуникационных системах
-UID:0da6c8cb-350c-486e-9365-8de555559181@0da6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230915T164500Z
-LOCATION:24Б-329
-DTSTART:20230915T151500Z
-SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:417ca546-6b91-4f4d-bb4d-83c4956bc4be@417c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20230911T113000Z
-LOCATION:24Б-326
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:f3d329f4-1983-4488-9372-fc431eace1c3@f3d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231017T131500Z
-LOCATION:24Б-324
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:fa328c6f-ed0f-42f2-a129-c685a06c8751@fa32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231120T113000Z
-LOCATION:24Б-326
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:95a70aa6-8b40-417f-b3e9-6087c21878da@95a7.org
+UID:28c01fb0-06e9-4886-8b63-3a539c357816@28c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Михайлов Владимир Юрьевич
@@ -1543,47 +191,103 @@ DTEND:20231121T131500Z
 LOCATION:24Б-324
 DTSTART:20231121T114500Z
 SUMMARY:ПЗ Кодирование в телекоммуникационных системах
-UID:8035ad03-cb62-4834-9945-8975221f3d9e@8035.org
+UID:78a948fd-a1fb-4740-a482-a1f8af39a778@78a9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231102T164500Z
+DTEND:20231216T091500Z
 LOCATION:24Б-329
-DTSTART:20231102T151500Z
-SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:dfb1796f-7b89-4367-8b65-3972a29016f1@dfb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20230912T131500Z
-LOCATION:24Б-324
-DTSTART:20230912T114500Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:94202010-7c50-408e-a62a-2c448f2b4e7c@9420.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231031T113000Z
-LOCATION:24Б-324
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:839b5c5d-c8c9-482e-a2e7-5cb7780a6f9c@839b.org
+DTSTART:20231216T074500Z
+SUMMARY:ЛР Компьютерные сети
+UID:c988dbf9-6fb2-4a6f-afee-7ed5feff5929@c988.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231106T164500Z
+DTEND:20231106T113000Z
 LOCATION:24Б-326
-DTSTART:20231106T151500Z
-SUMMARY:ЛР Защита информационных процессов в компьютерных системах
-UID:a8710510-43ac-43b3-adcc-d9681c7f1c18@a871.org
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:96c007b3-2674-47dd-9b60-fab453327a78@96c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231128T131500Z
+LOCATION:24Б-324
+DTSTART:20231128T114500Z
+SUMMARY:ПЗ Кодирование в телекоммуникационных системах
+UID:efa294cf-d4b3-4992-98a5-2bc3eb9d6078@efa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231206T131500Z
+LOCATION:24Б-327
+DTSTART:20231206T114500Z
+SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
+UID:9a33967b-a0b2-482e-adbb-d29a63c9e0f6@9a33.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20230929T150000Z
+DTEND:20231215T150000Z
 LOCATION:24Б-329
-DTSTART:20230929T133000Z
+DTSTART:20231215T133000Z
 SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:d00509c0-96f9-4a24-81c4-2b37af3bbbe8@d005.org
+UID:695780fe-c9b8-4b3b-be28-cc70fdef82d2@6957.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231130T164500Z
+LOCATION:24Б-329
+DTSTART:20231130T151500Z
+SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:08773bda-a78b-497c-b2ec-454e0c5b44e2@0877.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20230926T131500Z
+LOCATION:24Б-324
+DTSTART:20230926T114500Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:a4afc1b3-a804-46d6-8362-3064c5134678@a4af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231106T131500Z
+LOCATION:24Б-326
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:303ab100-ec0d-4e88-882f-8f9dfff06729@303a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231028T073000Z
+LOCATION:24Б-329
+DTSTART:20231028T060000Z
+SUMMARY:ПЗ Компьютерные сети
+UID:dd1f2180-db20-4cfe-b560-5205c023f538@dd1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231124T164500Z
+LOCATION:24Б-329
+DTSTART:20231124T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:8fe7c0b7-0e0b-4741-a39b-a3e483d12f71@8fe7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231208T150000Z
+LOCATION:24Б-329
+DTSTART:20231208T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:151e3092-f853-4270-b01c-aa556442e92a@151e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231017T113000Z
+LOCATION:24Б-324
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:587a5254-1de0-4939-808f-4d4fe4917f75@587a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терехин Алексей Геннадиевич
@@ -1591,7 +295,79 @@ DTEND:20230922T150000Z
 LOCATION:24Б-329
 DTSTART:20230922T133000Z
 SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:120d45fe-3484-443c-8017-194f84fd1f3b@120d.org
+UID:03f2ea3c-7f77-43d4-a4b3-b8708f118c52@03f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231229T164500Z
+LOCATION:24Б-329
+DTSTART:20231229T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:df36ed64-16bd-41e0-9111-f8b7cf35f593@df36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231021T091500Z
+LOCATION:24Б-329
+DTSTART:20231021T074500Z
+SUMMARY:ПЗ Компьютерные сети
+UID:4ba6586e-c6bc-4682-971e-f1c4117fa8d2@4ba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230915T150000Z
+LOCATION:24Б-329
+DTSTART:20230915T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:56e7a40f-9a01-487d-90ba-2fc68410c103@56e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20230913T091500Z
+LOCATION:24Б-327
+DTSTART:20230913T074500Z
+SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
+UID:48d2a421-342e-4758-9dd0-345870117701@48d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231219T131500Z
+LOCATION:24Б-324
+DTSTART:20231219T114500Z
+SUMMARY:ЛР Кодирование в телекоммуникационных системах
+UID:5a5e049c-a47a-422c-a29c-870b97e109d6@5a5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вакульчик Ольга Витальевна
+DTEND:20231002T091500Z
+LOCATION:24Б-326
+DTSTART:20231002T074500Z
+SUMMARY:ПЗ УИРС
+UID:003c07ef-e77f-4e1a-bfad-e857e28f0784@003c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231006T164500Z
+LOCATION:24Б-329
+DTSTART:20231006T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:cbcf3a4f-924e-4526-bfd8-198d4699ccd9@cbcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20231010T091500Z
+LOCATION:24Б-325
+DTSTART:20231010T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:0a0038c9-4a71-4319-892a-a3de69f4f70f@0a00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231122T073000Z
+LOCATION:24Б-326
+DTSTART:20231122T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:95cdd055-9e7e-4eaa-9942-14a61c5584f1@95cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
@@ -1599,63 +375,407 @@ DTEND:20231115T073000Z
 LOCATION:24Б-326
 DTSTART:20231115T060000Z
 SUMMARY:ЛК Криптографические методы защиты информации
-UID:d4379f58-e6a3-49f9-813c-c8020149afb9@d437.org
+UID:dd3c7dc9-eb7f-44ad-8321-dcf89fc7b398@dd3c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Терехин Алексей Геннадиевич
-DTEND:20231201T150000Z
-LOCATION:24Б-329
-DTSTART:20231201T133000Z
-SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:7d01ede5-b712-4319-a82c-01498186875e@7d01.org
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231030T113000Z
+LOCATION:24Б-326
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:449832ed-302f-4a13-aa3c-dee58da0c3d3@4498.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вакульчик Ольга Витальевна
-DTEND:20231225T091500Z
-LOCATION:24Б-324
-DTSTART:20231225T074500Z
+DTEND:20230904T091500Z
+LOCATION:24Б-326
+DTSTART:20230904T074500Z
 SUMMARY:ПЗ УИРС
-UID:a88687ee-55b8-4e84-bde8-5c74bc502019@a886.org
+UID:b7dc88ea-6150-40f7-b068-cb75675584e9@b7dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231230T073000Z
+LOCATION:24Б-329
+DTSTART:20231230T060000Z
+SUMMARY:ЛР Компьютерные сети
+UID:a162244f-8e5d-486f-adec-e294e8b133e5@a162.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231120T164500Z
+DTEND:20230913T073000Z
 LOCATION:24Б-326
-DTSTART:20231120T151500Z
-SUMMARY:ЛР Защита информационных процессов в компьютерных системах
-UID:04f680da-c628-4ed2-aef2-b4b94ff5a7c1@04f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20230905T131500Z
-LOCATION:24Б-324
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Кодирование в телекоммуникационных системах
-UID:e5ee9795-ce61-47c1-ad64-5068ca0c68ac@e5ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231129T073000Z
-LOCATION:24Б-326
-DTSTART:20231129T060000Z
+DTSTART:20230913T060000Z
 SUMMARY:ЛК Криптографические методы защиты информации
-UID:21d3392b-043d-41c9-9ee7-8e13fe519423@21d3.org
+UID:3df455e5-a026-4d6f-80b8-864cad9aaf19@3df4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230901T150000Z
+LOCATION:24Б-329
+DTSTART:20230901T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:b97d0ca1-b47f-4548-9dfc-ec3f2809bf92@b97d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Михайлов Владимир Юрьевич
-DTEND:20231205T113000Z
+DTEND:20231017T131500Z
 LOCATION:24Б-324
-DTSTART:20231205T100000Z
-SUMMARY:ЛР Кодирование в телекоммуникационных системах
-UID:9311d41a-007b-4965-a983-5fdd9f7a4638@9311.org
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:8372c531-5bdd-4c9f-a6d1-72e37efc5499@8372.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
-DTEND:20231218T113000Z
+DTEND:20231030T131500Z
 LOCATION:24Б-326
-DTSTART:20231218T100000Z
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:2008750d-b3f3-486e-bb85-79168eb98fa5@2008.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231127T131500Z
+LOCATION:24Б-326
+DTSTART:20231127T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:9eddec06-a107-4733-a0c0-76eb4aa81f45@9edd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231222T150000Z
+LOCATION:24Б-329
+DTSTART:20231222T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:c557b6f7-72be-4540-8559-c42fbf43f594@c557.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231004T073000Z
+LOCATION:24Б-326
+DTSTART:20231004T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:587af578-5166-45f9-9aa1-b1a03c7711c7@587a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231019T150000Z
+LOCATION:24Б-329
+DTSTART:20231019T133000Z
+SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:4e1eab97-8914-484e-b999-e2ba3c8aee1a@4e1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20230918T131500Z
+LOCATION:24Б-326
+DTSTART:20230918T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:371298e5-4af4-4e62-9b69-1722fce73010@3712.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231213T091500Z
+LOCATION:24Б-326
+DTSTART:20231213T074500Z
+SUMMARY:ПЗ Криптографические методы защиты информации
+UID:d7c4c0a0-d6f9-4e49-ab18-b8c835268ba8@d7c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231220T073000Z
+LOCATION:24Б-326
+DTSTART:20231220T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:632fb9cd-a682-4867-9ead-6bcfd9621c83@632f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231007T073000Z
+LOCATION:24Б-329
+DTSTART:20231007T060000Z
+SUMMARY:ЛК Компьютерные сети
+UID:c623ed13-4114-419e-afaf-1ec7aba5d733@c623.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231202T073000Z
+LOCATION:24Б-329
+DTSTART:20231202T060000Z
+SUMMARY:ЛР Компьютерные сети
+UID:0b3619e4-f0e8-4def-9784-ad1b0e92a01c@0b36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231010T113000Z
+LOCATION:24Б-324
+DTSTART:20231010T100000Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:9c68baa0-943a-4d67-ba3f-deefbde9313a@9c68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231107T113000Z
+LOCATION:24Б-324
+DTSTART:20231107T100000Z
+SUMMARY:ПЗ Кодирование в телекоммуникационных системах
+UID:a96a6659-81da-4d3e-8ba0-d1c76801bcb3@a96a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231110T150000Z
+LOCATION:24Б-329
+DTSTART:20231110T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:51e21715-bf32-4674-91a7-c4c057ae69cc@51e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20230911T113000Z
+LOCATION:24Б-326
+DTSTART:20230911T100000Z
 SUMMARY:ЛК Защита информационных процессов в компьютерных системах
-UID:719798a7-6a52-46f3-a0b0-95fd29968c17@7197.org
+UID:ed0a3fd8-5360-4f27-85bf-53c6559c850e@ed0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231108T113000Z
+LOCATION:24Б-327
+DTSTART:20231108T100000Z
+SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
+UID:9f6700b6-251f-48eb-b888-22b4e64c49a5@9f67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231225T113000Z
+LOCATION:24Б-326
+DTSTART:20231225T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:4ba3ca9a-5ddb-446f-b153-cc7abfde7a24@4ba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231027T164500Z
+LOCATION:24Б-329
+DTSTART:20231027T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:3b8ebd30-d31e-4591-8571-9b66cb085379@3b8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230915T164500Z
+LOCATION:24Б-329
+DTSTART:20230915T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:add746f0-ab97-4c85-95ee-baaaa8858359@add7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20230920T091500Z
+LOCATION:24Б-326
+DTSTART:20230920T074500Z
+SUMMARY:ПЗ Криптографические методы защиты информации
+UID:ba18cb47-8cec-4df9-9775-72a984c535a8@ba18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20230927T091500Z
+LOCATION:24Б-327
+DTSTART:20230927T074500Z
+SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
+UID:35e1e839-b3eb-458a-a595-ce0e9f145f98@35e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231120T113000Z
+LOCATION:24Б-326
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:1cd85d20-4f45-4f85-b715-edef44f31ff6@1cd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231226T131500Z
+LOCATION:24Б-324
+DTSTART:20231226T114500Z
+SUMMARY:ЛР Кодирование в телекоммуникационных системах
+UID:6a6260db-890a-499d-8f8a-96c17f972792@6a62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20230926T113000Z
+LOCATION:24Б-324
+DTSTART:20230926T100000Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:3b74599f-4908-46fc-b8b7-e9e570791d2f@3b74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231014T073000Z
+LOCATION:24Б-329
+DTSTART:20231014T060000Z
+SUMMARY:ЛК Компьютерные сети
+UID:16d3ed58-4697-4782-bb1d-423f72e8ac3d@16d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20231107T091500Z
+LOCATION:24Б-325
+DTSTART:20231107T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:d73447af-bc87-4658-a673-7da72ef2e4f2@d734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20230911T131500Z
+LOCATION:24Б-326
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:f2eacea2-8154-4332-b802-e5d17bb9960f@f2ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231114T113000Z
+LOCATION:24Б-324
+DTSTART:20231114T100000Z
+SUMMARY:ПЗ Кодирование в телекоммуникационных системах
+UID:5e2fb8b0-cb27-4224-965b-80780901ab14@5e2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20231114T091500Z
+LOCATION:24Б-325
+DTSTART:20231114T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:88b195d7-7e2f-4767-931f-fdee6fbc307b@88b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231107T131500Z
+LOCATION:24Б-324
+DTSTART:20231107T114500Z
+SUMMARY:ПЗ Кодирование в телекоммуникационных системах
+UID:d7b3b1d7-9bc1-4338-b17c-aa7a909b3740@d7b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20230906T091500Z
+LOCATION:24Б-326
+DTSTART:20230906T074500Z
+SUMMARY:ПЗ Криптографические методы защиты информации
+UID:a3f9a880-ed46-4bca-b58c-80548883fef9@a3f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231019T164500Z
+LOCATION:24Б-329
+DTSTART:20231019T151500Z
+SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:9e94ca5b-9005-4b4e-bc94-46f5f6354064@9e94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231218T131500Z
+LOCATION:24Б-326
+DTSTART:20231218T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:9b1cad14-eec4-4c5e-b149-09c2a755bd1b@9b1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20230906T073000Z
+LOCATION:24Б-326
+DTSTART:20230906T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:21fab807-9ea7-477b-8120-2dbbacc9e914@21fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230930T073000Z
+LOCATION:24Б-329
+DTSTART:20230930T060000Z
+SUMMARY:ЛК Компьютерные сети
+UID:098e00f4-9f52-4ec2-a3c7-e2c0ffe66883@098e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вакульчик Ольга Витальевна
+DTEND:20231127T091500Z
+LOCATION:24Б-326
+DTSTART:20231127T074500Z
+SUMMARY:ПЗ УИРС
+UID:e4d42011-22ea-4edc-8051-5fdf520f1b0c@e4d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230923T073000Z
+LOCATION:24Б-329
+DTSTART:20230923T060000Z
+SUMMARY:ЛК Компьютерные сети
+UID:1e23cc53-9e46-4cbc-b42a-86c548d9e4cb@1e23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20231017T091500Z
+LOCATION:24Б-325
+DTSTART:20231017T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:d209d89a-1950-4036-b95f-9cc89a6e7f55@d209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231007T091500Z
+LOCATION:24Б-329
+DTSTART:20231007T074500Z
+SUMMARY:ЛК Компьютерные сети
+UID:0e62e802-f5a9-4787-bdee-58b10968f774@0e62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231013T164500Z
+LOCATION:24Б-329
+DTSTART:20231013T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:75ecebb5-22f2-4d18-8210-778f40b186a9@75ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231024T131500Z
+LOCATION:24Б-324
+DTSTART:20231024T114500Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:e526925b-02e3-414f-92c8-1b56b16ea29a@e526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231118T091500Z
+LOCATION:24Б-329
+DTSTART:20231118T074500Z
+SUMMARY:ПЗ Компьютерные сети
+UID:d6ccd864-7932-4b80-b9b8-f6a9301c5002@d6cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231120T131500Z
+LOCATION:24Б-326
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:4c4c3a86-5ee2-4bdb-bfb2-abe50e08d801@4c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231216T073000Z
+LOCATION:24Б-329
+DTSTART:20231216T060000Z
+SUMMARY:ЛР Компьютерные сети
+UID:aafad786-5245-4bb7-9208-f0b653bb90d1@aafa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231125T091500Z
+LOCATION:24Б-329
+DTSTART:20231125T074500Z
+SUMMARY:ЛР Компьютерные сети
+UID:83c256bb-01ee-4f12-a84c-9a3b1b10d021@83c2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Витомский Евгений Владиславович
@@ -1663,7 +783,567 @@ DTEND:20230920T073000Z
 LOCATION:24Б-326
 DTSTART:20230920T060000Z
 SUMMARY:ЛК Криптографические методы защиты информации
-UID:86205e77-206c-4598-912a-fe0ce5e444a8@8620.org
+UID:288c015d-ea03-4b1d-9d85-1a02ed2fd4ff@288c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20230919T113000Z
+LOCATION:24Б-324
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:ed198c2c-6b05-4b0d-b8ba-1c3c4de69088@ed19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231111T073000Z
+LOCATION:24Б-329
+DTSTART:20231111T060000Z
+SUMMARY:ПЗ Компьютерные сети
+UID:5d9deaa2-1791-4f67-8cde-b8dbdf9bf114@5d9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231205T131500Z
+LOCATION:24Б-324
+DTSTART:20231205T114500Z
+SUMMARY:ЛР Кодирование в телекоммуникационных системах
+UID:4289de14-ae9d-4aa5-a580-607d1df51409@4289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231010T131500Z
+LOCATION:24Б-324
+DTSTART:20231010T114500Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:981c2ff9-1f2c-42b6-9d2b-caedd32b7804@981c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231003T113000Z
+LOCATION:24Б-324
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:766cb36a-7078-41c0-8ddb-a6f0ca036c85@766c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20230926T091500Z
+LOCATION:24Б-325
+DTSTART:20230926T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:1ba50fdc-f1d0-414f-a648-a61bc6df735a@1ba5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231027T150000Z
+LOCATION:24Б-329
+DTSTART:20231027T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:c1c4631d-134a-43b4-b801-1eee07be32eb@c1c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231101T091500Z
+LOCATION:24Б-326
+DTSTART:20231101T074500Z
+SUMMARY:ПЗ Криптографические методы защиты информации
+UID:365df2f0-84bf-4ab4-9c58-77b1b8ccdcf9@365d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231124T150000Z
+LOCATION:24Б-329
+DTSTART:20231124T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:7fd926ab-2d1b-40ae-81c4-e4cd4e327af1@7fd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вакульчик Ольга Витальевна
+DTEND:20230918T091500Z
+LOCATION:24Б-326
+DTSTART:20230918T074500Z
+SUMMARY:ПЗ УИРС
+UID:c81619e1-fb5b-4cec-aa96-c6e7bd89a1c7@c816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231130T150000Z
+LOCATION:24Б-329
+DTSTART:20231130T133000Z
+SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:b2700d3a-5f68-4ac2-a04a-ed51cdce95ce@b270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231204T150000Z
+LOCATION:24Б-326
+DTSTART:20231204T133000Z
+SUMMARY:ЛР Защита информационных процессов в компьютерных системах
+UID:a83e5cb0-cf03-4304-af5b-e9eceac81f94@a83e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230909T073000Z
+LOCATION:24Б-329
+DTSTART:20230909T060000Z
+SUMMARY:ЛК Компьютерные сети
+UID:cdb06912-ed3b-4a23-b263-5d9357445e04@cdb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231108T091500Z
+LOCATION:24Б-327
+DTSTART:20231108T074500Z
+SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
+UID:3a195784-50cf-4ec9-a863-aeabfb4f383c@3a19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20230904T131500Z
+LOCATION:24Б-326
+DTSTART:20230904T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:59b8f76f-9dc4-4786-beff-8ffc2161d924@59b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231220T113000Z
+LOCATION:24Б-327
+DTSTART:20231220T100000Z
+SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
+UID:11c98164-e0ad-4fe8-9eed-08ba889fd220@11c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231002T131500Z
+LOCATION:24Б-326
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:0a35b555-938c-4035-a4a8-0c459288572a@0a35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231120T164500Z
+LOCATION:24Б-326
+DTSTART:20231120T151500Z
+SUMMARY:ЛР Защита информационных процессов в компьютерных системах
+UID:23e31e42-a16b-456b-b9c7-999c3f66ac34@23e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231018T091500Z
+LOCATION:24Б-326
+DTSTART:20231018T074500Z
+SUMMARY:ПЗ Криптографические методы защиты информации
+UID:bc8c3473-7cf3-4ca8-937b-f972d440af35@bc8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231011T073000Z
+LOCATION:24Б-326
+DTSTART:20231011T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:f3d7a856-d88c-4a7d-a514-8439f3eedb3b@f3d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231028T091500Z
+LOCATION:24Б-329
+DTSTART:20231028T074500Z
+SUMMARY:ПЗ Компьютерные сети
+UID:66e5dad0-733a-44e2-b3a1-2dd2b85676d8@66e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20230919T091500Z
+LOCATION:24Б-325
+DTSTART:20230919T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:d0cbd544-8a48-4eb2-8f23-f21f42837c3e@d0cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231122T091500Z
+LOCATION:24Б-327
+DTSTART:20231122T074500Z
+SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
+UID:0310e34d-5e4d-4c54-8812-08cf1f233388@0310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20230912T091500Z
+LOCATION:24Б-325
+DTSTART:20230912T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:90fbd7de-fce2-480f-93c2-5ac5a47da21a@90fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231016T113000Z
+LOCATION:24Б-326
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:968791ad-f2e4-4edf-a0c8-0c05e5fd80cd@9687.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231208T164500Z
+LOCATION:24Б-329
+DTSTART:20231208T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:eaa461de-d737-44f7-b265-64d581379907@eaa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231110T164500Z
+LOCATION:24Б-329
+DTSTART:20231110T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:f3d80a3e-143b-44de-bc49-6aad606559ce@f3d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231121T113000Z
+LOCATION:24Б-324
+DTSTART:20231121T100000Z
+SUMMARY:ПЗ Кодирование в телекоммуникационных системах
+UID:be31f716-1e4d-4d4a-9ef4-de2c418bbab4@be31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230923T091500Z
+LOCATION:24Б-329
+DTSTART:20230923T074500Z
+SUMMARY:ЛК Компьютерные сети
+UID:0b872255-369a-4e26-a993-3b5b7bc31dc1@0b87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20230918T113000Z
+LOCATION:24Б-326
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:8f1a4410-9e2e-4dd0-9be8-65a415f7e15d@8f1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231204T131500Z
+LOCATION:24Б-326
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:8b2ddaea-2022-471e-be00-c096ed1f9c3b@8b2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231106T150000Z
+LOCATION:24Б-326
+DTSTART:20231106T133000Z
+SUMMARY:ЛР Защита информационных процессов в компьютерных системах
+UID:88247942-f8f8-4061-9077-a49497758a94@8824.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231102T150000Z
+LOCATION:24Б-329
+DTSTART:20231102T133000Z
+SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:bbe6b06c-7680-4abb-875a-5f77eb153a86@bbe6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230916T091500Z
+LOCATION:24Б-329
+DTSTART:20230916T074500Z
+SUMMARY:ЛК Компьютерные сети
+UID:d99a2b4a-5fcc-4e92-9485-f271cfb61483@d99a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231227T091500Z
+LOCATION:24Б-326
+DTSTART:20231227T074500Z
+SUMMARY:ПЗ Криптографические методы защиты информации
+UID:ee0d9501-1dbe-490d-985f-e8529021b7a9@ee0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вакульчик Ольга Витальевна
+DTEND:20231030T091500Z
+LOCATION:24Б-326
+DTSTART:20231030T074500Z
+SUMMARY:ПЗ УИРС
+UID:f244a39c-4a69-45de-98d2-ff9b58c3fa60@f244.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231226T113000Z
+LOCATION:24Б-324
+DTSTART:20231226T100000Z
+SUMMARY:ЛР Кодирование в телекоммуникационных системах
+UID:772e9434-3174-40da-aea5-1e89c0e06071@772e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231013T150000Z
+LOCATION:24Б-329
+DTSTART:20231013T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:aeaa2266-003e-4e7a-a52e-77b611a2f6a4@aeaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231102T164500Z
+LOCATION:24Б-329
+DTSTART:20231102T151500Z
+SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:f5f9dbd1-0538-47c1-aa4f-6516c34d91d9@f5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231004T091500Z
+LOCATION:24Б-326
+DTSTART:20231004T074500Z
+SUMMARY:ПЗ Криптографические методы защиты информации
+UID:2ece2c00-46f1-4331-96b4-6b7196646a28@2ece.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230901T164500Z
+LOCATION:24Б-329
+DTSTART:20230901T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:c751f573-eb86-47ca-9751-1a57acf25c76@c751.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231024T113000Z
+LOCATION:24Б-324
+DTSTART:20231024T100000Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:ac6bd5cd-dcc7-4250-af16-795d779e6e21@ac6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231009T131500Z
+LOCATION:24Б-326
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:8b17bcb5-5f10-40b4-85f9-9fb52f631340@8b17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231020T164500Z
+LOCATION:24Б-329
+DTSTART:20231020T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:2f33c5d7-d8b5-466f-a2ad-25606982f193@2f33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231025T073000Z
+LOCATION:24Б-326
+DTSTART:20231025T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:dbd6c17d-2e2d-4801-b235-fdcc7fd30aac@dbd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231211T131500Z
+LOCATION:24Б-326
+DTSTART:20231211T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:0f478d50-6a2e-461e-ae3d-ea537e742a27@0f47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20230912T113000Z
+LOCATION:24Б-324
+DTSTART:20230912T100000Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:77a16b79-793b-4adf-8720-1cddf6ab3131@77a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230930T091500Z
+LOCATION:24Б-329
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Компьютерные сети
+UID:fe7995ba-26eb-4aa1-8657-fb24bb9777a9@fe79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231204T113000Z
+LOCATION:24Б-326
+DTSTART:20231204T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:12091575-bab2-413c-9f22-6e021fc0668f@1209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231202T091500Z
+LOCATION:24Б-329
+DTSTART:20231202T074500Z
+SUMMARY:ЛР Компьютерные сети
+UID:cf9da1b0-74de-48e0-81a0-d35ea625b89b@cf9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231025T091500Z
+LOCATION:24Б-327
+DTSTART:20231025T074500Z
+SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
+UID:187e5fa4-5c4b-475d-8019-564dc362e97e@187e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231219T113000Z
+LOCATION:24Б-324
+DTSTART:20231219T100000Z
+SUMMARY:ЛР Кодирование в телекоммуникационных системах
+UID:490bdc95-de06-4056-97f5-391dd32db2dc@490b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231213T073000Z
+LOCATION:24Б-326
+DTSTART:20231213T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:7fc1ee22-625a-46cf-b02b-eb3249516659@7fc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231114T131500Z
+LOCATION:24Б-324
+DTSTART:20231114T114500Z
+SUMMARY:ПЗ Кодирование в телекоммуникационных системах
+UID:3a0b5a69-29c1-42c3-af3d-b0a187c34930@3a0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231206T073000Z
+LOCATION:24Б-326
+DTSTART:20231206T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:d45282ab-f5b7-42aa-ab38-0b6d78984060@d452.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231023T113000Z
+LOCATION:24Б-326
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:605c0566-9e33-430a-9398-9f3ddd7d861a@605c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231120T150000Z
+LOCATION:24Б-326
+DTSTART:20231120T133000Z
+SUMMARY:ЛР Защита информационных процессов в компьютерных системах
+UID:0c4754c9-8358-4b29-83bc-a33c5229c9a5@0c47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20231031T091500Z
+LOCATION:24Б-325
+DTSTART:20231031T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:ac1a2b4a-0de4-46e0-abff-c0862f3343e7@ac1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231220T131500Z
+LOCATION:24Б-327
+DTSTART:20231220T114500Z
+SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
+UID:329c9781-1700-4b3a-941e-c7b95d6b046e@329c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231106T164500Z
+LOCATION:24Б-326
+DTSTART:20231106T151500Z
+SUMMARY:ЛР Защита информационных процессов в компьютерных системах
+UID:a140cb7a-8ee3-4280-9579-3f0ea252e370@a140.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231205T113000Z
+LOCATION:24Б-324
+DTSTART:20231205T100000Z
+SUMMARY:ЛР Кодирование в телекоммуникационных системах
+UID:8e52f9c8-5ccd-4a36-8037-36bf158bde58@8e52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230909T091500Z
+LOCATION:24Б-329
+DTSTART:20230909T074500Z
+SUMMARY:ЛК Компьютерные сети
+UID:424a3c8e-22fe-41e0-9ca9-43ccb7795447@424a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231229T150000Z
+LOCATION:24Б-329
+DTSTART:20231229T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:c8739dd8-fe37-4c1b-b688-76592a722637@c873.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231031T113000Z
+LOCATION:24Б-324
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:ef9b6b7a-2a2d-4deb-8850-3daa553a07ce@ef9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вакульчик Ольга Витальевна
+DTEND:20231016T091500Z
+LOCATION:24Б-326
+DTSTART:20231016T074500Z
+SUMMARY:ПЗ УИРС
+UID:dc6990a1-3cda-4717-983a-6b7fc48ab979@dc69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20230912T131500Z
+LOCATION:24Б-324
+DTSTART:20230912T114500Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:0b2e3c4a-9eab-42e6-86fa-2c83a0e6cf45@0b2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231128T113000Z
+LOCATION:24Б-324
+DTSTART:20231128T100000Z
+SUMMARY:ПЗ Кодирование в телекоммуникационных системах
+UID:6359c132-2112-4975-a07f-89290504dea0@6359.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231006T150000Z
+LOCATION:24Б-329
+DTSTART:20231006T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:f10a8a15-14d6-460e-99db-438fb82b223e@f10a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231020T150000Z
+LOCATION:24Б-329
+DTSTART:20231020T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:1dd464eb-a467-451b-a2fb-71ab5de4f1d3@1dd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231206T091500Z
+LOCATION:24Б-327
+DTSTART:20231206T074500Z
+SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
+UID:163adf3f-d09a-4524-a9f6-3118bf376826@163a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Терехин Алексей Геннадиевич
@@ -1671,22 +1351,342 @@ DTEND:20231222T164500Z
 LOCATION:24Б-329
 DTSTART:20231222T151500Z
 SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
-UID:43f68910-6d10-4bbe-9d64-da896154ef62@43f6.org
+UID:d3ef5408-7332-4200-a7c6-7a665449294b@d3ef.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Вакульчик Ольга Витальевна
-DTEND:20231127T091500Z
-LOCATION:24Б-324
-DTSTART:20231127T074500Z
-SUMMARY:ПЗ УИРС
-UID:18643604-c44a-48c1-b293-46e208224a70@1864.org
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231215T164500Z
+LOCATION:24Б-329
+DTSTART:20231215T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:1920ec59-7c55-4de6-a9af-7f73844f5db4@1920.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Вакульчик Ольга Витальевна
-DTEND:20231002T091500Z
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20230905T131500Z
 LOCATION:24Б-324
-DTSTART:20231002T074500Z
-SUMMARY:ПЗ УИРС
-UID:77b3cd97-7c93-4606-b529-b57d330d2440@77b3.org
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:2b22ea50-259c-482b-8e21-2eb25ab2e922@2b22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231101T073000Z
+LOCATION:24Б-326
+DTSTART:20231101T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:056f8c64-3506-4886-a0a3-98dc7ef043a1@056f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231111T091500Z
+LOCATION:24Б-329
+DTSTART:20231111T074500Z
+SUMMARY:ПЗ Компьютерные сети
+UID:36fa6d7e-8f1e-49fa-9aff-4bea4fc95a6a@36fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20230905T113000Z
+LOCATION:24Б-324
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:45d2c58d-88df-4747-bfbd-9d70633871cf@45d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230902T091500Z
+LOCATION:24Б-329
+DTSTART:20230902T074500Z
+SUMMARY:ЛК Компьютерные сети
+UID:ca986a18-7454-4682-a1ee-d11f2074aadf@ca98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231129T073000Z
+LOCATION:24Б-326
+DTSTART:20231129T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:9fd2bf26-33a9-4cb1-a49b-572db0c69ddb@9fd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231211T113000Z
+LOCATION:24Б-326
+DTSTART:20231211T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:73502513-1084-4920-8adb-4513bed49cc0@7350.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231230T091500Z
+LOCATION:24Б-329
+DTSTART:20231230T074500Z
+SUMMARY:ЛР Компьютерные сети
+UID:ee3443d9-4037-40e6-921d-9780fb1e99df@ee34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20230919T131500Z
+LOCATION:24Б-324
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:41afda05-a301-4860-ade2-a5b04e89297a@41af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231125T073000Z
+LOCATION:24Б-329
+DTSTART:20231125T060000Z
+SUMMARY:ЛР Компьютерные сети
+UID:6afc1c27-f79c-4833-a6d7-6aca3b45ee73@6afc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231122T113000Z
+LOCATION:24Б-327
+DTSTART:20231122T100000Z
+SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
+UID:f497415c-c621-41ff-9b76-f8efda81a770@f497.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231214T164500Z
+LOCATION:24Б-329
+DTSTART:20231214T151500Z
+SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:bbc95d87-dbd7-4ed0-a94a-927dd52d0fad@bbc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231108T131500Z
+LOCATION:24Б-327
+DTSTART:20231108T114500Z
+SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
+UID:a0e9369b-cf45-4997-9ceb-b78071eaa00c@a0e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231214T150000Z
+LOCATION:24Б-329
+DTSTART:20231214T133000Z
+SUMMARY:ЛР Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:72da353f-3cf1-45ff-8f14-d5badedbdfbd@72da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231031T131500Z
+LOCATION:24Б-324
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Кодирование в телекоммуникационных системах
+UID:94389e53-8ad5-4da0-9adc-7f432b04b15d@9438.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230929T150000Z
+LOCATION:24Б-329
+DTSTART:20230929T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:8aa1e75a-2a3b-4a28-866e-ff4a3d703978@8aa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20231121T091500Z
+LOCATION:24Б-325
+DTSTART:20231121T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:17cec65c-81bf-4cff-8de3-d861cc265d33@17ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231122T131500Z
+LOCATION:24Б-327
+DTSTART:20231122T114500Z
+SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
+UID:13738112-4ea7-4826-a1f8-cee2c988e3f6@1373.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231127T113000Z
+LOCATION:24Б-326
+DTSTART:20231127T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:2f92763c-57c9-40ef-9eed-f2c62a72daaf@2f92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231115T091500Z
+LOCATION:24Б-326
+DTSTART:20231115T074500Z
+SUMMARY:ПЗ Криптографические методы защиты информации
+UID:3159a349-ea8d-40ed-9b67-adca1f3a996d@3159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231113T113000Z
+LOCATION:24Б-326
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:1495a3a3-f3eb-4c4d-9f35-20e4549e365e@1495.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230916T073000Z
+LOCATION:24Б-329
+DTSTART:20230916T060000Z
+SUMMARY:ЛК Компьютерные сети
+UID:ebf05fc7-ba83-4e07-8498-6ad388a92060@ebf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231227T073000Z
+LOCATION:24Б-326
+DTSTART:20231227T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:32298a0c-0ea9-4c8f-abf3-2ac513ab79e9@3229.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230902T073000Z
+LOCATION:24Б-329
+DTSTART:20230902T060000Z
+SUMMARY:ЛК Компьютерные сети
+UID:25802ab6-d2f4-4fd1-a354-4f0ab775c385@2580.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20231003T091500Z
+LOCATION:24Б-325
+DTSTART:20231003T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:d480bbc4-f678-4486-bffe-bcf3f41bc9e2@d480.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231206T113000Z
+LOCATION:24Б-327
+DTSTART:20231206T100000Z
+SUMMARY:ЛР Программно-аппаратные средства обеспечения информационной безопасности
+UID:c2199bfa-79f7-4723-b81f-a8aa405dfeae@c219.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231129T091500Z
+LOCATION:24Б-326
+DTSTART:20231129T074500Z
+SUMMARY:ПЗ Криптографические методы защиты информации
+UID:67bd1c53-a011-44ae-bca6-bd57d1be5d42@67bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20230927T073000Z
+LOCATION:24Б-326
+DTSTART:20230927T060000Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:08d902bf-aa8c-4541-a7b3-576473b0be75@08d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230922T164500Z
+LOCATION:24Б-329
+DTSTART:20230922T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:069a25ec-f6a6-402b-8c6d-fabe68c54d96@069a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230908T164500Z
+LOCATION:24Б-329
+DTSTART:20230908T151500Z
+SUMMARY:ПЗ Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:e91cdf0a-2d79-48e3-9af6-ca7ef1fff9c9@e91c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231113T131500Z
+LOCATION:24Б-326
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:01a24896-0f62-4266-b410-b901fa8f652f@01a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Михайлов Владимир Юрьевич
+DTEND:20231212T131500Z
+LOCATION:24Б-324
+DTSTART:20231212T114500Z
+SUMMARY:ЛР Кодирование в телекоммуникационных системах
+UID:c01f21d3-4f73-4199-989d-72a9251e94ff@c01f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231218T113000Z
+LOCATION:24Б-326
+DTSTART:20231218T100000Z
+SUMMARY:ЛК Защита информационных процессов в компьютерных системах
+UID:b167f941-2b8e-4d81-a3cb-6e146580342f@b167.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231204T164500Z
+LOCATION:24Б-326
+DTSTART:20231204T151500Z
+SUMMARY:ЛР Защита информационных процессов в компьютерных системах
+UID:27cd8f00-dd49-48f8-a88c-4f651e7c208a@27cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231218T150000Z
+LOCATION:24Б-326
+DTSTART:20231218T133000Z
+SUMMARY:ЛР Защита информационных процессов в компьютерных системах
+UID:26ff3243-c748-45d9-888d-3bf5d38f6eaa@26ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Витомский Евгений Владиславович
+DTEND:20231016T131500Z
+LOCATION:24Б-326
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Защита информационных процессов в компьютерных системах
+UID:a96ef809-10b1-4058-8532-9e4308c24c47@a96e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231021T073000Z
+LOCATION:24Б-329
+DTSTART:20231021T060000Z
+SUMMARY:ПЗ Компьютерные сети
+UID:aafa2935-5336-48e7-8f1c-88016bd73778@aafa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20231201T150000Z
+LOCATION:24Б-329
+DTSTART:20231201T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:32fbc2f4-e249-4c76-8ba1-a7c2e3470ff2@32fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Терехин Алексей Геннадиевич
+DTEND:20230908T150000Z
+LOCATION:24Б-329
+DTSTART:20230908T133000Z
+SUMMARY:ЛК Методы разработки высокоуровневых протоколов информационного взаимодействия
+UID:5b994c6a-da3e-4da1-83f3-ef3849a9734d@5b99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Джум Владимир Сергеевич
+DTEND:20231011T091500Z
+LOCATION:24Б-327
+DTSTART:20231011T074500Z
+SUMMARY:ПЗ Программно-аппаратные средства обеспечения информационной безопасности
+UID:84548151-109e-4416-bce0-56189179d3e0@8454.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карпухин Евгений Олегович
+DTEND:20231024T091500Z
+LOCATION:24Б-325
+DTSTART:20231024T074500Z
+SUMMARY:ЛК Программно-аппаратные средства обеспечения информационной безопасности
+UID:4132ca22-b298-4ce6-aa98-0a6abbd700ae@4132.org
 END:VEVENT
 END:VCALENDAR

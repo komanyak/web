@@ -2,1204 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20230902T091500Z
-LOCATION:Орш. В-426
-DTSTART:20230902T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:af066d0e-5143-41de-9215-5a1a55b13e06@af06.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Балык Елена Владимировна
-DTEND:20231004T150000Z
+DTEND:20230920T150000Z
 LOCATION:Орш. В-610
-DTSTART:20231004T133000Z
+DTSTART:20230920T133000Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:2ede197a-1318-4fb3-a2b1-7e4586704905@2ede.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20230919T150000Z
-LOCATION:Орш. В-424
-DTSTART:20230919T133000Z
-SUMMARY:ЛР Методы моделирования
-UID:267bdbf2-dba0-41f4-a0b2-62ab950ed477@267b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20231007T091500Z
-LOCATION:Орш. В-426
-DTSTART:20231007T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:fbf2edff-e5d0-4d3d-a073-868b1155d3fb@fbf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231219T131500Z
-LOCATION:Орш. В-424
-DTSTART:20231219T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:2452f570-bc33-46ad-96cf-30bbe6c4a5fa@2452.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231012T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231012T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:ef540389-eb12-4b91-b657-0d074088b481@ef54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231026T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231026T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:a48ae7c7-7d47-4f70-9e6d-885744eff2ca@a48a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20230909T113000Z
-LOCATION:Орш. В-426
-DTSTART:20230909T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:9c03968b-2530-4cf6-b46e-d3ce30b2a1c2@9c03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20230916T131500Z
-LOCATION:Орш. В-426
-DTSTART:20230916T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:c1d5161d-6ef8-4478-9b1e-e198eb515f40@c1d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231010T113000Z
-LOCATION:Орш. В-424
-DTSTART:20231010T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:c19b04ec-071d-44d2-a75e-c93c0983c4d6@c19b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20230920T164500Z
-LOCATION:Орш. В-610
-DTSTART:20230920T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:40eef080-fb92-4938-91ba-f80c0e1c838c@40ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231206T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231206T151500Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:36322a59-4ff9-41e7-9369-fc49a8e620c7@3632.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231223T113000Z
-LOCATION:Орш. В-426
-DTSTART:20231223T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:3a1d5a26-77f5-4b11-b4ce-f0599321548b@3a1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20230926T150000Z
-LOCATION:Орш. В-424
-DTSTART:20230926T133000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:0b5e8844-c182-4423-bfd7-6dd13fc0fd9d@0b5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20231125T091500Z
-LOCATION:Орш. В-426
-DTSTART:20231125T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:c1bf2570-8b88-46a9-b2d3-be74f990b10c@c1bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231028T113000Z
-LOCATION:Орш. В-426
-DTSTART:20231028T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:8acbc378-59e5-4a4d-9008-a7101f42a15d@8acb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231129T150000Z
-LOCATION:Орш. В-610
-DTSTART:20231129T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:ba6df50e-90a9-42e8-a51a-319b87ef60ed@ba6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231212T131500Z
-LOCATION:Орш. В-424
-DTSTART:20231212T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:5beb9143-24b3-40ac-b338-9659390f3901@5beb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231014T131500Z
-LOCATION:Орш. В-426
-DTSTART:20231014T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:d696c407-2475-497f-8fc1-684229abbef9@d696.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231128T113000Z
-LOCATION:Орш. В-424
-DTSTART:20231128T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:e16aa25b-ce40-41c4-bf0d-8dd4866e01a6@e16a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231116T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231116T151500Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:f1d82c54-82ea-4b0d-ac2f-ca5a82dbaddc@f1d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231025T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231025T151500Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:931aa51e-de23-49d0-8025-839a0643554d@931a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231114T164500Z
-LOCATION:Орш. В-424
-DTSTART:20231114T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:50c911c0-616e-4269-a62c-d2697d29af79@50c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231207T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:dfad78e3-4302-4877-bea3-3965b9a1d45c@dfad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231118T131500Z
-LOCATION:Орш. В-426
-DTSTART:20231118T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:ebddbdab-ad90-4d63-844c-0d36683a846d@ebdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231014T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231014T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:33310de9-5084-4e5c-82ca-e679ae44eacc@3331.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20230916T113000Z
-LOCATION:Орш. В-426
-DTSTART:20230916T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:b5e4fec4-17c7-46ab-8c0a-1047a567ef62@b5e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231010T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231010T133000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:911017f3-b308-470e-80ad-ba500a7e35cd@9110.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20231014T091500Z
-LOCATION:Орш. В-426
-DTSTART:20231014T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:dceb7bdd-7113-47bc-9655-a331a957922d@dceb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20230928T150000Z
-LOCATION:Орш. В-404
-DTSTART:20230928T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:2ce7a80e-aeac-47e4-acba-bd9975608fa2@2ce7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231228T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231228T133000Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:bae3a677-4359-4ca7-b93a-fe1978789b26@bae3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231205T113000Z
-LOCATION:Орш. В-424
-DTSTART:20231205T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:418aa2e5-7a84-4233-8940-3715a8176506@418a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231003T113000Z
-LOCATION:Орш. В-424
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:f5efd08a-877c-4efd-a1e6-5052f64bc112@f5ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231109T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231109T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:9dde830c-157b-4dcc-b043-8db11e32bd1b@9dde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231123T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:ca833cdc-73d6-4fad-bc91-8309a1c7e0fa@ca83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20230930T131500Z
-LOCATION:Орш. В-426
-DTSTART:20230930T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:0608f210-c9de-4858-9a44-1218b6a93043@0608.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231024T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231024T133000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:9524d382-547b-4ca5-bebf-36ed2f1bcb55@9524.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231024T113000Z
-LOCATION:Орш. В-424
-DTSTART:20231024T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:a621abd7-a997-4626-94eb-31c7d3a7cc61@a621.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231125T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231125T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:df3cd608-e601-4b53-a1e4-d4be6fef1176@df3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20230914T150000Z
-LOCATION:Орш. В-404
-DTSTART:20230914T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:c546f1bd-a72c-479b-9237-33d729bfc31b@c546.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231031T131500Z
-LOCATION:Орш. В-424
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:5f69a2ef-7efe-4622-9539-de9727b5565f@5f69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231107T164500Z
-LOCATION:Орш. В-424
-DTSTART:20231107T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:229e38d4-f2e0-4b19-b058-703012e66beb@229e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20231021T091500Z
-LOCATION:Орш. В-426
-DTSTART:20231021T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:5d03dc3d-db99-48d6-b94d-2c6b2f42dd91@5d03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231114T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231114T133000Z
-SUMMARY:ЛР Методы моделирования
-UID:bad394aa-680a-4f15-9048-28ddc4b0cbdc@bad3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20230902T113000Z
-LOCATION:Орш. В-426
-DTSTART:20230902T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:ba461fc8-e4c7-419c-987e-30e0ccb2dcbe@ba46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231123T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:10a5e56b-faff-4783-a7c9-a73a72ccaa02@10a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231102T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231102T151500Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:1ed26721-f780-46a6-b94d-e3b06b4d3bfc@1ed2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231115T150000Z
-LOCATION:Орш. В-610
-DTSTART:20231115T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:a05fa643-23e8-43bf-9b9e-33da142ed375@a05f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231115T164500Z
-LOCATION:Орш. В-610
-DTSTART:20231115T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:259c8ca8-24ed-47d3-a25f-e6ab96291c2b@259c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231101T164500Z
-LOCATION:Орш. В-610
-DTSTART:20231101T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:2b2d4f97-b4ee-48f7-8838-c47a6c5726cf@2b2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231031T164500Z
-LOCATION:Орш. В-424
-DTSTART:20231031T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:5afb2d37-16cd-4ef4-b3bc-0dcbdd702681@5afb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231216T113000Z
-LOCATION:Орш. В-426
-DTSTART:20231216T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:d2d09445-26a5-42e8-9126-cf9e5183d328@d2d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231220T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231220T133000Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:6a9715b6-8ccd-45e9-997c-ac6ae69a383c@6a97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231007T131500Z
-LOCATION:Орш. В-426
-DTSTART:20231007T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:b0cc6adf-3b70-4c7d-a23a-d5e2f57d37bf@b0cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231109T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:391451bf-a511-4ee5-8e71-e0e7debde54d@3914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231111T131500Z
-LOCATION:Орш. В-426
-DTSTART:20231111T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:fcf9535b-efa5-4174-90e4-406b3bda760e@fcf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231026T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:b7260272-61fd-42ad-8d7d-151850b75da8@b726.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231011T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231011T151500Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:687a4477-8356-4a2c-b7ca-2cae213cabe5@687a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231205T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231205T133000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:8815efd4-ba3b-4315-8df6-24f9f04a9f76@8815.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231205T164500Z
-LOCATION:Орш. В-424
-DTSTART:20231205T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:ba8df0e0-e081-4e57-9450-dec3c504c803@ba8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20230928T164500Z
-LOCATION:Орш. В-404
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:22512ce3-7cd6-48a3-9e1b-87ba11954337@2251.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231021T131500Z
-LOCATION:Орш. В-426
-DTSTART:20231021T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:ebade517-eea7-429a-aec4-a60340beb5e4@ebad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20230927T150000Z
-LOCATION:Орш. В-404
-DTSTART:20230927T133000Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:c9f5d26d-1e76-459c-a760-a5942d25ab37@c9f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231107T131500Z
-LOCATION:Орш. В-424
-DTSTART:20231107T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:f057a54e-48f0-4edf-a5c6-2fa935ba8589@f057.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20230926T164500Z
-LOCATION:Орш. В-424
-DTSTART:20230926T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:4157dd50-180b-4a9d-83ff-66a7ab7aac9a@4157.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231128T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231128T133000Z
-SUMMARY:ЛР Методы моделирования
-UID:29ce3b4e-0ba5-4910-81bd-69167629661b@29ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231122T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231122T151500Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:13bdaa1c-6ea8-4c22-8be6-b893e3026f1d@13bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231230T113000Z
-LOCATION:Орш. В-426
-DTSTART:20231230T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:27220069-ded1-4350-8d13-3a6a2e0df08a@2722.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231017T164500Z
-LOCATION:Орш. В-424
-DTSTART:20231017T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:3f38a7f1-dde0-4fc3-b2a0-04238f7878c5@3f38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231011T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231011T133000Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:1f7b0673-f026-4484-89e3-4abe2ef9beaa@1f7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20230921T150000Z
-LOCATION:Орш. В-404
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:49f767a1-ed86-49c0-8e1f-55a57adc4db7@49f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20230923T150000Z
-LOCATION:Орш. В-404
-DTSTART:20230923T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:afe2a143-c9bb-4a44-8c32-20712eef6756@afe2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231010T131500Z
-LOCATION:Орш. В-424
-DTSTART:20231010T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:5b0782b3-1b7f-4b34-b776-fb9a1a874e6b@5b07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231209T113000Z
-LOCATION:Орш. В-426
-DTSTART:20231209T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:86990f15-b20c-4d23-bc7a-1b24197cf826@8699.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231221T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231221T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:eeedc602-b911-4790-947f-d9f5e9da4fcf@eeed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231130T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:6683a2c7-5f86-4a74-a7ff-ff63e3e9ba56@6683.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231019T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:6ecab437-9ef1-44ec-b1be-058c89e6dad5@6eca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231212T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231212T133000Z
-SUMMARY:ЛР Методы моделирования
-UID:9e3f2ebc-5d67-4abe-9ce1-82653527695e@9e3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20230912T131500Z
-LOCATION:Орш. В-424
-DTSTART:20230912T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:21b99402-36a4-4e96-a66c-16f5324e6a3d@21b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20230927T164500Z
-LOCATION:Орш. В-404
-DTSTART:20230927T151500Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:af451726-39b7-4a9d-b3dc-8bc4ddee5b1f@af45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231101T150000Z
-LOCATION:Орш. В-610
-DTSTART:20231101T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:88d173d8-929b-4f9d-a020-df6223dd4b2a@88d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231221T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231221T151500Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:39b25096-4da6-4e58-a2a1-ef693f55f7eb@39b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231202T131500Z
-LOCATION:Орш. В-426
-DTSTART:20231202T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:4be7fd94-ba52-40e5-a95a-df3a1ef5605e@4be7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20230912T164500Z
-LOCATION:Орш. В-424
-DTSTART:20230912T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:b014bf32-bc07-4d83-a6b7-751542511d41@b014.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20230916T091500Z
-LOCATION:Орш. В-426
-DTSTART:20230916T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:85829dde-4a0f-4ee5-96e6-609fe7244359@8582.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231206T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231206T133000Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:7b209642-2d17-4f86-b284-3e3e73934110@7b20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20230907T164500Z
-LOCATION:Орш. В-404
-DTSTART:20230907T151500Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:8298e1b8-b95e-4cfa-a6f1-e5800db4a518@8298.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20231202T091500Z
-LOCATION:Орш. В-426
-DTSTART:20231202T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:5126f689-c7f7-4546-911f-6cdd0ce83e69@5126.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20230913T150000Z
-LOCATION:Орш. В-404
-DTSTART:20230913T133000Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:788e1215-0b10-48cd-93df-69fb9886435c@788e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231028T131500Z
-LOCATION:Орш. В-426
-DTSTART:20231028T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:41f58c00-ffe8-48b5-9589-3b5760833b5c@41f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231121T113000Z
-LOCATION:Орш. В-424
-DTSTART:20231121T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:ae6eb2e2-4525-46bd-bd01-a18f5a8de87d@ae6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20230906T164500Z
-LOCATION:Орш. В-610
-DTSTART:20230906T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:85354dee-bc4d-4779-acda-84182c7daf13@8535.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231021T113000Z
-LOCATION:Орш. В-426
-DTSTART:20231021T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:e9faf06f-63b2-4875-a913-2c8056f9aa69@e9fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231220T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231220T151500Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:6968b5a1-a28d-4784-ad34-5db72a00b703@6968.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231004T164500Z
-LOCATION:Орш. В-610
-DTSTART:20231004T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:3d930cf3-9b04-490b-bd07-5c2bb6bab6ce@3d93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20230905T164500Z
-LOCATION:Орш. В-424
-DTSTART:20230905T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:c0151e43-fa39-4c37-8080-4a655d05c47a@c015.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231213T150000Z
-LOCATION:Орш. В-610
-DTSTART:20231213T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:e98a1530-7e44-4594-88db-ef1ff91b041c@e98a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231116T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:04ae3704-509d-4db9-9a05-091eb08f4aec@04ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20230930T113000Z
-LOCATION:Орш. В-426
-DTSTART:20230930T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:ecb9adc6-7007-43f9-b7a2-4bb1a4c23bb8@ecb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231121T164500Z
-LOCATION:Орш. В-424
-DTSTART:20231121T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:e953a9c1-eecc-4121-92b2-4e9c18054275@e953.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20230926T131500Z
-LOCATION:Орш. В-424
-DTSTART:20230926T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:4389057b-4622-4495-bcac-0dbe4df09999@4389.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231209T131500Z
-LOCATION:Орш. В-426
-DTSTART:20231209T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:6d2d9545-5d26-4212-b49b-00311c86a52a@6d2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20230916T150000Z
-LOCATION:Орш. В-404
-DTSTART:20230916T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:62076b1d-3850-46c6-928f-edb0da45b460@6207.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20231118T091500Z
-LOCATION:Орш. В-426
-DTSTART:20231118T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:4b21e7b7-5dfa-4579-a921-341da87ab42d@4b21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231012T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:89f70ce1-e98c-4bb7-8798-b287e4b07d81@89f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20230919T113000Z
-LOCATION:Орш. В-424
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:867c3266-bcec-4b39-a2cf-a6b78307e097@867c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231018T164500Z
-LOCATION:Орш. В-610
-DTSTART:20231018T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:e0595ba9-611a-40f4-aa7d-7468f0e0c377@e059.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231212T164500Z
-LOCATION:Орш. В-424
-DTSTART:20231212T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:5750a71f-1bbd-468f-8cf7-680c39a471d2@5750.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231207T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231207T151500Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:402e15d5-44bb-40a7-b15a-b0767d1351bb@402e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231219T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231219T133000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:e6034f02-1dda-4c6f-a6f0-0a79f6765765@e603.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231128T164500Z
-LOCATION:Орш. В-424
-DTSTART:20231128T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:e0e5ef69-4e96-4e8d-ad19-871b5c69f44e@e0e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231031T113000Z
-LOCATION:Орш. В-424
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:25c39c83-b4f8-41a6-9d84-467c22fbaf9b@25c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231125T113000Z
-LOCATION:Орш. В-426
-DTSTART:20231125T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:053c1ecb-0c9a-4f36-97cd-f2e5d59bf33b@053c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20231230T091500Z
-LOCATION:Орш. В-426
-DTSTART:20231230T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:419ee316-eb7b-45e7-bcc2-45c10d33b05e@419e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231230T131500Z
-LOCATION:Орш. В-426
-DTSTART:20231230T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:597157c9-5a24-43c2-89e0-f0f11686e7e4@5971.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231024T131500Z
-LOCATION:Орш. В-424
-DTSTART:20231024T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:f49390ad-c211-4aa9-b147-a3ba82b2cc13@f493.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20230923T091500Z
-LOCATION:Орш. В-426
-DTSTART:20230923T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:67b0b23f-97f1-44e0-9a18-0d33832990ed@67b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231227T150000Z
-LOCATION:Орш. В-610
-DTSTART:20231227T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:686c2d3b-d334-4cab-85d6-f454d42a631f@686c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20230923T113000Z
-LOCATION:Орш. В-426
-DTSTART:20230923T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:dc682ee6-fbf3-4c8e-9542-eb9647b2cfaa@dc68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231017T113000Z
-LOCATION:Орш. В-424
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:7776b8c0-059f-4d4f-995c-d0c26736305a@7776.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231102T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:4ebdab73-5610-4a24-a8bb-e2964f194b9d@4ebd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231017T131500Z
-LOCATION:Орш. В-424
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:252bfa5c-3af6-4aab-9dff-37031ebdb00a@252b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231003T164500Z
-LOCATION:Орш. В-424
-DTSTART:20231003T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:3db2e706-a8c9-447a-916f-0090e04c9ed4@3db2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20230902T131500Z
-LOCATION:Орш. В-426
-DTSTART:20230902T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:66264685-51c9-4fa8-be24-80a50dc23775@6626.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231025T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231025T133000Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:acfaeaf7-9f73-439a-96e0-cafc4447e91f@acfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231114T131500Z
-LOCATION:Орш. В-424
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:5475bcb6-9532-4b29-aba0-3c6520b0f6cf@5475.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231227T164500Z
-LOCATION:Орш. В-610
-DTSTART:20231227T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:987ce219-e0f9-446a-8535-d6dc59c9c7e6@987c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20230909T131500Z
-LOCATION:Орш. В-426
-DTSTART:20230909T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:49a09d2e-1909-4ec9-a6d8-96b00afe582a@49a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231205T131500Z
-LOCATION:Орш. В-424
-DTSTART:20231205T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:36fa169b-8280-43b3-b034-69dbc6776bdb@36fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20230923T131500Z
-LOCATION:Орш. В-426
-DTSTART:20230923T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:dd143e08-8ea6-4289-9f77-58d2baa8b63b@dd14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231214T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:f369c060-3aae-4f23-b649-f8cfe4e2213d@f369.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231118T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231118T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:a6abe2ad-d867-4d12-b67a-1d3ba8b9f2d4@a6ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231108T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231108T151500Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:321ee96c-f66a-4107-835d-faed29b6aacb@321e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20230905T131500Z
-LOCATION:Орш. В-424
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:f504e8cd-d3e4-47aa-b9e3-660272a0338e@f504.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231216T131500Z
-LOCATION:Орш. В-426
-DTSTART:20231216T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:ff034f75-c099-4455-a0d2-4210d8368beb@ff03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20230921T164500Z
-LOCATION:Орш. В-404
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:e269b1a6-7908-4006-8fae-879804560ab3@e269.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20231223T091500Z
-LOCATION:Орш. В-426
-DTSTART:20231223T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:79f859de-8385-42c6-8fcd-2efbab1d1476@79f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231014T113000Z
-LOCATION:Орш. В-426
-DTSTART:20231014T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:ab304ef8-e537-41ae-aae8-7da20d29283f@ab30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20230909T091500Z
-LOCATION:Орш. В-426
-DTSTART:20230909T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:3219c1c6-4ee4-41e1-b5d2-baaecc8b0787@3219.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231017T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231017T133000Z
-SUMMARY:ЛР Методы моделирования
-UID:2965e995-686f-4788-8cb9-c27686d4123b@2965.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231111T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231111T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:3cf8ac7f-d95f-4b74-99d5-4c6e3f792fd1@3cf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20230906T150000Z
-LOCATION:Орш. В-610
-DTSTART:20230906T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:5cd04399-3c61-4e24-9f93-d688d0f2941d@5cd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231024T164500Z
-LOCATION:Орш. В-424
-DTSTART:20231024T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:37e81038-db47-44ba-81f7-6851284ee9b4@37e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231107T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231107T133000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:6c9b2edd-807f-4f58-8f40-4144136d49e0@6c9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20231028T091500Z
-LOCATION:Орш. В-426
-DTSTART:20231028T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:3eef657c-ac4c-47ec-8e35-2499edc1d939@3eef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231003T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231003T133000Z
-SUMMARY:ЛР Методы моделирования
-UID:dccca342-9c5f-45e2-aef9-ff821ba30155@dccc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231121T131500Z
-LOCATION:Орш. В-424
-DTSTART:20231121T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:fd0910fb-b720-4ebe-af62-c88030017f3e@fd09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231212T113000Z
-LOCATION:Орш. В-424
-DTSTART:20231212T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:ad266511-6fc6-4564-b02e-67fe10ae0d3e@ad26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231213T164500Z
-LOCATION:Орш. В-610
-DTSTART:20231213T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:c15bd43d-b743-40c4-a15f-cb72d5f9f4e0@c15b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231031T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231031T133000Z
-SUMMARY:ЛР Методы моделирования
-UID:dc3151ec-3df5-495c-b3dd-3fd7eec92008@dc31.org
+UID:be9016de-4ef9-4831-91c8-fa4395be7b6b@be90.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
@@ -1207,143 +15,63 @@ DTEND:20231019T164500Z
 LOCATION:Орш. В-404
 DTSTART:20231019T151500Z
 SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:0af342c9-3864-4206-b7f5-898c1798b5b9@0af3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20230905T150000Z
-LOCATION:Орш. В-424
-DTSTART:20230905T133000Z
-SUMMARY:ЛР Методы моделирования
-UID:5546d2ed-18bf-4568-9504-0f2d3c139e71@5546.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231005T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:e4dbd700-1f45-456d-a41c-f8dbeb7fc1d1@e4db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231128T131500Z
-LOCATION:Орш. В-424
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:5a1aa469-5c1c-4645-9cec-b6583a5f80cc@5a1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20230926T113000Z
-LOCATION:Орш. В-424
-DTSTART:20230926T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:a6059bec-f665-4734-b692-a8b4ef434659@a605.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231021T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231021T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:09df6976-7a62-444a-8681-4bef7419f27f@09df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20230930T150000Z
-LOCATION:Орш. В-404
-DTSTART:20230930T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:96231c6b-827f-49dd-a7da-b05933f1976e@9623.org
+UID:ab154671-f870-4aaf-81be-c5bc787c0881@ab15.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231111T113000Z
+DTEND:20231216T113000Z
 LOCATION:Орш. В-426
-DTSTART:20231111T100000Z
+DTSTART:20231216T100000Z
 SUMMARY:ЛК Проектирование  информационных систем
-UID:ecec2d94-5720-45fe-8331-373b4489f5b3@ecec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231219T164500Z
-LOCATION:Орш. В-424
-DTSTART:20231219T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:852b58db-4fe8-4968-9bf7-190b6e89eebd@852b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20230905T113000Z
-LOCATION:Орш. В-424
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:964d03aa-6ea7-4f7f-a64b-1585be3af602@964d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20230914T164500Z
-LOCATION:Орш. В-404
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:2fb3b9ed-4f83-4de3-a4cd-9f756ef5f0c6@2fb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20230912T113000Z
-LOCATION:Орш. В-424
-DTSTART:20230912T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:866e35c0-868d-424d-8b6b-a0ad13b95d6e@866e.org
+UID:f7417cd6-88e5-4266-80a2-e1160cc0b6ce@f741.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Балык Елена Владимировна
-DTEND:20231129T164500Z
+DTEND:20231227T150000Z
 LOCATION:Орш. В-610
-DTSTART:20231129T151500Z
+DTSTART:20231227T133000Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:a2390f13-ca7f-4ca1-a7e6-45d7a9f06ee0@a239.org
+UID:c7ceb9af-1772-4a3a-be9b-30ffe5674832@c7ce.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231114T113000Z
-LOCATION:Орш. В-424
-DTSTART:20231114T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:b6639600-2879-410a-a814-48d3d07fa85a@b663.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231121T150000Z
-LOCATION:Орш. В-424
-DTSTART:20231121T133000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:df9520d8-5376-49c5-a2bd-3bb7cd5029f0@df95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231005T164500Z
-LOCATION:Орш. В-404
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:546e2442-ed52-436b-be78-0c6f10631621@546e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231223T131500Z
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20231118T091500Z
 LOCATION:Орш. В-426
-DTSTART:20231223T114500Z
-SUMMARY:ПЗ Проектирование  информационных систем
-UID:713fb9f7-490d-4d6d-b77f-14e050a56c3e@713f.org
+DTSTART:20231118T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:d80fe2ac-4fdc-443d-9e38-e3f53dd2039e@d80f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20230928T150000Z
+LOCATION:Орш. В-404
+DTSTART:20230928T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:2b241321-313c-4f09-a8bc-8cd5e9e2a832@2b24.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231107T113000Z
+DTEND:20231114T150000Z
 LOCATION:Орш. В-424
-DTSTART:20231107T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:7fb32390-ad6e-4aed-8156-1034733a0d8f@7fb3.org
+DTSTART:20231114T133000Z
+SUMMARY:ЛР Методы моделирования
+UID:0490f2e4-eabd-4cb7-8ef5-0f8024b970fa@0490.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20231028T091500Z
+LOCATION:Орш. В-426
+DTSTART:20231028T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:bcf9bfd8-a29c-42fa-9003-ab3003d500a1@bcf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231212T150000Z
+LOCATION:Орш. В-424
+DTSTART:20231212T133000Z
+SUMMARY:ЛР Методы моделирования
+UID:a75fb13a-a293-4554-9009-6ea2caf89c20@a75f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
@@ -1351,23 +79,231 @@ DTEND:20231130T164500Z
 LOCATION:Орш. В-404
 DTSTART:20231130T151500Z
 SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:eb6bb23e-895d-46c0-b0e1-55d8cf2d2589@eb6b.org
+UID:f3edb8cb-c9de-4065-9a38-be5710af1e73@f3ed.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20231111T091500Z
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231017T150000Z
+LOCATION:Орш. В-424
+DTSTART:20231017T133000Z
+SUMMARY:ЛР Методы моделирования
+UID:d6dd354c-e1bb-40eb-9f76-fe440d63ac4f@d6dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231118T131500Z
 LOCATION:Орш. В-426
-DTSTART:20231111T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:8405e3f5-0fc6-48d5-9cc1-5dc4f1c8ab7c@8405.org
+DTSTART:20231118T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:10b48d4e-a365-4366-a851-33b9f8b47963@10b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20230912T150000Z
+DTEND:20231205T150000Z
 LOCATION:Орш. В-424
-DTSTART:20230912T133000Z
+DTSTART:20231205T133000Z
 SUMMARY:ЛР Интеллектуальные системы
-UID:222955ad-6ce7-4169-a30b-4a1401fbad72@2229.org
+UID:7edea3c1-f1a5-4579-9f3a-ae78f33f30eb@7ede.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231011T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231011T133000Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:bbb04ef3-feca-4dd6-a25c-50aa767a911e@bbb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231003T150000Z
+LOCATION:Орш. В-424
+DTSTART:20231003T133000Z
+SUMMARY:ЛР Методы моделирования
+UID:d0ff7362-9130-4f37-bd24-4eb2d14b3413@d0ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20230920T164500Z
+LOCATION:Орш. В-610
+DTSTART:20230920T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:ac71dfc5-4353-4a0c-8cdf-98bbca3e7a17@ac71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231107T150000Z
+LOCATION:Орш. В-424
+DTSTART:20231107T133000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:2f24352c-b778-4c79-a958-f76dc5b982bb@2f24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20231007T091500Z
+LOCATION:Орш. В-426
+DTSTART:20231007T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:752f75fd-5d05-4f69-8a62-50d238721d53@752f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231028T113000Z
+LOCATION:Орш. В-426
+DTSTART:20231028T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:2f52ccb3-1494-402a-8ee9-582ac27acc69@2f52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231031T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231031T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:4271b4fc-e44e-4196-b6a3-8f3f0d3f6b60@4271.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231128T150000Z
+LOCATION:Орш. В-424
+DTSTART:20231128T133000Z
+SUMMARY:ЛР Методы моделирования
+UID:d3c612c1-15ea-4a07-8b23-bdb58597e22c@d3c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20230923T113000Z
+LOCATION:Орш. В-426
+DTSTART:20230923T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:61323e93-3d98-43e0-a6cc-cd31ecfd6e93@6132.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231021T131500Z
+LOCATION:Орш. В-426
+DTSTART:20231021T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:0d474939-fb97-40c6-aa12-f63c88d1bad1@0d47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231007T131500Z
+LOCATION:Орш. В-426
+DTSTART:20231007T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:a0c57342-a6e9-4add-9b80-d568601bfb37@a0c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231017T131500Z
+LOCATION:Орш. В-424
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:9873dffa-f4a5-4db5-8f6e-417e56aa4322@9873.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20230902T091500Z
+LOCATION:Орш. В-426
+DTSTART:20230902T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:1d543f4b-4dd6-4b44-b038-93c513f5cdce@1d54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20230913T150000Z
+LOCATION:Орш. В-404
+DTSTART:20230913T133000Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:599016c2-6fe5-4ac1-9886-242532bf7cd5@5990.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231212T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231212T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:660856c1-ed07-4e1c-ade2-343c50e55e41@6608.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20230912T131500Z
+LOCATION:Орш. В-424
+DTSTART:20230912T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:712c607b-7bf4-4340-9784-918ef9f18ded@712c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231109T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231109T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:444ea67c-e4fd-4f9e-9ad2-07f491e09b80@444e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20230919T150000Z
+LOCATION:Орш. В-424
+DTSTART:20230919T133000Z
+SUMMARY:ЛР Методы моделирования
+UID:7e20597a-2b51-4449-b76c-48be60cd3314@7e20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231010T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231010T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:68910b6a-7d9e-4659-b577-7cf1ba0428a9@6891.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231014T113000Z
+LOCATION:Орш. В-426
+DTSTART:20231014T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:1b714a70-4459-4329-89ad-3e60c25f2f3c@1b71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231206T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231206T133000Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:879351b4-3f2f-4926-90ca-e293a855d724@8793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231107T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231107T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:417c3703-173f-4a24-88cd-9b326f792538@417c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20230905T131500Z
+LOCATION:Орш. В-424
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:3bd4df57-1f42-4ea7-80e2-73038dc87ed8@3bd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231026T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231026T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:49ed0798-9879-4306-b72c-9de717108e2f@49ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20230909T131500Z
+LOCATION:Орш. В-426
+DTSTART:20230909T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:d92bfce6-0400-49b9-acda-74764c048c59@d92b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
@@ -1375,151 +311,71 @@ DTEND:20231202T113000Z
 LOCATION:Орш. В-426
 DTSTART:20231202T100000Z
 SUMMARY:ЛК Проектирование  информационных систем
-UID:f3f2875d-3fe7-43f2-bb7b-d1602299ac29@f3f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231122T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231122T133000Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:540a51da-9832-43d2-871a-7d60b033248a@540a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20230930T091500Z
-LOCATION:Орш. В-426
-DTSTART:20230930T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:338e641e-1550-49b8-a364-b75c73a8c37f@338e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231118T113000Z
-LOCATION:Орш. В-426
-DTSTART:20231118T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:97bfbe40-6a56-4fe7-b3dc-e75b3b6a6150@97bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231007T113000Z
-LOCATION:Орш. В-426
-DTSTART:20231007T100000Z
-SUMMARY:ЛК Проектирование  информационных систем
-UID:92e631c6-75f9-43aa-a9e8-64b938ce3470@92e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231028T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231028T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:c348b044-65a0-4f96-8109-9f8814a71421@c348.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20230909T150000Z
-LOCATION:Орш. В-404
-DTSTART:20230909T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:3605bbac-88f3-4ff4-b2ef-c2051428ebd2@3605.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Полицына Екатерина Валерьевна
-DTEND:20231209T091500Z
-LOCATION:Орш. В-426
-DTSTART:20231209T074500Z
-SUMMARY:ЛК Основы построения промышленных программных систем
-UID:b2be0ad6-cf79-44f4-9823-cb904e9f5cdb@b2be.org
+UID:4ebf8720-a280-45f3-b2fa-4841d8d2b750@4ebf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231003T131500Z
+DTEND:20231205T131500Z
 LOCATION:Орш. В-424
-DTSTART:20231003T114500Z
+DTSTART:20231205T114500Z
 SUMMARY:ЛК Интеллектуальные системы
-UID:3778231b-ff34-4868-9cfc-4679f567ecd4@3778.org
+UID:d087f464-632e-4fe1-bf66-7f501405014b@d087.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231228T164500Z
+DTEND:20230921T164500Z
 LOCATION:Орш. В-404
-DTSTART:20231228T151500Z
+DTSTART:20230921T151500Z
 SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:94ade23b-3b08-4d4b-ac17-3d9d38603b8b@94ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20230919T164500Z
-LOCATION:Орш. В-424
-DTSTART:20230919T151500Z
-SUMMARY:ЛР Методы моделирования
-UID:03408bb9-caa0-40f6-895b-45c19729a18d@0340.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20230907T150000Z
-LOCATION:Орш. В-404
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:8a1598f4-e7e0-45af-b875-d5e97c0f135d@8a15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20230920T150000Z
-LOCATION:Орш. В-610
-DTSTART:20230920T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:e91df280-5eb8-4453-b697-c80f8442dbf9@e91d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20231108T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231108T133000Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:d2c60127-1df7-4c86-9601-32c41fe28113@d2c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
-DTEND:20230913T164500Z
-LOCATION:Орш. В-404
-DTSTART:20230913T151500Z
-SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
-UID:f04bb4f7-018f-479c-a505-56e3df365e34@f04b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Поречный Александр Сергеевич
-DTEND:20231007T150000Z
-LOCATION:Орш. В-404
-DTSTART:20231007T133000Z
-SUMMARY:ПЗ Основы построения промышленных программных систем
-UID:9e920fee-c892-444e-9011-b9a3d6b84478@9e92.org
+UID:f44dc838-6d5e-40a2-9c06-a70e4b2e2d91@f44d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фомичев Владимир Александрович
-DTEND:20231010T164500Z
+DTEND:20231010T131500Z
 LOCATION:Орш. В-424
-DTSTART:20231010T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:4df007c6-a3ab-4b42-b438-873529c79776@4df0.org
+DTSTART:20231010T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:89abe64a-566d-44a9-b41c-68d022024353@89ab.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
-DTEND:20231219T113000Z
-LOCATION:Орш. В-424
-DTSTART:20231219T100000Z
-SUMMARY:ЛК Методы моделирования
-UID:276ad077-03c7-41a3-afce-f8b055be37af@276a.org
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231014T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231014T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:4816c0f2-8cf7-4ead-a6a0-06319dd5511b@4816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231118T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231118T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:ccf1477e-6150-40d8-8e94-8424c4d0d323@ccf1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
-DTEND:20231125T131500Z
+DTEND:20230909T113000Z
 LOCATION:Орш. В-426
-DTSTART:20231125T114500Z
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:3085bd54-c11a-440c-b67c-ecb69fd35571@3085.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231125T113000Z
+LOCATION:Орш. В-426
+DTSTART:20231125T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:6f9561c7-d9bd-4d3b-b101-96e4c21131e4@6f95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231014T131500Z
+LOCATION:Орш. В-426
+DTSTART:20231014T114500Z
 SUMMARY:ПЗ Проектирование  информационных систем
-UID:473f9012-8cb1-4784-9d88-3f5aa5e1050a@473f.org
+UID:698dea65-13bf-40dc-84a8-a8fcfb7a59f7@698d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
@@ -1527,15 +383,143 @@ DTEND:20231214T164500Z
 LOCATION:Орш. В-404
 DTSTART:20231214T151500Z
 SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
-UID:90c6f3ee-5692-460a-8636-8d483ecd6b1e@90c6.org
+UID:fd5d7d9d-0696-4a01-9d6c-2fd598b2823f@fd5d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Балык Елена Владимировна
-DTEND:20231018T150000Z
-LOCATION:Орш. В-610
-DTSTART:20231018T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:3821f274-e410-4f4d-8025-54bd4b858f92@3821.org
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231209T113000Z
+LOCATION:Орш. В-426
+DTSTART:20231209T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:d6f25668-959d-4efb-9103-d01f27a46ab7@d6f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20230923T131500Z
+LOCATION:Орш. В-426
+DTSTART:20230923T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:fbeba0b7-e4b5-4ae5-bdcf-743b57443f9c@fbeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20230926T150000Z
+LOCATION:Орш. В-424
+DTSTART:20230926T133000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:becbdd7e-921a-48f8-a02a-6b84269ef51b@becb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231228T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231228T151500Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:5df28570-b1c1-4311-a8e2-7ef890c4e01a@5df2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231207T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231207T151500Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:79f4ff5d-4a42-478a-8805-b0d7349843d8@79f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231230T113000Z
+LOCATION:Орш. В-426
+DTSTART:20231230T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:82bf6e17-e393-4c85-8f73-666c58091acf@82bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231024T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231024T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:04da812d-0ea7-4331-a52c-7a31afd9f0f3@04da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231214T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:a331c07e-9c3e-4d19-a338-f41bf89b7168@a331.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231017T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231017T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:9a6cf244-d739-4557-b5bb-7f2082ed96f1@9a6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231024T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231024T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:68164d76-8f67-46b1-a818-a88236490c76@6816.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231108T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231108T151500Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:68e91590-4d66-4a1f-98e8-7f8450939627@68e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231122T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231122T133000Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:f3ec3030-cf09-48f7-a368-4b396670a246@f3ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231011T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231011T151500Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:9ef6af90-c921-4242-914e-a863e1f4dbde@9ef6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231111T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231111T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:130d4453-5d30-4012-b15f-32fff95c21a0@130d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231123T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:a8406c88-7547-45ba-a9d7-15ffc4946886@a840.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231024T150000Z
+LOCATION:Орш. В-424
+DTSTART:20231024T133000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:9e9ba165-53b7-4f48-9bb2-928bd0741314@9e9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231005T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:93f84f9c-11ad-46b1-851e-b2a554c2598d@93f8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Полицына Екатерина Валерьевна
@@ -1543,7 +527,143 @@ DTEND:20231216T091500Z
 LOCATION:Орш. В-426
 DTSTART:20231216T074500Z
 SUMMARY:ЛК Основы построения промышленных программных систем
-UID:1072fb3b-6ca1-49f2-9575-1fa994b4f0e1@1072.org
+UID:bb0cdd56-aec9-4135-a1f7-ac783bdb8b39@bb0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231220T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231220T133000Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:2213fca0-d85d-484a-9e5b-0dc3e0eb045d@2213.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231205T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231205T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:706b4172-a5f0-43bd-96d7-dccc63f4478f@706b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231114T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231114T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:b35f8b23-c5de-4d61-bd41-ce4f0c2cd14a@b35f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231223T113000Z
+LOCATION:Орш. В-426
+DTSTART:20231223T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:6de3ee31-3cc6-4124-975e-cc354c508d9c@6de3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20230916T150000Z
+LOCATION:Орш. В-404
+DTSTART:20230916T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:61c3374f-c721-47b3-9b7a-6fe666bcff2e@61c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231005T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231005T151500Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:e96fee1e-5fe2-43d0-bf91-143fa6057dd0@e96f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231107T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231107T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:3721d220-c6d2-4855-9c60-60700591b7dc@3721.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231118T113000Z
+LOCATION:Орш. В-426
+DTSTART:20231118T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:26189690-21c4-4e24-9460-8f3a7723e4ee@2618.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231121T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231121T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:2354dc47-83c3-4270-9260-f50cf350d779@2354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20230907T150000Z
+LOCATION:Орш. В-404
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:51f50e1b-296c-4cfc-b8cc-b899705793db@51f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20230927T164500Z
+LOCATION:Орш. В-404
+DTSTART:20230927T151500Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:1cc563ba-f485-417a-95d5-a13232f35914@1cc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231107T131500Z
+LOCATION:Орш. В-424
+DTSTART:20231107T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:b338bb77-d81b-4607-8f1a-0fa3e8bb8428@b338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231025T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231025T151500Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:dae9066f-d0f6-44c6-9b15-1efae59398a7@dae9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231007T113000Z
+LOCATION:Орш. В-426
+DTSTART:20231007T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:059601a7-3f62-4ca7-9f27-f4cbf7c8f450@0596.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20230906T150000Z
+LOCATION:Орш. В-610
+DTSTART:20230906T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:b82b2f2e-3c83-4bab-9967-f73aeb90374f@b82b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231230T131500Z
+LOCATION:Орш. В-426
+DTSTART:20231230T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:92bbc67e-4690-48cb-bfd9-32af70c8e417@92bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20230927T150000Z
+LOCATION:Орш. В-404
+DTSTART:20230927T133000Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:4e5a4233-ff00-4bf1-8a81-faa17ee583ec@4e5a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фомичев Владимир Александрович
@@ -1551,6 +671,886 @@ DTEND:20230919T131500Z
 LOCATION:Орш. В-424
 DTSTART:20230919T114500Z
 SUMMARY:ЛК Интеллектуальные системы
-UID:ba51c1a8-a887-4c70-9795-13bbef70c4eb@ba51.org
+UID:bc8ffd71-d2c7-42ac-a222-93aec8bd302b@bc8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231010T150000Z
+LOCATION:Орш. В-424
+DTSTART:20231010T133000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:19066555-7e3a-41df-8fab-4c6b99b21d98@1906.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20230906T164500Z
+LOCATION:Орш. В-610
+DTSTART:20230906T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:0160f309-f5f8-4c2c-baea-6433c0dc0c4d@0160.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231025T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231025T133000Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:4f0ed735-5a58-488c-bfbb-91b63d5ef2db@4f0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231219T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231219T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:1bc6d5f1-3d3a-40a3-a7b5-4e95dd119c96@1bc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20231223T091500Z
+LOCATION:Орш. В-426
+DTSTART:20231223T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:89588545-82f6-46a0-aefa-d8e714ff185f@8958.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231125T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231125T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:1904009d-3ec6-4733-8598-c82722482597@1904.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20230905T150000Z
+LOCATION:Орш. В-424
+DTSTART:20230905T133000Z
+SUMMARY:ЛР Методы моделирования
+UID:29690e4a-a73a-4365-8575-ebedf013710d@2969.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20230902T113000Z
+LOCATION:Орш. В-426
+DTSTART:20230902T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:2971b772-1bab-4903-9ea8-7acf9b750f5b@2971.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231115T164500Z
+LOCATION:Орш. В-610
+DTSTART:20231115T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:dd5904e3-36e0-4aec-8736-a15ea571f967@dd59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20230905T164500Z
+LOCATION:Орш. В-424
+DTSTART:20230905T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:6425b54a-3b13-44a5-be6e-27704ccf5fbf@6425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231121T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231121T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:ea6827ec-ad94-4ed1-8732-d2bc91b0adc1@ea68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231114T131500Z
+LOCATION:Орш. В-424
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:8dedb76c-7e34-4ef1-9e67-ce155b2688fe@8ded.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231121T131500Z
+LOCATION:Орш. В-424
+DTSTART:20231121T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:55b5ac49-4c8c-4791-97c4-0267314f380f@55b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231102T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:468bdb15-a6e5-410e-970d-c98228c7050d@468b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231004T150000Z
+LOCATION:Орш. В-610
+DTSTART:20231004T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:c95d61aa-8d2d-4626-962e-5843225600b4@c95d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231028T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231028T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:cb2e6262-c41c-4c6a-9d99-95f34749cbb1@cb2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231116T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:1cadccd6-9662-4012-97f8-5940f5978b85@1cad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231128T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231128T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:71700ac4-373d-4495-ba02-5f1ccca4c91a@7170.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231108T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231108T133000Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:ab779d49-5a25-4a97-a974-1261e9ab91b9@ab77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231207T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:04be4425-fccd-46c2-9f02-b27198effc9d@04be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20230912T150000Z
+LOCATION:Орш. В-424
+DTSTART:20230912T133000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:946cec78-8240-4427-9b0a-fc371014790d@946c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231125T131500Z
+LOCATION:Орш. В-426
+DTSTART:20231125T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:7d8e44c9-8cb1-44e0-959f-ed1eb2729466@7d8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231213T150000Z
+LOCATION:Орш. В-610
+DTSTART:20231213T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:88f29fdb-d1d5-4803-91b1-68bca37d4c15@88f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231004T164500Z
+LOCATION:Орш. В-610
+DTSTART:20231004T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:63df72a2-3bb0-49b0-b9e9-3227d2e57543@63df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20230928T164500Z
+LOCATION:Орш. В-404
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:173642b0-3780-4cc8-b504-9bc8ba8a32f5@1736.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231212T131500Z
+LOCATION:Орш. В-424
+DTSTART:20231212T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:dc8c3a6a-6c44-402c-aea9-814923332cc2@dc8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231021T113000Z
+LOCATION:Орш. В-426
+DTSTART:20231021T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:1eed36be-27a1-476a-8cbb-b48fa0a902f0@1eed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20230921T150000Z
+LOCATION:Орш. В-404
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:ff0e38e1-eef5-4c58-9403-4c883dc3eeb5@ff0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20230930T131500Z
+LOCATION:Орш. В-426
+DTSTART:20230930T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:fba52e6e-93db-486d-9fe3-be0e57439c82@fba5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231017T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:ea043e3e-bde2-4fdb-898d-f9e4f218c9ae@ea04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231216T131500Z
+LOCATION:Орш. В-426
+DTSTART:20231216T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:c2d53ddf-b779-4355-93c5-be42a12bc879@c2d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20231230T091500Z
+LOCATION:Орш. В-426
+DTSTART:20231230T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:69061736-8702-4865-b05c-b09c05b0576f@6906.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231021T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231021T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:c211dbde-7ea3-468c-b0ab-4ac35578ad34@c211.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231206T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231206T151500Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:1f054b75-9373-4977-8757-22e80d9b1195@1f05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20230916T131500Z
+LOCATION:Орш. В-426
+DTSTART:20230916T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:2783461c-440d-4bcb-95d5-c9a1bde1389b@2783.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20231021T091500Z
+LOCATION:Орш. В-426
+DTSTART:20231021T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:8fd51bd3-e5da-4ac5-ba65-6922b77f78de@8fd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231109T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:7561072f-534a-4e01-9d01-d0deaaf83f6a@7561.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20230909T150000Z
+LOCATION:Орш. В-404
+DTSTART:20230909T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:7638921d-e0ca-4df7-99be-1b999efc36d0@7638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231101T164500Z
+LOCATION:Орш. В-610
+DTSTART:20231101T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:5975971b-3937-465e-aa1e-46c97ff158d4@5975.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231122T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231122T151500Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:647dc1d0-741a-4506-97ae-415d5dae77eb@647d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20230926T164500Z
+LOCATION:Орш. В-424
+DTSTART:20230926T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:8011758c-845c-4697-86cf-ce5ecf5aebdd@8011.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231031T131500Z
+LOCATION:Орш. В-424
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:86042429-c3ea-4c67-81fc-085f16c1ecd8@8604.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231129T150000Z
+LOCATION:Орш. В-610
+DTSTART:20231129T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:a29216c3-9ad6-40e8-b02e-0d809824b126@a292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231114T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231114T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:181731cf-c2cc-455d-988d-53d9d1e209c8@1817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231228T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231228T133000Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:e40624b9-6e2f-4306-bfd1-0912754b2edc@e406.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20230914T164500Z
+LOCATION:Орш. В-404
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:f4db251c-8399-4aab-b69f-002ae7bd782c@f4db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231111T113000Z
+LOCATION:Орш. В-426
+DTSTART:20231111T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:8a80b53d-dafd-4df5-803c-021d0b7f35a7@8a80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231219T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231219T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:fdcdcf04-2768-45ce-a2cd-c860848f4c62@fdcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20230926T131500Z
+LOCATION:Орш. В-424
+DTSTART:20230926T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:8820bffd-df09-48c8-ad0e-48eab6238027@8820.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231115T150000Z
+LOCATION:Орш. В-610
+DTSTART:20231115T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:f4047c61-b64a-4a0a-a6e0-18af94a1d7c2@f404.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231111T131500Z
+LOCATION:Орш. В-426
+DTSTART:20231111T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:05a3ee98-fac0-4744-8cb8-d8f54ac74745@05a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231219T131500Z
+LOCATION:Орш. В-424
+DTSTART:20231219T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:82e31106-6d3b-4a44-abf6-14fb39742d08@82e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231012T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231012T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:524f2af7-be8a-40ed-8ed9-05260dc1265f@524f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20230919T113000Z
+LOCATION:Орш. В-424
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:e606d53f-13ad-4463-83f8-5b3ae985f406@e606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231221T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:7215f70c-9df3-45bc-b32b-7ca0d9a40994@7215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231101T150000Z
+LOCATION:Орш. В-610
+DTSTART:20231101T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:550aeab2-ec6a-4aaa-9417-09452d3a78bd@550a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231128T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231128T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:69e712a6-7e87-43e3-bafc-008d604e2b98@69e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231227T164500Z
+LOCATION:Орш. В-610
+DTSTART:20231227T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:55b9fe00-a1b5-4cc9-b90c-6e5f35561940@55b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20230912T113000Z
+LOCATION:Орш. В-424
+DTSTART:20230912T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:64911776-f587-4539-914d-fde10f9dbf93@6491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20230913T164500Z
+LOCATION:Орш. В-404
+DTSTART:20230913T151500Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:bfb22139-d0ec-49af-a579-f2a298230cb0@bfb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20230923T150000Z
+LOCATION:Орш. В-404
+DTSTART:20230923T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:48428477-ad0b-4288-a7bf-7273228265a0@4842.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20230912T164500Z
+LOCATION:Орш. В-424
+DTSTART:20230912T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:c68c8b53-42d1-4f98-89de-b36d813ccdd7@c68c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231012T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:7e70031f-5d69-4d87-914e-f5673c02da19@7e70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20230916T113000Z
+LOCATION:Орш. В-426
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:6d73b6c2-8c4d-41a6-922c-778108a318ba@6d73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20230907T164500Z
+LOCATION:Орш. В-404
+DTSTART:20230907T151500Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:f744cc2f-9e7a-4bd5-a0df-fec3155466da@f744.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20231111T091500Z
+LOCATION:Орш. В-426
+DTSTART:20231111T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:2bcfe1ab-4897-4cfb-b61a-f66f2cc98f0a@2bcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20230930T091500Z
+LOCATION:Орш. В-426
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:db8357c8-0f72-47b4-9d55-95198ec27a6a@db83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231024T131500Z
+LOCATION:Орш. В-424
+DTSTART:20231024T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:b520c0a3-0da8-4c29-b85d-4814dc7d91e1@b520.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231209T131500Z
+LOCATION:Орш. В-426
+DTSTART:20231209T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:2a50a143-7481-461e-aaf0-df2248ecb824@2a50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231219T150000Z
+LOCATION:Орш. В-424
+DTSTART:20231219T133000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:3dcb793a-d738-41ef-8252-899cd64d4fc7@3dcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231031T150000Z
+LOCATION:Орш. В-424
+DTSTART:20231031T133000Z
+SUMMARY:ЛР Методы моделирования
+UID:beb038e8-c389-4db0-9a3c-575c53ac9943@beb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20230905T113000Z
+LOCATION:Орш. В-424
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:7260c554-6720-4f82-a977-f863f5f3ec0b@7260.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231007T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231007T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:3950d0d6-ef58-4052-8708-050edd59f201@3950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231202T131500Z
+LOCATION:Орш. В-426
+DTSTART:20231202T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:fb91f9fd-30da-440d-bb23-97e953f33deb@fb91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20231202T091500Z
+LOCATION:Орш. В-426
+DTSTART:20231202T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:d1937acc-1fd8-4c6f-b676-3e068b738786@d193.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231031T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:cfee72f0-cc4a-432d-9c7a-fed92c6d6fef@cfee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231129T164500Z
+LOCATION:Орш. В-610
+DTSTART:20231129T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:6bb88dd8-321b-46c8-b48d-04940310cdc9@6bb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231010T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231010T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:8c5dd816-9419-4a1c-92d1-b64faa38bbbe@8c5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231102T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231102T151500Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:df56a1c7-fd80-4b10-8e02-0301b59b0745@df56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231205T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231205T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:cff78bbf-7202-4cd9-b172-5c524913b5d0@cff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231028T131500Z
+LOCATION:Орш. В-426
+DTSTART:20231028T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:7c419750-76fe-48f6-b1ef-538a7f8d9718@7c41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20231014T091500Z
+LOCATION:Орш. В-426
+DTSTART:20231014T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:b812c2fd-46cf-4d26-a52f-9a68c8ec167a@b812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20231223T131500Z
+LOCATION:Орш. В-426
+DTSTART:20231223T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:92a2e9aa-53f7-433c-832f-77afc5a043b2@92a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231026T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:61cb5c1c-7ce8-4c75-985b-f91778bc2e58@61cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231018T164500Z
+LOCATION:Орш. В-610
+DTSTART:20231018T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:d16887e9-107f-4133-acae-ca718f474159@d168.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231116T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231116T151500Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:ccd95680-0d05-47f7-88f3-37980391569d@ccd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231123T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:e49d225e-a334-4930-8a4b-877afad18e8c@e49d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231130T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:e4505221-5f64-4c29-87e2-e694003dc0ff@e450.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20230909T091500Z
+LOCATION:Орш. В-426
+DTSTART:20230909T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:4e7c6803-c0ce-489d-a83e-06adc1d8070d@4e7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231128T131500Z
+LOCATION:Орш. В-424
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:a856d8b1-ced7-439c-927b-49076ed7f313@a856.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231212T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231212T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:07f09c06-19f6-40ca-b6bd-6fb1bb591581@07f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20230930T113000Z
+LOCATION:Орш. В-426
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Проектирование  информационных систем
+UID:90a43975-6a0f-456a-a59a-065532da8f36@90a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20231209T091500Z
+LOCATION:Орш. В-426
+DTSTART:20231209T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:61056e77-4a1e-4509-8a0e-a42a48319caa@6105.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20231125T091500Z
+LOCATION:Орш. В-426
+DTSTART:20231125T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:0a07e26a-04c6-4cff-a159-72c5781af88e@0a07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20230916T091500Z
+LOCATION:Орш. В-426
+DTSTART:20230916T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:7b388e7a-9c03-490e-ac83-ac66a405037f@7b38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231003T164500Z
+LOCATION:Орш. В-424
+DTSTART:20231003T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:4707fc76-91f6-4a8c-8170-78ffbfcc05b8@4707.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231018T150000Z
+LOCATION:Орш. В-610
+DTSTART:20231018T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:31048ffb-fe6c-4fff-a973-848d6c0d0fff@3104.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Балык Елена Владимировна
+DTEND:20231213T164500Z
+LOCATION:Орш. В-610
+DTSTART:20231213T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:b64742b3-324e-4f1c-a588-1889ea2f4d9e@b647.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20230919T164500Z
+LOCATION:Орш. В-424
+DTSTART:20230919T151500Z
+SUMMARY:ЛР Методы моделирования
+UID:e1a4999f-0955-464f-9cad-aea5cecde286@e1a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20230926T113000Z
+LOCATION:Орш. В-424
+DTSTART:20230926T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:98a044cd-eb9e-4872-844d-8ecd5787ae2b@98a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Полицына Екатерина Валерьевна
+DTEND:20230923T091500Z
+LOCATION:Орш. В-426
+DTSTART:20230923T074500Z
+SUMMARY:ЛК Основы построения промышленных программных систем
+UID:d3f895f8-15bc-49bc-990d-780fe1e06f5a@d3f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20230914T150000Z
+LOCATION:Орш. В-404
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:03b65fdd-3bcd-4453-a292-ee81c31a43fd@03b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20230930T150000Z
+LOCATION:Орш. В-404
+DTSTART:20230930T133000Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:e7db4848-fff0-429c-b31e-440c8f3c4ff1@e7db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231019T150000Z
+LOCATION:Орш. В-404
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Проектирование человекоориентированных интерфейсов
+UID:2d2de1ee-3b8e-4342-9d92-f6967db6a835@2d2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Поречный Александр Сергеевич
+DTEND:20231221T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231221T151500Z
+SUMMARY:ПЗ Основы построения промышленных программных систем
+UID:bdde5c27-442a-4d89-a9ce-8e05f1adff60@bdde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РУБЦОВ ЕВГЕНИЙ АЛЕКСАНДРОВИЧ
+DTEND:20230902T131500Z
+LOCATION:Орш. В-426
+DTSTART:20230902T114500Z
+SUMMARY:ПЗ Проектирование  информационных систем
+UID:1fe33835-af39-4763-a332-1390d5057db3@1fe3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУТКО АНТОН ОЛЕГОВИЧ
+DTEND:20231220T164500Z
+LOCATION:Орш. В-404
+DTSTART:20231220T151500Z
+SUMMARY:ПЗ Проектирование человекоориентированных интерфейсов
+UID:1886f312-9925-4732-986e-03d5a73c09f2@1886.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАЛАКИРЕВ НИКОЛАЙ ЕВГЕНЬЕВИЧ
+DTEND:20231003T113000Z
+LOCATION:Орш. В-424
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Методы моделирования
+UID:8994d395-89a4-40ce-891c-c29ec881f0e6@8994.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231003T131500Z
+LOCATION:Орш. В-424
+DTSTART:20231003T114500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:c71a004f-16d8-4efd-9a1c-f398e94bfabc@c71a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фомичев Владимир Александрович
+DTEND:20231121T150000Z
+LOCATION:Орш. В-424
+DTSTART:20231121T133000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:9d23e249-979b-449b-a2e0-784e425aa280@9d23.org
 END:VEVENT
 END:VCALENDAR

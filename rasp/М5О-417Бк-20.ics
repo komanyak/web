@@ -2,244 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20231010T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231010T151500Z
-SUMMARY:ЛК Цифровое государство
-UID:4f028361-5183-4ba2-a92a-3d03225b30b8@4f02.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230929T150000Z
-LOCATION:Орш. В-506
-DTSTART:20230929T133000Z
-SUMMARY:ЛК Финансовый анализ
-UID:a06886c0-cea5-46c8-a42a-e259997a8bd9@a068.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231002T183000Z
-LOCATION:5-317
-DTSTART:20231002T170000Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:f84d4161-42c0-4f98-8d18-b098ca900541@f84d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231004T164500Z
+DTEND:20231213T183000Z
 LOCATION:Орш. В-505
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:fe54be54-c1ae-4f77-8497-10569501f01c@fe54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20231026T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231026T170000Z
-SUMMARY:ПЗ Деньги\, кредит\, банки
-UID:55ec6b0a-ca45-49b7-8019-3c86e63281cb@55ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231020T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231020T151500Z
-SUMMARY:ЛК Финансовый анализ
-UID:e00eff9e-c265-4281-bba9-348ea21c5159@e00e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231212T150000Z
-LOCATION:Орш. В-505
-DTSTART:20231212T133000Z
-SUMMARY:ЛК Цифровизация налогового администрирования
-UID:e7be16fc-1424-4159-a28f-36eceb8611c8@e7be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231028T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231028T133000Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:b66c3971-cf14-46ce-a828-79da2c24d799@b66c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231113T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231113T170000Z
-SUMMARY:ПЗ Стратегическое планирование
-UID:cbfb7641-95a7-47dc-b1d5-05b6fd21393d@cbfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20231019T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231019T151500Z
-SUMMARY:ЛК Деньги\, кредит\, банки
-UID:40362a37-6df9-4002-a99a-1d158fc9fb01@4036.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20230913T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230913T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:d165e43d-a929-4f25-9595-3a6c4fb04d45@d165.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231025T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231025T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:32e94ab4-a0fa-475d-a0ae-fa2f534f83f9@32e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231002T164500Z
-LOCATION:5-317
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:04f1affb-00d3-4a24-8cbc-6895e048db6d@04f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230916T183000Z
-LOCATION:Орш. В-506
-DTSTART:20230916T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:f7ef1a6e-d960-4914-8330-3d68fb424c34@f7ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20230914T164500Z
-LOCATION:Орш. В-505
-DTSTART:20230914T151500Z
-SUMMARY:ЛК Деньги\, кредит\, банки
-UID:51e1a525-7e6c-4ad5-b071-47bfbd8b6517@51e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231219T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Цифровизация налогового администрирования
-UID:3f2f0d9b-bb07-45b6-a859-0eaabb1e0abe@3f2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230922T164500Z
-LOCATION:Орш. В-506
-DTSTART:20230922T151500Z
-SUMMARY:ЛК Финансовый анализ
-UID:69da0f2c-7dcf-4045-bab5-2660bd1ba629@69da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231028T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231028T151500Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:9c8c184c-bcb7-4b48-a623-2ec34576ceb2@9c8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20231003T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Цифровое государство
-UID:9f0ce5ec-20de-4fef-9740-fa3a79aff0f6@9f0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231025T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231025T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:6dc57f52-9b46-4239-ac58-0a480bff94a9@6dc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231018T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231018T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:d692765c-0b20-4e00-ac27-7b124611a0ed@d692.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231027T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231027T170000Z
+DTSTART:20231213T170000Z
 SUMMARY:ПЗ Финансовый анализ
-UID:46627d38-423d-43fd-ae77-5573991ac41b@4662.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231113T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Стратегическое планирование
-UID:861fa514-95d4-4845-8774-f8cb9e7f95f9@861f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230925T183000Z
-LOCATION:5-317
-DTSTART:20230925T170000Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:cfccd646-3071-4d9f-ad7c-4b0219c7aff7@cfcc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231016T150000Z
-LOCATION:5-317
-DTSTART:20231016T133000Z
-SUMMARY:ЛК Цифровая трансформация мировой экономики
-UID:7106f300-d3cd-460e-8911-f20e3346d61e@7106.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231114T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231114T151500Z
-SUMMARY:ПЗ Цифровизация налогового администрирования
-UID:9cc36cc8-d5da-412e-b7c5-b173859dbe8b@9cc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230922T183000Z
-LOCATION:Орш. В-506
-DTSTART:20230922T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:86b053ce-3671-425c-8b44-03a9c0738458@86b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230925T150000Z
-LOCATION:5-317
-DTSTART:20230925T133000Z
-SUMMARY:ЛК Цифровая трансформация мировой экономики
-UID:027df631-3613-4b1c-9930-4d02296965d0@027d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230930T164500Z
-LOCATION:Орш. В-506
-DTSTART:20230930T151500Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:44ed6271-d099-474c-a085-bd9752e7d57a@44ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231120T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231120T151500Z
-SUMMARY:ЛК Стратегическое планирование
-UID:0d69f633-1a5a-42e8-8658-a0d1b31990f9@0d69.org
+UID:5a8940e9-31d7-47c8-b03a-f44f11866b62@5a89.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Золотова Вероника Анатольевна
@@ -247,1199 +15,7 @@ DTEND:20230919T150000Z
 LOCATION:Орш. В-505
 DTSTART:20230919T133000Z
 SUMMARY:ЛК Цифровое государство
-UID:ad7443f5-f321-46df-ba80-e0faa86fc346@ad74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231127T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231127T170000Z
-SUMMARY:ПЗ Стратегическое планирование
-UID:1534c5a6-3b6a-4745-9a06-ca3812e6098a@1534.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231213T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231213T151500Z
-SUMMARY:ПЗ Финансовый анализ
-UID:efc87b02-149d-46d6-a21d-dd39f730d3c1@efc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230918T164500Z
-LOCATION:5-317
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:5577c53c-9771-48ee-8283-0be407cb512d@5577.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231014T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231014T133000Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:20b85343-9f79-4ca1-93b1-aa26a624c575@20b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20231005T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231005T170000Z
-SUMMARY:ПЗ Деньги\, кредит\, банки
-UID:57d412fa-c4de-4c9c-a191-62afb6432ae8@57d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230911T150000Z
-LOCATION:5-317
-DTSTART:20230911T133000Z
-SUMMARY:ЛК Цифровая трансформация мировой экономики
-UID:af884a5a-9521-456f-b8be-1f40613e0d73@af88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20231003T150000Z
-LOCATION:Орш. В-505
-DTSTART:20231003T133000Z
-SUMMARY:ЛК Цифровое государство
-UID:1d882c66-01de-4078-a7c1-0fe6c13dda5e@1d88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231128T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231128T151500Z
-SUMMARY:ПЗ Цифровизация налогового администрирования
-UID:d37e7318-b84b-423e-b317-e9241b46c05c@d37e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231111T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231111T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:e57fa15f-9747-4275-8436-184cde8b6d7e@e57f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231122T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231122T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:bf7129e1-f733-4481-9481-7a54cecb192b@bf71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231211T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Стратегическое планирование
-UID:38b91b92-dc34-4dd1-b548-ffa2d9aa89a9@38b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20230926T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230926T170000Z
-SUMMARY:ПЗ Цифровое государство
-UID:b9eb4b7c-36a0-4dbe-891c-6e708cd8b1d2@b9eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231006T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231006T151500Z
-SUMMARY:ЛК Финансовый анализ
-UID:58204936-f18b-44f0-b0b8-17dfbc5fa60f@5820.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20230919T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230919T170000Z
-SUMMARY:ПЗ Цифровое государство
-UID:475a2a38-1233-4821-aca0-cc278388fec1@475a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231127T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231127T133000Z
-SUMMARY:ЛК Стратегическое планирование
-UID:39f3c1d1-2699-479b-a9c3-bdb31a5b212c@39f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20230919T164500Z
-LOCATION:Орш. В-505
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Цифровое государство
-UID:992901fa-9dbc-441d-8490-973b5a7abafc@9929.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231218T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231218T170000Z
-SUMMARY:ПЗ Стратегическое планирование
-UID:84f0327b-d244-4c39-8e5b-457a7e4d6429@84f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230904T183000Z
-LOCATION:5-317
-DTSTART:20230904T170000Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:ee45c34c-a155-40b4-a811-514016996177@ee45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231225T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231225T133000Z
-SUMMARY:ЛК Стратегическое планирование
-UID:c0de697e-1ef8-4834-a5bf-3b40a0809891@c0de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20230907T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230907T170000Z
-SUMMARY:ПЗ Деньги\, кредит\, банки
-UID:e71f495f-96f9-4048-8cc3-89b8d82dd7ea@e71f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20231102T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231102T151500Z
-SUMMARY:ЛК Деньги\, кредит\, банки
-UID:fb322c07-a05f-4396-9aae-f15521bf967e@fb32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230918T183000Z
-LOCATION:5-317
-DTSTART:20230918T170000Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:f23ae222-5bb2-44e1-9bc0-2abfa5b8a286@f23a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231009T164500Z
-LOCATION:5-317
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:5676fa3f-04a0-4b2f-9d0a-ef746a1ed1de@5676.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231120T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231120T170000Z
-SUMMARY:ПЗ Стратегическое планирование
-UID:ff3e17f8-99b8-4d7f-8a56-6e00a0d261b3@ff3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230930T183000Z
-LOCATION:Орш. В-506
-DTSTART:20230930T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:3b2b6bfd-d7c3-4548-9374-4b48052a3398@3b2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20230907T164500Z
-LOCATION:Орш. В-505
-DTSTART:20230907T151500Z
-SUMMARY:ЛК Деньги\, кредит\, банки
-UID:7fc3cb5f-8800-4f68-a239-84f9caeb3344@7fc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230911T164500Z
-LOCATION:5-317
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:6a5f8f78-0649-4eb5-b44d-1f9c639d3407@6a5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20230914T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230914T170000Z
-SUMMARY:ПЗ Деньги\, кредит\, банки
-UID:90f94eb0-339b-4a89-92ba-49e2709410bc@90f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20231005T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Деньги\, кредит\, банки
-UID:f6592d70-2154-4d34-b706-36489d36eec8@f659.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231004T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231004T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:4b456193-9270-49f1-8eff-dfe5451c3056@4b45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231023T183000Z
-LOCATION:5-317
-DTSTART:20231023T170000Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:4cb5d7ee-f5a4-4c6f-a765-aa1e4b20341f@4cb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231013T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231013T151500Z
-SUMMARY:ПЗ Финансовый анализ
-UID:0b6bbadf-3706-4a90-b0cb-83e6e40a6775@0b6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230904T150000Z
-LOCATION:5-317
-DTSTART:20230904T133000Z
-SUMMARY:ЛК Цифровая трансформация мировой экономики
-UID:2e9b1bc5-2db1-4ec6-b4a9-733b9d48ef06@2e9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231225T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231225T170000Z
-SUMMARY:ПЗ Стратегическое планирование
-UID:88ce8f10-4898-4b66-b8ae-9fdee244e6e4@88ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20230906T164500Z
-LOCATION:Орш. В-505
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:c39c0f48-ebe4-4707-aabe-5d45ae03c01d@c39c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230916T150000Z
-LOCATION:Орш. В-506
-DTSTART:20230916T133000Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:909d97a8-60f8-4da2-8c34-23ae248d1f78@909d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231006T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231006T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:ecc6bac5-e8af-4472-80f6-9adf4fd6eee9@ecc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230929T164500Z
-LOCATION:Орш. В-506
-DTSTART:20230929T151500Z
-SUMMARY:ПЗ Финансовый анализ
-UID:3030a997-7d82-485f-a04e-50a23e19910c@3030.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20230928T164500Z
-LOCATION:Орш. В-505
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Деньги\, кредит\, банки
-UID:456144b1-2c26-4cc0-9db6-7aa51cf3b40b@4561.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231013T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231013T133000Z
-SUMMARY:ЛК Финансовый анализ
-UID:1542a5ef-2a3a-404e-b7b4-6986d5b44b2e@1542.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231211T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231211T151500Z
-SUMMARY:ПЗ Стратегическое планирование
-UID:0c391df4-7ef4-4393-ac8a-4a5dbfd3a4f0@0c39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20230913T164500Z
-LOCATION:Орш. В-505
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:ef2f3f9e-3bb2-4162-926f-17def0e8ffce@ef2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231204T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231204T151500Z
-SUMMARY:ЛК Стратегическое планирование
-UID:f98dc674-0152-42f1-b0c9-408ea2b0c35d@f98d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231113T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231113T133000Z
-SUMMARY:ЛК Стратегическое планирование
-UID:c5a87c88-b90c-4513-b0a5-437518bad8f0@c5a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20230921T164500Z
-LOCATION:Орш. В-505
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Деньги\, кредит\, банки
-UID:304462f4-8639-43e1-9885-5452c3afc4d9@3044.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20231012T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231012T151500Z
-SUMMARY:ЛК Деньги\, кредит\, банки
-UID:cbf94635-0a03-450d-811b-37b5bde4850f@cbf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231127T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231127T151500Z
-SUMMARY:ПЗ Стратегическое планирование
-UID:0e8111ea-20c0-47da-9247-d41368ce7879@0e81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231009T183000Z
-LOCATION:5-317
-DTSTART:20231009T170000Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:3bbdc6fa-2a64-42e6-a9b5-d239060c296c@3bbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20231017T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231017T170000Z
-SUMMARY:ПЗ Цифровое государство
-UID:73c63d33-31cb-4a30-8b6d-3bab7ffdbab3@73c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231106T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231106T151500Z
-SUMMARY:ЛК Стратегическое планирование
-UID:851d6ec2-3ddb-45d5-95c2-f9c5bd2543f7@851d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231227T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231227T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:18ac287c-a8d2-4315-8ac9-2635c4703e46@18ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231129T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231129T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:04ea9667-4ec0-4dc8-bc17-5433488eeba9@04ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230904T164500Z
-LOCATION:5-317
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:d67e165b-29b5-46f8-8503-390a7deb578e@d67e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231023T164500Z
-LOCATION:5-317
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:881429e8-8755-4e9f-92ec-802fd9e01a00@8814.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231107T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Цифровизация налогового администрирования
-UID:954c3f8b-a3da-4c67-a025-22e4c932d48e@954c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231011T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231011T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:43674141-e06e-4a4e-92b2-9594840fe931@4367.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20230905T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230905T170000Z
-SUMMARY:ПЗ Цифровое государство
-UID:2277dfa4-2aee-4caf-8eac-50ab26ba71f9@2277.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231111T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231111T133000Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:9947ee28-fcfe-402d-aa56-75a879f068f4@9947.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231218T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231218T151500Z
-SUMMARY:ЛК Стратегическое планирование
-UID:78d1fe17-a775-4e2c-a78c-f04fed05d3b5@78d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231226T150000Z
-LOCATION:Орш. В-505
-DTSTART:20231226T133000Z
-SUMMARY:ЛК Цифровизация налогового администрирования
-UID:5d1ec62a-2967-4e2a-90d3-12bc7f2a877c@5d1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20230920T164500Z
-LOCATION:Орш. В-505
-DTSTART:20230920T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:99a33875-4426-459b-9ede-f74771c91425@99a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231115T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231115T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:3b733ad7-a809-48a1-8d5d-4d31225f0a17@3b73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230915T150000Z
-LOCATION:Орш. В-506
-DTSTART:20230915T133000Z
-SUMMARY:ЛК Финансовый анализ
-UID:f0c7bc5e-6e84-48ee-afcb-d97127f19e27@f0c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230909T164500Z
-LOCATION:Орш. В-506
-DTSTART:20230909T151500Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:dcc1a7a0-4e3f-48eb-b0a9-6c604297ab2c@dcc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20230921T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230921T170000Z
-SUMMARY:ПЗ Деньги\, кредит\, банки
-UID:3dbeec9f-cfdf-44d3-947d-dba3a1291f08@3dbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231206T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231206T151500Z
-SUMMARY:ПЗ Финансовый анализ
-UID:af084a30-c659-45af-8c6f-9649f8e92f41@af08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231018T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:888ebfa3-23e2-4962-a9b6-1651f2286f9d@888e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231006T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231006T133000Z
-SUMMARY:ЛК Финансовый анализ
-UID:05cca31f-a4bb-4417-ada8-521feff46617@05cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231106T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231106T133000Z
-SUMMARY:ЛК Стратегическое планирование
-UID:b669d35e-ee39-49cd-9753-a547b894d4c7@b669.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231220T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231220T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:a6f2feea-b112-4db1-ba47-7f4d18a66486@a6f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231014T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231014T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:161644cf-ba36-4348-b528-91030332beac@1616.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231121T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231121T151500Z
-SUMMARY:ПЗ Цифровизация налогового администрирования
-UID:a2ab5c9f-18c9-4733-8746-99c2f72057e3@a2ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20230926T150000Z
-LOCATION:Орш. В-505
-DTSTART:20230926T133000Z
-SUMMARY:ЛК Цифровое государство
-UID:5425813c-ab37-4954-bd9e-82f7b0e14214@5425.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230911T183000Z
-LOCATION:5-317
-DTSTART:20230911T170000Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:0bfcb81b-b2ee-4432-b7b3-fb26ec8ba6fd@0bfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20230927T164500Z
-LOCATION:Орш. В-505
-DTSTART:20230927T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:0619e87e-49f3-4cf3-a220-ed699be13417@0619.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231114T150000Z
-LOCATION:Орш. В-505
-DTSTART:20231114T133000Z
-SUMMARY:ЛК Цифровизация налогового администрирования
-UID:77a60b8e-5e14-4aeb-b49f-e2db339edca4@77a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231204T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231204T170000Z
-SUMMARY:ПЗ Стратегическое планирование
-UID:5da0898b-d7fd-49bb-8747-c1cce0817d36@5da0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231120T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231120T133000Z
-SUMMARY:ЛК Стратегическое планирование
-UID:65377612-5789-4978-a97a-0046c52c0e8d@6537.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231213T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231213T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:934de1b3-5221-4f07-89c7-c973d1c0abc0@934d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231007T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231007T151500Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:9277a66a-747e-465e-983e-99f2c002d34c@9277.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231205T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Цифровизация налогового администрирования
-UID:8f84eb04-16b0-4312-8acc-3611d5c85d9b@8f84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231002T150000Z
-LOCATION:5-317
-DTSTART:20231002T133000Z
-SUMMARY:ЛК Цифровая трансформация мировой экономики
-UID:fd0139f2-5c32-49b6-a761-603d093b5ed2@fd01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230918T150000Z
-LOCATION:5-317
-DTSTART:20230918T133000Z
-SUMMARY:ЛК Цифровая трансформация мировой экономики
-UID:a5c380cd-9558-40f7-8ed3-d64756a752d4@a5c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231206T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231206T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:40d6a89e-0ff1-4574-93da-a8f1cb04a2e5@40d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230909T183000Z
-LOCATION:Орш. В-506
-DTSTART:20230909T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:33829146-1e20-453d-b16e-8d30928b33fa@3382.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231007T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231007T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:625b034f-6e6f-41d3-86fd-d250b5a0300a@625b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231016T183000Z
-LOCATION:5-317
-DTSTART:20231016T170000Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:96b58ca3-7bef-4055-bdf2-6f210e316247@96b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231108T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231108T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:7f1afab4-4aaf-4df5-9de3-79c9efcf0c68@7f1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231014T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231014T151500Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:70e84ce6-b6e7-4744-b634-b916f971f3bf@70e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231205T150000Z
-LOCATION:Орш. В-505
-DTSTART:20231205T133000Z
-SUMMARY:ЛК Цифровизация налогового администрирования
-UID:fa407dc7-bd8e-4210-89a4-2dbe1253417a@fa40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230930T150000Z
-LOCATION:Орш. В-506
-DTSTART:20230930T133000Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:6ed102ba-0ee6-40c3-9b57-f5d8aa6a43b4@6ed1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20230926T164500Z
-LOCATION:Орш. В-505
-DTSTART:20230926T151500Z
-SUMMARY:ЛК Цифровое государство
-UID:424d8505-6d2a-4bed-9c73-b7d2827432e2@424d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20231012T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231012T170000Z
-SUMMARY:ПЗ Деньги\, кредит\, банки
-UID:92e29b1c-3882-4d23-8bf8-dd17723f2754@92e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230908T183000Z
-LOCATION:Орш. В-506
-DTSTART:20230908T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:f3e9a1df-3b67-4ea6-a472-6e36002276ac@f3e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231220T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231220T151500Z
-SUMMARY:ПЗ Финансовый анализ
-UID:5d83aa9f-10f0-482d-854a-54c4bd271084@5d83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231031T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231031T151500Z
-SUMMARY:ПЗ Цифровизация налогового администрирования
-UID:0937d509-292c-407b-82d7-6b2e3bd2d6a8@0937.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231101T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231101T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:e6cc30b7-8413-4f4f-9757-415c5a238780@e6cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231204T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231204T133000Z
-SUMMARY:ЛК Стратегическое планирование
-UID:5b381cb7-8dde-454b-a7b8-edd5c1f59c73@5b38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231021T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231021T151500Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:c42ce2fa-a1b0-400e-82db-942a2c0acfad@c42c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231122T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231122T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:86bfa8f6-d86a-4cdc-8955-2e465a6e3bb9@86bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20231019T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231019T170000Z
-SUMMARY:ПЗ Деньги\, кредит\, банки
-UID:d50a6eb3-f247-431b-9dd2-3514abee62c2@d50a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231007T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231007T133000Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:7a9e542a-fc94-41ec-9a88-77d40bdac1ca@7a9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231115T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231115T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:856e0aab-75ca-4a01-8b7d-2acc189dc93a@856e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20230912T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230912T170000Z
-SUMMARY:ПЗ Цифровое государство
-UID:297dbe9d-c3b1-4b82-919b-1a20a269b58c@297d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231020T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231020T133000Z
-SUMMARY:ЛК Финансовый анализ
-UID:eb133266-5c2a-44d0-8a49-c22074507b22@eb13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20231010T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231010T170000Z
-SUMMARY:ПЗ Цифровое государство
-UID:85453f4b-cf76-42fa-8fa3-2ef238cf41db@8545.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231023T150000Z
-LOCATION:5-317
-DTSTART:20231023T133000Z
-SUMMARY:ЛК Цифровая трансформация мировой экономики
-UID:7d37b0be-f78b-41e7-924a-ceef36c098f4@7d37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231128T150000Z
-LOCATION:Орш. В-505
-DTSTART:20231128T133000Z
-SUMMARY:ЛК Цифровизация налогового администрирования
-UID:c206bea8-e205-498e-8aa6-2dc88b66624a@c206.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230908T164500Z
-LOCATION:Орш. В-506
-DTSTART:20230908T151500Z
-SUMMARY:ЛК Финансовый анализ
-UID:abd77b53-3006-4d5e-822b-f7cfdc713a7e@abd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230923T150000Z
-LOCATION:Орш. В-506
-DTSTART:20230923T133000Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:b3e33091-fa9b-41f6-acfa-da90076d2b5f@b3e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231020T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231020T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:12dd2bfe-88bd-4518-9a1f-57d09afa0cac@12dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231021T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231021T133000Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:50364fea-437d-4b83-a5db-14e6eeafa394@5036.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20231026T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231026T151500Z
-SUMMARY:ЛК Деньги\, кредит\, банки
-UID:407866fa-0b2b-49fa-a60a-9c2024a1dfc0@4078.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20230925T164500Z
-LOCATION:5-317
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:cdc96e41-4daf-4e4d-acd5-957d16f74ee4@cdc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20230912T164500Z
-LOCATION:Орш. В-505
-DTSTART:20230912T151500Z
-SUMMARY:ЛК Цифровое государство
-UID:cbf1b930-59da-48e2-a348-f34ce7069123@cbf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231101T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231101T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:db4845f6-d468-4bf1-9b65-4465561c1f2f@db48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230915T164500Z
-LOCATION:Орш. В-506
-DTSTART:20230915T151500Z
-SUMMARY:ПЗ Финансовый анализ
-UID:c11adfb4-19f8-4927-bc41-a00b27728e99@c11a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230916T164500Z
-LOCATION:Орш. В-506
-DTSTART:20230916T151500Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:3aad6332-0a3b-4e0c-bcbd-c45da32d1201@3aad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231009T150000Z
-LOCATION:5-317
-DTSTART:20231009T133000Z
-SUMMARY:ЛК Цифровая трансформация мировой экономики
-UID:37e767d5-0b33-4dce-8b62-2a8850789e93@37e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20231003T183000Z
-LOCATION:Орш. В-505
-DTSTART:20231003T170000Z
-SUMMARY:ПЗ Цифровое государство
-UID:0b23e841-6e2b-4073-a480-c91406a75542@0b23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
-DTEND:20230928T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230928T170000Z
-SUMMARY:ПЗ Деньги\, кредит\, банки
-UID:1635987f-3e6f-49fd-b469-fd07b77cd5d9@1635.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231211T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231211T170000Z
-SUMMARY:ПЗ Стратегическое планирование
-UID:c8c4af1e-190a-40a7-993a-4d601f174eaa@c8c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231218T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231218T133000Z
-SUMMARY:ЛК Стратегическое планирование
-UID:27d2b4e5-358c-4e46-810b-b2c75f0d0bd2@27d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231121T150000Z
-LOCATION:Орш. В-505
-DTSTART:20231121T133000Z
-SUMMARY:ЛК Цифровизация налогового администрирования
-UID:eed94875-5632-404f-9941-edc2370da7a4@eed9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230929T183000Z
-LOCATION:Орш. В-506
-DTSTART:20230929T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:a002e943-b0aa-4a1d-8f82-1c14b4e5ae00@a002.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20230912T150000Z
-LOCATION:Орш. В-505
-DTSTART:20230912T133000Z
-SUMMARY:ЛК Цифровое государство
-UID:5d464e94-e6a4-42b5-9231-08c7801c054c@5d46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230922T150000Z
-LOCATION:Орш. В-506
-DTSTART:20230922T133000Z
-SUMMARY:ЛК Финансовый анализ
-UID:db6c99f8-4b79-47bf-b47b-98a55bb9a667@db6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230923T183000Z
-LOCATION:Орш. В-506
-DTSTART:20230923T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:6392c420-8895-4d78-ba33-971ca8b16bc5@6392.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20230927T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230927T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:774b3581-8f4b-47b3-be1a-d8317d26e978@774b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230923T164500Z
-LOCATION:Орш. В-506
-DTSTART:20230923T151500Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:7cdc7fc3-baaa-4e56-9005-4eb173eca965@7cdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231016T164500Z
-LOCATION:5-317
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Цифровая трансформация мировой экономики
-UID:faded168-c356-405a-a432-b05daa879472@fade.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231108T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231108T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:60071c3c-9946-478c-b073-e989fb3c7700@6007.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231013T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231013T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:983cd66a-e28e-475b-9d27-0382eeecd16d@983c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231227T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231227T151500Z
-SUMMARY:ПЗ Финансовый анализ
-UID:a9b50c41-3ab3-4321-8825-364e72835516@a9b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231027T150000Z
-LOCATION:Орш. В-506
-DTSTART:20231027T133000Z
-SUMMARY:ЛК Финансовый анализ
-UID:5e8f928a-c84a-4721-a723-7c0dd1b0c984@5e8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231021T183000Z
-LOCATION:Орш. В-506
-DTSTART:20231021T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:d985b081-82ec-40c4-9bd9-3465b239d6da@d985.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Золотова Вероника Анатольевна
-DTEND:20231010T150000Z
-LOCATION:Орш. В-505
-DTSTART:20231010T133000Z
-SUMMARY:ЛК Цифровое государство
-UID:d79d4bbb-4671-47a4-8339-eb3076590af2@d79d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231031T150000Z
-LOCATION:Орш. В-505
-DTSTART:20231031T133000Z
-SUMMARY:ЛК Цифровизация налогового администрирования
-UID:4b7759b9-93e1-4f68-b278-8231a3cd0e08@4b77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231107T150000Z
-LOCATION:Орш. В-505
-DTSTART:20231107T133000Z
-SUMMARY:ЛК Цифровизация налогового администрирования
-UID:4cd36c64-634b-4263-8615-68aecfe4f9d0@4cd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230908T150000Z
-LOCATION:Орш. В-506
-DTSTART:20230908T133000Z
-SUMMARY:ЛК Финансовый анализ
-UID:69fef6ca-a248-4d40-aa83-2b722c70e81a@69fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231129T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231129T151500Z
-SUMMARY:ПЗ Финансовый анализ
-UID:e253d16c-733c-4c48-8139-de8d6ec80c23@e253.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20230920T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230920T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:528d9b1e-0f69-45a2-b30f-3441a103f388@528d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20231011T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231011T151500Z
-SUMMARY:ЛК Управление рисками цифровой экономики
-UID:1f43a93d-d6db-4c8c-ba43-4c088a80c145@1f43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231219T150000Z
-LOCATION:Орш. В-505
-DTSTART:20231219T133000Z
-SUMMARY:ЛК Цифровизация налогового администрирования
-UID:bd950e54-6ec1-4b06-a25b-68915cf48acb@bd95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
-DTEND:20231225T164500Z
-LOCATION:Орш. В-506
-DTSTART:20231225T151500Z
-SUMMARY:ПЗ Стратегическое планирование
-UID:3fa0888d-e0c5-4271-bd8a-0b6ab67d9122@3fa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231212T164500Z
-LOCATION:Орш. В-505
-DTSTART:20231212T151500Z
-SUMMARY:ПЗ Цифровизация налогового администрирования
-UID:33f7790f-8e9c-45a9-b2af-c84953962f66@33f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
-DTEND:20230906T183000Z
-LOCATION:Орш. В-505
-DTSTART:20230906T170000Z
-SUMMARY:ПЗ Управление рисками цифровой экономики
-UID:b1749fdc-a06a-4525-a836-80aad61098c0@b174.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20230915T183000Z
-LOCATION:Орш. В-506
-DTSTART:20230915T170000Z
-SUMMARY:ПЗ Финансовый анализ
-UID:65fff34a-e5ac-4f74-813b-9e3de218723a@65ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сивоплясова Светлана Юрьевна
-DTEND:20231030T150000Z
-LOCATION:5-317
-DTSTART:20231030T133000Z
-SUMMARY:ЛК Цифровая трансформация мировой экономики
-UID:9e2b525a-eb18-48d6-b323-be18d0a005ff@9e2b.org
+UID:9b7b552c-bd46-40fa-a0d7-1472d98529d5@9b7b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ласточкина Вера Владимировна
@@ -1447,15 +23,383 @@ DTEND:20231027T164500Z
 LOCATION:Орш. В-506
 DTSTART:20231027T151500Z
 SUMMARY:ПЗ Финансовый анализ
-UID:a51d4d3d-ab56-4084-ac21-7c8594847f0c@a51d.org
+UID:9d7463bf-5a55-41e1-8896-07c62473088a@9d74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231225T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231225T133000Z
+SUMMARY:ЛК Стратегическое планирование
+UID:4972b964-9738-4fc5-a7de-d8f994441a49@4972.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231127T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231127T133000Z
+SUMMARY:ЛК Стратегическое планирование
+UID:6965cfd3-c193-4019-8743-7040547119c2@6965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231204T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231204T151500Z
+SUMMARY:ЛК Стратегическое планирование
+UID:72f7101d-829b-48e6-881e-206bdb5351fe@72f7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ласточкина Вера Владимировна
-DTEND:20231028T183000Z
+DTEND:20230915T183000Z
 LOCATION:Орш. В-506
-DTSTART:20231028T170000Z
+DTSTART:20230915T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:767c666f-2fe7-4a46-a064-3fe256cdaba9@767c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20230921T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230921T170000Z
+SUMMARY:ПЗ Деньги\, кредит\, банки
+UID:38a602a5-9016-43da-86f5-695f2ce0e618@38a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230916T150000Z
+LOCATION:Орш. В-506
+DTSTART:20230916T133000Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:e45bdcfb-186e-4812-bb00-e6b183320d8f@e45b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231006T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231006T133000Z
+SUMMARY:ЛК Финансовый анализ
+UID:3bb18ebe-a836-40f3-8614-3277b3d296f1@3bb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231007T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231007T151500Z
 SUMMARY:ПЗ Методы принятия управленческих решений
-UID:c66782c4-e20c-46b3-ac26-ee495ef263c1@c667.org
+UID:474a46ee-6650-44f9-9744-d1f88b1167c5@474a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20230919T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230919T170000Z
+SUMMARY:ПЗ Цифровое государство
+UID:ff3e1fa6-8a1d-4d9a-8b9a-d7e509ba2ae8@ff3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20230921T164500Z
+LOCATION:Орш. В-505
+DTSTART:20230921T151500Z
+SUMMARY:ЛК Деньги\, кредит\, банки
+UID:29af3962-ae75-4d11-9e70-41c8da0749b8@29af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20231019T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231019T151500Z
+SUMMARY:ЛК Деньги\, кредит\, банки
+UID:3fd4bbc6-a0e1-46aa-b8a5-6d8af95cb719@3fd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231220T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231220T151500Z
+SUMMARY:ПЗ Финансовый анализ
+UID:93cdb9f2-5353-4110-b871-089af6851f95@93cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230918T183000Z
+LOCATION:5-317
+DTSTART:20230918T170000Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:31c1c3e4-263b-4444-b665-9ba3fd63d76f@31c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20230927T164500Z
+LOCATION:Орш. В-505
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:1e21d427-eb90-4644-9e5f-6991cf3a2bb3@1e21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231011T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231011T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:eb6810d4-08cb-4ef4-9bb0-79a9bf1bdbd9@eb68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231030T150000Z
+LOCATION:5-317
+DTSTART:20231030T133000Z
+SUMMARY:ЛК Цифровая трансформация мировой экономики
+UID:34e71910-c348-4406-86e9-7b34c5f90d92@34e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20231012T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231012T170000Z
+SUMMARY:ПЗ Деньги\, кредит\, банки
+UID:61a9d71b-3154-4957-8ffc-d655def430a7@61a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231115T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231115T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:bdfdbbc3-90c1-4270-9b7a-8e5719b5eaaf@bdfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231121T150000Z
+LOCATION:Орш. В-505
+DTSTART:20231121T133000Z
+SUMMARY:ЛК Цифровизация налогового администрирования
+UID:6184856f-ed58-4c84-b632-3bec0c9be4ea@6184.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230911T150000Z
+LOCATION:5-317
+DTSTART:20230911T133000Z
+SUMMARY:ЛК Цифровая трансформация мировой экономики
+UID:2c711436-5b9f-4e92-aa67-75a628927ee0@2c71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20230914T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230914T170000Z
+SUMMARY:ПЗ Деньги\, кредит\, банки
+UID:e4c3d1f0-b28d-4c44-ac4e-6ab9da0bb649@e4c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231108T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231108T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:6ed053e9-d49d-4713-8e19-aa6563bfdd6c@6ed0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230916T164500Z
+LOCATION:Орш. В-506
+DTSTART:20230916T151500Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:99e14c8b-c2cb-4f62-a067-8e3d23eb5bd7@99e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20230905T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230905T170000Z
+SUMMARY:ПЗ Цифровое государство
+UID:fc53ddf3-898f-4370-9545-f0049e3d9351@fc53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231020T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231020T151500Z
+SUMMARY:ЛК Финансовый анализ
+UID:26586cbe-8d62-4f88-a132-599e4a942e69@2658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230922T150000Z
+LOCATION:Орш. В-506
+DTSTART:20230922T133000Z
+SUMMARY:ЛК Финансовый анализ
+UID:5dcc0f55-e4e6-43d5-a0d2-c7e54a970dc8@5dcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230904T183000Z
+LOCATION:5-317
+DTSTART:20230904T170000Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:a8a133d9-f81b-4aa2-83fc-ce3015cb5505@a8a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231023T150000Z
+LOCATION:5-317
+DTSTART:20231023T133000Z
+SUMMARY:ЛК Цифровая трансформация мировой экономики
+UID:f6fd7a98-fd3c-44a5-a777-b3795bad93f3@f6fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231028T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231028T151500Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:b83ef805-d236-4eef-a1c2-9de6a77426cc@b83e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231204T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231204T133000Z
+SUMMARY:ЛК Стратегическое планирование
+UID:dfceb57a-de1b-4958-bd9d-84525fa60090@dfce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230930T183000Z
+LOCATION:Орш. В-506
+DTSTART:20230930T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:96a17ca2-6ff4-42bc-81d2-fada07020173@96a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231006T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231006T151500Z
+SUMMARY:ЛК Финансовый анализ
+UID:af08d233-038c-4ed2-801c-352218c43f72@af08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231009T164500Z
+LOCATION:5-317
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:887a7bb8-356b-4759-bfd6-b09e83cfd433@887a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231101T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231101T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:5bc6fdb7-9897-416a-8078-1b853a094359@5bc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230925T150000Z
+LOCATION:5-317
+DTSTART:20230925T133000Z
+SUMMARY:ЛК Цифровая трансформация мировой экономики
+UID:8a0332f7-1303-4e4a-8eb7-e9649bd59caa@8a03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231021T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231021T133000Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:0f1e603d-09a1-4e37-91f1-812cb44fd26d@0f1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231021T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231021T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:ec86bbad-698d-4d89-a27d-0b2518ccee91@ec86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231122T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231122T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:c054b637-87ee-45d2-904f-cace27efaac1@c054.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231027T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231027T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:fd91b9d5-4a17-42b8-93d4-b0185362fd01@fd91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231128T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231128T151500Z
+SUMMARY:ПЗ Цифровизация налогового администрирования
+UID:1ae12d19-cb3e-4031-b359-a48b28f997f1@1ae1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231031T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231031T151500Z
+SUMMARY:ПЗ Цифровизация налогового администрирования
+UID:2c417e88-c606-4758-a211-1d31b93c6053@2c41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231212T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231212T151500Z
+SUMMARY:ПЗ Цифровизация налогового администрирования
+UID:c2058473-7039-4b7c-bdca-fa281240cb35@c205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20230926T150000Z
+LOCATION:Орш. В-505
+DTSTART:20230926T133000Z
+SUMMARY:ЛК Цифровое государство
+UID:76026998-7840-4227-8791-13e7da3fa1ff@7602.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231127T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231127T151500Z
+SUMMARY:ПЗ Стратегическое планирование
+UID:6c96d00a-1cab-4ab4-8ff9-96de76b42168@6c96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20230906T164500Z
+LOCATION:Орш. В-505
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:42e34f18-59d5-4277-b5a8-ef59c1948a4c@42e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20230912T150000Z
+LOCATION:Орш. В-505
+DTSTART:20230912T133000Z
+SUMMARY:ЛК Цифровое государство
+UID:a1ff13c3-166a-46fa-b2d4-027d9f55c652@a1ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230922T183000Z
+LOCATION:Орш. В-506
+DTSTART:20230922T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:db4a76c6-5ae3-4174-9d47-9045c9520fbe@db4a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Золотова Вероника Анатольевна
@@ -1463,6 +407,1062 @@ DTEND:20231017T164500Z
 LOCATION:Орш. В-505
 DTSTART:20231017T151500Z
 SUMMARY:ПЗ Цифровое государство
-UID:ee78ddef-efbd-40b1-9a9f-a28c85203bc8@ee78.org
+UID:d011a228-113d-458d-826d-9cdc846e64d1@d011.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231129T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231129T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:5fbdab92-0b6e-4937-9c8f-749ff039ff88@5fbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231016T150000Z
+LOCATION:5-317
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Цифровая трансформация мировой экономики
+UID:5de48c60-7320-4c55-8ad6-f7881257d6aa@5de4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231120T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231120T151500Z
+SUMMARY:ЛК Стратегическое планирование
+UID:5e943439-0fa0-4f35-aacc-3447745521ae@5e94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231211T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Стратегическое планирование
+UID:925f7c85-06dc-4b37-a09e-09b99c651cbe@925f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231002T150000Z
+LOCATION:5-317
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Цифровая трансформация мировой экономики
+UID:e6aaef1a-2bf7-4c3c-b9bc-68d408f1fb70@e6aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231115T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231115T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:f46e000a-fc65-4aa0-92b7-f6934ab59b25@f46e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231014T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231014T151500Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:bd20b87d-d387-4ee7-b7fd-7aa608f3d7d4@bd20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20230913T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230913T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:cf43d326-d3d3-4124-8b22-323d1ffa4387@cf43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231013T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231013T151500Z
+SUMMARY:ПЗ Финансовый анализ
+UID:a05217ee-2f3f-46bb-ad8d-f9c9db2ce7a6@a052.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231013T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231013T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:8b67a4d3-81f1-4f47-a66b-992767f65054@8b67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231027T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231027T133000Z
+SUMMARY:ЛК Финансовый анализ
+UID:9c40a93e-a4e1-4305-842b-beee8fadcae1@9c40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20231010T150000Z
+LOCATION:Орш. В-505
+DTSTART:20231010T133000Z
+SUMMARY:ЛК Цифровое государство
+UID:9f0104b0-ec08-437b-8fd4-286b279d397d@9f01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230930T164500Z
+LOCATION:Орш. В-506
+DTSTART:20230930T151500Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:27d62731-2b97-4e1d-b9b0-b0ca06c4e098@27d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231025T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231025T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:d8eb4733-0c45-4de0-b673-1005d4816e74@d8eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231205T150000Z
+LOCATION:Орш. В-505
+DTSTART:20231205T133000Z
+SUMMARY:ЛК Цифровизация налогового администрирования
+UID:776e8a90-cc19-49e1-929b-5171994f418a@776e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231225T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231225T170000Z
+SUMMARY:ПЗ Стратегическое планирование
+UID:d31e35c0-ee3f-4c99-950f-ae4ab4d54723@d31e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231014T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231014T133000Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:d3a4dbe4-c09d-47f7-bde4-b17fd0115887@d3a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20230912T164500Z
+LOCATION:Орш. В-505
+DTSTART:20230912T151500Z
+SUMMARY:ЛК Цифровое государство
+UID:6c7f84a0-3394-42af-9620-ca6f6670be59@6c7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231014T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231014T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:3d46b20b-7e44-4208-ae03-559d180cf133@3d46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230915T150000Z
+LOCATION:Орш. В-506
+DTSTART:20230915T133000Z
+SUMMARY:ЛК Финансовый анализ
+UID:2e333fec-3ff9-4656-b3a4-4cdd1e129aec@2e33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231205T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Цифровизация налогового администрирования
+UID:6c956a97-797e-4235-acae-823cbed85a20@6c95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231211T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231211T151500Z
+SUMMARY:ПЗ Стратегическое планирование
+UID:c205cb7a-58e5-4d74-a9be-8291539c8f38@c205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231122T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231122T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:33a2b6c2-b38c-44bd-8577-2e809663842c@33a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231227T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231227T151500Z
+SUMMARY:ПЗ Финансовый анализ
+UID:60fbeeb7-50df-4174-86ca-bfa371fafc4e@60fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20230919T164500Z
+LOCATION:Орш. В-505
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Цифровое государство
+UID:fb29cfd9-4d35-456e-a87d-0d4a996df1cd@fb29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231108T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231108T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:8a9d5657-d302-4565-b390-d0a3910c43fb@8a9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20231010T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231010T151500Z
+SUMMARY:ЛК Цифровое государство
+UID:85a1d1ec-b764-4f30-bc43-e18bd0121bfd@85a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230923T183000Z
+LOCATION:Орш. В-506
+DTSTART:20230923T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:efeec9c8-130b-4767-925b-953874eb227f@efee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231025T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231025T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:373613c4-e0d3-44c5-b5c3-27b3fd39915e@3736.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231023T164500Z
+LOCATION:5-317
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:93de90ee-304f-4cee-b2b5-8937e071458e@93de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20230912T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230912T170000Z
+SUMMARY:ПЗ Цифровое государство
+UID:d9c88883-f2d3-4d19-b4e7-804ca2c98064@d9c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20231010T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231010T170000Z
+SUMMARY:ПЗ Цифровое государство
+UID:98a4fe5f-d0d1-4701-8fbb-6664ba03fcb1@98a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231211T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231211T170000Z
+SUMMARY:ПЗ Стратегическое планирование
+UID:33ab5af7-eabb-4023-8762-b771b3c83f63@33ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20231005T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231005T151500Z
+SUMMARY:ЛК Деньги\, кредит\, банки
+UID:04b52eae-970f-41e5-8c6f-0b70e399b61f@04b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20231026T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231026T170000Z
+SUMMARY:ПЗ Деньги\, кредит\, банки
+UID:b63d38a3-078e-4ce4-b554-e8b9b2df4d95@b63d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231114T150000Z
+LOCATION:Орш. В-505
+DTSTART:20231114T133000Z
+SUMMARY:ЛК Цифровизация налогового администрирования
+UID:ab3f1cd3-e553-46c1-9892-cb11830f19db@ab3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231121T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231121T151500Z
+SUMMARY:ПЗ Цифровизация налогового администрирования
+UID:d17eaf70-b333-47e7-97b7-715f4bec6e7f@d17e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230922T164500Z
+LOCATION:Орш. В-506
+DTSTART:20230922T151500Z
+SUMMARY:ЛК Финансовый анализ
+UID:c08fd997-86ed-4109-b679-e783aa05f856@c08f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231206T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231206T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:99e6f95c-4530-4ac6-bfc6-3a547b13bc00@99e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231106T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231106T133000Z
+SUMMARY:ЛК Стратегическое планирование
+UID:7ff71d7e-b141-4f49-bbb6-d06a48df1921@7ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230908T183000Z
+LOCATION:Орш. В-506
+DTSTART:20230908T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:0180f982-27fa-4e0f-a2d0-a39af5e7d8fb@0180.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230908T150000Z
+LOCATION:Орш. В-506
+DTSTART:20230908T133000Z
+SUMMARY:ЛК Финансовый анализ
+UID:5c8dab6f-1c7e-4831-a3bd-08736eaa2206@5c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231107T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Цифровизация налогового администрирования
+UID:1600473c-9893-4a6b-9b2f-374adadccba7@1600.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230929T150000Z
+LOCATION:Орш. В-506
+DTSTART:20230929T133000Z
+SUMMARY:ЛК Финансовый анализ
+UID:6c079794-3853-4aae-8648-70e8c698ab50@6c07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230904T150000Z
+LOCATION:5-317
+DTSTART:20230904T133000Z
+SUMMARY:ЛК Цифровая трансформация мировой экономики
+UID:2b53744a-1575-48cb-8fbd-29c642544598@2b53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231218T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231218T170000Z
+SUMMARY:ПЗ Стратегическое планирование
+UID:4e6112b2-d94e-42e1-a906-4e8b64a6cbf2@4e61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230909T183000Z
+LOCATION:Орш. В-506
+DTSTART:20230909T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:f1962042-ee23-4bd3-b3dd-2c329bf163b3@f196.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231220T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231220T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:5b0aa40f-147a-4c0c-8e4d-226f21739858@5b0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230908T164500Z
+LOCATION:Орш. В-506
+DTSTART:20230908T151500Z
+SUMMARY:ЛК Финансовый анализ
+UID:89999d18-9150-4f71-8bba-f6bc52fbae3b@8999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230925T164500Z
+LOCATION:5-317
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:ee1fa278-6ffc-44e4-b538-ca6ebace5a9e@ee1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20231003T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231003T170000Z
+SUMMARY:ПЗ Цифровое государство
+UID:7bc3355c-2cbe-4f33-a460-470cfc7d15ec@7bc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231009T183000Z
+LOCATION:5-317
+DTSTART:20231009T170000Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:6d2822be-fc6c-41bb-9bc5-4862ef3e95d2@6d28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20230928T164500Z
+LOCATION:Орш. В-505
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Деньги\, кредит\, банки
+UID:ca4b0786-25a2-47a6-9553-7a1c3ecdebec@ca4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231002T183000Z
+LOCATION:5-317
+DTSTART:20231002T170000Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:bb8d170f-aa7a-4c81-8611-b5f17dc56b65@bb8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231204T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231204T170000Z
+SUMMARY:ПЗ Стратегическое планирование
+UID:a75e07b1-c87b-4ffb-8517-a8c88098e87e@a75e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231113T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Стратегическое планирование
+UID:fa8ccb0e-b7ef-4a48-8553-18c69bc0a610@fa8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231129T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231129T151500Z
+SUMMARY:ПЗ Финансовый анализ
+UID:68f03b0e-9e58-4270-95b2-b2e1de9ac26a@68f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20231012T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231012T151500Z
+SUMMARY:ЛК Деньги\, кредит\, банки
+UID:a6d35a40-0015-43f9-ac2a-425f4edb4419@a6d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231013T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231013T133000Z
+SUMMARY:ЛК Финансовый анализ
+UID:5beefe8d-fda3-45ae-8317-481d4d0bda88@5bee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231004T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:9d86ce3c-f773-4f15-a76c-73dd6790eec2@9d86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231031T150000Z
+LOCATION:Орш. В-505
+DTSTART:20231031T133000Z
+SUMMARY:ЛК Цифровизация налогового администрирования
+UID:bc48792e-8268-4d15-a89e-964f14955d39@bc48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231114T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231114T151500Z
+SUMMARY:ПЗ Цифровизация налогового администрирования
+UID:1d7a4025-ec32-4d9f-9369-478da0789b7d@1d7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231016T183000Z
+LOCATION:5-317
+DTSTART:20231016T170000Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:a620f3a2-fbb3-4c59-9bba-d7fa86e0de01@a620.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231111T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231111T133000Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:f05c09bf-f3e4-48fc-93fc-063a12672d4d@f05c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231007T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231007T133000Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:7e67e6d6-6266-4482-b1b0-9b82580fccf5@7e67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231227T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231227T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:bb92a642-2d1b-4040-88ed-191aa28d717d@bb92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231113T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231113T170000Z
+SUMMARY:ПЗ Стратегическое планирование
+UID:8e352df6-d09a-44df-bec4-7f3ca810ffb0@8e35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231107T150000Z
+LOCATION:Орш. В-505
+DTSTART:20231107T133000Z
+SUMMARY:ЛК Цифровизация налогового администрирования
+UID:e1974842-bc40-4647-8374-72fd685b5f31@e197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231218T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231218T133000Z
+SUMMARY:ЛК Стратегическое планирование
+UID:9ad05f80-4e4b-4b2c-bed7-7b49d4aba736@9ad0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20230920T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230920T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:804ae476-1f0b-4298-929f-ae2315072f06@804a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231212T150000Z
+LOCATION:Орш. В-505
+DTSTART:20231212T133000Z
+SUMMARY:ЛК Цифровизация налогового администрирования
+UID:29ad8676-ef27-4381-87d6-d0b00f2d3da8@29ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20231026T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231026T151500Z
+SUMMARY:ЛК Деньги\, кредит\, банки
+UID:2074bdcc-2b99-416a-866c-17c3f6999652@2074.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230911T183000Z
+LOCATION:5-317
+DTSTART:20230911T170000Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:fd419dea-52b1-4156-8b44-cb2f056fb6c5@fd41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231226T150000Z
+LOCATION:Орш. В-505
+DTSTART:20231226T133000Z
+SUMMARY:ЛК Цифровизация налогового администрирования
+UID:bc8db3cb-12dc-4836-a78b-e81749eb3c73@bc8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231120T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231120T170000Z
+SUMMARY:ПЗ Стратегическое планирование
+UID:a8f0d784-d1a5-4a70-9eaa-3191fbecb0ba@a8f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231002T164500Z
+LOCATION:5-317
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:55eb7fc1-7ae4-4db1-9122-1537e306bc5b@55eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20231019T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231019T170000Z
+SUMMARY:ПЗ Деньги\, кредит\, банки
+UID:bc278733-1fe1-460b-8d24-783b767cb531@bc27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20230926T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230926T170000Z
+SUMMARY:ПЗ Цифровое государство
+UID:f91c5e3e-deed-4105-bdfc-a5a2764b90c1@f91c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231218T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231218T151500Z
+SUMMARY:ЛК Стратегическое планирование
+UID:d5b2d50e-cc1d-4d66-8975-da4ceca4c87f@d5b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20230914T164500Z
+LOCATION:Орш. В-505
+DTSTART:20230914T151500Z
+SUMMARY:ЛК Деньги\, кредит\, банки
+UID:c453191a-f4b5-42ea-9c9e-03f567534b18@c453.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230923T150000Z
+LOCATION:Орш. В-506
+DTSTART:20230923T133000Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:a5ee9d88-8b7b-4252-8c35-6b4e6f0314b0@a5ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20231003T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Цифровое государство
+UID:50e5f1ce-5cd6-4298-9320-8fc2617fb4b9@50e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20230907T164500Z
+LOCATION:Орш. В-505
+DTSTART:20230907T151500Z
+SUMMARY:ЛК Деньги\, кредит\, банки
+UID:3691d41d-3365-4436-acf8-98f86e22d1f5@3691.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231016T164500Z
+LOCATION:5-317
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:2ec52d50-18f8-40c0-94fa-b697049d1f4d@2ec5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231018T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231018T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:ee787531-1068-4887-ae52-abaafd8c0bec@ee78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230916T183000Z
+LOCATION:Орш. В-506
+DTSTART:20230916T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:43928c7f-ad02-479e-a663-828321e08884@4392.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231018T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:764d4d89-b7d6-41d9-9f4c-4a9608c51cb3@764d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231028T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231028T133000Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:c0efdb45-a017-4803-801c-f128ac2834c0@c0ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20231102T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231102T151500Z
+SUMMARY:ЛК Деньги\, кредит\, банки
+UID:3df3149d-4e2a-4ad5-a057-215a4f308566@3df3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231120T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231120T133000Z
+SUMMARY:ЛК Стратегическое планирование
+UID:b159ff9b-02e1-4905-8be6-37a075b7d1fa@b159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231020T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231020T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:6a603ce2-b237-475e-a8b3-bb198ef16cc8@6a60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231206T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231206T151500Z
+SUMMARY:ПЗ Финансовый анализ
+UID:96a0cc73-b559-4eaf-90cd-ca25eaffa28f@96a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231106T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231106T151500Z
+SUMMARY:ЛК Стратегическое планирование
+UID:81105aa3-75a1-44a8-9ad5-485110427c4f@8110.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231128T150000Z
+LOCATION:Орш. В-505
+DTSTART:20231128T133000Z
+SUMMARY:ЛК Цифровизация налогового администрирования
+UID:01eda9b3-1f05-4412-a054-ab2a65e58cb1@01ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20230907T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230907T170000Z
+SUMMARY:ПЗ Деньги\, кредит\, банки
+UID:c076d72b-924f-4c9c-8fcf-c3211a6ca6d5@c076.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231004T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231004T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:971d7c08-b3b1-4b01-9da2-3c6e33b178a3@971d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20231017T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231017T170000Z
+SUMMARY:ПЗ Цифровое государство
+UID:fc7a8538-bb43-4263-8573-66e779197ffc@fc7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230925T183000Z
+LOCATION:5-317
+DTSTART:20230925T170000Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:ec0cae0e-fce5-4b0b-a332-d408de02e7ad@ec0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231111T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231111T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:83439e06-f5f3-468c-928f-20c7171b078d@8343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20230926T164500Z
+LOCATION:Орш. В-505
+DTSTART:20230926T151500Z
+SUMMARY:ЛК Цифровое государство
+UID:09ece5c8-a5cd-4357-876a-8375de62adf3@09ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231219T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Цифровизация налогового администрирования
+UID:e4796afc-b969-42e9-9016-953e57fb8379@e479.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230929T183000Z
+LOCATION:Орш. В-506
+DTSTART:20230929T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:2e4b1cf5-097d-48ea-b03d-e9b2e3793e49@2e4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231007T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231007T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:072974b9-4a33-440f-8404-68476635c926@0729.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Золотова Вероника Анатольевна
+DTEND:20231003T150000Z
+LOCATION:Орш. В-505
+DTSTART:20231003T133000Z
+SUMMARY:ЛК Цифровое государство
+UID:44d10c39-c274-433b-bca2-375400c5e2a0@44d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230923T164500Z
+LOCATION:Орш. В-506
+DTSTART:20230923T151500Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:d19ddf9f-a7f1-4211-8103-08d631112afa@d19d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20230920T164500Z
+LOCATION:Орш. В-505
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:60c65302-78fc-44bf-9a24-5073b7749df6@60c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20231005T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231005T170000Z
+SUMMARY:ПЗ Деньги\, кредит\, банки
+UID:77323f01-7382-4ef4-9a2b-a3df1b5116d3@7732.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231101T183000Z
+LOCATION:Орш. В-505
+DTSTART:20231101T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:5b55b527-257b-4663-88ed-4a8ee02260a4@5b55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230904T164500Z
+LOCATION:5-317
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:bb4119e5-2bbe-4615-9de2-87efb572ca02@bb41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231225T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231225T151500Z
+SUMMARY:ПЗ Стратегическое планирование
+UID:2dc5af94-cb33-40d9-9927-e2c728cb9e89@2dc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20231011T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231011T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:b155d2d0-a09c-4b56-9c76-928249121a71@b155.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231219T150000Z
+LOCATION:Орш. В-505
+DTSTART:20231219T133000Z
+SUMMARY:ЛК Цифровизация налогового администрирования
+UID:55ca27db-1565-408f-9aa7-c964bf84c5d7@55ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231009T150000Z
+LOCATION:5-317
+DTSTART:20231009T133000Z
+SUMMARY:ЛК Цифровая трансформация мировой экономики
+UID:b0c7d5d3-3b2c-4689-bbc5-8cafa0c5f0fc@b0c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231020T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231020T133000Z
+SUMMARY:ЛК Финансовый анализ
+UID:0f95bfaa-6291-42d7-a45b-950454f627b1@0f95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20230927T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230927T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:7f316a76-7d91-4b4c-bd00-d405f660304a@7f31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231113T150000Z
+LOCATION:Орш. В-506
+DTSTART:20231113T133000Z
+SUMMARY:ЛК Стратегическое планирование
+UID:cf3cbf97-5b81-42d0-a358-dfa7177c0921@cf3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230918T150000Z
+LOCATION:5-317
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Цифровая трансформация мировой экономики
+UID:8eaf2a3b-fa2e-40f2-a9c7-6b57878fe792@8eaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231213T164500Z
+LOCATION:Орш. В-505
+DTSTART:20231213T151500Z
+SUMMARY:ПЗ Финансовый анализ
+UID:6698de89-8fe3-411b-a859-827d0722dc2e@6698.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230918T164500Z
+LOCATION:5-317
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:3ee56646-09e5-4846-868d-5c0123acaaa0@3ee5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20231023T183000Z
+LOCATION:5-317
+DTSTART:20231023T170000Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:fc790fee-e1c5-4d9d-89f9-cb7e16655a7c@fc79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сивоплясова Светлана Юрьевна
+DTEND:20230911T164500Z
+LOCATION:5-317
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Цифровая трансформация мировой экономики
+UID:fcf09542-c4bb-4adb-ba4e-923c1853c919@fcf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДОТОВА АНАСТАСИЯ ВЯЧЕСЛАВОВНА
+DTEND:20231127T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231127T170000Z
+SUMMARY:ПЗ Стратегическое планирование
+UID:5cb3451d-4a3d-46be-89ad-a5a5c54b3ace@5cb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230930T150000Z
+LOCATION:Орш. В-506
+DTSTART:20230930T133000Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:5da01cdb-1d4d-4d1e-a207-db32b2feeae8@5da0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20230906T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230906T170000Z
+SUMMARY:ПЗ Управление рисками цифровой экономики
+UID:56880984-67aa-4429-b7eb-a9837ce6fdbf@5688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ТИХОНОВ ГЕННАДИЙ ВИТАЛЬЕВИЧ
+DTEND:20230913T164500Z
+LOCATION:Орш. В-505
+DTSTART:20230913T151500Z
+SUMMARY:ЛК Управление рисками цифровой экономики
+UID:97b211ba-2677-45f6-a51c-d33ea2942152@97b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230929T164500Z
+LOCATION:Орш. В-506
+DTSTART:20230929T151500Z
+SUMMARY:ПЗ Финансовый анализ
+UID:98848c0b-512b-4658-b00a-beab0eb44f05@9884.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230909T164500Z
+LOCATION:Орш. В-506
+DTSTART:20230909T151500Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:f8a7e986-afbc-4d6b-beee-c58156601449@f8a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231006T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231006T170000Z
+SUMMARY:ПЗ Финансовый анализ
+UID:dd4694bf-bc28-4531-8db4-2e44f92fbad2@dd46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231028T183000Z
+LOCATION:Орш. В-506
+DTSTART:20231028T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:a496223c-d31d-4463-8140-e772daa0a07d@a496.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БОЯР-СОЗОНОВИЧ АНДРЕЙ СТАНИСЛАВОВИЧ
+DTEND:20230928T183000Z
+LOCATION:Орш. В-505
+DTSTART:20230928T170000Z
+SUMMARY:ПЗ Деньги\, кредит\, банки
+UID:0d4ced74-7f83-4499-9de9-e07bb2fbfcb6@0d4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20231021T164500Z
+LOCATION:Орш. В-506
+DTSTART:20231021T151500Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:254c3bce-cedd-411d-815f-cbee3584cf00@254c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ласточкина Вера Владимировна
+DTEND:20230915T164500Z
+LOCATION:Орш. В-506
+DTSTART:20230915T151500Z
+SUMMARY:ПЗ Финансовый анализ
+UID:c2d50583-ba61-4170-8959-e08e53209847@c2d5.org
 END:VEVENT
 END:VCALENDAR

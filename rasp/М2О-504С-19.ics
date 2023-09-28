@@ -2,52 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Бережной Владимир Николаевич
-DTEND:20231216T091500Z
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231013T091500Z
 LOCATION:2-125(2Г)
-DTSTART:20231216T074500Z
-SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
-UID:3ead2d6c-5c80-4310-b1ec-90ac66538dc8@3ead.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Асланян Ирина Рудиковна
-DTEND:20231020T113000Z
-LOCATION:2-206(2А)
-DTSTART:20231020T100000Z
-SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:2d546c2d-7164-41e7-822e-d2da26a334a8@2d54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231125T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231125T100000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:031a6425-f166-43fa-ac52-da483d0f7381@031a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231206T073000Z
-LOCATION:2-206(2А)
-DTSTART:20231206T060000Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:cec2ac04-522b-4cbf-a9c5-c3521cef6993@cec2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20230912T113000Z
-LOCATION:2-23(2Б)
-DTSTART:20230912T100000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:0e46ef1e-c01e-4285-9141-2565b34aa78f@0e46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Асланян Ирина Рудиковна
-DTEND:20230922T113000Z
-LOCATION:2-206(2А)
-DTSTART:20230922T100000Z
-SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:71cdf751-3cdb-4415-8822-6b99b8a15f9c@71cd.org
+DTSTART:20231013T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:95eacee5-ad6b-4d2d-8b6e-0fa2c6aea796@95ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беляева Наталья Вячеславовна
@@ -55,1023 +15,7 @@ DTEND:20231023T164500Z
 LOCATION:--каф.
 DTSTART:20231023T151500Z
 SUMMARY:ЛР Испытания и обеспечение надежности ЖРД
-UID:10677424-56e6-4afc-bc18-b56a01233f6a@1067.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20230930T073000Z
-LOCATION:2-125(2Г)
-DTSTART:20230930T060000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:64319c99-ba69-43f7-95e7-c6a0d0eeb83a@6431.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231108T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:59c6fbd8-1995-41b8-ba91-aacbd7b890ec@59c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ЛР Испытания и обеспечение надежности ЖРД
-UID:1545fcd6-ca30-4aa4-8bfd-df32ab275209@1545.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Алексеевич
-DTEND:20231010T073000Z
-LOCATION:2-23(2Б)
-DTSTART:20231010T060000Z
-SUMMARY:ЛР Конструирование турбонасосных агрегатов
-UID:b8a4a9cd-cb9a-4871-96a5-3d75e4b28fe0@b8a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231002T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:1ed1d870-2abc-4efa-b202-7d86ef590386@1ed1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20230926T113000Z
-LOCATION:2-23(2Б)
-DTSTART:20230926T100000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:fa06e95c-25e6-4dc7-995a-c583e6e266ac@fa06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231007T131500Z
-LOCATION:2-201(2А)
-DTSTART:20231007T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:2990f8e5-7d6e-4a3c-91e4-7cf349185996@2990.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231223T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231223T100000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:6f4470a1-994f-4ae7-899d-95f40303c07c@6f44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231124T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231124T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:cba49814-2d12-4845-beb8-f6819cc0e800@cba4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231010T113000Z
-LOCATION:2-23(2Б)
-DTSTART:20231010T100000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:cf0301a3-c225-435f-81a4-6f6a25a81257@cf03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20230920T091500Z
-LOCATION:3-111
-DTSTART:20230920T074500Z
-SUMMARY:ПЗ Социология
-UID:7952c874-7ce1-41bb-b2af-50a51b3d505c@7952.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231031T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:7253d541-1100-4634-97a7-e45adba1bbb2@7253.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231220T073000Z
-LOCATION:2-206(2А)
-DTSTART:20231220T060000Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:b4266ced-ee58-47ae-8a7c-e7e32bc07c3a@b426.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231127T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:f87e723b-fb25-4056-9787-711c9ebfcbcc@f87e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Асланян Ирина Рудиковна
-DTEND:20231110T113000Z
-LOCATION:2-206(2А)
-DTSTART:20231110T100000Z
-SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:37748ef5-2121-434c-8b4a-9d5201638954@3774.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231228T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20231228T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:94ca6227-b5e3-4d10-b053-3b2bcf015416@94ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20230918T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:7b49aae8-ac8f-43ea-b5c6-a2b8f87e5827@7b49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231016T164500Z
-LOCATION:2-125(2Г)
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:aaf806d1-9d3c-40fb-b28f-3495bd4488c8@aaf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Асланян Ирина Рудиковна
-DTEND:20231117T113000Z
-LOCATION:2-206(2А)
-DTSTART:20231117T100000Z
-SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:8322370d-1f7c-4de5-a603-7223951badb3@8322.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20230906T091500Z
-LOCATION:3-111
-DTSTART:20230906T074500Z
-SUMMARY:ПЗ Социология
-UID:0b2a7e66-f78a-4264-99f8-a2f68888f966@0b2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20230928T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20230928T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:0a8f5f95-c82e-4bb0-bc10-d445589f3e49@0a8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230926T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20230926T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:24e0bad0-b522-4d82-a250-45c58d7a6b9c@24e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231014T131500Z
-LOCATION:2-201(2А)
-DTSTART:20231014T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:d7733622-dfc7-4adf-beb7-e7d920b73f00@d773.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231025T073000Z
-LOCATION:2-206(2А)
-DTSTART:20231025T060000Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:7e61a36c-3246-4d10-a6da-75d3c19c2821@7e61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231127T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231127T114500Z
-SUMMARY:ЛР Автоматика и регулирование ЖРДУ
-UID:958a8d3e-0e45-48ab-a45b-69b17147364b@958a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231207T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:1bd900ab-28c2-4b37-acd3-4cbd2ae9c1db@1bd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231204T150000Z
-LOCATION:--каф.
-DTSTART:20231204T133000Z
-SUMMARY:ЛР Испытания и обеспечение надежности ЖРД
-UID:a5ca210f-9fa8-4e46-bd96-9ebf0840a7ea@a5ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231101T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231101T114500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:362c635b-0943-4df3-b43c-26e2e6724374@362c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231222T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231222T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:ed2779a1-c2af-4bfa-aea3-f069fd0d2c65@ed27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савенко Елена Юрьевна
-DTEND:20231205T150000Z
-LOCATION:3-402
-DTSTART:20231205T133000Z
-SUMMARY:ЛР Электротехника и электроника
-UID:b26d5b4b-4c3c-4e9a-beba-7994efe71a44@b26d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231204T164500Z
-LOCATION:--каф.
-DTSTART:20231204T151500Z
-SUMMARY:ЛР Испытания и обеспечение надежности ЖРД
-UID:7787b365-2066-45cd-97f6-b528aed32f83@7787.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20230916T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20230916T100000Z
-SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
-UID:8a8dbcc1-5acc-4746-be57-858906fc42d1@8a8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231030T164500Z
-LOCATION:2-125(2Г)
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:804131dd-c2b0-4969-944d-c528d95f0633@8041.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231004T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231004T114500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:9d192062-7906-4aa8-875d-16d50fe412a7@9d19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231227T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231227T114500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:b23b1ce9-ab96-4873-85df-388d0c1f798d@b23b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231118T073000Z
-LOCATION:2-125(2Г)
-DTSTART:20231118T060000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:2f2e6fec-982d-4844-ad5b-6edd18832c17@2f2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бережной Владимир Николаевич
-DTEND:20230923T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20230923T074500Z
-SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
-UID:1056dbce-1404-42a9-bff6-302437101980@1056.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20231026T113000Z
-LOCATION:--каф.
-DTSTART:20231026T100000Z
-SUMMARY:ПЗ УИРС
-UID:4b2f963a-51f3-43d4-b19b-87a1ac7b8e7d@4b2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231213T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231213T114500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:a573994d-0931-49d4-9e99-55273aadd473@a573.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савельев Иван Александрович
-DTEND:20231216T113000Z
-LOCATION:ГУК А-518
-DTSTART:20231216T100000Z
-SUMMARY:ЛК Социология
-UID:0b52046f-9c8d-41cd-b7e9-31a5b9235987@0b52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бережной Владимир Николаевич
-DTEND:20231230T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231230T074500Z
-SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
-UID:39778f6a-eb52-45ca-8f41-cfb6f108ddeb@3977.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20231004T091500Z
-LOCATION:3-111
-DTSTART:20231004T074500Z
-SUMMARY:ПЗ Социология
-UID:b5b3ee50-7473-4748-b2e1-61f521e3e0ba@b5b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20231102T113000Z
-LOCATION:--каф.
-DTSTART:20231102T100000Z
-SUMMARY:ПЗ УИРС
-UID:ce67226a-8b2c-49a9-ae91-515c8658c344@ce67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савельев Иван Александрович
-DTEND:20231021T113000Z
-LOCATION:ГУК А-518
-DTSTART:20231021T100000Z
-SUMMARY:ЛК Социология
-UID:2c3a746b-00e0-48ca-98e1-969c00507e11@2c3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бережной Владимир Николаевич
-DTEND:20231118T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231118T074500Z
-SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
-UID:79c6030f-eb5b-40d5-870f-42bcb9c7e2ef@79c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231209T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231209T074500Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:c467ed35-bf4d-4b75-beb0-35e9f51d7bde@c467.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20230902T131500Z
-LOCATION:2-201(2А)
-DTSTART:20230902T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:d2f4add9-f1bf-4905-82ba-3145a38aa219@d2f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231219T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231219T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:af30c3b4-a7d6-4150-b95d-b54b2811fb23@af30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231017T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20231017T133000Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:f46c5207-af45-4eb7-9d5c-2631e638e25c@f46c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231202T131500Z
-LOCATION:2-201(2А)
-DTSTART:20231202T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:fdc14db3-4b2d-412c-823d-1c75a1fc5448@fdc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231111T073000Z
-LOCATION:2-125(2Г)
-DTSTART:20231111T060000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:d6ab2499-3943-4191-86cb-858c8b911344@d6ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савельев Иван Александрович
-DTEND:20231118T113000Z
-LOCATION:ГУК А-518
-DTSTART:20231118T100000Z
-SUMMARY:ЛК Социология
-UID:731e0f4d-ad3e-4d34-b3e7-e0c9934027e7@731e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231021T131500Z
-LOCATION:2-201(2А)
-DTSTART:20231021T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:2f371b5a-576a-4802-a4ca-c202c4b33805@2f37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231114T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20231114T133000Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:89c04431-d1f6-4243-9c6a-6d1d1c5a2b74@89c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20231018T091500Z
-LOCATION:3-111
-DTSTART:20231018T074500Z
-SUMMARY:ПЗ Социология
-UID:4d14239d-d69f-4d5f-a8cc-28f01dc72574@4d14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230919T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:497f2526-7498-47b7-a7f6-af821dfe1bd2@497f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231019T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20231019T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:50a7d100-470a-467e-9628-d28b8d6cd04f@50a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231109T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231109T074500Z
-SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
-UID:fad2ed81-1d1b-4425-8f96-eadb8afccf24@fad2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20231115T091500Z
-LOCATION:3-111
-DTSTART:20231115T074500Z
-SUMMARY:ПЗ Социология
-UID:755692d4-bef0-4634-a8f7-1b8decb10e15@7556.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231226T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231226T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:a7c4e31e-add8-4d8b-a992-f5d84ce39472@a7c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231028T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231028T100000Z
-SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
-UID:d13339c2-3f5c-4d04-b27f-d90a66ed8068@d133.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231017T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:6d457f29-cb2e-41c7-b4da-461462a3c597@6d45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20230907T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:81a3b9e3-2f35-48a1-b811-de4233cfaeee@81a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савенко Елена Юрьевна
-DTEND:20231205T164500Z
-LOCATION:3-402
-DTSTART:20231205T151500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:10b76548-39fa-4998-b06c-22d3adadf1f5@10b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231023T113000Z
-LOCATION:2-206(2А)
-DTSTART:20231023T100000Z
-SUMMARY:ЛР Технология производства двигателей летательных аппаратов
-UID:121da3ab-04bd-4250-92f9-733fd0719a00@121d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231026T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20231026T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:95a8d1be-7413-415f-8970-d5d2e8027c2a@95a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Асланян Ирина Рудиковна
-DTEND:20230915T113000Z
-LOCATION:2-206(2А)
-DTSTART:20230915T100000Z
-SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:98d45c08-8aa3-4c9e-950a-0d40140b8fca@98d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231014T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231014T100000Z
-SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
-UID:bd652bd8-4d5f-42e8-b6ae-9c3c7316e4fc@bd65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Алексеевич
-DTEND:20231024T091500Z
-LOCATION:2-23(2Б)
-DTSTART:20231024T074500Z
-SUMMARY:ЛР Конструирование турбонасосных агрегатов
-UID:4e7292cf-1a31-41ea-b200-d5cae12f0bb0@4e72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савенко Елена Юрьевна
-DTEND:20231107T150000Z
-LOCATION:3-402
-DTSTART:20231107T133000Z
-SUMMARY:ЛР Электротехника и электроника
-UID:c8083674-359c-4475-91e0-b391375f2e1f@c808.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231209T131500Z
-LOCATION:2-201(2А)
-DTSTART:20231209T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:4328ad13-7915-4e01-b1aa-57f593564c7d@4328.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Алексеевич
-DTEND:20230912T073000Z
-LOCATION:2-23(2Б)
-DTSTART:20230912T060000Z
-SUMMARY:ЛР Конструирование турбонасосных агрегатов
-UID:3a33ac9d-f994-4566-9ca9-8003e3f1dc6d@3a33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231109T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20231109T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:4a7cddb6-a5e4-4199-8890-fcbcad5d939e@4a7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231128T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20231128T133000Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:ee672505-4d7a-4ebe-8353-5ad198811037@ee67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20230913T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:265197fe-a3d9-4fbc-8658-9e1bcbf5b281@2651.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231111T131500Z
-LOCATION:2-201(2А)
-DTSTART:20231111T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:bcb3cd17-c607-44e9-bd17-684722c4a4e9@bcb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савельев Иван Александрович
-DTEND:20231202T113000Z
-LOCATION:ГУК А-518
-DTSTART:20231202T100000Z
-SUMMARY:ЛК Социология
-UID:9588e5be-4169-4d76-ab0f-3695b1eda9bb@9588.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231223T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231223T074500Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:dd7bb8e4-3304-4b58-80b9-8309484b145a@dd7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20230914T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20230914T074500Z
-SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
-UID:1e4516da-9ceb-4962-8222-0dc45a4af0dd@1e45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20230930T131500Z
-LOCATION:2-201(2А)
-DTSTART:20230930T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:eb8063db-433f-431e-821d-8eb112482a3e@eb80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Асланян Ирина Рудиковна
-DTEND:20231013T113000Z
-LOCATION:2-206(2А)
-DTSTART:20231013T100000Z
-SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:f54c84d7-2f12-4145-8246-263354b680f6@f54c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20230920T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:a26eda7d-0d17-4b38-8b17-01d4622fd80e@a26e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20231109T113000Z
-LOCATION:--каф.
-DTSTART:20231109T100000Z
-SUMMARY:ПЗ УИРС
-UID:4ef6243d-a3a2-4ff2-91cf-50b93dcfebea@4ef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231111T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231111T074500Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:51b634a6-f626-448a-9489-5a00369d37ea@51b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Алексеевич
-DTEND:20230926T073000Z
-LOCATION:2-23(2Б)
-DTSTART:20230926T060000Z
-SUMMARY:ЛР Конструирование турбонасосных агрегатов
-UID:c6d63f29-b380-4848-ae87-c208e52c1dad@c6d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231028T131500Z
-LOCATION:2-201(2А)
-DTSTART:20231028T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:c8919aeb-ec56-4d45-84cc-4f3ebf245a63@c891.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231024T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231024T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:e2fc0f84-049d-42b7-97a3-cfdd32bd91c0@e2fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231113T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231113T100000Z
-SUMMARY:ЛР Автоматика и регулирование ЖРДУ
-UID:87e0ad19-aafa-4b5f-b7da-19603c618f45@87e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савельев Иван Александрович
-DTEND:20231007T113000Z
-LOCATION:ГУК А-518
-DTSTART:20231007T100000Z
-SUMMARY:ЛК Социология
-UID:4ecfb1db-dcb4-47ec-b817-b49007ccc887@4ecf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231030T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231030T114500Z
-SUMMARY:ЛР Автоматика и регулирование ЖРДУ
-UID:e8563459-8a14-4bc7-b65b-22f33db7932d@e856.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20230921T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20230921T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:705c291c-d95e-4fde-9b0c-02a331a29af0@705c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231123T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231123T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:a41012e9-419a-4a07-92db-c2d2e427626b@a410.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231021T073000Z
-LOCATION:2-125(2Г)
-DTSTART:20231021T060000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:a9ab549a-46ba-4596-a162-7e579bf907d9@a9ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231209T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231209T100000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:ab9231c1-c99f-48a2-916c-28508183b44d@ab92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савельев Иван Александрович
-DTEND:20231230T113000Z
-LOCATION:ГУК А-518
-DTSTART:20231230T100000Z
-SUMMARY:ЛК Социология
-UID:fea77ac1-c59d-4e89-8703-d54a9ca3022b@fea7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231030T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231030T100000Z
-SUMMARY:ЛР Автоматика и регулирование ЖРДУ
-UID:964550b4-5c82-467c-ac83-1ba59d17e262@9645.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231114T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:848c5eec-cf5d-4e1e-bdb4-55726ac463bf@848c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20230922T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20230922T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:e2455277-453b-4238-b752-faa3df8d9342@e245.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231026T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:29c139b3-26f5-4fd9-8b9e-6cfe4e5a27b8@29c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савельев Иван Александрович
-DTEND:20230923T113000Z
-LOCATION:ГУК А-518
-DTSTART:20230923T100000Z
-SUMMARY:ЛК Социология
-UID:35fddfef-599e-4f9e-87d4-f831f7f1c6a6@35fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231207T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231207T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:74ac71d9-2c3b-414c-b883-018117d83864@74ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20230930T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20230930T100000Z
-SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
-UID:bc11ec74-8d20-4978-a5c0-835379921bd8@bc11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231122T073000Z
-LOCATION:2-206(2А)
-DTSTART:20231122T060000Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:88c3ba30-ea60-4a27-bc54-166aeb02a560@88c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савельев Иван Александрович
-DTEND:20230909T113000Z
-LOCATION:ГУК А-518
-DTSTART:20230909T100000Z
-SUMMARY:ЛК Социология
-UID:9005a671-72c4-467e-9b76-a81645398e96@9005.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231127T164500Z
-LOCATION:2-125(2Г)
-DTSTART:20231127T151500Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:68bb1c22-1534-4f5b-a488-7ac1c653fc27@68bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231123T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:5b34ed16-3d71-410a-9b43-584d3b1ad26c@5b34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савенко Елена Юрьевна
-DTEND:20231219T150000Z
-LOCATION:3-402
-DTSTART:20231219T133000Z
-SUMMARY:ЛР Электротехника и электроника
-UID:75f06395-65c8-4b6d-93b6-28687e74eac2@75f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231230T131500Z
-LOCATION:2-201(2А)
-DTSTART:20231230T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:34edd2f8-2aed-48b3-92fc-37d066f9d23e@34ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20230919T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20230919T133000Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:c1badba2-e045-41b8-87f3-7ea3ed046fba@c1ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231108T091500Z
-LOCATION:2-206(2А)
-DTSTART:20231108T074500Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:693d47e8-f5da-4aa7-a58c-a425e4b684de@693d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231115T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:01a1e010-2c09-4a1c-b601-b2fd11fedf2f@01a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Асланян Ирина Рудиковна
-DTEND:20231201T113000Z
-LOCATION:2-206(2А)
-DTSTART:20231201T100000Z
-SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:bba2b689-d4d4-4227-a478-43a8ad422ca2@bba2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231128T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:91f4be0a-94dc-4dc9-8f60-890cc80c1ed8@91f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231125T073000Z
-LOCATION:2-125(2Г)
-DTSTART:20231125T060000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:370cca7f-96a3-4b98-936b-def3099094ce@370c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20230921T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:18bf427a-d2f2-4995-9e50-a89d27d1229b@18bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231010T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231010T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:2ad302de-693e-48b7-b6ae-ce0b73e3a1b6@2ad3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231002T164500Z
-LOCATION:2-125(2Г)
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:01eb05fc-d762-4e72-8da2-f3af6e45d47e@01eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20230918T164500Z
-LOCATION:2-125(2Г)
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:ef807699-b4b7-4e4e-b1fd-c3fdae74c6cf@ef80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20230927T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20230927T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:e50463d2-d357-4b7b-90dd-7962eb11adba@e504.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20230921T113000Z
-LOCATION:--каф.
-DTSTART:20230921T100000Z
-SUMMARY:ПЗ УИРС
-UID:a9f74dfe-576b-40ff-9e5f-610661c29dad@a9f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20230927T073000Z
-LOCATION:2-206(2А)
-DTSTART:20230927T060000Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:3f3ca443-42df-40be-a6ef-0241dceba3c3@3f3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231025T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:32754006-62e9-447c-b386-86b1b98a4553@3275.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20230928T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20230928T074500Z
-SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
-UID:bbf9ae65-8f10-451b-9f78-a3d84fd3cfe2@bbf9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20231116T113000Z
-LOCATION:--каф.
-DTSTART:20231116T100000Z
-SUMMARY:ПЗ УИРС
-UID:179eb6e3-0371-4f2a-92c3-332e7dead4cf@179e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231025T091500Z
-LOCATION:2-206(2А)
-DTSTART:20231025T074500Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:d4a25376-b2e5-4d9e-830f-7c1631605741@d4a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231012T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231012T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:f1f38501-e0c9-4905-9f48-fa8c8028c1b5@f1f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231020T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231020T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:063d95f0-bd83-4231-ad45-cb73ae1c3d80@063d.org
+UID:d91e6eea-d53e-4548-b23a-1eee5fadef0f@d91e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Равикович Юрий Александрович
@@ -1079,55 +23,23 @@ DTEND:20231003T131500Z
 LOCATION:2-23(2Б)
 DTSTART:20231003T114500Z
 SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:5fd375b6-1877-4e54-bcb6-5dec2a18246c@5fd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231113T164500Z
-LOCATION:2-125(2Г)
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:5eea14a7-7e7f-4816-ab26-d7721ad06840@5eea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20230906T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:9e7d5138-6450-4a90-af31-b0d67fb74947@9e7d.org
+UID:73b9e048-39e6-495c-860f-48f7e383cd13@73b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231014T073000Z
+DTEND:20231125T073000Z
 LOCATION:2-125(2Г)
-DTSTART:20231014T060000Z
+DTSTART:20231125T060000Z
 SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:0ec7d9f7-b023-4276-b18a-46409f83a330@0ec7.org
+UID:af50b9ef-b773-47eb-b8ce-46627f57b1ad@af50.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231103T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231103T074500Z
+DTEND:20231122T131500Z
+LOCATION:--каф.
+DTSTART:20231122T114500Z
 SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:beba009e-4dff-4b51-a403-3c4942c993b0@beba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231201T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231201T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:c123701f-dc97-4c97-bc07-5b559b0f296f@c123.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231115T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:0e40b33d-8a72-47ea-b21b-fc0e904609c2@0e40.org
+UID:7bc5e2b0-a01e-4562-a8f0-2b4129aca19b@7bc5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Асланян Ирина Рудиковна
@@ -1135,599 +47,47 @@ DTEND:20231103T113000Z
 LOCATION:2-206(2А)
 DTSTART:20231103T100000Z
 SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:e8ced5b0-49ec-4b12-b1a9-bc344e2f51c8@e8ce.org
+UID:01cf2dc9-da2f-4699-9a1f-aef4aca57471@01cf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20230913T073000Z
-LOCATION:2-206(2А)
-DTSTART:20230913T060000Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:55567ccc-f522-4c05-bc93-6a59a00ef63b@5556.org
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231123T113000Z
+LOCATION:--каф.
+DTSTART:20231123T100000Z
+SUMMARY:ПЗ УИРС
+UID:c96e2e2d-e8ac-4b30-8c79-dea2fe8ad610@c96e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231101T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231101T114500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:1ce8c77f-112a-4dad-96ba-8adada8debb3@1ce8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231116T113000Z
+LOCATION:--каф.
+DTSTART:20231116T100000Z
+SUMMARY:ПЗ УИРС
+UID:5453d22d-0b67-481b-b051-5144dd6132e3@5453.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231005T150000Z
+DTEND:20231123T150000Z
 LOCATION:2-23(2Б)
-DTSTART:20231005T133000Z
+DTSTART:20231123T133000Z
 SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:26bc68fb-8574-4746-9e11-1b5cde4d4f77@26bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231013T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231013T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:8a032876-bd11-47d5-a25f-ad184caed772@8a03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231016T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:0ff1e118-24ab-4d4d-b768-08bfa4b26679@0ff1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231127T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231127T100000Z
-SUMMARY:ЛР Автоматика и регулирование ЖРДУ
-UID:25116702-824b-4ef0-a8b4-bdc5140168d5@2511.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231202T073000Z
-LOCATION:2-125(2Г)
-DTSTART:20231202T060000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:0c5699a6-d80b-4375-9e28-f1592077e1c3@0c56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20231012T113000Z
-LOCATION:--каф.
-DTSTART:20231012T100000Z
-SUMMARY:ПЗ УИРС
-UID:68b493f5-12f5-4e0d-9e5e-7722471a9ca0@68b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20230905T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20230905T133000Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:9ee56cda-7161-42d9-8f98-71aafcb39a0b@9ee5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231229T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231229T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:2af951b2-230f-40a9-961f-3abf718e1abc@2af9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231206T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231206T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:62dd0b1e-b24f-45e5-9fcd-f4958add36e3@62dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231216T131500Z
-LOCATION:2-201(2А)
-DTSTART:20231216T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:4a9e12ec-83f0-4f52-a9d2-d699c3c0ae23@4a9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231009T113000Z
-LOCATION:2-206(2А)
-DTSTART:20231009T100000Z
-SUMMARY:ЛР Технология производства двигателей летательных аппаратов
-UID:61f7c408-a9e4-4124-be4d-869e8bb8ae37@61f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231206T091500Z
-LOCATION:2-206(2А)
-DTSTART:20231206T074500Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:dd13f6d7-f69b-4c58-9fde-c53016d835bd@dd13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231116T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231116T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:2b4fb228-d875-4787-a51b-c751f92bf4f6@2b4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20230929T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20230929T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:4f98e4a6-4c23-4086-8a63-756dbdd9fb38@4f98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231108T073000Z
-LOCATION:2-206(2А)
-DTSTART:20231108T060000Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:e60a2697-9bb3-407e-b821-4913e5beeec0@e60a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231109T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231109T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:cdf7f273-dfc9-4cbe-8b0c-1f211cb0bb56@cdf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231118T131500Z
-LOCATION:2-201(2А)
-DTSTART:20231118T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:19d82516-242c-45db-ad49-e9f3ff07da81@19d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231123T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231123T074500Z
-SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
-UID:9898d979-2751-48f4-88e1-5a7c80347b73@9898.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савенко Елена Юрьевна
-DTEND:20231219T164500Z
-LOCATION:3-402
-DTSTART:20231219T151500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:efc7305f-dc32-46e0-bf12-4e2ebd74680b@efc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20230930T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20230930T074500Z
-SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
-UID:c1b21881-e9b7-4b61-aee4-d1c97bd0dc3f@c1b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231129T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231129T114500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:3f003180-90b7-41ee-ae5a-5211afdf5da4@3f00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231012T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20231012T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:ca5399e8-2d3d-404e-97f7-a0cabd4d87f6@ca53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231107T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231107T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:06a5d768-5c0c-4de2-95c5-4650934e71e1@06a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231012T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231012T074500Z
-SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
-UID:9d18f171-0627-42aa-837c-4367e8ed4776@9d18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савенко Елена Юрьевна
-DTEND:20231121T164500Z
-LOCATION:3-402
-DTSTART:20231121T151500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:a8be8e64-e8b0-4190-a158-a37c2275f3ae@a8be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20231005T113000Z
-LOCATION:--каф.
-DTSTART:20231005T100000Z
-SUMMARY:ПЗ УИРС
-UID:53ea7bf8-203b-4e3b-a8ca-9cbffe535347@53ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ЛР Испытания и обеспечение надежности ЖРД
-UID:40851443-e713-4dd8-9927-07a944d94b27@4085.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231215T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231215T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:1ccef0b5-1d65-4bd4-9987-6d797991e178@1cce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231003T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20231003T133000Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:e910730c-cb29-4e28-8400-f5c8c5e688bc@e910.org
+UID:d66292dd-d86f-412a-ae02-338850ca2052@d662.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Асланян Ирина Рудиковна
-DTEND:20230908T113000Z
+DTEND:20230915T113000Z
 LOCATION:2-206(2А)
-DTSTART:20230908T100000Z
+DTSTART:20230915T100000Z
 SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:8acc1620-559c-4696-9808-da7239208c2b@8acc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бережной Владимир Николаевич
-DTEND:20231202T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231202T074500Z
-SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
-UID:18e66e01-bb7c-454d-a777-755c16573033@18e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231122T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231122T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:e223dd97-2b33-4e60-b38d-d25906cb8656@e223.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231011T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:a037ddb8-94bf-4406-8c11-d4b79adef416@a037.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20231101T091500Z
-LOCATION:3-111
-DTSTART:20231101T074500Z
-SUMMARY:ПЗ Социология
-UID:b1c44af3-c272-48a2-ae6a-8dc592db688f@b1c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231117T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231117T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:8ccfdbc6-0244-4722-b492-8a6a18ea3aab@8ccf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Почестнев Александр Анатольевич
-DTEND:20231129T091500Z
-LOCATION:3-111
-DTSTART:20231129T074500Z
-SUMMARY:ПЗ Социология
-UID:47e3bd04-5067-4122-a9d3-530625d31b74@47e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ЛР Испытания и обеспечение надежности ЖРД
-UID:51cacb0b-e11e-4290-8573-eb49ea715c39@51ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Асланян Ирина Рудиковна
-DTEND:20231027T113000Z
-LOCATION:2-206(2А)
-DTSTART:20231027T100000Z
-SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:99d77036-1b92-4bdd-a7a9-a78acefd5113@99d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бережной Владимир Николаевич
-DTEND:20231007T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231007T074500Z
-SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
-UID:0a9abb62-4be3-4779-9ecb-48607e5b0355@0a9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231014T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231014T074500Z
-SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
-UID:2d6616e3-9adf-49fa-8bb4-daee314ca459@2d66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20230923T131500Z
-LOCATION:2-201(2А)
-DTSTART:20230923T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:d7dfe0a4-00e5-4617-9923-f0eed0b53fe8@d7df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231125T131500Z
-LOCATION:2-201(2А)
-DTSTART:20231125T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:fd6db566-a5ec-413a-8e97-b60ec5df554e@fd6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20231130T113000Z
-LOCATION:--каф.
-DTSTART:20231130T100000Z
-SUMMARY:ПЗ УИРС
-UID:a76d306b-f403-4cf3-b83c-2313ebe5d30f@a76d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231031T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20231031T133000Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:0791107a-5a84-43d3-9643-6fa58f75446d@0791.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231102T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:5012e276-0b49-4884-8c46-06456012ab6d@5012.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савенко Елена Юрьевна
-DTEND:20231107T164500Z
-LOCATION:3-402
-DTSTART:20231107T151500Z
-SUMMARY:ЛР Электротехника и электроника
-UID:cd7d1af1-1914-421b-a9c5-1a39aa67b9c9@cd7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231207T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231207T074500Z
-SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
-UID:9a4a2320-cf45-4b62-958d-5edc4ed18f3c@9a4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231006T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231006T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:e388f957-2774-49ee-b363-3405c34cfc3e@e388.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231027T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231027T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:53d61115-4c2e-4ea3-9b2f-faf87d25efdf@53d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20230914T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20230914T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:0dccf95e-5236-4e1f-96e6-cc9e444d8f0b@0dcc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231102T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20231102T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:5f2cd414-0f69-438e-8e5b-d943bb0fa2f6@5f2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20230928T113000Z
-LOCATION:--каф.
-DTSTART:20230928T100000Z
-SUMMARY:ПЗ УИРС
-UID:ca617dc3-10f0-40e7-92d5-9aaf42981d9e@ca61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Асланян Ирина Рудиковна
-DTEND:20230929T113000Z
-LOCATION:2-206(2А)
-DTSTART:20230929T100000Z
-SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:4ca4d8d0-03c5-46bb-a4ea-ba9e25a2d4e4@4ca4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230912T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20230912T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:eab2df19-3360-468a-a4f3-6936f59e288c@eab2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231101T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:8e87aa4f-8e14-47d5-bead-a9ea96b52272@8e87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231130T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231130T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:a7d5a467-fec5-4de4-824d-40b73194a4d5@a7d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20230907T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20230907T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:5852dc62-d1b1-4668-b0f7-984f9fb069e6@5852.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бережной Владимир Николаевич
-DTEND:20230909T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20230909T074500Z
-SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
-UID:22aa78e0-bb37-4184-bf2c-e48ed1075499@22aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231214T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20231214T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:a7a04658-34c1-48e5-a03a-b0f923b79c02@a7a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231030T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:592ff57b-0ca2-4236-8b84-2569c54c93d3@592f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231028T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231028T074500Z
-SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
-UID:08480f13-a957-49b2-916d-8d41b407191f@0848.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231205T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231205T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:749d9f66-d353-455e-b0a9-d0ce0d7aeca5@749d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230905T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:b8a643e8-d2ef-4acf-9a16-2c6398780828@b8a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231011T073000Z
-LOCATION:2-206(2А)
-DTSTART:20231011T060000Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:02672322-39dd-4bdd-9ec6-ee6f3ecbab08@0267.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20230927T091500Z
-LOCATION:2-206(2А)
-DTSTART:20230927T074500Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:9d8456bc-01f0-4d5f-a7c0-76b0d8b51f7a@9d84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20230907T113000Z
-LOCATION:--каф.
-DTSTART:20230907T100000Z
-SUMMARY:ПЗ УИРС
-UID:4021e760-ab2a-449b-9870-55958b3c999d@4021.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231125T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231125T074500Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:6839d17a-ae9d-43f2-a9b1-dba7a71a3db2@6839.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231024T113000Z
-LOCATION:2-23(2Б)
-DTSTART:20231024T100000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:0c01bd5f-7a83-4917-a033-b0701f923244@0c01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20230914T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:a558de73-df8c-4860-a7b3-6f3438bec0d9@a558.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Алексеевич
-DTEND:20231024T073000Z
-LOCATION:2-23(2Б)
-DTSTART:20231024T060000Z
-SUMMARY:ЛР Конструирование турбонасосных агрегатов
-UID:fb43c20b-a437-40b6-adb1-0c426e487495@fb43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беляева Наталья Вячеславовна
-DTEND:20231113T150000Z
-LOCATION:2-125(2Г)
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
-UID:35313bfc-40d5-4faa-b0d2-bc49942b1be5@3531.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231121T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231121T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:ef0d1cb6-0a94-4050-8216-e814cd365b6a@ef0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231111T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231111T100000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:5952e184-9ef3-438c-97fe-9d28602dcc99@5952.org
+UID:6c845918-417f-4129-aaea-d037e11b0fee@6c84.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дворяк Павел Анатольевич
@@ -1735,39 +95,47 @@ DTEND:20231011T091500Z
 LOCATION:2-206(2А)
 DTSTART:20231011T074500Z
 SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:0c45aff3-c1ad-44a6-9b53-34a98a611ce9@0c45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20230916T131500Z
-LOCATION:2-201(2А)
-DTSTART:20230916T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:e656833c-2235-450c-987b-dc364c3cdc1a@e656.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231129T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231129T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:52944a24-53e2-428f-8792-b72969d32ba5@5294.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20230909T131500Z
-LOCATION:2-201(2А)
-DTSTART:20230909T114500Z
-SUMMARY:ЛК Электротехника и электроника
-UID:39e0801e-b840-4b12-9b17-4969da8e7d8d@39e0.org
+UID:0aadbb6a-ffae-4310-9a65-db19d21a13e6@0aad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231110T091500Z
+DTEND:20231124T091500Z
 LOCATION:2-125(2Г)
-DTSTART:20231110T074500Z
+DTSTART:20231124T074500Z
 SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:b2799033-9ce4-49e5-92a1-0b173e3453cc@b279.org
+UID:f90babb1-72e1-49d4-a627-6f0475b016f7@f90b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231125T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231125T100000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:22fddafa-0e03-4ee3-b8fe-1f15f5903f98@22fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231125T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231125T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:61f48c22-859d-4615-bca6-fa130a3266a7@61f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20230916T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
+UID:bef600c2-b655-420f-9944-68683331032b@bef6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231111T073000Z
+LOCATION:2-125(2Г)
+DTSTART:20231111T060000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:ce8d9f51-0144-47e7-a066-ce3d2301267e@ce8d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Почестнев Александр Анатольевич
@@ -1775,231 +143,15 @@ DTEND:20231213T091500Z
 LOCATION:3-111
 DTSTART:20231213T074500Z
 SUMMARY:ПЗ Социология
-UID:ff2fd065-283b-46b0-82f8-cf32d2c94cb2@ff2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231208T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231208T074500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:253bc577-08de-4ed7-a3c7-d71356220dfe@253b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231220T091500Z
-LOCATION:2-206(2А)
-DTSTART:20231220T074500Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:13952bc4-4651-4d80-b529-2f9eb4bb0357@1395.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231026T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231026T074500Z
-SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
-UID:585facad-653c-4aae-8fe5-dfec3ae02245@585f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20231123T113000Z
-LOCATION:--каф.
-DTSTART:20231123T100000Z
-SUMMARY:ПЗ УИРС
-UID:609184b4-1b6a-48f3-b461-b67ae9621b35@6091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Асланян Ирина Рудиковна
-DTEND:20231124T113000Z
-LOCATION:2-206(2А)
-DTSTART:20231124T100000Z
-SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:432bc524-2008-42fa-ab2e-c9d26a93bd6a@432b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231209T073000Z
-LOCATION:2-125(2Г)
-DTSTART:20231209T060000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:12c685cc-438c-47d2-a95a-54d1f15f9d70@12c6.org
+UID:bbb2b88e-0f90-4dae-874e-9bfc349547fc@bbb2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231223T131500Z
+DTEND:20230909T131500Z
 LOCATION:2-201(2А)
-DTSTART:20231223T114500Z
+DTSTART:20230909T114500Z
 SUMMARY:ЛК Электротехника и электроника
-UID:e43c3528-c855-472a-adf1-ff86a89c8c6e@e43c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231212T131500Z
-LOCATION:2-23(2Б)
-DTSTART:20231212T114500Z
-SUMMARY:ЛК Конструирование турбонасосных агрегатов
-UID:fa7c5151-ecb9-441e-9e44-27cca46167c2@fa7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231004T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:e2c30ddc-3c21-4e00-9136-e2f0eb5da920@e2c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20230928T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:bf9c7525-e4ff-4e0b-ba0f-4372402d3645@bf9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мартиросов Давид Суренович
-DTEND:20231018T113000Z
-LOCATION:2-125(2Г)
-DTSTART:20231018T100000Z
-SUMMARY:ЛК Автоматика и регулирование ЖРДУ
-UID:74b177a5-0d8e-46c4-9a97-f013f7a69d5f@74b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20230923T073000Z
-LOCATION:2-125(2Г)
-DTSTART:20230923T060000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:37068950-9933-416a-9469-08c6b3307169@3706.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231130T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20231130T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:0e0fb54f-757b-4ad2-9003-cf416ca84c94@0e0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бережной Владимир Николаевич
-DTEND:20231021T091500Z
-LOCATION:2-125(2Г)
-DTSTART:20231021T074500Z
-SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
-UID:32b4137a-cf48-4344-82c5-c072a80bf5ee@32b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231122T091500Z
-LOCATION:2-206(2А)
-DTSTART:20231122T074500Z
-SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:da84214c-c81c-4a09-8236-db3ba63498b0@da84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Савенко Елена Юрьевна
-DTEND:20231121T150000Z
-LOCATION:3-402
-DTSTART:20231121T133000Z
-SUMMARY:ЛР Электротехника и электроника
-UID:2949cb60-5cf2-4e48-8013-8d3b820994d7@2949.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231007T073000Z
-LOCATION:2-125(2Г)
-DTSTART:20231007T060000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:8d2573ab-f726-42b6-ad7a-c4d43a81da3d@8d25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231018T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
-UID:e6bc8407-9cb9-4e94-88fb-e6186dca3166@e6bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231023T131500Z
-LOCATION:2-206(2А)
-DTSTART:20231023T114500Z
-SUMMARY:ЛР Технология производства двигателей летательных аппаратов
-UID:28d59303-3bc4-47cf-b269-5917a16f1526@28d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Алексеевич
-DTEND:20230926T091500Z
-LOCATION:2-23(2Б)
-DTSTART:20230926T074500Z
-SUMMARY:ЛР Конструирование турбонасосных агрегатов
-UID:b441f49e-ccd9-42bf-a3d3-2f450cd0add1@b441.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Холобцев Дмитрий Петрович
-DTEND:20231116T150000Z
-LOCATION:2-23(2Б)
-DTSTART:20231116T133000Z
-SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:aa26cf14-643c-4e29-80d3-ab97f2035e41@aa26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20230914T113000Z
-LOCATION:--каф.
-DTSTART:20230914T100000Z
-SUMMARY:ПЗ УИРС
-UID:0993f6ed-d2e8-4145-9bed-07a29a142ac9@0993.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дворяк Павел Анатольевич
-DTEND:20231009T131500Z
-LOCATION:2-206(2А)
-DTSTART:20231009T114500Z
-SUMMARY:ЛР Технология производства двигателей летательных аппаратов
-UID:83f54c35-df5a-4e2b-9bc5-7586cfa8935c@83f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231005T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:3df1c831-270a-4949-b8da-69e77aa1e080@3df1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Алексеевич
-DTEND:20231010T091500Z
-LOCATION:2-23(2Б)
-DTSTART:20231010T074500Z
-SUMMARY:ЛР Конструирование турбонасосных агрегатов
-UID:2488ddc2-b367-4f44-a6fb-21a977be6ce5@2488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20231028T073000Z
-LOCATION:2-125(2Г)
-DTSTART:20231028T060000Z
-SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
-UID:925acac6-41c1-4f45-9903-4f95d99e5f7e@925a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Боровик Игорь Николаевич
-DTEND:20231214T131500Z
-LOCATION:2-125(2Г)
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:2a21e72a-1947-445d-8b28-d2438736d8bd@2a21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шевцов Александр Алексеевич
-DTEND:20230912T091500Z
-LOCATION:2-23(2Б)
-DTSTART:20230912T074500Z
-SUMMARY:ЛР Конструирование турбонасосных агрегатов
-UID:b8c5728e-6d0a-48b3-a7d3-f38a000259ad@b8c5.org
+UID:777b339c-b54c-4c73-b229-3d515e45a2c3@777b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Асланян Ирина Рудиковна
@@ -2007,15 +159,607 @@ DTEND:20231006T113000Z
 LOCATION:2-206(2А)
 DTSTART:20231006T100000Z
 SUMMARY:ЛК Технология производства двигателей летательных аппаратов
-UID:97c2c450-2d48-4847-9a77-869273e9b35e@97c2.org
+UID:3d2c07d0-2883-42c7-baef-5eb44c7e4593@3d2c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Левочкин Петр Сергеевич
-DTEND:20231019T113000Z
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20230930T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
+UID:3ac2e073-ce3b-420b-98b4-cd5d6b03232b@3ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бережной Владимир Николаевич
+DTEND:20231118T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231118T074500Z
+SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
+UID:580518fa-efc2-47e7-8c1c-63e4ce5cadb4@5805.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231026T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:6ccadbbb-357b-4abb-b972-5d4f367120ce@6cca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231101T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231101T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:2dd27f8f-2d27-4e1c-bb63-e781b4a1768c@2dd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Асланян Ирина Рудиковна
+DTEND:20231124T113000Z
+LOCATION:2-206(2А)
+DTSTART:20231124T100000Z
+SUMMARY:ЛК Технология производства двигателей летательных аппаратов
+UID:1f82df35-0a01-41fd-a86f-e43458e84d95@1f82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Почестнев Александр Анатольевич
+DTEND:20231115T091500Z
+LOCATION:3-111
+DTSTART:20231115T074500Z
+SUMMARY:ПЗ Социология
+UID:5f146bb4-5f48-4524-b597-44e6e2228492@5f14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савенко Елена Юрьевна
+DTEND:20231121T164500Z
+LOCATION:3-402
+DTSTART:20231121T151500Z
+SUMMARY:ЛР Электротехника и электроника
+UID:e818b99f-4c6c-44e9-b49c-a6c63e33af44@e818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231007T073000Z
+LOCATION:2-125(2Г)
+DTSTART:20231007T060000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:95943d42-8b0d-4885-a0ee-f7a04c119547@9594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20230918T164500Z
+LOCATION:2-125(2Г)
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:433ee7c0-71c6-4116-9718-4879c5bba11d@433e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231102T113000Z
 LOCATION:--каф.
-DTSTART:20231019T100000Z
+DTSTART:20231102T100000Z
 SUMMARY:ПЗ УИРС
-UID:55f2f190-8909-4c9c-87a8-172777f6c289@55f2.org
+UID:d53a1414-bf45-4a64-a0a2-b1d4a3e0112b@d53a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231204T150000Z
+LOCATION:--каф.
+DTSTART:20231204T133000Z
+SUMMARY:ЛР Испытания и обеспечение надежности ЖРД
+UID:d38f572e-6a19-420b-9597-e5499ae09c29@d38f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231028T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231028T100000Z
+SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
+UID:c864e945-f8f5-487b-8661-a35351344709@c864.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савенко Елена Юрьевна
+DTEND:20231205T150000Z
+LOCATION:3-402
+DTSTART:20231205T133000Z
+SUMMARY:ЛР Электротехника и электроника
+UID:7359dc2c-d0ff-4b94-9900-074692871119@7359.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231017T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:a1f1e6b8-00a8-4c13-85d5-3c977a0dd707@a1f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231026T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231026T074500Z
+SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
+UID:f17bd770-d3c3-41ac-9d3e-f0000fe658d5@f17b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231116T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231116T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:509ed0c8-67b7-4976-bbd4-91e77983325d@509e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231207T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231207T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:bcab7d66-5dec-419a-bc61-0a359e712f83@bcab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савенко Елена Юрьевна
+DTEND:20231121T150000Z
+LOCATION:3-402
+DTSTART:20231121T133000Z
+SUMMARY:ЛР Электротехника и электроника
+UID:98dc15d5-cdbe-4e58-bddf-d4bac898f371@98dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Почестнев Александр Анатольевич
+DTEND:20231101T091500Z
+LOCATION:3-111
+DTSTART:20231101T074500Z
+SUMMARY:ПЗ Социология
+UID:0509c821-e7fd-414b-ad92-ea2cdf6a2d8f@0509.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231202T073000Z
+LOCATION:2-125(2Г)
+DTSTART:20231202T060000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:8a00ba3c-8b92-43d5-88eb-c60da2ca65be@8a00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231212T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231212T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:f4d72c77-9fd9-436b-8c42-f3114646021d@f4d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231227T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231227T114500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:0addcc17-2b02-4308-a204-07b881b7991b@0add.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20230914T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20230914T074500Z
+SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
+UID:67de0725-1485-406f-ab43-fd0d8fa6e483@67de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20230930T131500Z
+LOCATION:2-201(2А)
+DTSTART:20230930T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:41fadf44-d603-4101-b093-1cac151c6e45@41fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231002T164500Z
+LOCATION:2-125(2Г)
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:b7deb306-04c1-4eab-bf6b-f89395bb0ec0@b7de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20230928T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20230928T074500Z
+SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
+UID:4bfaecb3-7cf3-4e6b-9011-7ca7247fc57c@4bfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231127T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231127T100000Z
+SUMMARY:ЛР Автоматика и регулирование ЖРДУ
+UID:396628ab-c559-4d99-8b13-3f29ed68e38a@3966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Иван Александрович
+DTEND:20231216T113000Z
+LOCATION:ГУК А-518
+DTSTART:20231216T100000Z
+SUMMARY:ЛК Социология
+UID:9e7ce8f4-edb7-48f7-b13f-7a399e14b2ed@9e7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231026T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20231026T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:a4255619-788c-450c-b491-638f691a4904@a425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20230921T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:c6bd0912-60ee-40f4-83da-455c766fd568@c6bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231219T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231219T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:839b4bad-ccf6-477a-b41c-411b09a07469@839b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231122T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231122T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:fc792c02-e1d3-4bb3-981d-876c196e3e69@fc79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231009T131500Z
+LOCATION:2-206(2А)
+DTSTART:20231009T114500Z
+SUMMARY:ЛР Технология производства двигателей летательных аппаратов
+UID:b428c293-0dba-4c2e-9320-8b8fde00027b@b428.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савенко Елена Юрьевна
+DTEND:20231219T164500Z
+LOCATION:3-402
+DTSTART:20231219T151500Z
+SUMMARY:ЛР Электротехника и электроника
+UID:69ce9839-c09f-4772-8a2d-236cdbb90291@69ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231220T113000Z
+LOCATION:--каф.
+DTSTART:20231220T100000Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:c5f98643-a822-4a26-9994-4b675316acc5@c5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Почестнев Александр Анатольевич
+DTEND:20230920T091500Z
+LOCATION:3-111
+DTSTART:20230920T074500Z
+SUMMARY:ПЗ Социология
+UID:f48be102-c6f7-4023-a486-30172780ee2d@f48b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231226T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231226T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:8ab07256-7233-4ff2-b4d1-dbd2e37e54e9@8ab0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20230927T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:9fad695c-ba35-4353-b5cd-ea7d6e1f80ea@9fad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231014T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231014T074500Z
+SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
+UID:4ff74271-7f5a-487c-9f31-561d28a4c6ea@4ff7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231111T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231111T100000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:af7b3072-81ed-4cc6-a5e0-e02af197eff5@af7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231111T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231111T074500Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:6f3cdc1e-c091-4f28-a945-009527314b0b@6f3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Иван Александрович
+DTEND:20231202T113000Z
+LOCATION:ГУК А-518
+DTSTART:20231202T100000Z
+SUMMARY:ЛК Социология
+UID:c69e91e6-d612-424e-a171-4a645a2589a5@c69e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Асланян Ирина Рудиковна
+DTEND:20230908T113000Z
+LOCATION:2-206(2А)
+DTSTART:20230908T100000Z
+SUMMARY:ЛК Технология производства двигателей летательных аппаратов
+UID:42b75903-a002-4ff8-909a-9a5be05a0b78@42b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231023T113000Z
+LOCATION:2-206(2А)
+DTSTART:20231023T100000Z
+SUMMARY:ЛР Технология производства двигателей летательных аппаратов
+UID:e5fc5653-70e4-477b-a8f0-f5cc46af5430@e5fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231009T113000Z
+LOCATION:2-206(2А)
+DTSTART:20231009T100000Z
+SUMMARY:ЛР Технология производства двигателей летательных аппаратов
+UID:6907ad30-1da1-4d6d-8b45-7109df4d8745@6907.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231110T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231110T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:8c85561e-bab2-4f01-a397-8a5ce5d9e885@8c85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бережной Владимир Николаевич
+DTEND:20230923T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20230923T074500Z
+SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
+UID:61c288a9-98a2-4c62-845c-b41ed3072b72@61c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231201T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231201T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:1b05dff5-02df-46da-abbd-fb08af2281b6@1b05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231014T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231014T100000Z
+SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
+UID:71504769-0473-42a8-b1da-49da5426dd88@7150.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231016T164500Z
+LOCATION:2-125(2Г)
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:1227e25a-bab1-4bf2-af04-00136f58b927@1227.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231113T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:2751bf7e-1049-44fc-8c52-cb758605e468@2751.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Алексеевич
+DTEND:20230926T091500Z
+LOCATION:2-23(2Б)
+DTSTART:20230926T074500Z
+SUMMARY:ЛР Конструирование турбонасосных агрегатов
+UID:14b07327-59b0-4c9c-b5fd-607a6c376398@14b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231024T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231024T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:f5188690-42ab-43f2-a85a-83467942ee94@f518.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Алексеевич
+DTEND:20231024T091500Z
+LOCATION:2-23(2Б)
+DTSTART:20231024T074500Z
+SUMMARY:ЛР Конструирование турбонасосных агрегатов
+UID:a05317a7-611f-44e0-966c-fad93fd42924@a053.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231127T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231127T114500Z
+SUMMARY:ЛР Автоматика и регулирование ЖРДУ
+UID:8b92ce36-104d-48d6-8090-15e06f07697f@8b92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20230918T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:3ede9824-84c3-4aec-ab88-4c4c2b3ff57e@3ede.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Иван Александрович
+DTEND:20230909T113000Z
+LOCATION:ГУК А-518
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Социология
+UID:2c5c11f0-ed7e-4c04-8c1b-d4824a63db66@2c5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231215T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231215T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:69104588-bea3-41dc-979e-7cce1f1b5efa@6910.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Асланян Ирина Рудиковна
+DTEND:20231117T113000Z
+LOCATION:2-206(2А)
+DTSTART:20231117T100000Z
+SUMMARY:ЛК Технология производства двигателей летательных аппаратов
+UID:96096c42-b9bb-4b57-8557-eaa20ca582b3@9609.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231011T073000Z
+LOCATION:2-206(2А)
+DTSTART:20231011T060000Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:85c8d9cf-b3bf-4459-8536-18c4d92583cf@85c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231003T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20231003T133000Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:46ef3b61-b0c9-49af-b66e-c43bd866be4c@46ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231014T073000Z
+LOCATION:2-125(2Г)
+DTSTART:20231014T060000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:abf8e413-5157-444b-84a2-a5b0ba837fe5@abf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Почестнев Александр Анатольевич
+DTEND:20231018T091500Z
+LOCATION:3-111
+DTSTART:20231018T074500Z
+SUMMARY:ПЗ Социология
+UID:360df1d2-f76e-47a3-890d-e8b4e2446cc1@360d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231025T091500Z
+LOCATION:2-206(2А)
+DTSTART:20231025T074500Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:407bcbf7-c697-41cf-a276-0957cc670d47@407b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ЛР Испытания и обеспечение надежности ЖРД
+UID:d106b6e7-67ac-4795-99ed-35085aa67f02@d106.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231117T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231117T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:67fe46e3-6252-4e72-8332-9efb15b25b28@67fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231020T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231020T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:38a96a9f-bd41-411d-865f-788bbc6e1d78@38a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Иван Александрович
+DTEND:20231230T113000Z
+LOCATION:ГУК А-518
+DTSTART:20231230T100000Z
+SUMMARY:ЛК Социология
+UID:9fe41497-c01e-4742-a2a6-32193c537539@9fe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ЛР Испытания и обеспечение надежности ЖРД
+UID:fdb93f10-c3bb-4410-8a8f-6a6d1ea340e0@fdb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231114T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:4e293b7c-aad9-4872-bf80-b647e73cbaa1@4e29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231130T113000Z
+LOCATION:--каф.
+DTSTART:20231130T100000Z
+SUMMARY:ПЗ УИРС
+UID:91d7ee03-0b5b-4eae-a554-bca3378eb79e@91d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20230916T131500Z
+LOCATION:2-201(2А)
+DTSTART:20230916T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:3cb2ebde-4208-4477-981a-79abfa2f0eaf@3cb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Иван Александрович
+DTEND:20231007T113000Z
+LOCATION:ГУК А-518
+DTSTART:20231007T100000Z
+SUMMARY:ЛК Социология
+UID:d5f9eeca-316f-4884-bde9-db1937fdc466@d5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231127T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:8e3dca4d-d76e-4c3e-808a-f2f7985a2e88@8e3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231209T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231209T100000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:769fa0fa-f824-4a55-bf71-47e6f8825092@769f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Холобцев Дмитрий Петрович
@@ -2023,23 +767,223 @@ DTEND:20231221T150000Z
 LOCATION:2-23(2Б)
 DTSTART:20231221T133000Z
 SUMMARY:ПЗ Конструирование турбонасосных агрегатов
-UID:3f166bfb-c09e-4136-910f-6bf1e0699620@3f16.org
+UID:68916352-6075-4701-86fd-064af06812e0@6891.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мукамбетов Ралиф Ядекарович
-DTEND:20231113T131500Z
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231005T131500Z
 LOCATION:2-125(2Г)
-DTSTART:20231113T114500Z
-SUMMARY:ЛР Автоматика и регулирование ЖРДУ
-UID:4576604a-8780-4669-99e8-759827d0fae3@4576.org
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:1445f505-dbc4-467e-9dc5-04866b64863c@1445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Асланян Ирина Рудиковна
+DTEND:20231110T113000Z
+LOCATION:2-206(2А)
+DTSTART:20231110T100000Z
+SUMMARY:ЛК Технология производства двигателей летательных аппаратов
+UID:c918d0d8-0eaf-4efb-a6ae-bda711bad907@c918.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Асланян Ирина Рудиковна
+DTEND:20231027T113000Z
+LOCATION:2-206(2А)
+DTSTART:20231027T100000Z
+SUMMARY:ЛК Технология производства двигателей летательных аппаратов
+UID:0f44bfcf-96dd-437c-ab63-d37d1b4f0aed@0f44.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казеннов Иван Сергеевич
-DTEND:20230916T091500Z
+DTEND:20231028T091500Z
 LOCATION:2-125(2Г)
-DTSTART:20230916T074500Z
+DTSTART:20231028T074500Z
 SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
-UID:a0d2e9db-d1d0-4202-a9d1-267f624e4e96@a0d2.org
+UID:6eea2ee3-8db3-45b2-b8dc-31b9bbc50015@6eea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20230930T073000Z
+LOCATION:2-125(2Г)
+DTSTART:20230930T060000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:02ae1db9-f154-441f-ab76-19f6f386b34e@02ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231207T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231207T074500Z
+SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
+UID:72721040-0ced-4fb1-8efb-3c6066b8b189@7272.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231014T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231014T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:1acb4142-3675-4e15-87c9-86ed995bc89a@1acb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231204T164500Z
+LOCATION:--каф.
+DTSTART:20231204T151500Z
+SUMMARY:ЛР Испытания и обеспечение надежности ЖРД
+UID:6d40f7d7-b0c5-4a56-8cdb-0783a0ad6847@6d40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20230921T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20230921T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:6d25cbc4-2eee-4065-9511-2a7b624a2a8d@6d25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231115T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:72fc7257-25db-4bf8-b493-eb43d6863993@72fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231223T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231223T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:179387b7-7075-412a-8f8f-050e307bca7f@1793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ЛР Испытания и обеспечение надежности ЖРД
+UID:580c9810-9ada-44ad-84fc-2d23ea0ec8e3@580c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20230928T113000Z
+LOCATION:--каф.
+DTSTART:20230928T100000Z
+SUMMARY:ПЗ УИРС
+UID:9a5df23e-dcd8-481b-9efb-54995954fe7b@9a5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231018T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231018T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:7c113487-d928-4770-bcb1-b3eba9635a24@7c11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231025T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:521f0beb-d4bd-47f3-aaec-a2d57dfe00ef@521f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231030T164500Z
+LOCATION:2-125(2Г)
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:7c65140f-2f2a-45af-bcc8-8130dc26b920@7c65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20230920T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20230920T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:720def6f-90c1-4784-9fc8-e1d3ccf354a4@720d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Почестнев Александр Анатольевич
+DTEND:20231129T091500Z
+LOCATION:3-111
+DTSTART:20231129T074500Z
+SUMMARY:ПЗ Социология
+UID:e7749f54-6f10-4283-b7bf-358ce4f19879@e774.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231130T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231130T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:7dfcdfd8-0903-4333-af60-63fcd888eff2@7dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231111T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231111T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:46ceedfa-531d-418f-8d60-1762056a9be2@46ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231127T164500Z
+LOCATION:2-125(2Г)
+DTSTART:20231127T151500Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:e971037d-7835-4486-ae7b-c65882065183@e971.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231115T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:1bf6d638-74bb-457e-86f4-2c278a543d58@1bf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бережной Владимир Николаевич
+DTEND:20231007T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231007T074500Z
+SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
+UID:b1d6f160-ee0e-4861-8ce7-b61846898fd5@b1d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231229T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231229T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:f60e6d86-8f86-48be-948b-1bc64a193945@f60e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231114T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20231114T133000Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:dbde3078-c29a-4e4d-a9f1-edbc96e2e412@dbde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Асланян Ирина Рудиковна
+DTEND:20231013T113000Z
+LOCATION:2-206(2А)
+DTSTART:20231013T100000Z
+SUMMARY:ЛК Технология производства двигателей летательных аппаратов
+UID:75c3c35f-6cb4-447d-ae86-4c36de681014@75c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Асланян Ирина Рудиковна
+DTEND:20230929T113000Z
+LOCATION:2-206(2А)
+DTSTART:20230929T100000Z
+SUMMARY:ЛК Технология производства двигателей летательных аппаратов
+UID:159c5a12-33df-44eb-bdc9-06198bbd7594@159c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Боровик Игорь Николаевич
@@ -2047,7 +991,439 @@ DTEND:20231019T131500Z
 LOCATION:2-125(2Г)
 DTSTART:20231019T114500Z
 SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
-UID:cb1dd6b0-a07b-4f85-9a9f-85b3d794e2bb@cb1d.org
+UID:079bc523-28e9-4f66-96b0-96c98be19fcd@079b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20230926T113000Z
+LOCATION:2-23(2Б)
+DTSTART:20230926T100000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:0c1cce42-43e9-40ee-9ab9-c1de7aa03fd7@0c1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бережной Владимир Николаевич
+DTEND:20231021T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231021T074500Z
+SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
+UID:3b0b81ff-e45b-409e-81e5-cc9eb073d9ca@3b0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20230914T113000Z
+LOCATION:--каф.
+DTSTART:20230914T100000Z
+SUMMARY:ПЗ УИРС
+UID:0bc6e7bf-6b8a-4506-be39-c87e3a868fd4@0bc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231220T091500Z
+LOCATION:2-206(2А)
+DTSTART:20231220T074500Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:87e626d6-21b6-4b76-a0b2-5cf1f6b58725@87e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231207T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:0221a468-2615-4474-96d0-ed399600316d@0221.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231122T073000Z
+LOCATION:2-206(2А)
+DTSTART:20231122T060000Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:beba2b5d-919d-4a99-b878-f53e0d42eccb@beba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20230923T131500Z
+LOCATION:2-201(2А)
+DTSTART:20230923T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:aece90f3-6824-40bc-93b9-e72c480c1ded@aece.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231025T073000Z
+LOCATION:2-206(2А)
+DTSTART:20231025T060000Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:e37c4d0a-b016-413a-8198-8bbe8032e894@e37c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231230T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231230T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:321e867c-0099-4b99-a5b1-d9827a1a2f6d@321e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Асланян Ирина Рудиковна
+DTEND:20230922T113000Z
+LOCATION:2-206(2А)
+DTSTART:20230922T100000Z
+SUMMARY:ЛК Технология производства двигателей летательных аппаратов
+UID:2942b957-2b39-4fb5-870d-7a6cd13ae763@2942.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231021T073000Z
+LOCATION:2-125(2Г)
+DTSTART:20231021T060000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:5a87b996-5cc7-4f5b-b055-2582f4da637b@5a87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савенко Елена Юрьевна
+DTEND:20231107T150000Z
+LOCATION:3-402
+DTSTART:20231107T133000Z
+SUMMARY:ЛР Электротехника и электроника
+UID:325d34d2-2780-41da-a66d-9f0bc5c5a10f@325d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231123T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231123T074500Z
+SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
+UID:6f9f0af7-a763-48c9-858e-e5e54ab02492@6f9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Асланян Ирина Рудиковна
+DTEND:20231201T113000Z
+LOCATION:2-206(2А)
+DTSTART:20231201T100000Z
+SUMMARY:ЛК Технология производства двигателей летательных аппаратов
+UID:96529102-82ff-439b-a40e-680614aad26b@9652.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230926T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20230926T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:feebe159-54dc-4188-a8e7-9f301b58fc77@feeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230919T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:80f58e8b-7fed-4e6d-a129-bb85bcfac821@80f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231206T131500Z
+LOCATION:--каф.
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:14b91e5d-eac3-4fdb-a39f-1a36a4262ab4@14b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231220T131500Z
+LOCATION:--каф.
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:f131edee-e6ac-4b21-b4c7-dcf112f209ba@f131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231017T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20231017T133000Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:15aac4da-6dda-4ad8-8528-2ff1f41cd9a2@15aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231129T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231129T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:7bd1c561-4277-456b-abd3-f6431c2af203@7bd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Алексеевич
+DTEND:20230912T091500Z
+LOCATION:2-23(2Б)
+DTSTART:20230912T074500Z
+SUMMARY:ЛР Конструирование турбонасосных агрегатов
+UID:21a40a8a-e8a8-4d91-a302-9643cce77817@21a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20230906T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:43b507c2-47f4-4de7-ac00-7b68cca740e1@43b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231018T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:0b01d455-696e-406e-8090-b5ae7e5e9157@0b01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231209T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231209T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:83ccaad7-8241-4ba7-b9b4-7a68b5777fed@83cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савенко Елена Юрьевна
+DTEND:20231107T164500Z
+LOCATION:3-402
+DTSTART:20231107T151500Z
+SUMMARY:ЛР Электротехника и электроника
+UID:68dcd51e-1442-4e34-b1d6-f847f13e1abf@68dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231004T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:f8df13ba-ede9-47f5-926c-e558940b494f@f8df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231028T073000Z
+LOCATION:2-125(2Г)
+DTSTART:20231028T060000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:05fad630-7f4a-4291-88f4-78af8e0d5f20@05fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231128T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:bf146ebe-f442-44c2-82fe-43ee9fa7416e@bf14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231128T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20231128T133000Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:06f9ef00-1c81-4a70-8e7e-9c1588ba571a@06f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231012T113000Z
+LOCATION:--каф.
+DTSTART:20231012T100000Z
+SUMMARY:ПЗ УИРС
+UID:1fe32cde-87ff-4b51-b160-6b126b6898b8@1fe3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230912T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20230912T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:f216b3b1-454e-461d-882a-b1c113c3ebfe@f216.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231118T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231118T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:82b12db2-db45-4baf-8d33-01b6ca5b74f8@82b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231202T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231202T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:f5714446-2c6a-4a93-bdec-16bfc64401d9@f571.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231220T073000Z
+LOCATION:2-206(2А)
+DTSTART:20231220T060000Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:21023698-70f7-44ac-8a7c-cf2ab01b6b78@2102.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231005T113000Z
+LOCATION:--каф.
+DTSTART:20231005T100000Z
+SUMMARY:ПЗ УИРС
+UID:0e84c665-c745-4ce0-860d-9cd8e2e87196@0e84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231004T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231004T114500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:60ff241f-c9c2-47f0-8215-e5e1b1689500@60ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231223T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231223T100000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:b0c7c82c-5e44-4ebe-90ec-fdeeb844ee3e@b0c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231007T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231007T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:1442da34-adc8-4b0a-ab45-b0e7bed9c847@1442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20230922T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20230922T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:efb8b42f-cc91-4649-8c58-971506406c96@efb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савенко Елена Юрьевна
+DTEND:20231219T150000Z
+LOCATION:3-402
+DTSTART:20231219T133000Z
+SUMMARY:ЛР Электротехника и электроника
+UID:0ef2bacd-3090-4e67-a849-861c48f67210@0ef2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бережной Владимир Николаевич
+DTEND:20231216T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231216T074500Z
+SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
+UID:c4093367-2f90-4e5c-b800-8d7c8434e11b@c409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231021T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231021T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:881400c4-c7b6-466e-b765-06d51e26df61@8814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231012T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20231012T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:335856dd-300a-4a57-a55d-937c81998337@3358.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Алексеевич
+DTEND:20231010T073000Z
+LOCATION:2-23(2Б)
+DTSTART:20231010T060000Z
+SUMMARY:ЛР Конструирование турбонасосных агрегатов
+UID:88a922c8-df52-47fd-9bb4-bca69f7bd91d@88a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бережной Владимир Николаевич
+DTEND:20231230T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231230T074500Z
+SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
+UID:a74acaa0-1440-4525-8072-fffb3e3c7f0e@a74a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231102T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:a0402d80-1c75-443c-a1be-43cf1fa95a4a@a040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231113T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231113T100000Z
+SUMMARY:ЛР Автоматика и регулирование ЖРДУ
+UID:a221b0a0-8e0f-42e1-bf94-8005f68efd23@a221.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20230927T091500Z
+LOCATION:2-206(2А)
+DTSTART:20230927T074500Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:151a44b1-61f2-4790-b367-7d97257d6204@151a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231016T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:94198abe-745f-46eb-a0e7-1bd763349b1f@9419.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20230929T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20230929T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:35239955-0628-428a-ad31-036b6e1fd716@3523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231129T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:998662c7-c924-45c3-8025-d468d8cffb44@9986.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20230928T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:be05af38-e623-4f3a-a482-e8f5ce46eee8@be05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20230912T113000Z
+LOCATION:2-23(2Б)
+DTSTART:20230912T100000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:e1576bb9-f6ce-4b9f-abc3-3f1e71feb380@e157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Асланян Ирина Рудиковна
+DTEND:20231020T113000Z
+LOCATION:2-206(2А)
+DTSTART:20231020T100000Z
+SUMMARY:ЛК Технология производства двигателей летательных аппаратов
+UID:8c8c0052-af01-4362-9040-43235e564bfd@8c8c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дворяк Павел Анатольевич
@@ -2055,6 +1431,662 @@ DTEND:20230913T091500Z
 LOCATION:2-206(2А)
 DTSTART:20230913T074500Z
 SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
-UID:8490e491-ebb7-4e2e-963a-1052667d5652@8490.org
+UID:78aa1682-eb0d-4694-a026-0aba391053b9@78aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231216T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231216T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:3c1b16c4-82f7-4f12-96a6-581fd5955c81@3c1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231002T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:eab644c5-bee3-4dff-a4c3-876d2ec5ae76@eab6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231113T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231113T114500Z
+SUMMARY:ЛР Автоматика и регулирование ЖРДУ
+UID:d7f5e47c-147b-4e0f-bdda-1cec51dd706b@d7f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231125T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231125T074500Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:bdad559d-368d-431f-8433-df6c2f706c8a@bdad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231213T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:4af4a566-d9eb-4b05-92c9-59f567ee7ec6@4af4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231130T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20231130T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:be2f193d-9d57-48da-a355-a8e8dc273398@be2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231108T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:ff0b98db-051f-4523-a82e-c50895a08f85@ff0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231113T164500Z
+LOCATION:2-125(2Г)
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:10776771-4d5c-4b1b-a87e-64b9d3fb3ac1@1077.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беляева Наталья Вячеславовна
+DTEND:20231030T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Испытания и обеспечение надежности ЖРД
+UID:bd5cb2cb-fe06-4764-866d-e61b5b4b7493@bd5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231206T091500Z
+LOCATION:2-206(2А)
+DTSTART:20231206T074500Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:f5f57b72-e217-4748-b093-0b5fb604ce7a@f5f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231223T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231223T074500Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:ecdce660-1091-42fe-942d-592b6d3616bd@ecdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20230913T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:02abd30c-1559-4a61-9562-2b3962e73e92@02ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231010T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231010T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:0d35823b-3f9e-467b-ae64-131de2eed3bf@0d35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231028T131500Z
+LOCATION:2-201(2А)
+DTSTART:20231028T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:17b9ec8f-6b8d-48fd-828b-ed50ecd8fc91@17b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20230914T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:ff4a2cc8-01df-4820-a6f6-d1b95d8cbaf9@ff4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Иван Александрович
+DTEND:20230923T113000Z
+LOCATION:ГУК А-518
+DTSTART:20230923T100000Z
+SUMMARY:ЛК Социология
+UID:413d255d-7daa-4354-af2c-27402844c655@413d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231108T073000Z
+LOCATION:2-206(2А)
+DTSTART:20231108T060000Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:d16dbf4d-9645-4a4c-9ac7-e8f4a5e29a9b@d16d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20230921T113000Z
+LOCATION:--каф.
+DTSTART:20230921T100000Z
+SUMMARY:ПЗ УИРС
+UID:2be012f2-2f73-40f0-902a-d31cbaa73024@2be0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231116T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20231116T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:fe2b9aa7-e977-491b-8815-ec629955926a@fe2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Почестнев Александр Анатольевич
+DTEND:20231004T091500Z
+LOCATION:3-111
+DTSTART:20231004T074500Z
+SUMMARY:ПЗ Социология
+UID:07b64190-d5a6-4865-942e-3c886912024b@07b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Иван Александрович
+DTEND:20231118T113000Z
+LOCATION:ГУК А-518
+DTSTART:20231118T100000Z
+SUMMARY:ЛК Социология
+UID:2c587d9c-2aa9-4f62-80b1-d47bacafa609@2c58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231206T073000Z
+LOCATION:2-206(2А)
+DTSTART:20231206T060000Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:4bb180b6-47f0-4c4c-8351-425d68e417a8@4bb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20230913T073000Z
+LOCATION:2-206(2А)
+DTSTART:20230913T060000Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:200c4898-1fc2-41fd-8236-b55dc82d8043@200c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231209T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231209T074500Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:c926f6ec-fb82-4756-ab2e-9155439bbaaa@c926.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Алексеевич
+DTEND:20231010T091500Z
+LOCATION:2-23(2Б)
+DTSTART:20231010T074500Z
+SUMMARY:ЛР Конструирование турбонасосных агрегатов
+UID:41bb299b-4767-4137-b671-fd6c26fd0cdd@41bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савенко Елена Юрьевна
+DTEND:20231205T164500Z
+LOCATION:3-402
+DTSTART:20231205T151500Z
+SUMMARY:ЛР Электротехника и электроника
+UID:813ed289-a688-456d-9ab9-00b887dbb9cc@813e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231109T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231109T074500Z
+SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
+UID:f738550a-dc26-403c-85c8-c3b46de13eed@f738.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231208T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231208T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:c6589deb-261c-4d51-8ea7-65a9d1b7e7e7@c658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бережной Владимир Николаевич
+DTEND:20231202T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231202T074500Z
+SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
+UID:4dbb7af0-ca79-458f-94d2-32127f9f5418@4dbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231209T073000Z
+LOCATION:2-125(2Г)
+DTSTART:20231209T060000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:f2174efd-e811-4296-924b-84a6f5fd9387@f217.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20230907T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:8c222313-a40c-488b-bccd-1cc44f38eb87@8c22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231024T113000Z
+LOCATION:2-23(2Б)
+DTSTART:20231024T100000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:77ba5600-084d-4515-a1e6-ddf122c80d39@77ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20230907T113000Z
+LOCATION:--каф.
+DTSTART:20230907T100000Z
+SUMMARY:ПЗ УИРС
+UID:30208228-0628-4e0d-b2c2-e0349aea2be4@3020.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231214T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231214T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:bb249943-31b8-4cab-9932-c3e364e696a8@bb24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231121T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231121T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:8ed9a06d-d7e3-4789-84fc-f40e3a3e7ee8@8ed9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231109T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231109T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:7e61554a-2469-4e6b-89b0-c7443b97a946@7e61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231031T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20231031T133000Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:3927c31c-bec6-4c76-9a09-4a146e7b3993@3927.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231123T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231123T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:6c0a5da6-671b-4439-8d86-52472212bc57@6c0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20230902T131500Z
+LOCATION:2-201(2А)
+DTSTART:20230902T114500Z
+SUMMARY:ЛК Электротехника и электроника
+UID:9e63ce3e-8964-49c6-a290-85e7bbcafa33@9e63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20230919T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20230919T133000Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:063bb9f8-3a3a-4d2e-a2d5-f93194200622@063b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231019T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20231019T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:2d5c9f4c-5194-48e8-a149-038018fb8b55@2d5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231030T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231030T114500Z
+SUMMARY:ЛР Автоматика и регулирование ЖРДУ
+UID:b9ba14d9-e8c4-4711-9d5a-e96eb779daef@b9ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231031T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:0bba67db-8824-4189-b9d1-2311b9dfda58@0bba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Алексеевич
+DTEND:20230912T073000Z
+LOCATION:2-23(2Б)
+DTSTART:20230912T060000Z
+SUMMARY:ЛР Конструирование турбонасосных агрегатов
+UID:34a382f1-89b2-4a9c-9383-51100bb80463@34a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Алексеевич
+DTEND:20230926T073000Z
+LOCATION:2-23(2Б)
+DTSTART:20230926T060000Z
+SUMMARY:ЛР Конструирование турбонасосных агрегатов
+UID:428f655a-c0b9-4611-8239-ebec654a1422@428f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231006T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231006T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:796b4dbc-9f48-44c0-961f-a15b45b3e220@796b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бережной Владимир Николаевич
+DTEND:20230909T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20230909T074500Z
+SUMMARY:ЛК Испытания и обеспечение надежности ЖРД
+UID:4289e50b-e845-454c-acb4-3f1c2b9c377c@4289.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20230923T073000Z
+LOCATION:2-125(2Г)
+DTSTART:20230923T060000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:77a608ad-3c3a-4620-8b2b-1262dae0457d@77a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231214T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20231214T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:b9d52a9f-b99c-43af-bcbf-6121fdc49af1@b9d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20230928T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20230928T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:23836aa7-e8cc-4611-8262-0626be272da6@2383.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Савельев Иван Александрович
+DTEND:20231021T113000Z
+LOCATION:ГУК А-518
+DTSTART:20231021T100000Z
+SUMMARY:ЛК Социология
+UID:9d624d0a-49b1-43c0-bc01-3615bb4685b6@9d62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231205T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231205T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:b251414b-c36a-46ff-8698-238a8e73587f@b251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231108T091500Z
+LOCATION:2-206(2А)
+DTSTART:20231108T074500Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:d9dd865d-1579-4dc9-be28-954e806b85fa@d9dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231010T113000Z
+LOCATION:2-23(2Б)
+DTSTART:20231010T100000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:d181929d-027c-4d43-9a15-31b85d4c9a71@d181.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231122T091500Z
+LOCATION:2-206(2А)
+DTSTART:20231122T074500Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:eabe5130-467c-47c6-a2c5-be3977b79a53@eabe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231102T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20231102T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:1fc3d7b6-12a3-4a68-b156-c53a448aa44a@1fc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231011T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:0c315f6c-c04d-4bc1-bc2c-1173f12142bf@0c31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20230905T150000Z
+LOCATION:2-125(2Г)
+DTSTART:20230905T133000Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:6e0d6246-f310-4edd-87a6-8221d437a57e@6e0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231026T113000Z
+LOCATION:--каф.
+DTSTART:20231026T100000Z
+SUMMARY:ПЗ УИРС
+UID:4cdee023-b72e-453c-91bc-29af4e8f07ca@4cde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Почестнев Александр Анатольевич
+DTEND:20230906T091500Z
+LOCATION:3-111
+DTSTART:20230906T074500Z
+SUMMARY:ПЗ Социология
+UID:126e1edb-39f5-4220-a31a-5d879ff6be2a@126e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231030T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231030T100000Z
+SUMMARY:ЛР Автоматика и регулирование ЖРДУ
+UID:3944ba45-472c-4281-b8f3-fde1a57b0374@3944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231109T113000Z
+LOCATION:--каф.
+DTSTART:20231109T100000Z
+SUMMARY:ПЗ УИРС
+UID:2c70389a-3595-4348-9985-5e284c67dfe4@2c70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231206T113000Z
+LOCATION:2-125(2Г)
+DTSTART:20231206T100000Z
+SUMMARY:ЛК Автоматика и регулирование ЖРДУ
+UID:bd25d29f-bcd3-4337-a750-9fcda4090a72@bd25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20230907T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20230907T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:0742a222-d550-416b-a6f1-2d2361e5af4b@0742.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20230930T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
+UID:7048fd5b-c2bf-4875-a4cb-9f08eb057a23@7048.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231005T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20231005T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:abf30084-11b0-4fc6-a053-da9456f71215@abf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231107T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20231107T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:a3fb62c3-0bdb-49d0-99f9-b8d1b3eda585@a3fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20230927T073000Z
+LOCATION:2-206(2А)
+DTSTART:20230927T060000Z
+SUMMARY:ПЗ Технология производства двигателей летательных аппаратов
+UID:d16c4d5e-72c4-481a-b1b1-43c2819f57cd@d16c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20230916T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20230916T074500Z
+SUMMARY:ЛК Автоматизация проектирования авиационных и ракетных двигателей
+UID:f7930051-75bf-4974-8c0e-ac59e748ec05@f793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230905T131500Z
+LOCATION:2-23(2Б)
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Конструирование турбонасосных агрегатов
+UID:e9858d30-643c-4dc6-a48a-eb48e8dc442b@e985.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231027T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231027T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:1bb443fc-b39f-4e60-9214-2f653cc79ea2@1bb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231103T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231103T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:9cf3bad6-ca86-4351-ad4e-c47426ffd8d9@9cf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мукамбетов Ралиф Ядекарович
+DTEND:20231222T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231222T074500Z
+SUMMARY:ПЗ Математическое моделирование рабочих процессов в ЖРД
+UID:ac756654-a0da-4307-90bc-93ee5f791394@ac75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231019T113000Z
+LOCATION:--каф.
+DTSTART:20231019T100000Z
+SUMMARY:ПЗ УИРС
+UID:eb890316-9417-46ad-a0cd-b95cdc5c9bd1@eb89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мартиросов Давид Суренович
+DTEND:20231012T091500Z
+LOCATION:2-125(2Г)
+DTSTART:20231012T074500Z
+SUMMARY:ПЗ Автоматика и регулирование ЖРДУ
+UID:73065777-34b4-479c-a36d-387d830569c5@7306.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20230914T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:75929504-06b7-433b-963e-c184efcb9116@7592.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дворяк Павел Анатольевич
+DTEND:20231023T131500Z
+LOCATION:2-206(2А)
+DTSTART:20231023T114500Z
+SUMMARY:ЛР Технология производства двигателей летательных аппаратов
+UID:4547704a-c480-41f1-abf5-5942e31f4a6e@4547.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231109T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20231109T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:1ac15257-1e48-466f-b372-2e78da492929@1ac1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Боровик Игорь Николаевич
+DTEND:20231012T131500Z
+LOCATION:2-125(2Г)
+DTSTART:20231012T114500Z
+SUMMARY:ЛК Математическое моделирование рабочих процессов в ЖРД
+UID:9c2c2690-41f7-4c1d-8a7a-2acc7a81f8b8@9c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Холобцев Дмитрий Петрович
+DTEND:20231228T150000Z
+LOCATION:2-23(2Б)
+DTSTART:20231228T133000Z
+SUMMARY:ПЗ Конструирование турбонасосных агрегатов
+UID:fa8ea6e3-7d7f-462c-9c6d-671b2ac4438b@fa8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шевцов Александр Алексеевич
+DTEND:20231024T073000Z
+LOCATION:2-23(2Б)
+DTSTART:20231024T060000Z
+SUMMARY:ЛР Конструирование турбонасосных агрегатов
+UID:e42fba4b-9cff-4ade-9510-478d39e00abb@e42f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казеннов Иван Сергеевич
+DTEND:20231118T073000Z
+LOCATION:2-125(2Г)
+DTSTART:20231118T060000Z
+SUMMARY:ПЗ Автоматизация проектирования авиационных и ракетных двигателей
+UID:87bc9447-83bc-4c68-b5b9-d2e58954f14d@87bc.org
 END:VEVENT
 END:VCALENDAR

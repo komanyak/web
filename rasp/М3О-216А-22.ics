@@ -2,374 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e196ea9d-9f74-4f0a-8c75-de674ad63c21@e196.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:fe599d42-0557-4c09-96cc-6e9f3c1595d3@fe59.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d986e639-37ba-44a0-880b-d59a7af405ca@d986.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20231204T164500Z
-LOCATION:3-254
-DTSTART:20231204T151500Z
-SUMMARY:ЛК Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:1a5bbcb9-fcaf-4544-9f1c-752aac6f903e@1a5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20230911T183000Z
-LOCATION:3-254
-DTSTART:20230911T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:20b75e85-34c8-4cdb-90f6-f1241fa41ac6@20b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:13036827-d379-4c0a-8ab1-94c38caf8b3b@1303.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20231023T183000Z
-LOCATION:3-254
-DTSTART:20231023T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:e1dbad19-1ab5-4598-ac37-eab5d3f4f420@e1db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20231120T183000Z
-LOCATION:3-254
-DTSTART:20231120T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:a61f5986-ff16-46af-842f-074423c913d5@a61f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:89198875-f567-4b8f-b4d6-00065afa671e@8919.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ab137aa8-2a1b-4cd7-acc4-5f1d51784050@ab13.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20231113T150000Z
 LOCATION:--каф.
 DTSTART:20231113T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:bedae188-4bc5-4dd5-b1a3-4e061ed9f056@beda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:e29cc506-c449-41f4-85a9-288bf37cb246@e29c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:304b3892-942e-4187-8d2c-cbcc0c531ce8@304b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:216019a7-c42c-41e0-b8c0-e6702aec82bd@2160.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20231016T183000Z
-LOCATION:3-254
-DTSTART:20231016T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:9bb2e832-7fa8-4e52-8123-b5499f5e75b4@9bb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:bc6119f6-d8fc-443d-9718-6dbd2278e4d6@bc61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20231030T183000Z
-LOCATION:3-254
-DTSTART:20231030T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:2c5e716a-b0ec-4eef-a294-3a0acc5256e0@2c5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c833ec31-2734-4cba-bca5-a9868f5bc020@c833.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231010T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231010T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:77143fce-d95e-4167-8148-efa76b7bf4ea@7714.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20230904T183000Z
-LOCATION:3-254
-DTSTART:20230904T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:8b9ce136-8a77-4cdf-affa-afcdb413dc0d@8b9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20231106T183000Z
-LOCATION:3-254
-DTSTART:20231106T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:4877427c-3136-47da-bf8f-151a0d8e9196@4877.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231010T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231010T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:48d5bd44-194e-43c6-bc27-bf5f2250c3c4@48d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:4fb17a32-892b-404c-9c14-0e2aea179bd0@4fb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231024T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231024T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:83818f88-5686-464d-9f1c-08264de339ed@8381.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20231211T164500Z
-LOCATION:3-254
-DTSTART:20231211T151500Z
-SUMMARY:ЛК Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:1091bddf-2b98-4bd1-b458-2883b66ca13c@1091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20230918T183000Z
-LOCATION:3-254
-DTSTART:20230918T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:d2c1b7b2-c24a-4264-96b8-3a138629cbee@d2c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:e61a4263-4244-4b59-946a-7b747e099117@e61a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:bbe21637-c66c-4742-a6c4-3286d8e38b3a@bbe2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7d54191c-52ce-4aef-8ef3-a44ac58446b2@7d54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:101d576b-fd10-42cd-89a4-fa3b910103e3@101d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:625569db-c6d1-497d-8380-8f6debed1f07@6255.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:35779b8c-5409-4b1b-8a3a-b0ae9d776cba@3577.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:91faa741-b074-47f4-b18e-f5d7639fff4b@91fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231024T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:507a4f2c-5db2-4d75-8b88-a2f7f23ba14a@507a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a53a446a-e5d8-4a57-97d0-b2156d2a9b84@a53a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:234b1243-6b05-4008-9412-2055f0b27d5d@234b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20231002T183000Z
-LOCATION:3-254
-DTSTART:20231002T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:b09e1d6e-5013-4418-ba07-ad9d9163b9c5@b09e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:35cfc5df-c241-4a83-992a-2a45c491b0f6@35cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:9b49efdf-e851-43e5-b73b-b664860e3305@9b49.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:857b84bd-a6a8-4924-a0ea-261bf35f4b75@857b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5499c450-96da-4d06-8d59-480cc2407cea@5499.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20231113T183000Z
-LOCATION:3-254
-DTSTART:20231113T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:01c238cf-e137-4976-83e4-289818d8c8c6@01c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a0b4136d-1621-4d71-b31c-4a3d04f2a048@a0b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8ded3807-2fa0-4e8f-b460-f9a018a4f7ec@8ded.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b94f19cf-f074-45f1-b78c-fe98db06ba82@b94f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:420307a8-48bd-4b19-a08a-2f35f66103f0@4203.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20231127T164500Z
-LOCATION:3-254
-DTSTART:20231127T151500Z
-SUMMARY:ЛК Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:1ea92a28-a76f-44b0-bb9e-dcd192b63d21@1ea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20230925T183000Z
-LOCATION:3-254
-DTSTART:20230925T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:be92767a-1bf5-40d5-bae9-f73987eea77a@be92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Черноморский Александр Исаевич
-DTEND:20231009T183000Z
-LOCATION:3-254
-DTSTART:20231009T170000Z
-SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
-UID:7927f626-11f5-42b0-905c-5c020b91f639@7927.org
+UID:14582235-3976-4190-a690-0be15d52d09c@1458.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -377,21 +14,66 @@ DTEND:20231031T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231031T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:01da5fae-1c9b-4e5a-a101-6be8fd5851ca@01da.org
+UID:d249d46d-4ac6-4606-9df4-8082b74dfc82@d249.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231030T150000Z
+DTEND:20231106T150000Z
 LOCATION:--каф.
-DTSTART:20231030T133000Z
+DTSTART:20231106T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:660e2cfb-36a5-4e10-9028-274e3c3fe291@660e.org
+UID:d074a21b-2746-45c8-bfc4-45583d6eb3c8@d074.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230911T164500Z
+DTEND:20231106T164500Z
 LOCATION:--каф.
-DTSTART:20230911T151500Z
+DTSTART:20231106T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a806345c-2421-4dcf-a64e-c9ca2badc3f6@a806.org
+UID:ffb973cd-f713-462c-9c56-1b087c2b97ab@ffb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:46cc0314-6afb-4391-96c9-52535f0f8999@46cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:9135a0f0-1d2f-4569-8609-53065c531ae7@9135.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d06efb9b-5c97-44e1-be45-ce3065e7908b@d06e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0162d139-e12e-4ee9-9a7e-7345b6c72b95@0162.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20231113T183000Z
+LOCATION:3-254
+DTSTART:20231113T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:94268df0-ed64-473f-9419-89f7a3a5c42d@9426.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20230918T183000Z
+LOCATION:3-254
+DTSTART:20230918T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:45590ae1-8956-48db-974e-e77407546440@4559.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -399,13 +81,331 @@ DTEND:20231017T164500Z
 LOCATION:ГУК В-228
 DTSTART:20231017T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:da06990c-8a01-4bed-95e3-e3eee4e5dfa1@da06.org
+UID:381e137a-3711-4515-b4dc-75e6991faab8@381e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d7115ee5-c00d-463f-aa6f-e584bbd2733a@d711.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20230904T183000Z
+LOCATION:3-254
+DTSTART:20230904T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:80d02172-984d-4dff-9068-55df6b404ce4@80d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20231002T183000Z
+LOCATION:3-254
+DTSTART:20231002T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:7a7f9928-44da-496a-bea7-6d94a95d1fed@7a7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:954b4a36-1437-46b2-8706-a5de65ed535f@954b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20230911T183000Z
+LOCATION:3-254
+DTSTART:20230911T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:e97e7b75-1f6b-4a7d-a46e-fc3877a2fc20@e97e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:45e811a5-bf2e-4245-80fa-c29efcd23c78@45e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20231016T183000Z
+LOCATION:3-254
+DTSTART:20231016T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:e9a326a9-2cc0-41e6-ac1d-b73c7e511950@e9a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231010T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:02953b92-febb-48af-8a11-25dc577dd800@0295.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f424bd7b-f86e-4987-b84a-a72642573ceb@f424.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a4c9d9fe-dc6b-4bef-8225-4bfc2ec6566c@a4c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20230925T183000Z
+LOCATION:3-254
+DTSTART:20230925T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:5216b6bc-26a0-4939-941a-209c9c002417@5216.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20231106T183000Z
+LOCATION:3-254
+DTSTART:20231106T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:2db9075e-4df9-4607-87ce-ef290d787f92@2db9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:4dc44b03-8e62-4be5-b745-a67dbd343e82@4dc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20231127T164500Z
+LOCATION:3-254
+DTSTART:20231127T151500Z
+SUMMARY:ЛК Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:e9c15e81-6a49-45f5-84c5-7b136439c49e@e9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231024T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231024T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:16d6410e-9856-46ac-9e5c-fb77fc2d48b9@16d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231010T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231010T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:e3ffb188-3804-40c4-a8cf-fe31c1938312@e3ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:326a173b-9086-43ec-9afd-483c5254fc4a@326a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:91cd6e87-3093-40fc-b00a-86d4efca4dc3@91cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:951d3eb7-de6b-4043-8bbb-038197997769@951d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d53ab1f0-41d2-49e2-b264-13639f05d6d3@d53a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:3dc7347d-f76a-4025-a08a-f7657a0349cf@3dc7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:cfb4c3d5-c2d7-49e7-be0c-453dfc85e83b@cfb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231024T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:329d50c8-6670-4033-bc9c-e43ad3d9f9cc@329d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e5782fdb-7f03-4c1a-99b5-b0c65e69916a@e578.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:96805316-df34-40cc-8b59-0bcdc1a00889@9680.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:b0f3945b-4b2f-49df-91b1-9f37f662e215@b0f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d481fae4-63d2-4c06-a9d1-2e6dd8a88fce@d481.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20231009T183000Z
+LOCATION:3-254
+DTSTART:20231009T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:e3ceb2c9-e6ac-4680-8771-c20083aaf933@e3ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20231204T164500Z
+LOCATION:3-254
+DTSTART:20231204T151500Z
+SUMMARY:ЛК Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:b369cb32-9d52-40d7-b97f-6986ea58f775@b369.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:edb197b8-b3fa-4eb9-a9c6-a3dcb0dc8b7d@edb1.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230918T164500Z
 LOCATION:--каф.
 DTSTART:20230918T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c2299a3b-c58a-40b4-8288-100d00d2dfc1@c229.org
+UID:b2643b63-12a9-4b5f-ba5a-aae5b9f67f62@b264.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f1c916b2-ebc6-4ae5-aae7-a54fcfc03376@f1c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20231030T183000Z
+LOCATION:3-254
+DTSTART:20231030T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:ce6c1750-fbe5-4b8f-be2e-d08cfa5aaa42@ce6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:d80d2676-4ae9-4335-a778-8c21506f9c42@d80d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e3a5a3e0-acdd-4c91-8f95-5afe5b620836@e3a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:d2fdb570-5626-4225-aa62-179ee12ac28b@d2fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20231211T164500Z
+LOCATION:3-254
+DTSTART:20231211T151500Z
+SUMMARY:ЛК Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:743f4a5b-7fcf-49c2-b0e9-f0f64422de89@743f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:279b7ed0-7903-43e2-903b-a3fecee5866a@279b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T164500Z
+LOCATION:--каф.
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:8c689b7e-2c31-438a-9524-50bbef6684d6@8c68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20231023T183000Z
+LOCATION:3-254
+DTSTART:20231023T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:2f1a2c84-7b6b-411f-adfb-6f423f4b2de8@2f1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Черноморский Александр Исаевич
+DTEND:20231120T183000Z
+LOCATION:3-254
+DTSTART:20231120T170000Z
+SUMMARY:ПЗ Интеллектуальные навигационные и информационно-измерительные приборы и системы
+UID:f71fc920-3400-40e8-9673-8e9eec5dc2ff@f71f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6524b252-9c6b-48c9-b760-e562019107b2@6524.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:eb7bc278-24a4-4a09-b660-248dd8e9526e@eb7b.org
 END:VEVENT
 END:VCALENDAR

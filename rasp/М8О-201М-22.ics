@@ -2,740 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20230915T131500Z
-LOCATION:3-413а
-DTSTART:20230915T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:da9e259a-ff2d-4c2f-b50c-f2d7c7693322@da9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231215T131500Z
-LOCATION:3-413а
-DTSTART:20231215T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:ceea5052-ac70-4c6c-a733-aa2935888171@ceea.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20230912T150000Z
+DTEND:20231010T150000Z
 LOCATION:3-403
-DTSTART:20230912T133000Z
+DTSTART:20231010T133000Z
 SUMMARY:ЛР Дискретный анализ
-UID:3d1edfe8-d377-4470-a308-f5417901bbcc@3d1e.org
+UID:08d7703a-3df4-4e9e-92dd-6dd922b538d5@08d7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231225T131500Z
-LOCATION:ГУК А-624
-DTSTART:20231225T114500Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:00645506-d6b1-4a9c-a5ca-c54c32692c94@0064.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231024T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231024T114500Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:a2a6eeb9-d628-4c38-b7a3-4c301e65ff3f@a2a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231206T164500Z
-LOCATION:3-435
-DTSTART:20231206T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:f3e4150e-9e11-4782-aac0-c5c4cdf63e17@f3e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231106T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231106T133000Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:aa44637b-fc5a-4fa2-87c7-d7af9f7a9b6a@aa44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20231016T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231016T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:3fd5eec3-b2fd-4d07-a972-0d6009712d02@3fd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231211T164500Z
-LOCATION:ГАК-320
-DTSTART:20231211T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:46bcc5c1-2139-4b84-a6c9-0e4965156415@46bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231003T164500Z
-LOCATION:3-403
-DTSTART:20231003T151500Z
-SUMMARY:ПЗ Дискретный анализ
-UID:7e48f841-2d0a-4480-880f-fa0e09b24eb6@7e48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20230927T150000Z
-LOCATION:3-435
-DTSTART:20230927T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:b1fb324b-3bd1-4974-b6bd-e0c696860c77@b1fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20231021T113000Z
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231028T073000Z
 LOCATION:ГУК А-620
-DTSTART:20231021T100000Z
-SUMMARY:ЛК Архитектура систем дистанционного обучения
-UID:9fba5b2c-1c0a-4827-b59d-e1ca17b3a8ec@9fba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20231211T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:63898b49-1661-4c57-8a85-65f555ab2b8e@6389.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231127T164500Z
-LOCATION:ГАК-320
-DTSTART:20231127T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:7352e707-1ceb-4bbc-a35d-cd290c9b0f59@7352.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231002T164500Z
-LOCATION:ГАК-320
-DTSTART:20231002T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:5ce2150a-9e19-4d96-a972-49bc6137ae9e@5ce2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231215T150000Z
-LOCATION:3-413а
-DTSTART:20231215T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:51c7d4ca-9e7b-494e-a715-63e29835e242@51c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231216T073000Z
-LOCATION:ГУК А-620
-DTSTART:20231216T060000Z
-SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:ec4fcee9-d754-43a2-b8ff-915c2a615433@ec4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231006T150000Z
-LOCATION:3-413а
-DTSTART:20231006T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:7b8d7d04-9bea-4a33-8ab3-9a2e75b9cbc3@7b8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231125T091500Z
-LOCATION:ГУК А-620
-DTSTART:20231125T074500Z
+DTSTART:20231028T060000Z
 SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:114229af-6512-4e99-9302-54251c414bbd@1142.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231220T164500Z
-LOCATION:3-435
-DTSTART:20231220T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:de51a071-fcbc-4bbc-914a-a83d801a4088@de51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231101T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231101T133000Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:ba23a92b-75f3-4743-907d-17a7dfa311cc@ba23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231017T150000Z
-LOCATION:3-403
-DTSTART:20231017T133000Z
-SUMMARY:ЛК Дискретный анализ
-UID:a51acdac-bf80-45e1-96d6-7d6fe37f1b7e@a51a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20230904T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20230904T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:92041919-c5f1-4142-9bf8-5e31a650f8f4@9204.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231014T073000Z
-LOCATION:ГУК А-620
-DTSTART:20231014T060000Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:f66a512f-865e-4d58-86cd-0abe827399d6@f66a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231014T091500Z
-LOCATION:ГУК А-620
-DTSTART:20231014T074500Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:1c06b780-cfa7-4126-bb9f-84078964cf1e@1c06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231128T150000Z
-LOCATION:3-403
-DTSTART:20231128T133000Z
-SUMMARY:ЛК Дискретный анализ
-UID:61abb8ac-4f7c-4ebd-9058-9efb2c1055e5@61ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231031T164500Z
-LOCATION:3-403
-DTSTART:20231031T151500Z
-SUMMARY:ПЗ Дискретный анализ
-UID:02d9363c-ab50-455a-b41f-0b48a5eff121@02d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231009T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231009T133000Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:9f1d7a9e-45f8-4735-a1d2-a041a62aedf0@9f1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231114T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:8316809d-ef44-4d8e-829d-8f8623baacdd@8316.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231107T150000Z
-LOCATION:3-403
-DTSTART:20231107T133000Z
-SUMMARY:ЛР Дискретный анализ
-UID:618274bb-24d5-4e0e-a109-6e7a896d7129@6182.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231025T164500Z
-LOCATION:3-435
-DTSTART:20231025T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:39bfb2da-a2c5-4961-af3c-821679fb608b@39bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231212T164500Z
-LOCATION:3-403
-DTSTART:20231212T151500Z
-SUMMARY:ПЗ Дискретный анализ
-UID:d35b7e64-f8ae-4019-8c9f-e4b4ef23e135@d35b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231101T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231101T170000Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:878e372a-7d47-4df6-842c-c9c816b119a6@878e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231004T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231004T170000Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:ea05080c-736e-4536-91ec-de9a1802fc45@ea05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20230926T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20230926T114500Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:8c5a6eb8-a3db-4ecc-9a61-4c90937c7524@8c5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231004T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231004T151500Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:5dfa4a5b-1e3d-45da-bb8f-241e728c3a1b@5dfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20230908T131500Z
-LOCATION:3-413а
-DTSTART:20230908T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:dec53e35-fdd3-4d2d-9220-65b4fc20ed09@dec5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231031T150000Z
-LOCATION:3-403
-DTSTART:20231031T133000Z
-SUMMARY:ЛК Дискретный анализ
-UID:41e154a9-fc1f-469d-8c31-c836339b5f17@41e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231128T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:fcc0a968-a091-42d6-84d2-607a94b6fde4@fcc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231209T091500Z
-LOCATION:ГУК А-620
-DTSTART:20231209T074500Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:148a6f1c-2e76-43e1-be08-f374c854eaaa@148a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20230905T150000Z
-LOCATION:3-403
-DTSTART:20230905T133000Z
-SUMMARY:ЛК Дискретный анализ
-UID:7c769397-a2c4-47c9-a41e-c75ea7b1a593@7c76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20230930T073000Z
-LOCATION:ГУК А-620
-DTSTART:20230930T060000Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:10694dfa-3ed9-44f5-9cc5-6f44892bf422@1069.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231115T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231115T151500Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:58864f6c-e929-4ec0-9453-aa51df2ddeec@5886.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230925T150000Z
-LOCATION:ГУК А-624
-DTSTART:20230925T133000Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:c68a82f6-fd88-47ea-a7ff-0e1a39091dfb@c68a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231220T150000Z
-LOCATION:3-435
-DTSTART:20231220T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:f7c9497c-3dea-4976-9e7f-70bde3c9256e@f7c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231030T164500Z
-LOCATION:ГАК-320
-DTSTART:20231030T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:13043ff6-7580-4ba4-b46f-cb34047be872@1304.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231027T131500Z
-LOCATION:3-413а
-DTSTART:20231027T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:c71efefa-ef31-4790-9048-d94b24ea377b@c71e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231121T150000Z
-LOCATION:3-403
-DTSTART:20231121T133000Z
-SUMMARY:ЛР Дискретный анализ
-UID:5054f2b7-d456-44be-a123-99ca0a6cece7@5054.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231124T131500Z
-LOCATION:3-413а
-DTSTART:20231124T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:8eb2adeb-7c4e-4d08-9390-5e1289f23e9f@8eb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231114T164500Z
-LOCATION:3-403
-DTSTART:20231114T151500Z
-SUMMARY:ПЗ Дискретный анализ
-UID:ebb14173-b098-4a30-9607-05ec28f17686@ebb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231010T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231010T114500Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:65e29550-3019-4bbb-9dcf-c56a36c6ba22@65e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231018T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231018T151500Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:5c96735b-cc84-4b81-b395-448e0f1862aa@5c96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231118T091500Z
-LOCATION:ГУК А-620
-DTSTART:20231118T074500Z
-SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:a5b001e2-3f80-43bf-a104-7a3e2d0ff8e2@a5b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20230923T091500Z
-LOCATION:ГУК А-620
-DTSTART:20230923T074500Z
-SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:464ec625-f095-49fc-a891-0c9831e77c92@464e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20230901T150000Z
-LOCATION:3-413а
-DTSTART:20230901T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:f6a24e99-f63b-49ba-8b95-efffd282d2ce@f6a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20230909T113000Z
-LOCATION:ГУК А-620
-DTSTART:20230909T100000Z
-SUMMARY:ЛК Архитектура систем дистанционного обучения
-UID:05b116b7-6644-483e-80c5-eeb77167c004@05b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20231007T113000Z
-LOCATION:ГУК А-620
-DTSTART:20231007T100000Z
-SUMMARY:ЛК Архитектура систем дистанционного обучения
-UID:d3403e89-77e2-4ab9-afad-831c1b5b5e72@d340.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20230919T150000Z
-LOCATION:3-403
-DTSTART:20230919T133000Z
-SUMMARY:ЛК Дискретный анализ
-UID:db94fa9a-ceff-4079-9cff-25026615c943@db94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231222T150000Z
-LOCATION:3-413а
-DTSTART:20231222T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:46884318-c4f5-4691-aae2-caccd62397f7@4688.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20230906T150000Z
-LOCATION:ГУК А-624
-DTSTART:20230906T133000Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:5e811cfb-ad66-4f38-9a4e-413890e2aa22@5e81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231118T073000Z
-LOCATION:ГУК А-620
-DTSTART:20231118T060000Z
-SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:da44020f-c605-4d24-a8fe-ee3df101d394@da44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231110T131500Z
-LOCATION:3-413а
-DTSTART:20231110T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:dd01ab1d-7c04-47ca-90ee-d9c9e9cc029a@dd01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231028T091500Z
-LOCATION:ГУК А-620
-DTSTART:20231028T074500Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:ea527e74-2092-49fa-9cc3-fded5bfe9895@ea52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231216T091500Z
-LOCATION:ГУК А-620
-DTSTART:20231216T074500Z
-SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:c485ea46-128e-4ff6-9005-befb83e7d08f@c485.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230925T164500Z
-LOCATION:ГУК А-624
-DTSTART:20230925T151500Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:beebe4c7-d6bf-42d8-9c6d-f5fc6c271bf1@beeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20230919T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:177845ea-3d87-425f-b636-1df0daa35da3@1778.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231021T091500Z
-LOCATION:ГУК А-620
-DTSTART:20231021T074500Z
-SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:ae50193d-3616-4bf3-b9f6-e61f31024268@ae50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20230918T164500Z
-LOCATION:ГАК-320
-DTSTART:20230918T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:ed31f26b-980e-454c-b667-5e01dbed721d@ed31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231006T131500Z
-LOCATION:3-413а
-DTSTART:20231006T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:c1c40a37-d935-4e50-b4af-baf9c457bbc4@c1c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20231014T113000Z
-LOCATION:ГУК А-620
-DTSTART:20231014T100000Z
-SUMMARY:ПЗ Архитектура систем дистанционного обучения
-UID:aa08b0d5-87eb-47bb-b596-55e81fa7b1e4@aa08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230904T131500Z
-LOCATION:ГУК А-624
-DTSTART:20230904T114500Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:d3b8f763-2b20-44f4-af60-4ebc7883bd62@d3b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231201T131500Z
-LOCATION:3-413а
-DTSTART:20231201T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:b5d3a386-631a-4fa0-a15e-0d4a46139906@b5d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20231118T113000Z
-LOCATION:ГУК А-620
-DTSTART:20231118T100000Z
-SUMMARY:ЛК Архитектура систем дистанционного обучения
-UID:6f244ee1-3f2b-4940-bb41-c19bc4c981b8@6f24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231113T131500Z
-LOCATION:ГУК А-624
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:72059273-32b7-44bb-b8b1-aae6587c7c56@7205.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20230905T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:dddb2be7-083e-4cd7-862f-7f994b822058@dddb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231031T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:4f750547-1618-4634-acba-ad66280d356c@4f75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231023T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231023T133000Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:60f3aed7-2390-487c-921b-a3f9a2247319@60f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20230919T164500Z
-LOCATION:3-403
-DTSTART:20230919T151500Z
-SUMMARY:ПЗ Дискретный анализ
-UID:f0a9bc57-c015-4254-9038-8d300132263f@f0a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231205T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231205T114500Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:922c8cd7-b569-4741-984b-b44867e5abdd@922c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231202T091500Z
-LOCATION:ГУК А-620
-DTSTART:20231202T074500Z
-SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:0c870770-3a6d-4a24-b557-4aac8ed459d3@0c87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20231113T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231113T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:7a79c534-df15-49ac-afe5-fc1eeb4d1710@7a79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231002T131500Z
-LOCATION:ГУК А-624
-DTSTART:20231002T114500Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:69bb5ea7-0a88-46b0-b678-de53d215e6c5@69bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20231028T113000Z
-LOCATION:ГУК А-620
-DTSTART:20231028T100000Z
-SUMMARY:ПЗ Архитектура систем дистанционного обучения
-UID:6db19c39-820f-42e1-8bfc-304b0a43c842@6db1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231212T150000Z
-LOCATION:3-403
-DTSTART:20231212T133000Z
-SUMMARY:ПЗ Дискретный анализ
-UID:b0361676-db76-4fb4-b7f1-99db15381896@b036.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20230920T150000Z
-LOCATION:ГУК А-624
-DTSTART:20230920T133000Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:02117a7a-0ebf-41bd-a38f-616f28e5c989@0211.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231103T131500Z
-LOCATION:3-413а
-DTSTART:20231103T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:b7de7130-813a-4368-a59f-3a2247829c1e@b7de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231127T131500Z
-LOCATION:ГУК А-624
-DTSTART:20231127T114500Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:2aa7565c-03fa-4c6a-b550-e966de65b4f8@2aa7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230911T164500Z
-LOCATION:ГУК А-624
-DTSTART:20230911T151500Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:ec9b5dd1-3067-47a2-a000-c5208ce774d6@ec9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231011T164500Z
-LOCATION:3-435
-DTSTART:20231011T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:efd1eae9-a86d-4023-9575-bd3adee2be02@efd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230911T150000Z
-LOCATION:ГУК А-624
-DTSTART:20230911T133000Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:ad2e6b19-9759-4ea0-a461-dd1415c9dea4@ad2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20230916T073000Z
-LOCATION:ГУК А-620
-DTSTART:20230916T060000Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:55920829-7f5b-4899-98e8-ccc273600457@5592.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231017T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:7322519d-b019-4fed-87a6-d10409250fda@7322.org
+UID:d7c1ce73-a70d-4922-944f-ef411f3bddab@d7c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сухов Егор Аркадьевич
@@ -743,447 +23,7 @@ DTEND:20230920T164500Z
 LOCATION:ГУК А-624
 DTSTART:20230920T151500Z
 SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:96bf150b-4dcd-44fa-9515-38f211a90712@96bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231128T164500Z
-LOCATION:3-403
-DTSTART:20231128T151500Z
-SUMMARY:ПЗ Дискретный анализ
-UID:e40b3f34-c7d8-455d-ab70-aca8ab407b11@e40b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231010T150000Z
-LOCATION:3-403
-DTSTART:20231010T133000Z
-SUMMARY:ЛР Дискретный анализ
-UID:52a8f1ca-cbfa-4852-9cb2-b84c86d8b843@52a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231107T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231107T114500Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:e3eab328-7a06-4876-bdc7-18c76e7e2df3@e3ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231010T164500Z
-LOCATION:3-403
-DTSTART:20231010T151500Z
-SUMMARY:ЛР Дискретный анализ
-UID:1f59185d-34c9-4a0b-acec-a7a0046e2770@1f59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231115T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231115T170000Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:717f8f14-5ccb-4296-9460-47a75b5aae7d@717f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231122T150000Z
-LOCATION:3-435
-DTSTART:20231122T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:d4224e08-a1f3-48ce-a2e1-20a9dd369236@d422.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231219T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231219T114500Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:7c0cf2a6-6132-4412-b04b-6ce2f4a034a2@7c0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231023T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231023T151500Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:7ab77fa3-c4f2-4eeb-95e1-60e1c007a7ba@7ab7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231016T164500Z
-LOCATION:ГАК-320
-DTSTART:20231016T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:73ea0635-a3f1-4f16-a654-801914e05b81@73ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231003T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231003T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:31ff71d6-6537-40ec-a957-fcfcbf66c281@31ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231028T073000Z
-LOCATION:ГУК А-620
-DTSTART:20231028T060000Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:fadf175d-9de0-42a3-b4ad-16a936d77ee4@fadf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20230909T073000Z
-LOCATION:ГУК А-620
-DTSTART:20230909T060000Z
-SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:aa0b29a3-bbfa-4eb5-9578-eea0596ec7aa@aa0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231107T164500Z
-LOCATION:3-403
-DTSTART:20231107T151500Z
-SUMMARY:ЛР Дискретный анализ
-UID:c57fe386-e5b1-4131-b548-4891524893f6@c57f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20230912T164500Z
-LOCATION:3-403
-DTSTART:20230912T151500Z
-SUMMARY:ЛР Дискретный анализ
-UID:50a770bd-6600-46f0-be06-5e42c784a650@50a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231201T150000Z
-LOCATION:3-413а
-DTSTART:20231201T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:7db1ca3c-dd9e-4112-b9dd-97d6f286cfb2@7db1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231202T073000Z
-LOCATION:ГУК А-620
-DTSTART:20231202T060000Z
-SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:2e35818c-a912-4b4d-bf6d-3ea629e5486f@2e35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20231127T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231127T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:84b5d242-fdae-4169-9155-79dc3c387664@84b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20230918T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20230918T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:17640837-f3ac-40ad-93f2-214e5de3fd08@1764.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230918T131500Z
-LOCATION:ГУК А-624
-DTSTART:20230918T114500Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:edc06d8d-9c14-49b8-815c-7894e8f45656@edc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231115T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231115T133000Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:9a25c1ee-6c24-4bef-ab6f-b075fdefcb04@9a25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20230929T131500Z
-LOCATION:3-413а
-DTSTART:20230929T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:0a1072af-e7c3-4b31-a4a5-5619cd940652@0a10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231021T073000Z
-LOCATION:ГУК А-620
-DTSTART:20231021T060000Z
-SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:b7f3dc15-fe85-4777-993c-d30decff0dd5@b7f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231208T150000Z
-LOCATION:3-413а
-DTSTART:20231208T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:eaba8dde-b5ab-4d88-8a13-9960a2820d0d@eaba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231013T131500Z
-LOCATION:3-413а
-DTSTART:20231013T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:54e338b2-3527-48b2-b9d5-599245630451@54e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231007T073000Z
-LOCATION:ГУК А-620
-DTSTART:20231007T060000Z
-SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:906d43e3-6679-447e-a6ac-99d3eda20210@906d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231114T150000Z
-LOCATION:3-403
-DTSTART:20231114T133000Z
-SUMMARY:ЛК Дискретный анализ
-UID:83e5a02b-d749-4ddc-9e97-d061610df411@83e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231007T091500Z
-LOCATION:ГУК А-620
-DTSTART:20231007T074500Z
-SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:53cff2da-80b9-4c1d-b5ed-eee1bd228922@53cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231004T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231004T133000Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:c50d1cca-1516-4ec5-b8c9-e2537a2053ed@c50d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231020T131500Z
-LOCATION:3-413а
-DTSTART:20231020T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:60d50819-392b-4cfa-9e49-1e8aeead30bc@60d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20230923T073000Z
-LOCATION:ГУК А-620
-DTSTART:20230923T060000Z
-SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:4f91812f-6f15-4d29-b168-80dbf2ff4db9@4f91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20230912T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20230912T114500Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:30f458a0-b86c-4a69-8ab7-dff0f7c50003@30f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231209T073000Z
-LOCATION:ГУК А-620
-DTSTART:20231209T060000Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:5a8da2c1-a8b3-430e-a540-d00e4bb0aea5@5a8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231106T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231106T151500Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:3b395887-222c-4270-9197-d9d996b7b834@3b39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231030T131500Z
-LOCATION:ГУК А-624
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:32c2e5cc-563c-4f3b-a7cf-5b7bb96fb26d@32c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231009T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231009T151500Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:e5255700-50a9-499b-857e-8eed6e5fd009@e525.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20230929T150000Z
-LOCATION:3-413а
-DTSTART:20230929T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:045be6bf-befc-4d6e-937f-3430e295180f@045b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231024T164500Z
-LOCATION:3-403
-DTSTART:20231024T151500Z
-SUMMARY:ЛР Дискретный анализ
-UID:07d9baeb-85a3-46f9-9b8f-e8e109b35f60@07d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231122T164500Z
-LOCATION:3-435
-DTSTART:20231122T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:fd0a7a88-209b-4ba8-9a1d-f91be48d3c62@fd0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20230916T091500Z
-LOCATION:ГУК А-620
-DTSTART:20230916T074500Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:34b61840-5af7-42ff-aa37-da808642fd4b@34b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231205T164500Z
-LOCATION:3-403
-DTSTART:20231205T151500Z
-SUMMARY:ЛР Дискретный анализ
-UID:3c813345-26c7-4154-b1cc-905eef4204c2@3c81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231226T164500Z
-LOCATION:3-403
-DTSTART:20231226T151500Z
-SUMMARY:ПЗ Дискретный анализ
-UID:4aa971f2-e134-44d0-87cf-34c1b1d6f29e@4aa9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231208T131500Z
-LOCATION:3-413а
-DTSTART:20231208T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:136463f4-0413-4963-9664-d44f409e9b72@1364.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231226T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231226T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:58f892e6-d490-4a4f-b8e8-5cc7251a781d@58f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231110T150000Z
-LOCATION:3-413а
-DTSTART:20231110T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:527dd28f-3afe-4b0e-9c2e-d99479f90795@527d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231111T073000Z
-LOCATION:ГУК А-620
-DTSTART:20231111T060000Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:f316a00b-383d-47d1-bea3-4056c6bb847f@f316.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20231125T113000Z
-LOCATION:ГУК А-620
-DTSTART:20231125T100000Z
-SUMMARY:ПЗ Архитектура систем дистанционного обучения
-UID:5842ea80-5aa6-45c6-9563-da7f742641f5@5842.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231211T131500Z
-LOCATION:ГУК А-624
-DTSTART:20231211T114500Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:e653eb70-24d1-4a54-ae52-324d205c03db@e653.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20231209T113000Z
-LOCATION:ГУК А-620
-DTSTART:20231209T100000Z
-SUMMARY:ПЗ Архитектура систем дистанционного обучения
-UID:95ed21fb-a9e6-41b4-8f9d-f252cec8d13b@95ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231117T131500Z
-LOCATION:3-413а
-DTSTART:20231117T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:7e52739e-c477-49c7-bf20-91d4133f550e@7e52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20230913T164500Z
-LOCATION:3-435
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:eb573aae-62bb-4b79-b548-5eb42b87abe6@eb57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20230908T150000Z
-LOCATION:3-413а
-DTSTART:20230908T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:23fd2d2d-b9b7-405c-84b4-ae2be56a9324@23fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20230926T150000Z
-LOCATION:3-403
-DTSTART:20230926T133000Z
-SUMMARY:ЛР Дискретный анализ
-UID:4bff0743-9ec7-4f08-8a73-8bcaff92a118@4bff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231129T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231129T133000Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:337d629f-64d4-4c76-b62f-f0040300dd5e@337d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231222T131500Z
-LOCATION:3-413а
-DTSTART:20231222T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:f27f3255-aabf-4111-92bd-c0453df74293@f27f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20230916T113000Z
-LOCATION:ГУК А-620
-DTSTART:20230916T100000Z
-SUMMARY:ПЗ Архитектура систем дистанционного обучения
-UID:94f285a2-c872-4ea2-95d3-46b1c3bc4a8e@94f2.org
+UID:98a1f3c4-3974-4d68-919d-3ec9f99556c8@98a1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
@@ -1191,199 +31,79 @@ DTEND:20231121T131500Z
 LOCATION:ГУК Б-649
 DTSTART:20231121T114500Z
 SUMMARY:ПЗ Современная философия и методология науки
-UID:249959a1-2eab-4cc1-bd18-8a614a5075ad@2499.org
+UID:af980e96-d48d-4b9e-a3df-4d43626592a6@af98.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20231111T113000Z
-LOCATION:ГУК А-620
-DTSTART:20231111T100000Z
-SUMMARY:ПЗ Архитектура систем дистанционного обучения
-UID:f006cac5-4111-4c96-962f-9fed2f2658cd@f006.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231230T091500Z
-LOCATION:ГУК А-620
-DTSTART:20231230T074500Z
-SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:1463e8f9-ecbb-4677-a948-fca23c579299@1463.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231213T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231213T133000Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:56c13b0e-e7b6-4410-bbf0-994a9e67e586@56c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20230930T113000Z
-LOCATION:ГУК А-620
-DTSTART:20230930T100000Z
-SUMMARY:ПЗ Архитектура систем дистанционного обучения
-UID:e0bebab8-121e-429c-9a29-e24de46cbfab@e0be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231024T150000Z
-LOCATION:3-403
-DTSTART:20231024T133000Z
-SUMMARY:ЛР Дискретный анализ
-UID:ef8775b6-d54a-469a-b3a1-bac6ae735029@ef87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231225T164500Z
-LOCATION:ГАК-320
-DTSTART:20231225T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:06bae8c7-2133-49ed-832f-a97d28e39881@06ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231027T150000Z
-LOCATION:3-413а
-DTSTART:20231027T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:eac817d1-cf75-467a-a256-78404e759eda@eac8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231113T164500Z
-LOCATION:ГАК-320
-DTSTART:20231113T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:e56fa411-22a0-41d6-a81c-cbb8c5887f91@e56f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20230922T150000Z
-LOCATION:3-413а
-DTSTART:20230922T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:d21794fc-6d7f-4939-a196-1f93d44d9071@d217.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20230926T164500Z
-LOCATION:3-403
-DTSTART:20230926T151500Z
-SUMMARY:ЛР Дискретный анализ
-UID:00321f3b-8a45-49ba-bbc4-84298641f124@0032.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231025T150000Z
-LOCATION:3-435
-DTSTART:20231025T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:23a32a87-eafe-421a-a299-f243f85b614f@23a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20230930T091500Z
-LOCATION:ГУК А-620
-DTSTART:20230930T074500Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:e1948287-6fd9-4515-8166-14fb56d5ff5b@e194.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20230920T183000Z
-LOCATION:ГУК А-624
-DTSTART:20230920T170000Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:835329c3-b625-4a9c-ab58-ea260bb781e8@8353.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231117T150000Z
-LOCATION:3-413а
-DTSTART:20231117T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:1b18c75a-36bb-4fcf-a117-7821d78caa16@1b18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231020T150000Z
-LOCATION:3-413а
-DTSTART:20231020T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:eeeb4d85-0342-4e2f-a951-4683001ace3e@eeeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231018T150000Z
-LOCATION:ГУК А-624
-DTSTART:20231018T133000Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:32fb2643-881a-4d10-a35e-008d5bb219ca@32fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231205T150000Z
-LOCATION:3-403
-DTSTART:20231205T133000Z
-SUMMARY:ЛР Дискретный анализ
-UID:083ff53d-c11b-4e77-9bb3-397b13a77136@083f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231016T131500Z
-LOCATION:ГУК А-624
-DTSTART:20231016T114500Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:f6602fc6-c97d-4184-9911-8f2b949f49e4@f660.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231125T073000Z
-LOCATION:ГУК А-620
-DTSTART:20231125T060000Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:b3e01979-c220-43da-b66b-01c3c5e10e2a@b3e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20230905T164500Z
-LOCATION:3-403
-DTSTART:20230905T151500Z
-SUMMARY:ПЗ Дискретный анализ
-UID:a00c1236-e23d-4262-872e-13a1976326e1@a00c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20230927T164500Z
-LOCATION:3-435
-DTSTART:20230927T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:00a61a9d-33c6-40e7-80c0-80b7df5453d0@00a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231121T164500Z
-LOCATION:3-403
-DTSTART:20231121T151500Z
-SUMMARY:ЛР Дискретный анализ
-UID:4c067584-08f0-4709-a37a-b47874c5f79c@4c06.org
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20230912T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20230912T114500Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:a425e2d2-09e4-4300-9f21-2af7a21837f1@a425.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Косенко Иван Иванович
-DTEND:20231002T150000Z
+DTEND:20231127T150000Z
 LOCATION:ГУК Б-444
-DTSTART:20231002T133000Z
+DTSTART:20231127T133000Z
 SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:ac60ebe6-c894-46a4-b071-454bfa9e3862@ac60.org
+UID:2ebd62bc-e8f2-435c-b7f5-eaa47133071e@2ebd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20230913T150000Z
-LOCATION:3-435
-DTSTART:20230913T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:d8afff16-f19d-4959-8d44-cd6aa19cdca1@d8af.org
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231225T131500Z
+LOCATION:ГУК А-624
+DTSTART:20231225T114500Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:fa089a77-1fe8-4f55-9e0f-5baa9d1f90a2@fa08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231115T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231115T170000Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:317c639f-1eff-42d1-aeec-49e469427eb4@317c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20230919T150000Z
+LOCATION:3-403
+DTSTART:20230919T133000Z
+SUMMARY:ЛК Дискретный анализ
+UID:61588bd2-3320-4a22-a150-cbf90cbb728b@6158.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231215T131500Z
+LOCATION:3-413а
+DTSTART:20231215T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:b84d0191-5f57-467e-b0dd-3594c72bf88f@b84d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231118T091500Z
+LOCATION:ГУК А-620
+DTSTART:20231118T074500Z
+SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:790d2804-f382-4164-b51a-7b9918352cc0@790d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231114T150000Z
+LOCATION:3-403
+DTSTART:20231114T133000Z
+SUMMARY:ЛК Дискретный анализ
+UID:fb2c0a43-8025-4b58-b9ff-c047355f5f6c@fb2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231020T131500Z
+LOCATION:3-413а
+DTSTART:20231020T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:5fd6b8bc-e847-4e05-893d-844e6825892c@5fd6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
@@ -1391,63 +111,127 @@ DTEND:20230915T150000Z
 LOCATION:3-413а
 DTSTART:20230915T133000Z
 SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:a8494a27-11b0-4aa5-8490-f1437082da3b@a849.org
+UID:a875405b-db66-448e-9a0f-0b088c48f8b5@a875.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231124T150000Z
+DTEND:20230901T150000Z
 LOCATION:3-413а
-DTSTART:20231124T133000Z
+DTSTART:20230901T133000Z
 SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:d719ee07-6453-4acf-9ec2-ac0663ec1fb2@d719.org
+UID:ae437348-0ed0-4607-a038-475f49de8734@ae43.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231101T164500Z
-LOCATION:ГУК А-624
-DTSTART:20231101T151500Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:940de10f-ce9c-4cc5-b69d-059b5d51ae27@940d.org
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20231211T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:16ba15ed-3344-49d9-a528-fe72d01e59ae@16ba.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20231013T150000Z
-LOCATION:3-413а
-DTSTART:20231013T133000Z
-SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
-UID:d89c65d8-4b2f-46bf-aa62-6f8c16d2445d@d89c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20230909T091500Z
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20231021T113000Z
 LOCATION:ГУК А-620
-DTSTART:20230909T074500Z
-SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:e64b460c-e04b-467e-a8df-6c523dd1cada@e64b.org
+DTSTART:20231021T100000Z
+SUMMARY:ЛК Архитектура систем дистанционного обучения
+UID:04bddacf-b58d-4e6a-bc89-025f619ae33b@04bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рассказова Варвара Андреевна
-DTEND:20231003T150000Z
+DTEND:20231017T150000Z
 LOCATION:3-403
-DTSTART:20231003T133000Z
+DTSTART:20231017T133000Z
 SUMMARY:ЛК Дискретный анализ
-UID:2e90662e-d252-45a5-b910-c7f7229a37b6@2e90.org
+UID:32db1d17-b0b6-43ab-9473-ecfb18514743@32db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20230923T073000Z
+LOCATION:ГУК А-620
+DTSTART:20230923T060000Z
+SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:8c4ab6d6-4269-42fd-85e9-3f62436440fe@8c4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20231014T113000Z
+LOCATION:ГУК А-620
+DTSTART:20231014T100000Z
+SUMMARY:ПЗ Архитектура систем дистанционного обучения
+UID:00d28516-0d9b-40cb-9677-49ea708658dc@00d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231125T073000Z
+LOCATION:ГУК А-620
+DTSTART:20231125T060000Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:dd4a7a68-6a28-4b8f-8863-0b028f5fc64e@dd4a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231206T150000Z
+DTEND:20231122T164500Z
 LOCATION:3-435
-DTSTART:20231206T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:d3a496d9-a566-48ad-b13b-d3ac4d7f12a6@d3a4.org
+DTSTART:20231122T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:630f2026-bf9b-411a-b68c-0e4ae5f6e034@630f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231108T150000Z
-LOCATION:3-435
-DTSTART:20231108T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:1d18af3e-87cb-44de-b6fd-df47d47aeba5@1d18.org
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231211T164500Z
+LOCATION:ГАК-320
+DTSTART:20231211T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:015443e7-a6dd-4b71-8336-600db9c3e81f@0154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231024T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231024T114500Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:f58b1041-28fb-4e96-af48-e1c0e6d42a90@f58b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20231118T113000Z
+LOCATION:ГУК А-620
+DTSTART:20231118T100000Z
+SUMMARY:ЛК Архитектура систем дистанционного обучения
+UID:6836b739-80d9-4815-a74f-c82d5af5e345@6836.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20230922T150000Z
+LOCATION:3-413а
+DTSTART:20230922T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:aee18b4b-d2c7-4492-a5fc-0721858fdc92@aee1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231124T131500Z
+LOCATION:3-413а
+DTSTART:20231124T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:95bdcb29-5f33-4247-b2e0-428a4b472d0a@95bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20230926T150000Z
+LOCATION:3-403
+DTSTART:20230926T133000Z
+SUMMARY:ЛР Дискретный анализ
+UID:adfe3baf-ca2a-416b-ae8d-2c5ce0db5521@adfe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231030T131500Z
+LOCATION:ГУК А-624
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:fe1011d3-8a62-4d6c-b7d3-ba35938ad5e8@fe10.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Цвык Ирина Вячеславовна
@@ -1455,71 +239,31 @@ DTEND:20231212T131500Z
 LOCATION:ГУК Б-649
 DTSTART:20231212T114500Z
 SUMMARY:ЛК Современная философия и методология науки
-UID:e90e7421-6783-4f9d-aa1b-1304b0c7cd87@e90e.org
+UID:84c5cace-394d-43c2-9fed-62135298216f@84c5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мхитарян Георгий Араикович
-DTEND:20230923T113000Z
-LOCATION:ГУК А-620
-DTSTART:20230923T100000Z
-SUMMARY:ЛК Архитектура систем дистанционного обучения
-UID:0c85a995-0e42-4ad5-9ae2-38d971572d29@0c85.org
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231128T150000Z
+LOCATION:3-403
+DTSTART:20231128T133000Z
+SUMMARY:ЛК Дискретный анализ
+UID:4e0cf073-16ef-4ae5-89c9-a8eeba0aa16e@4e0c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20230901T131500Z
-LOCATION:3-413а
-DTSTART:20230901T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:be5c7416-0041-4792-8b9f-2087918235e7@be5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Битюков Юрий Иванович
-DTEND:20230922T131500Z
-LOCATION:3-413а
-DTSTART:20230922T114500Z
-SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
-UID:599ac53d-cfcb-4612-af7c-b65f37ed566b@599a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лебедев Максим Витальевич
-DTEND:20231111T091500Z
-LOCATION:ГУК А-620
-DTSTART:20231111T074500Z
-SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
-UID:0d1ae7c2-a416-4eac-a3a0-91308ed51e68@0d1a.org
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231219T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231219T114500Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:eebb635d-2a35-457c-8fd4-de5a17a0f4e2@eebb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231108T164500Z
+DTEND:20230913T164500Z
 LOCATION:3-435
-DTSTART:20231108T151500Z
+DTSTART:20230913T151500Z
 SUMMARY:ЛК Психология и педагогика
-UID:c92b8f71-8f15-48c5-8012-160f5860bce0@c92b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231011T150000Z
-LOCATION:3-435
-DTSTART:20231011T133000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:023e2dbf-b0d3-4100-b2e4-f9bb261ee6e1@023e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20230904T164500Z
-LOCATION:ГАК-320
-DTSTART:20230904T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:4db5cbe5-d793-4bc7-bce8-404e9da1e494@4db5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сухов Егор Аркадьевич
-DTEND:20231018T183000Z
-LOCATION:ГУК А-624
-DTSTART:20231018T170000Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:01aa64aa-2521-4141-bac8-ab4494961162@01aa.org
+UID:69db82cd-1b99-43f8-8925-448ad6688167@69db.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Косенко Иван Иванович
@@ -1527,7 +271,319 @@ DTEND:20231030T150000Z
 LOCATION:ГУК Б-444
 DTSTART:20231030T133000Z
 SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:5923f163-fc04-4ca5-853d-390c4d3a39df@5923.org
+UID:2894dbab-3ecd-4d10-8869-4d54da371cf7@2894.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231110T131500Z
+LOCATION:3-413а
+DTSTART:20231110T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:d1ecf633-c412-4daa-b2d3-b2fe785841fe@d1ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231222T150000Z
+LOCATION:3-413а
+DTSTART:20231222T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:afac340c-abfc-497d-95c9-f050e98623da@afac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231004T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231004T133000Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:49e9eb50-a6cf-403a-b39b-d7b4616945c3@49e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20230918T164500Z
+LOCATION:ГАК-320
+DTSTART:20230918T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:8ca4d02f-9ced-462d-8424-0c18c0edcc75@8ca4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231101T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231101T133000Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:6bd69a9b-8c11-4a71-9694-6d30afc50701@6bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231101T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231101T170000Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:8dd67921-1e25-4aea-b936-370882b3720f@8dd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231215T150000Z
+LOCATION:3-413а
+DTSTART:20231215T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:723a483b-691c-4c13-b9fd-a2305b856bb7@723a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231016T131500Z
+LOCATION:ГУК А-624
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:517829ff-15d9-4bc1-b6e1-166dbec606fb@5178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231108T150000Z
+LOCATION:3-435
+DTSTART:20231108T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:8e4fadae-132a-450b-99c8-e2f87295c460@8e4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20230927T150000Z
+LOCATION:3-435
+DTSTART:20230927T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:82d21aed-6f3c-49e2-add5-d2ee18e73063@82d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231205T164500Z
+LOCATION:3-403
+DTSTART:20231205T151500Z
+SUMMARY:ЛР Дискретный анализ
+UID:fd55caac-6acf-452b-917e-88bb70a74f37@fd55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20230904T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20230904T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:b09d60ab-e96e-4962-9898-6b17ad2ecc0f@b09d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231024T150000Z
+LOCATION:3-403
+DTSTART:20231024T133000Z
+SUMMARY:ЛР Дискретный анализ
+UID:9efd6414-ef3e-40d0-bcc4-05e659aadc0d@9efd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20230901T131500Z
+LOCATION:3-413а
+DTSTART:20230901T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:a675b3c5-15a5-4e52-89fe-28242248f4db@a675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20230905T150000Z
+LOCATION:3-403
+DTSTART:20230905T133000Z
+SUMMARY:ЛК Дискретный анализ
+UID:a0a057e0-14e5-44b7-a605-8b3c5380954d@a0a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20231016T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:eeedb1a4-583d-4693-b493-ae0567bc4c4c@eeed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231103T131500Z
+LOCATION:3-413а
+DTSTART:20231103T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:90f38d12-0178-4b7f-9b17-c980b889d472@90f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231025T150000Z
+LOCATION:3-435
+DTSTART:20231025T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:0a1f9a13-ef97-4b6f-964b-b75c6d15b1c1@0a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231006T150000Z
+LOCATION:3-413а
+DTSTART:20231006T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:931249de-141c-40b6-bee1-2ec2ff7131af@9312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231226T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231226T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:ed65ab13-da24-4fa0-a4e9-629db131fae0@ed65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20230926T164500Z
+LOCATION:3-403
+DTSTART:20230926T151500Z
+SUMMARY:ЛР Дискретный анализ
+UID:a44e7b1f-a389-4fde-922b-29bf6c1e092f@a44e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20230923T091500Z
+LOCATION:ГУК А-620
+DTSTART:20230923T074500Z
+SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:247cb0f4-25f1-4bb7-a628-7d5aec0e1cb8@247c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231028T091500Z
+LOCATION:ГУК А-620
+DTSTART:20231028T074500Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:acf62b85-3b01-4323-ac11-c017cd9d1ee9@acf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230918T131500Z
+LOCATION:ГУК А-624
+DTSTART:20230918T114500Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:a0fcae73-25ae-4725-b031-aa170aa5e1e5@a0fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231206T150000Z
+LOCATION:3-435
+DTSTART:20231206T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:5ba9c06b-d1e9-4671-b5ac-0d56128857f4@5ba9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231002T131500Z
+LOCATION:ГУК А-624
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:d274883e-37ad-484b-ab0d-f752f52b29fa@d274.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231226T164500Z
+LOCATION:3-403
+DTSTART:20231226T151500Z
+SUMMARY:ПЗ Дискретный анализ
+UID:3771d04e-6b9d-47c3-8ff1-146f850e46d9@3771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230911T164500Z
+LOCATION:ГУК А-624
+DTSTART:20230911T151500Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:f83c92e3-8090-4d25-a9d0-722cdbaef7b0@f83c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231018T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231018T151500Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:7093e482-da25-4ebf-a498-78d1c97e8e3f@7093.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231031T164500Z
+LOCATION:3-403
+DTSTART:20231031T151500Z
+SUMMARY:ПЗ Дискретный анализ
+UID:0c98f5f0-84d6-4572-be55-8ea1e15461ce@0c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231114T164500Z
+LOCATION:3-403
+DTSTART:20231114T151500Z
+SUMMARY:ПЗ Дискретный анализ
+UID:b67332bb-1fdc-4cef-b5dc-4e5c214dd424@b673.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231220T164500Z
+LOCATION:3-435
+DTSTART:20231220T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:d3851f2e-de4b-4c95-89af-1082a742c40b@d385.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231202T073000Z
+LOCATION:ГУК А-620
+DTSTART:20231202T060000Z
+SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:c5f74c3f-7d6e-48cc-8d2a-e4d968e042c0@c5f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231113T131500Z
+LOCATION:ГУК А-624
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:294790e3-6032-44e2-9836-d1770ee05884@2947.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231222T131500Z
+LOCATION:3-413а
+DTSTART:20231222T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:841be95e-0d3d-417e-9260-9835c01fd97d@841b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231020T150000Z
+LOCATION:3-413а
+DTSTART:20231020T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:ffdbce48-4735-42ed-8211-f6217a5e5d5f@ffdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231010T164500Z
+LOCATION:3-403
+DTSTART:20231010T151500Z
+SUMMARY:ЛР Дискретный анализ
+UID:e92fc927-5eae-49dd-be2f-75c45aaa4d9f@e92f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231007T073000Z
+LOCATION:ГУК А-620
+DTSTART:20231007T060000Z
+SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:52498e1b-f34c-48e3-bdf4-ed6c3e61505b@5249.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231205T150000Z
+LOCATION:3-403
+DTSTART:20231205T133000Z
+SUMMARY:ЛР Дискретный анализ
+UID:162126b4-4ba4-437f-bda5-ac4e8927a588@1621.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рассказова Варвара Андреевна
@@ -1535,6 +591,950 @@ DTEND:20231017T164500Z
 LOCATION:3-403
 DTSTART:20231017T151500Z
 SUMMARY:ПЗ Дискретный анализ
-UID:68000432-48b3-489e-8112-781b6e8614f2@6800.org
+UID:2d710c14-fe7d-4d68-bd3e-dd91071d810e@2d71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231115T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231115T133000Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:67a59345-e3ae-4719-9924-dcae16d93a38@67a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231018T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231018T170000Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:22fd7982-da28-46a4-84c8-e07d1ee78fff@22fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231208T150000Z
+LOCATION:3-413а
+DTSTART:20231208T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:325f337b-c941-435d-aa73-cff890d865ca@325f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231128T164500Z
+LOCATION:3-403
+DTSTART:20231128T151500Z
+SUMMARY:ПЗ Дискретный анализ
+UID:1a00510f-4d8a-4256-89b1-d9520000c767@1a00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230911T150000Z
+LOCATION:ГУК А-624
+DTSTART:20230911T133000Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:d6c194f9-ffae-48f4-b240-f6b1d06ea7a6@d6c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20230930T113000Z
+LOCATION:ГУК А-620
+DTSTART:20230930T100000Z
+SUMMARY:ПЗ Архитектура систем дистанционного обучения
+UID:b5dcd4e9-e4ed-4f59-89e3-f88f9ab84faf@b5dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231030T164500Z
+LOCATION:ГАК-320
+DTSTART:20231030T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:cc17bba3-57ca-4796-ab5a-3ff55e97797c@cc17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20230930T091500Z
+LOCATION:ГУК А-620
+DTSTART:20230930T074500Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:81a94c9e-dd4d-4c36-8bb7-f41c54c3af88@81a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20230905T164500Z
+LOCATION:3-403
+DTSTART:20230905T151500Z
+SUMMARY:ПЗ Дискретный анализ
+UID:af8cd7f0-f26c-48a9-8ccf-fc566de5876f@af8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231121T150000Z
+LOCATION:3-403
+DTSTART:20231121T133000Z
+SUMMARY:ЛР Дискретный анализ
+UID:7ebc057b-5874-4f72-b292-7e2ec3aac7bf@7ebc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20230920T183000Z
+LOCATION:ГУК А-624
+DTSTART:20230920T170000Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:de947305-ccdc-4d92-b514-128600d23692@de94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231124T150000Z
+LOCATION:3-413а
+DTSTART:20231124T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:37bc5f86-c363-478a-ae97-0694eac06227@37bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231009T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231009T133000Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:d0ec413f-a98f-4bc5-b52d-56827cd0e838@d0ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231027T150000Z
+LOCATION:3-413а
+DTSTART:20231027T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:9b94b34e-7a43-44f3-9a1b-dc0c784d56cb@9b94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231213T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231213T133000Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:66dffdc6-8167-4a79-a245-236a6ab2d65e@66df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231117T131500Z
+LOCATION:3-413а
+DTSTART:20231117T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:4564bb7b-a772-4bf2-81c1-1e08158a2fee@4564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231107T150000Z
+LOCATION:3-403
+DTSTART:20231107T133000Z
+SUMMARY:ЛР Дискретный анализ
+UID:0294a7b1-bdf8-4fc4-921e-892af5e4c9c5@0294.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231220T150000Z
+LOCATION:3-435
+DTSTART:20231220T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:4bc87645-e188-4e74-a8ae-32832817c71c@4bc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231101T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231101T151500Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:6dde28e2-04f0-4c6d-8e4f-4d7a281b1890@6dde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20230930T073000Z
+LOCATION:ГУК А-620
+DTSTART:20230930T060000Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:6c360600-2349-4e9c-928c-c57e6094437e@6c36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231127T164500Z
+LOCATION:ГАК-320
+DTSTART:20231127T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:cdb80a03-b4db-41f9-b111-92997e31c6ea@cdb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231003T164500Z
+LOCATION:3-403
+DTSTART:20231003T151500Z
+SUMMARY:ПЗ Дискретный анализ
+UID:0bf54f7a-1d40-41a6-bb76-ad2200479677@0bf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20230905T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:a652a174-6d77-4783-adcd-cc542ec68b01@a652.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231009T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231009T151500Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:ae74976a-be41-4b8a-baf5-84a208eb3099@ae74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231031T150000Z
+LOCATION:3-403
+DTSTART:20231031T133000Z
+SUMMARY:ЛК Дискретный анализ
+UID:ebce9d8d-3184-4c99-8c53-753f931a01e4@ebce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231021T073000Z
+LOCATION:ГУК А-620
+DTSTART:20231021T060000Z
+SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:1987bb6c-ba26-4c54-90c7-46e7f18f00b2@1987.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20230929T131500Z
+LOCATION:3-413а
+DTSTART:20230929T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:5387291e-d2d7-41c3-8b94-55c600db6302@5387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231018T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231018T133000Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:c3788c64-0021-488f-9ada-69f9c51b2749@c378.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20230913T150000Z
+LOCATION:3-435
+DTSTART:20230913T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:deec1179-640e-4f44-96fd-5993fd9942a6@deec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231212T150000Z
+LOCATION:3-403
+DTSTART:20231212T133000Z
+SUMMARY:ПЗ Дискретный анализ
+UID:03dfcb19-3803-4c9d-833f-daada83dbb19@03df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231117T150000Z
+LOCATION:3-413а
+DTSTART:20231117T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:f9c74e26-c6ea-4e89-bd1d-e3521d251ebe@f9c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231106T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231106T133000Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:978c9d75-30e9-47c0-bf2f-74527835bc11@978c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231023T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231023T151500Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:5880fc2b-0295-4062-8ecb-d43e95e11168@5880.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231110T150000Z
+LOCATION:3-413а
+DTSTART:20231110T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:90dc3671-a12e-4ff2-91b5-2d1b7e68083b@90dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20230929T150000Z
+LOCATION:3-413а
+DTSTART:20230929T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:72f97a6e-2469-4b30-8a19-f194bf62a128@72f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231201T131500Z
+LOCATION:3-413а
+DTSTART:20231201T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:58f86726-a0d5-499d-bf63-f071e8bfdffd@58f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231113T164500Z
+LOCATION:ГАК-320
+DTSTART:20231113T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:68bd68c1-e6c2-4c5a-8587-51ebf40c7a1f@68bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20230909T073000Z
+LOCATION:ГУК А-620
+DTSTART:20230909T060000Z
+SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:01fb7379-030c-417c-80e0-a9f78b448027@01fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231024T164500Z
+LOCATION:3-403
+DTSTART:20231024T151500Z
+SUMMARY:ЛР Дискретный анализ
+UID:b3ed1488-2d14-4a85-974c-b77b691edbab@b3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231107T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231107T114500Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:2cc68c6d-cb13-45c8-bab8-5a66d61165ac@2cc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20231113T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231113T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:76bd13ef-1c69-497d-bc8f-2cd4fe08817b@76bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20230926T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20230926T114500Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:6d468016-99da-4dd4-ad37-01ba52b79115@6d46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231106T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231106T151500Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:d29537a1-031f-40d1-8ba1-a18c9f671e45@d295.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231121T164500Z
+LOCATION:3-403
+DTSTART:20231121T151500Z
+SUMMARY:ЛР Дискретный анализ
+UID:4f1f79c1-2953-4856-9c1d-c73908b0edc1@4f1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20230906T150000Z
+LOCATION:ГУК А-624
+DTSTART:20230906T133000Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:b5d69a9d-9cb8-4c1f-9f16-619082c9b4ff@b5d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20230909T091500Z
+LOCATION:ГУК А-620
+DTSTART:20230909T074500Z
+SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:d2412b53-a39b-4ed0-8dd4-b37a2f8b5bdc@d241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231111T073000Z
+LOCATION:ГУК А-620
+DTSTART:20231111T060000Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:561b52cd-c355-4495-8b1b-d6ec786518c9@561b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231208T131500Z
+LOCATION:3-413а
+DTSTART:20231208T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:56bfc904-8de1-47fe-94d2-01c56083f16f@56bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231003T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231003T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:cea7b803-fe6a-4c9d-b616-2596ecdbf4e8@cea7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231014T073000Z
+LOCATION:ГУК А-620
+DTSTART:20231014T060000Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:3aa034d0-a6f6-416a-87e3-c772d189d255@3aa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231031T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:dda8ce3c-eebd-4afe-9ef7-65df9063a3bb@dda8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231128T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:4c990456-e213-42a7-8d8c-d638bcf20d79@4c99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20231111T113000Z
+LOCATION:ГУК А-620
+DTSTART:20231111T100000Z
+SUMMARY:ПЗ Архитектура систем дистанционного обучения
+UID:7650056b-7c4d-43d1-bc9f-3efa1b731425@7650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20230916T091500Z
+LOCATION:ГУК А-620
+DTSTART:20230916T074500Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:feb49b3f-f99e-494b-b72b-a7cbfc047fe4@feb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231206T164500Z
+LOCATION:3-435
+DTSTART:20231206T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:469e4426-d757-4a78-a86f-208f876a5d28@469e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231209T073000Z
+LOCATION:ГУК А-620
+DTSTART:20231209T060000Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:4bf6edc7-be07-4ecf-a4a7-da9a9818afde@4bf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20231007T113000Z
+LOCATION:ГУК А-620
+DTSTART:20231007T100000Z
+SUMMARY:ЛК Архитектура систем дистанционного обучения
+UID:15c950a3-7c79-4506-ae1c-076b6eba41f4@15c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20230920T150000Z
+LOCATION:ГУК А-624
+DTSTART:20230920T133000Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:464f8869-886a-4f30-b041-a88ca5048801@464f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231202T091500Z
+LOCATION:ГУК А-620
+DTSTART:20231202T074500Z
+SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:9a27f865-7cd5-45bd-944d-64e3cb65bf23@9a27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231211T131500Z
+LOCATION:ГУК А-624
+DTSTART:20231211T114500Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:71a1324c-e617-4c21-af62-4915c44b4941@71a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231122T150000Z
+LOCATION:3-435
+DTSTART:20231122T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:e14acae0-0a15-4025-b014-31e702b34170@e14a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231025T164500Z
+LOCATION:3-435
+DTSTART:20231025T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:7c78ea2b-9819-435b-92f4-7760b2ecc4d9@7c78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231010T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231010T114500Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:5909bc0e-6045-419c-8c7c-2a733753dc73@5909.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20230916T113000Z
+LOCATION:ГУК А-620
+DTSTART:20230916T100000Z
+SUMMARY:ПЗ Архитектура систем дистанционного обучения
+UID:bca125c4-bd00-4c83-8a5e-b5f945908aa7@bca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20230908T131500Z
+LOCATION:3-413а
+DTSTART:20230908T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:9a85944c-c39a-4d8a-9702-f278db05b18e@9a85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231114T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:3560b078-47f3-4ca0-b27b-46016189a298@3560.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20230922T131500Z
+LOCATION:3-413а
+DTSTART:20230922T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:dd909f1b-4392-42b9-96b6-71ca82b1fd9f@dd90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230925T150000Z
+LOCATION:ГУК А-624
+DTSTART:20230925T133000Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:d60f902f-9b40-43b6-8148-5cbb8081d7b3@d60f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20231209T113000Z
+LOCATION:ГУК А-620
+DTSTART:20231209T100000Z
+SUMMARY:ПЗ Архитектура систем дистанционного обучения
+UID:6a1f49f5-c270-43c7-9c2d-f2b07926e674@6a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231107T164500Z
+LOCATION:3-403
+DTSTART:20231107T151500Z
+SUMMARY:ЛР Дискретный анализ
+UID:7aec4d69-a622-4189-ac4a-72330b427ec3@7aec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231003T150000Z
+LOCATION:3-403
+DTSTART:20231003T133000Z
+SUMMARY:ЛК Дискретный анализ
+UID:191e4689-6509-41b3-9db6-19c1d5755fb0@191e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20230919T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:190d4bde-88e7-4dbf-bebe-03b07c746f88@190d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231027T131500Z
+LOCATION:3-413а
+DTSTART:20231027T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:0b748748-a8b7-4bcb-a881-751d5ffd2c3b@0b74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20230912T164500Z
+LOCATION:3-403
+DTSTART:20230912T151500Z
+SUMMARY:ЛР Дискретный анализ
+UID:774f2271-d43d-46cf-96aa-b9bb3f89aa4f@774f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20231028T113000Z
+LOCATION:ГУК А-620
+DTSTART:20231028T100000Z
+SUMMARY:ПЗ Архитектура систем дистанционного обучения
+UID:7bb83add-a655-4b11-b10b-298e7e5617d5@7bb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231230T091500Z
+LOCATION:ГУК А-620
+DTSTART:20231230T074500Z
+SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:d53f721d-ebe0-48b3-8c49-79c646b7301b@d53f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231021T091500Z
+LOCATION:ГУК А-620
+DTSTART:20231021T074500Z
+SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:e04031b3-4d5e-42d9-bc87-39d37ed81ee8@e040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231016T164500Z
+LOCATION:ГАК-320
+DTSTART:20231016T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:3d0b6c39-af27-426b-80ec-cf7e28d23f02@3d0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20230908T150000Z
+LOCATION:3-413а
+DTSTART:20230908T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:2611901e-f151-46ab-84c4-b93ee951873c@2611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231004T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231004T151500Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:91af6e5b-9dc1-4c8d-93bd-17b641f1d840@91af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231225T164500Z
+LOCATION:ГАК-320
+DTSTART:20231225T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:84d6ddb1-e105-4bbf-8ef4-4d2226ed2e51@84d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20230909T113000Z
+LOCATION:ГУК А-620
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Архитектура систем дистанционного обучения
+UID:2344ee53-5d30-4353-adfe-05e04683c2be@2344.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231108T164500Z
+LOCATION:3-435
+DTSTART:20231108T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:70645002-1222-49eb-93a4-7c0f7c1d57a4@7064.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231111T091500Z
+LOCATION:ГУК А-620
+DTSTART:20231111T074500Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:760d1834-d4c4-470f-ab14-686b03634551@760d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20230912T150000Z
+LOCATION:3-403
+DTSTART:20230912T133000Z
+SUMMARY:ЛР Дискретный анализ
+UID:935ef6bf-a735-4eed-ba2d-d6b9dad65a54@935e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231007T091500Z
+LOCATION:ГУК А-620
+DTSTART:20231007T074500Z
+SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:e48a5307-0018-4dbc-80b0-7d7ffbf8e4f6@e48a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20230927T164500Z
+LOCATION:3-435
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:8b2393d9-0d46-4eb6-80c4-0538e8bcd0a7@8b23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231115T164500Z
+LOCATION:ГУК А-624
+DTSTART:20231115T151500Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:c503d381-f13e-4158-8b3b-c7fdd1e4105e@c503.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231011T164500Z
+LOCATION:3-435
+DTSTART:20231011T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:9b04b57e-ec36-4571-a221-01d24f00733b@9b04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20230904T164500Z
+LOCATION:ГАК-320
+DTSTART:20230904T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:ee91525b-00b9-4ddb-8b56-89d314463335@ee91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20231125T113000Z
+LOCATION:ГУК А-620
+DTSTART:20231125T100000Z
+SUMMARY:ПЗ Архитектура систем дистанционного обучения
+UID:623467c2-dac6-4b46-8b62-5f4b60ecfc7b@6234.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231013T131500Z
+LOCATION:3-413а
+DTSTART:20231013T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:e73b5897-85d7-42af-ac77-d1520638bdde@e73b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231127T131500Z
+LOCATION:ГУК А-624
+DTSTART:20231127T114500Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:374dd8f4-8c5d-494e-973e-c5db823482aa@374d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20230916T073000Z
+LOCATION:ГУК А-620
+DTSTART:20230916T060000Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:5d0d8566-d038-40d8-89f2-6362d23a0bfa@5d0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мхитарян Георгий Араикович
+DTEND:20230923T113000Z
+LOCATION:ГУК А-620
+DTSTART:20230923T100000Z
+SUMMARY:ЛК Архитектура систем дистанционного обучения
+UID:6afd9f75-f56d-4e5f-80c4-41ed8332b496@6afd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231013T150000Z
+LOCATION:3-413а
+DTSTART:20231013T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:d3f6dfab-0770-48dc-861b-be144032ae3e@d3f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231023T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231023T133000Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:4c720dd1-763d-4e02-ac0d-4dd53d865101@4c72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231209T091500Z
+LOCATION:ГУК А-620
+DTSTART:20231209T074500Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:5f0e3105-5428-4c6a-93e1-cfe0a98b83d1@5f0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230904T131500Z
+LOCATION:ГУК А-624
+DTSTART:20230904T114500Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:8f505d04-8543-4c91-9573-80a3a931655d@8f50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20231002T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:b523ebf6-6626-4d6a-80e5-603c64f1b879@b523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231216T073000Z
+LOCATION:ГУК А-620
+DTSTART:20231216T060000Z
+SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:207177e8-529c-43bf-b09b-33947600e51d@2071.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20231212T164500Z
+LOCATION:3-403
+DTSTART:20231212T151500Z
+SUMMARY:ПЗ Дискретный анализ
+UID:08cec383-5bb3-4ead-b9dc-7e49db32cc2f@08ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231201T150000Z
+LOCATION:3-413а
+DTSTART:20231201T133000Z
+SUMMARY:ПЗ Методы и алгоритмы компьютерного зрения
+UID:1d191b64-f938-43c2-a910-67a70976401d@1d19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20231006T131500Z
+LOCATION:3-413а
+DTSTART:20231006T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:41dd83ae-cb1d-436b-bd06-10e22013d846@41dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231129T150000Z
+LOCATION:ГУК А-624
+DTSTART:20231129T133000Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:9d85434c-19a6-472e-8e2a-f3f192b31c8c@9d85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231011T150000Z
+LOCATION:3-435
+DTSTART:20231011T133000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:922372eb-244e-41a2-930d-fd07f8901580@9223.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20230918T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:ff052d9b-1086-4d17-9b1e-7bc0820cfe3e@ff05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231002T164500Z
+LOCATION:ГАК-320
+DTSTART:20231002T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:0ce82953-4b95-444a-b041-034266efc079@0ce8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231205T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231205T114500Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:5a4db754-c650-471d-bf9c-b64bbe2856d8@5a4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230925T164500Z
+LOCATION:ГУК А-624
+DTSTART:20230925T151500Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:6b50e33d-cd9d-4918-9df3-fddd20efc27d@6b50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231118T073000Z
+LOCATION:ГУК А-620
+DTSTART:20231118T060000Z
+SUMMARY:ЛК Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:73483969-c7b3-4b10-8e07-2bb46d1c875f@7348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231125T091500Z
+LOCATION:ГУК А-620
+DTSTART:20231125T074500Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:36cd8869-b191-4dca-975c-29427421a830@36cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Битюков Юрий Иванович
+DTEND:20230915T131500Z
+LOCATION:3-413а
+DTSTART:20230915T114500Z
+SUMMARY:ЛК Методы и алгоритмы компьютерного зрения
+UID:e2a0cbd3-6d02-4288-9cc9-feebf7b87cff@e2a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231014T091500Z
+LOCATION:ГУК А-620
+DTSTART:20231014T074500Z
+SUMMARY:ЛР Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:918e1ce9-a83a-46b2-a13c-0163ed8544e3@918e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231017T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:745a36f3-179f-4349-bb41-fcd3eadf0fa9@745a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рассказова Варвара Андреевна
+DTEND:20230919T164500Z
+LOCATION:3-403
+DTSTART:20230919T151500Z
+SUMMARY:ПЗ Дискретный анализ
+UID:7a5cb06e-c910-4c29-bbdf-1be78e6e7ef5@7a5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сухов Егор Аркадьевич
+DTEND:20231004T183000Z
+LOCATION:ГУК А-624
+DTSTART:20231004T170000Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:460db50c-6057-4c54-a22a-6aa03e9a2322@460d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231216T091500Z
+LOCATION:ГУК А-620
+DTSTART:20231216T074500Z
+SUMMARY:ПЗ Методы машинного обучения в задачах обработки данных и прогнозирования
+UID:8c89bc3f-8687-4356-b0b2-e4c6eee2665e@8c89.org
 END:VEVENT
 END:VCALENDAR

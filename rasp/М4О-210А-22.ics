@@ -2,369 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:736a0c11-0d89-43b2-aa21-655e7df5f423@736a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231123T164500Z
-LOCATION:24Б-507
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:ee518ae6-b9e9-4458-9822-78d697e53871@ee51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231121T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231121T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:215a8435-634c-44e6-99ad-4b33013ff033@215a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231109T164500Z
-LOCATION:24Б-507
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:3adbaac7-dc2e-4b4d-901a-76a4bca12c01@3adb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231116T164500Z
-LOCATION:24Б-507
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:3fdbc957-b1d1-4af0-9cb1-2cb01fd1d818@3fdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231130T150000Z
-LOCATION:24Б-507
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:c305f2f1-b2e7-4aff-b1b8-adc373d7834d@c305.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:803327f9-3d0f-47c2-94b7-e3607c911f81@8033.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231102T164500Z
-LOCATION:24Б-507
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:466f88d5-cc9f-48f9-9499-64533da972f3@466f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230907T164500Z
-LOCATION:24Б-507
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:f49aed51-f417-43c8-89bc-b327c920a1ba@f49a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231102T150000Z
-LOCATION:24Б-507
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:a29a5163-cc95-43f7-b93c-2b0c19d11cf2@a29a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:84a71cfc-e5f0-4641-9a2d-7609b39b7d94@84a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:91a67f00-d866-42ef-a668-402657cfdd87@91a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230921T164500Z
-LOCATION:24Б-507
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:8daba239-9211-4b5d-9f4f-8e1772553954@8dab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230921T150000Z
-LOCATION:24Б-507
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:af33ddc5-5a19-4ea6-b8fd-6271f73b0c6a@af33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:5863549b-1608-4e88-87c5-24a93ea67461@5863.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a64ab9db-7259-474a-a617-4dbe9a184043@a64a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Бородин Вячеслав Васильевич
 DTEND:20230928T164500Z
 LOCATION:24Б-507
 DTSTART:20230928T151500Z
 SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:f833225d-af37-46c1-ae19-8ffd0535f22e@f833.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:145bf2d5-0b8e-48cb-8260-d81957387d6b@145b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230914T150000Z
-LOCATION:24Б-507
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:d91b07fa-18cc-4fcd-92dd-79a4155cd367@d91b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f0dadece-a213-47c0-b2aa-3df11d8ae509@f0da.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d80ac825-1977-4d2c-9693-3e3839d72517@d80a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:12a87f67-9e96-44c7-be27-41d54223efb1@12a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:7e12b878-e0ec-440c-92a8-ea84e28c55e1@7e12.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3cabae29-04a3-469e-acf1-fe1ef8c86372@3cab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231214T150000Z
-LOCATION:24Б-507
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:f7fcaebd-72e0-49ba-aa32-648dfaed3647@f7fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231109T150000Z
-LOCATION:24Б-507
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:60345443-c15a-4f98-9236-d9552c6ffc9c@6034.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231005T150000Z
-LOCATION:24Б-507
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:f70394c9-7e45-4acb-8912-f850a5096ea3@f703.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:786fdbbf-f8b4-4ba3-a289-292fe54333c8@786f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231207T150000Z
-LOCATION:24Б-507
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:dca6bde7-b2a6-48bd-947b-7bdc9dc7c4dd@dca6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:87932e4a-d744-44b3-bf2b-abe06811c0ff@8793.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231019T164500Z
-LOCATION:24Б-507
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:f9aaaa9a-cbf7-4312-a057-20db0d090f5b@f9aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:aaa3139d-ef3c-46c4-9140-d6cbdb9897bd@aaa3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a62e994f-3fca-48dc-a09b-8d6ae9c1af4b@a62e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231121T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231121T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:0ca64fd2-a326-4758-aabf-4cabd5b8cec4@0ca6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:f332dbd3-ba52-4902-a843-7c718ba14193@f332.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:79a6e3a1-e020-43be-ac54-5f032f821760@79a6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:fb9adf84-3e2f-4b47-994e-2a1c41299699@fb9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3dcfcc6b-6db4-41b3-a44d-c0ad03c23ffe@3dcf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:544e6a58-d22a-4a5c-a114-e570bf551f25@544e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231107T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:03aa9241-d13e-46d7-bb81-cb81015a915f@03aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230928T150000Z
-LOCATION:24Б-507
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:494bf972-beee-4435-a3d4-104d7a66418a@494b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:720d361f-893b-4e89-a745-5f5bb4389117@720d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231005T164500Z
-LOCATION:24Б-507
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:24157218-161e-42d5-983e-0bc1b0596fd7@2415.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231012T164500Z
-LOCATION:24Б-507
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:8a5b90f7-e5a9-4e33-b61c-cdb64af8d341@8a5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231012T150000Z
-LOCATION:24Б-507
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:b82390bc-24a5-4c9e-a6e8-216295432460@b823.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231123T150000Z
-LOCATION:24Б-507
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:25c5a5cd-9959-436d-a9ea-b55096a598ee@25c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:410b4f9b-8e0f-4ecb-9b86-4771820a5c69@410b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231026T164500Z
-LOCATION:24Б-507
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:afa3260b-f78f-49ca-b904-dd63fe82e35e@afa3.org
+UID:7e7e3931-c79d-4359-9467-117c7558471c@7e7e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -372,31 +15,7 @@ DTEND:20230919T164500Z
 LOCATION:ГУК В-228
 DTSTART:20230919T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:f0450e75-560e-46b6-9d5b-604e013c8790@f045.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:91fa7301-0102-417f-96bd-58f97612604d@91fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231026T150000Z
-LOCATION:24Б-507
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:dae314d7-5b41-4778-91b5-3b1a46b748c5@dae3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:0f0d8724-8c59-44c6-a63f-315bbb87e9a9@0f0d.org
+UID:3945e688-c628-422f-86f5-6ca95ee0eb43@3945.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -404,15 +23,84 @@ DTEND:20231031T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231031T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:095168cf-1fff-4927-857b-78f3eb25174d@0951.org
+UID:d1ea302c-282b-478d-b35c-3ee55ad0b815@d1ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20231116T150000Z
+DTEND:20230921T164500Z
 LOCATION:24Б-507
-DTSTART:20231116T133000Z
+DTSTART:20230921T151500Z
+SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
+UID:b4cecf98-9aaf-4c2a-8a51-32dd0efb33b1@b4ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231012T150000Z
+LOCATION:24Б-507
+DTSTART:20231012T133000Z
 SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:b8566446-3b93-4018-9e79-338b9b1f0f60@b856.org
+UID:205ad3a0-968f-4094-afcd-668c81907f01@205a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230921T150000Z
+LOCATION:24Б-507
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:d256f486-4237-429c-9afd-96f1a55e0f8f@d256.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6b60b066-d5a9-4274-9981-fa1332382938@6b60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231102T150000Z
+LOCATION:24Б-507
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:15705fb8-8a93-4fb2-876e-62a7608ac9c5@1570.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e37dec4a-5462-4717-88d6-98dff386b62a@e37d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:129ed96c-8284-472a-9e29-7aa2fe63b8cc@129e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:32e4bf43-44ab-46c0-a95b-4ca9ba304392@32e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231207T150000Z
+LOCATION:24Б-507
+DTSTART:20231207T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:e9017181-519c-4b2f-b0f6-ec2df39c5159@e901.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:337ce902-3315-4756-9f7e-48d0100219b0@337c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бородин Вячеслав Васильевич
@@ -420,81 +108,66 @@ DTEND:20231019T150000Z
 LOCATION:24Б-507
 DTSTART:20231019T133000Z
 SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:ad4a31cc-ef78-4733-84a2-5b5623958d0d@ad4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230914T164500Z
-LOCATION:24Б-507
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
-UID:8337168d-af29-47ec-9d5a-a57d6392c846@8337.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3e853a1b-6199-41d8-98f3-5dbf3d1dab57@3e85.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3be22eb0-d5a0-4044-8237-1de43848d646@3be2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f65f4456-8865-4d46-938e-e1bf1e652842@f65f.org
+UID:c85ff5fb-52db-41d9-9365-679329fe8a64@c85f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231107T183000Z
+DTEND:20231107T164500Z
 LOCATION:ГУК В-228
-DTSTART:20231107T170000Z
+DTSTART:20231107T151500Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:a3382765-480e-4d1b-b0de-ad04b1115ec8@a338.org
+UID:821baa0a-12d0-41fb-a777-01f5f2bd60f7@821b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231123T164500Z
+LOCATION:24Б-507
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
+UID:71883a6e-8373-4dd7-9ec2-3d37d48788c4@7188.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231016T164500Z
 LOCATION:--каф.
 DTSTART:20231016T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8be0122c-b89f-466c-99a7-d0658c415425@8be0.org
+UID:657e49a7-d86f-4529-ac5c-aceb50e787d8@657e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:299b84cb-d63b-4bb6-867f-26477e2b7a12@299b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c26ab82a-0fe7-4c9e-9dc8-09ad84851bc0@c26a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:fded90ea-34ac-47c0-9992-1511f270c9cd@fded.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9a18f212-f689-4ca9-80c5-68f131eefd13@9a18.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бородин Вячеслав Васильевич
-DTEND:20230907T150000Z
+DTEND:20230907T164500Z
 LOCATION:24Б-507
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
-UID:aaa0d3f5-729d-436b-a8f7-971ffd9b8cc2@aaa0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T164500Z
-LOCATION:--каф.
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5c2f0666-636e-43ef-a924-1b5138754cc4@5c2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:386f2a46-4c07-4a8a-9d7a-670972c9763d@386f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:beb7f3c8-cbc1-4540-acee-92cab37a5db0@beb7.org
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
+UID:11abf4f2-d4a6-41a0-be61-322b6012b9c0@11ab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -502,6 +175,333 @@ DTEND:20231017T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231017T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:1e9701c4-70d9-49fc-b181-904f338973d7@1e97.org
+UID:c162f371-79b6-42f3-a2b0-f15b5bbf2175@c162.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:94c88557-0b70-4731-8552-a4374fe686d0@94c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b518ed5a-b602-4441-b5c5-c82e8477f24f@b518.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231123T150000Z
+LOCATION:24Б-507
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:85d44d82-217c-4aab-acf2-9bbdea235e03@85d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a1b2c586-5fc4-4b5b-a397-3108b2da0d6f@a1b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:aa03cef9-615f-4dc1-a404-d45afd2767d9@aa03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231109T164500Z
+LOCATION:24Б-507
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
+UID:52a1a3e4-d0e7-4d8c-b232-668b4f4aa430@52a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231107T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231107T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:7cb9e4db-026b-4553-8753-de13ee1b2d53@7cb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231121T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231121T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:a8aeabe8-81f7-4c7c-b613-656f27ae5776@a8ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230907T150000Z
+LOCATION:24Б-507
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:a45885c8-3359-44c3-9f56-38cc5a49d23c@a458.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231116T164500Z
+LOCATION:24Б-507
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
+UID:4b9056a3-0541-44ef-ba92-48b7e90ad496@4b90.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6221924c-5bbd-4ce4-a233-ff97c9872841@6221.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231116T150000Z
+LOCATION:24Б-507
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:cc3bdff6-8ce6-45da-a4f3-65ff7a364791@cc3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:af70fbfa-9de9-48ab-8b8c-3e55a185b682@af70.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T164500Z
+LOCATION:--каф.
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:eaad72f1-b082-479c-a5d3-261f3fd9c283@eaad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230914T150000Z
+LOCATION:24Б-507
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:eceb6227-0c72-4663-a647-4d1d9c21d97b@eceb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231026T150000Z
+LOCATION:24Б-507
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:c8445afc-5543-47ed-943d-9a570bb9ab10@c844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230928T150000Z
+LOCATION:24Б-507
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:41c2ba96-ccb8-40f1-9527-ecacc6bcfbf2@41c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1970b784-1976-472b-b3e3-add31d6768aa@1970.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231109T150000Z
+LOCATION:24Б-507
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:ac4d036a-a733-4a64-b326-845e15a19056@ac4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:4e4af245-1c4b-434a-a485-7cc432d462bd@4e4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231005T150000Z
+LOCATION:24Б-507
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:7b8dfa20-8273-49f9-903f-0b394bcc178d@7b8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231026T164500Z
+LOCATION:24Б-507
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
+UID:ba8923b0-6ffe-4487-864c-f420d690496f@ba89.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1ab201a4-cbed-4d11-baef-5acc15708512@1ab2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:dc1a754f-561a-4332-afc1-73563b7afed3@dc1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0326d261-3299-422b-bd1a-a4d42b1154a2@0326.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:95e2a8bf-8410-4787-996c-0c4ec5c8544a@95e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:4526abf1-5cde-407d-b78c-2a7bab877fd5@4526.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9f78a842-4bca-430a-9cf0-94b1456e292e@9f78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20230914T164500Z
+LOCATION:24Б-507
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
+UID:fbe1aefb-20db-461b-a6a9-324adc586100@fbe1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:ffdea5f8-8abd-4df7-b2a8-7da72ff2100a@ffde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231102T164500Z
+LOCATION:24Б-507
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
+UID:c68d538e-877f-4b4f-9183-ab1935d24b66@c68d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:c77f5b7e-80f7-4581-ad96-af49ee83519e@c77f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231121T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231121T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:19846ad2-12a3-4bc5-b740-f795c9f45a16@1984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:3097bf94-9bfd-496c-8b38-002fcfeb8a47@3097.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231214T150000Z
+LOCATION:24Б-507
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:e98c0af0-b144-4c29-b26a-f3523b6acae4@e98c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d43ec0f8-d029-4e7f-9344-97affcfa7e29@d43e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231012T164500Z
+LOCATION:24Б-507
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
+UID:2e5626cd-f4a8-4822-94c6-fd11aa9a687d@2e56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231019T164500Z
+LOCATION:24Б-507
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
+UID:5427e9c5-1424-4c42-837d-29e5feee53fb@5427.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0aafedf0-8cc5-4c80-9b24-084b1e123ee2@0aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:b2d98442-7050-469a-b29e-0d7eba6d526c@b2d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231130T150000Z
+LOCATION:24Б-507
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Маршрутизация в адаптивных сетях передачи данных
+UID:8b97b6e0-fcab-4043-9bfe-01bcd9da92e0@8b97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бородин Вячеслав Васильевич
+DTEND:20231005T164500Z
+LOCATION:24Б-507
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Маршрутизация в адаптивных сетях передачи данных
+UID:d3f5b026-6de8-4432-906c-e61168be7560@d3f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:dc588762-6581-4b5d-a860-bbd895a5e270@dc58.org
 END:VEVENT
 END:VCALENDAR

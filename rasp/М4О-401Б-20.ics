@@ -2,1341 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20230929T113000Z
-LOCATION:5-107А
-DTSTART:20230929T100000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:6239221c-f013-4f4b-9e83-5b8795529a57@6239.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T073000Z
-LOCATION:--каф.
-DTSTART:20230914T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3baa03a7-102c-4957-a521-bba5c527927b@3baa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20230919T113000Z
-LOCATION:24Б-621
-DTSTART:20230919T100000Z
-SUMMARY:ПЗ Устройства генерации колебаний
-UID:55dcee58-b8e9-41de-81fa-7da0ddacad4b@55dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T113000Z
-LOCATION:--каф.
-DTSTART:20230907T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9b421e0b-f52e-4df2-869a-df323382302a@9b42.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T091500Z
-LOCATION:--каф.
-DTSTART:20231130T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:3505b126-524a-4be6-95a1-f30816956457@3505.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20230913T091500Z
-LOCATION:5-401
-DTSTART:20230913T074500Z
-SUMMARY:ЛК Основы менеджмента
-UID:12478df9-0945-4256-9a57-c3ab887e07e5@1247.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T073000Z
-LOCATION:--каф.
-DTSTART:20231228T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:39ec6f3c-f7de-405e-88c0-96fc1a67884f@39ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230923T091500Z
-LOCATION:24Б-422
-DTSTART:20230923T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:2ec1ca2a-a3de-494c-a8e3-ab24724d9c13@2ec1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231004T073000Z
+DTEND:20231018T073000Z
 LOCATION:24Б-411
-DTSTART:20231004T060000Z
+DTSTART:20231018T060000Z
 SUMMARY:ЛК Инноватика и патентоведение
-UID:4e7af4f3-f43a-488a-93a4-885d9fb66048@4e7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231018T113000Z
-LOCATION:24Б-420
-DTSTART:20231018T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:01314a03-4a1c-45f6-82dd-1aec08ae5783@0131.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231202T113000Z
-LOCATION:24Б-425
-DTSTART:20231202T100000Z
-SUMMARY:ЛР Технология производства электронных средств
-UID:8d381b07-14c8-4e00-af6b-7891e2ecf768@8d38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231027T113000Z
-LOCATION:5-107А
-DTSTART:20231027T100000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:ffcd2827-4119-4337-8af2-c18c90fa527b@ffcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231021T091500Z
-LOCATION:24Б-422
-DTSTART:20231021T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:3a443e5b-4b9c-4f2e-a164-f0f63e1f7792@3a44.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T113000Z
-LOCATION:--каф.
-DTSTART:20231005T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:0bf329d6-3aa1-4f9b-884d-e6943d85a63c@0bf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230902T091500Z
-LOCATION:24Б-422
-DTSTART:20230902T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:82af080a-ceb8-4f54-9df1-867c7ac98af9@82af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231110T091500Z
-LOCATION:24Б-424
-DTSTART:20231110T074500Z
-SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:4e245939-af85-41cd-92ca-145fb79d63e3@4e24.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T113000Z
-LOCATION:--каф.
-DTSTART:20231214T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2f8e972c-16e2-4f19-809c-aaed022fcbd3@2f8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20230927T131500Z
-LOCATION:24Б-420
-DTSTART:20230927T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:13c5ee99-8bd4-4247-9c4a-c5697f2683d1@13c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231025T131500Z
-LOCATION:24Б-420
-DTSTART:20231025T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:bbfe7781-fbdb-40f0-8720-caa6962bfe51@bbfe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T113000Z
-LOCATION:--каф.
-DTSTART:20231026T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:5d8005c3-b5d6-47a3-868a-043a0daa7a23@5d80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васильева Татьяна Юрьевна
-DTEND:20231117T091500Z
-LOCATION:24Б-425
-DTSTART:20231117T074500Z
-SUMMARY:ЛР Основы конструирования электронных средств
-UID:e89d3f75-029c-446a-9716-72717b262672@e89d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231003T091500Z
-LOCATION:24Б-424
-DTSTART:20231003T074500Z
-SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:35f3c87b-c7a9-4462-b2b0-c209139018fc@35f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231106T113000Z
-LOCATION:24Б-624
-DTSTART:20231106T100000Z
-SUMMARY:ПЗ Проектирование СВЧ устройств
-UID:37407584-2131-4e4c-af75-dc23502c2e69@3740.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щербачев Андрей Юрьевич
-DTEND:20231128T113000Z
-LOCATION:24Б-625
-DTSTART:20231128T100000Z
-SUMMARY:ЛР Устройства генерации колебаний
-UID:55914c80-38c3-426c-a1a5-801e1b640a53@5591.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T073000Z
-LOCATION:--каф.
-DTSTART:20231221T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c2aa4e55-15e9-4c68-a9f3-25897c3575ed@c2aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20230918T091500Z
-LOCATION:24Б-517
-DTSTART:20230918T074500Z
-SUMMARY:ЛК Основы локационных и навигационных систем
-UID:02e4e45c-4968-4027-930e-a5a448a3b57b@02e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231223T113000Z
-LOCATION:24Б-420
-DTSTART:20231223T100000Z
-SUMMARY:ПЗ Технология производства электронных средств
-UID:6069298d-2601-4559-8667-10a6c006c8eb@6069.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T113000Z
-LOCATION:--каф.
-DTSTART:20231102T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:af69efd4-132c-4d13-9598-469d13035cde@af69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231002T131500Z
-LOCATION:24Б-624
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:d9cd5479-b8ee-4f88-9956-ff741b7a8c49@d9cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20230904T091500Z
-LOCATION:24Б-517
-DTSTART:20230904T074500Z
-SUMMARY:ЛК Основы локационных и навигационных систем
-UID:6f756e1c-fdab-4242-9185-db87f8e16d9f@6f75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20231010T091500Z
-LOCATION:24Б-621
-DTSTART:20231010T074500Z
-SUMMARY:ЛК Устройства генерации колебаний
-UID:4f52d96d-a629-45c1-8be0-3248098acd76@4f52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231011T091500Z
-LOCATION:5-401
-DTSTART:20231011T074500Z
-SUMMARY:ЛК Основы менеджмента
-UID:c29bb88e-85f7-44db-b282-fb0580c0c76a@c29b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20231024T091500Z
-LOCATION:24Б-621
-DTSTART:20231024T074500Z
-SUMMARY:ЛК Устройства генерации колебаний
-UID:1e47d12f-94e0-4470-a8ce-b398209e87f7@1e47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щербачев Андрей Юрьевич
-DTEND:20231212T113000Z
-LOCATION:24Б-625
-DTSTART:20231212T100000Z
-SUMMARY:ЛР Устройства генерации колебаний
-UID:a65b077c-a11e-4ff0-8d4f-2a0ea2409972@a65b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20230916T131500Z
-LOCATION:24Б-420
-DTSTART:20230916T114500Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:2f25dd0b-462d-4ce6-9118-c0f42ae0f505@2f25.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T091500Z
-LOCATION:--каф.
-DTSTART:20231026T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:cf8a1201-34ca-4aba-9d7e-4c884461fa91@cf8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231202T091500Z
-LOCATION:24Б-422
-DTSTART:20231202T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:5efea26b-121a-4842-8743-8f5b5358d393@5efe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T091500Z
-LOCATION:--каф.
-DTSTART:20231019T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e6f21efe-980b-4bc3-be5b-3121692e6c49@e6f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20230920T073000Z
-LOCATION:24Б-411
-DTSTART:20230920T060000Z
-SUMMARY:ЛК Инноватика и патентоведение
-UID:946040bb-7c48-44e5-bd33-eb1b2d59a859@9460.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231018T091500Z
-LOCATION:24Б-411
-DTSTART:20231018T074500Z
-SUMMARY:ПЗ Инноватика и патентоведение
-UID:000d2c2f-1139-4cfe-be8d-034f1de02f1b@000d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T113000Z
-LOCATION:--каф.
-DTSTART:20231109T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:42ed5805-dc9f-486e-b42c-b7eeaeb715f5@42ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20230915T091500Z
-LOCATION:24Б-424
-DTSTART:20230915T074500Z
-SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:68182bed-b346-40be-a057-e726451cb7cd@6818.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231118T091500Z
-LOCATION:24Б-422
-DTSTART:20231118T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:91d8438c-e80e-4511-b2d4-4209440039df@91d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20230926T073000Z
-LOCATION:24Б-621
-DTSTART:20230926T060000Z
-SUMMARY:ЛК Устройства генерации колебаний
-UID:0909cd4b-b48e-4e8c-984c-bbd92a1bf077@0909.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T091500Z
-LOCATION:--каф.
-DTSTART:20231207T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8bdade98-cc36-45e6-bf46-b51a97a42033@8bda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231204T113000Z
-LOCATION:24Б-624
-DTSTART:20231204T100000Z
-SUMMARY:ПЗ Проектирование СВЧ устройств
-UID:7e76245f-e4f4-4af5-b39c-01451581e94e@7e76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20231031T131500Z
-LOCATION:24Б-621
-DTSTART:20231031T114500Z
-SUMMARY:ПЗ Устройства генерации колебаний
-UID:8e59ec8c-d2e4-4ca6-855f-fdb43592d22a@8e59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231125T113000Z
-LOCATION:24Б-420
-DTSTART:20231125T100000Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:98b4244b-5adb-4ff5-a800-0bfc617a80bd@98b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231113T091500Z
-LOCATION:24Б-517
-DTSTART:20231113T074500Z
-SUMMARY:ПЗ Основы локационных и навигационных систем
-UID:5ef0af48-6c82-43ae-a4f5-a266955bfc01@5ef0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20231031T113000Z
-LOCATION:24Б-621
-DTSTART:20231031T100000Z
-SUMMARY:ПЗ Устройства генерации колебаний
-UID:7ce39f7f-ff5f-4c4f-8d47-93d39fff6220@7ce3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231129T131500Z
-LOCATION:24Б-420
-DTSTART:20231129T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:ad9f64ff-14ae-494f-8963-9d1c54b6ce91@ad9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231225T073000Z
-LOCATION:24Б-521
-DTSTART:20231225T060000Z
-SUMMARY:ЛР Основы локационных и навигационных систем
-UID:db3d2f69-9f82-4250-9cdd-299d26b6c18d@db3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231111T073000Z
-LOCATION:24Б-422
-DTSTART:20231111T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:931b07a6-7fcc-4203-9cd2-f72427bccf26@931b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231030T091500Z
-LOCATION:24Б-517
-DTSTART:20231030T074500Z
-SUMMARY:ЛК Основы локационных и навигационных систем
-UID:c8b891f6-acd1-433b-98b1-e635e0a650a0@c8b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230904T131500Z
-LOCATION:24Б-624
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:bab43564-86d5-426a-8090-a769aef69396@bab4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20230905T073000Z
-LOCATION:24Б-621
-DTSTART:20230905T060000Z
-SUMMARY:ЛК Устройства генерации колебаний
-UID:84368f41-11de-47b5-892a-915d99619994@8436.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щербачев Андрей Юрьевич
-DTEND:20231114T131500Z
-LOCATION:24Б-625
-DTSTART:20231114T114500Z
-SUMMARY:ЛР Устройства генерации колебаний
-UID:5db56db2-3314-4077-bead-2a8109c33da8@5db5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T073000Z
-LOCATION:--каф.
-DTSTART:20231116T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:da5e8ef5-1de5-4782-b3ba-09c3224a22d4@da5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231222T073000Z
-LOCATION:24Б-424
-DTSTART:20231222T060000Z
-SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:714b1db7-2e9b-480d-a83f-0f4c358717a7@714b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T131500Z
-LOCATION:--каф.
-DTSTART:20231228T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4ddd6d7b-8df3-4714-a9ae-258706aba7dc@4ddd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230923T073000Z
-LOCATION:24Б-422
-DTSTART:20230923T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:e8a987df-d64e-4e90-86ca-a19b2520b69c@e8a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231002T073000Z
-LOCATION:24Б-517
-DTSTART:20231002T060000Z
-SUMMARY:ЛК Основы локационных и навигационных систем
-UID:f69bf9ab-572b-4269-8e7b-fb806e29998b@f69b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231202T131500Z
-LOCATION:24Б-425
-DTSTART:20231202T114500Z
-SUMMARY:ЛР Технология производства электронных средств
-UID:ff7562f8-f24f-49a8-af01-54b6371c2e7e@ff75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20230906T131500Z
-LOCATION:24Б-420
-DTSTART:20230906T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:8cd1b855-12b7-4d94-a5b0-5296ad975a8c@8cd1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T131500Z
-LOCATION:--каф.
-DTSTART:20231026T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a55f602c-4e16-4cc3-98f8-391ebb759549@a55f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T131500Z
-LOCATION:--каф.
-DTSTART:20230907T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5d2ca1a8-8abf-49eb-b03d-23f93c2b9b06@5d2c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T131500Z
-LOCATION:--каф.
-DTSTART:20231019T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:af95da22-7e90-47e4-93af-59c639e5047a@af95.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T113000Z
-LOCATION:--каф.
-DTSTART:20231123T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:73865af9-bc3f-4e8d-a0b0-6b2f0e3745f5@7386.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231111T131500Z
-LOCATION:24Б-420
-DTSTART:20231111T114500Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:96ccf221-e6e5-4de0-b530-d62e73c7b47b@96cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231127T113000Z
-LOCATION:24Б-624
-DTSTART:20231127T100000Z
-SUMMARY:ПЗ Проектирование СВЧ устройств
-UID:f7135f48-50ad-4dab-8813-78c734acc5f1@f713.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231016T073000Z
-LOCATION:24Б-517
-DTSTART:20231016T060000Z
-SUMMARY:ЛК Основы локационных и навигационных систем
-UID:79bb6ab3-8430-4691-81ff-b8fa65b2956e@79bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231108T131500Z
-LOCATION:24Б-420
-DTSTART:20231108T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:c414fda1-ac7f-474c-b0b2-49fa46221956@c414.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T073000Z
-LOCATION:--каф.
-DTSTART:20231130T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:1464a42b-c54a-45f7-a06c-697e2a727d29@1464.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231129T091500Z
-LOCATION:24Б-411
-DTSTART:20231129T074500Z
-SUMMARY:ПЗ Инноватика и патентоведение
-UID:b1c6927e-daea-4d6d-b817-4e8eaa64dd90@b1c6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T091500Z
-LOCATION:--каф.
-DTSTART:20231214T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5a44d238-3971-491b-8937-1473c7485a9e@5a44.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T073000Z
-LOCATION:--каф.
-DTSTART:20231214T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:16260a44-17e6-48d3-85da-89d40481d88a@1626.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231115T113000Z
-LOCATION:24Б-420
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:69011cb5-2e40-46bd-bb17-707e441da803@6901.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васильева Татьяна Юрьевна
-DTEND:20231215T091500Z
-LOCATION:24Б-425
-DTSTART:20231215T074500Z
-SUMMARY:ЛР Основы конструирования электронных средств
-UID:d898021a-980a-4e76-a28b-57b811b7c82b@d898.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230911T131500Z
-LOCATION:24Б-624
-DTSTART:20230911T114500Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:d09cb45c-17b1-4dbf-93d9-4136c4cd9504@d09c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230916T073000Z
-LOCATION:24Б-422
-DTSTART:20230916T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:e9101ad1-f06e-4e94-bd5a-763ec6a29410@e910.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230916T091500Z
-LOCATION:24Б-422
-DTSTART:20230916T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:3fbb27e0-6810-450e-b4d4-5ddea2473241@3fbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20230919T091500Z
-LOCATION:24Б-424
-DTSTART:20230919T074500Z
-SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:22281de1-2c5c-410c-8cd2-a36fbe0b688e@2228.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20230913T131500Z
-LOCATION:24Б-420
-DTSTART:20230913T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:0db88961-f2dc-4a37-af48-722ce5096b23@0db8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20230906T073000Z
-LOCATION:24Б-411
-DTSTART:20230906T060000Z
-SUMMARY:ЛК Инноватика и патентоведение
-UID:4ff384ee-09ca-4828-8ef9-5417a012bfee@4ff3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231101T131500Z
-LOCATION:24Б-420
-DTSTART:20231101T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:17d3293c-c65d-40a7-a364-eb77cb02ed8e@17d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230909T091500Z
-LOCATION:24Б-422
-DTSTART:20230909T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:2a5b259c-908b-4e4b-a922-c4c78892896f@2a5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231030T131500Z
-LOCATION:24Б-624
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:74ea0e9c-c5d0-42e6-aee3-1449f20d9c4c@74ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20230930T113000Z
-LOCATION:24Б-420
-DTSTART:20230930T100000Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:1460726b-36d3-4a4c-b0c0-d53d702f5a52@1460.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231028T091500Z
-LOCATION:24Б-422
-DTSTART:20231028T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:abd339dd-59ce-4fe6-a891-3659d6c7dda5@abd3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T131500Z
-LOCATION:--каф.
-DTSTART:20231109T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:49d1025a-fcc2-40b5-a33a-d71aff5886bb@49d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T091500Z
-LOCATION:--каф.
-DTSTART:20231123T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:628ee4c4-c400-4850-8a5c-20b1421fe42e@628e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20230913T113000Z
-LOCATION:24Б-420
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:faf2dfe8-05f1-45b5-85a3-e8752b946dac@faf2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T113000Z
-LOCATION:--каф.
-DTSTART:20231228T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:df6bae58-26f8-49fc-8fc0-8c07c57d06ce@df6b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T113000Z
-LOCATION:--каф.
-DTSTART:20230914T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7ddc0e90-ffc1-46e4-a723-9471a49033e1@7ddc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231129T073000Z
-LOCATION:24Б-411
-DTSTART:20231129T060000Z
-SUMMARY:ЛК Инноватика и патентоведение
-UID:3f35093c-aebd-4d86-958c-f23965629019@3f35.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T073000Z
-LOCATION:--каф.
-DTSTART:20231012T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:d56475d0-d457-4341-a0dd-ddaeb43a1c74@d564.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20230912T091500Z
-LOCATION:24Б-621
-DTSTART:20230912T074500Z
-SUMMARY:ЛК Устройства генерации колебаний
-UID:938dba32-2fbc-4185-a80b-9a47cce39e47@938d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20230920T113000Z
-LOCATION:24Б-420
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:0a4e9367-fc76-494c-9b70-62eacb0479ab@0a4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231004T131500Z
-LOCATION:24Б-420
-DTSTART:20231004T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:f4568aec-4547-4e64-b6f4-16b7ed8596c7@f456.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231122T113000Z
-LOCATION:24Б-420
-DTSTART:20231122T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:caa97251-b7e4-4cae-ac4c-ead67a96eb1e@caa9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T113000Z
-LOCATION:--каф.
-DTSTART:20231130T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:5ec40d41-8612-4832-b5c7-6bc42faf516e@5ec4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231211T073000Z
-LOCATION:24Б-521
-DTSTART:20231211T060000Z
-SUMMARY:ЛР Основы локационных и навигационных систем
-UID:d8ce9a84-e6d2-4e4a-a0f1-2d12455e2219@d8ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T131500Z
-LOCATION:--каф.
-DTSTART:20230928T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:53777258-cf20-4352-b200-8d53001ce25b@5377.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T131500Z
-LOCATION:--каф.
-DTSTART:20231102T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ec338a83-b036-4142-a308-fd14f6cbc5ca@ec33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20231107T091500Z
-LOCATION:24Б-621
-DTSTART:20231107T074500Z
-SUMMARY:ЛК Устройства генерации колебаний
-UID:26ebe3db-d897-4f5e-840d-16d4ee1229ba@26eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231014T131500Z
-LOCATION:24Б-420
-DTSTART:20231014T114500Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:17724f58-06d8-4e5d-bae1-76edddb3f426@1772.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T113000Z
-LOCATION:--каф.
-DTSTART:20230928T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:5d8c9b3b-98fe-4e9e-b887-a9251f442bf4@5d8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231114T073000Z
-LOCATION:24Б-424
-DTSTART:20231114T060000Z
-SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:1fcbc4a2-c07f-4f32-ae83-99691a0cbaca@1fcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231216T131500Z
-LOCATION:24Б-425
-DTSTART:20231216T114500Z
-SUMMARY:ЛР Технология производства электронных средств
-UID:df2f8e0f-262b-47fa-8fcc-32bd68106acb@df2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T091500Z
-LOCATION:--каф.
-DTSTART:20231102T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:2a4fcc4e-6bbf-4686-a14a-e16c5f670ac3@2a4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231225T113000Z
-LOCATION:24Б-624
-DTSTART:20231225T100000Z
-SUMMARY:ЛР Проектирование СВЧ устройств
-UID:ca0dd02f-8af3-4519-a570-a8ad66cc79a0@ca0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20230926T091500Z
-LOCATION:24Б-621
-DTSTART:20230926T074500Z
-SUMMARY:ЛК Устройства генерации колебаний
-UID:b606b0c5-b49a-49ce-b509-948731b6dfae@b606.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20230918T073000Z
-LOCATION:24Б-517
-DTSTART:20230918T060000Z
-SUMMARY:ЛК Основы локационных и навигационных систем
-UID:8c5843d7-112f-480f-abc6-2d5ecc043022@8c58.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T073000Z
-LOCATION:--каф.
-DTSTART:20231005T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:d16912b9-81da-4754-81f5-74298fafe51b@d169.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T113000Z
-LOCATION:--каф.
-DTSTART:20231207T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:2fa69f7f-9b2f-4a78-9ce3-7f544cf1b843@2fa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231030T073000Z
-LOCATION:24Б-517
-DTSTART:20231030T060000Z
-SUMMARY:ЛК Основы локационных и навигационных систем
-UID:36604b27-f3d8-4973-a18d-474b12f41898@3660.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231003T073000Z
-LOCATION:24Б-424
-DTSTART:20231003T060000Z
-SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:0b86a1cd-8cf9-48b1-a1c2-ab2d854638c5@0b86.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T091500Z
-LOCATION:--каф.
-DTSTART:20231109T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e7b78b25-619d-4561-a381-79aef6cba74c@e7b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231206T131500Z
-LOCATION:24Б-420
-DTSTART:20231206T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:d55222e3-fe17-42fd-b31b-b0e9bd8d1f3d@d552.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20230920T091500Z
-LOCATION:24Б-411
-DTSTART:20230920T074500Z
-SUMMARY:ПЗ Инноватика и патентоведение
-UID:f2e3e3c3-5a14-4504-a04a-3699a28d7bb8@f2e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231101T113000Z
-LOCATION:24Б-420
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:944dc3fd-1383-40fa-b8e8-1f6d411f8f02@944d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230909T073000Z
-LOCATION:24Б-422
-DTSTART:20230909T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:b74242c0-8376-44f2-8d8f-cb0a5ff3da8f@b742.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231124T091500Z
-LOCATION:24Б-424
-DTSTART:20231124T074500Z
-SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:365078a7-0eb5-4e8a-9aca-bd190382d544@3650.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231208T113000Z
-LOCATION:5-107А
-DTSTART:20231208T100000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:de112641-56a2-4fe0-86f6-16c6429d0b44@de11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230911T113000Z
-LOCATION:24Б-624
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:4dfb2e58-cecb-4b8f-86e4-02da548e7149@4dfb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T073000Z
-LOCATION:--каф.
-DTSTART:20230921T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:bbd76b06-58ca-4980-8683-a06b0505d07b@bbd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231011T113000Z
-LOCATION:24Б-420
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:ccb5052e-562b-4b14-a337-c5c689eeb0de@ccb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231028T113000Z
-LOCATION:24Б-420
-DTSTART:20231028T100000Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:d5c7a66c-1209-47d7-a68b-0af1340da2f1@d5c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231225T131500Z
-LOCATION:24Б-624
-DTSTART:20231225T114500Z
-SUMMARY:ЛР Проектирование СВЧ устройств
-UID:62d1dace-121e-46c2-a371-f5b8b3f7dea1@62d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щербачев Андрей Юрьевич
-DTEND:20231226T113000Z
-LOCATION:24Б-625
-DTSTART:20231226T100000Z
-SUMMARY:ЛР Устройства генерации колебаний
-UID:4a25a269-1476-4be8-af34-8ef09a12d40c@4a25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231227T073000Z
-LOCATION:24Б-411
-DTSTART:20231227T060000Z
-SUMMARY:ЛК Инноватика и патентоведение
-UID:f128443b-9322-4212-b112-2e913106215f@f128.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20231017T131500Z
-LOCATION:24Б-621
-DTSTART:20231017T114500Z
-SUMMARY:ПЗ Устройства генерации колебаний
-UID:824f6c21-25e6-440e-9824-bc20dd3d7b20@824f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231111T113000Z
-LOCATION:24Б-420
-DTSTART:20231111T100000Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:4edb0c4b-4e42-43ac-a61d-860ad4f7c174@4edb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231213T113000Z
-LOCATION:24Б-420
-DTSTART:20231213T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:8a37f6c5-275c-4256-ac33-cd23d1562968@8a37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231222T113000Z
-LOCATION:5-107А
-DTSTART:20231222T100000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:56e07a97-b036-4a6e-9c86-f1fbb79ede1f@56e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васильева Татьяна Юрьевна
-DTEND:20231103T073000Z
-LOCATION:24Б-425
-DTSTART:20231103T060000Z
-SUMMARY:ЛР Основы конструирования электронных средств
-UID:8ff0a86f-318c-494f-8ca2-55a1673771ed@8ff0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231110T073000Z
-LOCATION:24Б-424
-DTSTART:20231110T060000Z
-SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:52230ec3-07a2-43a0-bb3f-93a12f0094a2@5223.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230930T091500Z
-LOCATION:24Б-422
-DTSTART:20230930T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:7ab7bc25-1c58-46f9-beb7-3429216ac5ec@7ab7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20230919T073000Z
-LOCATION:24Б-424
-DTSTART:20230919T060000Z
-SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:1e7498e3-0cc4-4397-8dcf-fa657e552f8d@1e74.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T131500Z
-LOCATION:--каф.
-DTSTART:20231123T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:97f4e6d6-bbb4-4c19-88a2-a32d2e4270b2@97f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231124T073000Z
-LOCATION:24Б-424
-DTSTART:20231124T060000Z
-SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:e756485d-bfd5-4677-b9c2-2213341cac4b@e756.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T131500Z
-LOCATION:--каф.
-DTSTART:20231221T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:63eb4630-5da2-48fc-9c34-48343cc7ee75@63eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231211T113000Z
-LOCATION:24Б-624
-DTSTART:20231211T100000Z
-SUMMARY:ЛР Проектирование СВЧ устройств
-UID:a4ceaae2-4a6e-4643-bb20-3001d54c2b31@a4ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T091500Z
-LOCATION:--каф.
-DTSTART:20230907T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4f1a90b6-70d6-49a2-a0d1-3994d3388a7d@4f1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васильева Татьяна Юрьевна
-DTEND:20231103T091500Z
-LOCATION:24Б-425
-DTSTART:20231103T074500Z
-SUMMARY:ЛР Основы конструирования электронных средств
-UID:f8866e95-f59f-4542-a6a6-648266083c5e@f886.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231225T091500Z
-LOCATION:24Б-521
-DTSTART:20231225T074500Z
-SUMMARY:ЛР Основы локационных и навигационных систем
-UID:892e2e3a-5209-48ab-a23c-705c09e59a6b@892e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231208T073000Z
-LOCATION:24Б-424
-DTSTART:20231208T060000Z
-SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:953b2bc0-8a66-4f49-b843-0117c0191386@953b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T131500Z
-LOCATION:--каф.
-DTSTART:20231116T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4c7902b9-a8d8-4127-9033-84c4bdeb3a9d@4c79.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T073000Z
-LOCATION:--каф.
-DTSTART:20231019T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ff5ef5fe-de19-4999-b1e5-e6d68d907893@ff5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231209T113000Z
-LOCATION:24Б-420
-DTSTART:20231209T100000Z
-SUMMARY:ПЗ Технология производства электронных средств
-UID:4b38c8f4-1a32-4726-9e44-199a2f18dcfd@4b38.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T091500Z
-LOCATION:--каф.
-DTSTART:20231116T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4902a70b-a367-407d-a5bb-ffaa12c8037d@4902.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231127T091500Z
-LOCATION:24Б-517
-DTSTART:20231127T074500Z
-SUMMARY:ПЗ Основы локационных и навигационных систем
-UID:09901354-ab28-4c5a-a05e-102d9b20e376@0990.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231115T073000Z
-LOCATION:24Б-411
-DTSTART:20231115T060000Z
-SUMMARY:ЛК Инноватика и патентоведение
-UID:211c2a5a-af1e-4b0b-9989-4f81ee15d0f1@211c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231202T073000Z
-LOCATION:24Б-422
-DTSTART:20231202T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:6f301a76-e9fd-4458-b3a7-ec15e4b97834@6f30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231125T131500Z
-LOCATION:24Б-420
-DTSTART:20231125T114500Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:8fe2006d-deb1-4af6-99ac-2abfd52c9aa8@8fe2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231206T091500Z
-LOCATION:5-401
-DTSTART:20231206T074500Z
-SUMMARY:ЛК Основы менеджмента
-UID:fd4955f4-d30e-4325-86cd-525ed2d8baa9@fd49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231206T113000Z
-LOCATION:24Б-420
-DTSTART:20231206T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:cd45af32-59c7-417b-969b-bbdee5d0b9f3@cd45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231004T113000Z
-LOCATION:24Б-420
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:ae53ca7f-4bf3-4abd-8363-ab2598e65d39@ae53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231014T073000Z
-LOCATION:24Б-422
-DTSTART:20231014T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:dfbf2dfb-ea3b-49d9-9594-87f3dca8c597@dfbf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T091500Z
-LOCATION:--каф.
-DTSTART:20230914T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f9a27c85-f22c-46c8-ae1d-05e91e984bda@f9a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231013T091500Z
-LOCATION:24Б-424
-DTSTART:20231013T074500Z
-SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:e9dda801-ec6b-4b52-9ae5-b425ac1906e3@e9dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231114T091500Z
-LOCATION:24Б-424
-DTSTART:20231114T074500Z
-SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:db85b719-528c-49a3-8321-4ac4b9df4213@db85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231129T113000Z
-LOCATION:24Б-420
-DTSTART:20231129T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:7df309bd-fa68-4b00-8807-46205f36178e@7df3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T073000Z
-LOCATION:--каф.
-DTSTART:20230928T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:33700c0c-e7ad-4faa-9df6-61b3db7fb924@3370.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231115T131500Z
-LOCATION:24Б-420
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:74f5dbcc-e0c9-4dee-ba2d-cd4f7847779f@74f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231218T113000Z
-LOCATION:24Б-624
-DTSTART:20231218T100000Z
-SUMMARY:ЛР Проектирование СВЧ устройств
-UID:39029f50-3d73-4527-86cd-6e64fc3f9e76@3902.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231209T091500Z
-LOCATION:24Б-422
-DTSTART:20231209T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:4d4b3d9f-9077-4efb-a64a-59e61882ee55@4d4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T113000Z
-LOCATION:--каф.
-DTSTART:20231116T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:986bbb56-80dc-4818-b334-3f6f39688fe0@986b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T131500Z
-LOCATION:--каф.
-DTSTART:20231214T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:1929d41a-b297-4ac3-b085-3227a4dd350b@1929.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231016T131500Z
-LOCATION:24Б-624
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:0ee37456-11a9-4afb-89d9-e9161d46ce31@0ee3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T073000Z
-LOCATION:--каф.
-DTSTART:20231207T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:68c64d40-c618-437c-a136-805de1ebb3f6@68c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230904T113000Z
-LOCATION:24Б-624
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:cda2a4be-7a4c-473e-93e2-f094c49e9a65@cda2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20230912T073000Z
-LOCATION:24Б-621
-DTSTART:20230912T060000Z
-SUMMARY:ЛК Устройства генерации колебаний
-UID:27052d54-0fa5-4027-91d0-a9ef14cd5276@2705.org
+UID:58bb9e17-17dc-4b5d-937c-47c97dde727d@58bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Овчинникова Елена Викторовна
@@ -1344,668 +15,30 @@ DTEND:20230918T113000Z
 LOCATION:24Б-624
 DTSTART:20230918T100000Z
 SUMMARY:ЛК Проектирование СВЧ устройств
-UID:2cfc0a88-b04c-4694-8f5d-a1a82a3fd397@2cfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231014T091500Z
-LOCATION:24Б-422
-DTSTART:20231014T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:598aa087-7ccb-4810-9344-812fb21158fd@598a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T073000Z
-LOCATION:--каф.
-DTSTART:20231102T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:32f7839f-48c2-41f9-b741-e6b4fe088ede@32f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231122T131500Z
-LOCATION:24Б-420
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:eb0c37d2-8b24-4e9a-9c7d-7150e2e286b0@eb0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231125T073000Z
-LOCATION:24Б-422
-DTSTART:20231125T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:22c8520b-c746-4b0e-9d07-cce73b03e213@22c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231004T091500Z
-LOCATION:24Б-411
-DTSTART:20231004T074500Z
-SUMMARY:ПЗ Инноватика и патентоведение
-UID:c4b58f65-4991-4882-87a2-3fbfa9acb903@c4b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T091500Z
-LOCATION:--каф.
-DTSTART:20230928T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c0d21ad5-ea49-453c-9e64-a24f17ee601c@c0d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231227T091500Z
-LOCATION:24Б-411
-DTSTART:20231227T074500Z
-SUMMARY:ПЗ Инноватика и патентоведение
-UID:0fef62b2-f6ac-4e79-b131-0dfdd59ed92d@0fef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20231003T131500Z
-LOCATION:24Б-621
-DTSTART:20231003T114500Z
-SUMMARY:ПЗ Устройства генерации колебаний
-UID:0405a91f-dfa3-45f4-a8ac-c87516c861d5@0405.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231017T091500Z
-LOCATION:24Б-424
-DTSTART:20231017T074500Z
-SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:03fe022b-b254-42b5-ae52-8e1e0d1dd613@03fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231027T091500Z
-LOCATION:24Б-424
-DTSTART:20231027T074500Z
-SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:f20b5ea0-f79c-461e-846f-917019fdde81@f20b.org
+UID:85226e1b-77e5-4b29-b03d-76bd39330c0a@8522.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Климова Светлана Александровна
-DTEND:20230909T131500Z
+DTEND:20231209T113000Z
 LOCATION:24Б-420
-DTSTART:20230909T114500Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:72d22010-353a-424d-a7f1-80601b65c9ab@72d2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T113000Z
-LOCATION:--каф.
-DTSTART:20230921T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:b1f8c507-0aa8-4b25-97ac-9cd568c150f3@b1f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231120T131500Z
-LOCATION:24Б-624
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Проектирование СВЧ устройств
-UID:aaf5b3ad-c3d6-4f62-b34b-c44c68a38389@aaf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20230929T073000Z
-LOCATION:24Б-424
-DTSTART:20230929T060000Z
-SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:2f34b274-74e1-4ea8-bd75-b9b49983c465@2f34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231013T113000Z
-LOCATION:5-107А
-DTSTART:20231013T100000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:6b54efcb-0c31-4529-bf95-8544f1e4ed75@6b54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щербачев Андрей Юрьевич
-DTEND:20231128T131500Z
-LOCATION:24Б-625
-DTSTART:20231128T114500Z
-SUMMARY:ЛР Устройства генерации колебаний
-UID:a809bbc7-6746-483e-bf99-04fe4901e119@a809.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231002T091500Z
-LOCATION:24Б-517
-DTSTART:20231002T074500Z
-SUMMARY:ЛК Основы локационных и навигационных систем
-UID:a2d8c1ad-3c38-4747-b8ba-121620644ccf@a2d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231018T131500Z
-LOCATION:24Б-420
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:ef7bf92b-b0de-4050-b557-c669a2ae30fb@ef7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231028T073000Z
-LOCATION:24Б-422
-DTSTART:20231028T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:3e94563d-dde9-44b1-9972-5c55358f0892@3e94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20230915T073000Z
-LOCATION:24Б-424
-DTSTART:20230915T060000Z
-SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:421e8dba-a910-4090-9f3b-df75d0526620@421e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васильева Татьяна Юрьевна
-DTEND:20231215T073000Z
-LOCATION:24Б-425
-DTSTART:20231215T060000Z
-SUMMARY:ЛР Основы конструирования электронных средств
-UID:b723efdd-c65e-4844-b08a-eeb0abfad733@b723.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231017T073000Z
-LOCATION:24Б-424
-DTSTART:20231017T060000Z
-SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:f50e19c2-5655-4d8c-b641-37fba0db0099@f50e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231023T131500Z
-LOCATION:24Б-624
-DTSTART:20231023T114500Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:5c68522e-6b87-4183-a826-07d5dcfa77d6@5c68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231127T131500Z
-LOCATION:24Б-624
-DTSTART:20231127T114500Z
-SUMMARY:ПЗ Проектирование СВЧ устройств
-UID:862a43b9-78b1-4ad2-9870-c805ca56c48e@862a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васильева Татьяна Юрьевна
-DTEND:20231201T073000Z
-LOCATION:24Б-425
-DTSTART:20231201T060000Z
-SUMMARY:ЛР Основы конструирования электронных средств
-UID:66a6c059-3d7f-4b05-b061-23bf89b7d803@66a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щербачев Андрей Юрьевич
-DTEND:20231114T113000Z
-LOCATION:24Б-625
-DTSTART:20231114T100000Z
-SUMMARY:ЛР Устройства генерации колебаний
-UID:cee32096-bf2e-4d3a-bff4-8808d2d4c727@cee3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231218T131500Z
-LOCATION:24Б-624
-DTSTART:20231218T114500Z
-SUMMARY:ЛР Проектирование СВЧ устройств
-UID:52b58006-6dde-4f06-9b85-f531f4d99778@52b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231211T091500Z
-LOCATION:24Б-521
-DTSTART:20231211T074500Z
-SUMMARY:ЛР Основы локационных и навигационных систем
-UID:107b8863-4eb0-4dff-9eba-139510c527ca@107b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231208T091500Z
-LOCATION:24Б-424
-DTSTART:20231208T074500Z
-SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:f6265190-b706-4aa2-89b2-46afc5774c10@f626.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231108T113000Z
-LOCATION:24Б-420
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:5e23c53f-711a-46a3-8e97-38232242c266@5e23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щербачев Андрей Юрьевич
-DTEND:20231226T131500Z
-LOCATION:24Б-625
-DTSTART:20231226T114500Z
-SUMMARY:ЛР Устройства генерации колебаний
-UID:4127cfde-e17e-4f15-8e8b-f3b94d1364b7@4127.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231025T091500Z
-LOCATION:5-401
-DTSTART:20231025T074500Z
-SUMMARY:ЛК Основы менеджмента
-UID:30c6e33a-9a11-4bbf-a686-b49a9bf5df59@30c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231127T073000Z
-LOCATION:24Б-517
-DTSTART:20231127T060000Z
-SUMMARY:ПЗ Основы локационных и навигационных систем
-UID:fe368672-bd1d-4e1b-ad1e-521790444365@fe36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230925T131500Z
-LOCATION:24Б-624
-DTSTART:20230925T114500Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:ce48ae23-ccd9-4027-9418-6ad0cf523ae1@ce48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231007T091500Z
-LOCATION:24Б-422
-DTSTART:20231007T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:1e9b34f1-a250-49bb-8d53-9c0965a7f644@1e9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20230905T091500Z
-LOCATION:24Б-621
-DTSTART:20230905T074500Z
-SUMMARY:ЛК Устройства генерации колебаний
-UID:6761422e-5c09-4638-90fa-41683e22f3b8@6761.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231204T131500Z
-LOCATION:24Б-624
-DTSTART:20231204T114500Z
-SUMMARY:ПЗ Проектирование СВЧ устройств
-UID:95e76819-295b-476f-b61d-436be17beb9c@95e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231002T113000Z
-LOCATION:24Б-624
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:9615eefb-fb8c-425f-86df-e78e947a1f14@9615.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231018T073000Z
-LOCATION:24Б-411
-DTSTART:20231018T060000Z
-SUMMARY:ЛК Инноватика и патентоведение
-UID:3767c65d-6329-426c-b27d-e6ac48376bd4@3767.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231007T073000Z
-LOCATION:24Б-422
-DTSTART:20231007T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:71556996-d376-400d-b83a-7589de48338d@7155.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231023T113000Z
-LOCATION:24Б-624
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:e82e36fc-9220-4309-a6e2-237a216035ae@e82e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231110T113000Z
-LOCATION:5-107А
-DTSTART:20231110T100000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:5f159a62-163e-4b8e-bb0c-4413f3ee6fda@5f15.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T113000Z
-LOCATION:--каф.
-DTSTART:20231012T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:6f2d9b3a-0d48-4840-85fe-f54b6635d217@6f2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231213T131500Z
-LOCATION:24Б-420
-DTSTART:20231213T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:d03a28a5-59e7-4b04-8108-6902371e22e9@d03a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20230916T113000Z
-LOCATION:24Б-420
-DTSTART:20230916T100000Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:9eb54a37-46d2-4cce-856a-d5ebeeb6fdaf@9eb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231014T113000Z
-LOCATION:24Б-420
-DTSTART:20231014T100000Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:1281148c-a659-4472-95d4-ee311eb8c9e2@1281.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T131500Z
-LOCATION:--каф.
-DTSTART:20230914T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f2ea97ac-c7e5-4ed0-b363-eff26cf90fee@f2ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231101T091500Z
-LOCATION:24Б-411
-DTSTART:20231101T074500Z
-SUMMARY:ПЗ Инноватика и патентоведение
-UID:550989b5-8e10-4c92-83b4-f3e66ca7e34f@5509.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T091500Z
-LOCATION:--каф.
-DTSTART:20231228T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:7b7f2488-c2da-46e9-a35f-b54b11083e09@7b7f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T131500Z
-LOCATION:--каф.
-DTSTART:20231005T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:48d62f70-8e30-4210-8dad-dabd190f5841@48d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20230919T131500Z
-LOCATION:24Б-621
-DTSTART:20230919T114500Z
-SUMMARY:ПЗ Устройства генерации колебаний
-UID:175f17f1-cbf2-4bf1-9b16-d5108f9b7043@175f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20231003T113000Z
-LOCATION:24Б-621
-DTSTART:20231003T100000Z
-SUMMARY:ПЗ Устройства генерации колебаний
-UID:f80ee2f3-1efc-470e-b0d4-2e0d066baa22@f80e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230918T131500Z
-LOCATION:24Б-624
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:bf34ded5-3f83-4bb6-923f-9f4935955948@bf34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231124T113000Z
-LOCATION:5-107А
-DTSTART:20231124T100000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:4aaf1c9c-acde-4039-acd6-a25d60f86c98@4aaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231216T113000Z
-LOCATION:24Б-425
-DTSTART:20231216T100000Z
-SUMMARY:ЛР Технология производства электронных средств
-UID:205c943d-48ea-46a0-9d61-0642a1524152@205c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васильева Татьяна Юрьевна
-DTEND:20231117T073000Z
-LOCATION:24Б-425
-DTSTART:20231117T060000Z
-SUMMARY:ЛР Основы конструирования электронных средств
-UID:6f63d2f2-61d9-414d-8702-80a06d7f6e24@6f63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231021T073000Z
-LOCATION:24Б-422
-DTSTART:20231021T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:c3b519be-c70f-403c-9593-66a03d8f97f8@c3b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T091500Z
-LOCATION:--каф.
-DTSTART:20231005T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:98f39735-cff9-4264-b327-3ce8ad39643e@98f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230925T113000Z
-LOCATION:24Б-624
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:0c292307-b165-4c4e-98c2-deff7fa6d8c5@0c29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231025T113000Z
-LOCATION:24Б-420
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:91ae16c0-2849-478a-85b2-55a9cdba831c@91ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231028T131500Z
-LOCATION:24Б-420
-DTSTART:20231028T114500Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:370c8a47-2bfa-426d-b04e-263752a23b02@370c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231113T113000Z
-LOCATION:24Б-624
-DTSTART:20231113T100000Z
-SUMMARY:ПЗ Проектирование СВЧ устройств
-UID:ee580d40-602e-47fd-8a92-7d108e7a6d1c@ee58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231213T073000Z
-LOCATION:24Б-411
-DTSTART:20231213T060000Z
-SUMMARY:ЛК Инноватика и патентоведение
-UID:5fc3f8da-08da-4500-abbc-c4faf0606f27@5fc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20230915T113000Z
-LOCATION:5-107А
-DTSTART:20230915T100000Z
-SUMMARY:ПЗ Основы менеджмента
-UID:5d222299-aaaa-4ea7-a69d-a66a0f672c65@5d22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20230920T131500Z
-LOCATION:24Б-420
-DTSTART:20230920T114500Z
-SUMMARY:ПЗ Основы конструирования электронных средств
-UID:f335644f-c582-4b85-8750-e2843b4d8db8@f335.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T131500Z
-LOCATION:--каф.
-DTSTART:20231012T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d7754d31-12c9-4cfd-bac7-3b42bfd1604b@d775.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231016T113000Z
-LOCATION:24Б-624
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:db581dff-964e-4682-98f2-3055aaf3c6ce@db58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231009T113000Z
-LOCATION:24Б-624
-DTSTART:20231009T100000Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:d2af9f96-2942-4cde-b27c-db3283126744@d2af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20231017T113000Z
-LOCATION:24Б-621
-DTSTART:20231017T100000Z
-SUMMARY:ПЗ Устройства генерации колебаний
-UID:481fdaee-3ed3-4787-9177-1ab6492f8971@481f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231213T091500Z
-LOCATION:24Б-411
-DTSTART:20231213T074500Z
-SUMMARY:ПЗ Инноватика и патентоведение
-UID:40ff69b1-29d8-4315-9c6b-58aa3d968d5e@40ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230930T073000Z
-LOCATION:24Б-422
-DTSTART:20230930T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:9f88c6f5-23da-4c74-a6ca-27aa12ea31c2@9f88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20230906T113000Z
-LOCATION:24Б-420
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:97dca53f-0198-481c-9caf-8910a1d9cdb3@97dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20231024T073000Z
-LOCATION:24Б-621
-DTSTART:20231024T060000Z
-SUMMARY:ЛК Устройства генерации колебаний
-UID:f453ecb8-7c92-4c57-b303-f259b1c58722@f453.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20230906T091500Z
-LOCATION:24Б-411
-DTSTART:20230906T074500Z
-SUMMARY:ПЗ Инноватика и патентоведение
-UID:fca3ce59-5e6c-46a3-9103-853cc6865fe3@fca3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20230930T131500Z
-LOCATION:24Б-420
-DTSTART:20230930T114500Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:806be8a4-87a6-44d7-997f-2ca06e91643a@806b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230902T073000Z
-LOCATION:24Б-422
-DTSTART:20230902T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:a3f5c1fa-710b-422b-8b6d-56db99117a9f@a3f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T073000Z
-LOCATION:--каф.
-DTSTART:20231026T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:66fcbf67-0e55-4312-81ee-1edbc7ce598b@66fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231125T091500Z
-LOCATION:24Б-422
-DTSTART:20231125T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:2d55af42-9194-45e5-954a-6be577f26590@2d55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231030T113000Z
-LOCATION:24Б-624
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:ead01f56-7e49-46da-ba0e-b3cb1dade422@ead0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231031T091500Z
-LOCATION:24Б-424
-DTSTART:20231031T074500Z
-SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:e62ffee4-adf8-45c7-9972-fd7ac30b81b8@e62f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231220T091500Z
-LOCATION:5-401
-DTSTART:20231220T074500Z
-SUMMARY:ЛК Основы менеджмента
-UID:8f51f684-7e8c-4666-841d-aad6b79218f8@8f51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20230904T073000Z
-LOCATION:24Б-517
-DTSTART:20230904T060000Z
-SUMMARY:ЛК Основы локационных и навигационных систем
-UID:ce24f5ea-9377-4dfa-ba02-a85040f7027a@ce24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231209T131500Z
-LOCATION:24Б-420
-DTSTART:20231209T114500Z
+DTSTART:20231209T100000Z
 SUMMARY:ПЗ Технология производства электронных средств
-UID:4e733acb-541d-49a7-89b3-79d51073f99b@4e73.org
+UID:8dd25024-9bd6-43b2-8088-d0b20aba67a2@8dd2.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231123T073000Z
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231030T091500Z
+LOCATION:24Б-517
+DTSTART:20231030T074500Z
+SUMMARY:ЛК Основы локационных и навигационных систем
+UID:acbeddc5-b657-4d6b-9509-ddc45baaf1ea@acbe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T091500Z
 LOCATION:--каф.
-DTSTART:20231123T060000Z
+DTSTART:20231116T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:42600108-3cc8-4f3e-a252-885c9840df98@4260.org
+UID:610b8eb3-aafb-4d18-b542-ebfd8da18211@610b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шовкалюк Алексей Петрович
@@ -2013,101 +46,7 @@ DTEND:20230905T113000Z
 LOCATION:24Б-621
 DTSTART:20230905T100000Z
 SUMMARY:ЛК Устройства генерации колебаний
-UID:c2f1c788-bbfd-4352-ad9b-23e36a70624f@c2f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231031T073000Z
-LOCATION:24Б-424
-DTSTART:20231031T060000Z
-SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:79dae4b6-72a6-42cf-a76a-53ac500b89a3@79da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231111T091500Z
-LOCATION:24Б-422
-DTSTART:20231111T074500Z
-SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:7884e7a6-ba91-4c20-b1ab-41e1fbbec212@7884.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231016T091500Z
-LOCATION:24Б-517
-DTSTART:20231016T074500Z
-SUMMARY:ЛК Основы локационных и навигационных систем
-UID:0c5c81b7-bf63-4016-83ce-dd97e482461d@0c5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T113000Z
-LOCATION:--каф.
-DTSTART:20231221T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:e5984b2e-c7d0-465a-9b22-729efb81bc8d@e598.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231027T073000Z
-LOCATION:24Б-424
-DTSTART:20231027T060000Z
-SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:c3347b19-24f7-4e3a-9211-db073048e2cf@c334.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231122T091500Z
-LOCATION:5-401
-DTSTART:20231122T074500Z
-SUMMARY:ЛК Основы менеджмента
-UID:d1b6a7f6-635f-425c-b37d-639a0bf22858@d1b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20231223T131500Z
-LOCATION:24Б-420
-DTSTART:20231223T114500Z
-SUMMARY:ПЗ Технология производства электронных средств
-UID:9c224505-254a-4890-8ba9-43cfaf955f07@9c22.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T113000Z
-LOCATION:--каф.
-DTSTART:20231019T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:18e9b91e-a0d2-4375-841e-2767baa962a4@18e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231211T131500Z
-LOCATION:24Б-624
-DTSTART:20231211T114500Z
-SUMMARY:ЛР Проектирование СВЧ устройств
-UID:c6133704-9efe-401f-bd9f-4aecc6303458@c613.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шовкалюк Алексей Петрович
-DTEND:20231010T073000Z
-LOCATION:24Б-621
-DTSTART:20231010T060000Z
-SUMMARY:ЛК Устройства генерации колебаний
-UID:383ee75a-6b9e-4d11-ba90-55302a4994f9@383e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Брюханова Елена Николаевна
-DTEND:20231115T091500Z
-LOCATION:24Б-411
-DTSTART:20231115T074500Z
-SUMMARY:ПЗ Инноватика и патентоведение
-UID:cf386775-f62b-44f4-b121-5667ec0debba@cf38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231106T131500Z
-LOCATION:24Б-624
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Проектирование СВЧ устройств
-UID:d782f69f-736e-49e9-b07e-3bb5a6ecf789@d782.org
+UID:85c1183b-70c7-44d4-80fe-c584c953037e@85c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Васильева Татьяна Юрьевна
@@ -2115,144 +54,404 @@ DTEND:20231201T091500Z
 LOCATION:24Б-425
 DTSTART:20231201T074500Z
 SUMMARY:ЛР Основы конструирования электронных средств
-UID:60dc1f11-7c80-47a8-b6b9-3f374ac7cbfb@60dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T131500Z
-LOCATION:--каф.
-DTSTART:20231207T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:bbeeaebf-5e9f-4423-b2ee-6bd380a89896@bbee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20230927T091500Z
-LOCATION:5-401
-DTSTART:20230927T074500Z
-SUMMARY:ЛК Основы менеджмента
-UID:ec62472e-bc76-498d-86f8-7dc6eef151b6@ec62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231009T131500Z
-LOCATION:24Б-624
-DTSTART:20231009T114500Z
-SUMMARY:ЛК Проектирование СВЧ устройств
-UID:677f2158-b61f-4e5d-9de8-b96581f903ec@677f.org
+UID:50677401-3682-4b9a-9619-ce7cf2f65b2c@5067.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230921T091500Z
 LOCATION:--каф.
 DTSTART:20230921T074500Z
 SUMMARY:ПЗ Военная подготовка
-UID:b79f76f1-df2c-4396-9804-fe42f40e6a24@b79f.org
+UID:dece8790-9da2-4a45-aeff-8c3ad7a0a7fb@dece.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231221T091500Z
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20231010T091500Z
+LOCATION:24Б-621
+DTSTART:20231010T074500Z
+SUMMARY:ЛК Устройства генерации колебаний
+UID:128b1522-2f47-4861-961d-2397972472ba@128b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20231031T131500Z
+LOCATION:24Б-621
+DTSTART:20231031T114500Z
+SUMMARY:ПЗ Устройства генерации колебаний
+UID:00af52b6-6fed-47c6-95e7-f566d05131bf@00af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T073000Z
 LOCATION:--каф.
-DTSTART:20231221T074500Z
+DTSTART:20231221T060000Z
 SUMMARY:ПЗ Военная подготовка
-UID:99a91dc8-a112-41fb-8a80-c132ebd444c2@99a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231013T073000Z
-LOCATION:24Б-424
-DTSTART:20231013T060000Z
-SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:7d69a65b-474e-45e8-bd68-5828cb0d2d6f@7d69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231120T113000Z
-LOCATION:24Б-624
-DTSTART:20231120T100000Z
-SUMMARY:ПЗ Проектирование СВЧ устройств
-UID:9c290dff-9b75-4ccb-9140-318e71568ff8@9c29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231113T131500Z
-LOCATION:24Б-624
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Проектирование СВЧ устройств
-UID:a1621abb-7ac8-494b-a198-481777e02386@a162.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T131500Z
-LOCATION:--каф.
-DTSTART:20231130T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:2c4490de-ab3b-4795-ac35-e9074d8c98e5@2c44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Назаров Александр Викторович
-DTEND:20231222T091500Z
-LOCATION:24Б-424
-DTSTART:20231222T074500Z
-SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:5a2d552c-e58a-4bc0-a5a0-fcb852b61f45@5a2d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T073000Z
-LOCATION:--каф.
-DTSTART:20231109T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:282a39c6-1932-48df-85a8-1bf691257c91@282a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T131500Z
-LOCATION:--каф.
-DTSTART:20230921T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:6baec335-b2c8-4318-bc99-f2bdec845381@6bae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231118T073000Z
-LOCATION:24Б-422
-DTSTART:20231118T060000Z
-SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
-UID:aa4a82c1-da91-4eaf-ac9e-161598e98268@aa4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T073000Z
-LOCATION:--каф.
-DTSTART:20230907T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:0be10e0b-2eac-4b58-9016-ea6d92b82547@0be1.org
+UID:a79d58df-7982-4657-bd1a-60d97d11c9bb@a79d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Василий Валерьевич
-DTEND:20231113T073000Z
+DTEND:20230904T073000Z
 LOCATION:24Б-517
-DTSTART:20231113T060000Z
-SUMMARY:ПЗ Основы локационных и навигационных систем
-UID:51d60670-a435-49de-924c-a8b0b40f34df@51d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Климова Светлана Александровна
-DTEND:20230909T113000Z
-LOCATION:24Б-420
-DTSTART:20230909T100000Z
-SUMMARY:ЛК Технология производства электронных средств
-UID:ee7983d2-53e1-4443-bdc6-ebd2e1a08cf0@ee79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Щербачев Андрей Юрьевич
-DTEND:20231212T131500Z
-LOCATION:24Б-625
-DTSTART:20231212T114500Z
-SUMMARY:ЛР Устройства генерации колебаний
-UID:fb0520fc-ef18-4150-a382-e74b76218468@fb05.org
+DTSTART:20230904T060000Z
+SUMMARY:ЛК Основы локационных и навигационных систем
+UID:12ecfdd8-fdde-4d33-9dd0-33bdd6d5694a@12ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20231011T131500Z
+DTEND:20231101T131500Z
 LOCATION:24Б-420
-DTSTART:20231011T114500Z
+DTSTART:20231101T114500Z
 SUMMARY:ПЗ Основы конструирования электронных средств
-UID:9916e6fc-a360-4e06-a44b-7c25c5946dce@9916.org
+UID:2154d744-9d65-445e-bfdd-def1a91fa3de@2154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231227T073000Z
+LOCATION:24Б-411
+DTSTART:20231227T060000Z
+SUMMARY:ЛК Инноватика и патентоведение
+UID:83c5212b-6198-4149-8fb2-8873e451f337@83c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231002T091500Z
+LOCATION:24Б-517
+DTSTART:20231002T074500Z
+SUMMARY:ЛК Основы локационных и навигационных систем
+UID:2b4aab71-5797-41ba-9422-f5e0ffc9c621@2b4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20230920T091500Z
+LOCATION:24Б-411
+DTSTART:20230920T074500Z
+SUMMARY:ПЗ Инноватика и патентоведение
+UID:bef8e348-56a0-4183-b7fa-f2e644ee5164@bef8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231111T091500Z
+LOCATION:24Б-422
+DTSTART:20231111T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:17e5060d-9eb9-43a2-8871-3d7049d57aa6@17e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231218T113000Z
+LOCATION:24Б-624
+DTSTART:20231218T100000Z
+SUMMARY:ЛР Проектирование СВЧ устройств
+UID:3f7f650b-47d7-4e07-b920-edb752cdfda1@3f7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230916T073000Z
+LOCATION:24Б-422
+DTSTART:20230916T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:cbe9f380-850e-4057-9477-5e780149df7c@cbe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васильева Татьяна Юрьевна
+DTEND:20231117T073000Z
+LOCATION:24Б-425
+DTSTART:20231117T060000Z
+SUMMARY:ЛР Основы конструирования электронных средств
+UID:124f064a-b266-441f-bc76-906d0e93df62@124f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231129T131500Z
+LOCATION:24Б-420
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:da8dcf47-3ff7-465d-a556-1e9172fd8df9@da8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T091500Z
+LOCATION:--каф.
+DTSTART:20230907T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a7da5720-316f-47d3-be53-a9db7dc121df@a7da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T131500Z
+LOCATION:--каф.
+DTSTART:20230907T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f4672b78-c394-4eb7-a007-4ac6c6e09d3e@f467.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20230913T131500Z
+LOCATION:24Б-420
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:6f772649-386b-41fa-be40-843559569e35@6f77.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T091500Z
+LOCATION:--каф.
+DTSTART:20231228T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8f7d1e02-3b8a-485c-9abe-821fe7c31950@8f7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231125T073000Z
+LOCATION:24Б-422
+DTSTART:20231125T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:9279915e-2f12-4859-842e-58f118819072@9279.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20230915T091500Z
+LOCATION:24Б-424
+DTSTART:20230915T074500Z
+SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:58c6370b-42e2-48aa-89c5-5a72f4cd9994@58c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20230929T113000Z
+LOCATION:5-107А
+DTSTART:20230929T100000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:92a02ad7-d311-4637-b5cf-8bebe261c603@92a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T131500Z
+LOCATION:--каф.
+DTSTART:20231019T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:12071616-3a52-4a55-b703-6968be18b8f9@1207.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231216T131500Z
+LOCATION:24Б-425
+DTSTART:20231216T114500Z
+SUMMARY:ЛР Технология производства электронных средств
+UID:61222ccd-94d2-4424-8f83-43d43d3655b2@6122.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T091500Z
+LOCATION:--каф.
+DTSTART:20231012T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5cc92236-90b4-414b-ba0b-484396272218@5cc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231114T091500Z
+LOCATION:24Б-424
+DTSTART:20231114T074500Z
+SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:f0253bfb-d5fc-4ac9-9ad7-6e4b4f501dab@f025.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20230929T073000Z
+LOCATION:24Б-424
+DTSTART:20230929T060000Z
+SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:fd9016d3-cf1b-453a-9ec3-62317bcb8dbb@fd90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20231003T113000Z
+LOCATION:24Б-621
+DTSTART:20231003T100000Z
+SUMMARY:ПЗ Устройства генерации колебаний
+UID:e8dd3799-4fb7-44ae-acad-9424595a5eb4@e8dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231021T073000Z
+LOCATION:24Б-422
+DTSTART:20231021T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:6b5738c9-7fd3-40cd-b2c4-f224cc9fec58@6b57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231129T073000Z
+LOCATION:24Б-411
+DTSTART:20231129T060000Z
+SUMMARY:ЛК Инноватика и патентоведение
+UID:2a9329ff-2883-4d57-9531-7f5c1419db2e@2a93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20230905T091500Z
+LOCATION:24Б-621
+DTSTART:20230905T074500Z
+SUMMARY:ЛК Устройства генерации колебаний
+UID:88aa08cd-6077-4c92-91bb-66ddfa338df5@88aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T073000Z
+LOCATION:--каф.
+DTSTART:20231005T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2053c4df-2e6d-47d9-8c21-29737cdbb7ac@2053.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230918T131500Z
+LOCATION:24Б-624
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:9e7e6a88-1d78-4e68-ab28-730d86c15a4e@9e7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230923T073000Z
+LOCATION:24Б-422
+DTSTART:20230923T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:f8b608d7-ad0a-4de8-adb9-f6aad1f8068a@f8b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231025T091500Z
+LOCATION:5-401
+DTSTART:20231025T074500Z
+SUMMARY:ЛК Основы менеджмента
+UID:09b07995-40b1-45c5-8775-246352555f43@09b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231027T073000Z
+LOCATION:24Б-424
+DTSTART:20231027T060000Z
+SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:c5061041-c9a2-424a-ba8c-da7123471110@c506.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231023T113000Z
+LOCATION:24Б-624
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:12ced033-b981-494e-85c5-5a7fcbb16cad@12ce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T113000Z
+LOCATION:--каф.
+DTSTART:20231026T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ccf93c67-ac00-4579-8b24-223fc240bb9e@ccf9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T091500Z
+LOCATION:--каф.
+DTSTART:20230914T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:84b12f45-391d-4f70-a1f7-36d69936dd0c@84b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231011T113000Z
+LOCATION:24Б-420
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:201c9318-9f38-4684-baea-a2cff4e70ea3@201c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231031T091500Z
+LOCATION:24Б-424
+DTSTART:20231031T074500Z
+SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:a3718584-1c3e-4445-bc95-482092c3b46f@a371.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231111T113000Z
+LOCATION:24Б-420
+DTSTART:20231111T100000Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:0617c3e6-2736-4ee9-93f7-b03ed2b7b951@0617.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231113T113000Z
+LOCATION:24Б-624
+DTSTART:20231113T100000Z
+SUMMARY:ПЗ Проектирование СВЧ устройств
+UID:61b7b463-cdc1-4d7a-9267-90bdb8b2af9f@61b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231101T113000Z
+LOCATION:24Б-420
+DTSTART:20231101T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:e34d971c-cf06-4a5e-a0bc-3b6d6d10a934@e34d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231202T113000Z
+LOCATION:24Б-425
+DTSTART:20231202T100000Z
+SUMMARY:ЛР Технология производства электронных средств
+UID:174bb509-71aa-4303-b934-b671bb132001@174b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20230916T131500Z
+LOCATION:24Б-420
+DTSTART:20230916T114500Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:bd3547a7-b3ba-434b-b082-9432629cf120@bd35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231225T131500Z
+LOCATION:24Б-624
+DTSTART:20231225T114500Z
+SUMMARY:ЛР Проектирование СВЧ устройств
+UID:4d07cdc2-e7a2-4407-958d-d92cd1bf5ce9@4d07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231220T091500Z
+LOCATION:5-401
+DTSTART:20231220T074500Z
+SUMMARY:ЛК Основы менеджмента
+UID:3b171e79-9184-46d7-8013-65aea3f7272f@3b17.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T113000Z
+LOCATION:--каф.
+DTSTART:20231228T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:62d953de-2b10-4a45-b212-e9689ebdae53@62d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20230906T131500Z
+LOCATION:24Б-420
+DTSTART:20230906T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:988e9887-a321-4a88-9af1-24f76b93b263@988e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231225T091500Z
+LOCATION:24Б-521
+DTSTART:20231225T074500Z
+SUMMARY:ЛР Основы локационных и навигационных систем
+UID:9786989b-1491-498b-9d7f-e154ce86f011@9786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231125T113000Z
+LOCATION:24Б-420
+DTSTART:20231125T100000Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:8ad572d1-a585-4d9a-856e-abb2368ee8a7@8ad5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шовкалюк Алексей Петрович
@@ -2260,38 +459,117 @@ DTEND:20231107T073000Z
 LOCATION:24Б-621
 DTSTART:20231107T060000Z
 SUMMARY:ЛК Устройства генерации колебаний
-UID:ead87200-8094-4461-b346-e4c5fd2163c2@ead8.org
+UID:4ad15224-521f-46ce-ad5d-5ebb2be134a9@4ad1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231113T091500Z
+LOCATION:24Б-517
+DTSTART:20231113T074500Z
+SUMMARY:ПЗ Основы локационных и навигационных систем
+UID:6c324ecf-6841-4007-b7bd-6e0d6aa6d2a2@6c32.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
-DTEND:20231108T091500Z
+DTEND:20230927T091500Z
 LOCATION:5-401
-DTSTART:20231108T074500Z
+DTSTART:20230927T074500Z
 SUMMARY:ЛК Основы менеджмента
-UID:9321db63-66ff-4ff6-ba01-433e9c884485@9321.org
+UID:bf22b6c6-a105-45d7-b37f-ab3199a30818@bf22.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231012T091500Z
+DESCRIPTION:Васильева Татьяна Юрьевна
+DTEND:20231103T091500Z
+LOCATION:24Б-425
+DTSTART:20231103T074500Z
+SUMMARY:ЛР Основы конструирования электронных средств
+UID:d5a4a601-63dd-43ce-aaa0-e4eb01c8b774@d5a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20230905T073000Z
+LOCATION:24Б-621
+DTSTART:20230905T060000Z
+SUMMARY:ЛК Устройства генерации колебаний
+UID:11c493dc-1b8e-492c-aed7-6fd5b9d58e6a@11c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231211T091500Z
+LOCATION:24Б-521
+DTSTART:20231211T074500Z
+SUMMARY:ЛР Основы локационных и навигационных систем
+UID:b287cd1b-8c55-4838-bc15-556fc376bf94@b287.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231007T073000Z
+LOCATION:24Б-422
+DTSTART:20231007T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:8a0a1858-87bf-4000-b1d9-7602d598aa64@8a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230925T131500Z
+LOCATION:24Б-624
+DTSTART:20230925T114500Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:58523026-ad00-43f1-8c51-f96795933a4b@5852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231028T091500Z
+LOCATION:24Б-422
+DTSTART:20231028T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:7d7e243c-f569-4d50-930d-0638ab2c0201@7d7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T073000Z
 LOCATION:--каф.
-DTSTART:20231012T074500Z
+DTSTART:20231123T060000Z
 SUMMARY:ПЗ Военная подготовка
-UID:f74c9479-00ea-4586-9552-b97c30edcdda@f74c.org
+UID:7fd0b1e3-924c-41a3-b6a2-d811c0ad701c@7fd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васильева Татьяна Юрьевна
+DTEND:20231103T073000Z
+LOCATION:24Б-425
+DTSTART:20231103T060000Z
+SUMMARY:ЛР Основы конструирования электронных средств
+UID:b0996b56-e89f-4fab-88b7-41ad8e5e8aa4@b099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20230926T091500Z
+LOCATION:24Б-621
+DTSTART:20230926T074500Z
+SUMMARY:ЛК Устройства генерации колебаний
+UID:64feacd9-eb7a-457d-b888-b018e7151499@64fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20230920T073000Z
+LOCATION:24Б-411
+DTSTART:20230920T060000Z
+SUMMARY:ЛК Инноватика и патентоведение
+UID:87a7f24c-bd13-4341-a272-530152f49900@87a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Назаров Александр Викторович
-DTEND:20230929T091500Z
+DTEND:20231017T073000Z
 LOCATION:24Б-424
-DTSTART:20230929T074500Z
-SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
-UID:94507a37-cbcf-4f1e-9afb-86fb0ae97000@9450.org
+DTSTART:20231017T060000Z
+SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:e03b1640-b6b7-46f9-94c2-763889b55973@e03b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ушкар Михаил Николаевич
-DTEND:20230927T113000Z
-LOCATION:24Б-420
-DTSTART:20230927T100000Z
-SUMMARY:ЛК Основы конструирования электронных средств
-UID:68fc1788-1d95-4300-8bcc-c2f1eca682e6@68fc.org
+DTEND:20231221T113000Z
+LOCATION:--каф.
+DTSTART:20231221T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6ccf3bfa-883c-4235-9666-ff0660be2094@6ccf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Брюханова Елена Николаевна
@@ -2299,6 +577,1728 @@ DTEND:20231101T073000Z
 LOCATION:24Б-411
 DTSTART:20231101T060000Z
 SUMMARY:ЛК Инноватика и патентоведение
-UID:c1d00e10-a875-4f2e-8563-a8bd470d7bcf@c1d0.org
+UID:fc64c136-8c86-4e6f-8f7b-65c63861eb8a@fc64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230909T073000Z
+LOCATION:24Б-422
+DTSTART:20230909T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:1287557d-4e7f-46f1-bc33-a3cf1ee263ff@1287.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T131500Z
+LOCATION:--каф.
+DTSTART:20231102T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:b69a74ea-3242-4212-b351-f6b45d7b581e@b69a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T131500Z
+LOCATION:--каф.
+DTSTART:20230914T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:faf76a60-8502-4920-94cf-c8c3aca47bb7@faf7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T091500Z
+LOCATION:--каф.
+DTSTART:20231109T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ea180313-31ca-4554-a9c5-41d654394086@ea18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231030T113000Z
+LOCATION:24Б-624
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:e7587743-1bb4-4adb-bdd6-5b47ebe54886@e758.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231211T131500Z
+LOCATION:24Б-624
+DTSTART:20231211T114500Z
+SUMMARY:ЛР Проектирование СВЧ устройств
+UID:14d1a832-bd73-4c4b-816a-55e51f2b36fb@14d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231202T131500Z
+LOCATION:24Б-425
+DTSTART:20231202T114500Z
+SUMMARY:ЛР Технология производства электронных средств
+UID:1f2f6f79-7169-4a59-b4b6-364ecedb18c5@1f2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231213T091500Z
+LOCATION:24Б-411
+DTSTART:20231213T074500Z
+SUMMARY:ПЗ Инноватика и патентоведение
+UID:e011645e-99ad-42ed-9544-96aa0c1aa633@e011.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T073000Z
+LOCATION:--каф.
+DTSTART:20230921T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2dc51502-ff1f-4f59-a1e0-fce371c3549f@2dc5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T073000Z
+LOCATION:--каф.
+DTSTART:20230928T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:8a2451ff-6b67-46e6-b93f-d25607e4de8c@8a24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231206T091500Z
+LOCATION:5-401
+DTSTART:20231206T074500Z
+SUMMARY:ЛК Основы менеджмента
+UID:cc5b9a65-35a2-4a3e-8696-e53b582b0a90@cc5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20231003T131500Z
+LOCATION:24Б-621
+DTSTART:20231003T114500Z
+SUMMARY:ПЗ Устройства генерации колебаний
+UID:89da18ae-2b13-482f-a9a7-35ec1a47c8e4@89da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231027T091500Z
+LOCATION:24Б-424
+DTSTART:20231027T074500Z
+SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:94df9d0a-c4bc-40c8-bf8e-f3a0afb8f3a8@94df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230925T113000Z
+LOCATION:24Б-624
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:17e9729c-52bb-487a-a53d-d1bf94d0abc9@17e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231106T131500Z
+LOCATION:24Б-624
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Проектирование СВЧ устройств
+UID:8e29b389-1473-4b58-805e-b897406fcafc@8e29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230902T091500Z
+LOCATION:24Б-422
+DTSTART:20230902T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:1113a988-bd8c-456d-8f3b-a7d74c4ebb23@1113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230911T131500Z
+LOCATION:24Б-624
+DTSTART:20230911T114500Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:d01e7562-130c-447b-bd19-9efc5e641138@d01e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231211T113000Z
+LOCATION:24Б-624
+DTSTART:20231211T100000Z
+SUMMARY:ЛР Проектирование СВЧ устройств
+UID:32de586c-ff48-40eb-9039-dfa24ca740ef@32de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20230930T131500Z
+LOCATION:24Б-420
+DTSTART:20230930T114500Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:3a28216e-4746-4aa8-a669-70719edae3ee@3a28.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T073000Z
+LOCATION:--каф.
+DTSTART:20231130T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:89f0b658-483c-49f1-8c5b-28bba0d884c3@89f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231115T131500Z
+LOCATION:24Б-420
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:ce04d1c5-80bd-42c2-b376-6aa0bf71ffd4@ce04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щербачев Андрей Юрьевич
+DTEND:20231128T131500Z
+LOCATION:24Б-625
+DTSTART:20231128T114500Z
+SUMMARY:ЛР Устройства генерации колебаний
+UID:7fd84906-7a65-46a6-a8c8-786078c57ea1@7fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230904T131500Z
+LOCATION:24Б-624
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:bfa0ab29-7e42-4075-a973-67a4e360086e@bfa0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T131500Z
+LOCATION:--каф.
+DTSTART:20231012T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f3cfa21d-3f3e-42a7-b21b-6ab2992822e1@f3cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231016T091500Z
+LOCATION:24Б-517
+DTSTART:20231016T074500Z
+SUMMARY:ЛК Основы локационных и навигационных систем
+UID:2734ddbc-99e8-4308-906a-7eeba4657e04@2734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231031T073000Z
+LOCATION:24Б-424
+DTSTART:20231031T060000Z
+SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:f6aa1bf4-e504-49ac-adcf-c9cb2717cc06@f6aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20230904T091500Z
+LOCATION:24Б-517
+DTSTART:20230904T074500Z
+SUMMARY:ЛК Основы локационных и навигационных систем
+UID:e2b955a7-cf6f-4e56-91fa-a8e023312978@e2b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231208T091500Z
+LOCATION:24Б-424
+DTSTART:20231208T074500Z
+SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:0db1e75e-66f3-4985-b463-2c07f188e838@0db1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20230916T113000Z
+LOCATION:24Б-420
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:d00c18a8-4a91-4a9e-901d-67daa799d3eb@d00c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T091500Z
+LOCATION:--каф.
+DTSTART:20231005T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:9314b6e2-0251-472d-84a4-769ee80ecc33@9314.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T091500Z
+LOCATION:--каф.
+DTSTART:20231207T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5918d353-9e68-481a-aeda-6c7a8baf45ab@5918.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231013T113000Z
+LOCATION:5-107А
+DTSTART:20231013T100000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:41cc407b-9d63-40ad-a941-c0cb270d8dba@41cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231222T073000Z
+LOCATION:24Б-424
+DTSTART:20231222T060000Z
+SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:62cd1410-1664-4a1b-8fbb-5c83e125152f@62cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щербачев Андрей Юрьевич
+DTEND:20231114T113000Z
+LOCATION:24Б-625
+DTSTART:20231114T100000Z
+SUMMARY:ЛР Устройства генерации колебаний
+UID:fbf14f0d-743c-46f7-909c-797f51da6787@fbf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231028T073000Z
+LOCATION:24Б-422
+DTSTART:20231028T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:b330c391-e32a-4e1a-a9b3-955ebcbcfc62@b330.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231213T073000Z
+LOCATION:24Б-411
+DTSTART:20231213T060000Z
+SUMMARY:ЛК Инноватика и патентоведение
+UID:086b04b7-9347-4408-a37c-927e8e5b78bd@086b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T113000Z
+LOCATION:--каф.
+DTSTART:20231102T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:8ee098bb-e8a7-4423-8121-f595f275100f@8ee0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T091500Z
+LOCATION:--каф.
+DTSTART:20231214T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:056279d9-391d-424f-8a63-91a942dd2531@0562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20231024T073000Z
+LOCATION:24Б-621
+DTSTART:20231024T060000Z
+SUMMARY:ЛК Устройства генерации колебаний
+UID:bd1a189e-1875-4bcd-8731-af4f932849e3@bd1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231129T113000Z
+LOCATION:24Б-420
+DTSTART:20231129T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:aea5b640-5207-432f-a01d-97e1e7acb901@aea5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231206T131500Z
+LOCATION:24Б-420
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:8a081977-a72c-41fb-95b8-043763a13f98@8a08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231227T091500Z
+LOCATION:24Б-411
+DTSTART:20231227T074500Z
+SUMMARY:ПЗ Инноватика и патентоведение
+UID:e311b3ec-f300-44cb-b828-658f350d589c@e311.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231016T073000Z
+LOCATION:24Б-517
+DTSTART:20231016T060000Z
+SUMMARY:ЛК Основы локационных и навигационных систем
+UID:b535f83b-4fd4-40f0-ba6d-61184eddeed3@b535.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231225T113000Z
+LOCATION:24Б-624
+DTSTART:20231225T100000Z
+SUMMARY:ЛР Проектирование СВЧ устройств
+UID:baadc759-f43f-4391-8dbf-d340225b3d55@baad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20230930T113000Z
+LOCATION:24Б-420
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:f1f8d205-22e3-45d9-ba4c-463107773aee@f1f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20230915T113000Z
+LOCATION:5-107А
+DTSTART:20230915T100000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:110cfad5-ed65-4065-94af-701e19d35f6e@110c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231018T131500Z
+LOCATION:24Б-420
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:07fce501-3bde-4cb5-bdf4-2887435d52eb@07fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231120T113000Z
+LOCATION:24Б-624
+DTSTART:20231120T100000Z
+SUMMARY:ПЗ Проектирование СВЧ устройств
+UID:a16f43f7-77da-4862-bf7c-ce1e8a1952cd@a16f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T073000Z
+LOCATION:--каф.
+DTSTART:20231019T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f5a479cd-fd56-4651-b071-cb2f23bef23e@f5a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231124T091500Z
+LOCATION:24Б-424
+DTSTART:20231124T074500Z
+SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:133cedf2-81dc-4e9a-94d1-afd17e56f2c3@133c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T131500Z
+LOCATION:--каф.
+DTSTART:20231130T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ac6393da-c4b6-440c-82cc-61c49159e4f0@ac63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231115T073000Z
+LOCATION:24Б-411
+DTSTART:20231115T060000Z
+SUMMARY:ЛК Инноватика и патентоведение
+UID:7a35ee7b-0b8a-4c67-a6f6-62d6204b6473@7a35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231108T113000Z
+LOCATION:24Б-420
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:cbe96833-e82b-4b40-a44b-ff057ad82d0b@cbe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231122T131500Z
+LOCATION:24Б-420
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:833af666-d043-4071-82a9-938b3da693fd@833a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231017T091500Z
+LOCATION:24Б-424
+DTSTART:20231017T074500Z
+SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:80ccc53c-39dd-4be8-8415-c311469d32fc@80cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T131500Z
+LOCATION:--каф.
+DTSTART:20230921T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8621f08d-ecaf-4576-9230-fa6efd8f165a@8621.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T131500Z
+LOCATION:--каф.
+DTSTART:20231005T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:52c297b2-d43d-4885-8e6a-98dc957ae1c1@52c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231113T131500Z
+LOCATION:24Б-624
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Проектирование СВЧ устройств
+UID:6dc34617-5eb7-4095-9132-495a9956ea8c@6dc3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T113000Z
+LOCATION:--каф.
+DTSTART:20231123T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0d7720b8-0741-4dac-b591-9837fe4f1c9f@0d77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щербачев Андрей Юрьевич
+DTEND:20231212T131500Z
+LOCATION:24Б-625
+DTSTART:20231212T114500Z
+SUMMARY:ЛР Устройства генерации колебаний
+UID:8398a5e3-3943-4637-911e-167636831304@8398.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231223T113000Z
+LOCATION:24Б-420
+DTSTART:20231223T100000Z
+SUMMARY:ПЗ Технология производства электронных средств
+UID:b66c22b4-3e67-4b1b-812e-c9e59e1e1c44@b66c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231018T091500Z
+LOCATION:24Б-411
+DTSTART:20231018T074500Z
+SUMMARY:ПЗ Инноватика и патентоведение
+UID:06bf12dd-5ef7-4625-852f-5e17f8c8d71d@06bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231014T131500Z
+LOCATION:24Б-420
+DTSTART:20231014T114500Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:5449a8e3-9bfc-44ef-8a33-157590cc4d73@5449.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231014T113000Z
+LOCATION:24Б-420
+DTSTART:20231014T100000Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:3d9d74cd-1a8d-4ffb-81ca-f9c4569fef41@3d9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231028T131500Z
+LOCATION:24Б-420
+DTSTART:20231028T114500Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:2f55787c-fd77-4dc8-9af5-f3989fc76869@2f55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231014T091500Z
+LOCATION:24Б-422
+DTSTART:20231014T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:a3c8c0e2-781d-4f6c-a178-5d62c71406bb@a3c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231027T113000Z
+LOCATION:5-107А
+DTSTART:20231027T100000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:71544746-64c9-499e-b1ea-eeb67b857ded@7154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230911T113000Z
+LOCATION:24Б-624
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:f2e807fc-f6d1-48b3-8bed-e01c80167fb9@f2e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231111T131500Z
+LOCATION:24Б-420
+DTSTART:20231111T114500Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:33c95630-1c57-4da7-95c6-70eddd04ff58@33c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231115T091500Z
+LOCATION:24Б-411
+DTSTART:20231115T074500Z
+SUMMARY:ПЗ Инноватика и патентоведение
+UID:39151057-3261-45f2-a032-3197d7d1f82f@3915.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231125T131500Z
+LOCATION:24Б-420
+DTSTART:20231125T114500Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:1692466e-0767-43ff-8d23-38514bbddbb0@1692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231007T091500Z
+LOCATION:24Б-422
+DTSTART:20231007T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:7040ea89-1a05-40bd-b3e8-acb77c854087@7040.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T073000Z
+LOCATION:--каф.
+DTSTART:20231207T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:067af8fb-1c14-4ce4-8d91-e821273bac80@067a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231025T113000Z
+LOCATION:24Б-420
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:73ca3961-6004-49cb-aadf-ed4d18e6e228@73ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231218T131500Z
+LOCATION:24Б-624
+DTSTART:20231218T114500Z
+SUMMARY:ЛР Проектирование СВЧ устройств
+UID:1d32b2fe-3462-4917-a684-b3a7fa40ec4c@1d32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231016T131500Z
+LOCATION:24Б-624
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:53b33fbb-69dc-4eaa-8141-39579191bd97@53b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20230929T091500Z
+LOCATION:24Б-424
+DTSTART:20230929T074500Z
+SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:b8225e2f-6d71-45ad-93fc-395a4faf2439@b822.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231209T131500Z
+LOCATION:24Б-420
+DTSTART:20231209T114500Z
+SUMMARY:ПЗ Технология производства электронных средств
+UID:02654124-e5ee-4ae9-a7d0-dd44dd5f0ed8@0265.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T073000Z
+LOCATION:--каф.
+DTSTART:20231116T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5eaaa0d5-dde2-455b-a90f-a2e3aa224f65@5eaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231225T073000Z
+LOCATION:24Б-521
+DTSTART:20231225T060000Z
+SUMMARY:ЛР Основы локационных и навигационных систем
+UID:ea529cad-9963-4449-a6c1-ca2d027027ee@ea52.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T073000Z
+LOCATION:--каф.
+DTSTART:20231228T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:18a17c4f-3db4-478c-b58c-ab21642f42b1@18a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T073000Z
+LOCATION:--каф.
+DTSTART:20230914T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2b0bda9f-4b66-430a-97d8-91c6d2486faf@2b0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231004T113000Z
+LOCATION:24Б-420
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:f0ec8470-e10a-4801-be2c-bf11213c0c10@f0ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231025T131500Z
+LOCATION:24Б-420
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:fa1783f3-77d4-4e41-a35a-0b06e15e8942@fa17.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T091500Z
+LOCATION:--каф.
+DTSTART:20231130T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f17c88ef-b24d-414f-a9df-cf05508e5eac@f17c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231002T131500Z
+LOCATION:24Б-624
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:bdd4af9b-faec-4203-9eb7-3eb6a3b4f5ca@bdd4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T073000Z
+LOCATION:--каф.
+DTSTART:20231012T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0bf95746-0c2f-4a31-b038-3904254e8700@0bf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20231107T091500Z
+LOCATION:24Б-621
+DTSTART:20231107T074500Z
+SUMMARY:ЛК Устройства генерации колебаний
+UID:587bcece-b967-4cbb-8c2d-d3df7c274b44@587b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231122T113000Z
+LOCATION:24Б-420
+DTSTART:20231122T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:c287610a-c278-4046-8ec0-e41cb8bfae09@c287.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230930T091500Z
+LOCATION:24Б-422
+DTSTART:20230930T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:b63c13bc-447f-4fa4-b561-a195fd3546bf@b63c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231118T073000Z
+LOCATION:24Б-422
+DTSTART:20231118T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:0dc66f45-243f-43d0-9d7a-c58b305a464b@0dc6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T091500Z
+LOCATION:--каф.
+DTSTART:20231026T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:6dd099c1-861e-4016-be16-194f48bae3a4@6dd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231108T091500Z
+LOCATION:5-401
+DTSTART:20231108T074500Z
+SUMMARY:ЛК Основы менеджмента
+UID:8ca2eb7d-10ed-4761-b095-43f9b814493d@8ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231018T113000Z
+LOCATION:24Б-420
+DTSTART:20231018T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:b875960f-94f6-4866-9e43-ee4ae7dfa014@b875.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T113000Z
+LOCATION:--каф.
+DTSTART:20231012T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d9204551-214b-4cad-95ac-d8c8fefe443f@d920.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231113T073000Z
+LOCATION:24Б-517
+DTSTART:20231113T060000Z
+SUMMARY:ПЗ Основы локационных и навигационных систем
+UID:a47d7381-43d9-4215-a18c-f97cf25b1d90@a47d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20230919T113000Z
+LOCATION:24Б-621
+DTSTART:20230919T100000Z
+SUMMARY:ПЗ Устройства генерации колебаний
+UID:3f734af5-9b15-4381-ba8d-40327119ff08@3f73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231127T131500Z
+LOCATION:24Б-624
+DTSTART:20231127T114500Z
+SUMMARY:ПЗ Проектирование СВЧ устройств
+UID:359be47e-5fe1-4f01-b0b6-ff4e4bb28739@359b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231002T113000Z
+LOCATION:24Б-624
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:11c6cfc1-c306-4f53-9b6b-e29c1b98fc64@11c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231204T113000Z
+LOCATION:24Б-624
+DTSTART:20231204T100000Z
+SUMMARY:ПЗ Проектирование СВЧ устройств
+UID:f1cb11f7-cb61-4447-9e18-4abd8e183f64@f1cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T131500Z
+LOCATION:--каф.
+DTSTART:20231228T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0ff64e04-4696-471a-b015-afdbf8bad9f5@0ff6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231202T073000Z
+LOCATION:24Б-422
+DTSTART:20231202T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:90a18c30-5bd0-40fa-9cbd-5a3a7f36c8e4@90a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T113000Z
+LOCATION:--каф.
+DTSTART:20231005T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:160e9d90-4ba5-49e2-b83b-1a54357e8791@160e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231202T091500Z
+LOCATION:24Б-422
+DTSTART:20231202T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:eac7a7d4-37f5-4c85-86e6-cd22ed61dbd4@eac7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T113000Z
+LOCATION:--каф.
+DTSTART:20231207T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2e3a808f-cabb-4b1c-8121-08b562e2136f@2e3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щербачев Андрей Юрьевич
+DTEND:20231114T131500Z
+LOCATION:24Б-625
+DTSTART:20231114T114500Z
+SUMMARY:ЛР Устройства генерации колебаний
+UID:a8a0296c-ccea-4a6a-94d1-1d893c8cf92e@a8a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васильева Татьяна Юрьевна
+DTEND:20231215T073000Z
+LOCATION:24Б-425
+DTSTART:20231215T060000Z
+SUMMARY:ЛР Основы конструирования электронных средств
+UID:fb95ab1b-654c-47e5-bd2a-e81472a52a70@fb95.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T113000Z
+LOCATION:--каф.
+DTSTART:20230914T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d477786f-315a-454b-83e4-da25c45c4d12@d477.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231003T073000Z
+LOCATION:24Б-424
+DTSTART:20231003T060000Z
+SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:483ae37c-f19b-4e46-9dc3-edc4b412a466@483a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231222T091500Z
+LOCATION:24Б-424
+DTSTART:20231222T074500Z
+SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:444b9453-796e-4a56-ac62-ebee9e2bcab0@444b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20230912T091500Z
+LOCATION:24Б-621
+DTSTART:20230912T074500Z
+SUMMARY:ЛК Устройства генерации колебаний
+UID:476b5647-e03f-4888-ab4b-a8395e797e00@476b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20230927T113000Z
+LOCATION:24Б-420
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:72b7993f-b8bc-44d4-aead-d28d6d9fcaca@72b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20230906T113000Z
+LOCATION:24Б-420
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:023e5f03-d8d1-4fb5-a5bc-cab8b0cb9670@023e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T113000Z
+LOCATION:--каф.
+DTSTART:20231214T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0fd6f3d4-59f0-41c3-9605-6cde38cc18da@0fd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20231010T073000Z
+LOCATION:24Б-621
+DTSTART:20231010T060000Z
+SUMMARY:ЛК Устройства генерации колебаний
+UID:6f1c4477-d88a-4a4d-aac5-45566acac975@6f1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щербачев Андрей Юрьевич
+DTEND:20231212T113000Z
+LOCATION:24Б-625
+DTSTART:20231212T100000Z
+SUMMARY:ЛР Устройства генерации колебаний
+UID:cb8cddab-f877-4012-b349-cb6570193f3d@cb8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231204T131500Z
+LOCATION:24Б-624
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Проектирование СВЧ устройств
+UID:3a8b214d-1073-4282-beb4-34fc652f9ea7@3a8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20230913T113000Z
+LOCATION:24Б-420
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:4f1eee41-6fc6-4196-8189-1f95405cedff@4f1e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T091500Z
+LOCATION:--каф.
+DTSTART:20230928T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f1f2ea2a-a573-4de4-981d-a9f729eb01c8@f1f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231009T113000Z
+LOCATION:24Б-624
+DTSTART:20231009T100000Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:febe61a1-7b7b-495a-a299-7b52397598e5@febe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231009T131500Z
+LOCATION:24Б-624
+DTSTART:20231009T114500Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:e84bd683-e6d5-4579-b1b8-16cfde37c3fc@e84b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231106T113000Z
+LOCATION:24Б-624
+DTSTART:20231106T100000Z
+SUMMARY:ПЗ Проектирование СВЧ устройств
+UID:ce0c0d84-7a35-42c0-925e-5e4fcf31beb5@ce0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231208T073000Z
+LOCATION:24Б-424
+DTSTART:20231208T060000Z
+SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:a19caf58-42d3-4cc4-ae00-713be0bed3b1@a19c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20230920T113000Z
+LOCATION:24Б-420
+DTSTART:20230920T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:72932a10-649a-42c9-a991-93ed69807f7a@7293.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T113000Z
+LOCATION:--каф.
+DTSTART:20231109T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e0b36f84-24f1-47f2-ad31-41d096884309@e0b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231013T073000Z
+LOCATION:24Б-424
+DTSTART:20231013T060000Z
+SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:30bc38bb-fa21-402f-b9c2-e89002fc3449@30bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20230919T091500Z
+LOCATION:24Б-424
+DTSTART:20230919T074500Z
+SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:07de75c1-306f-4da6-a8d4-9a2a0a887b40@07de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230923T091500Z
+LOCATION:24Б-422
+DTSTART:20230923T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:3000e206-f622-48f3-b71c-21d40cfcfef5@3000.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231124T113000Z
+LOCATION:5-107А
+DTSTART:20231124T100000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:71ecd829-1ec5-411d-b1cc-6c17eaaf8afc@71ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231222T113000Z
+LOCATION:5-107А
+DTSTART:20231222T100000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:f51c0732-3a1a-45a3-919e-815dbf060bee@f51c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231003T091500Z
+LOCATION:24Б-424
+DTSTART:20231003T074500Z
+SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:94a031be-2152-46e0-9a8c-c6b1da792daa@94a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щербачев Андрей Юрьевич
+DTEND:20231226T131500Z
+LOCATION:24Б-625
+DTSTART:20231226T114500Z
+SUMMARY:ЛР Устройства генерации колебаний
+UID:94dce72d-ba92-42fd-8c5c-6f9230cb61c6@94dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20230926T073000Z
+LOCATION:24Б-621
+DTSTART:20230926T060000Z
+SUMMARY:ЛК Устройства генерации колебаний
+UID:dd8cad8e-da4c-4b6a-868d-c36234646a77@dd8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20230927T131500Z
+LOCATION:24Б-420
+DTSTART:20230927T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:7d9e8662-e550-49aa-8db2-6f06f1b7e924@7d9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231211T073000Z
+LOCATION:24Б-521
+DTSTART:20231211T060000Z
+SUMMARY:ЛР Основы локационных и навигационных систем
+UID:c766a15d-00e2-4470-ab67-ea8e7b150ff2@c766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231209T091500Z
+LOCATION:24Б-422
+DTSTART:20231209T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:9ec657c5-b012-46d6-bb21-2cb4be895c78@9ec6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231021T091500Z
+LOCATION:24Б-422
+DTSTART:20231021T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:9515d728-c273-4376-9e26-ea9ff4fcf04b@9515.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20230909T131500Z
+LOCATION:24Б-420
+DTSTART:20230909T114500Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:87494707-de77-4234-86e3-4ff4ee7c3415@8749.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230930T073000Z
+LOCATION:24Б-422
+DTSTART:20230930T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:19c23d74-92c2-4442-87bf-7d1bdc6f6bfd@19c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231110T113000Z
+LOCATION:5-107А
+DTSTART:20231110T100000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:37c8e881-5323-42c8-a837-2231b91e19d0@37c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231213T113000Z
+LOCATION:24Б-420
+DTSTART:20231213T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:13372900-7766-4208-ad24-d37e5a9d3425@1337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230904T113000Z
+LOCATION:24Б-624
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:fa800a19-84b0-4d84-80db-07fe20100368@fa80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20231024T091500Z
+LOCATION:24Б-621
+DTSTART:20231024T074500Z
+SUMMARY:ЛК Устройства генерации колебаний
+UID:9ae3500f-1261-4fca-b06f-64f8ad8cdbf1@9ae3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231108T131500Z
+LOCATION:24Б-420
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:1a1f2ce0-e5e6-4d3c-99b2-6c782410531d@1a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T131500Z
+LOCATION:--каф.
+DTSTART:20231123T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0f5b738b-f55a-44ac-90cd-f618962fb1ce@0f5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231223T131500Z
+LOCATION:24Б-420
+DTSTART:20231223T114500Z
+SUMMARY:ПЗ Технология производства электронных средств
+UID:2c691deb-3307-45da-b13f-742b47a6fc18@2c69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20230919T131500Z
+LOCATION:24Б-621
+DTSTART:20230919T114500Z
+SUMMARY:ПЗ Устройства генерации колебаний
+UID:09799018-d40c-4b3c-88bc-fe9a47e12143@0979.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20230909T113000Z
+LOCATION:24Б-420
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:11a2207d-517a-4c17-b760-f46e0011345c@11a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20230913T091500Z
+LOCATION:5-401
+DTSTART:20230913T074500Z
+SUMMARY:ЛК Основы менеджмента
+UID:194b0d7f-e0d6-47ed-866e-77acb235da50@194b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231004T073000Z
+LOCATION:24Б-411
+DTSTART:20231004T060000Z
+SUMMARY:ЛК Инноватика и патентоведение
+UID:96589df0-7fa8-439d-a908-c7fed1c0a1fc@9658.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231129T091500Z
+LOCATION:24Б-411
+DTSTART:20231129T074500Z
+SUMMARY:ПЗ Инноватика и патентоведение
+UID:5051f920-ba55-4d75-8da4-961b61912314@5051.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T073000Z
+LOCATION:--каф.
+DTSTART:20231026T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:637f0d84-8a6a-4b4d-9b49-8c12fd7191c9@637f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T113000Z
+LOCATION:--каф.
+DTSTART:20231116T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e75eadf5-352c-4ccc-badd-a51268146a59@e75e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T113000Z
+LOCATION:--каф.
+DTSTART:20230907T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c67de86f-d349-4534-a2fb-0f59eca1cfa2@c67d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231023T131500Z
+LOCATION:24Б-624
+DTSTART:20231023T114500Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:b076717d-44b1-4d5b-a390-db57454c68c9@b076.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231127T073000Z
+LOCATION:24Б-517
+DTSTART:20231127T060000Z
+SUMMARY:ПЗ Основы локационных и навигационных систем
+UID:74da7044-e15d-40c7-8fa0-8a72781c22cb@74da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231124T073000Z
+LOCATION:24Б-424
+DTSTART:20231124T060000Z
+SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:2ac96af4-ab0a-489c-a896-d7d5309efb52@2ac9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231030T073000Z
+LOCATION:24Б-517
+DTSTART:20231030T060000Z
+SUMMARY:ЛК Основы локационных и навигационных систем
+UID:e2b18530-9626-4cb2-ab1c-d9cb9d583aa0@e2b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231110T091500Z
+LOCATION:24Б-424
+DTSTART:20231110T074500Z
+SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:cc33757b-ad4c-49eb-9003-c1fee5e14e6c@cc33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231002T073000Z
+LOCATION:24Б-517
+DTSTART:20231002T060000Z
+SUMMARY:ЛК Основы локационных и навигационных систем
+UID:55e8a8b9-1863-4971-9f59-d95cf44449dc@55e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щербачев Андрей Юрьевич
+DTEND:20231226T113000Z
+LOCATION:24Б-625
+DTSTART:20231226T100000Z
+SUMMARY:ЛР Устройства генерации колебаний
+UID:ff6bf3fb-c65c-4821-9f27-74c43ff7c2d0@ff6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231111T073000Z
+LOCATION:24Б-422
+DTSTART:20231111T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:9d11185e-f0c6-415e-a7d8-5b3ad9c5b6ef@9d11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231011T131500Z
+LOCATION:24Б-420
+DTSTART:20231011T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:23fc8816-50fb-4552-af98-e511ed8a4ffa@23fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231013T091500Z
+LOCATION:24Б-424
+DTSTART:20231013T074500Z
+SUMMARY:ПЗ Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:b0e2f7b9-196c-4dc3-aed6-6ae5ed3f0290@b0e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васильева Татьяна Юрьевна
+DTEND:20231201T073000Z
+LOCATION:24Б-425
+DTSTART:20231201T060000Z
+SUMMARY:ЛР Основы конструирования электронных средств
+UID:b93a2ed1-2f97-4240-acbe-0d9becebcdde@b93a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васильева Татьяна Юрьевна
+DTEND:20231215T091500Z
+LOCATION:24Б-425
+DTSTART:20231215T074500Z
+SUMMARY:ЛР Основы конструирования электронных средств
+UID:04b26573-4493-4655-b06d-1fd5e1338c80@04b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231004T131500Z
+LOCATION:24Б-420
+DTSTART:20231004T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:8137f729-ecd6-4a66-8762-27adf7c1ef16@8137.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20230918T091500Z
+LOCATION:24Б-517
+DTSTART:20230918T074500Z
+SUMMARY:ЛК Основы локационных и навигационных систем
+UID:a9323aa9-faa4-4766-80a0-18bc08434e1c@a932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231004T091500Z
+LOCATION:24Б-411
+DTSTART:20231004T074500Z
+SUMMARY:ПЗ Инноватика и патентоведение
+UID:bdfb84e1-37fe-4ea3-bc4e-bb0c442b9476@bdfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20230919T073000Z
+LOCATION:24Б-424
+DTSTART:20230919T060000Z
+SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:f881e7d2-c883-4665-a727-343124d5018a@f881.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20231031T113000Z
+LOCATION:24Б-621
+DTSTART:20231031T100000Z
+SUMMARY:ПЗ Устройства генерации колебаний
+UID:3e815ae7-f659-4b94-b456-8055475b4c65@3e81.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T091500Z
+LOCATION:--каф.
+DTSTART:20231102T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d7193792-b44d-4c88-97c7-ab2ca3b773e3@d719.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231125T091500Z
+LOCATION:24Б-422
+DTSTART:20231125T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:66fe8e20-e785-4bdd-ab52-33efbb8c705b@66fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20230906T091500Z
+LOCATION:24Б-411
+DTSTART:20230906T074500Z
+SUMMARY:ПЗ Инноватика и патентоведение
+UID:2684239d-e8fc-4d3c-9e85-b78030fb912a@2684.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20231127T091500Z
+LOCATION:24Б-517
+DTSTART:20231127T074500Z
+SUMMARY:ПЗ Основы локационных и навигационных систем
+UID:08b7e1ab-8449-48f1-99e7-2c79ff761358@08b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T113000Z
+LOCATION:--каф.
+DTSTART:20231130T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:1c04ed99-c159-4f26-8e80-c3395602ce37@1c04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231127T113000Z
+LOCATION:24Б-624
+DTSTART:20231127T100000Z
+SUMMARY:ПЗ Проектирование СВЧ устройств
+UID:ffa3f3d1-b361-439e-8846-a6c2a9059362@ffa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20230906T073000Z
+LOCATION:24Б-411
+DTSTART:20230906T060000Z
+SUMMARY:ЛК Инноватика и патентоведение
+UID:eb712e0e-646d-4cd9-813b-62ed2cbfd73d@eb71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231016T113000Z
+LOCATION:24Б-624
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:43bdad8c-08c3-49e4-bae6-610eae7d680b@43bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231030T131500Z
+LOCATION:24Б-624
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Проектирование СВЧ устройств
+UID:50f3faee-1a3c-43e9-b345-35cff2dcd2f3@50f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231011T091500Z
+LOCATION:5-401
+DTSTART:20231011T074500Z
+SUMMARY:ЛК Основы менеджмента
+UID:62480d03-8b0e-4a28-a046-21a13f0defc2@6248.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230916T091500Z
+LOCATION:24Б-422
+DTSTART:20230916T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:58c2ec74-0a43-4b67-b93f-b0181b45ba89@58c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231114T073000Z
+LOCATION:24Б-424
+DTSTART:20231114T060000Z
+SUMMARY:ЛР Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:9e6f0fd5-d016-4a58-aef4-393b81a3105d@9e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20231110T073000Z
+LOCATION:24Б-424
+DTSTART:20231110T060000Z
+SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:eab214f8-4c94-4e27-bb6f-d96b2e9b8a3a@eab2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T131500Z
+LOCATION:--каф.
+DTSTART:20231026T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:6cc975b6-a1da-41b0-8a42-4b9e67ec89b7@6cc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230909T091500Z
+LOCATION:24Б-422
+DTSTART:20230909T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:3936b0c5-e475-401d-a4e8-896f507fbea2@3936.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T091500Z
+LOCATION:--каф.
+DTSTART:20231221T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f4fa1a78-0667-405c-a585-2ce912f03ed3@f4fa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T073000Z
+LOCATION:--каф.
+DTSTART:20231102T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:adf6347e-1193-4014-973d-147d9c4cf0e7@adf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231115T113000Z
+LOCATION:24Б-420
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:5a279316-d7cd-408a-9bd5-7cd882f9a39f@5a27.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T113000Z
+LOCATION:--каф.
+DTSTART:20231019T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:133549d7-22cc-4d95-ba46-32b1ab79a732@1335.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Василий Валерьевич
+DTEND:20230918T073000Z
+LOCATION:24Б-517
+DTSTART:20230918T060000Z
+SUMMARY:ЛК Основы локационных и навигационных систем
+UID:3bad1ab5-0ff8-4f0b-b114-848cd743757a@3bad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T131500Z
+LOCATION:--каф.
+DTSTART:20231207T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3350eccc-470e-4e62-ab35-1e95581ae19c@3350.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231213T131500Z
+LOCATION:24Б-420
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:d60da970-2067-4f32-9de5-41c7744eb904@d60d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T091500Z
+LOCATION:--каф.
+DTSTART:20231123T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:bd4df635-b309-4f01-bee1-70ce6c7f7a1f@bd4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231216T113000Z
+LOCATION:24Б-425
+DTSTART:20231216T100000Z
+SUMMARY:ЛР Технология производства электронных средств
+UID:e38de779-0d76-455d-8a77-ccbcb0c9142e@e38d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T131500Z
+LOCATION:--каф.
+DTSTART:20231116T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:557dada0-1874-4afa-b10a-1694670519cc@557d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231118T091500Z
+LOCATION:24Б-422
+DTSTART:20231118T074500Z
+SUMMARY:ПЗ Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:ae51165c-2662-4cde-a9e7-749aae7c7f82@ae51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20230920T131500Z
+LOCATION:24Б-420
+DTSTART:20230920T114500Z
+SUMMARY:ПЗ Основы конструирования электронных средств
+UID:effedd1b-a0e3-44cc-870d-0cc94d17010e@effe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Климова Светлана Александровна
+DTEND:20231028T113000Z
+LOCATION:24Б-420
+DTSTART:20231028T100000Z
+SUMMARY:ЛК Технология производства электронных средств
+UID:f3451846-0b05-49cf-9fd6-8a43c5eac412@f345.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231014T073000Z
+LOCATION:24Б-422
+DTSTART:20231014T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:b0709fff-8494-44d9-b041-301a2e5970e2@b070.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васильева Татьяна Юрьевна
+DTEND:20231117T091500Z
+LOCATION:24Б-425
+DTSTART:20231117T074500Z
+SUMMARY:ЛР Основы конструирования электронных средств
+UID:f1576a65-8f21-4355-8340-ac7cd3ba5c7e@f157.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T131500Z
+LOCATION:--каф.
+DTSTART:20231109T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:679c17e9-20b0-4acb-9130-75f22d2266fb@679c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231208T113000Z
+LOCATION:5-107А
+DTSTART:20231208T100000Z
+SUMMARY:ПЗ Основы менеджмента
+UID:04002443-c0d1-4d26-ab34-95e1caec2d58@0400.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T073000Z
+LOCATION:--каф.
+DTSTART:20231214T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9ce7954d-0b42-4be6-a110-ab5f6f98f91c@9ce7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20231017T131500Z
+LOCATION:24Б-621
+DTSTART:20231017T114500Z
+SUMMARY:ПЗ Устройства генерации колебаний
+UID:2e67bfae-ae40-411c-af3c-22e499442cb8@2e67.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T131500Z
+LOCATION:--каф.
+DTSTART:20230928T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e9bdb24c-0c97-458f-873a-8eb17f2fc556@e9bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T113000Z
+LOCATION:--каф.
+DTSTART:20230928T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:93e10263-642f-4fc8-b989-b1457a9b4fc4@93e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T073000Z
+LOCATION:--каф.
+DTSTART:20231109T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:cf26eaca-9d02-4e76-b659-b7f3656b81e9@cf26.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T091500Z
+LOCATION:--каф.
+DTSTART:20231019T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:14668709-bf81-4ce8-b840-b04847cdbe89@1466.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Брюханова Елена Николаевна
+DTEND:20231101T091500Z
+LOCATION:24Б-411
+DTSTART:20231101T074500Z
+SUMMARY:ПЗ Инноватика и патентоведение
+UID:9fcb4787-24c0-416d-8134-a53c1a55c9f2@9fcb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T073000Z
+LOCATION:--каф.
+DTSTART:20230907T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ef03cd02-bacc-4247-86ea-10996f4ad7f6@ef03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231120T131500Z
+LOCATION:24Б-624
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Проектирование СВЧ устройств
+UID:8fbc463f-a7d4-4d3c-9d92-48b7f9be44c8@8fbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГРЕШНЕВИКОВА НАТАЛЬЯ АЛЕКСАНДРОВНА
+DTEND:20231122T091500Z
+LOCATION:5-401
+DTSTART:20231122T074500Z
+SUMMARY:ЛК Основы менеджмента
+UID:c9ce977f-bd19-4eb0-807f-fd7335dbaa52@c9ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20231017T113000Z
+LOCATION:24Б-621
+DTSTART:20231017T100000Z
+SUMMARY:ПЗ Устройства генерации колебаний
+UID:69d7522c-9277-458a-b951-27ff43eb17fb@69d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T131500Z
+LOCATION:--каф.
+DTSTART:20231214T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a2bef5e3-cce9-4f00-971b-b3179730cdee@a2be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T131500Z
+LOCATION:--каф.
+DTSTART:20231221T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:38d1a08e-99c6-4f77-a30e-53c524bf99dd@38d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шовкалюк Алексей Петрович
+DTEND:20230912T073000Z
+LOCATION:24Б-621
+DTSTART:20230912T060000Z
+SUMMARY:ЛК Устройства генерации колебаний
+UID:76b3193e-3588-4c7f-a829-f37efdcbb093@76b3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T113000Z
+LOCATION:--каф.
+DTSTART:20230921T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:af57a8e6-2de1-43b9-9b77-2d7433fd75ba@af57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушкар Михаил Николаевич
+DTEND:20231206T113000Z
+LOCATION:24Б-420
+DTSTART:20231206T100000Z
+SUMMARY:ЛК Основы конструирования электронных средств
+UID:0e8465ef-c03f-4889-a1bc-6e23c6758407@0e84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Викторович
+DTEND:20230915T073000Z
+LOCATION:24Б-424
+DTSTART:20230915T060000Z
+SUMMARY:ЛК Автоматизация конструирования и технологической подготовки производства радиоэлектронных средств
+UID:06b8d1da-40f7-4dff-98e6-749bd3c7bccc@06b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230902T073000Z
+LOCATION:24Б-422
+DTSTART:20230902T060000Z
+SUMMARY:ЛК Программное обеспечение автоматизации разработки и анализа конструкций электронных средств
+UID:e255be34-35de-4e50-bc85-82d76a0b0069@e255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Щербачев Андрей Юрьевич
+DTEND:20231128T113000Z
+LOCATION:24Б-625
+DTSTART:20231128T100000Z
+SUMMARY:ЛР Устройства генерации колебаний
+UID:9186e57d-8267-4d3d-80d8-cdf63d52df66@9186.org
 END:VEVENT
 END:VCALENDAR

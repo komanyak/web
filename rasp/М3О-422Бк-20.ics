@@ -2,180 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231031T091500Z
-LOCATION:5-227
-DTSTART:20231031T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:48a9b995-42d5-4db1-85a6-8a3dc15be2a6@48a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231127T113000Z
-LOCATION:5-413
-DTSTART:20231127T100000Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:f11f4969-5ca6-408d-b01e-84c2b176ed95@f11f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231123T113000Z
-LOCATION:5-232
-DTSTART:20231123T100000Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:06119362-65bd-4150-b6a0-976bd00cf444@0611.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230914T113000Z
-LOCATION:5-232
-DTSTART:20230914T100000Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:d53e501c-49b7-4926-8db5-92981e43c4f2@d53e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230906T073000Z
-LOCATION:5-413
-DTSTART:20230906T060000Z
-SUMMARY:ЛК ИТ инновации в бизнесе
-UID:4dbce9ed-2b9c-4592-8ec2-59e337887751@4dbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231229T164500Z
-LOCATION:5-122
-DTSTART:20231229T151500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:b5cf80c7-385b-4107-98e8-5a1ef8bc4c34@b5cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231205T131500Z
-LOCATION:5-232
-DTSTART:20231205T114500Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:0cab3077-67c9-4c58-8685-98223a314ecb@0cab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231116T131500Z
-LOCATION:5-414В
-DTSTART:20231116T114500Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:af34e1f2-66f2-4141-abd6-195b4040104b@af34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20230918T113000Z
-LOCATION:5-413
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:3ed08467-c1d9-4bce-81dd-e7dcf597e17c@3ed0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20230915T131500Z
-LOCATION:5-122
-DTSTART:20230915T114500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:b69393e8-fbef-46de-9c2a-a6fff5db0fcf@b693.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20230926T073000Z
-LOCATION:5-227
-DTSTART:20230926T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:affd01c5-c115-4145-861a-341eabd42133@affd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230914T131500Z
-LOCATION:5-232
-DTSTART:20230914T114500Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:ebc0fb65-c889-4cbb-97e7-bb67a18c1a61@ebc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230920T091500Z
-LOCATION:5-413
-DTSTART:20230920T074500Z
-SUMMARY:ЛК ИТ инновации в бизнесе
-UID:28a83339-fe89-4669-95ff-e25ffc09ce88@28a8.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231102T091500Z
+DTEND:20230907T091500Z
 LOCATION:5-413
-DTSTART:20231102T074500Z
+DTSTART:20230907T074500Z
 SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:914695d1-e80f-4c9d-bf0e-f41b10c5657d@9146.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231102T113000Z
-LOCATION:5-414В
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:3a747498-c19e-4e34-8338-2cf4125d14f7@3a74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231016T073000Z
-LOCATION:3-441
-DTSTART:20231016T060000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:6e1f8574-d38c-4027-aa29-a8ce71d239a3@6e1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231228T073000Z
-LOCATION:5-413
-DTSTART:20231228T060000Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:07d71961-31ba-403c-84af-ef65081bd312@07d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231121T131500Z
-LOCATION:5-232
-DTSTART:20231121T114500Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:63e64d9e-c757-4705-8fe7-999474131f2b@63e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231123T091500Z
-LOCATION:5-414Б
-DTSTART:20231123T074500Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:ef4ad7b5-74cc-4027-b16e-53efbc175ca6@ef4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231218T113000Z
-LOCATION:5-414Б
-DTSTART:20231218T100000Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:094d6eb6-f740-49f7-8829-775a4eb66ede@094d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231020T131500Z
-LOCATION:5-414Б
-DTSTART:20231020T114500Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:91dc1abd-df58-4095-86e6-79552e12c56b@91dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231026T073000Z
-LOCATION:5-414Б
-DTSTART:20231026T060000Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:29669585-9bf5-4ffc-9b48-eccf645ba1c4@2966.org
+UID:e9232140-3360-4532-a90c-7c24fc37fb95@e923.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ратникова Елена Александровна
@@ -183,631 +15,7 @@ DTEND:20231025T091500Z
 LOCATION:5-413
 DTSTART:20231025T074500Z
 SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:25041119-83a0-47eb-a20d-07e544d50b95@2504.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231005T091500Z
-LOCATION:5-413
-DTSTART:20231005T074500Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:e9d68027-fa07-4e13-a6da-17c81e7bb2e2@e9d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231214T073000Z
-LOCATION:5-413
-DTSTART:20231214T060000Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:404de3a3-ff09-4a61-b548-76ac5a22e1ca@404d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231120T113000Z
-LOCATION:5-414Б
-DTSTART:20231120T100000Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:d138c7ba-708f-477c-adee-7407b4afaa4f@d138.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230921T131500Z
-LOCATION:5-414В
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:cc683d67-7d4b-4ed2-a75d-49603314caf5@cc68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231225T073000Z
-LOCATION:3-441
-DTSTART:20231225T060000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:692469f3-4935-4168-bc74-95347de61e98@6924.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231009T131500Z
-LOCATION:5-414Б
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:63f52806-a62f-4233-b0cc-468eecfd6159@63f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231103T131500Z
-LOCATION:5-414Б
-DTSTART:20231103T114500Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:45d28eac-011c-4bc9-920b-1f45491b8c4f@45d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231128T091500Z
-LOCATION:5-227
-DTSTART:20231128T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:5190fb02-6a63-4e23-9439-8fbb50c4cfd7@5190.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230914T073000Z
-LOCATION:5-414Б
-DTSTART:20230914T060000Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:e6b5065e-6185-479b-9c44-a873ce7e18d3@e6b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230921T091500Z
-LOCATION:5-413
-DTSTART:20230921T074500Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:a77a3b3f-490a-4a20-9166-afb590ce350b@a77a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231003T091500Z
-LOCATION:5-227
-DTSTART:20231003T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:2ec390cc-8494-4bd3-98f9-6b9f0fafbf57@2ec3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231010T113000Z
-LOCATION:5-232
-DTSTART:20231010T100000Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:0c61dea3-e828-48a8-b2cc-4af6f9b4e682@0c61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231011T073000Z
-LOCATION:5-413
-DTSTART:20231011T060000Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:c34a14cc-82dc-464e-bbb6-9cf829dbe250@c34a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231213T091500Z
-LOCATION:5-232
-DTSTART:20231213T074500Z
-SUMMARY:ЛР ИТ инновации в бизнесе
-UID:5e3a8a6f-076a-452b-aede-ce8d46f40be4@5e3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231005T073000Z
-LOCATION:5-413
-DTSTART:20231005T060000Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:2ed6d043-da42-4b3a-90f7-dfd6eccc535f@2ed6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20230929T113000Z
-LOCATION:5-122
-DTSTART:20230929T100000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:541ba3f7-f19a-4079-b53d-49a305e77101@541b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231017T091500Z
-LOCATION:5-227
-DTSTART:20231017T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:04e51942-504d-466c-8494-445d287fe082@04e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231011T091500Z
-LOCATION:5-413
-DTSTART:20231011T074500Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:09d05d3b-985a-4c8e-b319-ec136fadab57@09d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231207T131500Z
-LOCATION:5-232
-DTSTART:20231207T114500Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:37e720fa-5dc9-488f-8e41-78badadf90a2@37e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231130T113000Z
-LOCATION:5-414В
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:778063a5-cc70-4fb4-bd60-604578136657@7780.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231215T164500Z
-LOCATION:5-122
-DTSTART:20231215T151500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:68acbf2e-3e5c-4ad8-99cd-c36dfcd17df3@68ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231212T073000Z
-LOCATION:5-227
-DTSTART:20231212T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:96fc0004-45f8-45a9-8993-c2aac10a69db@96fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231030T091500Z
-LOCATION:3-441
-DTSTART:20231030T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:dc21857c-904c-4b94-bbdf-41f3cc63a72b@dc21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20230904T131500Z
-LOCATION:5-413
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:0eb9909c-1bfc-4b32-9f58-fda5a0e3186e@0eb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230914T091500Z
-LOCATION:5-414Б
-DTSTART:20230914T074500Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:dbea6721-02c4-412b-a421-33a443d1d48a@dbea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231101T073000Z
-LOCATION:5-232
-DTSTART:20231101T060000Z
-SUMMARY:ЛР ИТ инновации в бизнесе
-UID:15c550f7-7caa-497e-9807-87ba699337a8@15c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231204T131500Z
-LOCATION:5-414Б
-DTSTART:20231204T114500Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:14d81aa6-30f1-4929-bb4f-ec59e43bd698@14d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231016T131500Z
-LOCATION:5-413
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:e5c69108-4b01-4c6c-806d-b0f5f1437001@e5c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231030T131500Z
-LOCATION:5-413
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:6ae5222e-f80d-4685-ac34-196083b7cf25@6ae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20230925T113000Z
-LOCATION:5-414Б
-DTSTART:20230925T100000Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:4b28d402-10bd-4d4c-8ac0-101f7780800c@4b28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20230904T113000Z
-LOCATION:5-413
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:c9b7be7a-ef0b-4235-8158-71052fb71232@c9b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230927T073000Z
-LOCATION:5-413
-DTSTART:20230927T060000Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:5f8bce81-09df-426f-9e11-06f8288f602d@5f8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230928T091500Z
-LOCATION:5-414Б
-DTSTART:20230928T074500Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:b50f455a-be32-404f-9a5d-b693a7b4f935@b50f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231019T073000Z
-LOCATION:5-413
-DTSTART:20231019T060000Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:2816e2cb-a347-4dad-9c38-6b31559b8b5e@2816.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231002T113000Z
-LOCATION:5-413
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:8158cc25-edd0-496b-b63a-1a8fe5d96c0a@8158.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231127T091500Z
-LOCATION:3-441
-DTSTART:20231127T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:0936ebad-d03b-4f49-9c45-a50773638f41@0936.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231211T131500Z
-LOCATION:5-413
-DTSTART:20231211T114500Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:2acefee8-0408-4483-b54d-68de708fee47@2ace.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231211T073000Z
-LOCATION:3-441
-DTSTART:20231211T060000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:a1a298fe-7e4f-4c0a-aac9-ddbe16159ca2@a1a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20230905T073000Z
-LOCATION:5-227
-DTSTART:20230905T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:e7213541-02b0-46f1-9558-268f5bac0bfb@e721.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230926T113000Z
-LOCATION:5-232
-DTSTART:20230926T100000Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:5731660d-7890-4393-a87d-d74f1be9dff5@5731.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231128T131500Z
-LOCATION:5-414В
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:8ff509d5-55cc-4f5e-969b-0f4da03bcfa9@8ff5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231113T073000Z
-LOCATION:3-441
-DTSTART:20231113T060000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:1f7feb46-bfa6-4db0-b257-ec7473878e8d@1f7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231018T073000Z
-LOCATION:5-413
-DTSTART:20231018T060000Z
-SUMMARY:ЛК ИТ инновации в бизнесе
-UID:e7d79e83-8b68-4df8-8047-982104453297@e7d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20230918T073000Z
-LOCATION:3-441
-DTSTART:20230918T060000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:3787a490-f128-4f4c-86dd-677ed641f8b2@3787.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230926T131500Z
-LOCATION:5-232
-DTSTART:20230926T114500Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:6d1022ed-9348-458d-b2a5-367a3364badb@6d10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230907T091500Z
-LOCATION:5-413
-DTSTART:20230907T074500Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:5eed1e06-7969-4265-86aa-ce303c0867c8@5eed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230922T131500Z
-LOCATION:5-414Б
-DTSTART:20230922T114500Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:5e6c681c-4e24-42ef-b9e9-d7c5e7cd310e@5e6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231113T091500Z
-LOCATION:3-441
-DTSTART:20231113T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:ec325c02-5345-49f4-9ba6-f564f83323c5@ec32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231214T131500Z
-LOCATION:5-414В
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:59b5b4c9-334b-45ac-9171-9b34b189e2f0@59b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230919T131500Z
-LOCATION:5-414В
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:8c153b53-8a9e-4675-baf9-4e1867cb46ed@8c15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230922T113000Z
-LOCATION:5-414Б
-DTSTART:20230922T100000Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:240f3dff-53bf-4e2c-a272-2c816f8649a2@240f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231122T073000Z
-LOCATION:5-413
-DTSTART:20231122T060000Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:27b68c21-c7be-46e3-a584-7fe021b0424f@27b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20230918T131500Z
-LOCATION:5-413
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:2fde1fcf-b1a2-4ea2-a3b9-082e95fb9ed8@2fde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20230919T073000Z
-LOCATION:5-227
-DTSTART:20230919T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:a2a8d9a1-4d0e-4c08-9c6f-3b73fb2780b5@a2a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230921T073000Z
-LOCATION:5-413
-DTSTART:20230921T060000Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:c27e56c2-60ac-4c19-a602-42180dddf807@c27e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231207T113000Z
-LOCATION:5-232
-DTSTART:20231207T100000Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:f8cb2a41-6fda-4e7b-9ac0-62cb8578bfe8@f8cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231121T091500Z
-LOCATION:5-227
-DTSTART:20231121T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:453ead59-9de3-4c0f-867c-c4fc2b476aba@453e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20230904T091500Z
-LOCATION:3-441
-DTSTART:20230904T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:1d0bbcbf-ca4a-4cde-bda0-64ce4b241c07@1d0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231219T073000Z
-LOCATION:5-227
-DTSTART:20231219T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:c1abaa96-fee2-48c4-bd49-26970dbc9c16@c1ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231215T150000Z
-LOCATION:5-122
-DTSTART:20231215T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:65991449-2591-47f5-ab2e-ad4fb57e86fb@6599.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231129T091500Z
-LOCATION:5-232
-DTSTART:20231129T074500Z
-SUMMARY:ЛР ИТ инновации в бизнесе
-UID:525255d2-1f83-4657-bbc2-57925270daaa@5252.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230928T113000Z
-LOCATION:5-232
-DTSTART:20230928T100000Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:19c9c320-617c-4f7e-8257-75e7104d4b11@19c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231024T131500Z
-LOCATION:5-232
-DTSTART:20231024T114500Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:a2477102-45c3-435c-9c09-6a68efa2a034@a247.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231107T091500Z
-LOCATION:5-227
-DTSTART:20231107T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:7511aba3-bf61-45b4-8861-f20e5049bfe8@7511.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231226T091500Z
-LOCATION:5-227
-DTSTART:20231226T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:0a4e49aa-148a-43b0-9496-01063e53b330@0a4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231009T113000Z
-LOCATION:5-414Б
-DTSTART:20231009T100000Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:c63bf851-f10a-4286-ad90-83e9a9954b0e@c63b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231117T131500Z
-LOCATION:5-414Б
-DTSTART:20231117T114500Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:a6e54fad-e148-4cea-be75-2c6e397804df@a6e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20230905T091500Z
-LOCATION:5-227
-DTSTART:20230905T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:cb7201b6-321f-438e-a4cd-6dce9df54c6e@cb72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231206T073000Z
-LOCATION:5-413
-DTSTART:20231206T060000Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:9fd6ffcc-e7d0-4d1d-af97-26ea34efe972@9fd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231030T073000Z
-LOCATION:3-441
-DTSTART:20231030T060000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:c4d8a3c1-771f-4fba-b0c1-19d03f01882b@c4d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20230911T113000Z
-LOCATION:5-414Б
-DTSTART:20230911T100000Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:6a2be71f-c4ea-4080-8b07-348bcc544d14@6a2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231205T113000Z
-LOCATION:5-232
-DTSTART:20231205T100000Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:c24b2944-459b-4199-a071-88f1990f4514@c24b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231204T113000Z
-LOCATION:5-414Б
-DTSTART:20231204T100000Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:425973ba-4b66-4415-8ce5-8e4997dd30d3@4259.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231221T131500Z
-LOCATION:5-232
-DTSTART:20231221T114500Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:779dc73c-a565-4c35-84dc-caf8386b0a2c@779d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231017T073000Z
-LOCATION:5-227
-DTSTART:20231017T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:f5673130-d0b5-479e-b77c-d0421ac8b6d9@f567.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231225T131500Z
-LOCATION:5-413
-DTSTART:20231225T114500Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:b9e5bfb2-bd82-4998-9f21-3895a8e9a087@b9e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20230912T091500Z
-LOCATION:5-227
-DTSTART:20230912T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:69a472ed-7dda-4d1b-b45e-017ef98abd3d@69a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230927T091500Z
-LOCATION:5-413
-DTSTART:20230927T074500Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:3b6f949f-c2ae-420f-9bec-4ffe8c43a866@3b6f.org
+UID:c57e458c-e6f7-4c56-99c4-ac6c71b01962@c57e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлев Андрей Алексеевич
@@ -815,183 +23,7 @@ DTEND:20231116T091500Z
 LOCATION:5-413
 DTSTART:20231116T074500Z
 SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:c448089a-891e-4af9-aa16-036c82944280@c448.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231214T091500Z
-LOCATION:5-413
-DTSTART:20231214T074500Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:eff1f086-9129-4073-8b2b-224b338e0519@eff1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20230912T073000Z
-LOCATION:5-227
-DTSTART:20230912T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:7493a105-9c2f-4711-b5ab-e5636eb765f4@7493.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231218T131500Z
-LOCATION:5-414Б
-DTSTART:20231218T114500Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:3fd7040c-ae9e-4f0f-a755-790d238e78e8@3fd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231005T113000Z
-LOCATION:5-414В
-DTSTART:20231005T100000Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:4018c1d5-8f46-48b4-8ec7-673e9131e65a@4018.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230920T073000Z
-LOCATION:5-413
-DTSTART:20230920T060000Z
-SUMMARY:ЛК ИТ инновации в бизнесе
-UID:e5561823-a302-4bd2-80d0-05d17ccff8ae@e556.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20230926T091500Z
-LOCATION:5-227
-DTSTART:20230926T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:1f5a6387-bef1-4283-b06c-710b8375a6bc@1f5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231003T113000Z
-LOCATION:5-414В
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:b5e8e21e-d928-483b-b817-e49bd1d8c8ba@b5e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231212T091500Z
-LOCATION:5-227
-DTSTART:20231212T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:8a97212f-3e2d-48e2-9f53-e789a84ab78b@8a97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231024T091500Z
-LOCATION:5-227
-DTSTART:20231024T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:160eb75f-7107-4142-82ba-9a63092c2540@160e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231213T073000Z
-LOCATION:5-232
-DTSTART:20231213T060000Z
-SUMMARY:ЛР ИТ инновации в бизнесе
-UID:83e5cc0c-d406-475b-819b-137f17a9dca4@83e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231228T113000Z
-LOCATION:5-414В
-DTSTART:20231228T100000Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:4bf119ab-a844-40b2-b198-488ef724414b@4bf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231106T131500Z
-LOCATION:5-414Б
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:cb26ef61-94e8-4b1d-a737-f6ff1bcf901b@cb26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231002T131500Z
-LOCATION:5-413
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:7dfe5532-e5f8-400d-8574-4aca6af379b7@7dfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230907T131500Z
-LOCATION:5-414В
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:918989f9-3403-4b0c-b580-c7c0d947e315@9189.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230906T091500Z
-LOCATION:5-413
-DTSTART:20230906T074500Z
-SUMMARY:ЛК ИТ инновации в бизнесе
-UID:d0a120c2-efeb-45f2-a085-013460889ce4@d0a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230905T113000Z
-LOCATION:5-414В
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:f24726a5-1ed2-44f1-b1cd-3bac889890ff@f247.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231226T073000Z
-LOCATION:5-227
-DTSTART:20231226T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:26da86fd-b2f6-4085-baa3-145e45767411@26da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231003T131500Z
-LOCATION:5-414В
-DTSTART:20231003T114500Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:be75f2de-b35e-4ae4-8761-b44d639c0a8c@be75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231123T073000Z
-LOCATION:5-414Б
-DTSTART:20231123T060000Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:08c62ddc-4892-43e7-a86f-b6504fa68d45@08c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231002T073000Z
-LOCATION:3-441
-DTSTART:20231002T060000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:3bc04f3b-3e4a-4db1-92ba-8858292a1226@3bc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231109T113000Z
-LOCATION:5-232
-DTSTART:20231109T100000Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:fd02ff22-4e4f-418c-aeb3-039564e3cd94@fd02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230908T131500Z
-LOCATION:5-414Б
-DTSTART:20230908T114500Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:cb77f9ec-b1b1-4d15-90d5-7bf5016d8f00@cb77.org
+UID:88b29a08-16d0-4270-8c0e-e49cf18baf4a@88b2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлев Андрей Алексеевич
@@ -999,415 +31,15 @@ DTEND:20231228T091500Z
 LOCATION:5-413
 DTSTART:20231228T074500Z
 SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:3dda47af-1c39-452b-8609-cfa0ad2adcde@3dda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231030T113000Z
-LOCATION:5-413
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:8870099f-5cfd-4ba9-b7ed-83d02bc9666e@8870.org
+UID:ca8763e8-a157-41cf-9ab7-0ef1fefd1d43@ca87.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231024T073000Z
+DTEND:20231017T091500Z
 LOCATION:5-227
-DTSTART:20231024T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:d7337594-a43e-4a92-8e67-3130baa5fdd9@d733.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231019T091500Z
-LOCATION:5-413
-DTSTART:20231019T074500Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:5451bbc4-c732-4ff7-b34a-5851fd630a12@5451.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231113T131500Z
-LOCATION:5-413
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:021172c4-9032-4512-a35c-60a0ff8adaf2@0211.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231225T091500Z
-LOCATION:3-441
-DTSTART:20231225T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:2b3e0e4e-5632-4c1a-b6a3-165882cc6e31@2b3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231116T113000Z
-LOCATION:5-414В
-DTSTART:20231116T100000Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:9b12d3a6-a8dd-48a2-950a-16c879e95d80@9b12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231010T091500Z
-LOCATION:5-227
-DTSTART:20231010T074500Z
+DTSTART:20231017T074500Z
 SUMMARY:ПЗ ИТ-консалтинг
-UID:84e89a7f-5397-4ce4-8cef-cc2c58f10110@84e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231221T073000Z
-LOCATION:5-414Б
-DTSTART:20231221T060000Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:57360c15-bdf5-4107-b0c8-7875f597b4a2@5736.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231207T091500Z
-LOCATION:5-414Б
-DTSTART:20231207T074500Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:dc50bad9-3da7-4bc9-8f20-9ea7d923bcae@dc50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231012T073000Z
-LOCATION:5-414Б
-DTSTART:20231012T060000Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:4c63fbf5-eb05-42a9-8d2d-59ffa681e767@4c63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230912T131500Z
-LOCATION:5-232
-DTSTART:20230912T114500Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:1cd1758d-82f6-4ff2-b204-2c745388cfd1@1cd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230907T073000Z
-LOCATION:5-413
-DTSTART:20230907T060000Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:0c4237f4-a9db-46f5-aadf-a10402dc486b@0c42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231017T113000Z
-LOCATION:5-414В
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:596576a5-86db-4d22-ba67-7a4379ce012a@5965.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231211T091500Z
-LOCATION:3-441
-DTSTART:20231211T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:0e173639-4f6b-4b2b-8396-d5498fa4e07a@0e17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230928T131500Z
-LOCATION:5-232
-DTSTART:20230928T114500Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:f1b87f66-ac7a-4bf6-923e-d5f700b7a368@f1b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231108T091500Z
-LOCATION:5-413
-DTSTART:20231108T074500Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:479c982f-54fa-4428-922e-f7de767efd65@479c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231201T131500Z
-LOCATION:5-414Б
-DTSTART:20231201T114500Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:4e44b1f5-c184-4712-b9b0-4de4b07bac86@4e44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231103T113000Z
-LOCATION:5-414Б
-DTSTART:20231103T100000Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:3d08fa28-7ddd-45d7-95f0-7729746773b6@3d08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231106T113000Z
-LOCATION:5-414Б
-DTSTART:20231106T100000Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:d063e38b-7e27-4196-895a-aec7291c6b4c@d063.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231201T150000Z
-LOCATION:5-122
-DTSTART:20231201T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:262faa25-862f-401a-89ea-713c5089096a@262f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231026T131500Z
-LOCATION:5-232
-DTSTART:20231026T114500Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:3d6a413c-7e9e-4316-9a42-cedee6f9be39@3d6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231115T091500Z
-LOCATION:5-232
-DTSTART:20231115T074500Z
-SUMMARY:ЛР ИТ инновации в бизнесе
-UID:d6c6a26f-1510-4be0-b938-1ec70f191589@d6c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231026T113000Z
-LOCATION:5-232
-DTSTART:20231026T100000Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:b73c4b63-8aa6-4872-8e39-195f0e32e2b6@b73c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231102T073000Z
-LOCATION:5-413
-DTSTART:20231102T060000Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:b807611e-53d0-4eb9-be96-7fa07cbf3140@b807.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231012T131500Z
-LOCATION:5-232
-DTSTART:20231012T114500Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:47114867-c71e-4220-9ab7-21930a72c932@4711.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231206T091500Z
-LOCATION:5-413
-DTSTART:20231206T074500Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:4246fa22-72ef-44cf-86b3-826dde3706be@4246.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20230911T131500Z
-LOCATION:5-414Б
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:734bf66d-63f3-4e35-8701-b66a99ba37c1@734b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231114T113000Z
-LOCATION:5-414В
-DTSTART:20231114T100000Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:49e01eda-2822-481e-853c-83c5f615b25e@49e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231127T131500Z
-LOCATION:5-413
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:4afc1f25-5bd0-4f07-8a9c-16b11e3f7989@4afc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231228T131500Z
-LOCATION:5-414В
-DTSTART:20231228T114500Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:ac750f05-ec36-4538-b5cb-50ca8a166c0e@ac75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231019T113000Z
-LOCATION:5-414В
-DTSTART:20231019T100000Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:657e8dc5-a6f4-4e14-8a96-c29e8ba8e07a@657e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231109T131500Z
-LOCATION:5-232
-DTSTART:20231109T114500Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:0d4cdf6e-4c87-4404-987f-d81507c1a280@0d4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231004T073000Z
-LOCATION:5-413
-DTSTART:20231004T060000Z
-SUMMARY:ЛК ИТ инновации в бизнесе
-UID:80445cb7-00bd-4da3-be10-d9c5ab0be144@8044.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231114T091500Z
-LOCATION:5-227
-DTSTART:20231114T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:06ecc17f-baf2-42fd-9bc1-19b467dc95f9@06ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230913T073000Z
-LOCATION:5-413
-DTSTART:20230913T060000Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:ae9aa7b7-37af-40dd-a6f6-3a6dfd3690c2@ae9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231211T113000Z
-LOCATION:5-413
-DTSTART:20231211T100000Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:6e2f4acc-e4fb-4932-a321-5559430c73fa@6e2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231023T131500Z
-LOCATION:5-414Б
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:7635c43b-ef8c-4f22-915d-a0c7b46823c5@7635.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231207T073000Z
-LOCATION:5-414Б
-DTSTART:20231207T060000Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:6048e02d-9266-43a4-bf42-4063999a98d1@6048.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231122T091500Z
-LOCATION:5-413
-DTSTART:20231122T074500Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:680fbde5-193e-4252-a86d-9ba446ea30eb@680f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231205T091500Z
-LOCATION:5-227
-DTSTART:20231205T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:fd2bfc24-a43f-4b87-b0ec-8f7371f07023@fd2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231003T073000Z
-LOCATION:5-227
-DTSTART:20231003T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:9bf393c0-83c9-4c5c-a8bd-b1c3a22fdaa9@9bf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231016T091500Z
-LOCATION:3-441
-DTSTART:20231016T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:f3a32f97-2e2a-4e2f-9c66-8ad4535b8cc1@f3a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231107T131500Z
-LOCATION:5-232
-DTSTART:20231107T114500Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:bbac963f-77a1-4098-936d-88aea0fb4f47@bbac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230905T131500Z
-LOCATION:5-414В
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:f18914ea-bd72-4cda-bf59-0c0fcc320bf7@f189.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231017T131500Z
-LOCATION:5-414В
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:a330ebec-4b5a-4217-8483-f164c3eae921@a330.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231219T091500Z
-LOCATION:5-227
-DTSTART:20231219T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:cab7bca7-861e-478a-a868-8e291fdb5f24@cab7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231005T131500Z
-LOCATION:5-414В
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:975c773e-a5d0-4304-85ec-8cb3019a8602@975c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231201T113000Z
-LOCATION:5-414Б
-DTSTART:20231201T100000Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:8de9e58f-984b-4190-87bd-a3fc124a9aa5@8de9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20230904T073000Z
-LOCATION:3-441
-DTSTART:20230904T060000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:fbc823c0-d264-4882-a354-e3cba686c18c@fbc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230912T113000Z
-LOCATION:5-232
-DTSTART:20230912T100000Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:4349d479-9b15-457c-969a-da3561cd8aa2@4349.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231025T073000Z
-LOCATION:5-413
-DTSTART:20231025T060000Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:8d105c62-a8ff-44ea-894e-7cdce80f525f@8d10.org
+UID:c2813b83-369f-4ef1-a300-24007b53f5b5@c281.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлев Андрей Алексеевич
@@ -1415,87 +47,15 @@ DTEND:20231109T091500Z
 LOCATION:5-414Б
 DTSTART:20231109T074500Z
 SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:f38f607e-f6c1-4c20-ab9f-1e10a8d5ef9f@f38f.org
+UID:3e61a305-7b9b-488f-bd82-1b43dccb0ad9@3e61.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231221T091500Z
+DTEND:20230914T073000Z
 LOCATION:5-414Б
-DTSTART:20231221T074500Z
+DTSTART:20230914T060000Z
 SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:ab8e493c-c444-4066-8a5e-b741dde39947@ab8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231130T073000Z
-LOCATION:5-413
-DTSTART:20231130T060000Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:10aacc8a-22e4-4d9f-a92e-1e72ffac7fb3@10aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231201T164500Z
-LOCATION:5-122
-DTSTART:20231201T151500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:31e0c396-1310-427b-92f0-f6000c147f76@31e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231010T131500Z
-LOCATION:5-232
-DTSTART:20231010T114500Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:d5250215-9453-4353-96e0-441f264b4cef@d525.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231012T091500Z
-LOCATION:5-414Б
-DTSTART:20231012T074500Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:3dfa1d6a-1872-4963-9783-46537fa7021f@3dfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231225T113000Z
-LOCATION:5-413
-DTSTART:20231225T100000Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:145fc644-7f81-4cf9-a1d1-7aaa66d2a93f@145f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231108T073000Z
-LOCATION:5-413
-DTSTART:20231108T060000Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:dc680894-b1f8-480e-a9f8-71396c57609a@dc68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20230918T091500Z
-LOCATION:3-441
-DTSTART:20230918T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:bc3ad9e3-2a4b-4f38-bc1e-0c152684e30f@bc3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231130T131500Z
-LOCATION:5-414В
-DTSTART:20231130T114500Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:0ebb4748-606d-4c84-a8ee-aec4ed88aceb@0ebb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231113T113000Z
-LOCATION:5-413
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:8f8873a1-ca71-42e3-a1e9-fc12320bc8de@8f88.org
+UID:5a425491-fb33-42e7-8b2e-34b3e80c9868@5a42.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
@@ -1503,111 +63,7 @@ DTEND:20230915T113000Z
 LOCATION:5-122
 DTSTART:20230915T100000Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:31c211d7-8d10-45d0-99ea-6aaea3ddedbd@31c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231020T113000Z
-LOCATION:5-414Б
-DTSTART:20231020T100000Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:fff739b6-4399-4aba-846a-42fdfd8156a1@fff7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231024T113000Z
-LOCATION:5-232
-DTSTART:20231024T100000Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:55bfb220-f5c3-4871-a3b2-5ab49dfdac8d@55bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231123T131500Z
-LOCATION:5-232
-DTSTART:20231123T114500Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:79fdee49-6520-4b3e-819e-b21a6d61b881@79fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231121T113000Z
-LOCATION:5-232
-DTSTART:20231121T100000Z
-SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:52228bff-0e0d-4b60-bebc-9c5e855b0768@5222.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231102T131500Z
-LOCATION:5-414В
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:2dd05dd8-a6ba-4f89-9396-4f177f7c5e86@2dd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231121T073000Z
-LOCATION:5-227
-DTSTART:20231121T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:399f11c6-5d85-4052-8b17-56c4b35c80b9@399f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231227T073000Z
-LOCATION:5-232
-DTSTART:20231227T060000Z
-SUMMARY:ЛР ИТ инновации в бизнесе
-UID:5c5efe47-b1ce-43fe-ba71-56aeaed682a9@5c5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231205T073000Z
-LOCATION:5-227
-DTSTART:20231205T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:788ff705-49c4-4f30-95cd-98089d2de420@788f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231229T150000Z
-LOCATION:5-122
-DTSTART:20231229T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:deb34a5b-1d03-469e-9efa-7a64f1804b2b@deb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231006T113000Z
-LOCATION:5-414Б
-DTSTART:20231006T100000Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:e0113f60-2685-4a7a-bd69-761217022cdf@e011.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231016T113000Z
-LOCATION:5-413
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Логистическое управление высокотехнологичным производством
-UID:40e8945c-d14d-4bbb-b8ba-d261f6398972@40e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231031T131500Z
-LOCATION:5-414В
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:df3edbe0-4449-4ef7-b9a0-851fc9ec87c7@df3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231012T113000Z
-LOCATION:5-232
-DTSTART:20231012T100000Z
-SUMMARY:ЛР Информационно - аналитические системы
-UID:8a22fe2d-4afb-4579-9341-18e6fe19467b@8a22.org
+UID:bf7dc18e-850e-4fb9-b9a1-4b9fc3aa0526@bf7d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Афанасьева Ольга Анатольевна
@@ -1615,271 +71,63 @@ DTEND:20231101T091500Z
 LOCATION:5-232
 DTSTART:20231101T074500Z
 SUMMARY:ЛР ИТ инновации в бизнесе
-UID:df45a978-0035-4530-8f4b-4dad49aa1471@df45.org
+UID:87bc9a8b-9da3-4997-8600-6ac772c33492@87bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231117T131500Z
+LOCATION:5-414Б
+DTSTART:20231117T114500Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:d4d19043-c822-4464-a3e9-b4d08408dc8f@d4d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231018T091500Z
-LOCATION:5-413
-DTSTART:20231018T074500Z
-SUMMARY:ЛК ИТ инновации в бизнесе
-UID:3e352a8f-d581-49b6-bc61-665448f0bf03@3e35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231129T073000Z
+DTEND:20231123T113000Z
 LOCATION:5-232
-DTSTART:20231129T060000Z
-SUMMARY:ЛР ИТ инновации в бизнесе
-UID:27920dc0-31e1-46f5-955a-c3816d28b39d@2792.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231221T113000Z
-LOCATION:5-232
-DTSTART:20231221T100000Z
+DTSTART:20231123T100000Z
 SUMMARY:ЛР Информационно - аналитические системы
-UID:cde5a4d4-96ee-48b0-8abf-29f0317c1d01@cde5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231019T131500Z
-LOCATION:5-414В
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:d436da1e-3043-4df0-af9d-255d8bcfd8e3@d436.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231128T073000Z
-LOCATION:5-227
-DTSTART:20231128T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:fdced086-e82f-45bc-89a1-84e3eba87048@fdce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230907T113000Z
-LOCATION:5-414В
-DTSTART:20230907T100000Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:79f36c63-7a5e-4b73-bec1-3566b81ec2a8@79f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230908T113000Z
-LOCATION:5-414Б
-DTSTART:20230908T100000Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:7a10ee51-5491-4f43-b5ea-9923e0c00425@7a10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231128T113000Z
-LOCATION:5-414В
-DTSTART:20231128T100000Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:41b421e1-5300-4b57-99b0-4c4d191398c7@41b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20230913T091500Z
-LOCATION:5-413
-DTSTART:20230913T074500Z
-SUMMARY:ЛК Рынок информационных продуктов и услуг
-UID:f16e2ff7-3ab3-43db-a454-a77a2052a4d7@f16e.org
+UID:bd636a55-fe75-420d-b423-9ee703e46a87@bd63.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231023T113000Z
+DTEND:20231204T113000Z
 LOCATION:5-414Б
-DTSTART:20231023T100000Z
+DTSTART:20231204T100000Z
 SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:de92a674-5d84-414e-bb3d-cde9f8a41267@de92.org
+UID:ca62eae2-cdb1-46ce-b0aa-34c4ff45f30e@ca62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231207T073000Z
+LOCATION:5-414Б
+DTSTART:20231207T060000Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:52009129-4bc4-4c1d-9f24-5df1293b4647@5200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231214T073000Z
+LOCATION:5-413
+DTSTART:20231214T060000Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:4b38a59f-31a0-46fe-bc8d-c7f895df79f3@4b38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231121T113000Z
+LOCATION:5-232
+DTSTART:20231121T100000Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:dffd59cc-f1a9-4b7a-9285-a3d7e67371bd@dffd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20230929T131500Z
+DTEND:20231229T150000Z
 LOCATION:5-122
-DTSTART:20230929T114500Z
+DTSTART:20231229T133000Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:a6449dc2-9a7a-40af-8345-ff08c385cf38@a644.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231031T073000Z
-LOCATION:5-227
-DTSTART:20231031T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:6862b8d9-4c86-4e77-9130-adeb3832195b@6862.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231117T113000Z
-LOCATION:5-414Б
-DTSTART:20231117T100000Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:22722478-d9c3-4742-a1ae-6d6dfe2b6c91@2272.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231130T091500Z
-LOCATION:5-413
-DTSTART:20231130T074500Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:a72e1c22-1f54-4715-bc6d-e3027f462803@a72e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231114T073000Z
-LOCATION:5-227
-DTSTART:20231114T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:989090ee-5b6d-4035-99c1-0942b6a39cbf@9890.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231127T073000Z
-LOCATION:3-441
-DTSTART:20231127T060000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:b978e86d-d900-4862-aabc-a37482c965d3@b978.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20230925T131500Z
-LOCATION:5-414Б
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:5a564a1c-ebea-4a07-9e84-8a92b53e2e93@5a56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231004T091500Z
-LOCATION:5-413
-DTSTART:20231004T074500Z
-SUMMARY:ЛК ИТ инновации в бизнесе
-UID:fec6409a-5a2e-41f5-b0d6-38a78c5f4078@fec6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230921T113000Z
-LOCATION:5-414В
-DTSTART:20230921T100000Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:75fd55ce-763d-468d-99be-2ab6c28a5e6a@75fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ратникова Елена Александровна
-DTEND:20231006T131500Z
-LOCATION:5-414Б
-DTSTART:20231006T114500Z
-SUMMARY:ПЗ Рынок информационных продуктов и услуг
-UID:b72eb862-707d-4c51-83af-cfa4c4eb6d1a@b72e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231214T113000Z
-LOCATION:5-414В
-DTSTART:20231214T100000Z
-SUMMARY:ЛК Информационно - аналитические системы
-UID:27b0d3ad-2241-4dbb-97af-b13702a59db8@27b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231031T113000Z
-LOCATION:5-414В
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:01547733-b6a7-4a2b-9c20-3cbd7b94b2de@0154.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231109T073000Z
-LOCATION:5-414Б
-DTSTART:20231109T060000Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:040c0a70-8c09-4daf-9692-bc12619f1a80@040c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231116T073000Z
-LOCATION:5-413
-DTSTART:20231116T060000Z
-SUMMARY:ЛК Менеджмент ИТ-инноваций
-UID:28227942-8c7a-408b-909f-403cc5f28a85@2822.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20231107T073000Z
-LOCATION:5-227
-DTSTART:20231107T060000Z
-SUMMARY:ЛК ИТ-консалтинг
-UID:6b5d910f-25e8-4a61-a7dc-1503cf292336@6b5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231227T091500Z
-LOCATION:5-232
-DTSTART:20231227T074500Z
-SUMMARY:ЛР ИТ инновации в бизнесе
-UID:f196f563-b3d0-4ef5-b593-305b55bb0ffa@f196.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231115T073000Z
-LOCATION:5-232
-DTSTART:20231115T060000Z
-SUMMARY:ЛР ИТ инновации в бизнесе
-UID:80f2d6c0-96b8-4baa-9b18-7a0773fe3f71@80f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Суркова Екатерина Валерьевна
-DTEND:20230919T091500Z
-LOCATION:5-227
-DTSTART:20230919T074500Z
-SUMMARY:ПЗ ИТ-консалтинг
-UID:bebdce8b-a95f-4aee-a3ee-89564e85f6ec@bebd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20230919T113000Z
-LOCATION:5-414В
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:9fc4e579-38c2-4a09-8dde-f25eee85aed3@9fc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20230928T073000Z
-LOCATION:5-414Б
-DTSTART:20230928T060000Z
-SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:fed62de8-4546-479a-89af-e5a065cfa433@fed6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Афанасьева Ольга Анатольевна
-DTEND:20231114T131500Z
-LOCATION:5-414В
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
-UID:e0bedf15-f78d-4326-bbb2-d92fa6260ac8@e0be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кругляева Екатерина Александровна
-DTEND:20231120T131500Z
-LOCATION:5-414Б
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
-UID:0de70139-51f3-4308-8137-1b16cb642d44@0de7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
-DTEND:20231002T091500Z
-LOCATION:3-441
-DTSTART:20231002T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:8cdcf10f-a0ea-47c7-a084-8f8bc88915cf@8cdc.org
+UID:51be709c-3ea0-41c1-8637-6e0d2433b9ff@51be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Афанасьева Ольга Анатольевна
@@ -1887,15 +135,287 @@ DTEND:20231107T113000Z
 LOCATION:5-232
 DTSTART:20231107T100000Z
 SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
-UID:28dec310-969e-4ce4-95c3-e5ccd531b32b@28de.org
+UID:4c84b240-88e6-4339-bb5e-4c6c99a22ced@4c84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231204T131500Z
+LOCATION:5-414Б
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:91c79964-a7de-418e-b787-08812d6d608d@91c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Яковлев Андрей Алексеевич
-DTEND:20231026T091500Z
+DTEND:20231214T091500Z
+LOCATION:5-413
+DTSTART:20231214T074500Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:72d84e25-9c78-4db7-95ac-2315905303f0@72d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231017T073000Z
+LOCATION:5-227
+DTSTART:20231017T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:0fefd9ec-891e-4c4f-8f30-c0e39d5bb013@0fef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231030T113000Z
+LOCATION:5-413
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:adc02b70-a871-491d-b6c4-045ede0313eb@adc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231218T131500Z
 LOCATION:5-414Б
-DTSTART:20231026T074500Z
+DTSTART:20231218T114500Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:56eec699-52a3-400f-a704-3352cd350d70@56ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230920T073000Z
+LOCATION:5-413
+DTSTART:20230920T060000Z
+SUMMARY:ЛК ИТ инновации в бизнесе
+UID:f255fbf8-33ab-4ed7-b923-6eda981909cb@f255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230928T073000Z
+LOCATION:5-414Б
+DTSTART:20230928T060000Z
 SUMMARY:ЛР Менеджмент ИТ-инноваций
-UID:e2aeff15-d2d3-4deb-99c3-eec514d3a61f@e2ae.org
+UID:e1682e03-a4da-48e4-87c5-49ef3a68a0c9@e168.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231102T113000Z
+LOCATION:5-414В
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:50e24cc0-39fa-47ca-af8b-09fab68dbada@50e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231221T073000Z
+LOCATION:5-414Б
+DTSTART:20231221T060000Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:baa62356-8183-409f-b78f-04541dc6bda8@baa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231031T131500Z
+LOCATION:5-414В
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:50c77a8e-97e7-439f-b7fe-5a44914ec729@50c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20230911T131500Z
+LOCATION:5-414Б
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:5d964647-7e86-4c82-8c5f-e433dc71c81b@5d96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231005T113000Z
+LOCATION:5-414В
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:857af2a6-2854-4ad2-9db7-881802ac8daa@857a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20230919T073000Z
+LOCATION:5-227
+DTSTART:20230919T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:2c4d58e4-2fb5-44d1-9a16-1685efa60ea6@2c4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231206T073000Z
+LOCATION:5-413
+DTSTART:20231206T060000Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:8a9f8bb3-fddf-4558-8685-697a6fdd5380@8a9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231109T073000Z
+LOCATION:5-414Б
+DTSTART:20231109T060000Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:3a374af4-604f-40ac-b66b-db6c281b2822@3a37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231117T113000Z
+LOCATION:5-414Б
+DTSTART:20231117T100000Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:92fd4179-2b56-4b4e-8820-44bb4488102a@92fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231127T131500Z
+LOCATION:5-413
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:368372c7-dd9c-458a-83a2-1926847c5558@3683.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20230912T091500Z
+LOCATION:5-227
+DTSTART:20230912T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:897d8792-ba6f-4439-b4d8-2fda6a7141c1@897d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231002T073000Z
+LOCATION:3-441
+DTSTART:20231002T060000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:1d2fd8a9-7199-48d7-9180-f48cf47e8fb5@1d2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231009T113000Z
+LOCATION:5-414Б
+DTSTART:20231009T100000Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:23041c96-5a5d-4736-af40-475c122dd134@2304.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230913T091500Z
+LOCATION:5-413
+DTSTART:20230913T074500Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:b4fab2cc-82b3-4f12-8513-45f876912107@b4fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231030T091500Z
+LOCATION:3-441
+DTSTART:20231030T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:b7943f00-c03c-4679-9cd6-71b4f107efdb@b794.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231025T073000Z
+LOCATION:5-413
+DTSTART:20231025T060000Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:f98acaa4-2fa9-46fd-9268-fc95d7db98e8@f98a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231107T091500Z
+LOCATION:5-227
+DTSTART:20231107T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:51d22f92-4d04-40c9-88e9-ee09ed04fec5@51d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230922T131500Z
+LOCATION:5-414Б
+DTSTART:20230922T114500Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:9e769dc4-880d-4945-bc2d-330ddaf63d47@9e76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231120T131500Z
+LOCATION:5-414Б
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:f99d6af9-0c59-4cf8-9097-68002f186b05@f99d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231121T131500Z
+LOCATION:5-232
+DTSTART:20231121T114500Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:74b97092-ff3f-457e-900e-8125d5931414@74b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231012T131500Z
+LOCATION:5-232
+DTSTART:20231012T114500Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:5740b3ee-08c8-4601-9b8f-85b4d0c1e744@5740.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231121T073000Z
+LOCATION:5-227
+DTSTART:20231121T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:4575b14e-2422-421c-9d91-f60e798c37f0@4575.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231128T113000Z
+LOCATION:5-414В
+DTSTART:20231128T100000Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:19df77ae-bec4-4663-ba73-785920fe7846@19df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231116T113000Z
+LOCATION:5-414В
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:bd7bc3a5-b6c7-4d29-b98c-181b8e367386@bd7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231114T131500Z
+LOCATION:5-414В
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:938c57f4-096f-4a7c-af5b-5c20ebca5a51@938c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231019T073000Z
+LOCATION:5-413
+DTSTART:20231019T060000Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:2b32e790-aa58-40c9-bc44-28398fcf6546@2b32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231030T073000Z
+LOCATION:3-441
+DTSTART:20231030T060000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:df57c0ae-f0d4-4ec9-a464-497636f856fe@df57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231002T131500Z
+LOCATION:5-413
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:512c4821-1f4f-48ee-ac04-f05edf283088@512c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Суркова Екатерина Валерьевна
@@ -1903,6 +423,1486 @@ DTEND:20231010T073000Z
 LOCATION:5-227
 DTSTART:20231010T060000Z
 SUMMARY:ЛК ИТ-консалтинг
-UID:3d208938-89bd-4590-9383-fd78cd868d1b@3d20.org
+UID:c652335a-849f-4fe0-b235-2d7bf20ef4cd@c652.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20230919T091500Z
+LOCATION:5-227
+DTSTART:20230919T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:5c31750f-b6ef-4b09-be96-1dc6de8b889a@5c31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231221T131500Z
+LOCATION:5-232
+DTSTART:20231221T114500Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:560d4a8d-731d-4598-bc4b-8490cfb5b0da@560d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231114T073000Z
+LOCATION:5-227
+DTSTART:20231114T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:b4431377-b7f8-45c0-b02f-95b1fc5d143e@b443.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231129T091500Z
+LOCATION:5-232
+DTSTART:20231129T074500Z
+SUMMARY:ЛР ИТ инновации в бизнесе
+UID:51ee8208-eb15-4988-9bd9-e688b4b6f209@51ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231221T091500Z
+LOCATION:5-414Б
+DTSTART:20231221T074500Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:57489229-6ede-4ff0-a1c9-f2665138a674@5748.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231129T073000Z
+LOCATION:5-232
+DTSTART:20231129T060000Z
+SUMMARY:ЛР ИТ инновации в бизнесе
+UID:ad1d3b9d-2501-4d9c-a897-a04cb8a05f7b@ad1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231012T113000Z
+LOCATION:5-232
+DTSTART:20231012T100000Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:c3513e28-dc99-4674-9f02-c7abf0f85568@c351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230908T113000Z
+LOCATION:5-414Б
+DTSTART:20230908T100000Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:78c437c4-3543-4169-ad52-58c41c313d57@78c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231207T091500Z
+LOCATION:5-414Б
+DTSTART:20231207T074500Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:cd63895d-e853-4312-b0f4-810c3c347862@cd63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231019T131500Z
+LOCATION:5-414В
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:819af7c8-bcd0-44c6-9942-869383954f08@819a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231107T073000Z
+LOCATION:5-227
+DTSTART:20231107T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:806b0476-5534-4b57-96fe-9cf2b4753f92@806b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231002T091500Z
+LOCATION:3-441
+DTSTART:20231002T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:34bea839-c4a2-4d9a-a45b-19912abde28d@34be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231102T073000Z
+LOCATION:5-413
+DTSTART:20231102T060000Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:e5a6be2d-e479-47d9-a261-97f9b4425cb3@e5a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231002T113000Z
+LOCATION:5-413
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:897bb838-de5b-4620-94cd-01f97ce30a9a@897b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20230926T073000Z
+LOCATION:5-227
+DTSTART:20230926T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:e417b936-2766-4840-b8b7-8f7b65da34a7@e417.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231107T131500Z
+LOCATION:5-232
+DTSTART:20231107T114500Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:e84b9d55-f3d1-4dc2-8391-b498dfbe3e9e@e84b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231010T113000Z
+LOCATION:5-232
+DTSTART:20231010T100000Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:9da451a9-dd76-412a-8c9a-3c07fbc9d45e@9da4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231004T091500Z
+LOCATION:5-413
+DTSTART:20231004T074500Z
+SUMMARY:ЛК ИТ инновации в бизнесе
+UID:e5f2a31b-b22a-4b73-80e3-488cb99f8716@e5f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231109T113000Z
+LOCATION:5-232
+DTSTART:20231109T100000Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:e95d1e75-a27e-45c6-a524-d9dbf96b725f@e95d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231109T131500Z
+LOCATION:5-232
+DTSTART:20231109T114500Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:c0d2c575-11ab-42be-94c0-1dbbd7fcf930@c0d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230906T091500Z
+LOCATION:5-413
+DTSTART:20230906T074500Z
+SUMMARY:ЛК ИТ инновации в бизнесе
+UID:b29873b4-afac-41d5-a260-5da3677f48f8@b298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231211T113000Z
+LOCATION:5-413
+DTSTART:20231211T100000Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:b91e36fd-2f25-4169-832a-87974103cc48@b91e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231103T113000Z
+LOCATION:5-414Б
+DTSTART:20231103T100000Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:854ba0a6-d4d8-43df-bf9d-3c16812437f8@854b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231229T164500Z
+LOCATION:5-122
+DTSTART:20231229T151500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:5da1409a-01c7-40b5-bd3c-6b15a13f178a@5da1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230907T131500Z
+LOCATION:5-414В
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:23734e81-da9a-4b3e-93aa-fe9c69e14d1a@2373.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231020T113000Z
+LOCATION:5-414Б
+DTSTART:20231020T100000Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:b377c5a9-402f-4daa-9436-10a2f0cd0b8d@b377.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20230912T073000Z
+LOCATION:5-227
+DTSTART:20230912T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:3d4d9d52-853c-4505-bbee-eceaaf544fa8@3d4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231221T113000Z
+LOCATION:5-232
+DTSTART:20231221T100000Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:bece778f-124d-414f-ac13-8c8ddeee5888@bece.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230920T091500Z
+LOCATION:5-413
+DTSTART:20230920T074500Z
+SUMMARY:ЛК ИТ инновации в бизнесе
+UID:58d0fac2-509a-46f3-bd4d-ee59cb10a828@58d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231023T113000Z
+LOCATION:5-414Б
+DTSTART:20231023T100000Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:838e15ee-1c1c-4a6c-9d99-2a09e421797e@838e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231031T073000Z
+LOCATION:5-227
+DTSTART:20231031T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:def6cde3-b6e4-49e1-891d-c116df3ab496@def6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231115T091500Z
+LOCATION:5-232
+DTSTART:20231115T074500Z
+SUMMARY:ЛР ИТ инновации в бизнесе
+UID:3d703344-7e7c-47c7-81b2-496ba8c8a2f1@3d70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20230904T131500Z
+LOCATION:5-413
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:a21edfaf-67a0-4833-908a-497011188a2f@a21e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231128T073000Z
+LOCATION:5-227
+DTSTART:20231128T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:9de79dba-fa70-43c6-b3df-b23e45d17887@9de7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231228T113000Z
+LOCATION:5-414В
+DTSTART:20231228T100000Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:1c22bdd6-a6e7-49f7-b156-f8305f09f9d2@1c22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231106T113000Z
+LOCATION:5-414Б
+DTSTART:20231106T100000Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:497c795e-450f-48d6-a59d-bdab5cfa42be@497c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20230918T091500Z
+LOCATION:3-441
+DTSTART:20230918T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:e8f4170c-3f24-46ff-95fd-79cd530febbc@e8f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231005T131500Z
+LOCATION:5-414В
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:e77a31cd-0bf5-431d-b09a-9ff64d600f9f@e77a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231026T131500Z
+LOCATION:5-232
+DTSTART:20231026T114500Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:93547ae5-3da8-4625-bb56-3d756e876bee@9354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231123T091500Z
+LOCATION:5-414Б
+DTSTART:20231123T074500Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:3fbdf3c6-1acd-4586-b3a4-b3fae93e32dd@3fbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230906T073000Z
+LOCATION:5-413
+DTSTART:20230906T060000Z
+SUMMARY:ЛК ИТ инновации в бизнесе
+UID:10866fa9-472a-4301-b006-bc73f0408c4d@1086.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231017T131500Z
+LOCATION:5-414В
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:9ea12879-5f4b-4d1b-94ec-cb336c1c4153@9ea1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231010T131500Z
+LOCATION:5-232
+DTSTART:20231010T114500Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:45ff333f-f140-47ce-bf73-7f3f79d60611@45ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231127T073000Z
+LOCATION:3-441
+DTSTART:20231127T060000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:d01d715b-6c99-4c9e-b704-c2d731c07de9@d01d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231212T091500Z
+LOCATION:5-227
+DTSTART:20231212T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:3e7f65ee-7507-4fd1-8009-1075780f4688@3e7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231215T164500Z
+LOCATION:5-122
+DTSTART:20231215T151500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:862a90d6-ee67-4bbc-a676-1d5cac03ff33@862a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20230904T073000Z
+LOCATION:3-441
+DTSTART:20230904T060000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:75d15bca-0ee8-4ac0-8c18-9b4b512687ed@75d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231113T131500Z
+LOCATION:5-413
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:6431d9bf-310b-49a7-aa5b-a62335c21f53@6431.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20230925T113000Z
+LOCATION:5-414Б
+DTSTART:20230925T100000Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:ca0b0773-f00f-4786-9f0f-92f9f00039aa@ca0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20230911T113000Z
+LOCATION:5-414Б
+DTSTART:20230911T100000Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:eb45aacb-4819-432b-b823-53138ddd5167@eb45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230922T113000Z
+LOCATION:5-414Б
+DTSTART:20230922T100000Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:c338eaac-d288-487c-8742-23bb38dd0511@c338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231123T073000Z
+LOCATION:5-414Б
+DTSTART:20231123T060000Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:ca1bc996-5f0f-472b-9fa7-7fc16120eff8@ca1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231016T131500Z
+LOCATION:5-413
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:224e02d9-0e0e-470e-9d31-53dbc9aae4bd@224e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231120T113000Z
+LOCATION:5-414Б
+DTSTART:20231120T100000Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:68b21d9d-f0f0-4c18-a649-2bbae4377f82@68b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231006T113000Z
+LOCATION:5-414Б
+DTSTART:20231006T100000Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:07a876e8-bd34-46b9-9700-ec3753f5c735@07a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231211T073000Z
+LOCATION:3-441
+DTSTART:20231211T060000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:0270701e-bd81-4c3b-9649-d5db35b19e11@0270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230914T131500Z
+LOCATION:5-232
+DTSTART:20230914T114500Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:c1af4b3d-f824-450b-9e3f-583887e839af@c1af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231127T091500Z
+LOCATION:3-441
+DTSTART:20231127T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:0209aed6-4cd6-48e3-a72b-26f443d22ead@0209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231213T091500Z
+LOCATION:5-232
+DTSTART:20231213T074500Z
+SUMMARY:ЛР ИТ инновации в бизнесе
+UID:aebdafda-4bbd-45fb-9e30-1ba5a4359e53@aebd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231218T113000Z
+LOCATION:5-414Б
+DTSTART:20231218T100000Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:974ac743-e5df-493e-83e7-990c7bd6f0f4@974a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20230915T131500Z
+LOCATION:5-122
+DTSTART:20230915T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:f058d2cd-961c-4bbc-911b-729d47ce2c86@f058.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231123T131500Z
+LOCATION:5-232
+DTSTART:20231123T114500Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:b23df299-f1ab-4eeb-9cbf-4600fc0067bc@b23d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231108T091500Z
+LOCATION:5-413
+DTSTART:20231108T074500Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:c5441579-2444-4555-bc12-8c82350da8b9@c544.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231201T164500Z
+LOCATION:5-122
+DTSTART:20231201T151500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:f64a21e0-8739-487e-9d19-f501d0e700e8@f64a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231005T073000Z
+LOCATION:5-413
+DTSTART:20231005T060000Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:9d851a77-8ec6-4a8c-b630-1dc8b0a18eef@9d85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20230918T073000Z
+LOCATION:3-441
+DTSTART:20230918T060000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:841021e4-cc3a-49cb-97f0-24c26fb09597@8410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231116T073000Z
+LOCATION:5-413
+DTSTART:20231116T060000Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:1cd52b12-521d-44e5-9077-cdbb2007ee83@1cd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230927T091500Z
+LOCATION:5-413
+DTSTART:20230927T074500Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:a617c128-a179-44f9-b1c5-a72876e43b43@a617.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231214T113000Z
+LOCATION:5-414В
+DTSTART:20231214T100000Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:5e3b94f0-3f0b-47f9-af8d-be96e1f3b0b2@5e3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231020T131500Z
+LOCATION:5-414Б
+DTSTART:20231020T114500Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:5974c8c3-283c-4b3b-8121-4d84a4e40c25@5974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230905T113000Z
+LOCATION:5-414В
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:ef0c3a46-0812-4221-ba2f-5015abff13f2@ef0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231215T150000Z
+LOCATION:5-122
+DTSTART:20231215T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:aab0dc19-39cd-4094-b0f0-74a3080a133c@aab0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231018T073000Z
+LOCATION:5-413
+DTSTART:20231018T060000Z
+SUMMARY:ЛК ИТ инновации в бизнесе
+UID:162927bb-ad81-4eda-ad01-a1335a487cb0@1629.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20230926T091500Z
+LOCATION:5-227
+DTSTART:20230926T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:8fd55afb-6a94-4473-89ed-e1dccf0a51f5@8fd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231122T073000Z
+LOCATION:5-413
+DTSTART:20231122T060000Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:f2854835-1ef6-4c56-8f80-1ddcd1c1487e@f285.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230921T073000Z
+LOCATION:5-413
+DTSTART:20230921T060000Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:285d8335-4681-4e21-98ce-03ab2b800c75@285d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231205T131500Z
+LOCATION:5-232
+DTSTART:20231205T114500Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:04ae717f-2f5b-4e37-a68d-9a31f0a440c1@04ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231026T091500Z
+LOCATION:5-414Б
+DTSTART:20231026T074500Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:b33b5efa-1c89-4693-9b72-240cf9acf77e@b33b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231201T150000Z
+LOCATION:5-122
+DTSTART:20231201T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:486ac3da-4202-4961-bd70-61d614b5b954@486a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231116T131500Z
+LOCATION:5-414В
+DTSTART:20231116T114500Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:941aa5b2-0019-4c00-868b-0e9c850108d9@941a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231115T073000Z
+LOCATION:5-232
+DTSTART:20231115T060000Z
+SUMMARY:ЛР ИТ инновации в бизнесе
+UID:a6091914-36cc-4c86-a5e4-dbc2f95a2983@a609.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230914T091500Z
+LOCATION:5-414Б
+DTSTART:20230914T074500Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:3669de61-ffe5-424d-bfc7-4444238dfb1a@3669.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231127T113000Z
+LOCATION:5-413
+DTSTART:20231127T100000Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:9c41fd35-8857-4458-9f5a-52f3d2897543@9c41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231113T091500Z
+LOCATION:3-441
+DTSTART:20231113T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:f7baa48e-c494-4452-b6f9-060b7accc89b@f7ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20230918T131500Z
+LOCATION:5-413
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:90aa4d51-412c-43be-ac2d-48a97e5ce301@90aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231128T091500Z
+LOCATION:5-227
+DTSTART:20231128T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:a3a928ab-b4c6-40fc-aaa0-2fcbad0c0873@a3a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230928T113000Z
+LOCATION:5-232
+DTSTART:20230928T100000Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:fe8b9220-3d48-4dee-b1fc-d925403680ee@fe8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230921T091500Z
+LOCATION:5-413
+DTSTART:20230921T074500Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:b989a2ed-63a9-4cbe-8920-ff68864775d4@b989.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231024T131500Z
+LOCATION:5-232
+DTSTART:20231024T114500Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:bb2257dc-d3d9-4b15-a02b-bad7a8f34ccd@bb22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231018T091500Z
+LOCATION:5-413
+DTSTART:20231018T074500Z
+SUMMARY:ЛК ИТ инновации в бизнесе
+UID:9b07215e-2576-48b3-9fe7-0561057e0279@9b07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231213T073000Z
+LOCATION:5-232
+DTSTART:20231213T060000Z
+SUMMARY:ЛР ИТ инновации в бизнесе
+UID:ae18949d-5cb4-4950-8b91-3102c20fe347@ae18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231012T091500Z
+LOCATION:5-414Б
+DTSTART:20231012T074500Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:65373024-4eb1-4110-9a84-2aae7685209c@6537.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231207T131500Z
+LOCATION:5-232
+DTSTART:20231207T114500Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:e0c10161-52a2-48c9-9608-4ca0a02f682a@e0c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231016T073000Z
+LOCATION:3-441
+DTSTART:20231016T060000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:a770be63-bd93-4ba1-bf19-256eb67644de@a770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20230929T131500Z
+LOCATION:5-122
+DTSTART:20230929T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:4db5a089-1c15-4a23-a34a-ba7ab4674cd1@4db5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231226T091500Z
+LOCATION:5-227
+DTSTART:20231226T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:2c3ee495-1add-488e-abc8-6b300603ab17@2c3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20230929T113000Z
+LOCATION:5-122
+DTSTART:20230929T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:8345a0f5-a6b0-49da-9f76-1eebf4688d14@8345.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231003T073000Z
+LOCATION:5-227
+DTSTART:20231003T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:a75d72d7-ba3f-4d11-b812-510c8948001a@a75d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230907T113000Z
+LOCATION:5-414В
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:d360d32f-18fb-4eda-8d97-30f85c2c2732@d360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231016T113000Z
+LOCATION:5-413
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:14ab276b-e07a-4f7f-890c-d6c6bb064c25@14ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231128T131500Z
+LOCATION:5-414В
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:028de1eb-fc3f-4145-a346-dc90fd9f8fb1@028d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20230905T091500Z
+LOCATION:5-227
+DTSTART:20230905T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:4f2fdb4b-1108-48ae-8772-c354661fc51b@4f2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231226T073000Z
+LOCATION:5-227
+DTSTART:20231226T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:da44d19a-ae96-440c-b3ce-44b2f08a0f35@da44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231130T113000Z
+LOCATION:5-414В
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:3c2e0e83-a104-4f4f-b42d-7f90fe0f9b0d@3c2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231207T113000Z
+LOCATION:5-232
+DTSTART:20231207T100000Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:65eb8a70-9082-4a18-bad1-86db672a40f1@65eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231206T091500Z
+LOCATION:5-413
+DTSTART:20231206T074500Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:bdf7f741-53f1-4ce6-9bba-fe081a90031c@bdf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231205T113000Z
+LOCATION:5-232
+DTSTART:20231205T100000Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:1645f75b-9ba0-42ad-a795-e33a3537e889@1645.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230921T113000Z
+LOCATION:5-414В
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:c1866a99-de08-4cda-8f4a-1f763ef21475@c186.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231219T091500Z
+LOCATION:5-227
+DTSTART:20231219T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:c71c2fb4-401e-4fc2-ac20-761d7e9cbef0@c71c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231024T073000Z
+LOCATION:5-227
+DTSTART:20231024T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:a58b03e8-4728-4cde-a360-5298d0a04191@a58b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230927T073000Z
+LOCATION:5-413
+DTSTART:20230927T060000Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:d1d67099-782a-4e09-bf4e-abe49eeaa4ec@d1d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231004T073000Z
+LOCATION:5-413
+DTSTART:20231004T060000Z
+SUMMARY:ЛК ИТ инновации в бизнесе
+UID:16b1e1b3-5e0f-4e0d-a1cd-602f22103bbf@16b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231228T131500Z
+LOCATION:5-414В
+DTSTART:20231228T114500Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:9d7cc910-b175-4814-a486-caa75604a74e@9d7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230919T131500Z
+LOCATION:5-414В
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:b53204bf-bf58-422a-b5b2-0c75101ad028@b532.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231201T113000Z
+LOCATION:5-414Б
+DTSTART:20231201T100000Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:020f9e57-fe6c-4d45-a34d-1cc87f16631f@020f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231026T073000Z
+LOCATION:5-414Б
+DTSTART:20231026T060000Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:c88298a6-496e-49a6-8324-17700f201012@c882.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230921T131500Z
+LOCATION:5-414В
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:edbd702b-319b-4734-8839-70a47002f644@edbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230928T091500Z
+LOCATION:5-414Б
+DTSTART:20230928T074500Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:a059090f-3e44-48d3-ada4-b8f4aab82ad1@a059.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231201T131500Z
+LOCATION:5-414Б
+DTSTART:20231201T114500Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:76c6b5eb-80a0-4ba5-a484-43e938a86f6c@76c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230926T131500Z
+LOCATION:5-232
+DTSTART:20230926T114500Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:9713b26b-7159-4a39-9173-8baca7e15611@9713.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230908T131500Z
+LOCATION:5-414Б
+DTSTART:20230908T114500Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:7e7fc3f9-716f-48cd-ba55-c73c3dcc428c@7e7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231011T091500Z
+LOCATION:5-413
+DTSTART:20231011T074500Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:11fdcc9a-9654-42d7-a7af-b08892a88a8c@11fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231211T131500Z
+LOCATION:5-413
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:88b06f8c-0a76-4fd9-9784-e4938ab59e71@88b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230926T113000Z
+LOCATION:5-232
+DTSTART:20230926T100000Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:54843a41-cb24-4532-8371-dc17585125f9@5484.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231130T073000Z
+LOCATION:5-413
+DTSTART:20231130T060000Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:c5f98e6a-e532-46ec-b844-f65e6a766b12@c5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231211T091500Z
+LOCATION:3-441
+DTSTART:20231211T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:12c8fbc0-b86f-40b9-a852-b1584df41013@12c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231031T113000Z
+LOCATION:5-414В
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:3655c296-9356-4315-b5a7-8fcd707c5e1a@3655.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231130T131500Z
+LOCATION:5-414В
+DTSTART:20231130T114500Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:7e1ffd16-1738-4b7b-88ee-9e084dff6152@7e1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231121T091500Z
+LOCATION:5-227
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:2c7cc1c2-e092-4348-b918-748e6d78fbeb@2c7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231019T113000Z
+LOCATION:5-414В
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:400ed703-763c-42e6-af2d-a5327ae506c3@400e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20230907T073000Z
+LOCATION:5-413
+DTSTART:20230907T060000Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:917d9cca-bc6d-453d-a1b3-d547c6a4b3f6@917d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231003T113000Z
+LOCATION:5-414В
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:b0e330d1-8354-403f-96da-032e978e29b1@b0e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230912T131500Z
+LOCATION:5-232
+DTSTART:20230912T114500Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:0e2c4c71-9390-4192-ae51-2c8d00a8a2bf@0e2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231026T113000Z
+LOCATION:5-232
+DTSTART:20231026T100000Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:2258be3e-79d8-4d2d-a06e-8116c8f0fcfa@2258.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231102T091500Z
+LOCATION:5-413
+DTSTART:20231102T074500Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:712010e1-7318-4731-92c4-cac4e516ec98@7120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231114T113000Z
+LOCATION:5-414В
+DTSTART:20231114T100000Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:c158255b-7592-4755-a06c-06e29222f1af@c158.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231011T073000Z
+LOCATION:5-413
+DTSTART:20231011T060000Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:b8601f14-7c65-46d8-a782-ca4f9b6be8e3@b860.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231212T073000Z
+LOCATION:5-227
+DTSTART:20231212T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:af14b53e-53ac-4d3f-af8e-56a52eae6381@af14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230914T113000Z
+LOCATION:5-232
+DTSTART:20230914T100000Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:a49ef8db-8f98-49b3-a33b-94b250fde698@a49e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231010T091500Z
+LOCATION:5-227
+DTSTART:20231010T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:0e031c37-7f78-49f1-8d63-b189c8adfcf1@0e03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231023T131500Z
+LOCATION:5-414Б
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:0a4a5513-b0c6-4a4a-8077-8052612907b1@0a4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231102T131500Z
+LOCATION:5-414В
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:e10bcdc0-eb2f-44e6-a686-e4fc10cefd63@e10b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231106T131500Z
+LOCATION:5-414Б
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:6c07a650-19ef-4b14-bfa7-29eab772c181@6c07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231205T073000Z
+LOCATION:5-227
+DTSTART:20231205T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:f3f61365-41cf-4edc-9fb3-58ab090357c1@f3f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231225T091500Z
+LOCATION:3-441
+DTSTART:20231225T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:c74d7d19-cecf-45f8-bc91-9a102112603e@c74d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231225T113000Z
+LOCATION:5-413
+DTSTART:20231225T100000Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:ad67806b-8abb-4776-b3c0-b0b6694c06bc@ad67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231113T113000Z
+LOCATION:5-413
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:cc3287bb-c451-4233-be07-348625b91824@cc32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231225T131500Z
+LOCATION:5-413
+DTSTART:20231225T114500Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:86b13a32-b3b7-4b35-9495-abfebcff696d@86b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231024T113000Z
+LOCATION:5-232
+DTSTART:20231024T100000Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:e98b6506-a5fd-4142-9e9e-4a2539808419@e98b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231031T091500Z
+LOCATION:5-227
+DTSTART:20231031T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:0413cac3-a992-430d-96f0-5a7e7304939a@0413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231228T073000Z
+LOCATION:5-413
+DTSTART:20231228T060000Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:9974881e-8585-4cb4-97db-84135d331a46@9974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231012T073000Z
+LOCATION:5-414Б
+DTSTART:20231012T060000Z
+SUMMARY:ЛР Менеджмент ИТ-инноваций
+UID:a44df35d-f628-4c84-94b6-8c940f34f7bb@a44d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20230918T113000Z
+LOCATION:5-413
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:75edb2a3-f93f-4884-8088-d40940f95b05@75ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20230905T073000Z
+LOCATION:5-227
+DTSTART:20230905T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:247428d7-453e-46af-9b84-c16eaf21a8fb@2474.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231227T091500Z
+LOCATION:5-232
+DTSTART:20231227T074500Z
+SUMMARY:ЛР ИТ инновации в бизнесе
+UID:a2d234b2-61a6-43a7-91c7-136990655cc0@a2d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231130T091500Z
+LOCATION:5-413
+DTSTART:20231130T074500Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:a00ab506-710a-43fa-a926-1712aee59f2c@a00a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231225T073000Z
+LOCATION:3-441
+DTSTART:20231225T060000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:2772051f-5ff5-4c52-a139-a9f13cb56a53@2772.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231113T073000Z
+LOCATION:3-441
+DTSTART:20231113T060000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:d1664768-5991-4754-b49d-b4988e6eadd8@d166.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20230925T131500Z
+LOCATION:5-414Б
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:c430f51f-ee1f-4ec1-9841-b031337b411f@c430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230919T113000Z
+LOCATION:5-414В
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:ff633ac5-7d89-4a11-9500-5722cdb742da@ff63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231101T073000Z
+LOCATION:5-232
+DTSTART:20231101T060000Z
+SUMMARY:ЛР ИТ инновации в бизнесе
+UID:f17528c7-3bba-4f33-bb5e-1228a9e1b9da@f175.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20230913T073000Z
+LOCATION:5-413
+DTSTART:20230913T060000Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:917b4360-b343-4c68-a8ba-e1c44ba74b68@917b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231219T073000Z
+LOCATION:5-227
+DTSTART:20231219T060000Z
+SUMMARY:ЛК ИТ-консалтинг
+UID:05dd6774-5be8-49dc-9e75-31fd274e9f0a@05dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231214T131500Z
+LOCATION:5-414В
+DTSTART:20231214T114500Z
+SUMMARY:ЛК Информационно - аналитические системы
+UID:4a8f6620-bd7d-4152-9e68-1839cea2c50e@4a8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231024T091500Z
+LOCATION:5-227
+DTSTART:20231024T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:a8ede19d-8654-48c7-9b54-a4f0c202d529@a8ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231122T091500Z
+LOCATION:5-413
+DTSTART:20231122T074500Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:7ba9e6a4-cad6-483c-b335-cf8be3323fce@7ba9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230912T113000Z
+LOCATION:5-232
+DTSTART:20230912T100000Z
+SUMMARY:ЛР Бизнес-аналитика при мониторинге экономической деятельности
+UID:b0b6ef9b-f5cf-4718-bbd3-b5ed187540b6@b0b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20230904T091500Z
+LOCATION:3-441
+DTSTART:20230904T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:1d024935-1ffc-4adc-ad09-1ca4eb667ff8@1d02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231003T131500Z
+LOCATION:5-414В
+DTSTART:20231003T114500Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:73d3ec03-78b6-4720-aafb-93cdddfca3cf@73d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20230904T113000Z
+LOCATION:5-413
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:44ab237a-033e-423a-800f-b4f827ab18b4@44ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231227T073000Z
+LOCATION:5-232
+DTSTART:20231227T060000Z
+SUMMARY:ЛР ИТ инновации в бизнесе
+UID:71cbe8f2-ffac-469a-bd14-f090e268f51d@71cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231009T131500Z
+LOCATION:5-414Б
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Логистическое управление высокотехнологичным производством
+UID:79a8c061-777a-4fea-a44e-d27107b89dd0@79a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кругляева Екатерина Александровна
+DTEND:20231030T131500Z
+LOCATION:5-413
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Логистическое управление высокотехнологичным производством
+UID:ed140b85-74ac-4188-ad9c-a58ade689511@ed14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПАЛЫГА РУСЛАН БОРИСОВИЧ
+DTEND:20231016T091500Z
+LOCATION:3-441
+DTSTART:20231016T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:c3755341-4f46-4afc-b498-8a3dfa2054bc@c375.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230905T131500Z
+LOCATION:5-414В
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:730384d4-f2de-4a57-b986-9ca4eb40c924@7303.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231103T131500Z
+LOCATION:5-414Б
+DTSTART:20231103T114500Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:549e3e31-5d57-4d5b-a26f-4eceb7afcf62@549e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231205T091500Z
+LOCATION:5-227
+DTSTART:20231205T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:77223b70-5ff0-43b4-8d22-870835758392@7722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231005T091500Z
+LOCATION:5-413
+DTSTART:20231005T074500Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:d33f9f1a-7795-4a9b-ac6a-1095a579b592@d33f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20230928T131500Z
+LOCATION:5-232
+DTSTART:20230928T114500Z
+SUMMARY:ЛР Информационно - аналитические системы
+UID:25757b1e-f8cb-4166-85e3-bd6d0efa024c@2575.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231108T073000Z
+LOCATION:5-413
+DTSTART:20231108T060000Z
+SUMMARY:ЛК Рынок информационных продуктов и услуг
+UID:6d9bf747-901b-4f80-827f-be9e215d19c0@6d9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231003T091500Z
+LOCATION:5-227
+DTSTART:20231003T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:a7515c1c-43b8-402e-a396-5990d6770909@a751.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасьева Ольга Анатольевна
+DTEND:20231017T113000Z
+LOCATION:5-414В
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Бизнес-аналитика при мониторинге экономической деятельности
+UID:366b1ff2-e880-42fb-8745-3e276cae2b7d@366b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ратникова Елена Александровна
+DTEND:20231006T131500Z
+LOCATION:5-414Б
+DTSTART:20231006T114500Z
+SUMMARY:ПЗ Рынок информационных продуктов и услуг
+UID:6d40e9c8-3100-44ad-83be-fc5a3b6d7ace@6d40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Яковлев Андрей Алексеевич
+DTEND:20231019T091500Z
+LOCATION:5-413
+DTSTART:20231019T074500Z
+SUMMARY:ЛК Менеджмент ИТ-инноваций
+UID:8fac30db-2d60-4b21-8187-f5fd2fa98703@8fac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Суркова Екатерина Валерьевна
+DTEND:20231114T091500Z
+LOCATION:5-227
+DTSTART:20231114T074500Z
+SUMMARY:ПЗ ИТ-консалтинг
+UID:2cb2d3b4-2872-4b0f-bdac-2d51fe7fe02d@2cb2.org
 END:VEVENT
 END:VCALENDAR

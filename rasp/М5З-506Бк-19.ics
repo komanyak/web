@@ -2,116 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Казакова Наталья Вячеславовна
-DTEND:20230930T131500Z
-LOCATION:5-112
-DTSTART:20230930T114500Z
-SUMMARY:ПЗ Товароведение\, экспертиза и стандартизация
-UID:db6a2af6-424f-415b-bbfe-f51e84bd558b@db6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231010T183000Z
-LOCATION:Орш. В-304
-DTSTART:20231010T170000Z
-SUMMARY:ПЗ Управление рисками
-UID:bee5de49-5d57-42d1-b1f8-99fd706e9f52@bee5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колосова Валерия Валерьевна
-DTEND:20231114T183000Z
-LOCATION:5-107А
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Стратегический менеджмент
-UID:a0dda723-f3e3-42cd-8081-86a8513d2a02@a0dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казакова Наталья Вячеславовна
-DTEND:20231111T131500Z
-LOCATION:5-112
-DTSTART:20231111T114500Z
-SUMMARY:ПЗ Товароведение\, экспертиза и стандартизация
-UID:7517c1c7-3a75-4c23-b9b8-da51ca7e35bf@7517.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Семина Анастасия Павловна
-DTEND:20230904T183000Z
-LOCATION:5-111
-DTSTART:20230904T170000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:c7af5c99-8650-407f-bb74-2df47ace9592@c7af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Костыгова Людмила Александровна
-DTEND:20230925T164500Z
-LOCATION:5-107А
-DTSTART:20230925T151500Z
-SUMMARY:ЛК Корпоративная социальная ответственность
-UID:52948052-4d50-4bb0-a47c-3d06ad2d1330@5294.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Губанова Светлана Евгеньевна
-DTEND:20230928T164500Z
+DTEND:20231012T164500Z
 LOCATION:Орш. В-304
-DTSTART:20230928T151500Z
+DTSTART:20231012T151500Z
 SUMMARY:ЛК Маркетинг персонала
-UID:05290344-99aa-440b-9418-34a8679da891@0529.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казакова Наталья Вячеславовна
-DTEND:20230930T113000Z
-LOCATION:5-112
-DTSTART:20230930T100000Z
-SUMMARY:ЛК Товароведение\, экспертиза и стандартизация
-UID:7b45a54c-9753-4d62-bcfb-30c638a715b9@7b45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казакова Наталья Вячеславовна
-DTEND:20231014T113000Z
-LOCATION:5-112
-DTSTART:20231014T100000Z
-SUMMARY:ЛК Товароведение\, экспертиза и стандартизация
-UID:2b80ae6e-748b-4e4f-bb21-71998781e678@2b80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казакова Наталья Вячеславовна
-DTEND:20231028T131500Z
-LOCATION:5-112
-DTSTART:20231028T114500Z
-SUMMARY:ПЗ Товароведение\, экспертиза и стандартизация
-UID:19f8fb31-4516-470e-b110-22cdc9dd9215@19f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Семина Анастасия Павловна
-DTEND:20231002T183000Z
-LOCATION:5-001
-DTSTART:20231002T170000Z
-SUMMARY:ПЗ Управление человеческими ресурсами
-UID:bc277717-905e-4d99-8e4a-497a274332ca@bc27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колосова Валерия Валерьевна
-DTEND:20231121T164500Z
-LOCATION:5-103
-DTSTART:20231121T151500Z
-SUMMARY:ЛР Стратегический менеджмент
-UID:23feae87-0a78-47e7-8156-9d5ac42111e4@23fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231017T164500Z
-LOCATION:Орш. В-304
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:44f89100-9dc9-4092-b9a8-61acf5d0baf1@44f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Губанова Светлана Евгеньевна
-DTEND:20231012T183000Z
-LOCATION:Орш. В-304
-DTSTART:20231012T170000Z
-SUMMARY:ПЗ Маркетинг персонала
-UID:fcfad537-70a4-440f-b0a1-18453c1b1c36@fcfa.org
+UID:28777ab0-bc9f-4cd7-ad29-9920a2f04cc7@2877.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Семина Анастасия Павловна
@@ -119,215 +15,7 @@ DTEND:20231030T183000Z
 LOCATION:5-001
 DTSTART:20231030T170000Z
 SUMMARY:ПЗ Управление человеческими ресурсами
-UID:59af5b53-c484-4e5b-ad0a-6e6c26dbc973@59af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казакова Наталья Вячеславовна
-DTEND:20231111T113000Z
-LOCATION:5-112
-DTSTART:20231111T100000Z
-SUMMARY:ЛК Товароведение\, экспертиза и стандартизация
-UID:5921aa52-8f2e-49f6-925d-4d32bef79944@5921.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231024T164500Z
-LOCATION:Орш. В-304
-DTSTART:20231024T151500Z
-SUMMARY:ЛК Управление рисками
-UID:3ba87602-b639-4cdf-9f5c-c7484dab19cc@3ba8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колосова Валерия Валерьевна
-DTEND:20231205T164500Z
-LOCATION:5-103
-DTSTART:20231205T151500Z
-SUMMARY:ЛР Стратегический менеджмент
-UID:a90ea364-121f-4294-9579-5223c81f0e3a@a90e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20230912T183000Z
-LOCATION:Орш. В-304
-DTSTART:20230912T170000Z
-SUMMARY:ПЗ Управление рисками
-UID:7a5e34e7-94c1-46d7-b3a4-cf1aa53b9080@7a5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Семина Анастасия Павловна
-DTEND:20230904T164500Z
-LOCATION:5-111
-DTSTART:20230904T151500Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:0238bf96-da84-4b1a-9654-98ecb78c8574@0238.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231003T183000Z
-LOCATION:Орш. В-304
-DTSTART:20231003T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:b60f08f3-c564-40db-a162-1bbc4dc4777e@b60f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231031T164500Z
-LOCATION:Орш. В-304
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:186e29a4-ea7c-424b-ab3c-0a8da6880431@186e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Губанова Светлана Евгеньевна
-DTEND:20230914T164500Z
-LOCATION:Орш. В-304
-DTSTART:20230914T151500Z
-SUMMARY:ЛК Маркетинг персонала
-UID:86dd290a-d0e6-4292-9817-37628bb43a81@86dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231024T183000Z
-LOCATION:Орш. В-304
-DTSTART:20231024T170000Z
-SUMMARY:ПЗ Управление рисками
-UID:756be2c5-5f67-4a7a-8784-19a0714247db@756b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Семина Анастасия Павловна
-DTEND:20231016T183000Z
-LOCATION:5-001
-DTSTART:20231016T170000Z
-SUMMARY:ПЗ Управление человеческими ресурсами
-UID:ab27d786-e05d-4f1b-8774-b55c3d8ffd6f@ab27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231107T183000Z
-LOCATION:Орш. В-304
-DTSTART:20231107T170000Z
-SUMMARY:ПЗ Управление рисками
-UID:59ea544c-fefd-4475-8c8a-80a83814f23c@59ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колосова Валерия Валерьевна
-DTEND:20231205T183000Z
-LOCATION:5-103
-DTSTART:20231205T170000Z
-SUMMARY:ЛР Стратегический менеджмент
-UID:be102416-4d8b-4a26-9ba8-cd50942e096f@be10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Костыгова Людмила Александровна
-DTEND:20231106T164500Z
-LOCATION:5-107А
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Корпоративная социальная ответственность
-UID:d50d3a88-b31b-4813-95d2-6f298c6c5333@d50d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231031T183000Z
-LOCATION:Орш. В-304
-DTSTART:20231031T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:d5f7c39f-f447-4a89-97f5-a62dca402619@d5f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231003T164500Z
-LOCATION:Орш. В-304
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:b9bd1e39-9805-4d46-81cf-515e7729675c@b9bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Семина Анастасия Павловна
-DTEND:20231016T164500Z
-LOCATION:5-001
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Управление человеческими ресурсами
-UID:c5a12d42-3abd-4d64-b7e2-cebddd9505af@c5a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20230926T164500Z
-LOCATION:Орш. В-304
-DTSTART:20230926T151500Z
-SUMMARY:ЛК Управление рисками
-UID:c1062e2d-07e9-45f4-ab52-09d6159ef68b@c106.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Губанова Светлана Евгеньевна
-DTEND:20231109T183000Z
-LOCATION:Орш. В-304
-DTSTART:20231109T170000Z
-SUMMARY:ПЗ Маркетинг персонала
-UID:23635316-cc06-4afe-ad2e-3ea33ee602e0@2363.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колосова Валерия Валерьевна
-DTEND:20231219T164500Z
-LOCATION:5-103
-DTSTART:20231219T151500Z
-SUMMARY:ЛР Стратегический менеджмент
-UID:ae858eb8-e53f-4f93-ad56-7dd4c555a2dd@ae85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Костыгова Людмила Александровна
-DTEND:20230925T183000Z
-LOCATION:5-107А
-DTSTART:20230925T170000Z
-SUMMARY:ЛК Корпоративная социальная ответственность
-UID:e7537212-e546-4455-a6aa-ce429882c672@e753.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колосова Валерия Валерьевна
-DTEND:20231219T183000Z
-LOCATION:5-103
-DTSTART:20231219T170000Z
-SUMMARY:ЛР Стратегический менеджмент
-UID:fecbe356-13ac-4c9b-978c-4ef7544f13a9@fecb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Губанова Светлана Евгеньевна
-DTEND:20231109T164500Z
-LOCATION:Орш. В-304
-DTSTART:20231109T151500Z
-SUMMARY:ЛК Маркетинг персонала
-UID:01fea06a-6fe3-4f98-8415-133069cdf6ab@01fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Костыгова Людмила Александровна
-DTEND:20231009T183000Z
-LOCATION:5-107А
-DTSTART:20231009T170000Z
-SUMMARY:ПЗ Корпоративная социальная ответственность
-UID:6ac6adaa-63d9-4a2d-9f9e-061eb78f2779@6ac6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казакова Наталья Вячеславовна
-DTEND:20230916T131500Z
-LOCATION:5-112
-DTSTART:20230916T114500Z
-SUMMARY:ПЗ Товароведение\, экспертиза и стандартизация
-UID:f5d628a4-02e7-41a5-bc35-00419b281ae0@f5d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Губанова Светлана Евгеньевна
-DTEND:20231012T164500Z
-LOCATION:Орш. В-304
-DTSTART:20231012T151500Z
-SUMMARY:ЛК Маркетинг персонала
-UID:4625f4b0-7ea3-403e-a975-7fde117cfb1c@4625.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Губанова Светлана Евгеньевна
-DTEND:20231026T164500Z
-LOCATION:Орш. В-304
-DTSTART:20231026T151500Z
-SUMMARY:ЛК Маркетинг персонала
-UID:1abb11af-4f7d-409e-82e4-bda903c968b4@1abb.org
+UID:d805be2b-8628-4b87-b20a-c7c7a562aa17@d805.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Семина Анастасия Павловна
@@ -335,111 +23,23 @@ DTEND:20230918T164500Z
 LOCATION:5-111
 DTSTART:20230918T151500Z
 SUMMARY:ЛК Управление человеческими ресурсами
-UID:18a735b1-37c6-4e46-b523-c674f1a0cec2@18a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колосова Валерия Валерьевна
-DTEND:20231121T183000Z
-LOCATION:5-103
-DTSTART:20231121T170000Z
-SUMMARY:ЛР Стратегический менеджмент
-UID:c5b26a30-ed88-4b20-8347-814b65fd7f9c@c5b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Костыгова Людмила Александровна
-DTEND:20230911T183000Z
-LOCATION:5-107А
-DTSTART:20230911T170000Z
-SUMMARY:ЛК Корпоративная социальная ответственность
-UID:dca44214-9357-460e-81a2-cc08b442be1b@dca4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колосова Валерия Валерьевна
-DTEND:20231114T164500Z
-LOCATION:5-107А
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Стратегический менеджмент
-UID:d519064b-3fdc-4591-8dcf-07b89d40e54a@d519.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Семина Анастасия Павловна
-DTEND:20231002T164500Z
-LOCATION:5-001
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Управление человеческими ресурсами
-UID:ef92038e-cd8f-4199-afb8-09321f512423@ef92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Костыгова Людмила Александровна
-DTEND:20231106T183000Z
-LOCATION:5-107А
-DTSTART:20231106T170000Z
-SUMMARY:ПЗ Корпоративная социальная ответственность
-UID:7f2917e6-2b22-432a-8c7d-92ff69874044@7f29.org
+UID:43968122-0d04-4d1c-8b3d-36c4babef4a8@4396.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20230905T183000Z
+DTEND:20231031T164500Z
 LOCATION:Орш. В-304
-DTSTART:20230905T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:805258e0-cd27-4961-848b-bc323799a5f5@8052.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Семина Анастасия Павловна
-DTEND:20231030T164500Z
-LOCATION:5-001
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Управление человеческими ресурсами
-UID:4d557348-ec2c-4436-b147-86f2abd8656f@4d55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Костыгова Людмила Александровна
-DTEND:20231023T183000Z
-LOCATION:5-107А
-DTSTART:20231023T170000Z
-SUMMARY:ПЗ Корпоративная социальная ответственность
-UID:d360170a-2e1b-42fb-89ad-21feecafab1d@d360.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231107T164500Z
-LOCATION:Орш. В-304
-DTSTART:20231107T151500Z
-SUMMARY:ЛК Управление рисками
-UID:7f34383b-7565-47a8-89af-9048e4e733c1@7f34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Губанова Светлана Евгеньевна
-DTEND:20230928T183000Z
-LOCATION:Орш. В-304
-DTSTART:20230928T170000Z
-SUMMARY:ПЗ Маркетинг персонала
-UID:0f9eb9be-2a9a-450c-98a1-7f7063ad22f0@0f9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231010T164500Z
-LOCATION:Орш. В-304
-DTSTART:20231010T151500Z
-SUMMARY:ЛК Управление рисками
-UID:b369c7c4-bb96-4e92-b363-b1cae719f0d3@b369.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20230905T164500Z
-LOCATION:Орш. В-304
-DTSTART:20230905T151500Z
+DTSTART:20231031T151500Z
 SUMMARY:ЛК Методы принятия управленческих решений
-UID:15a2ac25-aefe-43a6-8a43-c791d7b68f6d@15a2.org
+UID:15815798-c773-4602-942d-fa3bdcdddf2f@1581.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Казакова Наталья Вячеславовна
-DTEND:20231014T131500Z
-LOCATION:5-112
-DTSTART:20231014T114500Z
-SUMMARY:ПЗ Товароведение\, экспертиза и стандартизация
-UID:9bb63ab8-b91d-4871-a4f9-712c6687097b@9bb6.org
+DESCRIPTION:Колосова Валерия Валерьевна
+DTEND:20231219T183000Z
+LOCATION:5-103
+DTSTART:20231219T170000Z
+SUMMARY:ЛР Стратегический менеджмент
+UID:2123ad40-0b31-4dfd-a7b4-fda3aa789df9@2123.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Губанова Светлана Евгеньевна
@@ -447,31 +47,39 @@ DTEND:20231026T183000Z
 LOCATION:Орш. В-304
 DTSTART:20231026T170000Z
 SUMMARY:ПЗ Маркетинг персонала
-UID:84c887f3-fcce-4e05-8e50-8369d1befbfe@84c8.org
+UID:32ade53f-0d12-42f0-acdb-58b24fc5cd93@32ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колосова Валерия Валерьевна
+DTEND:20231114T164500Z
+LOCATION:5-107А
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Стратегический менеджмент
+UID:610e4e21-8ff5-4a78-8b0a-7fa10feafda2@610e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20231024T183000Z
+LOCATION:Орш. В-304
+DTSTART:20231024T170000Z
+SUMMARY:ПЗ Управление рисками
+UID:f14456e3-b56b-4d73-b2b8-0732a7c3f8a1@f144.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Губанова Светлана Евгеньевна
-DTEND:20230914T183000Z
+DTEND:20231109T164500Z
 LOCATION:Орш. В-304
-DTSTART:20230914T170000Z
-SUMMARY:ПЗ Маркетинг персонала
-UID:b6a446f5-932d-4a7c-b453-7d14a40f9439@b6a4.org
+DTSTART:20231109T151500Z
+SUMMARY:ЛК Маркетинг персонала
+UID:a39dadab-d5d5-4ad8-93c3-58646a2294a1@a39d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Костыгова Людмила Александровна
-DTEND:20231009T164500Z
-LOCATION:5-107А
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Корпоративная социальная ответственность
-UID:768c337d-e7b1-4d16-a8c0-1cb46782f270@768c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Костыгова Людмила Александровна
-DTEND:20230911T164500Z
-LOCATION:5-107А
-DTSTART:20230911T151500Z
-SUMMARY:ЛК Корпоративная социальная ответственность
-UID:3e0e5f75-e42e-4b0b-bcb3-5f5d022bcb5b@3e0e.org
+DESCRIPTION:Казакова Наталья Вячеславовна
+DTEND:20231111T131500Z
+LOCATION:5-112
+DTSTART:20231111T114500Z
+SUMMARY:ПЗ Товароведение\, экспертиза и стандартизация
+UID:f7d2dd8c-2164-4ee9-8974-76e8f22e7645@f7d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сазонов Андрей Александрович
@@ -479,31 +87,7 @@ DTEND:20230919T183000Z
 LOCATION:Орш. В-304
 DTSTART:20230919T170000Z
 SUMMARY:ПЗ Методы принятия управленческих решений
-UID:e686f545-81c3-44c2-a20e-ac1a18478d68@e686.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Костыгова Людмила Александровна
-DTEND:20231023T164500Z
-LOCATION:5-107А
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Корпоративная социальная ответственность
-UID:67ad382e-052e-4146-95a1-8a401b9ac844@67ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20231017T183000Z
-LOCATION:Орш. В-304
-DTSTART:20231017T170000Z
-SUMMARY:ПЗ Методы принятия управленческих решений
-UID:daea39ae-8a98-4572-9d72-38457b1deca8@daea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Казакова Наталья Вячеславовна
-DTEND:20230916T113000Z
-LOCATION:5-112
-DTSTART:20230916T100000Z
-SUMMARY:ЛК Товароведение\, экспертиза и стандартизация
-UID:7cb51050-cef5-488e-95b2-2a87c295f613@7cb5.org
+UID:acc168b2-c0fa-4139-9c6d-c97654bfe935@acc1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сазонов Андрей Александрович
@@ -511,15 +95,7 @@ DTEND:20230926T183000Z
 LOCATION:Орш. В-304
 DTSTART:20230926T170000Z
 SUMMARY:ПЗ Управление рисками
-UID:72b967b9-b332-4499-9735-b4d5ccf97460@72b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20230919T164500Z
-LOCATION:Орш. В-304
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Методы принятия управленческих решений
-UID:048c051c-bb71-4106-abd4-ee1d181f7c70@048c.org
+UID:708501c5-0840-4ec4-8f25-08bccff6b8a9@7085.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Казакова Наталья Вячеславовна
@@ -527,23 +103,167 @@ DTEND:20231028T113000Z
 LOCATION:5-112
 DTSTART:20231028T100000Z
 SUMMARY:ЛК Товароведение\, экспертиза и стандартизация
-UID:2693378b-a720-4f9b-99cb-807983dd3785@2693.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сазонов Андрей Александрович
-DTEND:20230912T164500Z
-LOCATION:Орш. В-304
-DTSTART:20230912T151500Z
-SUMMARY:ЛК Управление рисками
-UID:66a4420c-9168-4259-b6c6-8f41d7577184@66a4.org
+UID:7206d129-0c01-4d6e-ba3c-2e3011de5c31@7206.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Колосова Валерия Валерьевна
-DTEND:20231128T164500Z
+DTEND:20231205T183000Z
+LOCATION:5-103
+DTSTART:20231205T170000Z
+SUMMARY:ЛР Стратегический менеджмент
+UID:cc9bceec-bc8a-417b-9caa-5cef0fda7620@cc9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Губанова Светлана Евгеньевна
+DTEND:20230928T183000Z
+LOCATION:Орш. В-304
+DTSTART:20230928T170000Z
+SUMMARY:ПЗ Маркетинг персонала
+UID:a681948c-588a-42a8-88d8-3245944f679e@a681.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костыгова Людмила Александровна
+DTEND:20231023T164500Z
 LOCATION:5-107А
-DTSTART:20231128T151500Z
-SUMMARY:ЛК Стратегический менеджмент
-UID:d045be7d-f02d-4aed-b32e-2218031eea8b@d045.org
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Корпоративная социальная ответственность
+UID:c12cd123-6bba-41b2-89fe-86608ea9af39@c12c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колосова Валерия Валерьевна
+DTEND:20231121T164500Z
+LOCATION:5-103
+DTSTART:20231121T151500Z
+SUMMARY:ЛР Стратегический менеджмент
+UID:d5a5c2c4-7669-4435-b745-6dfe0a49e630@d5a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Семина Анастасия Павловна
+DTEND:20230904T164500Z
+LOCATION:5-111
+DTSTART:20230904T151500Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:a3c0bb8f-666a-491a-90c1-953ee49815f0@a3c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Губанова Светлана Евгеньевна
+DTEND:20230928T164500Z
+LOCATION:Орш. В-304
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Маркетинг персонала
+UID:39bc60bf-7934-4f8c-bfa1-173ca29d8ca6@39bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Семина Анастасия Павловна
+DTEND:20231016T183000Z
+LOCATION:5-001
+DTSTART:20231016T170000Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:bd0ca69f-16db-4d9d-ab01-ed6e03f5c566@bd0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20230912T183000Z
+LOCATION:Орш. В-304
+DTSTART:20230912T170000Z
+SUMMARY:ПЗ Управление рисками
+UID:2048b74a-0c8e-4563-b786-125cb81ae330@2048.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20231017T183000Z
+LOCATION:Орш. В-304
+DTSTART:20231017T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:1c148d4f-1f94-4232-aff5-4b2358651c9e@1c14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казакова Наталья Вячеславовна
+DTEND:20231028T131500Z
+LOCATION:5-112
+DTSTART:20231028T114500Z
+SUMMARY:ПЗ Товароведение\, экспертиза и стандартизация
+UID:a2046436-b9f9-4efe-aa09-43973a76f1ff@a204.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костыгова Людмила Александровна
+DTEND:20230911T183000Z
+LOCATION:5-107А
+DTSTART:20230911T170000Z
+SUMMARY:ЛК Корпоративная социальная ответственность
+UID:c252505b-e24b-43a1-957a-ba162be587f5@c252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костыгова Людмила Александровна
+DTEND:20231023T183000Z
+LOCATION:5-107А
+DTSTART:20231023T170000Z
+SUMMARY:ПЗ Корпоративная социальная ответственность
+UID:ec2bf977-37e3-4648-936d-4ca05cc2a99d@ec2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костыгова Людмила Александровна
+DTEND:20231106T164500Z
+LOCATION:5-107А
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Корпоративная социальная ответственность
+UID:f37a68c2-12e9-4ce7-802b-a58a12eb60b2@f37a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колосова Валерия Валерьевна
+DTEND:20231205T164500Z
+LOCATION:5-103
+DTSTART:20231205T151500Z
+SUMMARY:ЛР Стратегический менеджмент
+UID:9793778c-e94e-45bc-a22b-7ad67a9ba762@9793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Губанова Светлана Евгеньевна
+DTEND:20231109T183000Z
+LOCATION:Орш. В-304
+DTSTART:20231109T170000Z
+SUMMARY:ПЗ Маркетинг персонала
+UID:2b348b7e-2c1d-4eb3-8bef-ed1842b7303e@2b34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20230905T164500Z
+LOCATION:Орш. В-304
+DTSTART:20230905T151500Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:1a317f97-ee92-438b-a184-138fc7bc13b5@1a31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костыгова Людмила Александровна
+DTEND:20231009T183000Z
+LOCATION:5-107А
+DTSTART:20231009T170000Z
+SUMMARY:ПЗ Корпоративная социальная ответственность
+UID:c4e0c267-dd18-46ff-821e-d57f454ec62d@c4e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20230905T183000Z
+LOCATION:Орш. В-304
+DTSTART:20230905T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:1a77b5c7-c1f3-4198-b497-2183bf3daa49@1a77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Губанова Светлана Евгеньевна
+DTEND:20231012T183000Z
+LOCATION:Орш. В-304
+DTSTART:20231012T170000Z
+SUMMARY:ПЗ Маркетинг персонала
+UID:bacc18e6-7d06-4fac-9b60-026939ddc420@bacc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20231107T164500Z
+LOCATION:Орш. В-304
+DTSTART:20231107T151500Z
+SUMMARY:ЛК Управление рисками
+UID:e5052332-7bc9-47b9-bec3-70e8bd68a9db@e505.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Колосова Валерия Валерьевна
@@ -551,7 +271,231 @@ DTEND:20231128T183000Z
 LOCATION:5-107А
 DTSTART:20231128T170000Z
 SUMMARY:ЛК Стратегический менеджмент
-UID:bf0eb033-8ff5-4daa-88d6-c833d88b8443@bf0e.org
+UID:55fceff9-40b5-4b88-bb92-7b2c2f1cf600@55fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казакова Наталья Вячеславовна
+DTEND:20230916T131500Z
+LOCATION:5-112
+DTSTART:20230916T114500Z
+SUMMARY:ПЗ Товароведение\, экспертиза и стандартизация
+UID:6dfd6b28-8df1-46ff-a8f6-4e6d1b3dbc68@6dfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Семина Анастасия Павловна
+DTEND:20231016T164500Z
+LOCATION:5-001
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:288f6401-a750-4201-a2da-f4e3fd08e4b7@288f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Семина Анастасия Павловна
+DTEND:20231002T164500Z
+LOCATION:5-001
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:c74f8c51-a8cd-4326-81a0-9044253e8498@c74f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20231031T183000Z
+LOCATION:Орш. В-304
+DTSTART:20231031T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:47d50d7a-049b-4ff9-ba47-f61084977c97@47d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казакова Наталья Вячеславовна
+DTEND:20230930T131500Z
+LOCATION:5-112
+DTSTART:20230930T114500Z
+SUMMARY:ПЗ Товароведение\, экспертиза и стандартизация
+UID:a694e5a2-0b68-4180-8faa-da2f7f46a537@a694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20231003T183000Z
+LOCATION:Орш. В-304
+DTSTART:20231003T170000Z
+SUMMARY:ПЗ Методы принятия управленческих решений
+UID:7af3bedf-beac-4ce5-928b-679bfd1d4deb@7af3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20231003T164500Z
+LOCATION:Орш. В-304
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:afb37a46-c4bf-4773-906b-edfd2468a028@afb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20231010T183000Z
+LOCATION:Орш. В-304
+DTSTART:20231010T170000Z
+SUMMARY:ПЗ Управление рисками
+UID:32be9797-57e1-4ad0-b2c6-1298a515d9c2@32be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казакова Наталья Вячеславовна
+DTEND:20230916T113000Z
+LOCATION:5-112
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Товароведение\, экспертиза и стандартизация
+UID:bd371f8b-5c4d-4899-8a62-e169f24c632e@bd37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колосова Валерия Валерьевна
+DTEND:20231219T164500Z
+LOCATION:5-103
+DTSTART:20231219T151500Z
+SUMMARY:ЛР Стратегический менеджмент
+UID:6f4ef334-a286-4379-9efa-4849821d4c90@6f4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казакова Наталья Вячеславовна
+DTEND:20231111T113000Z
+LOCATION:5-112
+DTSTART:20231111T100000Z
+SUMMARY:ЛК Товароведение\, экспертиза и стандартизация
+UID:fb64bed3-cea1-4031-a035-16c253a83f33@fb64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колосова Валерия Валерьевна
+DTEND:20231121T183000Z
+LOCATION:5-103
+DTSTART:20231121T170000Z
+SUMMARY:ЛР Стратегический менеджмент
+UID:e5f530e8-a013-487d-b9f4-309584b4b51d@e5f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Семина Анастасия Павловна
+DTEND:20231002T183000Z
+LOCATION:5-001
+DTSTART:20231002T170000Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:808e09c0-4050-4de4-a04f-62bc2f114f38@808e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Семина Анастасия Павловна
+DTEND:20230904T183000Z
+LOCATION:5-111
+DTSTART:20230904T170000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:b1e6ef4a-0113-492a-b7ce-5ef0ca684305@b1e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20231024T164500Z
+LOCATION:Орш. В-304
+DTSTART:20231024T151500Z
+SUMMARY:ЛК Управление рисками
+UID:7cfaaa6d-6639-4b79-9dac-2c0f243cdef5@7cfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колосова Валерия Валерьевна
+DTEND:20231128T164500Z
+LOCATION:5-107А
+DTSTART:20231128T151500Z
+SUMMARY:ЛК Стратегический менеджмент
+UID:11c6a587-d889-4240-b54b-8df21318bde3@11c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20231107T183000Z
+LOCATION:Орш. В-304
+DTSTART:20231107T170000Z
+SUMMARY:ПЗ Управление рисками
+UID:f30d7756-cb9d-45ae-a1b6-504ea130b60c@f30d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костыгова Людмила Александровна
+DTEND:20230925T164500Z
+LOCATION:5-107А
+DTSTART:20230925T151500Z
+SUMMARY:ЛК Корпоративная социальная ответственность
+UID:d2e057da-26b4-4a30-bdf0-aae35e9a62e5@d2e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Губанова Светлана Евгеньевна
+DTEND:20230914T164500Z
+LOCATION:Орш. В-304
+DTSTART:20230914T151500Z
+SUMMARY:ЛК Маркетинг персонала
+UID:02527f7e-4778-4269-bdaa-3dd60446c2ef@0252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20231010T164500Z
+LOCATION:Орш. В-304
+DTSTART:20231010T151500Z
+SUMMARY:ЛК Управление рисками
+UID:45804fa1-68a7-4220-b587-bab89ade1219@4580.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казакова Наталья Вячеславовна
+DTEND:20230930T113000Z
+LOCATION:5-112
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Товароведение\, экспертиза и стандартизация
+UID:ae293ccd-0f48-4550-8ce6-c5d3acf79ec9@ae29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20230912T164500Z
+LOCATION:Орш. В-304
+DTSTART:20230912T151500Z
+SUMMARY:ЛК Управление рисками
+UID:7a62b453-00bf-4c00-a3da-35997a8b0160@7a62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костыгова Людмила Александровна
+DTEND:20230911T164500Z
+LOCATION:5-107А
+DTSTART:20230911T151500Z
+SUMMARY:ЛК Корпоративная социальная ответственность
+UID:35a11977-3921-4f30-9f06-89d55439ffda@35a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костыгова Людмила Александровна
+DTEND:20231106T183000Z
+LOCATION:5-107А
+DTSTART:20231106T170000Z
+SUMMARY:ПЗ Корпоративная социальная ответственность
+UID:df967435-727a-439c-8840-d3f09141576a@df96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костыгова Людмила Александровна
+DTEND:20231009T164500Z
+LOCATION:5-107А
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Корпоративная социальная ответственность
+UID:0b6aaa38-638f-4d45-a0e5-c2129c00f303@0b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20230926T164500Z
+LOCATION:Орш. В-304
+DTSTART:20230926T151500Z
+SUMMARY:ЛК Управление рисками
+UID:52b81724-28ba-4de6-9c3a-4cc1befb14a8@52b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20231017T164500Z
+LOCATION:Орш. В-304
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:b8eda54e-5fa1-43e8-bd41-934de3b780b5@b8ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Губанова Светлана Евгеньевна
+DTEND:20231026T164500Z
+LOCATION:Орш. В-304
+DTSTART:20231026T151500Z
+SUMMARY:ЛК Маркетинг персонала
+UID:834fef5b-a536-4353-a26d-604cc3ea6616@834f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Семина Анастасия Павловна
@@ -559,6 +503,62 @@ DTEND:20230918T183000Z
 LOCATION:5-111
 DTSTART:20230918T170000Z
 SUMMARY:ЛК Управление человеческими ресурсами
-UID:216120d6-5b93-446f-8f20-ae71867b6bf2@2161.org
+UID:dde1edc5-0c2c-44e1-8f1b-cf6a66c47118@dde1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сазонов Андрей Александрович
+DTEND:20230919T164500Z
+LOCATION:Орш. В-304
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Методы принятия управленческих решений
+UID:35338c1f-ee6a-4fcc-927d-f85d1f18154d@3533.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Костыгова Людмила Александровна
+DTEND:20230925T183000Z
+LOCATION:5-107А
+DTSTART:20230925T170000Z
+SUMMARY:ЛК Корпоративная социальная ответственность
+UID:c21bdbfa-fa9f-4460-8c92-a0f29b6ae12b@c21b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колосова Валерия Валерьевна
+DTEND:20231114T183000Z
+LOCATION:5-107А
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Стратегический менеджмент
+UID:3335b2d9-51d3-41a4-b440-5075c0840c78@3335.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казакова Наталья Вячеславовна
+DTEND:20231014T131500Z
+LOCATION:5-112
+DTSTART:20231014T114500Z
+SUMMARY:ПЗ Товароведение\, экспертиза и стандартизация
+UID:49f27212-0c3e-4941-8c66-bf4e46235dc4@49f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Губанова Светлана Евгеньевна
+DTEND:20230914T183000Z
+LOCATION:Орш. В-304
+DTSTART:20230914T170000Z
+SUMMARY:ПЗ Маркетинг персонала
+UID:2de4de13-014e-432e-bf15-1ac8fc0e80a9@2de4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Семина Анастасия Павловна
+DTEND:20231030T164500Z
+LOCATION:5-001
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:b282f6bf-e20f-49fc-aba5-2354d92cf6bb@b282.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Казакова Наталья Вячеславовна
+DTEND:20231014T113000Z
+LOCATION:5-112
+DTSTART:20231014T100000Z
+SUMMARY:ЛК Товароведение\, экспертиза и стандартизация
+UID:896b3eb4-841c-47ac-85c4-c4a848960fa0@896b.org
 END:VEVENT
 END:VCALENDAR

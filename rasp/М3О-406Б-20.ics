@@ -2,1644 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230918T131500Z
-LOCATION:5-401
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:4838f82f-0526-46c0-8067-7424f2f10987@4838.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231108T131500Z
-LOCATION:3-351
-DTSTART:20231108T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:86a17df3-4d74-45b4-924b-ee16e8611065@86a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231021T073000Z
-LOCATION:3-451
-DTSTART:20231021T060000Z
-SUMMARY:ЛР Системы электрооборудования ЛА
-UID:964f1357-784e-4e1a-91e9-eb507f5043f3@964f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231221T150000Z
-LOCATION:3-365
-DTSTART:20231221T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:3b409992-577d-48d5-a89b-ed06b15bda59@3b40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231125T091500Z
-LOCATION:3-451
-DTSTART:20231125T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:2b2a307a-1b67-400d-ab8e-7d7bb31d6f7a@2b2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231219T091500Z
-LOCATION:3-351
-DTSTART:20231219T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:083bd3d4-01be-454e-b6c9-bb294710b563@083b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231020T131500Z
-LOCATION:3-355
-DTSTART:20231020T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:b782e011-4787-45f7-bfdd-4f32535641e7@b782.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230902T073000Z
-LOCATION:3-451
-DTSTART:20230902T060000Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:1998ace5-d83e-41c4-9879-fc7b1112264c@1998.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230927T091500Z
-LOCATION:3-451
-DTSTART:20230927T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:9df78546-bd8f-42d6-aaa8-6cd0d42940e4@9df7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231223T091500Z
-LOCATION:3-451
-DTSTART:20231223T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:9eef0dd9-2274-4ae8-90dd-5006c12704b7@9eef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230929T091500Z
-LOCATION:3-351
-DTSTART:20230929T074500Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:044bb257-6088-4281-93ad-b65276ae1d9a@044b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231027T091500Z
-LOCATION:3-351
-DTSTART:20231027T074500Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:06340afd-f8c9-44f7-89fd-6f9d457e2b63@0634.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231024T073000Z
-LOCATION:3-351
-DTSTART:20231024T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:bb7796c9-1af4-4166-a97d-0864002ecbd5@bb77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230901T131500Z
-LOCATION:3-355
-DTSTART:20230901T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:0719db0c-0299-4c71-a46c-77276571bee9@0719.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231103T131500Z
-LOCATION:3-355
-DTSTART:20231103T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:ab2fa04d-6775-40e8-8f34-221c0a1f0193@ab2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231002T113000Z
-LOCATION:3-351
-DTSTART:20231002T100000Z
-SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
-UID:7936e73f-6fdf-4864-95aa-0a9afe6dc8f7@7936.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231007T073000Z
-LOCATION:3-451
-DTSTART:20231007T060000Z
-SUMMARY:ЛР Системы электрооборудования ЛА
-UID:bf006c54-b3be-4053-ac0c-9e739ea84379@bf00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231009T091500Z
-LOCATION:3-351
-DTSTART:20231009T074500Z
-SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
-UID:f79c69e5-3089-417e-a9f5-107636bd51ef@f79c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231114T131500Z
-LOCATION:3-351
-DTSTART:20231114T114500Z
-SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
-UID:6a16a09f-725c-4047-8e84-8c12094b4d2d@6a16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231205T073000Z
-LOCATION:3-351
-DTSTART:20231205T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:f0afa175-fdc0-4b76-9ea7-0a583354fe8a@f0af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231212T113000Z
-LOCATION:3-351
-DTSTART:20231212T100000Z
-SUMMARY:ПЗ Основы инженерного искусства
-UID:5bcfa06b-a50e-44ea-8c31-854a19e61fef@5bcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231016T131500Z
-LOCATION:5-401
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:e34e7f0f-c9a2-4581-afca-93c08da4d225@e34e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231107T091500Z
-LOCATION:3-351
-DTSTART:20231107T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:3ee143f4-097a-419c-a940-6cffa6b95f40@3ee1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231031T073000Z
-LOCATION:3-351
-DTSTART:20231031T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:a7d2cea5-b90d-4690-9d0d-e7a5839d0b20@a7d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231127T131500Z
-LOCATION:5-401
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:e530c533-74a3-423b-ab21-f6c45c0d282a@e530.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230914T164500Z
-LOCATION:3-365
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:cfce240e-75a8-4eb7-87ec-4395803c2dc1@cfce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231227T091500Z
-LOCATION:3-451
-DTSTART:20231227T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:cafc8c65-0050-44cd-81ad-7ea6115b9052@cafc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231004T113000Z
-LOCATION:3-451
-DTSTART:20231004T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:da2a4f27-b72f-4535-a183-1ed6113c93e8@da2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231007T091500Z
-LOCATION:3-451
-DTSTART:20231007T074500Z
-SUMMARY:ЛР Системы электрооборудования ЛА
-UID:39bcb495-544a-4582-afa2-2d85520749a2@39bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230920T131500Z
-LOCATION:3-351
-DTSTART:20230920T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:9fcba2ed-018c-4d42-9b44-f1c70e0fbe86@9fcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20230926T113000Z
-LOCATION:5-122
-DTSTART:20230926T100000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:c88f3874-7f37-47a0-92a6-2c9466ebc31f@c88f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231004T091500Z
-LOCATION:3-451
-DTSTART:20231004T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:656e696c-e648-441e-8fce-af2be4be6b7e@656e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230920T091500Z
-LOCATION:3-451
-DTSTART:20230920T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:c5ceed92-b09a-4016-9c51-2069d3b93603@c5ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231006T073000Z
-LOCATION:3-351
-DTSTART:20231006T060000Z
-SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
-UID:e4b6e2ab-f1d2-4ab2-ab80-d976243c59ec@e4b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231212T091500Z
-LOCATION:3-351
-DTSTART:20231212T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:a5c43031-3f39-43e8-9e2f-945133843ff5@a5c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230928T113000Z
-LOCATION:3-451
-DTSTART:20230928T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:6a5b66e1-b14d-4732-811d-42b7be323322@6a5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230923T091500Z
-LOCATION:3-451
-DTSTART:20230923T074500Z
-SUMMARY:ЛР Системы электрооборудования ЛА
-UID:4f0c4e59-ecb2-47a2-ae48-20e51152f9f4@4f0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Исаев Владимир Владимирович
-DTEND:20231205T131500Z
-LOCATION:3-311
-DTSTART:20231205T114500Z
-SUMMARY:ЛР Технология производства электрооборудования ЛА
-UID:86034ead-5317-4d0a-8aa9-ef110574d12f@8603.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230918T113000Z
-LOCATION:3-351
-DTSTART:20230918T100000Z
-SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
-UID:49e3e1af-9ac2-4956-be88-83b9af61592b@49e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230904T131500Z
-LOCATION:5-401
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:3bd611c7-6b9f-4fbb-8329-523ab33b76d8@3bd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230919T131500Z
-LOCATION:3-351
-DTSTART:20230919T114500Z
-SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
-UID:75dc756c-1b4c-4f26-9b98-d126e6dec7ee@75dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231213T131500Z
-LOCATION:3-351
-DTSTART:20231213T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:b77c00d0-1abf-4e3a-aa29-9d245e4efa94@b77c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20230918T091500Z
-LOCATION:3-305
-DTSTART:20230918T074500Z
-SUMMARY:ПЗ Технология производства электрооборудования ЛА
-UID:25c80f92-0abc-421f-bec9-110686ed5c7b@25c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231122T113000Z
-LOCATION:3-451
-DTSTART:20231122T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:17273e5e-ae5e-4311-b413-4f6596ddb0a4@1727.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230926T091500Z
-LOCATION:3-351
-DTSTART:20230926T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:ac6a6cf1-46b2-40ba-aa95-fe0ec4d61270@ac6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231226T091500Z
-LOCATION:3-351
-DTSTART:20231226T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:639ddb68-6335-4060-8daa-b136447ef57a@639d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230922T073000Z
-LOCATION:3-351
-DTSTART:20230922T060000Z
-SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
-UID:32ce9566-1254-4961-b5ac-76607590594f@32ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20231113T091500Z
-LOCATION:3-305
-DTSTART:20231113T074500Z
-SUMMARY:ПЗ Технология производства электрооборудования ЛА
-UID:f70f9742-f82a-4ecf-801f-1d8b7a6158ca@f70f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231206T131500Z
-LOCATION:3-351
-DTSTART:20231206T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:b3252031-f337-44b1-a8dd-b187b1595598@b325.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231208T131500Z
-LOCATION:3-355
-DTSTART:20231208T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:0293e871-d16a-4690-a6dd-8112c37b3cb7@0293.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231109T131500Z
-LOCATION:3-365
-DTSTART:20231109T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:6f7d2c52-261c-4b57-b47e-745db2538dfa@6f7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231114T073000Z
-LOCATION:3-351
-DTSTART:20231114T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:bcb52b30-3630-4acc-aa86-cee84b80aa6d@bcb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231130T131500Z
-LOCATION:3-365
-DTSTART:20231130T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:6a47ca66-2888-4feb-b2a5-1bc0e043601e@6a47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230927T113000Z
-LOCATION:3-451
-DTSTART:20230927T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:52e59d97-009b-47c3-b83e-6ac7ac143cf0@52e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231118T073000Z
-LOCATION:3-451
-DTSTART:20231118T060000Z
-SUMMARY:ЛР Системы электрооборудования ЛА
-UID:a9685179-ecc2-4095-b20c-d49e078aa832@a968.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231123T113000Z
-LOCATION:3-451
-DTSTART:20231123T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:d6ed83d5-15ec-4eb8-b8c2-d02d4c0686f0@d6ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231207T164500Z
-LOCATION:3-365
-DTSTART:20231207T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:6f5e02b3-0197-49f6-935e-07409c3338b9@6f5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231025T091500Z
-LOCATION:3-451
-DTSTART:20231025T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:743a5f48-7f4e-4fcd-afaf-0a409315902c@743a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231130T164500Z
-LOCATION:3-365
-DTSTART:20231130T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:614b38fd-6f9c-4703-86a0-faec408ce113@614b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231118T091500Z
-LOCATION:3-451
-DTSTART:20231118T074500Z
-SUMMARY:ЛР Системы электрооборудования ЛА
-UID:b628958f-6a81-417e-ab57-fb7e5489e284@b628.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231102T150000Z
-LOCATION:3-365
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:0a2c4b33-5743-4728-b4c1-5275432308ef@0a2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230913T131500Z
-LOCATION:3-351
-DTSTART:20230913T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:23ffd748-7aec-441b-a9fb-0be30976867a@23ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231111T131500Z
-LOCATION:3-365
-DTSTART:20231111T114500Z
-SUMMARY:ЛР Нерегулируемые электроприводы ЛА
-UID:33393da7-8c59-4fb4-a4ff-61c80722c8c8@3339.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230908T113000Z
-LOCATION:3-351
-DTSTART:20230908T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:0943ce92-caa5-4c48-8190-c43e3e73ea03@0943.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231208T073000Z
-LOCATION:3-351
-DTSTART:20231208T060000Z
-SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
-UID:1725335b-957c-4822-9013-1364689565c4@1725.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230925T091500Z
-LOCATION:3-351
-DTSTART:20230925T074500Z
-SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
-UID:6392c4be-fdd4-4005-8bfc-2eb22717079a@6392.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231201T131500Z
-LOCATION:3-355
-DTSTART:20231201T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:ef1b06cd-8ecc-4052-86a4-b3f6e7c54a58@ef1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ванцов Сергей Васильевич
-DTEND:20230911T113000Z
-LOCATION:3-307
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Технология производства электрооборудования ЛА
-UID:6ed60569-44c5-4d42-a5fa-9039fa8a49c1@6ed6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231208T091500Z
-LOCATION:3-351
-DTSTART:20231208T074500Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:94c9c158-1e65-42ce-90f0-11b546c62f22@94c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231106T131500Z
-LOCATION:5-401
-DTSTART:20231106T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:a6114b2f-427e-425d-9720-5672a21c005c@a611.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230912T073000Z
-LOCATION:3-351
-DTSTART:20230912T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:67694657-6064-4a8f-b65b-e64bd6aca517@6769.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230920T113000Z
-LOCATION:3-451
-DTSTART:20230920T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:f820e20b-4a9a-4520-adfc-85793b4b12e5@f820.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231003T113000Z
-LOCATION:3-351
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Основы инженерного искусства
-UID:748aedda-addc-4dc0-a96c-7686397ba2ba@748a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231130T150000Z
-LOCATION:3-365
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:19eca36b-c0a7-4226-b448-47dba13d1628@19ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231207T131500Z
-LOCATION:3-365
-DTSTART:20231207T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:60dce16c-e362-421f-a03b-ce634d0fb4f8@60dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231211T113000Z
-LOCATION:3-351
-DTSTART:20231211T100000Z
-SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
-UID:6d72a46d-523f-4067-b97b-8892e44a4886@6d72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230901T113000Z
-LOCATION:3-351
-DTSTART:20230901T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:2a1126b9-6b6b-4ad2-a35c-ed267458a03a@2a11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231124T131500Z
-LOCATION:3-355
-DTSTART:20231124T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:6a54b653-9929-4920-b6e8-986177124e47@6a54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231221T131500Z
-LOCATION:3-365
-DTSTART:20231221T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:179064af-db04-458a-bc14-302bc62834cb@1790.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231208T113000Z
-LOCATION:3-351
-DTSTART:20231208T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:b6c4722d-794f-4f53-a187-dbef844ab61f@b6c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Исаев Владимир Владимирович
-DTEND:20231121T113000Z
-LOCATION:3-311
-DTSTART:20231121T100000Z
-SUMMARY:ЛР Технология производства электрооборудования ЛА
-UID:53183e59-f7f6-4c69-98c1-8bfb4cf99cd5@5318.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20231024T113000Z
-LOCATION:5-122
-DTSTART:20231024T100000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:682a8f33-8e3b-4de6-bfd7-ea88afc2e707@682a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231025T113000Z
-LOCATION:3-451
-DTSTART:20231025T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:546cd1b3-6bae-433a-b28a-dd293db09f76@546c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231124T113000Z
-LOCATION:3-351
-DTSTART:20231124T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:c2e133d8-9687-4cc8-8135-12efb619b630@c2e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231128T091500Z
-LOCATION:3-351
-DTSTART:20231128T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:00cab7a8-9d1e-462a-9758-8f4c82f332d4@00ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231125T073000Z
-LOCATION:3-451
-DTSTART:20231125T060000Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:fdfe45c8-2dca-4394-9fe2-c59267dc0850@fdfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231026T131500Z
-LOCATION:3-365
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:2f49198a-0a2b-42ef-b33c-9caf63f07eb1@2f49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20230926T131500Z
-LOCATION:5-122
-DTSTART:20230926T114500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:0a8ade7b-5387-4ecc-a448-de94fae5c5a8@0a8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230902T091500Z
-LOCATION:3-451
-DTSTART:20230902T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:4f22688b-57c3-4f3a-8d6f-6495da0df926@4f22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230907T164500Z
-LOCATION:3-365
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:1d79be84-a47c-4329-92fe-59e2c8c2a9b4@1d79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230928T131500Z
-LOCATION:3-365
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:f948e25b-2ccf-413d-9930-2de3810de9d7@f948.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230922T091500Z
-LOCATION:3-351
-DTSTART:20230922T074500Z
-SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
-UID:1511250c-820a-4fbe-a056-519053ffc780@1511.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230921T150000Z
-LOCATION:3-365
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:d0ba5614-612a-424e-9ef0-ebda5698646c@d0ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231228T164500Z
-LOCATION:3-365
-DTSTART:20231228T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:00d02abb-0818-4d43-acf0-392f7607babb@00d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231107T073000Z
-LOCATION:3-351
-DTSTART:20231107T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:85f9e47e-6259-4494-b7c2-f79c8b36554d@85f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231023T091500Z
-LOCATION:3-351
-DTSTART:20231023T074500Z
-SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
-UID:f56b1e5b-f735-4511-b1b8-2e26310bfabe@f56b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231106T091500Z
-LOCATION:3-351
-DTSTART:20231106T074500Z
-SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
-UID:681206c5-431d-484b-b3d9-513e2046f7e8@6812.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231115T091500Z
-LOCATION:3-451
-DTSTART:20231115T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:77f7f7fe-9cbe-4e3e-903a-510ec3ab0db9@77f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230919T073000Z
-LOCATION:3-351
-DTSTART:20230919T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:84b74e8d-34ab-4976-89c1-00bef2f10510@84b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231028T131500Z
-LOCATION:3-365
-DTSTART:20231028T114500Z
-SUMMARY:ЛР Нерегулируемые электроприводы ЛА
-UID:2451adea-f255-47e5-8ba2-ba586193f944@2451.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231102T164500Z
-LOCATION:3-365
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:430dbdc3-3c5c-4b18-a888-bb9581b99500@430d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231012T131500Z
-LOCATION:3-365
-DTSTART:20231012T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:6969d70e-a4c7-4c17-b4a5-a86118eaac7f@6969.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231117T131500Z
-LOCATION:3-355
-DTSTART:20231117T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:9ce8f715-0ebb-4b87-9abc-d9c899297253@9ce8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230916T091500Z
-LOCATION:3-451
-DTSTART:20230916T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:c0464de5-41eb-4d2a-b497-934ba3026700@c046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230922T113000Z
-LOCATION:3-351
-DTSTART:20230922T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:1b51f471-6b46-4362-871d-ff5818655703@1b51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231005T131500Z
-LOCATION:3-365
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:fe45270c-049a-44ad-a62a-3290db6f0316@fe45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230907T150000Z
-LOCATION:3-365
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:31dd9f39-a7f7-419d-a91c-ee09328bfb4c@31dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231024T091500Z
-LOCATION:3-351
-DTSTART:20231024T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:5386d30a-fcbe-4a11-ba0d-41b17f5655fe@5386.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230930T073000Z
-LOCATION:3-451
-DTSTART:20230930T060000Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:0a426874-4165-42c2-a350-81a46fe65d67@0a42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231013T113000Z
-LOCATION:3-351
-DTSTART:20231013T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:47714b26-446f-4e6c-83ff-7e84df5f6cc0@4771.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231011T091500Z
-LOCATION:3-451
-DTSTART:20231011T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:28a3e603-5a53-46b5-8712-3653a78b1246@28a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230905T091500Z
-LOCATION:3-351
-DTSTART:20230905T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:622641b7-c00b-4175-8784-0bb6922994a0@6226.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231228T150000Z
-LOCATION:3-365
-DTSTART:20231228T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:bc315c45-c17f-4383-abc4-a0ebf33af3a8@bc31.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Крючков Василий Васильевич
 DTEND:20231017T091500Z
 LOCATION:3-351
 DTSTART:20231017T074500Z
 SUMMARY:ЛР Основы инженерного искусства
-UID:d4249930-b027-4ab7-a5b9-763fa2518362@d424.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231031T091500Z
-LOCATION:3-351
-DTSTART:20231031T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:c24dc6c7-f21c-4e63-8d2e-52c34d58fec0@c24d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231014T113000Z
-LOCATION:3-365
-DTSTART:20231014T100000Z
-SUMMARY:ЛР Нерегулируемые электроприводы ЛА
-UID:bca69941-0334-47d0-927d-b55efba0d4b3@bca6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230922T131500Z
-LOCATION:3-355
-DTSTART:20230922T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:7c9248fc-aad9-41e0-8e79-5056f1e8aec2@7c92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231019T113000Z
-LOCATION:3-451
-DTSTART:20231019T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:6d465dce-8e19-4916-8d9a-43d119678e14@6d46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231128T131500Z
-LOCATION:3-351
-DTSTART:20231128T114500Z
-SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
-UID:3698f77b-d3f8-4988-95d8-952214b2a624@3698.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231016T113000Z
-LOCATION:3-351
-DTSTART:20231016T100000Z
-SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
-UID:0e4e0dfc-bf0b-436d-8658-1b4a0b1206fe@0e4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231113T131500Z
-LOCATION:5-401
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:0e0de522-28e7-4b4a-aa58-61857d86fd50@0e0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231114T091500Z
-LOCATION:3-351
-DTSTART:20231114T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:2a3e9c3d-8265-4d75-a2f9-6bc351a5c470@2a3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230916T073000Z
-LOCATION:3-451
-DTSTART:20230916T060000Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:e05bd2fa-0155-4c46-a202-a66883b9f19f@e05b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20231024T131500Z
-LOCATION:5-122
-DTSTART:20231024T114500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:b37b9d6c-3790-4fe6-b746-a8f2078b125c@b37b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231023T073000Z
-LOCATION:3-351
-DTSTART:20231023T060000Z
-SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
-UID:76c1a15e-4a68-4823-89de-61ccb5bb28a1@76c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231028T073000Z
-LOCATION:3-451
-DTSTART:20231028T060000Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:0d7e99a7-8232-46e5-b334-978fa2cd6f19@0d7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231205T091500Z
-LOCATION:3-351
-DTSTART:20231205T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:fec9491f-009d-4f9c-ad1d-276a1099a344@fec9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231221T113000Z
-LOCATION:3-451
-DTSTART:20231221T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:64a16464-7685-4d74-963c-35d89715ba7a@64a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20231010T113000Z
-LOCATION:5-122
-DTSTART:20231010T100000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:be5733cf-1ec6-4cc2-826f-ce4dcd0e6db6@be57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231109T164500Z
-LOCATION:3-365
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:e7bb2418-081b-4940-92e6-2e4bc9784483@e7bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231115T113000Z
-LOCATION:3-451
-DTSTART:20231115T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:9878bb8e-ff46-45f9-a7eb-3470cf33b472@9878.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231128T073000Z
-LOCATION:3-351
-DTSTART:20231128T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:fc8825a9-8a26-48ef-ba9c-3e5cd0ee31c3@fc88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231101T091500Z
-LOCATION:3-451
-DTSTART:20231101T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:8bfae56f-746c-4090-9e14-0f37da787ceb@8bfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230914T113000Z
-LOCATION:3-451
-DTSTART:20230914T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:acd86936-baaf-4809-a35d-55feb3adbb17@acd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230919T113000Z
-LOCATION:3-351
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Основы инженерного искусства
-UID:eddf9b53-07eb-4768-8e48-d83ef67e04ff@eddf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20231002T091500Z
-LOCATION:3-305
-DTSTART:20231002T074500Z
-SUMMARY:ПЗ Технология производства электрооборудования ЛА
-UID:63a06355-ec2f-468e-97a4-56091fa0bb89@63a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231123T131500Z
-LOCATION:3-365
-DTSTART:20231123T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:79fe06f4-740a-4b49-8160-1f9c4bcdae23@79fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231122T091500Z
-LOCATION:3-451
-DTSTART:20231122T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:10cf309a-d0be-456d-982e-9e202be15d7f@10cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231028T091500Z
-LOCATION:3-451
-DTSTART:20231028T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:2383db0f-c966-49cc-9d04-3f268faa6a1c@2383.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231013T091500Z
-LOCATION:3-351
-DTSTART:20231013T074500Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:d888613d-bc04-4126-a74c-a4c451dc09b0@d888.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20231107T131500Z
-LOCATION:5-122
-DTSTART:20231107T114500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:b334db42-181d-432f-90d0-483e4b3ee23e@b334.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231228T131500Z
-LOCATION:3-365
-DTSTART:20231228T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:a1ac5cfa-bf43-45a0-9b53-650edcbfa5e8@a1ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ванцов Сергей Васильевич
-DTEND:20231120T113000Z
-LOCATION:3-307
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Технология производства электрооборудования ЛА
-UID:08992e42-1322-4611-8e04-06f67a7b0bfe@0899.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231220T113000Z
-LOCATION:3-451
-DTSTART:20231220T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:95c62580-a452-4d75-8fd2-e749ba3c13f1@95c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230925T073000Z
-LOCATION:3-351
-DTSTART:20230925T060000Z
-SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
-UID:63618b83-370d-42fc-9076-edb277b23c37@6361.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231012T164500Z
-LOCATION:3-365
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:691017df-57f2-40c5-844b-e378b1c2ffd9@6910.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20231010T131500Z
-LOCATION:5-122
-DTSTART:20231010T114500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:2a878bdf-f41e-41f8-b7e1-1e8143f900f5@2a87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231227T131500Z
-LOCATION:3-351
-DTSTART:20231227T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:aee2848a-317d-48f8-a19c-d698d12e84c5@aee2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231026T150000Z
-LOCATION:3-365
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:c3fd1666-62a3-482a-ace8-eee4b9557834@c3fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230928T164500Z
-LOCATION:3-365
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:a815d1d4-d0c7-4de6-8e27-3259a6f361f2@a815.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231010T091500Z
-LOCATION:3-351
-DTSTART:20231010T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:e70401fd-6590-4123-a84c-ebefe4d5cd41@e704.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231011T113000Z
-LOCATION:3-451
-DTSTART:20231011T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:ad3b8d25-bb5f-4a35-9b46-c34572002d15@ad3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ванцов Сергей Васильевич
-DTEND:20231009T113000Z
-LOCATION:3-307
-DTSTART:20231009T100000Z
-SUMMARY:ЛК Технология производства электрооборудования ЛА
-UID:166de234-1c7d-4461-9986-f8a446715e46@166d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231221T164500Z
-LOCATION:3-365
-DTSTART:20231221T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:532ba8cd-bbfb-4a34-ae16-74240cb68051@532b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230908T131500Z
-LOCATION:3-355
-DTSTART:20230908T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:59acb4d1-9d6e-4c8d-9b23-5041a6f8d77f@59ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231114T113000Z
-LOCATION:3-351
-DTSTART:20231114T100000Z
-SUMMARY:ПЗ Основы инженерного искусства
-UID:e8b68b8d-ec62-448f-b883-0dcfccf098f4@e8b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231101T131500Z
-LOCATION:3-351
-DTSTART:20231101T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:652f95ee-19e5-4d50-bc2e-9d3bd3556e0c@652f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231018T113000Z
-LOCATION:3-451
-DTSTART:20231018T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:a89cc008-8e1b-42a5-92cc-c7222c161130@a89c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230911T131500Z
-LOCATION:5-401
-DTSTART:20230911T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:fb60e5ce-875e-4901-a673-46b3a3994508@fb60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231020T091500Z
-LOCATION:3-351
-DTSTART:20231020T074500Z
-SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
-UID:6421385f-df47-4b12-9811-e8522a900edf@6421.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231222T073000Z
-LOCATION:3-351
-DTSTART:20231222T060000Z
-SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
-UID:013af8d4-4705-406c-b15a-9d6e7af08e99@013a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230921T164500Z
-LOCATION:3-365
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:044d344d-014e-4147-902a-37139cc2605b@044d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231030T113000Z
-LOCATION:3-351
-DTSTART:20231030T100000Z
-SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
-UID:24acef4b-77c7-4f42-98f6-2cbd907110c5@24ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230913T113000Z
-LOCATION:3-451
-DTSTART:20230913T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:231efc4f-ea85-4090-8133-ca28533ee74a@231e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231004T131500Z
-LOCATION:3-351
-DTSTART:20231004T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:6b6c381e-08f5-44e6-a40b-34fb78011f05@6b6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231023T131500Z
-LOCATION:5-401
-DTSTART:20231023T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:77503304-f891-4447-8ad1-562ceeea3d9d@7750.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230901T091500Z
-LOCATION:3-351
-DTSTART:20230901T074500Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:d7960078-21ff-423d-a3d9-a3eef361aeeb@d796.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231127T113000Z
-LOCATION:3-351
-DTSTART:20231127T100000Z
-SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
-UID:1b5b4d9d-f4e6-4af6-ac54-cd3f3e63bc66@1b5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231206T113000Z
-LOCATION:3-451
-DTSTART:20231206T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:3420c269-bf05-4a52-9799-76a815e58487@3420.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231108T091500Z
-LOCATION:3-451
-DTSTART:20231108T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:5d515635-4644-45df-937c-344802f8c005@5d51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231213T113000Z
-LOCATION:3-451
-DTSTART:20231213T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:13fad39e-6974-46db-bc0b-c015f6877ed2@13fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231124T073000Z
-LOCATION:3-351
-DTSTART:20231124T060000Z
-SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
-UID:a08a9106-1a80-4800-b0af-37579ef51a6d@a08a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230919T091500Z
-LOCATION:3-351
-DTSTART:20230919T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:34eccd82-e535-48a4-9e83-b26090828e4c@34ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231117T113000Z
-LOCATION:3-351
-DTSTART:20231117T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:2ab643e6-ee1c-4ef7-a6cf-9fc4a787a88d@2ab6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231120T073000Z
-LOCATION:3-351
-DTSTART:20231120T060000Z
-SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
-UID:ea8095f6-87c7-4d7c-9ad0-7bcc953060e9@ea80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230906T131500Z
-LOCATION:3-351
-DTSTART:20230906T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:86b2d61d-efa2-4443-8eb6-ddaa74965c3b@86b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231102T131500Z
-LOCATION:3-365
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:f45aa147-b3bc-44a2-9026-ec6d1195806a@f45a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230929T131500Z
-LOCATION:3-355
-DTSTART:20230929T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:bd5ebf42-7983-474e-9073-04c3135ea79e@bd5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230928T150000Z
-LOCATION:3-365
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:d5bc5b06-e709-44ec-b75a-60871edd12f6@d5bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231128T113000Z
-LOCATION:3-351
-DTSTART:20231128T100000Z
-SUMMARY:ПЗ Основы инженерного искусства
-UID:ea0eb9b2-33ef-47d2-b147-a3a12e9919fb@ea0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231116T131500Z
-LOCATION:3-365
-DTSTART:20231116T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:31583ff6-c2be-444d-a339-b70a2fee0d08@3158.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231109T150000Z
-LOCATION:3-365
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:23d504fc-74ac-4997-85b4-8a6139527b48@23d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230906T091500Z
-LOCATION:3-451
-DTSTART:20230906T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:1b3cc04c-dec4-4d7d-afac-e6c4f3c62881@1b3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231129T131500Z
-LOCATION:3-351
-DTSTART:20231129T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:c10d0670-0216-419a-8f97-22cfc46d6464@c10d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231018T131500Z
-LOCATION:3-351
-DTSTART:20231018T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:e7b7c5f0-fc97-4843-8166-e33f24a41c07@e7b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231117T073000Z
-LOCATION:3-351
-DTSTART:20231117T060000Z
-SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
-UID:fa5606ef-9ae3-4868-ba6e-1bf250c4a5a0@fa56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231227T113000Z
-LOCATION:3-451
-DTSTART:20231227T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:8b591812-d11e-4434-98da-93757962f1f3@8b59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231009T073000Z
-LOCATION:3-351
-DTSTART:20231009T060000Z
-SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
-UID:4552bde0-2553-4834-93cd-6b349a1e05aa@4552.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230921T113000Z
-LOCATION:3-451
-DTSTART:20230921T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:ad7e8698-b380-4017-984e-a498d852f1a3@ad7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231219T073000Z
-LOCATION:3-351
-DTSTART:20231219T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:d982d70a-9e5f-4f2b-8941-f3a00301f171@d982.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231123T150000Z
-LOCATION:3-365
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:cde5974d-b3d1-4288-a8da-c5b57a74aeff@cde5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231025T131500Z
-LOCATION:3-351
-DTSTART:20231025T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:8c4fe36d-cb80-434d-823d-ea9ae8631d96@8c4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231110T131500Z
-LOCATION:3-355
-DTSTART:20231110T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:41aff07f-173b-4866-bc9d-0be2cd7dce13@41af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231002T131500Z
-LOCATION:5-401
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:40f84928-d134-4048-8a3e-ae866e0fd5ec@40f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231031T113000Z
-LOCATION:3-351
-DTSTART:20231031T100000Z
-SUMMARY:ПЗ Основы инженерного искусства
-UID:5a372b04-6eb6-4c0f-8108-25e5b1dd0eda@5a37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230921T131500Z
-LOCATION:3-365
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:d81dcf88-0177-479a-9238-221b786f9100@d81d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231021T091500Z
-LOCATION:3-451
-DTSTART:20231021T074500Z
-SUMMARY:ЛР Системы электрооборудования ЛА
-UID:6389689f-b82f-4eb6-b39a-71120ba07b0a@6389.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231222T113000Z
-LOCATION:3-351
-DTSTART:20231222T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:ba7714e4-06b8-48c0-bc4b-06b7d09d6778@ba77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230929T073000Z
-LOCATION:3-351
-DTSTART:20230929T060000Z
-SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
-UID:7d9390e0-687a-4973-a88c-4a92fb0553b0@7d93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231003T091500Z
-LOCATION:3-351
-DTSTART:20231003T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:182acbe5-f1cd-4875-9cc8-74f8c5e1d141@182a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231213T091500Z
-LOCATION:3-451
-DTSTART:20231213T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:3cdb0e90-ccb6-459e-b401-60284115c8de@3cdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231218T131500Z
-LOCATION:5-401
-DTSTART:20231218T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:b5bf1f11-079f-469a-9df4-7f080e3d93de@b5bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231102T113000Z
-LOCATION:3-451
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:db34b550-8beb-4b68-9dd1-2946fee704dc@db34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231027T073000Z
-LOCATION:3-351
-DTSTART:20231027T060000Z
-SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
-UID:3e4d460f-6370-4e21-96c7-a748ed9abe4b@3e4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231204T131500Z
-LOCATION:5-401
-DTSTART:20231204T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:c61032ca-0357-4eb2-9c13-1987b7533799@c610.org
+UID:fce2c770-a70c-41f2-b026-7fc74723a780@fce2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Данилина Анастасия Николаевна
@@ -1647,511 +15,15 @@ DTEND:20231228T113000Z
 LOCATION:3-451
 DTSTART:20231228T100000Z
 SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:40d0aa9e-f921-4e84-b477-469d9747108f@40d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231220T131500Z
-LOCATION:3-351
-DTSTART:20231220T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:16fa0dac-c67a-44ad-b5f5-8cb9e8c105f9@16fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231110T113000Z
-LOCATION:3-351
-DTSTART:20231110T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:6aa80d81-34fc-4f79-932f-a7b405be1662@6aa8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231129T113000Z
-LOCATION:3-451
-DTSTART:20231129T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:8c80ef30-c03f-403b-89a4-b77203e72438@8c80.org
+UID:54c6c55b-e6a8-4395-8b08-b119f906f106@54c6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230915T131500Z
-LOCATION:3-355
-DTSTART:20230915T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:ef096d9a-2608-42be-9ae5-fb27721ce3b8@ef09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231209T073000Z
-LOCATION:3-451
-DTSTART:20231209T060000Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:c9957684-4673-4479-b550-09c98dc78f1c@c995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231120T091500Z
+DTEND:20231205T073000Z
 LOCATION:3-351
-DTSTART:20231120T074500Z
-SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
-UID:aa233412-da45-47ce-be18-a6b66f2b06f2@aa23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230930T091500Z
-LOCATION:3-451
-DTSTART:20230930T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:4c60302e-22df-4768-980a-a6d7a1689f11@4c60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231005T113000Z
-LOCATION:3-451
-DTSTART:20231005T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:2dc5af05-0d15-4ea2-9efc-5ec557bc180a@2dc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231125T113000Z
-LOCATION:3-365
-DTSTART:20231125T100000Z
-SUMMARY:ЛР Нерегулируемые электроприводы ЛА
-UID:558b52d1-a241-4c5a-880f-e5ab57240ed6@558b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231130T113000Z
-LOCATION:3-451
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:dd3de064-6085-4273-8e9a-e9e47974e15e@dd3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231124T091500Z
-LOCATION:3-351
-DTSTART:20231124T074500Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:73f94d98-5e69-48e1-a583-0efb681573f5@73f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231212T073000Z
-LOCATION:3-351
-DTSTART:20231212T060000Z
+DTSTART:20231205T060000Z
 SUMMARY:ЛР Основы инженерного искусства
-UID:ff6d1eaa-fe2d-43b6-8ecb-9227d4cc1453@ff6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231108T113000Z
-LOCATION:3-451
-DTSTART:20231108T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:72019269-6c3a-4e0d-b554-68e7cffa22e6@7201.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231017T073000Z
-LOCATION:3-351
-DTSTART:20231017T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:eafbbb99-a670-408b-b487-54de0bbc5316@eafb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231103T073000Z
-LOCATION:3-351
-DTSTART:20231103T060000Z
-SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
-UID:b06104b1-8ea9-4e76-8e7f-db1874272a10@b061.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231013T131500Z
-LOCATION:3-355
-DTSTART:20231013T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:5609c816-01d4-4636-973e-c5a8bb519948@5609.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231207T113000Z
-LOCATION:3-451
-DTSTART:20231207T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:91daf213-cd1b-4ee5-8ed7-a4385b807480@91da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231013T073000Z
-LOCATION:3-351
-DTSTART:20231013T060000Z
-SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
-UID:abb255ab-8899-4231-85ef-39a0b9730b18@abb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231003T073000Z
-LOCATION:3-351
-DTSTART:20231003T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:d7d8c267-3993-45a0-9aea-fc28b3f6e097@d7d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230915T113000Z
-LOCATION:3-351
-DTSTART:20230915T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:3b2c0e56-8dc5-46b9-84ae-621751d5d79b@3b2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231012T113000Z
-LOCATION:3-451
-DTSTART:20231012T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:fbed2bc9-31b3-490f-97bd-b0f66c205bea@fbed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231125T131500Z
-LOCATION:3-365
-DTSTART:20231125T114500Z
-SUMMARY:ЛР Нерегулируемые электроприводы ЛА
-UID:ef5bcd23-7228-4d18-a4b5-4081fa4400da@ef5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231026T164500Z
-LOCATION:3-365
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:c2c143dd-83a6-4cfb-9c05-1d6184e7c28c@c2c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231226T073000Z
-LOCATION:3-351
-DTSTART:20231226T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:20bb367e-5879-4b21-86ca-f0bff47442aa@20bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231005T150000Z
-LOCATION:3-365
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:9f9786be-9ef7-42ed-8924-f30fc98f5503@9f97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20231107T113000Z
-LOCATION:5-122
-DTSTART:20231107T100000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:f4166885-986b-47c7-b391-a3107e056f68@f416.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231117T091500Z
-LOCATION:3-351
-DTSTART:20231117T074500Z
-SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
-UID:835b2f52-9806-40f3-9ffc-5f57cdb89228@835b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231226T131500Z
-LOCATION:3-351
-DTSTART:20231226T114500Z
-SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
-UID:88b81253-93d6-4939-ab1b-f1c3fe13d691@88b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231028T113000Z
-LOCATION:3-365
-DTSTART:20231028T100000Z
-SUMMARY:ЛР Нерегулируемые электроприводы ЛА
-UID:4b624ef4-6fb7-43eb-8924-e01c34454b08@4b62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231017T131500Z
-LOCATION:3-351
-DTSTART:20231017T114500Z
-SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
-UID:41eb8bcd-ded9-48b8-92cc-2c351f75fc96@41eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20231016T091500Z
-LOCATION:3-305
-DTSTART:20231016T074500Z
-SUMMARY:ПЗ Технология производства электрооборудования ЛА
-UID:93c25081-b3ac-44a1-9f4a-31ecaf9069d9@93c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231101T113000Z
-LOCATION:3-451
-DTSTART:20231101T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:7268ca94-3b92-464f-98eb-3473f402faa9@7268.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231027T131500Z
-LOCATION:3-355
-DTSTART:20231027T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:ebd8b54e-d7a0-44e4-8620-3fd6325e5a18@ebd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231215T131500Z
-LOCATION:3-355
-DTSTART:20231215T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:8be78f3f-1f3d-467c-9551-892a7dd0b82a@8be7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231226T113000Z
-LOCATION:3-351
-DTSTART:20231226T100000Z
-SUMMARY:ПЗ Основы инженерного искусства
-UID:ff8ebeb1-b2d7-4081-927b-28673e56e7a4@ff8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231206T091500Z
-LOCATION:3-451
-DTSTART:20231206T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:62d8711c-7c52-4a68-8135-5cbdc064efbf@62d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231121T073000Z
-LOCATION:3-351
-DTSTART:20231121T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:3b3f472f-993a-43c8-97fd-c68f4f90d7aa@3b3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231111T073000Z
-LOCATION:3-451
-DTSTART:20231111T060000Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:20498f67-f90f-4d5a-9ea7-d29b70eb4829@2049.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20230904T091500Z
-LOCATION:3-305
-DTSTART:20230904T074500Z
-SUMMARY:ПЗ Технология производства электрооборудования ЛА
-UID:e1e1e713-9954-48f1-b7c3-d752bb0aa09f@e1e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231103T091500Z
-LOCATION:3-351
-DTSTART:20231103T074500Z
-SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
-UID:9dadce41-39e7-42b9-82e1-14ca7ef8763b@9dad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231116T150000Z
-LOCATION:3-365
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:b3ca5672-1d93-445f-b217-2ebf0c0e6409@b3ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231220T091500Z
-LOCATION:3-451
-DTSTART:20231220T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:70b45aaa-3072-4d1b-8c69-ae1bf85ee999@70b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231014T131500Z
-LOCATION:3-365
-DTSTART:20231014T114500Z
-SUMMARY:ЛР Нерегулируемые электроприводы ЛА
-UID:232f47c1-2d14-4fda-a9cc-07f8929454cf@232f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231019T131500Z
-LOCATION:3-365
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:cf4d0f3e-77e1-4f34-8188-7e395709485b@cf4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231115T131500Z
-LOCATION:3-351
-DTSTART:20231115T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:8daf47c3-85ef-4e5e-95cb-34bdfd14eb56@8daf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230905T131500Z
-LOCATION:3-351
-DTSTART:20230905T114500Z
-SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
-UID:b52d88c5-1ed0-4d08-9b0e-e6e71ddef8d1@b52d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Исаев Владимир Владимирович
-DTEND:20231205T113000Z
-LOCATION:3-311
-DTSTART:20231205T100000Z
-SUMMARY:ЛР Технология производства электрооборудования ЛА
-UID:f627289e-bde1-4977-b287-1433c7709220@f627.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231110T073000Z
-LOCATION:3-351
-DTSTART:20231110T060000Z
-SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
-UID:badb9348-8571-4671-b8a6-4d31ee8e2018@badb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231113T113000Z
-LOCATION:3-351
-DTSTART:20231113T100000Z
-SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
-UID:76f5a87d-49d9-4f9a-9927-5777d3e39656@76f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231222T091500Z
-LOCATION:3-351
-DTSTART:20231222T074500Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:4625de16-1532-40e4-853e-e54859f7f8aa@4625.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230905T113000Z
-LOCATION:3-351
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Основы инженерного искусства
-UID:08f2c177-9aee-416e-a71d-ba927b4d59af@08f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231014T073000Z
-LOCATION:3-451
-DTSTART:20231014T060000Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:ae4d81aa-1d1c-42e5-856d-4cd8d68f1598@ae4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230907T113000Z
-LOCATION:3-451
-DTSTART:20230907T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:1f8b881c-2d87-4365-bb03-ea3d9edf266b@1f8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231109T113000Z
-LOCATION:3-451
-DTSTART:20231109T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:aa7a9916-3d80-440f-b332-7c5a5c880456@aa7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230912T091500Z
-LOCATION:3-351
-DTSTART:20230912T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:c11e2126-ad81-4957-953d-b715d7faa86c@c11e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231222T131500Z
-LOCATION:3-355
-DTSTART:20231222T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:4d531b22-2cd0-457c-89d1-5a47435faef6@4d53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231031T131500Z
-LOCATION:3-351
-DTSTART:20231031T114500Z
-SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
-UID:46397774-31d7-4d53-9526-b5a893a9cce6@4639.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230904T113000Z
-LOCATION:3-351
-DTSTART:20230904T100000Z
-SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
-UID:17d0d5ba-a676-4cf0-bba7-4b61ce4f1a8f@17d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231006T091500Z
-LOCATION:3-351
-DTSTART:20231006T074500Z
-SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
-UID:a53495ae-4bac-4dfb-a12d-0870d3db80d3@a534.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231009T131500Z
-LOCATION:5-401
-DTSTART:20231009T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:942a034d-8b04-4d39-a2b0-7f20727c003c@942a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231214T164500Z
-LOCATION:3-365
-DTSTART:20231214T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:e8c5cf76-68c4-4cd7-a1cf-db8a0d425716@e8c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231110T091500Z
-LOCATION:3-351
-DTSTART:20231110T074500Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:9b3c822a-041a-4036-b281-1cd4d7b0aacc@9b3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231005T164500Z
-LOCATION:3-365
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:b9128dfa-45eb-4c77-8873-f5675eddee72@b912.org
+UID:f17092b9-c12a-4768-ad02-c77167efad20@f170.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Крючков Василий Васильевич
@@ -2159,215 +31,31 @@ DTEND:20230926T073000Z
 LOCATION:3-351
 DTSTART:20230926T060000Z
 SUMMARY:ЛР Основы инженерного искусства
-UID:db61b1c0-11bb-453f-8564-85f392de9fdf@db61.org
+UID:df7aa01b-dcee-44c8-a63b-8b0c7cac4d24@df7a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230927T131500Z
-LOCATION:3-351
-DTSTART:20230927T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:f84e1da0-8d6e-495f-92d7-0ad013f46483@f84e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230906T113000Z
-LOCATION:3-451
-DTSTART:20230906T100000Z
-SUMMARY:ПЗ Системы электрооборудования ЛА
-UID:3cc7b43b-1e1e-4a75-854c-248bc4979551@3cc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231116T164500Z
-LOCATION:3-365
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:9c751379-41d1-4d8a-be7f-985e9b4db4fe@9c75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231215T113000Z
-LOCATION:3-351
-DTSTART:20231215T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:3e33796f-93b0-41ba-ab6d-b3acf9db6432@3e33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231019T164500Z
-LOCATION:3-365
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:8824149c-4522-4341-bcd6-85ba2a15ed5d@8824.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231027T113000Z
-LOCATION:3-351
-DTSTART:20231027T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:91601214-c1ab-4ac0-b81e-fdc76326b6fd@9160.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231003T131500Z
-LOCATION:3-351
-DTSTART:20231003T114500Z
-SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
-UID:02ac07a0-b1db-4f81-88af-048476611a4c@02ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231120T131500Z
-LOCATION:5-401
-DTSTART:20231120T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:5860e30e-05f3-4259-a5d8-820a53a1eee4@5860.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20230915T073000Z
-LOCATION:3-351
-DTSTART:20230915T060000Z
-SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
-UID:a601affe-fb25-4b1d-bf67-b74887d879ac@a601.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231103T113000Z
-LOCATION:3-351
-DTSTART:20231103T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:74bed180-80ae-4fb6-9452-e8a3424d4b2f@74be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20230912T113000Z
-LOCATION:5-122
-DTSTART:20230912T100000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:8856bcce-b60f-46a6-b45c-d0b1192d278c@8856.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231010T073000Z
-LOCATION:3-351
-DTSTART:20231010T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:40a5b7e4-9f9c-481e-95b5-fa5337a0df31@40a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231026T113000Z
-LOCATION:3-451
-DTSTART:20231026T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:5689b4b2-ebd8-48da-a9f8-d30dac16bf55@5689.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230914T150000Z
-LOCATION:3-365
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:f34e7308-637c-4d6b-aeb8-43936a7a567b@f34e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20231211T091500Z
-LOCATION:3-305
-DTSTART:20231211T074500Z
-SUMMARY:ПЗ Технология производства электрооборудования ЛА
-UID:0c451bb9-1014-48be-931c-df33185c0741@0c45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230930T131500Z
-LOCATION:3-365
-DTSTART:20230930T114500Z
-SUMMARY:ЛР Нерегулируемые электроприводы ЛА
-UID:84bb08df-68cd-4bea-9659-eb9051067dec@84bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230929T113000Z
-LOCATION:3-351
-DTSTART:20230929T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:3e5cfd3f-c053-4dd6-88f8-4d8c480c004d@3e5c.org
+DESCRIPTION:Исаев Владимир Владимирович
+DTEND:20231205T131500Z
+LOCATION:3-311
+DTSTART:20231205T114500Z
+SUMMARY:ЛР Технология производства электрооборудования ЛА
+UID:0dbcb1f5-2aa0-49bd-9aad-aa8607d2cffb@0dbc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231111T091500Z
+DTEND:20231028T073000Z
 LOCATION:3-451
-DTSTART:20231111T074500Z
+DTSTART:20231028T060000Z
 SUMMARY:ЛК Системы электрооборудования ЛА
-UID:56eb95c8-7b01-41b8-ad95-8e49502a0e8c@56eb.org
+UID:7ae7f12e-e8c5-48fd-99ce-606cf5a43809@7ae7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231017T113000Z
-LOCATION:3-351
-DTSTART:20231017T100000Z
-SUMMARY:ПЗ Основы инженерного искусства
-UID:31cf9b98-a812-4523-9000-dc4995d40f3c@31cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231201T113000Z
-LOCATION:3-351
-DTSTART:20231201T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:5e2a947f-6651-4edf-bdd4-04fb350ac56e@5e2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231006T113000Z
-LOCATION:3-351
-DTSTART:20231006T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:e7c24243-32a0-420f-879e-ca5f2888d81b@e7c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231006T131500Z
-LOCATION:3-355
-DTSTART:20231006T114500Z
-SUMMARY:ЛК Устройства управления преобразователями электроэнергии
-UID:46e23c3b-1893-47c4-a01d-9ae3062939b9@46e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231122T131500Z
-LOCATION:3-351
-DTSTART:20231122T114500Z
-SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:491feae0-cda5-4e4e-add0-d23365a8ea56@491f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231214T113000Z
-LOCATION:3-451
-DTSTART:20231214T100000Z
-SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:14d114fb-f77e-4372-8f00-c953af0e1f67@14d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20230915T091500Z
-LOCATION:3-351
-DTSTART:20230915T074500Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:685c4a58-da1b-4345-8be8-765b0931f2b2@685c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20231127T091500Z
-LOCATION:3-305
-DTSTART:20231127T074500Z
-SUMMARY:ПЗ Технология производства электрооборудования ЛА
-UID:c1f41630-82d2-4306-9c1e-d5343d4cc273@c1f4.org
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231109T150000Z
+LOCATION:3-365
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:7b3af5f5-4efe-4f32-bf40-c6136b4c7882@7b3a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Анисимова Татьяна Викторовна
@@ -2375,39 +63,151 @@ DTEND:20231106T073000Z
 LOCATION:3-351
 DTSTART:20231106T060000Z
 SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
-UID:74bf876e-2506-47d6-844a-c8967c4b52c1@74bf.org
+UID:45232454-4ad0-4dab-a797-3aacd58ca23a@4523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231124T091500Z
+LOCATION:3-351
+DTSTART:20231124T074500Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:9a86896c-6b5f-4df6-93a9-1670958f3442@9a86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231123T113000Z
+LOCATION:3-451
+DTSTART:20231123T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:1f4cd88e-c29a-4084-b6ba-c5d48ef5fed2@1f4c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231209T091500Z
+DTEND:20231118T073000Z
 LOCATION:3-451
-DTSTART:20231209T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:16f572a4-efcb-4f4b-a730-6745718fe858@16f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20230912T131500Z
-LOCATION:5-122
-DTSTART:20230912T114500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:6fffd1d6-a8ee-4e28-80f0-49492b585a95@6fff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20230923T073000Z
-LOCATION:3-451
-DTSTART:20230923T060000Z
+DTSTART:20231118T060000Z
 SUMMARY:ЛР Системы электрооборудования ЛА
-UID:56e518f4-0208-455a-b3e6-81d3d9e51f36@56e5.org
+UID:35f85b27-0667-45ab-925b-8f178429a352@35f8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231214T131500Z
+DTEND:20230914T164500Z
 LOCATION:3-365
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:32a2a88f-d40d-43ad-ba01-6daf05fd305b@32a2.org
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:d7cbd35c-0249-45bd-a7a8-902ed9cd920c@d7cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231023T131500Z
+LOCATION:5-401
+DTSTART:20231023T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:432c516b-faac-433d-a821-1abf29bc1925@432c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230904T113000Z
+LOCATION:3-351
+DTSTART:20230904T100000Z
+SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
+UID:d893bbf8-b542-42f5-b206-02e63c3f3793@d893.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231128T091500Z
+LOCATION:3-351
+DTSTART:20231128T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:43dd78f9-8776-4c95-9bf7-2aa143d0f36d@43dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231019T164500Z
+LOCATION:3-365
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:4aee077f-e716-4b6b-8723-0b3ff5edde66@4aee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231110T131500Z
+LOCATION:3-355
+DTSTART:20231110T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:901c2489-a0e5-44b2-af50-9b69e8279aa5@901c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231122T113000Z
+LOCATION:3-451
+DTSTART:20231122T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:71fd8a15-41fe-4b10-a6ed-fbdea62f1d6d@71fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230923T091500Z
+LOCATION:3-451
+DTSTART:20230923T074500Z
+SUMMARY:ЛР Системы электрооборудования ЛА
+UID:176707ee-eaa8-4d8a-ad9d-a2ec5fb532a8@1767.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Исаев Владимир Владимирович
+DTEND:20231205T113000Z
+LOCATION:3-311
+DTSTART:20231205T100000Z
+SUMMARY:ЛР Технология производства электрооборудования ЛА
+UID:e7a886ce-ee82-431c-ab05-ebb6699aa851@e7a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20230912T113000Z
+LOCATION:5-122
+DTSTART:20230912T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:bea19e43-a108-4ca5-a899-359168a05a87@bea1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231125T131500Z
+LOCATION:3-365
+DTSTART:20231125T114500Z
+SUMMARY:ЛР Нерегулируемые электроприводы ЛА
+UID:13b7b3a7-ff37-49f9-abee-6687f131e2c8@13b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231208T073000Z
+LOCATION:3-351
+DTSTART:20231208T060000Z
+SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
+UID:e00729b8-221b-4e97-98f4-70561c21f49f@e007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230901T131500Z
+LOCATION:3-355
+DTSTART:20230901T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:acc55289-de65-427c-b7ca-f22b1d21b70e@acc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231019T113000Z
+LOCATION:3-451
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:d178bd33-5e13-4137-b582-8148faf5842d@d178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231207T113000Z
+LOCATION:3-451
+DTSTART:20231207T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:d1f3db3b-fa56-4a2f-b638-ab92c80ab2bb@d1f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Машуков Евгений Владимирович
@@ -2415,207 +215,87 @@ DTEND:20230913T091500Z
 LOCATION:3-451
 DTSTART:20230913T074500Z
 SUMMARY:ЛК Системы электрооборудования ЛА
-UID:5e5d6358-3828-4951-b25c-4882946a31ac@5e5d.org
+UID:d5f30dc2-c49d-4caa-8c84-1458e62fff14@d5f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231223T073000Z
+DTEND:20231025T113000Z
 LOCATION:3-451
-DTSTART:20231223T060000Z
+DTSTART:20231025T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:6ec7b0f5-994e-4a0f-9e0b-be5487e3e897@6ec7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231101T091500Z
+LOCATION:3-451
+DTSTART:20231101T074500Z
 SUMMARY:ЛК Системы электрооборудования ЛА
-UID:22217fbe-9c84-428e-9465-3266078c13ee@2221.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231030T131500Z
-LOCATION:5-401
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:07e16795-4f8f-43d0-9ea8-d07b176c73e9@07e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230907T131500Z
-LOCATION:3-365
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:219b7327-89b8-4db3-9ca4-6a7707812400@219b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20231030T091500Z
-LOCATION:3-305
-DTSTART:20231030T074500Z
-SUMMARY:ПЗ Технология производства электрооборудования ЛА
-UID:41d5a9ab-db44-46d5-8842-b6b4fb8ee89f@41d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230925T131500Z
-LOCATION:5-401
-DTSTART:20230925T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:3d6dfbed-2fea-4226-a451-54d46ee08622@3d6d.org
+UID:abe5659d-cae9-48e0-917e-283ceb6519d7@abe5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231011T131500Z
+DTEND:20231130T113000Z
+LOCATION:3-451
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:da5f2f1f-33c4-4ae9-8f43-64b5909d3ef7@da5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231025T131500Z
 LOCATION:3-351
-DTSTART:20231011T114500Z
+DTSTART:20231025T114500Z
 SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
-UID:7b9f39ce-5089-46e4-a21e-bca6974315d4@7b9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20230914T131500Z
-LOCATION:3-365
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:982cf795-e2ba-4605-a012-7faebfe60877@982c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231129T091500Z
-LOCATION:3-451
-DTSTART:20231129T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:cf5e5175-2387-4705-a1b6-8912bd75269d@cf5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ванцов Сергей Васильевич
-DTEND:20230925T113000Z
-LOCATION:3-307
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Технология производства электрооборудования ЛА
-UID:c87ef4f4-846b-4796-a378-61d3c9a42fcf@c87e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ванцов Сергей Васильевич
-DTEND:20231023T113000Z
-LOCATION:3-307
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Технология производства электрооборудования ЛА
-UID:3716acb1-46f6-4925-bd9f-ca32901d4216@3716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231211T131500Z
-LOCATION:5-401
-DTSTART:20231211T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:96103afb-e394-43f6-bdf6-94dd23949d80@9610.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231012T150000Z
-LOCATION:3-365
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:5348fb3d-670a-41ba-a504-0895cee6eb44@5348.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231018T091500Z
-LOCATION:3-451
-DTSTART:20231018T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:13c33f0b-e231-4821-ae52-e6fffc9bfe1c@13c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231111T113000Z
-LOCATION:3-365
-DTSTART:20231111T100000Z
-SUMMARY:ЛР Нерегулируемые электроприводы ЛА
-UID:be75b0ea-8ede-43b1-bec3-38a2c0df15c2@be75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231207T150000Z
-LOCATION:3-365
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:9c615056-bb0b-414a-ac61-8b1410d08501@9c61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231121T091500Z
-LOCATION:3-351
-DTSTART:20231121T074500Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:4a4cd217-491f-40e6-90b4-307604c0d33b@4a4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Данилина Анастасия Николаевна
-DTEND:20231020T073000Z
-LOCATION:3-351
-DTSTART:20231020T060000Z
-SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
-UID:0cfd860d-a05f-4086-a3c0-2740432414f2@0cfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231019T150000Z
-LOCATION:3-365
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:c4203d41-0ce0-4393-9333-8f4a7272d7bc@c420.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20230905T073000Z
-LOCATION:3-351
-DTSTART:20230905T060000Z
-SUMMARY:ЛР Основы инженерного искусства
-UID:2bb68510-354c-4a76-8ce3-8a89d88affff@2bb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231123T164500Z
-LOCATION:3-365
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
-UID:3ca2bc3f-11d2-47d9-a9da-921885605343@3ca2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Крючков Василий Васильевич
-DTEND:20231212T131500Z
-LOCATION:3-351
-DTSTART:20231212T114500Z
-SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
-UID:a632d8e6-ea91-46cf-bd6a-a828284f7ae1@a632.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ванцов Сергей Васильевич
-DTEND:20231106T113000Z
-LOCATION:3-307
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Технология производства электрооборудования ЛА
-UID:59a98b1f-5fd5-496c-b636-1299b40ab87f@59a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Машуков Евгений Владимирович
-DTEND:20231014T091500Z
-LOCATION:3-451
-DTSTART:20231014T074500Z
-SUMMARY:ЛК Системы электрооборудования ЛА
-UID:3b170737-e89c-4792-8a8a-c576ab53406a@3b17.org
+UID:ab38e434-50b3-4664-bc69-a505da091364@ab38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Анисимова Татьяна Викторовна
-DTEND:20231020T113000Z
+DTEND:20231009T073000Z
 LOCATION:3-351
-DTSTART:20231020T100000Z
-SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
-UID:fd103c52-d6dd-42d4-86e6-714f72bb3eec@fd10.org
+DTSTART:20231009T060000Z
+SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
+UID:7709c66b-e494-4aa9-860e-88d451b7dd20@7709.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231018T113000Z
+LOCATION:3-451
+DTSTART:20231018T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:26924d98-1ef1-4cf4-ad03-5e22fb207cc9@2692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231114T091500Z
+LOCATION:3-351
+DTSTART:20231114T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:11840861-29c1-4b16-ad30-1377e7bb7afc@1184.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231004T091500Z
+LOCATION:3-451
+DTSTART:20231004T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:fbfc5bf1-275f-4de5-b7fd-af16f1d43fa3@fbfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230929T131500Z
+LOCATION:3-355
+DTSTART:20230929T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:d4cdfd8a-6d3f-4b95-aec6-992bb023ffa5@d4cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Серпичева Елена Викторовна
-DTEND:20231214T150000Z
+DTEND:20231130T131500Z
 LOCATION:3-365
-DTSTART:20231214T133000Z
+DTSTART:20231130T114500Z
 SUMMARY:ЛК Нерегулируемые электроприводы ЛА
-UID:a76f2f53-86b6-47d7-a271-0003276bad63@a76f.org
+UID:93e2008c-378d-42e5-92a7-4a5e25b2303c@93e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Исаев Владимир Владимирович
@@ -2623,7 +303,423 @@ DTEND:20231121T131500Z
 LOCATION:3-311
 DTSTART:20231121T114500Z
 SUMMARY:ЛР Технология производства электрооборудования ЛА
-UID:fc28c6e5-614e-4f08-9b7c-a7f7c523cb6c@fc28.org
+UID:f6e49ea1-ece8-4ed0-aac3-74d5aa920b61@f6e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231226T091500Z
+LOCATION:3-351
+DTSTART:20231226T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:d480c0ec-a207-43c0-97fb-aa913be2d547@d480.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20230926T131500Z
+LOCATION:5-122
+DTSTART:20230926T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:da5f1947-b381-41fe-af1d-8740ee847f39@da5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230928T150000Z
+LOCATION:3-365
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:e651cc6e-e6de-4eb4-a996-a17f3591e80b@e651.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231003T073000Z
+LOCATION:3-351
+DTSTART:20231003T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:39a892d6-fd80-4129-b248-ca358f906065@39a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231024T073000Z
+LOCATION:3-351
+DTSTART:20231024T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:8000faa7-fc1a-47c7-8d3f-f51cc0c25931@8000.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231103T073000Z
+LOCATION:3-351
+DTSTART:20231103T060000Z
+SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
+UID:414430a4-8685-411e-903a-aeb57e34b625@4144.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230918T113000Z
+LOCATION:3-351
+DTSTART:20230918T100000Z
+SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
+UID:e70e1c6e-03e7-41d2-9a40-b7881ef1a804@e70e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231118T091500Z
+LOCATION:3-451
+DTSTART:20231118T074500Z
+SUMMARY:ЛР Системы электрооборудования ЛА
+UID:8a750da9-4a19-436a-8668-e211ba80bf68@8a75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231003T091500Z
+LOCATION:3-351
+DTSTART:20231003T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:d12d7007-7ab7-455e-a5bb-6d4498f83853@d12d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230927T113000Z
+LOCATION:3-451
+DTSTART:20230927T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:9bb897bf-0046-4771-91b0-2ef737f0f3c2@9bb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231123T150000Z
+LOCATION:3-365
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:2b5b9c21-ce58-4e4d-9cf2-aeae18ece8ae@2b5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231005T150000Z
+LOCATION:3-365
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:ffbbc470-855e-4fd4-91e4-8ade9a099e91@ffbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231103T113000Z
+LOCATION:3-351
+DTSTART:20231103T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:6be44049-a094-42fd-81aa-90ff23ac6ffa@6be4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231212T131500Z
+LOCATION:3-351
+DTSTART:20231212T114500Z
+SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
+UID:708b8d11-991a-44ea-b189-8610097a80a8@708b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231124T113000Z
+LOCATION:3-351
+DTSTART:20231124T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:02f487c5-a77d-4a61-9c73-354e65fe38f0@02f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231205T091500Z
+LOCATION:3-351
+DTSTART:20231205T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:fbb0fd69-27f2-4a8a-83df-0595bbb35a75@fbb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231028T131500Z
+LOCATION:3-365
+DTSTART:20231028T114500Z
+SUMMARY:ЛР Нерегулируемые электроприводы ЛА
+UID:c0bf6cff-13f6-4d79-ab85-7788cfaad929@c0bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231121T073000Z
+LOCATION:3-351
+DTSTART:20231121T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:ab73ac7c-3ce7-443b-b5bc-b906299e8b41@ab73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231005T113000Z
+LOCATION:3-451
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:7d3dd64e-928d-448e-a7b4-9ea8505e846f@7d3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231129T131500Z
+LOCATION:3-351
+DTSTART:20231129T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:de1d2eb2-989e-4974-aaa9-c43c44f7558c@de1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231111T073000Z
+LOCATION:3-451
+DTSTART:20231111T060000Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:075ab769-5c07-4905-a373-6053fe3f4b5d@075a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231228T150000Z
+LOCATION:3-365
+DTSTART:20231228T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:852390da-c9bd-440e-ae34-a78f97fd007d@8523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231125T113000Z
+LOCATION:3-365
+DTSTART:20231125T100000Z
+SUMMARY:ЛР Нерегулируемые электроприводы ЛА
+UID:3c514ce3-8a24-4ad0-8bb0-db8d7f408ace@3c51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230906T113000Z
+LOCATION:3-451
+DTSTART:20230906T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:2db1e102-2a56-443c-9f88-53fdf758ca05@2db1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231107T073000Z
+LOCATION:3-351
+DTSTART:20231107T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:0cabbfc3-a407-489d-a75e-4a953815845c@0cab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231111T131500Z
+LOCATION:3-365
+DTSTART:20231111T114500Z
+SUMMARY:ЛР Нерегулируемые электроприводы ЛА
+UID:47556311-61ee-45fd-91b2-06a1aa674a82@4755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231006T091500Z
+LOCATION:3-351
+DTSTART:20231006T074500Z
+SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
+UID:a2382822-bf66-4361-8156-caabd55b7d5f@a238.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231212T113000Z
+LOCATION:3-351
+DTSTART:20231212T100000Z
+SUMMARY:ПЗ Основы инженерного искусства
+UID:ae72ec60-2a27-4310-af51-04b531f4e9e5@ae72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230929T091500Z
+LOCATION:3-351
+DTSTART:20230929T074500Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:7a408e2a-95f5-489a-8937-665af78900ef@7a40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230921T113000Z
+LOCATION:3-451
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:0634b7f8-25cc-4528-a915-477bc349d4fc@0634.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230908T131500Z
+LOCATION:3-355
+DTSTART:20230908T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:73f47315-ac76-4da8-8744-3065a1a2fca2@73f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231125T073000Z
+LOCATION:3-451
+DTSTART:20231125T060000Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:d7a41af7-4d53-453c-ab11-528f8a47409d@d7a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231219T091500Z
+LOCATION:3-351
+DTSTART:20231219T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:4accadbd-b4bc-43ad-9878-b212819ad76a@4acc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231027T073000Z
+LOCATION:3-351
+DTSTART:20231027T060000Z
+SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
+UID:4e74091e-7b0e-407e-8202-53bd657a8070@4e74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231011T091500Z
+LOCATION:3-451
+DTSTART:20231011T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:22044ca7-7ee0-48b9-b624-dd54f169408e@2204.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231027T113000Z
+LOCATION:3-351
+DTSTART:20231027T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:a0459716-9289-4112-bb58-d99796278076@a045.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230920T091500Z
+LOCATION:3-451
+DTSTART:20230920T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:d5aea187-d255-4c07-abba-a9f2bdc6b3b0@d5ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231206T131500Z
+LOCATION:3-351
+DTSTART:20231206T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:a66f1253-a6aa-4343-b1b2-ffee4f8b0ad6@a66f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231128T131500Z
+LOCATION:3-351
+DTSTART:20231128T114500Z
+SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
+UID:f8ce00c3-364d-4edd-9a6f-c562b1956fb7@f8ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231114T073000Z
+LOCATION:3-351
+DTSTART:20231114T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:f29732bb-f215-4c00-b469-0117f52f9d5b@f297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20230904T091500Z
+LOCATION:3-305
+DTSTART:20230904T074500Z
+SUMMARY:ПЗ Технология производства электрооборудования ЛА
+UID:146f35ac-1d5e-481a-ae28-c3659bdf6dec@146f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230927T091500Z
+LOCATION:3-451
+DTSTART:20230927T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:efdcd0ff-950a-4142-90ce-ff8253aa6ab2@efdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230904T131500Z
+LOCATION:5-401
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:c9e48926-15bf-4c96-a2ba-3b0187e3c3c4@c9e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231005T131500Z
+LOCATION:3-365
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:eabdbe82-d387-4193-9391-a1c705d6e7ca@eabd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231208T113000Z
+LOCATION:3-351
+DTSTART:20231208T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:712e4624-1c9f-4265-859e-402baba67c20@712e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230922T073000Z
+LOCATION:3-351
+DTSTART:20230922T060000Z
+SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
+UID:2ce187dc-fc9f-4d5c-99a8-dc193d331ca1@2ce1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ванцов Сергей Васильевич
+DTEND:20231120T113000Z
+LOCATION:3-307
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Технология производства электрооборудования ЛА
+UID:62d42a48-149e-43c3-82d4-d3913a0ac19e@62d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231228T164500Z
+LOCATION:3-365
+DTSTART:20231228T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:a358872e-612c-4851-813b-1dba3f4047ae@a358.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231103T131500Z
+LOCATION:3-355
+DTSTART:20231103T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:0a0f7712-cfd1-4b34-ae55-aac517078dae@0a0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230907T150000Z
+LOCATION:3-365
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:61b121cd-6b93-458a-b253-04c3b56c3b60@61b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231127T131500Z
+LOCATION:5-401
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:b4a076ce-31d8-4b87-9c04-0992a07b2b4f@b4a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231208T091500Z
+LOCATION:3-351
+DTSTART:20231208T074500Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:e30b9cce-89ea-44fc-89fa-5d089a211228@e30b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Серпичева Елена Викторовна
@@ -2631,7 +727,335 @@ DTEND:20230930T113000Z
 LOCATION:3-365
 DTSTART:20230930T100000Z
 SUMMARY:ЛР Нерегулируемые электроприводы ЛА
-UID:f2bd5692-66f1-47d0-bc16-79fd346982ff@f2bd.org
+UID:08946444-99f5-403c-a362-7e8738c2a9d8@0894.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230915T131500Z
+LOCATION:3-355
+DTSTART:20230915T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:86f60e1f-242f-48e7-8cc9-867a083a9c6b@86f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231009T131500Z
+LOCATION:5-401
+DTSTART:20231009T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:77437d34-85cc-4a8e-ac1c-087f091c7197@7743.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230928T113000Z
+LOCATION:3-451
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:8d6e7db7-e46e-421d-b883-095738bdbffa@8d6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231221T164500Z
+LOCATION:3-365
+DTSTART:20231221T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:5c4cbc72-2a22-4d8d-9c35-345952ac45da@5c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231101T131500Z
+LOCATION:3-351
+DTSTART:20231101T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:7a277bfb-c3f1-4000-85dd-e2c3b4d5b121@7a27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20231107T113000Z
+LOCATION:5-122
+DTSTART:20231107T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:216e8592-55f0-4c6c-94e5-95cfc81e8334@216e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231122T091500Z
+LOCATION:3-451
+DTSTART:20231122T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:3d569ee1-5247-45f8-816e-d4fe013fc067@3d56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231108T113000Z
+LOCATION:3-451
+DTSTART:20231108T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:09c9251a-737b-4aea-917f-7418c1f8cb48@09c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231113T131500Z
+LOCATION:5-401
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:990a37fe-f19c-4b04-9f22-f94f0b55fe0a@990a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230929T073000Z
+LOCATION:3-351
+DTSTART:20230929T060000Z
+SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
+UID:356a3564-7a5d-4929-bf45-d03db737c596@356a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231223T091500Z
+LOCATION:3-451
+DTSTART:20231223T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:3b5964f8-bfad-469c-bf61-85f275d71c36@3b59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230919T131500Z
+LOCATION:3-351
+DTSTART:20230919T114500Z
+SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
+UID:5bc2ac35-cdc7-4da3-b5cf-24608a493cff@5bc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231023T091500Z
+LOCATION:3-351
+DTSTART:20231023T074500Z
+SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
+UID:dbf621ee-c9bb-4d90-9fdc-3221c66aefdb@dbf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231128T113000Z
+LOCATION:3-351
+DTSTART:20231128T100000Z
+SUMMARY:ПЗ Основы инженерного искусства
+UID:252b2318-027b-4634-9d55-a3f3077d64cd@252b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231227T113000Z
+LOCATION:3-451
+DTSTART:20231227T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:3d9b21de-807e-4a72-8103-8c925f9a4414@3d9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231208T131500Z
+LOCATION:3-355
+DTSTART:20231208T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:b42d2462-9c52-4b90-9af3-099755f36900@b42d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231120T073000Z
+LOCATION:3-351
+DTSTART:20231120T060000Z
+SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
+UID:0ab826f6-2f9c-45ad-910d-61403aad7e35@0ab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231214T150000Z
+LOCATION:3-365
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:baa11047-0927-47f2-a091-e0145f4f23a3@baa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231214T113000Z
+LOCATION:3-451
+DTSTART:20231214T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:1c707400-fabe-4b99-9c16-22d00f0951e8@1c70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230907T131500Z
+LOCATION:3-365
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:236dc07e-12e2-4471-b9b5-66e871186ba6@236d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231023T073000Z
+LOCATION:3-351
+DTSTART:20231023T060000Z
+SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
+UID:95a72a0f-8365-4b7f-aa1e-c15e23dfa714@95a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231220T131500Z
+LOCATION:3-351
+DTSTART:20231220T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:ac24755b-fbfe-49e9-8947-609a61bda893@ac24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231117T073000Z
+LOCATION:3-351
+DTSTART:20231117T060000Z
+SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
+UID:13a3df43-5c0d-4b71-8994-8826cb26eabc@13a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230901T091500Z
+LOCATION:3-351
+DTSTART:20230901T074500Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:14cc16ca-93ca-4dbf-adf4-ad9335ea1c66@14cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231002T131500Z
+LOCATION:5-401
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:9f2022bd-2b34-4451-864e-bcbb9432927d@9f20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230919T073000Z
+LOCATION:3-351
+DTSTART:20230919T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:adf6459f-1682-4a3e-b270-67289e1c6ff2@adf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20231024T113000Z
+LOCATION:5-122
+DTSTART:20231024T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:81540c3e-3f03-474e-b1d2-283175063b67@8154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231005T164500Z
+LOCATION:3-365
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:fd25dc00-624f-4b8e-a059-d84940a49675@fd25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231006T073000Z
+LOCATION:3-351
+DTSTART:20231006T060000Z
+SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
+UID:acd6b268-5138-41ab-8971-546df2812ebe@acd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231020T113000Z
+LOCATION:3-351
+DTSTART:20231020T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:ef48be59-03eb-4bef-96f2-73a29ec59dc5@ef48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231211T131500Z
+LOCATION:5-401
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:c8514543-d7a7-4885-bc53-8596dd7c969b@c851.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231220T113000Z
+LOCATION:3-451
+DTSTART:20231220T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:d4e09ae7-fe9c-46b3-b631-638f2b8b9170@d4e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231114T131500Z
+LOCATION:3-351
+DTSTART:20231114T114500Z
+SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
+UID:89370a51-4bcc-4a5a-a1eb-2713e1220140@8937.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230921T131500Z
+LOCATION:3-365
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:403cd509-cda6-4867-86ba-016fb1165b3c@403c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230914T113000Z
+LOCATION:3-451
+DTSTART:20230914T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:a7acb780-89cc-4505-b205-92e931f56bd7@a7ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231213T113000Z
+LOCATION:3-451
+DTSTART:20231213T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:2352a0e3-5b64-49e4-892a-f3b734edabcb@2352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230930T131500Z
+LOCATION:3-365
+DTSTART:20230930T114500Z
+SUMMARY:ЛР Нерегулируемые электроприводы ЛА
+UID:208c6693-644b-4fa8-845b-6aba251947a3@208c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20231030T091500Z
+LOCATION:3-305
+DTSTART:20231030T074500Z
+SUMMARY:ПЗ Технология производства электрооборудования ЛА
+UID:c0df51f7-1bfd-46c6-8d6b-3e5d30306166@c0df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231020T131500Z
+LOCATION:3-355
+DTSTART:20231020T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:45a709d8-d087-474c-bda0-70874621e335@45a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230905T131500Z
+LOCATION:3-351
+DTSTART:20230905T114500Z
+SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
+UID:3e39aeeb-f45b-4053-bf1c-bd23e0d296c8@3e39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231223T073000Z
+LOCATION:3-451
+DTSTART:20231223T060000Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:3c872eba-69d3-43bf-9520-af34a74614d2@3c87.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Данилина Анастасия Николаевна
@@ -2639,6 +1063,1582 @@ DTEND:20231116T113000Z
 LOCATION:3-451
 DTSTART:20231116T100000Z
 SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
-UID:c59fb875-7726-42b3-8264-9f2102066420@c59f.org
+UID:861bf17b-91e2-4de8-94d9-d10e46b450a1@861b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231219T073000Z
+LOCATION:3-351
+DTSTART:20231219T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:cab8b885-2bf6-43f3-a269-010e4c216e9d@cab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231007T091500Z
+LOCATION:3-451
+DTSTART:20231007T074500Z
+SUMMARY:ЛР Системы электрооборудования ЛА
+UID:1046b1a6-29b0-4b57-b8e1-dc189d457961@1046.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230902T091500Z
+LOCATION:3-451
+DTSTART:20230902T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:e3753e0a-9a70-41de-861d-7707f8bc1fdf@e375.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20231107T131500Z
+LOCATION:5-122
+DTSTART:20231107T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:6c36a040-8432-428c-873c-a51f025ffd84@6c36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230915T091500Z
+LOCATION:3-351
+DTSTART:20230915T074500Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:dc42cc2b-7df3-48d8-97cc-54b3e3d7b790@dc42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231102T113000Z
+LOCATION:3-451
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:37c6c344-1c8c-4416-98e8-db4bd903125e@37c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20231002T091500Z
+LOCATION:3-305
+DTSTART:20231002T074500Z
+SUMMARY:ПЗ Технология производства электрооборудования ЛА
+UID:7c6eb31e-e9fd-446d-b781-79404d8303bf@7c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231127T113000Z
+LOCATION:3-351
+DTSTART:20231127T100000Z
+SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
+UID:23cd4954-ce21-4979-b72d-2916528a202f@23cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230905T091500Z
+LOCATION:3-351
+DTSTART:20230905T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:eaff5ad1-9274-4300-96be-d4dff7588a07@eaff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231218T131500Z
+LOCATION:5-401
+DTSTART:20231218T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:ce776b5a-7204-43c2-ad28-58d3a482f240@ce77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231117T113000Z
+LOCATION:3-351
+DTSTART:20231117T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:5e0da86c-16b8-4340-a40e-409f97a02854@5e0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231123T164500Z
+LOCATION:3-365
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:0104929b-8d31-474d-9452-d0159a1df7bb@0104.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231128T073000Z
+LOCATION:3-351
+DTSTART:20231128T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:b18e9676-34c1-4813-b08f-ce7f4f05e1ce@b18e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231106T131500Z
+LOCATION:5-401
+DTSTART:20231106T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:95c5a56d-355f-43bb-b504-0ebece36dc13@95c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231028T091500Z
+LOCATION:3-451
+DTSTART:20231028T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:896d1e61-248b-4769-9239-57b612efacd8@896d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231228T131500Z
+LOCATION:3-365
+DTSTART:20231228T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:bb40031a-0e3d-45cd-b516-0211b7fa228e@bb40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231014T131500Z
+LOCATION:3-365
+DTSTART:20231014T114500Z
+SUMMARY:ЛР Нерегулируемые электроприводы ЛА
+UID:3d3109a8-0c0e-48dc-973c-52eff5bbe2d5@3d31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230907T113000Z
+LOCATION:3-451
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:4cbde57a-8f3c-42df-a72c-207b097241d7@4cbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231009T091500Z
+LOCATION:3-351
+DTSTART:20231009T074500Z
+SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
+UID:23b410ad-4f90-43d9-9536-a181eba77dcc@23b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231211T113000Z
+LOCATION:3-351
+DTSTART:20231211T100000Z
+SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
+UID:5e88d69e-6812-47d4-aa9d-2841aaf6568f@5e88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231227T091500Z
+LOCATION:3-451
+DTSTART:20231227T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:40eabe97-9d66-4fd8-91d2-80ca95004c1f@40ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231117T131500Z
+LOCATION:3-355
+DTSTART:20231117T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:6f13f983-ab89-4bcc-adae-b28ad4d01da1@6f13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231204T131500Z
+LOCATION:5-401
+DTSTART:20231204T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:7be9aac0-55c9-480e-9f0d-8bed7ff6d8d4@7be9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230925T073000Z
+LOCATION:3-351
+DTSTART:20230925T060000Z
+SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
+UID:d93abfb0-aacf-486c-a692-061ec13f32a4@d93a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230902T073000Z
+LOCATION:3-451
+DTSTART:20230902T060000Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:4c2c7930-6fa8-4ed4-b967-41b7b9e04808@4c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231013T073000Z
+LOCATION:3-351
+DTSTART:20231013T060000Z
+SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
+UID:6b290f02-22f8-4331-bcfd-e36afe1fa1bf@6b29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231116T131500Z
+LOCATION:3-365
+DTSTART:20231116T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:85e1c20d-0de9-4efe-8adb-92fa82af8625@85e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231226T073000Z
+LOCATION:3-351
+DTSTART:20231226T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:d9e75da1-1fc2-430f-b08e-dc487314b7ff@d9e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231017T073000Z
+LOCATION:3-351
+DTSTART:20231017T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:f11b74cb-6a46-4b50-8442-d767ae9725a3@f11b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231111T113000Z
+LOCATION:3-365
+DTSTART:20231111T100000Z
+SUMMARY:ЛР Нерегулируемые электроприводы ЛА
+UID:977e4bb0-ef61-4622-97b5-2a003d9eab11@977e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231221T131500Z
+LOCATION:3-365
+DTSTART:20231221T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:663a9da3-381a-4f27-8792-261304a7d128@663a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231215T131500Z
+LOCATION:3-355
+DTSTART:20231215T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:842abca7-674c-4a78-afb8-5d20e2147bc4@842a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20231211T091500Z
+LOCATION:3-305
+DTSTART:20231211T074500Z
+SUMMARY:ПЗ Технология производства электрооборудования ЛА
+UID:f0e50b27-797f-4b74-b730-0591b20891da@f0e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231019T150000Z
+LOCATION:3-365
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:3f19d9e4-7bc2-4ef5-8a7c-c13332f05559@3f19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231031T131500Z
+LOCATION:3-351
+DTSTART:20231031T114500Z
+SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
+UID:d5a1d8a9-c661-4255-bfbd-690750826317@d5a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230923T073000Z
+LOCATION:3-451
+DTSTART:20230923T060000Z
+SUMMARY:ЛР Системы электрооборудования ЛА
+UID:3a9dd8c3-a7f6-4bdc-ba58-f1d29d0f4dd1@3a9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230907T164500Z
+LOCATION:3-365
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:4656a800-b628-410a-a227-770fc014f25e@4656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231007T073000Z
+LOCATION:3-451
+DTSTART:20231007T060000Z
+SUMMARY:ЛР Системы электрооборудования ЛА
+UID:a961b174-f129-489d-ab24-7fbe0f623dc7@a961.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231213T091500Z
+LOCATION:3-451
+DTSTART:20231213T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:10daaef2-ead5-4c63-885a-807d5e1a0559@10da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ванцов Сергей Васильевич
+DTEND:20231023T113000Z
+LOCATION:3-307
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Технология производства электрооборудования ЛА
+UID:596dabba-6112-459f-a3da-e75fecf7b7ac@596d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231222T073000Z
+LOCATION:3-351
+DTSTART:20231222T060000Z
+SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
+UID:e4fae488-261f-426a-96ef-501d941deee1@e4fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231012T150000Z
+LOCATION:3-365
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:e7d2e1fa-feca-4bc3-b9bf-79e4a48ca72f@e7d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231020T073000Z
+LOCATION:3-351
+DTSTART:20231020T060000Z
+SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
+UID:d3c26a57-112d-48f7-a923-7d60361c46aa@d3c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231109T131500Z
+LOCATION:3-365
+DTSTART:20231109T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:eb290368-2759-46a4-afd6-6e7fed33dc74@eb29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231012T164500Z
+LOCATION:3-365
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:ec86a529-fe5c-40fb-a281-c409e203bf6b@ec86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230905T073000Z
+LOCATION:3-351
+DTSTART:20230905T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:5ba6ca0a-869a-49c1-bb39-edebc31d2e5d@5ba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231021T091500Z
+LOCATION:3-451
+DTSTART:20231021T074500Z
+SUMMARY:ЛР Системы электрооборудования ЛА
+UID:999384f6-a2db-4d1e-b54c-a42123d048d0@9993.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230930T091500Z
+LOCATION:3-451
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:ad9dcb4e-8120-4ac5-a4a6-1d4ee901b1db@ad9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231215T113000Z
+LOCATION:3-351
+DTSTART:20231215T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:bf61fa60-488a-479a-8497-59d0c988d403@bf61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231121T091500Z
+LOCATION:3-351
+DTSTART:20231121T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:148b253f-5807-462c-aa1a-cd617f8c4633@148b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231212T073000Z
+LOCATION:3-351
+DTSTART:20231212T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:7d966179-0823-4252-a9b1-ee8fd2f6b14f@7d96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231129T091500Z
+LOCATION:3-451
+DTSTART:20231129T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:38de855a-5119-427b-af03-c53214bbbe53@38de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230921T164500Z
+LOCATION:3-365
+DTSTART:20230921T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:46e482e1-a8ad-4145-a710-e968cb3eaa49@46e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231021T073000Z
+LOCATION:3-451
+DTSTART:20231021T060000Z
+SUMMARY:ЛР Системы электрооборудования ЛА
+UID:a019dc58-27ca-4995-97d7-86a7349ef449@a019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231213T131500Z
+LOCATION:3-351
+DTSTART:20231213T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:dbe8caed-6f8f-43b4-bc20-99692683b538@dbe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231010T091500Z
+LOCATION:3-351
+DTSTART:20231010T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:3350565d-b1d0-4fe0-98e6-b3f09dad4e6f@3350.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231030T131500Z
+LOCATION:5-401
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:8c9c3dc0-e470-43d5-a5d3-cc3a5d73eb4c@8c9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231115T131500Z
+LOCATION:3-351
+DTSTART:20231115T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:eb01be52-021a-4ce1-bb4e-feecd2ddb518@eb01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231116T164500Z
+LOCATION:3-365
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:7706267b-ef65-4d63-baa4-712cb7159a51@7706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231020T091500Z
+LOCATION:3-351
+DTSTART:20231020T074500Z
+SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
+UID:43e65d06-4c0d-4d53-b9bb-d9b443493e41@43e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230906T091500Z
+LOCATION:3-451
+DTSTART:20230906T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:213207ae-c79a-437a-9baf-c433f4924960@2132.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230914T131500Z
+LOCATION:3-365
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:34d9f4e0-dc52-48f6-af26-b75437acfd9a@34d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231004T131500Z
+LOCATION:3-351
+DTSTART:20231004T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:dd5d1149-7bd2-4309-adbf-d60f5006b96e@dd5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230912T073000Z
+LOCATION:3-351
+DTSTART:20230912T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:8c2e16c8-c344-4572-ac48-c1e9547734da@8c2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230920T113000Z
+LOCATION:3-451
+DTSTART:20230920T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:4337b2b6-fabd-42d4-932f-56812f35818b@4337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231002T113000Z
+LOCATION:3-351
+DTSTART:20231002T100000Z
+SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
+UID:83d794a2-48bc-4052-b45b-6d4c52070697@83d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231014T073000Z
+LOCATION:3-451
+DTSTART:20231014T060000Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:7dec6cdb-3546-43c0-a7c5-ea109677de22@7dec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20231127T091500Z
+LOCATION:3-305
+DTSTART:20231127T074500Z
+SUMMARY:ПЗ Технология производства электрооборудования ЛА
+UID:d6258184-31a1-49de-9fcd-df2e1c1fdda8@d625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231024T091500Z
+LOCATION:3-351
+DTSTART:20231024T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:ba63cd17-bb7a-4fa3-90f1-4d9bcfa6b995@ba63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231003T113000Z
+LOCATION:3-351
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Основы инженерного искусства
+UID:2f5ad2ee-61b1-44a8-9b16-b4128f24c8ba@2f5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230906T131500Z
+LOCATION:3-351
+DTSTART:20230906T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:2a22633c-935c-4a39-ac43-252f7494807d@2a22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231110T073000Z
+LOCATION:3-351
+DTSTART:20231110T060000Z
+SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
+UID:1e03f521-efcb-4e59-99b2-3a1fad4064c5@1e03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231222T113000Z
+LOCATION:3-351
+DTSTART:20231222T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:7f4a2b70-fff8-42c7-a876-dbd848d3a51d@7f4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230925T091500Z
+LOCATION:3-351
+DTSTART:20230925T074500Z
+SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
+UID:098436d2-baee-45e1-bdeb-a7e6a70b6854@0984.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230905T113000Z
+LOCATION:3-351
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Основы инженерного искусства
+UID:35917934-1599-42be-90b9-fc363321327a@3591.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Исаев Владимир Владимирович
+DTEND:20231121T113000Z
+LOCATION:3-311
+DTSTART:20231121T100000Z
+SUMMARY:ЛР Технология производства электрооборудования ЛА
+UID:2a9cf1d6-d9b5-4ba0-ada2-04fcd9397d58@2a9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231120T091500Z
+LOCATION:3-351
+DTSTART:20231120T074500Z
+SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
+UID:d2c3526c-80ae-4b45-8e85-d41b31b2ca0e@d2c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230919T113000Z
+LOCATION:3-351
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Основы инженерного искусства
+UID:2f9be89a-8835-4d78-960d-d3a284a37187@2f9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20231010T113000Z
+LOCATION:5-122
+DTSTART:20231010T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:83933634-fddf-4174-80d9-33b21df1d723@8393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231227T131500Z
+LOCATION:3-351
+DTSTART:20231227T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:67e5ec8d-7bf6-4d49-b62f-b82592c9a9b4@67e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231018T131500Z
+LOCATION:3-351
+DTSTART:20231018T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:cafccbaa-2baf-4b1f-afd8-5e7297ed8497@cafc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20231024T131500Z
+LOCATION:5-122
+DTSTART:20231024T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:0bcee886-d376-443e-9c50-2fe445044933@0bce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231222T091500Z
+LOCATION:3-351
+DTSTART:20231222T074500Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:1420a838-0703-4313-a89f-543a398f0209@1420.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20230912T131500Z
+LOCATION:5-122
+DTSTART:20230912T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:a0885bf8-0421-482f-94af-7d6dc44fdfb6@a088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231212T091500Z
+LOCATION:3-351
+DTSTART:20231212T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:8d6faab1-5b10-456e-bd13-679446f91179@8d6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230920T131500Z
+LOCATION:3-351
+DTSTART:20230920T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:0689c80e-10c2-463b-952f-672a1016a47e@0689.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231018T091500Z
+LOCATION:3-451
+DTSTART:20231018T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:ed8dafd2-33fc-4898-af90-145142f70bab@ed8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231011T131500Z
+LOCATION:3-351
+DTSTART:20231011T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:43d8d31d-c1ae-4704-860c-14cdb3e73149@43d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231226T131500Z
+LOCATION:3-351
+DTSTART:20231226T114500Z
+SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
+UID:b77edc43-e32a-4901-8613-fcfa74b5076c@b77e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231115T091500Z
+LOCATION:3-451
+DTSTART:20231115T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:2ddc68f5-af23-4a41-a9db-cd74eb78eb78@2ddc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231130T150000Z
+LOCATION:3-365
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:83709ffa-c0b2-47b7-9de6-062f419ff5f3@8370.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231101T113000Z
+LOCATION:3-451
+DTSTART:20231101T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:39430ac1-e7dd-44f4-86e9-4bd054e71c8b@3943.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230921T150000Z
+LOCATION:3-365
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:c5a8f2f5-c0e6-44df-818c-92362b7201c5@c5a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231106T091500Z
+LOCATION:3-351
+DTSTART:20231106T074500Z
+SUMMARY:ЛР Основы конструирования устройств СЭС ЛА
+UID:bf166ded-01fa-4cb0-b4a0-f3c1e5e250df@bf16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231109T164500Z
+LOCATION:3-365
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:9d447b27-0564-4b9b-853b-8ea107e52198@9d44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231209T073000Z
+LOCATION:3-451
+DTSTART:20231209T060000Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:74725ea3-667a-42da-83e5-92f772f3c3eb@7472.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231124T131500Z
+LOCATION:3-355
+DTSTART:20231124T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:df102dd8-6717-4886-ad10-3d7885e9426f@df10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ванцов Сергей Васильевич
+DTEND:20230911T113000Z
+LOCATION:3-307
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Технология производства электрооборудования ЛА
+UID:d05ea8a9-7c17-40ba-9d76-e22dbdb6b1fa@d05e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231013T113000Z
+LOCATION:3-351
+DTSTART:20231013T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:9c201457-758a-4a35-9888-924fe54bc8ee@9c20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231014T091500Z
+LOCATION:3-451
+DTSTART:20231014T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:b99a6fd6-032a-47dd-a9ef-4b0ac44f4dfd@b99a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231206T113000Z
+LOCATION:3-451
+DTSTART:20231206T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:2e835fad-c692-47e4-907e-44072720a8ef@2e83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231110T091500Z
+LOCATION:3-351
+DTSTART:20231110T074500Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:f6c72a8f-48c1-47c5-be72-3803f2e65c73@f6c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231026T150000Z
+LOCATION:3-365
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:a78933c1-16b4-43bf-8800-15eb7e5bfec3@a789.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230929T113000Z
+LOCATION:3-351
+DTSTART:20230929T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:03ddfda9-5156-48ca-8405-acc11368a15a@03dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231206T091500Z
+LOCATION:3-451
+DTSTART:20231206T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:3b013120-bef1-43ca-b946-5b962b1c729e@3b01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230918T131500Z
+LOCATION:5-401
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:599b0b6b-2378-4d34-8c25-fafd6811b345@599b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230908T113000Z
+LOCATION:3-351
+DTSTART:20230908T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:6cc0bd2b-de13-4ff4-ad2b-d799b0c3701d@6cc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231114T113000Z
+LOCATION:3-351
+DTSTART:20231114T100000Z
+SUMMARY:ПЗ Основы инженерного искусства
+UID:fc70f18e-b553-40d5-8869-6857560e584a@fc70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231031T073000Z
+LOCATION:3-351
+DTSTART:20231031T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:ddf09e35-1e0f-4f8e-ae3b-5c40dcb8d6dd@ddf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231025T091500Z
+LOCATION:3-451
+DTSTART:20231025T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:70e298d2-8678-4944-b5a1-fc46bb845210@70e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ванцов Сергей Васильевич
+DTEND:20231106T113000Z
+LOCATION:3-307
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Технология производства электрооборудования ЛА
+UID:65e09a60-3377-4a8c-adc0-ecc729b0fa29@65e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231113T113000Z
+LOCATION:3-351
+DTSTART:20231113T100000Z
+SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
+UID:8d0805af-0f4e-4aa3-b5a1-cf8adc9b7d40@8d08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230922T131500Z
+LOCATION:3-355
+DTSTART:20230922T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:e340d53b-e993-47ad-bded-71612b82b87e@e340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230914T150000Z
+LOCATION:3-365
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:6e25cda4-b5fc-44f9-b565-9631d2a4447f@6e25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231027T131500Z
+LOCATION:3-355
+DTSTART:20231027T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:69621714-d3b6-4e94-a48a-b2613c236754@6962.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230922T091500Z
+LOCATION:3-351
+DTSTART:20230922T074500Z
+SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
+UID:08627649-76be-4416-a26d-ce0bc6828e93@0862.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230925T131500Z
+LOCATION:5-401
+DTSTART:20230925T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:ff4cd8b9-dd28-43c1-9c3c-c67d0e5c02df@ff4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231017T131500Z
+LOCATION:3-351
+DTSTART:20231017T114500Z
+SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
+UID:7cf33f9d-139b-485a-ad46-6546ca95c6cf@7cf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231207T131500Z
+LOCATION:3-365
+DTSTART:20231207T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:69be34e7-be86-4824-8b23-e31dc28dfc64@69be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231004T113000Z
+LOCATION:3-451
+DTSTART:20231004T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:a79610d9-01ce-4242-aecd-93bac050b043@a796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231124T073000Z
+LOCATION:3-351
+DTSTART:20231124T060000Z
+SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
+UID:6472cf1e-3b98-4502-b432-1d80b3d76ca8@6472.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231006T113000Z
+LOCATION:3-351
+DTSTART:20231006T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:f53ffde6-a1d1-47e1-95a5-14ef1f74e514@f53f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231012T113000Z
+LOCATION:3-451
+DTSTART:20231012T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:d111c28a-7428-47ce-8f84-9980c674c938@d111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231006T131500Z
+LOCATION:3-355
+DTSTART:20231006T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:5029e844-3694-47d5-917c-507d6cd86e07@5029.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230922T113000Z
+LOCATION:3-351
+DTSTART:20230922T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:3560cebd-2717-4645-8f2f-1e5dfb330c5d@3560.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231125T091500Z
+LOCATION:3-451
+DTSTART:20231125T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:4e1527e2-6250-442a-aa3b-d2a54d054fbd@4e15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231209T091500Z
+LOCATION:3-451
+DTSTART:20231209T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:d8824fd9-2e39-4967-995d-e1bcf7b82b04@d882.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231226T113000Z
+LOCATION:3-351
+DTSTART:20231226T100000Z
+SUMMARY:ПЗ Основы инженерного искусства
+UID:3710d587-20a9-4072-9f74-daa181118b88@3710.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231222T131500Z
+LOCATION:3-355
+DTSTART:20231222T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:337b9312-d7e5-418c-824d-c21439f52ae7@337b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20231010T131500Z
+LOCATION:5-122
+DTSTART:20231010T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:7c5f3b26-4ac5-4e40-a8b2-0a01c3f7512b@7c5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230912T091500Z
+LOCATION:3-351
+DTSTART:20230912T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:348efb94-23e9-4f5d-90fa-871209cbb92a@348e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230928T131500Z
+LOCATION:3-365
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:4f80e52c-ae99-4d31-bd58-4703561f028a@4f80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231111T091500Z
+LOCATION:3-451
+DTSTART:20231111T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:4fa94caa-1fb9-4079-9e8f-d5d18d6343d2@4fa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231117T091500Z
+LOCATION:3-351
+DTSTART:20231117T074500Z
+SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
+UID:5f0208a9-0401-403e-bfb1-9da8d4661259@5f02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231012T131500Z
+LOCATION:3-365
+DTSTART:20231012T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:0276f2e1-543e-4f31-b0af-2ea814937ac5@0276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ванцов Сергей Васильевич
+DTEND:20231009T113000Z
+LOCATION:3-307
+DTSTART:20231009T100000Z
+SUMMARY:ЛК Технология производства электрооборудования ЛА
+UID:6d84d668-bb82-4693-b1e5-5704a696c304@6d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231107T091500Z
+LOCATION:3-351
+DTSTART:20231107T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:c77f70f7-bc90-4c66-b90a-ebf4571d3060@c77f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231201T113000Z
+LOCATION:3-351
+DTSTART:20231201T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:1acbeba4-bdcb-4602-86a4-a4e61018e9ec@1acb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231027T091500Z
+LOCATION:3-351
+DTSTART:20231027T074500Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:4b4f85d7-ba05-460d-a870-69e5bd4a3475@4b4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231026T113000Z
+LOCATION:3-451
+DTSTART:20231026T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:831c719f-5ad7-4262-a7f2-816233f7fe48@831c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20230928T164500Z
+LOCATION:3-365
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:73ef1bbe-78d8-4913-9076-7044e41f0f9e@73ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230916T091500Z
+LOCATION:3-451
+DTSTART:20230916T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:708af5cb-5992-47c1-bde4-60d323150c50@708a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231003T131500Z
+LOCATION:3-351
+DTSTART:20231003T114500Z
+SUMMARY:ПЗ Устройства управления преобразователями электроэнергии
+UID:2bd4c482-efaf-438d-b833-b2bb0bfd4cb2@2bd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231031T113000Z
+LOCATION:3-351
+DTSTART:20231031T100000Z
+SUMMARY:ПЗ Основы инженерного искусства
+UID:95a6c4b4-58b1-494d-8cd9-4d5559bd8155@95a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20231016T091500Z
+LOCATION:3-305
+DTSTART:20231016T074500Z
+SUMMARY:ПЗ Технология производства электрооборудования ЛА
+UID:aed20fca-6317-4e7e-9b0c-bef7ac08a95e@aed2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230915T113000Z
+LOCATION:3-351
+DTSTART:20230915T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:1d2ddf57-c58c-46b3-ba34-33472d9ceb76@1d2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230926T091500Z
+LOCATION:3-351
+DTSTART:20230926T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:a052158d-b7d2-4f08-aeaf-e5b1763f5fd3@a052.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231026T164500Z
+LOCATION:3-365
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:b324719d-ac3a-4785-92c6-368e429a20ac@b324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230915T073000Z
+LOCATION:3-351
+DTSTART:20230915T060000Z
+SUMMARY:ПЗ Микроэлектронные электросистемы бортового электрооборудования
+UID:17120f01-82f9-437b-9269-7af3ba293ee6@1712.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230911T131500Z
+LOCATION:5-401
+DTSTART:20230911T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:4ccc40f6-ae9b-48e7-a1a3-efebcffccaba@4ccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231102T131500Z
+LOCATION:3-365
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:6c67ae04-cb4d-4170-b773-2f2d81d19380@6c67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231013T091500Z
+LOCATION:3-351
+DTSTART:20231013T074500Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:4a6f5779-40bb-412e-b471-66a24dd7e101@4a6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231221T150000Z
+LOCATION:3-365
+DTSTART:20231221T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:a023e335-bada-446a-bc22-f5a924e29767@a023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231116T150000Z
+LOCATION:3-365
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:d9b43d38-38c4-40fb-b1be-ac0ad2043e1e@d9b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231103T091500Z
+LOCATION:3-351
+DTSTART:20231103T074500Z
+SUMMARY:ЛР Микропроцессорное управление устройствами силовой электроники
+UID:3f1fcc48-1a92-48d3-9ff6-077b6ccdddc1@3f1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231220T091500Z
+LOCATION:3-451
+DTSTART:20231220T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:031fbe6b-da6b-4f7b-9477-fc910c97cd5d@031f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230930T073000Z
+LOCATION:3-451
+DTSTART:20230930T060000Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:a085b945-55c0-429e-aab1-82ffd057d764@a085.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ванцов Сергей Васильевич
+DTEND:20230925T113000Z
+LOCATION:3-307
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Технология производства электрооборудования ЛА
+UID:90b262da-8ad3-46be-909a-48c1abdc81a1@90b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231108T091500Z
+LOCATION:3-451
+DTSTART:20231108T074500Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:5ace4439-8631-47ca-b95b-6bfc6aea75fb@5ace.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231129T113000Z
+LOCATION:3-451
+DTSTART:20231129T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:38285de4-03ef-4743-a10f-65b90d78c867@3828.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231207T150000Z
+LOCATION:3-365
+DTSTART:20231207T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:d3115302-e377-4cd6-baca-3d723b0abec8@d311.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231102T164500Z
+LOCATION:3-365
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:288603d5-f43d-40a9-b5b7-b3a23c75f0fc@2886.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231014T113000Z
+LOCATION:3-365
+DTSTART:20231014T100000Z
+SUMMARY:ЛР Нерегулируемые электроприводы ЛА
+UID:6c54288c-3cac-401f-b624-9d0e19ad45d8@6c54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231214T131500Z
+LOCATION:3-365
+DTSTART:20231214T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:f1a82d21-5a98-40a5-a758-e4468c3536e1@f1a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231013T131500Z
+LOCATION:3-355
+DTSTART:20231013T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:e15566a9-8f24-403e-8a02-14d092038bc9@e155.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230916T073000Z
+LOCATION:3-451
+DTSTART:20230916T060000Z
+SUMMARY:ЛК Системы электрооборудования ЛА
+UID:dacefef5-211d-4693-8f0e-77a7b11cc02c@dace.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230927T131500Z
+LOCATION:3-351
+DTSTART:20230927T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:3f210054-fd7c-4e86-8b8e-13254521989a@3f21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20230913T113000Z
+LOCATION:3-451
+DTSTART:20230913T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:f846be67-9f9a-4497-a8ec-625f076e3afa@f846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20230901T113000Z
+LOCATION:3-351
+DTSTART:20230901T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:24877bac-474c-4547-8871-c002f4019eef@2487.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231019T131500Z
+LOCATION:3-365
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:8038f8a2-2bde-4b9c-a78d-2f06e65acbe2@8038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231115T113000Z
+LOCATION:3-451
+DTSTART:20231115T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:6b787145-34e6-48a3-b8b1-3725e0a63623@6b78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231130T164500Z
+LOCATION:3-365
+DTSTART:20231130T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:64586aff-67b4-491e-a981-fae88dcb96c1@6458.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231017T113000Z
+LOCATION:3-351
+DTSTART:20231017T100000Z
+SUMMARY:ПЗ Основы инженерного искусства
+UID:55f86d40-3362-4777-b414-e63621d59388@55f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231026T131500Z
+LOCATION:3-365
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:98dd71cf-a4da-4d59-bc9b-b4e7db5aace0@98dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231201T131500Z
+LOCATION:3-355
+DTSTART:20231201T114500Z
+SUMMARY:ЛК Устройства управления преобразователями электроэнергии
+UID:0e324b83-b31d-4312-a14d-3596f1fc708c@0e32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231120T131500Z
+LOCATION:5-401
+DTSTART:20231120T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:15990401-f642-4f00-a60b-0fb49815e988@1599.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Машуков Евгений Владимирович
+DTEND:20231011T113000Z
+LOCATION:3-451
+DTSTART:20231011T100000Z
+SUMMARY:ПЗ Системы электрооборудования ЛА
+UID:95f874b7-7b99-4001-a30c-7dcf5730c443@95f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231123T131500Z
+LOCATION:3-365
+DTSTART:20231123T114500Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:525b6b62-77da-44b8-8013-b714692fe5e0@525b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231122T131500Z
+LOCATION:3-351
+DTSTART:20231122T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:2982508b-0252-4366-860b-3a205dc413d6@2982.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20230926T113000Z
+LOCATION:5-122
+DTSTART:20230926T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:ad66994c-ca13-46bb-8386-8a8eb479ef08@ad66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231016T131500Z
+LOCATION:5-401
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:44b80366-b1d4-4f5e-ba4c-08756d966b86@44b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20231113T091500Z
+LOCATION:3-305
+DTSTART:20231113T074500Z
+SUMMARY:ПЗ Технология производства электрооборудования ЛА
+UID:083661d3-2e16-4cb8-a0f0-d61d349f4e79@0836.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20230919T091500Z
+LOCATION:3-351
+DTSTART:20230919T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:74f3c2ae-9dd1-46da-b5eb-c30dcccba998@74f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231031T091500Z
+LOCATION:3-351
+DTSTART:20231031T074500Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:df64a58a-2234-45ed-830a-691662b87220@df64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231016T113000Z
+LOCATION:3-351
+DTSTART:20231016T100000Z
+SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
+UID:b866b813-b01a-446d-947c-c6072c61f637@b866.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231214T164500Z
+LOCATION:3-365
+DTSTART:20231214T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:7a1e5d97-d023-4d7a-8ab4-1c53876e5fe6@7a1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231109T113000Z
+LOCATION:3-451
+DTSTART:20231109T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:f8edf3d3-77a6-4ee1-9ba6-db346c224196@f8ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20230918T091500Z
+LOCATION:3-305
+DTSTART:20230918T074500Z
+SUMMARY:ПЗ Технология производства электрооборудования ЛА
+UID:fae8e118-5d79-45a9-87be-2bea3586294d@fae8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231030T113000Z
+LOCATION:3-351
+DTSTART:20231030T100000Z
+SUMMARY:ПЗ Основы конструирования устройств СЭС ЛА
+UID:249c70fb-ac27-4697-9023-1f5922cb4299@249c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231108T131500Z
+LOCATION:3-351
+DTSTART:20231108T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:ef3eb241-d1dc-4117-9524-e961b866e9c2@ef3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231102T150000Z
+LOCATION:3-365
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Нерегулируемые электроприводы ЛА
+UID:63a81814-6bbd-4d06-88af-96a8a6d5b22f@63a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20230913T131500Z
+LOCATION:3-351
+DTSTART:20230913T114500Z
+SUMMARY:ЛК Микроэлектронные электросистемы бортового электрооборудования
+UID:4e8fbfd2-426b-4654-b88e-89fa1fa413ba@4e8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231028T113000Z
+LOCATION:3-365
+DTSTART:20231028T100000Z
+SUMMARY:ЛР Нерегулируемые электроприводы ЛА
+UID:4e5f100d-1458-4e26-a9f4-281830af7ab8@4e5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Данилина Анастасия Николаевна
+DTEND:20231221T113000Z
+LOCATION:3-451
+DTSTART:20231221T100000Z
+SUMMARY:ЛК Микропроцессорное управление устройствами силовой электроники
+UID:7198def5-e4ae-4ef4-a496-133544e7a6ef@7198.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Анисимова Татьяна Викторовна
+DTEND:20231110T113000Z
+LOCATION:3-351
+DTSTART:20231110T100000Z
+SUMMARY:ЛК Основы конструирования устройств СЭС ЛА
+UID:ba6c47f0-b687-4dcb-831b-81a5b852c31e@ba6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Крючков Василий Васильевич
+DTEND:20231010T073000Z
+LOCATION:3-351
+DTSTART:20231010T060000Z
+SUMMARY:ЛР Основы инженерного искусства
+UID:92db3c0e-1345-4907-8a95-af1668f0e963@92db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Серпичева Елена Викторовна
+DTEND:20231207T164500Z
+LOCATION:3-365
+DTSTART:20231207T151500Z
+SUMMARY:ПЗ Нерегулируемые электроприводы ЛА
+UID:1533d17c-8808-4479-b716-046e4d3904a5@1533.org
 END:VEVENT
 END:VCALENDAR

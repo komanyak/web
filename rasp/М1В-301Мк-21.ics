@@ -2,268 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20231007T091500Z
-LOCATION:7-405
-DTSTART:20231007T074500Z
-SUMMARY:ПЗ Перспективное планирование качества продукции
-UID:a9293cfa-992f-4481-8ec4-8233d8bfe34d@a929.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20230916T091500Z
-LOCATION:7-405
-DTSTART:20230916T074500Z
-SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
-UID:c98624cf-eac3-4e64-8622-6ad36e12ca89@c986.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20231202T113000Z
-LOCATION:7-405
-DTSTART:20231202T100000Z
-SUMMARY:ПЗ Средства и методы управления качеством
-UID:ed0bce51-661f-419b-baf0-869734f5d78e@ed0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20231111T113000Z
-LOCATION:7-405
-DTSTART:20231111T100000Z
-SUMMARY:ПЗ Средства и методы управления качеством
-UID:1f0737fd-b53b-4e0a-bfaf-4f04f22ab857@1f07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20231007T073000Z
-LOCATION:7-405
-DTSTART:20231007T060000Z
-SUMMARY:ПЗ Перспективное планирование качества продукции
-UID:ea75f6e1-80c9-4714-9535-d44418535e8d@ea75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20230923T091500Z
-LOCATION:7-405
-DTSTART:20230923T074500Z
-SUMMARY:ЛК Перспективное планирование качества продукции
-UID:1c3df95a-dd13-44c0-9454-704454113eaf@1c3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20231014T073000Z
-LOCATION:7-405
-DTSTART:20231014T060000Z
-SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
-UID:b9ca5e64-812d-4b69-a048-324a7ee48307@b9ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20231028T073000Z
-LOCATION:7-405
-DTSTART:20231028T060000Z
-SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
-UID:815d5ae9-e765-4087-96f7-a0341ae0155e@815d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20231111T091500Z
-LOCATION:7-405
-DTSTART:20231111T074500Z
-SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
-UID:89561a7a-e1f2-421e-9c69-5f09d429c5d8@8956.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20230930T113000Z
-LOCATION:7-405
-DTSTART:20230930T100000Z
-SUMMARY:ЛК Средства и методы управления качеством
-UID:8168951a-defc-4709-9bab-ea691874f186@8168.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20230902T091500Z
-LOCATION:7-405
-DTSTART:20230902T074500Z
-SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
-UID:8401215d-ef97-43bb-b0a1-bcc2097b47aa@8401.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20231202T091500Z
-LOCATION:7-405
-DTSTART:20231202T074500Z
-SUMMARY:ЛР Перспективное планирование качества продукции
-UID:ad4327de-7b5e-47e0-abfe-36d62302866c@ad43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20231007T113000Z
-LOCATION:7-405
-DTSTART:20231007T100000Z
-SUMMARY:ЛК Средства и методы управления качеством
-UID:f062c582-4753-4667-b1c3-c0bc7eaec2ec@f062.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20230930T091500Z
-LOCATION:7-405
-DTSTART:20230930T074500Z
-SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
-UID:0108b5c6-7600-4d28-92d3-2143173ab2d6@0108.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20230923T113000Z
-LOCATION:7-405
-DTSTART:20230923T100000Z
-SUMMARY:ЛК Средства и методы управления качеством
-UID:385ecdea-1de0-4f02-a92d-78e434228df5@385e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20231209T113000Z
-LOCATION:7-405
-DTSTART:20231209T100000Z
-SUMMARY:ПЗ Средства и методы управления качеством
-UID:1590e22f-5e21-452a-b471-6dd804c59d2d@1590.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20231118T113000Z
-LOCATION:7-405
-DTSTART:20231118T100000Z
-SUMMARY:ПЗ Средства и методы управления качеством
-UID:e991081a-4e2c-453c-881b-d4aa6a19bae1@e991.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Денискин Юрий Иванович
 DTEND:20230916T073000Z
 LOCATION:7-405
 DTSTART:20230916T060000Z
 SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
-UID:789ac4c4-3e37-4108-9302-fb7d1c7fb093@789a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20231118T091500Z
-LOCATION:7-405
-DTSTART:20231118T074500Z
-SUMMARY:ПЗ Перспективное планирование качества продукции
-UID:f0a480e5-da98-4138-bf91-63ee87f373da@f0a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20231216T091500Z
-LOCATION:7-405
-DTSTART:20231216T074500Z
-SUMMARY:ЛР Перспективное планирование качества продукции
-UID:4a32456a-854d-4481-a847-c8e95002fbe1@4a32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20231223T113000Z
-LOCATION:7-405
-DTSTART:20231223T100000Z
-SUMMARY:ПЗ Перспективное планирование качества продукции
-UID:ed76d97b-943a-4042-9303-921840d2bdad@ed76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20231209T073000Z
-LOCATION:7-405
-DTSTART:20231209T060000Z
-SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
-UID:c1bdc7e4-162f-48d9-ae1a-242adfffa167@c1bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20231118T073000Z
-LOCATION:7-405
-DTSTART:20231118T060000Z
-SUMMARY:ПЗ Перспективное планирование качества продукции
-UID:6cc6f536-0fe3-46c2-989a-06c4deffd64e@6cc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20230909T091500Z
-LOCATION:7-405
-DTSTART:20230909T074500Z
-SUMMARY:ЛК Перспективное планирование качества продукции
-UID:b9dd3184-01b8-49fd-9d97-8986b61deb89@b9dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20231028T113000Z
-LOCATION:7-405
-DTSTART:20231028T100000Z
-SUMMARY:ПЗ Средства и методы управления качеством
-UID:3e043208-8de8-436b-8943-2efef7113024@3e04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20231209T091500Z
-LOCATION:7-405
-DTSTART:20231209T074500Z
-SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
-UID:649b7ee0-2d19-4819-850c-0a891ae8a0ac@649b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20230902T073000Z
-LOCATION:7-405
-DTSTART:20230902T060000Z
-SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
-UID:a36045ad-3e24-496f-9573-784eb00ac325@a360.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20231125T113000Z
-LOCATION:7-405
-DTSTART:20231125T100000Z
-SUMMARY:ПЗ Средства и методы управления качеством
-UID:6d15c7b1-fa02-4eaf-8350-05a3b671e617@6d15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20230916T113000Z
-LOCATION:7-405
-DTSTART:20230916T100000Z
-SUMMARY:ЛК Средства и методы управления качеством
-UID:48ecb8bc-ccd2-4494-ac03-49cfd1a00a17@48ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20231125T073000Z
-LOCATION:7-405
-DTSTART:20231125T060000Z
-SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
-UID:370e7d29-7005-47ce-9ad0-8688f8dd05e0@370e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20231021T113000Z
-LOCATION:7-405
-DTSTART:20231021T100000Z
-SUMMARY:ПЗ Средства и методы управления качеством
-UID:a2724f00-7283-4826-b4ee-641fba78125e@a272.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20231202T073000Z
-LOCATION:7-405
-DTSTART:20231202T060000Z
-SUMMARY:ЛР Перспективное планирование качества продукции
-UID:89855742-42a3-41e7-8a71-5e2e97198083@8985.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20230902T113000Z
-LOCATION:7-405
-DTSTART:20230902T100000Z
-SUMMARY:ЛК Средства и методы управления качеством
-UID:ac5d565c-32ea-440b-bbb2-7aaf39ad6627@ac5d.org
+UID:1bab03c6-d9d7-4023-b572-29ab7ae77e32@1bab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Новиков Илья Сергеевич
@@ -271,39 +15,23 @@ DTEND:20231021T073000Z
 LOCATION:7-405
 DTSTART:20231021T060000Z
 SUMMARY:ПЗ Перспективное планирование качества продукции
-UID:4d2d3d95-6325-4b50-b038-e5ce460c4402@4d2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20231014T113000Z
-LOCATION:7-405
-DTSTART:20231014T100000Z
-SUMMARY:ЛК Средства и методы управления качеством
-UID:76ea640a-82d7-4d74-a286-c1349d684c78@76ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20231111T073000Z
-LOCATION:7-405
-DTSTART:20231111T060000Z
-SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
-UID:f0a30308-5191-46ca-8751-09d83df0790a@f0a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20231125T091500Z
-LOCATION:7-405
-DTSTART:20231125T074500Z
-SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
-UID:c215c5af-174c-402c-8dd6-da05db35d5a9@c215.org
+UID:ba4b5220-ec97-4f68-bcf1-9c9d4a74683e@ba4b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20231021T091500Z
+DTEND:20231007T091500Z
 LOCATION:7-405
-DTSTART:20231021T074500Z
+DTSTART:20231007T074500Z
 SUMMARY:ПЗ Перспективное планирование качества продукции
-UID:9b3cc4e0-0a0b-47c2-8996-12ebc10e1cb1@9b3c.org
+UID:6d3a53d6-1a37-47f7-848c-9e3a11673d9a@6d3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Илья Сергеевич
+DTEND:20231216T091500Z
+LOCATION:7-405
+DTSTART:20231216T074500Z
+SUMMARY:ЛР Перспективное планирование качества продукции
+UID:0087e30e-004e-41f9-88d0-6ca48db89977@0087.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Новиков Илья Сергеевич
@@ -311,31 +39,15 @@ DTEND:20231223T131500Z
 LOCATION:7-405
 DTSTART:20231223T114500Z
 SUMMARY:ПЗ Перспективное планирование качества продукции
-UID:4f79cf41-7cb1-4746-927b-e58025ca3359@4f79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискина Антонина Робертовна
-DTEND:20230909T113000Z
-LOCATION:7-405
-DTSTART:20230909T100000Z
-SUMMARY:ЛК Средства и методы управления качеством
-UID:4ba43987-34a1-4d4c-a811-376d771dadf7@4ba4.org
+UID:2bb28620-02ab-4b2e-953b-cff999a12296@2bb2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Денискин Юрий Иванович
-DTEND:20230930T073000Z
+DTEND:20230916T091500Z
 LOCATION:7-405
-DTSTART:20230930T060000Z
+DTSTART:20230916T074500Z
 SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
-UID:14fd9a1c-88d9-4032-a968-968a8490249c@14fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денискин Юрий Иванович
-DTEND:20231014T091500Z
-LOCATION:7-405
-DTSTART:20231014T074500Z
-SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
-UID:71064db2-3497-4264-9942-20e2eed15b80@7106.org
+UID:4c68657d-cad6-4c83-8871-a89854b46637@4c68.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Новиков Илья Сергеевич
@@ -343,23 +55,127 @@ DTEND:20230923T073000Z
 LOCATION:7-405
 DTSTART:20230923T060000Z
 SUMMARY:ЛК Перспективное планирование качества продукции
-UID:2e7ee4ec-1eac-4592-9f14-9651c4b446c9@2e7e.org
+UID:f942d3ce-a6d7-43ae-a2f2-195da95c30b2@f942.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Новиков Илья Сергеевич
-DTEND:20231216T073000Z
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20230923T113000Z
 LOCATION:7-405
-DTSTART:20231216T060000Z
-SUMMARY:ЛР Перспективное планирование качества продукции
-UID:23041935-e032-491a-b615-cbbd74c23d0e@2304.org
+DTSTART:20230923T100000Z
+SUMMARY:ЛК Средства и методы управления качеством
+UID:01212f54-7864-45d5-8689-353fc52d7407@0121.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Денискин Юрий Иванович
-DTEND:20231028T091500Z
+DTEND:20230930T073000Z
 LOCATION:7-405
-DTSTART:20231028T074500Z
+DTSTART:20230930T060000Z
 SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
-UID:5ec29713-b285-4f07-a148-72c02ec20559@5ec2.org
+UID:e70e94ba-0543-4891-accd-b5a8c06024b8@e70e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Илья Сергеевич
+DTEND:20231118T091500Z
+LOCATION:7-405
+DTSTART:20231118T074500Z
+SUMMARY:ПЗ Перспективное планирование качества продукции
+UID:73f37e43-55ea-4926-a4a3-96c067d33d2e@73f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20230930T091500Z
+LOCATION:7-405
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
+UID:bfb93b01-4161-4c92-b0a3-c85d341cb456@bfb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Илья Сергеевич
+DTEND:20231202T073000Z
+LOCATION:7-405
+DTSTART:20231202T060000Z
+SUMMARY:ЛР Перспективное планирование качества продукции
+UID:9278bfcd-be44-495c-bd35-d46da66b532f@9278.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Илья Сергеевич
+DTEND:20231202T091500Z
+LOCATION:7-405
+DTSTART:20231202T074500Z
+SUMMARY:ЛР Перспективное планирование качества продукции
+UID:c6f2622c-5b2e-4386-8c84-2b1ff697de0c@c6f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20231111T113000Z
+LOCATION:7-405
+DTSTART:20231111T100000Z
+SUMMARY:ПЗ Средства и методы управления качеством
+UID:242cc5c9-85af-483d-a557-bea53d7d3c2e@242c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20231125T113000Z
+LOCATION:7-405
+DTSTART:20231125T100000Z
+SUMMARY:ПЗ Средства и методы управления качеством
+UID:77229e45-73bc-4340-bc5e-7e0a2a64e083@7722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Илья Сергеевич
+DTEND:20231007T073000Z
+LOCATION:7-405
+DTSTART:20231007T060000Z
+SUMMARY:ПЗ Перспективное планирование качества продукции
+UID:337d4e3d-dcbb-43ca-9db8-0a046fcd9786@337d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20231028T113000Z
+LOCATION:7-405
+DTSTART:20231028T100000Z
+SUMMARY:ПЗ Средства и методы управления качеством
+UID:1cbe56b4-779e-4c31-8cb7-7c07b4a3d60d@1cbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20231007T113000Z
+LOCATION:7-405
+DTSTART:20231007T100000Z
+SUMMARY:ЛК Средства и методы управления качеством
+UID:45377059-1117-4926-bbe2-cfb8336f297e@4537.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20230930T113000Z
+LOCATION:7-405
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Средства и методы управления качеством
+UID:8aaaf61e-1f9c-479a-b96b-df9ac4fcf4b5@8aaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20231014T073000Z
+LOCATION:7-405
+DTSTART:20231014T060000Z
+SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
+UID:9a6be5ba-4723-4300-a350-89903eaa24ca@9a6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Илья Сергеевич
+DTEND:20231118T073000Z
+LOCATION:7-405
+DTSTART:20231118T060000Z
+SUMMARY:ПЗ Перспективное планирование качества продукции
+UID:f3f7b2ad-61b6-4ff3-af18-60be7c7ae65e@f3f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Илья Сергеевич
+DTEND:20230909T091500Z
+LOCATION:7-405
+DTSTART:20230909T074500Z
+SUMMARY:ЛК Перспективное планирование качества продукции
+UID:15e04d84-73c4-43ac-8b40-a68bfc15b0d4@15e0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Новиков Илья Сергеевич
@@ -367,6 +183,190 @@ DTEND:20230909T073000Z
 LOCATION:7-405
 DTSTART:20230909T060000Z
 SUMMARY:ЛК Перспективное планирование качества продукции
-UID:b35b6465-65e8-40d4-9dcc-c740dc4fcd1f@b35b.org
+UID:4bab769a-b651-46cd-9dc4-bc040fe952f4@4bab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20230902T113000Z
+LOCATION:7-405
+DTSTART:20230902T100000Z
+SUMMARY:ЛК Средства и методы управления качеством
+UID:4675ac48-143e-4dad-a9f2-c6dfa53206fa@4675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20231209T073000Z
+LOCATION:7-405
+DTSTART:20231209T060000Z
+SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
+UID:0e3c70b0-e5bc-46ad-b13d-82ea9d4cb029@0e3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Илья Сергеевич
+DTEND:20230923T091500Z
+LOCATION:7-405
+DTSTART:20230923T074500Z
+SUMMARY:ЛК Перспективное планирование качества продукции
+UID:12a6e719-0ea8-4383-a63a-291293dbdba5@12a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20231111T073000Z
+LOCATION:7-405
+DTSTART:20231111T060000Z
+SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
+UID:098f8857-8f6c-4536-b596-03f7e7445c74@098f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20231118T113000Z
+LOCATION:7-405
+DTSTART:20231118T100000Z
+SUMMARY:ПЗ Средства и методы управления качеством
+UID:ca10151b-6508-4f0d-b2d1-a89ad103c674@ca10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20231209T113000Z
+LOCATION:7-405
+DTSTART:20231209T100000Z
+SUMMARY:ПЗ Средства и методы управления качеством
+UID:f97f97c2-94a7-4950-94a2-2c4a18b27560@f97f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20231125T073000Z
+LOCATION:7-405
+DTSTART:20231125T060000Z
+SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
+UID:ce88982b-2a71-47f7-a305-ffb89bcdd986@ce88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Илья Сергеевич
+DTEND:20231223T113000Z
+LOCATION:7-405
+DTSTART:20231223T100000Z
+SUMMARY:ПЗ Перспективное планирование качества продукции
+UID:fb1344dc-76a9-4472-9f52-a8a9f5a08d62@fb13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20230902T091500Z
+LOCATION:7-405
+DTSTART:20230902T074500Z
+SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
+UID:a52194be-9990-4821-95e8-f5a457531ab9@a521.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20230902T073000Z
+LOCATION:7-405
+DTSTART:20230902T060000Z
+SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
+UID:b034d7a6-0b40-4be8-b715-37486127e178@b034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20231028T091500Z
+LOCATION:7-405
+DTSTART:20231028T074500Z
+SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
+UID:cd554ae5-9b73-4b49-b586-2fa50e14141f@cd55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20230916T113000Z
+LOCATION:7-405
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Средства и методы управления качеством
+UID:670c09c2-19e3-4ab6-8551-da1836bd60b1@670c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Илья Сергеевич
+DTEND:20231021T091500Z
+LOCATION:7-405
+DTSTART:20231021T074500Z
+SUMMARY:ПЗ Перспективное планирование качества продукции
+UID:5253a0bc-09de-40a7-8de8-7bd1862c0cd4@5253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20231014T091500Z
+LOCATION:7-405
+DTSTART:20231014T074500Z
+SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
+UID:4021109b-bd37-4e43-ad20-003c7d5c4f85@4021.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20231111T091500Z
+LOCATION:7-405
+DTSTART:20231111T074500Z
+SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
+UID:858c9502-6585-477f-a23b-6593afd24531@858c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20231021T113000Z
+LOCATION:7-405
+DTSTART:20231021T100000Z
+SUMMARY:ПЗ Средства и методы управления качеством
+UID:703687c0-c548-49a4-a045-a1675472065b@7036.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20230909T113000Z
+LOCATION:7-405
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Средства и методы управления качеством
+UID:74af24b7-d944-46e7-b840-36b0e029d9bb@74af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20231125T091500Z
+LOCATION:7-405
+DTSTART:20231125T074500Z
+SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
+UID:7aa6991a-79c7-414d-b634-23cb7f9e4176@7aa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20231209T091500Z
+LOCATION:7-405
+DTSTART:20231209T074500Z
+SUMMARY:ПЗ Информационные технологии в управлении качеством и защита информации
+UID:7131b800-ff1e-4dd5-9099-f8bbd1b818c0@7131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Новиков Илья Сергеевич
+DTEND:20231216T073000Z
+LOCATION:7-405
+DTSTART:20231216T060000Z
+SUMMARY:ЛР Перспективное планирование качества продукции
+UID:785e226c-8444-4881-9dc5-3e04ab1b6410@785e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20231014T113000Z
+LOCATION:7-405
+DTSTART:20231014T100000Z
+SUMMARY:ЛК Средства и методы управления качеством
+UID:edf83255-0a61-4642-8461-91c59c326476@edf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискина Антонина Робертовна
+DTEND:20231202T113000Z
+LOCATION:7-405
+DTSTART:20231202T100000Z
+SUMMARY:ПЗ Средства и методы управления качеством
+UID:1586f17e-f002-4e7e-859b-810d22f05de7@1586.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денискин Юрий Иванович
+DTEND:20231028T073000Z
+LOCATION:7-405
+DTSTART:20231028T060000Z
+SUMMARY:ЛК Информационные технологии в управлении качеством и защита информации
+UID:1a3d99eb-e18a-4e44-b1ba-8fb8aa344009@1a3d.org
 END:VEVENT
 END:VCALENDAR

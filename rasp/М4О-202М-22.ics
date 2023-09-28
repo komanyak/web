@@ -2,580 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231214T164500Z
-LOCATION:24Б-414
-DTSTART:20231214T151500Z
-SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
-UID:345f0bd9-35dd-4998-9f5f-76de49170c88@345f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230906T073000Z
+DTEND:20230927T073000Z
 LOCATION:24Б-621
-DTSTART:20230906T060000Z
+DTSTART:20230927T060000Z
 SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:1e3ee79f-f65e-4f13-affb-0f4db8c35415@1e3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231102T113000Z
-LOCATION:24Б-414
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:d7a81615-925a-4549-944c-65fb3e9aedc5@d7a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20230923T073000Z
-LOCATION:24Б-424
-DTSTART:20230923T060000Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:8e35532d-69a5-4c51-92c2-ae0c405ac543@8e35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231012T113000Z
-LOCATION:24Б-424
-DTSTART:20231012T100000Z
-SUMMARY:ЛК Системы контроля радиотехнических устройств
-UID:eecc9c86-bede-42ea-9e45-87651c958472@eecc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231129T091500Z
-LOCATION:24Б-624
-DTSTART:20231129T074500Z
-SUMMARY:ПЗ Конструирование СВЧ-устройств
-UID:8a00d467-be25-45e2-9931-2dc6a6c5ebbc@8a00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230923T113000Z
-LOCATION:24Б-422
-DTSTART:20230923T100000Z
-SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:71afc1c8-3015-4103-b126-900f2613135d@71af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231202T091500Z
-LOCATION:24Б-424
-DTSTART:20231202T074500Z
-SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
-UID:e6fb96a9-4b4e-48f9-875d-d05cb6b11795@e6fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230920T073000Z
-LOCATION:24Б-621
-DTSTART:20230920T060000Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:18d63ddc-1a79-47aa-a6aa-a6059be6593a@18d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231018T073000Z
-LOCATION:24Б-621
-DTSTART:20231018T060000Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:32b07c67-618e-4dba-aed7-8fa0c5015405@32b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231214T131500Z
-LOCATION:24Б-414
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:f364c556-3724-4d62-9aee-862b79f63349@f364.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231026T113000Z
-LOCATION:24Б-424
-DTSTART:20231026T100000Z
-SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:0223d020-c738-4d16-8658-90d672e4dde1@0223.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230930T131500Z
-LOCATION:24Б-422
-DTSTART:20230930T114500Z
-SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:1db3ad0d-c35b-42a5-9d73-f94e8227c9d1@1db3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230916T131500Z
-LOCATION:24Б-422
-DTSTART:20230916T114500Z
-SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:dcd4eca8-c5f5-43cf-8dec-a3fd2722da34@dcd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231018T091500Z
-LOCATION:24Б-621
-DTSTART:20231018T074500Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:3264b5ae-f740-4170-99ed-ed9a00a4e6b4@3264.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231011T073000Z
-LOCATION:24Б-621
-DTSTART:20231011T060000Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:12521c65-f29e-4d53-94c8-e7371806509e@1252.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231025T091500Z
-LOCATION:24Б-621
-DTSTART:20231025T074500Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:c2b3cf16-bf63-415d-b30d-1453800c1222@c2b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231101T091500Z
-LOCATION:24Б-624
-DTSTART:20231101T074500Z
-SUMMARY:ЛР Конструирование СВЧ-устройств
-UID:e9602c0d-adb2-4b33-91c3-cc4d19f68b47@e960.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231216T113000Z
-LOCATION:24Б-422
-DTSTART:20231216T100000Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:d046a135-5602-4bcc-9da8-760ec989529b@d046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20230928T150000Z
-LOCATION:24Б-330
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Программируемая элементная база
-UID:6d655032-3807-45de-828b-67ecb2f23bf1@6d65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231228T150000Z
-LOCATION:24Б-414
-DTSTART:20231228T133000Z
-SUMMARY:ЛР Программируемая элементная база
-UID:cef00d4f-d3db-41ce-bd48-62a0900ba316@cef0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231209T131500Z
-LOCATION:24Б-422
-DTSTART:20231209T114500Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:d989b3a1-3084-402c-9a8d-e540c6c5711c@d989.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231207T131500Z
-LOCATION:24Б-414
-DTSTART:20231207T114500Z
-SUMMARY:ЛР Программируемая элементная база
-UID:47c9b223-5545-4cff-9d3f-9299d11c3ec0@47c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231116T131500Z
-LOCATION:24Б-414
-DTSTART:20231116T114500Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:aa4d37ee-eae9-4ea6-9b4a-a54685e56181@aa4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231005T164500Z
-LOCATION:24Б-414
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
-UID:9602515c-1809-4980-9d8d-a4331234afe2@9602.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231123T113000Z
-LOCATION:24Б-414
-DTSTART:20231123T100000Z
-SUMMARY:ЛР Программируемая элементная база
-UID:0e66d9bb-3673-4049-a66e-0844af36fb48@0e66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231125T113000Z
-LOCATION:24Б-422
-DTSTART:20231125T100000Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:f5fe39c6-3e13-4c34-9e0c-9d216a8b54e3@f5fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231007T131500Z
-LOCATION:24Б-422
-DTSTART:20231007T114500Z
-SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:96b28ea1-2e81-465b-964a-5694326ee566@96b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231221T150000Z
-LOCATION:24Б-420
-DTSTART:20231221T133000Z
-SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:fbfa5402-f638-4d1f-a2cf-dae8ad672c8c@fbfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231216T091500Z
-LOCATION:24Б-424
-DTSTART:20231216T074500Z
-SUMMARY:ПЗ Искусственный интеллект в системном проектировании РТУиС
-UID:edfe0450-333a-4669-a41c-0719d990a9fe@edfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231221T164500Z
-LOCATION:24Б-420
-DTSTART:20231221T151500Z
-SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:135157c9-ee2d-4fa9-94dd-63eed0b48e00@1351.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231026T131500Z
-LOCATION:24Б-424
-DTSTART:20231026T114500Z
-SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:44139b8e-5044-4e66-b174-b4896dbe2185@4413.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231130T150000Z
-LOCATION:24Б-414
-DTSTART:20231130T133000Z
-SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
-UID:27c37b9e-daca-4ff0-856d-948bc92de638@27c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20230928T164500Z
-LOCATION:24Б-330
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Программируемая элементная база
-UID:d4d1be49-7a70-4766-81fd-579cadfc76e5@d4d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231111T073000Z
-LOCATION:24Б-424
-DTSTART:20231111T060000Z
-SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
-UID:6a85be40-5a97-4f6b-9e0a-2832b9b45d9d@6a85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231216T073000Z
-LOCATION:24Б-424
-DTSTART:20231216T060000Z
-SUMMARY:ПЗ Искусственный интеллект в системном проектировании РТУиС
-UID:5a471e1c-ff15-468f-b6e5-e16dce84c825@5a47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231202T113000Z
-LOCATION:24Б-422
-DTSTART:20231202T100000Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:d0c11ff5-fcff-4046-bb3d-ae54ac9abe90@d0c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20230921T150000Z
-LOCATION:24Б-414
-DTSTART:20230921T133000Z
-SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
-UID:1834a7a1-db5a-4a0d-8023-18d8dbeab1bc@1834.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231129T073000Z
-LOCATION:24Б-624
-DTSTART:20231129T060000Z
-SUMMARY:ПЗ Конструирование СВЧ-устройств
-UID:bfa50e23-cfca-4419-bd92-451b3fe304a7@bfa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20230916T091500Z
-LOCATION:24Б-424
-DTSTART:20230916T074500Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:6d9be4ce-d108-40e8-8749-386bd225ef6d@6d9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231014T113000Z
-LOCATION:24Б-422
-DTSTART:20231014T100000Z
-SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:eb0d3a29-fd88-409a-b617-fb87234906ea@eb0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231118T113000Z
-LOCATION:24Б-422
-DTSTART:20231118T100000Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:3fbcb101-ce04-4afe-9a3d-90881c9e8a3d@3fbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231011T091500Z
-LOCATION:24Б-621
-DTSTART:20231011T074500Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:8d108b26-f871-45b4-82f5-dd89df7f6f0f@8d10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231202T073000Z
-LOCATION:24Б-424
-DTSTART:20231202T060000Z
-SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
-UID:e75cfc4e-28dc-42d8-b265-7bccbe54c0b0@e75c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231111T113000Z
-LOCATION:24Б-422
-DTSTART:20231111T100000Z
-SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:d35995e4-6080-434e-8832-73a016daec47@d359.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230927T091500Z
-LOCATION:24Б-621
-DTSTART:20230927T074500Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:eb1583c7-1a15-4b44-941a-190cc900dbb3@eb15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231130T131500Z
-LOCATION:24Б-414
-DTSTART:20231130T114500Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:7abb1d2c-25b3-40b4-9d6e-11190c0b8242@7abb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230909T131500Z
-LOCATION:24Б-422
-DTSTART:20230909T114500Z
-SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:803aea8c-53fa-4bfe-ac50-b9ad4db56e04@803a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20230909T073000Z
-LOCATION:24Б-424
-DTSTART:20230909T060000Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:4e6e3419-a0a5-4e76-8277-40bfbd419654@4e6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20230923T091500Z
-LOCATION:24Б-424
-DTSTART:20230923T074500Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:46163eb8-fd8b-4f51-ba28-de1c42690c3b@4616.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231021T131500Z
-LOCATION:24Б-422
-DTSTART:20231021T114500Z
-SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:540bd18a-5497-48e5-9a46-e8ae531bdaec@540b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231123T164500Z
-LOCATION:24Б-420
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:15cec95a-be96-449f-947a-e00f76647e52@15ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231221T113000Z
-LOCATION:24Б-414
-DTSTART:20231221T100000Z
-SUMMARY:ЛР Программируемая элементная база
-UID:d56a734b-5cb9-4612-9d1e-be0503f9c4ce@d56a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20230928T113000Z
-LOCATION:24Б-424
-DTSTART:20230928T100000Z
-SUMMARY:ЛК Системы контроля радиотехнических устройств
-UID:d62166ad-46d8-4fcd-b310-7d9546c317e4@d621.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20230916T073000Z
-LOCATION:24Б-424
-DTSTART:20230916T060000Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:b84700a0-6974-4a3f-989f-ca5c56019933@b847.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231014T073000Z
-LOCATION:24Б-424
-DTSTART:20231014T060000Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:12518659-320d-46f4-8432-9024b009b8a7@1251.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231101T073000Z
-LOCATION:24Б-624
-DTSTART:20231101T060000Z
-SUMMARY:ЛР Конструирование СВЧ-устройств
-UID:48101c22-cd72-469c-aac0-24063f9e4fd7@4810.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231028T113000Z
-LOCATION:24Б-422
-DTSTART:20231028T100000Z
-SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:216f2a09-8c8c-4eba-892a-33b26c371c67@216f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231209T113000Z
-LOCATION:24Б-422
-DTSTART:20231209T100000Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:b59f5845-4de0-4054-9069-ec783e65b883@b59f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231118T131500Z
-LOCATION:24Б-422
-DTSTART:20231118T114500Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:e657b305-3084-4c45-8c41-edaef20fc401@e657.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231021T073000Z
-LOCATION:24Б-424
-DTSTART:20231021T060000Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:43066c45-2b71-452e-8a11-84612541ac61@4306.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231005T113000Z
-LOCATION:24Б-414
-DTSTART:20231005T100000Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:1a1debac-f6c9-4016-b743-88e7c74e3468@1a1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231223T113000Z
-LOCATION:24Б-422
-DTSTART:20231223T100000Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:4a15258b-f53a-4451-91a6-c7f49d11cea5@4a15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231123T131500Z
-LOCATION:24Б-414
-DTSTART:20231123T114500Z
-SUMMARY:ЛР Программируемая элементная база
-UID:de880567-2ab1-4e52-9e53-43a0282b7ab7@de88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20230921T131500Z
-LOCATION:24Б-414
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:99a0476c-879d-4bb6-a742-1d0aef186b17@99a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231116T164500Z
-LOCATION:24Б-414
-DTSTART:20231116T151500Z
-SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
-UID:c2664fdc-1522-42b0-ba69-201c5fa95105@c266.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231223T131500Z
-LOCATION:24Б-422
-DTSTART:20231223T114500Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:f5549ffc-6334-4af5-a921-28cac50f2654@f554.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231014T131500Z
-LOCATION:24Б-422
-DTSTART:20231014T114500Z
-SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:120ede60-7f6f-4744-844b-29600307525a@120e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231019T164500Z
-LOCATION:24Б-414
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
-UID:3f13d32e-5f85-4e0c-b003-3f8276ca37af@3f13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231102T131500Z
-LOCATION:24Б-414
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:f5ed909f-e121-4244-a133-999f0e35dc47@f5ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231118T073000Z
-LOCATION:24Б-424
-DTSTART:20231118T060000Z
-SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
-UID:7adfb63d-0c65-456b-8b5f-d5fe92c1a0e6@7adf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231202T131500Z
-LOCATION:24Б-422
-DTSTART:20231202T114500Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:cd008154-ac6e-47b2-8458-0bf0f3fc00b8@cd00.org
+UID:9381bc5d-b9be-4eea-857d-4f5d7a58f5e3@9381.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецов Андрей Сергеевич
@@ -583,71 +15,7 @@ DTEND:20231007T091500Z
 LOCATION:24Б-424
 DTSTART:20231007T074500Z
 SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:eca6d86c-288e-4e01-b9de-9e5b8c3ba9fb@eca6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20230930T073000Z
-LOCATION:24Б-424
-DTSTART:20230930T060000Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:6b8c20c6-2bbb-483f-bc25-8bfd216fcbdb@6b8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231004T073000Z
-LOCATION:24Б-621
-DTSTART:20231004T060000Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:d1ef55fa-fd8a-4c07-995c-8bcca0cfae87@d1ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230906T091500Z
-LOCATION:24Б-621
-DTSTART:20230906T074500Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:16bd73a5-6351-498c-b48e-69ab519c5e32@16bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231122T091500Z
-LOCATION:24Б-624
-DTSTART:20231122T074500Z
-SUMMARY:ПЗ Конструирование СВЧ-устройств
-UID:7f806371-8a81-4f55-81aa-5dd501144abd@7f80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231207T150000Z
-LOCATION:24Б-420
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:9fe3c3a1-762e-4836-9207-ba8ceb399086@9fe3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20230914T164500Z
-LOCATION:24Б-420
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:534b2e19-dbcf-42da-8169-32bb76c5a668@534b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231214T150000Z
-LOCATION:24Б-414
-DTSTART:20231214T133000Z
-SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
-UID:8a4ed03c-1e3e-4cfb-b128-f4625df4420d@8a4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231019T131500Z
-LOCATION:24Б-414
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:bdf3eb65-cb9f-48ca-8960-559088f6aa44@bdf3.org
+UID:280b6901-c4c0-419b-a14e-ee1350ea63d6@280b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Овчинникова Елена Викторовна
@@ -655,487 +23,7 @@ DTEND:20231004T091500Z
 LOCATION:24Б-621
 DTSTART:20231004T074500Z
 SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:8b2083f6-8493-447c-92b2-de0746c9ad27@8b20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231115T091500Z
-LOCATION:24Б-624
-DTSTART:20231115T074500Z
-SUMMARY:ЛР Конструирование СВЧ-устройств
-UID:d7902d65-0d3b-47a6-bf06-01bbe59bafb1@d790.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231108T073000Z
-LOCATION:24Б-624
-DTSTART:20231108T060000Z
-SUMMARY:ЛР Конструирование СВЧ-устройств
-UID:9bcefc7c-5b30-4bb1-b3ec-db1ba66e9943@9bce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231125T073000Z
-LOCATION:24Б-424
-DTSTART:20231125T060000Z
-SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
-UID:0854e822-5f5d-4345-805a-16cb0b9f90e2@0854.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231108T091500Z
-LOCATION:24Б-624
-DTSTART:20231108T074500Z
-SUMMARY:ЛР Конструирование СВЧ-устройств
-UID:2b2367b8-4497-4539-9605-86fbba732032@2b23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20230914T113000Z
-LOCATION:24Б-424
-DTSTART:20230914T100000Z
-SUMMARY:ЛК Системы контроля радиотехнических устройств
-UID:e568bb76-5edb-4c95-af35-ab43befa145f@e568.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230913T091500Z
-LOCATION:24Б-621
-DTSTART:20230913T074500Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:f8874d63-acc2-4e7d-bf18-5ef304b5ac14@f887.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231130T113000Z
-LOCATION:24Б-414
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:883b44ad-46f0-4e18-8a57-0d37cbcd7ba8@883b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231111T091500Z
-LOCATION:24Б-424
-DTSTART:20231111T074500Z
-SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
-UID:698092d2-0e2b-4219-8bd4-897ddc8aab6c@6980.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231025T073000Z
-LOCATION:24Б-621
-DTSTART:20231025T060000Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:db1365b3-10b4-405d-8ac4-a80016111111@db13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231125T091500Z
-LOCATION:24Б-424
-DTSTART:20231125T074500Z
-SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
-UID:072c99d3-87fc-48d8-b70f-a7d2bd73cbc8@072c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230909T113000Z
-LOCATION:24Б-422
-DTSTART:20230909T100000Z
-SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:ea012844-9180-4fec-953d-7027ff7d3e9e@ea01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231021T113000Z
-LOCATION:24Б-422
-DTSTART:20231021T100000Z
-SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:8eb6fe19-1335-49e8-a8ac-957d35a8d369@8eb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231109T150000Z
-LOCATION:24Б-330
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Программируемая элементная база
-UID:2146893b-4604-4dab-bf43-4aba77d77801@2146.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231109T131500Z
-LOCATION:24Б-424
-DTSTART:20231109T114500Z
-SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:b67ef057-73f8-4c22-8430-d6e90cfe7756@b67e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231207T164500Z
-LOCATION:24Б-420
-DTSTART:20231207T151500Z
-SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:37ad1391-8338-46c5-873c-bd402d7bcd41@37ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231206T091500Z
-LOCATION:24Б-624
-DTSTART:20231206T074500Z
-SUMMARY:ПЗ Конструирование СВЧ-устройств
-UID:724c7902-2e84-4fa0-a21d-714f38fc6c6e@724c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231012T164500Z
-LOCATION:24Б-330
-DTSTART:20231012T151500Z
-SUMMARY:ЛК Программируемая элементная база
-UID:c57ad931-bc43-454b-a84e-b604aa992921@c57a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231026T150000Z
-LOCATION:24Б-330
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Программируемая элементная база
-UID:ff687aec-ad77-4988-a5c9-2d725ac5d70e@ff68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231026T164500Z
-LOCATION:24Б-330
-DTSTART:20231026T151500Z
-SUMMARY:ЛК Программируемая элементная база
-UID:b9480110-06c2-40de-9174-d5da97ecd454@b948.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231028T131500Z
-LOCATION:24Б-422
-DTSTART:20231028T114500Z
-SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:fa057421-8d7f-4e00-9f24-91f69cb9d227@fa05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231111T131500Z
-LOCATION:24Б-422
-DTSTART:20231111T114500Z
-SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:2f4a04a3-0d47-4644-9daa-7f494f7efd88@2f4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231102T164500Z
-LOCATION:24Б-414
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
-UID:dd93a05e-94ee-4925-b050-59405becc034@dd93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230916T113000Z
-LOCATION:24Б-422
-DTSTART:20230916T100000Z
-SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:d37102ff-6ad2-4fa4-b524-9410c90587b6@d371.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231005T150000Z
-LOCATION:24Б-414
-DTSTART:20231005T133000Z
-SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
-UID:5fe1a5da-751d-4258-abad-5428dfa473bd@5fe1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20230930T113000Z
-LOCATION:24Б-422
-DTSTART:20230930T100000Z
-SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:6a1d764a-5e78-4985-bb8e-482b33c1524c@6a1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231214T113000Z
-LOCATION:24Б-414
-DTSTART:20231214T100000Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:ccc302b7-be05-4c51-ab11-9633aa204e6f@ccc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231116T150000Z
-LOCATION:24Б-414
-DTSTART:20231116T133000Z
-SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
-UID:d80bb4dd-e961-4f72-b66e-dd89b70270d7@d80b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230927T073000Z
-LOCATION:24Б-621
-DTSTART:20230927T060000Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:6de25249-f973-4db4-98be-34a9758f760b@6de2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231115T073000Z
-LOCATION:24Б-624
-DTSTART:20231115T060000Z
-SUMMARY:ЛР Конструирование СВЧ-устройств
-UID:a63bea8c-ab93-4607-8900-c280436bbbf5@a63b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20230909T091500Z
-LOCATION:24Б-424
-DTSTART:20230909T074500Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:c63f8c80-10e9-4375-b3c5-c0bcc081ac47@c63f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231012T131500Z
-LOCATION:24Б-424
-DTSTART:20231012T114500Z
-SUMMARY:ЛК Системы контроля радиотехнических устройств
-UID:f981adc2-24c1-4de0-8cc9-9550c31f82fa@f981.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231118T091500Z
-LOCATION:24Б-424
-DTSTART:20231118T074500Z
-SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
-UID:8d82816c-b881-4189-826b-8796b20af266@8d82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20230928T131500Z
-LOCATION:24Б-424
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Системы контроля радиотехнических устройств
-UID:2f3fd240-9f91-4dae-9a47-2f1e57d97e07@2f3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231014T091500Z
-LOCATION:24Б-424
-DTSTART:20231014T074500Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:8bcacaf2-be38-44ac-8477-d209314efb34@8bca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230920T091500Z
-LOCATION:24Б-621
-DTSTART:20230920T074500Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:76f2c420-9e34-49e6-834f-9dd76d03ddb4@76f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231102T150000Z
-LOCATION:24Б-414
-DTSTART:20231102T133000Z
-SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
-UID:a66b03ea-304b-4284-8825-011828ccd4e6@a66b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231123T150000Z
-LOCATION:24Б-420
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:469dcf3f-c4ce-4a27-8422-dd0e7e63e543@469d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20230921T164500Z
-LOCATION:24Б-414
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
-UID:8de96666-e6a6-4b8a-bae0-5de16d851a72@8de9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231007T113000Z
-LOCATION:24Б-422
-DTSTART:20231007T100000Z
-SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:59e79f9c-d2c0-43e3-9143-b4768f385a84@59e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231028T091500Z
-LOCATION:24Б-424
-DTSTART:20231028T074500Z
-SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
-UID:ea4e45f3-66cc-444b-a065-053f429c1890@ea4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231209T091500Z
-LOCATION:24Б-424
-DTSTART:20231209T074500Z
-SUMMARY:ПЗ Искусственный интеллект в системном проектировании РТУиС
-UID:ad95a5d8-7654-4957-a344-a7bfabf56a8c@ad95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20231109T113000Z
-LOCATION:24Б-424
-DTSTART:20231109T100000Z
-SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:cf5b5652-4a6f-42d1-9296-fff2442531c9@cf5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231130T164500Z
-LOCATION:24Б-414
-DTSTART:20231130T151500Z
-SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
-UID:244fe566-a3d1-41a1-93f8-071859326724@244f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231206T073000Z
-LOCATION:24Б-624
-DTSTART:20231206T060000Z
-SUMMARY:ПЗ Конструирование СВЧ-устройств
-UID:dfb9374f-e101-4497-a9b8-321f6be4e233@dfb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20230921T113000Z
-LOCATION:24Б-414
-DTSTART:20230921T100000Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:80d45817-52ee-4448-b4fc-24a0d8d02909@80d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231021T091500Z
-LOCATION:24Б-424
-DTSTART:20231021T074500Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:1def3103-d05b-46cd-8c6a-899202a38d02@1def.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231122T073000Z
-LOCATION:24Б-624
-DTSTART:20231122T060000Z
-SUMMARY:ПЗ Конструирование СВЧ-устройств
-UID:78bc8e4f-1216-49f4-a127-a1ec786bc4c1@78bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231228T164500Z
-LOCATION:24Б-414
-DTSTART:20231228T151500Z
-SUMMARY:ЛР Программируемая элементная база
-UID:3eac3441-fd2c-4271-8a8a-3cf9c597618e@3eac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231213T073000Z
-LOCATION:24Б-624
-DTSTART:20231213T060000Z
-SUMMARY:ПЗ Конструирование СВЧ-устройств
-UID:301b075e-f0dd-46e6-9b24-8d474de7b7dd@301b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20230930T091500Z
-LOCATION:24Б-424
-DTSTART:20230930T074500Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:876ee003-5874-4def-a36d-321043e0d421@876e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20230914T131500Z
-LOCATION:24Б-424
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Системы контроля радиотехнических устройств
-UID:ab02282d-cd45-4f2d-a70d-d886c8f0bfe1@ab02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231209T073000Z
-LOCATION:24Б-424
-DTSTART:20231209T060000Z
-SUMMARY:ПЗ Искусственный интеллект в системном проектировании РТУиС
-UID:500be18f-1aee-42a8-a234-432c84d0055b@500b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кузнецов Андрей Сергеевич
-DTEND:20231007T073000Z
-LOCATION:24Б-424
-DTSTART:20231007T060000Z
-SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
-UID:a9e50ebf-4809-4974-b8e8-457c77296735@a9e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231005T131500Z
-LOCATION:24Б-414
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:b60ff608-0cc4-4568-bf77-345acad54361@b60f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231012T150000Z
-LOCATION:24Б-330
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Программируемая элементная база
-UID:4ffde61c-bd77-4ed1-929d-f271708e782d@4ffd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231116T113000Z
-LOCATION:24Б-414
-DTSTART:20231116T100000Z
-SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:3fee758a-81e3-4b25-b9fa-6fbc83459751@3fee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231125T131500Z
-LOCATION:24Б-422
-DTSTART:20231125T114500Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:b805050f-5fa7-4893-977b-754a50010f35@b805.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старенченко Александр Владимирович
-DTEND:20231216T131500Z
-LOCATION:24Б-422
-DTSTART:20231216T114500Z
-SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:d992bbe7-099a-414e-8286-b21464758690@d992.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231221T131500Z
-LOCATION:24Б-414
-DTSTART:20231221T114500Z
-SUMMARY:ЛР Программируемая элементная база
-UID:7a220520-fc52-4992-a500-243fb42049c2@7a22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20230913T073000Z
-LOCATION:24Б-621
-DTSTART:20230913T060000Z
-SUMMARY:ЛК Конструирование СВЧ-устройств
-UID:8ec7e9a2-d54c-4013-99e2-64e98f9f2263@8ec7.org
+UID:be04b7c4-f8fc-422a-b2d2-e213706d41df@be04.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Старенченко Александр Владимирович
@@ -1143,39 +31,327 @@ DTEND:20230923T131500Z
 LOCATION:24Б-422
 DTSTART:20230923T114500Z
 SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
-UID:86ba0135-cf95-41e9-978f-14326e7cd25a@86ba.org
+UID:0d02b991-c8a7-48ca-8911-5be686da679f@0d02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231028T113000Z
+LOCATION:24Б-422
+DTSTART:20231028T100000Z
+SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:762fa6ec-0056-40da-99b3-fca0c9a81d81@762f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231019T150000Z
+DTEND:20231102T131500Z
 LOCATION:24Б-414
-DTSTART:20231019T133000Z
-SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
-UID:9b6ec7e3-646c-410c-a5bf-f6fd43be0aa5@9b6e.org
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:35dc3e48-b798-4b4e-b4d5-69b978430460@35dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230909T113000Z
+LOCATION:24Б-422
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:fc7727c8-4bff-4db1-988e-b5b86d8a80e4@fc77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231223T113000Z
+LOCATION:24Б-422
+DTSTART:20231223T100000Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:17927330-5426-490a-855a-ae6c46400632@1792.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матвеев Алексей Михайлович
-DTEND:20230914T150000Z
+DTEND:20231123T164500Z
 LOCATION:24Б-420
-DTSTART:20230914T133000Z
+DTSTART:20231123T151500Z
 SUMMARY:ПЗ Системы контроля радиотехнических устройств
-UID:4b758e36-eab9-4aa6-a651-fe1cb334fc98@4b75.org
+UID:7abe7159-10f1-4b32-8922-85015fb658e1@7abe.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Овчинникова Елена Викторовна
-DTEND:20231213T091500Z
-LOCATION:24Б-624
-DTSTART:20231213T074500Z
-SUMMARY:ПЗ Конструирование СВЧ-устройств
-UID:5a740b20-e928-4556-9c7a-0678aa5929e9@5a74.org
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20231026T131500Z
+LOCATION:24Б-424
+DTSTART:20231026T114500Z
+SUMMARY:ПЗ Системы контроля радиотехнических устройств
+UID:5267f955-ff0b-413a-9740-90478a03adf7@5267.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Орлов Валерий Павлович
-DTEND:20231019T113000Z
+DTEND:20230928T150000Z
+LOCATION:24Б-330
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Программируемая элементная база
+UID:d10d9c91-3486-4cd5-823f-695df8d5d7fb@d10d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231118T131500Z
+LOCATION:24Б-422
+DTSTART:20231118T114500Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:51a674dd-e883-40f3-b5ce-9b97eed4dab5@51a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231216T091500Z
+LOCATION:24Б-424
+DTSTART:20231216T074500Z
+SUMMARY:ПЗ Искусственный интеллект в системном проектировании РТУиС
+UID:1c8806ec-64c1-442f-b131-93c80a128fa7@1c88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231109T150000Z
+LOCATION:24Б-330
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Программируемая элементная база
+UID:b4239a9d-a646-4e93-91a3-552b0940ca63@b423.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231129T091500Z
+LOCATION:24Б-624
+DTSTART:20231129T074500Z
+SUMMARY:ПЗ Конструирование СВЧ-устройств
+UID:d6fc7518-5abd-4b44-81f3-8d539b1b71cf@d6fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231207T131500Z
 LOCATION:24Б-414
-DTSTART:20231019T100000Z
+DTSTART:20231207T114500Z
+SUMMARY:ЛР Программируемая элементная база
+UID:2b2ae82e-d2f9-4c2e-aa10-e8b0b661a609@2b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20230930T091500Z
+LOCATION:24Б-424
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:8a82e18b-ee91-4346-85d1-7d495c15e1aa@8a82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20231123T150000Z
+LOCATION:24Б-420
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ Системы контроля радиотехнических устройств
+UID:ffa8f41a-cf64-4c87-9bf7-ac459078f36f@ffa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20230916T091500Z
+LOCATION:24Б-424
+DTSTART:20230916T074500Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:1fea60c5-4097-4ec2-9a66-dafe83593656@1fea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230909T131500Z
+LOCATION:24Б-422
+DTSTART:20230909T114500Z
+SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:708d42a2-96d9-43bb-88a4-d5bf34f967b7@708d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20231109T113000Z
+LOCATION:24Б-424
+DTSTART:20231109T100000Z
+SUMMARY:ПЗ Системы контроля радиотехнических устройств
+UID:2c61d14f-d5e4-4743-9711-6a4e232cc445@2c61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231223T131500Z
+LOCATION:24Б-422
+DTSTART:20231223T114500Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:e2bbe72e-7cd9-458e-9316-362b418249b5@e2bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231202T073000Z
+LOCATION:24Б-424
+DTSTART:20231202T060000Z
+SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
+UID:9f0c8888-8668-427d-8444-fdc723830960@9f0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231125T091500Z
+LOCATION:24Б-424
+DTSTART:20231125T074500Z
+SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
+UID:14eff56c-ef8f-46f7-9f86-83891b9cd704@14ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231012T150000Z
+LOCATION:24Б-330
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Программируемая элементная база
+UID:3c9042cf-59ea-465c-9284-4662a3a24173@3c90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231025T073000Z
+LOCATION:24Б-621
+DTSTART:20231025T060000Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:739b8477-b90e-4f4e-95ae-865eba7ec9a9@739b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231221T113000Z
+LOCATION:24Б-414
+DTSTART:20231221T100000Z
+SUMMARY:ЛР Программируемая элементная база
+UID:74c042e2-53fe-4ec7-8975-abc575b50786@74c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20230914T164500Z
+LOCATION:24Б-420
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Системы контроля радиотехнических устройств
+UID:70b708fd-c09b-4f42-ac94-fb96f13eda19@70b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20230909T091500Z
+LOCATION:24Б-424
+DTSTART:20230909T074500Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:360882c8-7873-411c-93b1-4403edf5c9fa@3608.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20231012T131500Z
+LOCATION:24Б-424
+DTSTART:20231012T114500Z
+SUMMARY:ЛК Системы контроля радиотехнических устройств
+UID:7930d7ee-c406-4a56-8952-95b282270161@7930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231021T073000Z
+LOCATION:24Б-424
+DTSTART:20231021T060000Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:df3c4afe-dc04-4571-aef0-713e989d8105@df3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231021T091500Z
+LOCATION:24Б-424
+DTSTART:20231021T074500Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:19b12e41-6de2-4ee6-b8b5-02be2cdd44bd@19b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231130T150000Z
+LOCATION:24Б-414
+DTSTART:20231130T133000Z
+SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
+UID:7f58b742-a0f6-44ea-9347-0012e0d8764d@7f58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231007T113000Z
+LOCATION:24Б-422
+DTSTART:20231007T100000Z
+SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:9b14f1a6-7233-4a04-9fd7-0a2d03e9b0ec@9b14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231018T073000Z
+LOCATION:24Б-621
+DTSTART:20231018T060000Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:cf868a87-ab13-4645-805b-d38b93e8bcdd@cf86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231026T150000Z
+LOCATION:24Б-330
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Программируемая элементная база
+UID:ff88ad84-e493-4c48-84c5-0c81bbda3b5a@ff88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230916T113000Z
+LOCATION:24Б-422
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:e3bac130-5ae1-4a99-8a2c-1d5526649c5f@e3ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20231221T150000Z
+LOCATION:24Б-420
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ Системы контроля радиотехнических устройств
+UID:20b1e9fd-818f-437b-ae48-35bf858ef080@20b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230930T113000Z
+LOCATION:24Б-422
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:60b4d0da-8525-46ee-8444-129e0c69d2c0@60b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231116T164500Z
+LOCATION:24Б-414
+DTSTART:20231116T151500Z
+SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
+UID:ab28d440-0d72-4ed9-b96e-92dc3eb69ca7@ab28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230930T131500Z
+LOCATION:24Б-422
+DTSTART:20230930T114500Z
+SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:8251d81d-46b8-4d04-9c98-23880bb18239@8251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231116T131500Z
+LOCATION:24Б-414
+DTSTART:20231116T114500Z
 SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
-UID:3ac0da86-ad4e-4482-bb04-119c859594b6@3ac0.org
+UID:0a72be3d-98c7-40cf-93fe-d2aa7e75cf11@0a72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231202T131500Z
+LOCATION:24Б-422
+DTSTART:20231202T114500Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:bb019761-31d1-4147-8d4f-67258530f525@bb01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231115T091500Z
+LOCATION:24Б-624
+DTSTART:20231115T074500Z
+SUMMARY:ЛР Конструирование СВЧ-устройств
+UID:66ff3844-2df7-4d3b-9af8-3fbd8e4bcbec@66ff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кузнецов Андрей Сергеевич
@@ -1183,7 +359,127 @@ DTEND:20231028T073000Z
 LOCATION:24Б-424
 DTSTART:20231028T060000Z
 SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
-UID:acaf6e99-b582-4b04-a7d2-b5bbf878613f@acaf.org
+UID:701953fa-5846-4b89-a2e1-79826adbf3ec@7019.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231209T073000Z
+LOCATION:24Б-424
+DTSTART:20231209T060000Z
+SUMMARY:ПЗ Искусственный интеллект в системном проектировании РТУиС
+UID:c090e142-3b6c-4ff9-9cc4-b597852b8c0d@c090.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231021T113000Z
+LOCATION:24Б-422
+DTSTART:20231021T100000Z
+SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:cede5b4c-2561-4895-8a07-49f9c51642ae@cede.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231011T091500Z
+LOCATION:24Б-621
+DTSTART:20231011T074500Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:72eec1bc-8436-424b-a5c3-52b3a8eea0dd@72ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231125T073000Z
+LOCATION:24Б-424
+DTSTART:20231125T060000Z
+SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
+UID:c3526296-c382-4644-ae61-739fe5bf294e@c352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20230909T073000Z
+LOCATION:24Б-424
+DTSTART:20230909T060000Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:2b9fd688-4d6c-409f-b433-f469931a0564@2b9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231028T091500Z
+LOCATION:24Б-424
+DTSTART:20231028T074500Z
+SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
+UID:0f820a77-b98a-4223-80a0-42a319656fcc@0f82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231111T131500Z
+LOCATION:24Б-422
+DTSTART:20231111T114500Z
+SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:6a385676-99d2-410b-ac1d-c8719df70fc2@6a38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231209T113000Z
+LOCATION:24Б-422
+DTSTART:20231209T100000Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:a7f9ef46-410b-4a8a-a1d9-7917acb2b88c@a7f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231005T150000Z
+LOCATION:24Б-414
+DTSTART:20231005T133000Z
+SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
+UID:058b044f-33bf-4099-bf54-3e03ba1e05b7@058b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231108T073000Z
+LOCATION:24Б-624
+DTSTART:20231108T060000Z
+SUMMARY:ЛР Конструирование СВЧ-устройств
+UID:9096eb74-71ce-4aff-8f0b-c112e20e1c71@9096.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231228T164500Z
+LOCATION:24Б-414
+DTSTART:20231228T151500Z
+SUMMARY:ЛР Программируемая элементная база
+UID:b5675b0d-6597-44a2-8654-eff033f40e89@b567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231122T073000Z
+LOCATION:24Б-624
+DTSTART:20231122T060000Z
+SUMMARY:ПЗ Конструирование СВЧ-устройств
+UID:3cdbd65b-8005-4adf-8ca1-a5cfe28f7b99@3cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20231207T164500Z
+LOCATION:24Б-420
+DTSTART:20231207T151500Z
+SUMMARY:ПЗ Системы контроля радиотехнических устройств
+UID:3298a465-6ecd-4a2d-957b-e1f5596b34a5@3298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230920T091500Z
+LOCATION:24Б-621
+DTSTART:20230920T074500Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:e0612d9d-0a64-4f20-a491-02b5c1fe6682@e061.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231019T113000Z
+LOCATION:24Б-414
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:ff2fbc6e-7b7c-4b38-9e5e-f4b6c28cf30c@ff2f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Орлов Валерий Павлович
@@ -1191,6 +487,710 @@ DTEND:20231207T113000Z
 LOCATION:24Б-414
 DTSTART:20231207T100000Z
 SUMMARY:ЛР Программируемая элементная база
-UID:2f942572-8a59-480b-b45a-44dde7380aab@2f94.org
+UID:c502765d-9147-44d8-bd88-f1954b069c45@c502.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231111T091500Z
+LOCATION:24Б-424
+DTSTART:20231111T074500Z
+SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
+UID:74ab562a-f89c-4224-8553-bf04a09ac469@74ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231116T113000Z
+LOCATION:24Б-414
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:a0504cc0-b692-4e72-82fd-689f10115c52@a050.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230916T131500Z
+LOCATION:24Б-422
+DTSTART:20230916T114500Z
+SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:70d28f3a-5fb8-412c-a492-4d345aaebc11@70d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231014T113000Z
+LOCATION:24Б-422
+DTSTART:20231014T100000Z
+SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:2f538b47-1d44-4899-8a81-aaf67df87972@2f53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231021T131500Z
+LOCATION:24Б-422
+DTSTART:20231021T114500Z
+SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:b4e4ba8f-4c7d-4151-8108-83af00f91b76@b4e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231116T150000Z
+LOCATION:24Б-414
+DTSTART:20231116T133000Z
+SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
+UID:3ecd279d-ecef-4942-8255-8340b048395d@3ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231125T131500Z
+LOCATION:24Б-422
+DTSTART:20231125T114500Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:e0070d9c-76ea-48ba-bf88-24f7681de2a2@e007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230906T091500Z
+LOCATION:24Б-621
+DTSTART:20230906T074500Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:ae245b12-7894-4ce2-a7f2-45f0ec917505@ae24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231125T113000Z
+LOCATION:24Б-422
+DTSTART:20231125T100000Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:590dc20e-fa83-4226-85ac-fb4da6701c5c@590d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20230928T113000Z
+LOCATION:24Б-424
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Системы контроля радиотехнических устройств
+UID:992571c8-10ae-4767-b85a-5b9c01a80ab4@9925.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231102T164500Z
+LOCATION:24Б-414
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
+UID:d348e866-ceee-4124-9358-a55644fcb059@d348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230920T073000Z
+LOCATION:24Б-621
+DTSTART:20230920T060000Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:fa070874-02b7-4232-b03d-22e1dc1136fb@fa07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20231012T113000Z
+LOCATION:24Б-424
+DTSTART:20231012T100000Z
+SUMMARY:ЛК Системы контроля радиотехнических устройств
+UID:40a47060-b022-40c6-bd90-451909ebcae7@40a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20230923T091500Z
+LOCATION:24Б-424
+DTSTART:20230923T074500Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:4b7b3f24-d973-4615-a983-03db5a858697@4b7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231108T091500Z
+LOCATION:24Б-624
+DTSTART:20231108T074500Z
+SUMMARY:ЛР Конструирование СВЧ-устройств
+UID:7a627154-2bfd-4afc-b30d-49c34181ce4e@7a62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20230928T164500Z
+LOCATION:24Б-330
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Программируемая элементная база
+UID:8338b14b-f93d-406d-9601-5f92c1ef4ece@8338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231028T131500Z
+LOCATION:24Б-422
+DTSTART:20231028T114500Z
+SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:637b4263-6a0f-4a04-81d8-2acc8b60fba1@637b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231111T073000Z
+LOCATION:24Б-424
+DTSTART:20231111T060000Z
+SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
+UID:ef4aa436-618a-4f95-8402-1726ba676d7a@ef4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231216T113000Z
+LOCATION:24Б-422
+DTSTART:20231216T100000Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:4af90775-ff8d-4bfb-afbd-832a910ac671@4af9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231214T113000Z
+LOCATION:24Б-414
+DTSTART:20231214T100000Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:79fd98ee-3daa-4cca-befd-98223ca64cc5@79fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20231026T113000Z
+LOCATION:24Б-424
+DTSTART:20231026T100000Z
+SUMMARY:ПЗ Системы контроля радиотехнических устройств
+UID:713a7291-6b03-4a37-a6a0-8130ca7ffd07@713a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230913T091500Z
+LOCATION:24Б-621
+DTSTART:20230913T074500Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:966efdf6-2995-4389-906c-4b82440dfda8@966e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231018T091500Z
+LOCATION:24Б-621
+DTSTART:20231018T074500Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:8476e30e-d76f-4e6f-a263-f53c0057221a@8476.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231004T073000Z
+LOCATION:24Б-621
+DTSTART:20231004T060000Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:d398937d-bf00-4d6b-bbce-2744a8efa340@d398.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231011T073000Z
+LOCATION:24Б-621
+DTSTART:20231011T060000Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:a425bf73-a91a-43c4-b5ea-ba592e499ac0@a425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20230921T150000Z
+LOCATION:24Б-414
+DTSTART:20230921T133000Z
+SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
+UID:aad74e09-891a-4334-9c77-dfc6fa0bf486@aad7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231118T073000Z
+LOCATION:24Б-424
+DTSTART:20231118T060000Z
+SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
+UID:86c9a97a-ed1d-4b15-a70d-9603a3357d28@86c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231123T131500Z
+LOCATION:24Б-414
+DTSTART:20231123T114500Z
+SUMMARY:ЛР Программируемая элементная база
+UID:e5de2492-cf1f-423b-a071-843a68f593a2@e5de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231202T113000Z
+LOCATION:24Б-422
+DTSTART:20231202T100000Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:7ca1ef9b-d1f8-45dd-b0e2-d9be97b8e0d6@7ca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231206T073000Z
+LOCATION:24Б-624
+DTSTART:20231206T060000Z
+SUMMARY:ПЗ Конструирование СВЧ-устройств
+UID:acfa40d1-a4c1-42db-809e-be0e25302455@acfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231005T164500Z
+LOCATION:24Б-414
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
+UID:df7b5ca5-ac66-483e-a7bf-655fb19a31fb@df7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231026T164500Z
+LOCATION:24Б-330
+DTSTART:20231026T151500Z
+SUMMARY:ЛК Программируемая элементная база
+UID:ee640630-50ff-44ae-b747-6c03cccaae54@ee64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231209T091500Z
+LOCATION:24Б-424
+DTSTART:20231209T074500Z
+SUMMARY:ПЗ Искусственный интеллект в системном проектировании РТУиС
+UID:60bf2431-50f7-405b-b943-8bd6adf4b5dc@60bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20230923T073000Z
+LOCATION:24Б-424
+DTSTART:20230923T060000Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:238a855f-ad8f-4079-8b2b-b1b31b03e82e@238a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20231207T150000Z
+LOCATION:24Б-420
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Системы контроля радиотехнических устройств
+UID:b7ac3366-8cd9-4e1e-8f96-a5985bb15a34@b7ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20230914T113000Z
+LOCATION:24Б-424
+DTSTART:20230914T100000Z
+SUMMARY:ЛК Системы контроля радиотехнических устройств
+UID:584d8a60-d66d-4347-bcae-4f247e69b78d@584d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231014T091500Z
+LOCATION:24Б-424
+DTSTART:20231014T074500Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:642a650d-61c5-4b12-a178-5a53c69156f7@642a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231122T091500Z
+LOCATION:24Б-624
+DTSTART:20231122T074500Z
+SUMMARY:ПЗ Конструирование СВЧ-устройств
+UID:03750bf8-a8a9-4003-a2f2-9ce6b414815e@0375.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231014T131500Z
+LOCATION:24Б-422
+DTSTART:20231014T114500Z
+SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:0c3d2bd1-5a2d-4003-90f3-0f5886e5b1a9@0c3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231115T073000Z
+LOCATION:24Б-624
+DTSTART:20231115T060000Z
+SUMMARY:ЛР Конструирование СВЧ-устройств
+UID:c25132d8-ccd1-4b3f-904c-5d906fb845bc@c251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231007T131500Z
+LOCATION:24Б-422
+DTSTART:20231007T114500Z
+SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:a0928f46-2076-4308-859d-b4d4e33ed6ca@a092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230913T073000Z
+LOCATION:24Б-621
+DTSTART:20230913T060000Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:4bd4c5a5-2f5b-4bf4-bc48-853a836135a6@4bd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231214T150000Z
+LOCATION:24Б-414
+DTSTART:20231214T133000Z
+SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
+UID:56c9700d-dc11-4081-8430-578adb7a358e@56c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231123T113000Z
+LOCATION:24Б-414
+DTSTART:20231123T100000Z
+SUMMARY:ЛР Программируемая элементная база
+UID:dfeef36e-e3d7-421b-a0a8-2d6c030f72f3@dfee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231118T091500Z
+LOCATION:24Б-424
+DTSTART:20231118T074500Z
+SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
+UID:c0dbab5c-c77d-476a-8cc2-4b713ccbb338@c0db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231214T164500Z
+LOCATION:24Б-414
+DTSTART:20231214T151500Z
+SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
+UID:6492149c-0faa-4680-89d8-ce716f4228be@6492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231206T091500Z
+LOCATION:24Б-624
+DTSTART:20231206T074500Z
+SUMMARY:ПЗ Конструирование СВЧ-устройств
+UID:0a427384-dd8a-45cd-b3e4-4a64390e8d54@0a42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230927T091500Z
+LOCATION:24Б-621
+DTSTART:20230927T074500Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:b6a36eb3-eee7-469e-b473-363e9b95e924@b6a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231228T150000Z
+LOCATION:24Б-414
+DTSTART:20231228T133000Z
+SUMMARY:ЛР Программируемая элементная база
+UID:030df5c1-ed13-4305-b83a-94c41edddcde@030d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20230923T113000Z
+LOCATION:24Б-422
+DTSTART:20230923T100000Z
+SUMMARY:ЛК Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:00623a58-452a-44be-ac58-598778efa66c@0062.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231214T131500Z
+LOCATION:24Б-414
+DTSTART:20231214T114500Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:fe50b0c9-904e-44c3-9183-97ddf681676b@fe50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231101T091500Z
+LOCATION:24Б-624
+DTSTART:20231101T074500Z
+SUMMARY:ЛР Конструирование СВЧ-устройств
+UID:86155446-e628-4655-822d-0ef1b0f41486@8615.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231216T073000Z
+LOCATION:24Б-424
+DTSTART:20231216T060000Z
+SUMMARY:ПЗ Искусственный интеллект в системном проектировании РТУиС
+UID:12bfea09-afae-4d4e-90cb-a846c093ff90@12bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231202T091500Z
+LOCATION:24Б-424
+DTSTART:20231202T074500Z
+SUMMARY:ЛР Искусственный интеллект в системном проектировании РТУиС
+UID:9693b282-2a56-4a17-8f94-f109703ea03f@9693.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20230921T131500Z
+LOCATION:24Б-414
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:ff8638f4-5d80-42a8-8a03-b5a1ced2c10d@ff86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231213T091500Z
+LOCATION:24Б-624
+DTSTART:20231213T074500Z
+SUMMARY:ПЗ Конструирование СВЧ-устройств
+UID:476dbdf3-84c4-4667-97b0-0fbb827245aa@476d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231130T113000Z
+LOCATION:24Б-414
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:330463bc-9941-497c-a14a-afff8536df16@3304.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231012T164500Z
+LOCATION:24Б-330
+DTSTART:20231012T151500Z
+SUMMARY:ЛК Программируемая элементная база
+UID:cac28e7b-ea01-44ee-b157-6b9858e00822@cac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231111T113000Z
+LOCATION:24Б-422
+DTSTART:20231111T100000Z
+SUMMARY:ЛР Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:4b9236d1-f581-4a5d-bb49-f3f23fbc30a3@4b92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20230930T073000Z
+LOCATION:24Б-424
+DTSTART:20230930T060000Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:15015967-cfd1-46bb-a44a-ec7ba2c3b1e1@1501.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20230921T164500Z
+LOCATION:24Б-414
+DTSTART:20230921T151500Z
+SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
+UID:a98e53b7-443b-4233-b37d-765327f1a34d@a98e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231209T131500Z
+LOCATION:24Б-422
+DTSTART:20231209T114500Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:68f47462-6489-439f-867c-e0d1323cf158@68f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231216T131500Z
+LOCATION:24Б-422
+DTSTART:20231216T114500Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:29363548-f5dd-4d5d-9cfa-5d6ea597441f@2936.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231005T131500Z
+LOCATION:24Б-414
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:7936bc31-887a-49be-b6c8-696b37115bab@7936.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231102T113000Z
+LOCATION:24Б-414
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:70600daa-9001-4f04-afdb-302c79610aa9@7060.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231101T073000Z
+LOCATION:24Б-624
+DTSTART:20231101T060000Z
+SUMMARY:ЛР Конструирование СВЧ-устройств
+UID:1b51af3c-7a5a-4cad-97ee-49ecadad17c4@1b51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231213T073000Z
+LOCATION:24Б-624
+DTSTART:20231213T060000Z
+SUMMARY:ПЗ Конструирование СВЧ-устройств
+UID:b4dece53-3b57-41c9-8dc3-9992f20156c0@b4de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20230928T131500Z
+LOCATION:24Б-424
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Системы контроля радиотехнических устройств
+UID:16c07321-af3d-48c7-8d54-04e08bf1a994@16c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231025T091500Z
+LOCATION:24Б-621
+DTSTART:20231025T074500Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:b2ac9e63-0292-4430-9f69-cea47a7ac855@b2ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20230916T073000Z
+LOCATION:24Б-424
+DTSTART:20230916T060000Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:813946ba-a8fc-41bb-b2be-3e968d5d598c@8139.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20230906T073000Z
+LOCATION:24Б-621
+DTSTART:20230906T060000Z
+SUMMARY:ЛК Конструирование СВЧ-устройств
+UID:cdd54cb3-8160-4c50-be18-2faaad10ee81@cdd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20231221T164500Z
+LOCATION:24Б-420
+DTSTART:20231221T151500Z
+SUMMARY:ПЗ Системы контроля радиотехнических устройств
+UID:237bd74c-ff5f-4077-9f0d-8d91391b967d@237b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231102T150000Z
+LOCATION:24Б-414
+DTSTART:20231102T133000Z
+SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
+UID:10d37e45-df90-4b2f-8284-fadf3ba44c10@10d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20231109T131500Z
+LOCATION:24Б-424
+DTSTART:20231109T114500Z
+SUMMARY:ПЗ Системы контроля радиотехнических устройств
+UID:4e2ab42e-94dd-4b2b-8acc-a6477d58aae3@4e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овчинникова Елена Викторовна
+DTEND:20231129T073000Z
+LOCATION:24Б-624
+DTSTART:20231129T060000Z
+SUMMARY:ПЗ Конструирование СВЧ-устройств
+UID:00a864d6-f48e-4f1a-8d33-62d05d1a39e4@00a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20230921T113000Z
+LOCATION:24Б-414
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:0942fa59-35dd-4e91-b69f-479f909c7e02@0942.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20230914T150000Z
+LOCATION:24Б-420
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Системы контроля радиотехнических устройств
+UID:4e712d22-bf8c-48ee-9db6-1df5f78f9c00@4e71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231019T131500Z
+LOCATION:24Б-414
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:1cc1d55d-5f76-4ef0-b19d-5fca52b1d15d@1cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231014T073000Z
+LOCATION:24Б-424
+DTSTART:20231014T060000Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:389ed4ff-2630-463a-828e-a59e33fcd099@389e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231019T164500Z
+LOCATION:24Б-414
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
+UID:693f7cb2-bd19-476d-94ff-73724cbb3533@693f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Алексей Михайлович
+DTEND:20230914T131500Z
+LOCATION:24Б-424
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Системы контроля радиотехнических устройств
+UID:fd1c876a-0346-4fd6-ad9a-c2aa0ab40180@fd1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231130T164500Z
+LOCATION:24Б-414
+DTSTART:20231130T151500Z
+SUMMARY:ЛР Схемотехническое проектирование цифровых устройств
+UID:348ede19-708e-4444-83e4-71fdda928a65@348e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кузнецов Андрей Сергеевич
+DTEND:20231007T073000Z
+LOCATION:24Б-424
+DTSTART:20231007T060000Z
+SUMMARY:ЛК Искусственный интеллект в системном проектировании РТУиС
+UID:fe2c1283-a1fb-4aa9-b9f1-529d271a2819@fe2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231019T150000Z
+LOCATION:24Б-414
+DTSTART:20231019T133000Z
+SUMMARY:ПЗ Схемотехническое проектирование цифровых устройств
+UID:b588b403-1ef6-4da3-83ca-6f3680f8361b@b588.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231221T131500Z
+LOCATION:24Б-414
+DTSTART:20231221T114500Z
+SUMMARY:ЛР Программируемая элементная база
+UID:72bba15b-fdd1-4db7-bdb2-953a1e646346@72bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231005T113000Z
+LOCATION:24Б-414
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:165c7d92-286d-4cb1-954b-393a2b2e4afe@165c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Орлов Валерий Павлович
+DTEND:20231130T131500Z
+LOCATION:24Б-414
+DTSTART:20231130T114500Z
+SUMMARY:ЛК Схемотехническое проектирование цифровых устройств
+UID:c4c289ab-de22-48ee-b910-1fed83b943c1@c4c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старенченко Александр Владимирович
+DTEND:20231118T113000Z
+LOCATION:24Б-422
+DTSTART:20231118T100000Z
+SUMMARY:ПЗ Программные средства автоматизации конструкторско-технологического проектирования РЭС
+UID:3ade7fc6-3850-433c-a80d-1925b84f8ae7@3ade.org
 END:VEVENT
 END:VCALENDAR

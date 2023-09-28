@@ -2,1277 +2,1277 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231016T113000Z
+DTEND:20231130T131500Z
 LOCATION:ГУК В-701-и
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
-UID:2207b837-bf8e-46f8-a937-25affcbf8e98@2207.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230913T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230913T060000Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:dc175e56-3a99-4363-86fb-a924bfcf982b@dc17.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230921T100000Z
-SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:780d61f5-3fed-4fda-840b-836158fb3c27@780d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231023T100000Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:25c0c2d4-dc9f-4268-8eef-1a3e0d3f1bc9@25c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231025T060000Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:138f317f-a39f-4b6a-870b-558bb85f5bde@138f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231211T114500Z
-SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
-UID:973583ad-503a-400b-92a6-4f0a95a95a3b@9735.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230911T100000Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:c7c0f10c-9f5f-470a-8572-f9bf7be05435@c7c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231102T114500Z
+DTSTART:20231130T114500Z
 SUMMARY:ЛК Технологические исследования и испытания
-UID:d7e243cb-feeb-4508-82ca-a4e8131f4a2a@d7e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230923T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230923T074500Z
-SUMMARY:ПЗ Качество поверхностного слоя
-UID:6b3b8ea8-8fc2-47d9-8b1c-1695b72ff393@6b3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231216T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231216T074500Z
-SUMMARY:ПЗ Качество поверхностного слоя
-UID:1f46e3d7-5cb0-4978-b203-4fea9cd6d4c4@1f46.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230904T114500Z
-SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
-UID:6f02eda8-666e-4bbc-81bf-2d0893a60862@6f02.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231018T074500Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:a28c0203-0980-458e-8695-f38ef6813366@a28c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231025T114500Z
-SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:3bf6efd4-d650-45a9-b6f0-3b5782472214@3bf6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
-UID:2bd46954-7d18-492d-93bf-3d70437db8e0@2bd4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231018T060000Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:26d748ef-f379-406e-9b21-86654d54dc62@26d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231012T100000Z
-SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:05244dc5-aea7-4f2f-b657-aa377274bdad@0524.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231017T074500Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:04d05fe1-d038-433b-85ae-2f90f83b83d1@04d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231220T114500Z
-SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:1318eac5-c578-42cb-8b62-c40a0cfa5af5@1318.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231107T074500Z
-SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:bbe73368-c534-4c88-89f1-f47f78319027@bbe7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231016T114500Z
-SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
-UID:705e729e-dfd4-45b0-9129-31619491ee30@705e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231129T060000Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:db4b275c-abe3-4122-b5ee-4f3821a4cd87@db4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:1dcec6ed-64b2-4e9c-afda-27082b1ffa42@1dce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231123T114500Z
-SUMMARY:ПЗ Технологические исследования и испытания
-UID:9fff9685-3f2a-4835-a103-9631380f5c66@9fff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231114T060000Z
-SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:9d4b7714-048d-4944-9083-f7d24d544981@9d4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231230T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231230T060000Z
-SUMMARY:ЛК Качество поверхностного слоя
-UID:47028d96-cf8e-48bd-a814-8691a59a2293@4702.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231202T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231202T074500Z
-SUMMARY:ПЗ Качество поверхностного слоя
-UID:489e3b91-679c-400e-a99f-09cd814609d4@489e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:9d995e7b-1b15-40d9-8f96-75b8b012c6db@9d99.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231206T074500Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:23a77927-5a93-41cc-9ddc-5c3093419022@23a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:e6687986-8e06-4bed-86c4-637af48494dd@e668.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231218T100000Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:5f79c3bd-f7a6-4fe2-b29b-ba70862629b6@5f79.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
-UID:3597565b-dd4b-47cd-ad8d-fae15d33da1a@3597.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231128T060000Z
-SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:37ff8b57-f16b-49d3-beee-251df7fe7732@37ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231109T114500Z
-SUMMARY:ПЗ Технологические исследования и испытания
-UID:098b0a18-062b-47d1-8e97-1ae9951c8941@098b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231031T060000Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:be3447ea-8070-4283-9e25-85bf7edc0e0d@be34.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231005T100000Z
-SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:33f8c411-e204-44d9-8248-3a1647961065@33f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231213T114500Z
-SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
-UID:6a0a1145-dbe5-4faa-8721-4ce8a203e449@6a0a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231004T060000Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:4154ec44-6f05-4724-80bf-4c8a9646252a@4154.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231108T074500Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:b1bd2f9f-b122-432d-a774-9a550ad9a25e@b1bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230927T060000Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:7805a285-4391-4072-bab9-b71757b43519@7805.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230927T114500Z
-SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:77af016f-da0b-4f51-921a-89016e7024fb@77af.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231118T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231118T074500Z
-SUMMARY:ПЗ Качество поверхностного слоя
-UID:65637293-5a43-414d-9398-2232b199bf70@6563.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:13bc460e-b14c-4714-bc12-38663576a301@13bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230928T100000Z
-SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:03876401-c448-4df9-b39a-1a9530d082d3@0387.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230909T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230909T074500Z
-SUMMARY:ПЗ Качество поверхностного слоя
-UID:7c3a9d9c-f9ac-4a88-9d51-63f1fb6e5dd9@7c3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231109T100000Z
-SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:8f4403f3-6a85-4995-a7b4-fa3125f7b332@8f44.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:31023c75-0b59-42ed-bc02-bc0adbe7ebe5@3102.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230927T100000Z
-SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:bfffb143-c190-457c-9f17-5f33dc39c38f@bfff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231101T074500Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:450e9d1b-9c5f-4a6f-bd54-9b04df541ca3@450e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230918T114500Z
-SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
-UID:a58bb78a-1e67-41c7-ba8b-dfd04cc18b82@a58b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231116T100000Z
-SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:64220e11-007d-4e49-b5b1-d92a05b94897@6422.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
-UID:02619860-8f70-454a-95e1-41b6b3944eac@0261.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231011T060000Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:76450348-1eba-44f9-bb6a-843efbfc0ddb@7645.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
-UID:b86caea5-18d5-4bcb-8741-fe32a7dd41e1@b86c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230905T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230905T060000Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:76e62e21-250c-40ef-afbc-2c5a560986f1@76e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231121T060000Z
-SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:82a0092c-1e8d-42d2-9e6e-be9d567390f7@82a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231206T060000Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:1cdfda80-c854-4385-98cb-d2e73ea1737f@1cdf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230926T060000Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:c23ccf52-a1ff-4179-ae34-0d677f3b2ba7@c23c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231024T074500Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:02c54cec-79c2-4a1a-bf8c-b742dc616bc8@02c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230920T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230920T060000Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:6902189d-e090-40f8-88ae-337a58c207be@6902.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230906T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230906T074500Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:76ca4b20-e764-4791-84f6-2782cd11bd78@76ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230920T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230920T114500Z
-SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
-UID:0b4466f5-c154-47bf-8634-f2a8e1e13e19@0b44.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231127T100000Z
-SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
-UID:ad73ae10-ebb7-4b4d-9374-c4c4c4d4de84@ad73.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231206T100000Z
-SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:5ff563d8-7e2b-4576-ab72-11561ffcd98d@5ff5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231011T074500Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:c2ddf3aa-2622-4143-80f8-3dc8fff52a0e@c2dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:4985c31a-e82c-44d7-aade-60e307b0312c@4985.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Технологические исследования и испытания
-UID:01ae69ba-0cd7-4cba-85ef-c8b12f7d9e8c@01ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230914T114500Z
-SUMMARY:ПЗ Технологические исследования и испытания
-UID:8c91f855-1184-4429-b5b1-1a7b241bdfc0@8c91.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231017T060000Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:6f1f5bb9-9d38-44e2-ba20-1783f96a2b95@6f1f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231010T060000Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:0872a0b1-41f5-472f-9997-03c3c55b82f8@0872.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231204T074500Z
-SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:c9052c77-1b1a-4f7a-8f4d-e19e11ce1d8a@c905.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231221T114500Z
-SUMMARY:ПЗ Технологические исследования и испытания
-UID:d912f522-a361-46aa-9146-8c20057eab9d@d912.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230920T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
-UID:ec137532-7423-4576-8c18-dbd1fc22303d@ec13.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231010T074500Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:361e3142-c82a-462d-81c7-cf95f9c56bd2@361e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231227T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231227T100000Z
-SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
-UID:60bf53d0-2d19-4d8d-91d3-1457b22fa3a1@60bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230927T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230927T074500Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:46ca622c-fbf8-4398-b84c-d394ce3e03d3@46ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231129T114500Z
-SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
-UID:12ec1df1-d355-4c4a-86d2-0df58e92986c@12ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231116T114500Z
-SUMMARY:ЛК Технологические исследования и испытания
-UID:2249a42a-b9ae-4003-9f88-0120820aa63f@2249.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231002T114500Z
-SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
-UID:d7c22778-cbcf-4d03-90b3-1fbb855d63f7@d7c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231128T074500Z
-SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:7d2a9677-f999-43d0-aba3-180cfa8bdc2c@7d2a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230909T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230909T060000Z
-SUMMARY:ЛК Качество поверхностного слоя
-UID:4b107c31-b8f0-4b80-a581-bd0b66382d4d@4b10.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
-UID:bb170023-b6b7-45e4-aa40-0e962445bf23@bb17.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231009T100000Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:289eb5f1-5a93-41da-ae11-c2a63122b3cb@289e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231004T074500Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:c78a6bf6-0f45-46c6-98bf-291cbc629326@c78a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Технологические исследования и испытания
-UID:81d6ceb4-1b43-4de3-9c5a-2e3344ee09b5@81d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231003T074500Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:1897a6df-68ff-4c74-b257-e0eeb403b6ff@1897.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230912T060000Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:09455a3c-8d7d-464c-89b1-427935d0dd7b@0945.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231220T100000Z
-SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:21792257-78da-43df-876e-de0f5d969596@2179.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230913T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230913T114500Z
-SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:cb343e34-7fad-4f8c-a6be-af6f2b4f8c5b@cb34.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230920T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230920T074500Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:2eda6187-61f0-44c3-818b-c5c940ec2061@2eda.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231024T060000Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:53342c17-c83b-4c5f-864b-b74b756522f9@5334.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231120T074500Z
-SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:334be173-f05e-4ee0-bbe3-116bdbd707a7@334b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
-UID:03133d4f-369a-4b04-9d12-a54e19e63f98@0313.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231012T114500Z
-SUMMARY:ПЗ Технологические исследования и испытания
-UID:e5ed7c6f-2b52-443e-865e-c7712b86634e@e5ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231228T114500Z
-SUMMARY:ЛК Технологические исследования и испытания
-UID:f49d764b-1b71-4061-bdb8-17ccf8ff27fc@f49d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
-UID:909b04b3-4b05-4d54-9542-03cdafc4e423@909b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
-UID:3b51a256-96e6-4459-b8c1-d2a81da26967@3b51.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231129T100000Z
-SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
-UID:858fb9b6-0f4f-474d-bb93-60ccc70477d4@858f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231108T060000Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:7dd13b91-c76e-4af8-957c-ebd218b25e48@7dd1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:18ae27c8-45e5-43e1-a688-a8b86f86a530@18ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231026T114500Z
-SUMMARY:ПЗ Технологические исследования и испытания
-UID:64bfa348-8dff-44c8-badb-53fbfa1d692c@64bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231207T100000Z
-SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:70a82ba6-3826-4cbf-928f-fd25149a60c1@70a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:735c3ca2-a9f5-4c64-8876-f406ae0c459d@735c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231230T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231230T074500Z
-SUMMARY:ПЗ Качество поверхностного слоя
-UID:3fe480dc-b122-49b9-a696-946460130c61@3fe4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231114T074500Z
-SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:efaab5f1-137b-4e6d-a474-1fd830afc656@efaa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231019T100000Z
-SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:608b381c-aad1-4b6a-98cd-44ddc5bd1a64@608b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231107T060000Z
-SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:48fe943d-637a-4c0f-aea6-50e5f9118bfd@48fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230913T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230913T074500Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:83e3c302-d0ab-4d97-8571-16f4aa853676@83e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230919T074500Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:7f3c1709-623f-4e8b-8edc-77aa4cdc29f2@7f3c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:21da0560-7147-4ffc-91c7-1c4b7d8433cb@21da.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231023T074500Z
-SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:983435b3-29e9-4fb0-a8e2-47695e92ed7a@9834.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231228T100000Z
-SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:e34d50fb-a160-48c1-83d2-a7dcc15639a0@e34d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231118T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231118T060000Z
-SUMMARY:ЛК Качество поверхностного слоя
-UID:622c6071-6235-4f55-9bf4-c27202621c95@622c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230928T114500Z
-SUMMARY:ПЗ Технологические исследования и испытания
-UID:e3c26b92-d824-4a00-821b-d1ab9bb697e8@e3c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230926T074500Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:419a0edc-5381-4791-8c57-046bb5a8e76e@419a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230906T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230906T114500Z
-SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
-UID:2b3b1b12-e8a9-42fe-b2d9-296158e94985@2b3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231011T114500Z
-SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:07daf429-5ed6-4cc2-bd8b-c7be71c8cebc@07da.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231026T100000Z
-SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:3716f81c-bf57-4356-94d2-5da2a93892eb@3716.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231115T074500Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:0c0c7915-017c-4a8c-a190-655ee5c91f77@0c0c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Технологические исследования и испытания
-UID:402385e0-837b-439f-a9c9-f5667cb973ad@4023.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231007T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231007T060000Z
-SUMMARY:ЛК Качество поверхностного слоя
-UID:f8e26cc7-7240-4c56-93bc-dcf95f79c57a@f8e2.org
+UID:bb93c3a1-e701-4ddb-96a1-e708f5e48923@bb93.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231018T113000Z
 LOCATION:ГУК В-701-и
 DTSTART:20231018T100000Z
 SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
-UID:4168e561-244f-47dd-9460-0aa387a219ba@4168.org
+UID:2aa4b17b-a28c-455c-80a3-e2cc6e9609c7@2aa4.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231108T131500Z
+DTEND:20231123T131500Z
 LOCATION:ГУК В-701-и
-DTSTART:20231108T114500Z
-SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:d9c29ad6-afdb-4c0d-a684-94d64d0f4bc1@d9c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231101T060000Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:c0a003af-b228-46e3-8c9a-432a211d9d3b@c0a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231122T074500Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:f012916e-73e6-48eb-baa9-364f2b198d37@f012.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231204T114500Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:660e4534-3de1-48f6-8eed-e9816e983463@660e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231106T100000Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:3f06f357-6cb5-478a-9244-eaad9291a4eb@3f06.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230912T074500Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:ce30fc62-09aa-486d-8d66-ed3c52ca1938@ce30.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231221T100000Z
-SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:d798129c-3f65-4046-bc48-88ab73afa8a8@d798.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230907T100000Z
-SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:de3567ec-287d-4687-bc4f-f5e67b47fed4@de35.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:be2f2a23-4021-4fbd-ad90-f42dfcd99b25@be2f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231121T074500Z
-SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:82cf7023-4273-45ea-99f3-e860f164edd9@82cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230911T074500Z
-SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:350bf7a9-48fa-413c-adad-dd6ba1f41002@350b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231211T100000Z
-SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
-UID:85beeb2e-05a6-467d-92bc-24b871a2ae00@85be.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231218T114500Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:32ccee7d-b601-4207-8f41-501d8aff670f@32cc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231031T074500Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:a7d84c45-cf8d-4fc8-8fcf-153a18153478@a7d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
-UID:289f0f86-8c93-4ad3-afa9-7e68e6fb0c54@289f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231021T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231021T074500Z
-SUMMARY:ПЗ Качество поверхностного слоя
-UID:ab0968f3-5070-4934-89e8-508839e28bbf@ab09.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230925T074500Z
-SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:7cb8237f-e659-4c60-b567-685ec5032882@7cb8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Технологические исследования и испытания
-UID:0b096a34-722f-4bd2-a5b8-66542f6ca7fa@0b09.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231115T060000Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:68349068-f006-4f71-af24-1cbda6239842@6834.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231101T114500Z
-SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
-UID:2d741f5e-cd48-44d5-830d-8837ab5af918@2d74.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Технологические исследования и испытания
-UID:63026af0-d0eb-48d3-95ee-065443af4104@6302.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
-UID:7a75ae51-5c0a-4e59-9571-7876f35518c0@7a75.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231004T114500Z
-SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
-UID:2a41a0a9-dec9-493a-b044-bcbe78edeb3c@2a41.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231122T060000Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:d6935447-e680-4792-870e-cb933485a6f2@d693.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231007T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231007T074500Z
-SUMMARY:ПЗ Качество поверхностного слоя
-UID:b7ffa3c4-08b4-4392-b607-1d0e333c75a0@b7ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231127T114500Z
-SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
-UID:70524d0c-3f4a-4986-9c11-59a8cb2f90e2@7052.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231205T060000Z
-SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:45737cbb-3cae-4dd6-a9c4-2bae4074273a@4573.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231218T074500Z
-SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:c3b11b90-8df1-4b4b-9269-f52ebb4123e2@c3b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231206T114500Z
-SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:36153425-75a3-46e0-843a-b9e017f7c2b2@3615.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231225T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231225T100000Z
-SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
-UID:705922bd-47be-45df-91d7-74eb3af3a66d@7059.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
-UID:17f56e16-ac1b-417b-bb31-f764ef0355db@17f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231130T114500Z
-SUMMARY:ЛК Технологические исследования и испытания
-UID:0f50fcb2-d24f-4933-a783-2b76a1fd2159@0f50.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230906T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230906T060000Z
-SUMMARY:ЛК Программные CFD комплексы
-UID:0d0cfd9d-5de2-48fb-a748-b84fce051404@0d0c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230905T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20230905T074500Z
-SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:171d0859-e511-4709-bf63-f09ee5827530@171d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231120T100000Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:9942c6bb-2a60-46d7-b22b-b8e68d47b66e@9942.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231225T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231225T114500Z
-SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
-UID:5fee25ee-400f-4f81-9211-80b60fb007f2@5fee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231213T100000Z
-SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
-UID:1b5a3000-6e15-4020-a055-6865f78e8538@1b5a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231227T131500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231227T114500Z
-SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
-UID:92e64d2f-ce56-43b1-b7ae-2edafcc07e10@92e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231123T100000Z
-SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:7f21e06d-dc14-4e97-a666-dec3e470b175@7f21.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230914T100000Z
-SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:c285e5c1-ada1-4b02-bb15-c7323dcc74e0@c285.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230925T100000Z
-SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:4aee5496-76e4-456f-a65f-601d25597a91@4aee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231202T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231202T060000Z
-SUMMARY:ЛК Качество поверхностного слоя
-UID:15ff58a4-f578-491c-b004-c12f4a33233b@15ff.org
+DTSTART:20231123T114500Z
+SUMMARY:ПЗ Технологические исследования и испытания
+UID:4cd23c88-c825-4bc8-b0b5-3605805d9df7@4cd2.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230919T073000Z
 LOCATION:ГУК В-701-и
 DTSTART:20230919T060000Z
 SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:d620e31f-4828-43da-ba0b-bbf85000c99e@d620.org
+UID:c4b67347-b791-4718-8108-9032cbc66b3a@c4b6.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231216T073000Z
+DTEND:20231107T073000Z
 LOCATION:ГУК В-701-и
-DTSTART:20231216T060000Z
-SUMMARY:ЛК Качество поверхностного слоя
-UID:4eb12cc1-c8bf-4235-9ac2-b592baca94ae@4eb1.org
+DTSTART:20231107T060000Z
+SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:13d4cf76-5ad6-4960-9d9b-15f7df1b47f6@13d4.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230925T131500Z
+DTEND:20231026T113000Z
 LOCATION:ГУК В-701-и
-DTSTART:20230925T114500Z
+DTSTART:20231026T100000Z
+SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:110f8134-06f9-4341-91d2-c1716cedcc28@110f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231129T060000Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:e6c2f7be-19bc-42ac-9b05-6b4d4b1dad0f@e6c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
+UID:bea078ec-5459-46e1-bad0-08abea83b110@bea0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231220T100000Z
+SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:0d642d32-fcac-49eb-9809-791ee99d192b@0d64.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231009T100000Z
 SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:3f6d8d85-ad6f-4cf2-9142-7571092883f9@3f6d.org
+UID:f1b45105-6e53-439b-a566-c5b0f29fa5d7@f1b4.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231204T113000Z
+DTEND:20231206T131500Z
 LOCATION:ГУК В-701-и
-DTSTART:20231204T100000Z
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:3ef9fa58-8d23-4729-9a7a-ae7130103977@3ef9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231009T114500Z
 SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:da501cc0-a7c3-4249-86ad-5b6f411e7f08@da50.org
+UID:5cb0b0b9-c768-4380-bd3e-0f77c30df144@5cb0.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231030T113000Z
+DTEND:20230926T091500Z
 LOCATION:ГУК В-701-и
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
-UID:825d760c-1119-4f55-9a73-07c4ee6efaa7@825d.org
+DTSTART:20230926T074500Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:c786821e-28df-43c9-a09f-8c1127050a72@c786.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231025T060000Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:fada8aa3-4c3f-4a80-b93e-2e1e69c2fd1c@fada.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230927T114500Z
+SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:d4b61fe9-8850-4c11-9095-c10d2487b00a@d4b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231017T060000Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:96a3cc51-626a-44ec-b35f-cac7e5b8b218@96a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230923T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230923T074500Z
+SUMMARY:ПЗ Качество поверхностного слоя
+UID:950a0015-51e9-46e1-8842-2ee18f625538@950a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231018T060000Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:354bda5e-7155-4bcc-8c56-365e6b827143@354b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231122T060000Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:7bb45294-a673-4dd7-ac8a-1c578ae872a4@7bb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231127T114500Z
+SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
+UID:9227489f-bc1e-43bc-a7d0-dde2bb786bf1@9227.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
+UID:504fa564-4514-4c28-92e2-27aedfebff99@504f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231214T114500Z
+SUMMARY:ЛК Технологические исследования и испытания
+UID:c20d7255-2f95-4f97-b5d3-fcd0c9d0974c@c20d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231024T074500Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:f40dde2e-857f-4ac2-babe-c7e5512530bf@f40d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230913T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230913T074500Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:5c0179b1-3797-4f80-81dd-ca039f2acc0e@5c01.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231108T060000Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:48a32295-bc54-4253-b8f8-23277c2c6dce@48a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230913T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230913T060000Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:3d8e8fc9-5a9d-4985-b4c5-53a0c49718d7@3d8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:a4b9055d-555d-4005-8dff-aab8a43215d2@a4b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
+UID:f4fe5c20-a926-4db6-930f-a6ae4952e12e@f4fe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231108T074500Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:de172216-db22-45de-a0f3-3d9a9a34d7f9@de17.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230912T060000Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:dc6383ec-091c-43b4-aa73-4e5d9306a654@dc63.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231003T073000Z
 LOCATION:ГУК В-701-и
 DTSTART:20231003T060000Z
 SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:afa0017c-9b2a-4332-895f-3c19dfbe07a9@afa0.org
+UID:d37442b9-cfde-4191-826d-c975745fe798@d374.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231122T113000Z
+DTEND:20230905T091500Z
 LOCATION:ГУК В-701-и
-DTSTART:20231122T100000Z
-SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:9f652a68-7085-4e12-a885-5412b7f60f65@9f65.org
+DTSTART:20230905T074500Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:81e8bcee-4677-4e86-8579-e08a5b34d635@81e8.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231129T091500Z
+DTEND:20231216T073000Z
 LOCATION:ГУК В-701-и
-DTSTART:20231129T074500Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:8209b79b-2e09-47d8-a821-db4991b0dde4@8209.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231106T074500Z
-SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:9a7035c4-836b-44e5-b293-ed6c56218b3b@9a70.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:06bdb457-885f-431f-b111-c81d3cc3d6e0@06bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231205T074500Z
-SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
-UID:af4240a8-b31b-4ceb-bd79-fe724c4b9ff0@af42.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T091500Z
-LOCATION:ГУК В-701-и
-DTSTART:20231025T074500Z
-SUMMARY:ПЗ Программные CFD комплексы
-UID:0eecc093-b423-49af-a764-89d95bb7b7a2@0eec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230923T073000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230923T060000Z
+DTSTART:20231216T060000Z
 SUMMARY:ЛК Качество поверхностного слоя
-UID:0ebd50e7-fb6b-4438-81b8-b8a6ed0ba9e2@0ebd.org
+UID:e0e71336-4e87-4b7b-b9c0-021ebe6ee87e@e0e7.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231021T073000Z
+DTEND:20231106T131500Z
 LOCATION:ГУК В-701-и
-DTSTART:20231021T060000Z
-SUMMARY:ЛК Качество поверхностного слоя
-UID:4d6e3e44-c858-48c8-98d2-a0ddb8615cc3@4d6e.org
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:c4a8cbd8-814d-40b1-b46e-9f992a0dc6a6@c4a8.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231214T113000Z
 LOCATION:ГУК В-701-и
 DTSTART:20231214T100000Z
 SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
-UID:f17b0f1b-f584-46e3-a7af-a95b17f47efe@f17b.org
+UID:0cd5e5f1-2c98-45c2-832e-93934a60696e@0cd5.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230913T113000Z
+DTEND:20231202T073000Z
 LOCATION:ГУК В-701-и
-DTSTART:20230913T100000Z
+DTSTART:20231202T060000Z
+SUMMARY:ЛК Качество поверхностного слоя
+UID:5c4582f6-cbbc-4af9-a8e1-ceb4833c63d8@5c45.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231101T074500Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:59e96133-3a28-4726-9ece-f3dc5181ee35@59e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231007T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231007T060000Z
+SUMMARY:ЛК Качество поверхностного слоя
+UID:a6f58210-5cc9-47ce-acbe-73fe697fb63d@a6f5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231106T100000Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:a5c62a47-2912-4e29-bb72-dabba8166deb@a5c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
+UID:a9d68122-6ea4-4a18-85ae-5835c22af392@a9d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231026T114500Z
+SUMMARY:ПЗ Технологические исследования и испытания
+UID:9417cb36-67a1-42db-93c1-6789d075eb45@9417.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231216T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231216T074500Z
+SUMMARY:ПЗ Качество поверхностного слоя
+UID:42bfce41-35ee-4677-99be-551facbf8986@42bf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230920T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230920T074500Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:5dfc910a-b26b-4834-aaff-23b75e5013ab@5dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231122T100000Z
 SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
-UID:beaf0cfd-4e2e-4c7b-a1fa-7c1b92ca4832@beaf.org
+UID:19a2e9a9-6815-4af9-8eb3-cf2ce270f2f1@19a2.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231009T091500Z
+DTEND:20231205T073000Z
 LOCATION:ГУК В-701-и
-DTSTART:20231009T074500Z
-SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
-UID:9ecac34f-2b37-4194-9c81-d5000eaf8027@9eca.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230906T113000Z
-LOCATION:ГУК В-701-и
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
-UID:9d92413e-7bf1-45bc-bf1a-325211ba58d0@9d92.org
+DTSTART:20231205T060000Z
+SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:4839881c-bf95-44db-8dcb-ffc02dae869c@4839.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231207T131500Z
 LOCATION:ГУК В-701-и
 DTSTART:20231207T114500Z
 SUMMARY:ПЗ Технологические исследования и испытания
-UID:d035230b-e6e2-48ed-b829-363619ec5959@d035.org
+UID:efc59bd2-23d2-4ae6-9dfa-512c043917bc@efc5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:2508bd83-cb75-4fa6-9150-d6fd62f8fea9@2508.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231021T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231021T074500Z
+SUMMARY:ПЗ Качество поверхностного слоя
+UID:c7f64ca6-9164-4b12-99f8-ec2ded44b049@c7f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:5d75f06d-6bb3-489e-a9c3-ce67847cac2f@5d75.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230920T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230920T060000Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:e8727c88-6ea6-415c-b013-c6621bb69296@e872.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:0f002940-e198-4863-9843-5d43c94c3aa4@0f00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230928T100000Z
+SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:b6129fbc-9f37-40b1-bd78-e6e11bcaf6b8@b612.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231101T060000Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:79e1ee26-e6f6-4926-b2f9-508540414f11@79e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230913T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:5cba1926-c3ec-411c-897c-f707519ce31f@5cba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231011T060000Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:a1813249-2003-4223-ac48-f07389286caf@a181.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230906T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230906T114500Z
+SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
+UID:81f48a92-6424-4cfb-976b-d304a8ecbdfa@81f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231122T074500Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:63848038-c420-44bf-817a-6601bfb15c68@6384.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:2bcb427b-bbeb-4412-a76d-e5130a50f9c0@2bcb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231128T074500Z
+SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:ac23d0c1-7f46-49c9-ba47-42813f123ef3@ac23.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:78391b17-3056-4134-b4c1-9d8e32f7c643@7839.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231227T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231227T114500Z
+SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
+UID:f860ecfb-fabe-4597-8ffe-19bef14a115f@f860.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231107T074500Z
+SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:1135c2f0-2cf9-4f0e-b561-d70ae54e8c19@1135.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230927T074500Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:cab77ec9-ba11-4519-ba96-6c6609954bc2@cab7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231024T060000Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:aec7c446-12de-4d0c-939f-d9fcb03ac87f@aec7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231228T100000Z
+SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:746bcbb0-9916-4042-8f37-e47403785113@746b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231114T060000Z
+SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:0912c541-97e6-4d12-a173-7f8bddb77d97@0912.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
+UID:e5161666-5b7f-4929-a41e-66d0a88957b6@e516.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230905T060000Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:57896d8f-44f8-417c-b961-3aa35358876c@5789.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231010T060000Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:c14f8749-e8cd-4725-a347-a791c695094d@c14f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231120T074500Z
+SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:88b505d6-f279-4b48-a1a1-d38efd308305@88b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231205T074500Z
+SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:ede24dbc-aefc-4345-a2e1-143346d9bb63@ede2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231204T074500Z
+SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:9a3e772c-b947-4073-b8a4-e51706871045@9a3e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:39063644-b74a-453e-82ea-3eb2a76bf0f9@3906.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231003T074500Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:5f847129-979f-48f5-bd9e-f4b12bae29aa@5f84.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231128T060000Z
+SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:b65d2ac1-6057-43e2-8fca-167af810717e@b65d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230912T074500Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:3e2a466f-7d1b-4961-9029-e59c3358dfeb@3e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231227T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231227T100000Z
+SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
+UID:d4950b28-c45f-48f5-8483-afaf9ce0ab16@d495.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:6d7439e1-acd6-4a13-af41-81bf3cf59d7d@6d74.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231206T100000Z
+SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:18f438e2-7205-4d66-8b36-537661b0d973@18f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231025T074500Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:412cbf53-cee7-4d68-9b94-95022e164d8f@412c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
+UID:3db1f5d1-3196-46e2-8a5a-371735e43777@3db1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231009T074500Z
+SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:40f884d4-c452-4cbf-b71e-c4243bb9e23c@40f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
+UID:402c82f2-7d08-42a9-86d8-6a4437802c4c@402c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Технологические исследования и испытания
+UID:06102a61-c047-4461-80dd-05979c19aaba@0610.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230928T114500Z
+SUMMARY:ПЗ Технологические исследования и испытания
+UID:b46521c2-9b8d-4074-a776-a13fd97b5f87@b465.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231225T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231225T100000Z
+SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
+UID:d33f2c98-67f0-4471-9df3-d10b534e290d@d33f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231023T100000Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:4cba56be-f9af-4e65-b8b1-22b673db8f6f@4cba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:69081a42-b223-4348-ae99-53ba49155dc4@6908.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231221T114500Z
+SUMMARY:ПЗ Технологические исследования и испытания
+UID:906115cb-6f11-4e9f-bd0d-18000664cf1e@9061.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:415c64f0-63cf-4934-8584-1ff97b48a7f7@415c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:98057dfd-c7c9-4f59-a8d2-d5eeda0256d2@9805.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231115T060000Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:c29e7043-0198-4e51-a803-c1652c79a0c0@c29e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231010T074500Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:898a139f-2836-4fcd-b946-512511035ddd@898a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231109T100000Z
+SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:bd4bb2a8-3732-4c96-a4b6-87129e0d300d@bd4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231129T074500Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:7c3b37d9-b573-4251-91bf-b6d5d991addf@7c3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230925T074500Z
+SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:f08e49d5-b8c0-4b40-8394-fdaab96f71fd@f08e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231004T060000Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:6eba6a9c-895c-4ab4-9b05-7cccbcf7b74f@6eba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231109T114500Z
+SUMMARY:ПЗ Технологические исследования и испытания
+UID:f6e39c46-6d9a-4f4e-9037-dbfbce9e6845@f6e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230920T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230920T114500Z
+SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
+UID:a70d573b-d827-4ac0-ae77-1d556a14f81c@a70d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231114T074500Z
+SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:58a0a1fd-0639-4565-a377-ba50c60483a8@58a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231004T074500Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:3f5700c4-29e7-49c6-b914-a7238555a173@3f57.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:f59b28d0-05b2-4735-bf99-ba9040ae0255@f59b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231204T100000Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:0827b607-f799-43c4-a514-7ce3880cc508@0827.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230909T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230909T060000Z
+SUMMARY:ЛК Качество поверхностного слоя
+UID:6d848637-19b4-44ff-acd6-2793c5bea117@6d84.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
+UID:8a705e18-be45-4d32-945c-294599164a6e@8a70.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231101T100000Z
+SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
+UID:0db6b113-8440-4f9c-bce1-b6195bf0d966@0db6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:f9eca177-dbc8-4166-9471-51c691675cb1@f9ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231218T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231218T074500Z
+SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:50bd32c7-f2fe-46eb-81e9-1ed20c81de3a@50bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230926T060000Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:3382da4a-5eac-4cc5-ae81-dd12a5844c70@3382.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231017T074500Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:7e21ba38-ad8f-4163-ba21-91e2d8260700@7e21.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231106T074500Z
+SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:3eced937-3461-4ba8-b9c9-2ec66eca5356@3ece.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231004T114500Z
+SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
+UID:7e9e352b-29bb-42e8-9891-d23c8a997b65@7e9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231116T114500Z
+SUMMARY:ЛК Технологические исследования и испытания
+UID:b3a8a718-141a-4af9-8afa-15bcba67af58@b3a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
+UID:754abc91-fd40-48d1-957b-e1b1b762a23a@754a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
+UID:e36475a4-02f8-4c57-85c3-0fe90d711769@e364.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231118T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231118T060000Z
+SUMMARY:ЛК Качество поверхностного слоя
+UID:263e8018-910b-4196-8622-4f7e4cebb3ac@263e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231011T074500Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:5f81664f-e878-47d9-a3ea-0bcae39e7fe4@5f81.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231012T100000Z
+SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:3c1b4376-5acc-4785-b2d0-d370c4fc4975@3c1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231225T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231225T114500Z
+SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
+UID:3557f8ba-5110-496c-a474-2319c6185131@3557.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230906T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230906T060000Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:dd1a5556-8777-4113-86b1-93706376a042@dd1a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:0cca15d7-6297-463e-a6ff-079dabd4a86d@0cca.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231023T074500Z
+SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:519ead9d-c8ee-4c5e-8dec-e57a70ea548b@519e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230920T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230920T100000Z
+SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
+UID:184dad4f-62aa-4d1f-8a23-ed62f7ab8a15@184d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230927T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230927T060000Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:6eb8f216-1628-497b-9971-30bdc285f39c@6eb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231228T114500Z
+SUMMARY:ЛК Технологические исследования и испытания
+UID:8e77c3a7-de24-414e-8680-80487fabcc79@8e77.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231230T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231230T060000Z
+SUMMARY:ЛК Качество поверхностного слоя
+UID:42e1d62d-2ce5-4808-a8f7-eaa45f7b055a@42e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231213T100000Z
+SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
+UID:c72792ab-60bc-49b4-9e04-17e6a7069f74@c727.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
+UID:accc52d0-6148-4397-bd2b-f1234392c6c6@accc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231206T074500Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:647f3e41-ab1b-4113-9737-21ed15ba5462@647f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
+UID:534c747f-0a48-4776-a596-9f9dd9845eb8@534c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230914T114500Z
+SUMMARY:ПЗ Технологические исследования и испытания
+UID:d9910a47-29dd-4aba-a57c-95dfc633268c@d991.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231012T114500Z
+SUMMARY:ПЗ Технологические исследования и испытания
+UID:5209da38-2567-4970-a2c9-6568a163e639@5209.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:6021fd8a-a369-4852-8ca0-a6bf0bdd5716@6021.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231121T060000Z
+SUMMARY:ПЗ Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:30d2f193-697c-42cf-84c3-48a95c79b35c@30d2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231021T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231021T060000Z
+SUMMARY:ЛК Качество поверхностного слоя
+UID:92c0adbd-26f3-4902-9637-f228fc7508a2@92c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230911T074500Z
+SUMMARY:ЛК Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:72d73203-9372-4f9a-bc27-cc53108088e7@72d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Технологические исследования и испытания
+UID:f21b6f75-5833-4677-8186-f8cb66ee0be6@f21b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231221T100000Z
+SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:63fc7c49-f287-4c30-8474-f39fef368cb9@63fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Технологические исследования и испытания
+UID:dc78b4f8-f39b-44d2-abed-e3fc7262c9d3@dc78.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230914T100000Z
+SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:aaeaa7d6-76a9-4fbe-9fff-fc2b5ab0da59@aaea.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231129T100000Z
+SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
+UID:bc58d6b9-888d-4dd0-9e93-64b48eba02a4@bc58.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231207T100000Z
+SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:7985d99b-17ae-4d5d-b39a-e5c898b1df20@7985.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231118T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231118T074500Z
+SUMMARY:ПЗ Качество поверхностного слоя
+UID:5f2a5ec0-2e33-439e-b795-65431c97f43e@5f2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231218T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231218T114500Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:a7f09bbf-fc46-4902-a4b8-473f1c7eb2f1@a7f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231211T100000Z
+SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
+UID:5b1bc1e0-8fbd-4ad4-9d89-a84e9238f79c@5b1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231211T114500Z
+SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
+UID:a1d58bee-cca2-4f4f-a608-b9a20cc36c4e@a1d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231230T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231230T074500Z
+SUMMARY:ПЗ Качество поверхностного слоя
+UID:7f349c2d-28c9-44c3-bdf3-2d21a26b29b7@7f34.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230923T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230923T060000Z
+SUMMARY:ЛК Качество поверхностного слоя
+UID:16518a44-e7f1-4cd7-8368-355ddfed9d09@1651.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Технологические исследования и испытания
+UID:62305d88-668b-4b67-8549-6b6cc9433438@6230.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230925T100000Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:15d5ebcc-2dae-453b-87fd-4304b201a0c5@15d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231120T100000Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:bcea0f1c-be4b-402b-b5b6-641345f64f75@bcea.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230906T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230906T074500Z
+SUMMARY:ЛК Программные CFD комплексы
+UID:9029f8e7-8295-4754-a39f-83d679abfac2@9029.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230919T074500Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:3a1fc6d8-78f2-4923-af1d-fa4217628277@3a1f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Технологические исследования и испытания
+UID:48e04cb1-c200-47b7-af83-86445c5cb59e@48e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231206T060000Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:738c49cf-d036-43df-9689-06547a7bca16@738c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
+UID:2b4a63e5-96e2-426f-9b82-e6ca133c57b5@2b4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230906T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Специальные главы теплофизики и механики сплошной среды
+UID:0d6b0fff-3be8-4803-9f4d-b86bb252e882@0d6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:97efeed9-3547-40e3-8af3-34abf6f4dee1@97ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230904T114500Z
+SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
+UID:66a0de1c-944c-4ec5-a748-4812cbda8194@66a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231202T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231202T074500Z
+SUMMARY:ПЗ Качество поверхностного слоя
+UID:1a195d7c-4ebd-4518-933f-5e0d29d73f63@1a19.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230909T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230909T074500Z
+SUMMARY:ПЗ Качество поверхностного слоя
+UID:a4b16989-552e-41ce-a04a-6cfb71b20e49@a4b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:ad41c2bb-6e7c-4143-924d-648bba320119@ad41.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230911T100000Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:3552f0c6-673d-4f30-bd82-f364a7218179@3552.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
+UID:993e64e4-6973-4546-b45f-437274bd891d@993e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231123T100000Z
+SUMMARY:ПЗ Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:2341e60e-525b-4e0d-ab64-62666e103b62@2341.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231007T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231007T074500Z
+SUMMARY:ПЗ Качество поверхностного слоя
+UID:b08836b4-6da3-401a-96bc-ee4072a0ab08@b088.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231218T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231218T100000Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:d0840173-750f-4f38-b9e5-0b1825456909@d084.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:510d739b-1594-460e-b4bd-294ac5495c61@510d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231031T074500Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:87d06d24-7f18-4717-8136-9047dfa97c7b@87d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20230918T114500Z
+SUMMARY:ПЗ Технологии производства и сборки узлов и модулей ГТД
+UID:9a5bb9d2-d651-4c3f-95ee-26d0d43528cf@9a5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
+UID:65167b0c-7c4b-49ab-a7dd-0ec5a128c933@6516.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231101T114500Z
+SUMMARY:ПЗ Специальные главы теплофизики и механики сплошной среды
+UID:52cfa880-471b-454a-912c-ab73778f43ac@52cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231018T074500Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:2b6b9e7c-3b1a-46de-9724-f0e51ea60000@2b6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:64aebb9d-527f-4b91-873a-017680356499@64ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T091500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231115T074500Z
+SUMMARY:ПЗ Программные CFD комплексы
+UID:191375db-451f-4d3f-b030-e976902ea64b@1913.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Тепломассообмен. Основы теории и расчета теплотехнических систем
+UID:aeb43c55-cd5f-4b27-b7f6-a33e81bfb627@aeb4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231127T100000Z
+SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
+UID:86957c88-e763-4123-a7be-891a8288d7cd@8695.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230913T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:9cf75928-fe97-4c7a-ac07-7d66000a45d7@9cf7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T113000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Технологии производства и сборки узлов и модулей ГТД
+UID:14c087dd-a974-4da8-9ae7-f1628e039d81@14c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T073000Z
+LOCATION:ГУК В-701-и
+DTSTART:20231031T060000Z
+SUMMARY:ЛК Конструкция основных узлов\, деталей и систем ГТД новых поколений
+UID:b0eccdac-6d89-414f-b8f6-330e57c2c7c8@b0ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Конструкционная прочность основных узлов и деталей перспективных ГТД
+UID:07cc02e9-01e0-4b00-ad08-996cf9e627a0@07cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T131500Z
+LOCATION:ГУК В-701-и
+DTSTART:20231011T114500Z
+SUMMARY:ПЗ Компьютерное проектирование узлов и деталей ГТД и КЭУ
+UID:2fe78796-96dc-414c-9a39-4014624a4977@2fe7.org
 END:VEVENT
 END:VCALENDAR

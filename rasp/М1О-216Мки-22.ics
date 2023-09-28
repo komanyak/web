@@ -2,801 +2,801 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231010T131500Z
+DTEND:20231024T113000Z
 LOCATION:--каф.
-DTSTART:20231010T114500Z
+DTSTART:20231024T100000Z
 SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:b4e9e572-7360-471e-8bde-69db4c14ecdc@b4e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231014T113000Z
-LOCATION:--каф.
-DTSTART:20231014T100000Z
-SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:227d4862-23bd-4dc7-9f61-e3cb68b59c40@227d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T091500Z
-LOCATION:--каф.
-DTSTART:20231013T074500Z
-SUMMARY:ЛР Системы автоматизированного проектирования
-UID:e7813006-7a23-4b48-ba5e-6479ab769a21@e781.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T091500Z
-LOCATION:--каф.
-DTSTART:20231027T074500Z
-SUMMARY:ЛР Системы автоматизированного проектирования
-UID:b7231692-7286-4cdb-9702-8b0293b1e9c7@b723.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T113000Z
-LOCATION:--каф.
-DTSTART:20231121T100000Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:d0fb5287-c8b5-4ab2-b088-bb422e647e46@d0fb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T073000Z
-LOCATION:--каф.
-DTSTART:20231128T060000Z
-SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
-UID:9f17006e-c399-40b8-bc14-741caaad36fd@9f17.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T073000Z
-LOCATION:--каф.
-DTSTART:20231031T060000Z
-SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
-UID:07f6a098-77ac-48e5-a478-30c3c365f4ef@07f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231028T113000Z
-LOCATION:--каф.
-DTSTART:20231028T100000Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:f9e99c0c-e04e-49a1-a2ce-254c531f0af4@f9e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231014T091500Z
-LOCATION:--каф.
-DTSTART:20231014T074500Z
-SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:96a15c15-0f43-44c2-8c8e-4f1f0f3defa3@96a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230923T113000Z
-LOCATION:--каф.
-DTSTART:20230923T100000Z
-SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:0bf494e9-c023-45dd-ba5a-c84a595bd494@0bf4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T091500Z
-LOCATION:--каф.
-DTSTART:20231031T074500Z
-SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
-UID:389bc81d-5810-46a6-b9b2-de24bb718fd4@389b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T113000Z
-LOCATION:--каф.
-DTSTART:20230912T100000Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:e01924b1-a3a8-402e-be70-c9b020e8eea2@e019.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T131500Z
-LOCATION:--каф.
-DTSTART:20231205T114500Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:8367cf86-1f0b-4b12-9d3e-09a857d444d6@8367.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230905T131500Z
-LOCATION:--каф.
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:7670f129-e319-42dd-8b2b-f303fe5e5697@7670.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231118T113000Z
-LOCATION:--каф.
-DTSTART:20231118T100000Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:89ec63b9-7df1-4301-89d1-bee5e04d6fdc@89ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T091500Z
-LOCATION:--каф.
-DTSTART:20230908T074500Z
-SUMMARY:ЛК Системы автоматизированного проектирования
-UID:0266b3b7-cf0e-496f-9897-dccf9bf2749d@0266.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T073000Z
-LOCATION:--каф.
-DTSTART:20230929T060000Z
-SUMMARY:ЛК Системы автоматизированного проектирования
-UID:f27f388f-4d73-4c57-b3a0-6e11a11b3c56@f27f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231118T091500Z
-LOCATION:--каф.
-DTSTART:20231118T074500Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:a52b6bbc-8b30-4de3-a27b-419baabc39a9@a52b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231111T091500Z
-LOCATION:--каф.
-DTSTART:20231111T074500Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:e1a1a19d-cd8c-40bb-854e-870cd54f740a@e1a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T131500Z
-LOCATION:--каф.
-DTSTART:20231212T114500Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:ca3e059b-dfff-45b6-a66c-69c264e083fd@ca3e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231216T113000Z
-LOCATION:--каф.
-DTSTART:20231216T100000Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:ed61b335-3fd8-4d2b-9bea-6260642c85dd@ed61.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T091500Z
-LOCATION:--каф.
-DTSTART:20231212T074500Z
-SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
-UID:393072c1-a616-4721-ab0f-c5bd0b612015@3930.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T073000Z
-LOCATION:--каф.
-DTSTART:20231020T060000Z
-SUMMARY:ЛР Системы автоматизированного проектирования
-UID:7e1433cb-9f0a-42f8-b04a-8680d1d72b83@7e14.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T091500Z
-LOCATION:--каф.
-DTSTART:20231114T074500Z
-SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
-UID:2a0afa9c-bb1b-40fd-85ce-c5076faf0780@2a0a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T131500Z
-LOCATION:--каф.
-DTSTART:20230926T114500Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:2a6b1a7f-cf04-4c9f-bced-a527d52f13f5@2a6b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231226T131500Z
-LOCATION:--каф.
-DTSTART:20231226T114500Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:bb4a5ad1-6075-4cf1-92a2-c152a1ff03e5@bb4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T091500Z
-LOCATION:--каф.
-DTSTART:20231219T074500Z
-SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
-UID:e3b57210-b791-473f-9bc4-4a11fecaa6bf@e3b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231226T113000Z
-LOCATION:--каф.
-DTSTART:20231226T100000Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:d1778f65-9acb-4adc-954a-c6e590b75bf2@d177.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T091500Z
-LOCATION:--каф.
-DTSTART:20230912T074500Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:2b49a22d-5566-4648-ad31-c85853149f42@2b49.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T091500Z
-LOCATION:--каф.
-DTSTART:20231110T074500Z
-SUMMARY:ЛР Системы автоматизированного проектирования
-UID:f248ae18-000f-4882-86c4-b0e48e289cf5@f248.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T091500Z
-LOCATION:--каф.
-DTSTART:20231107T074500Z
-SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
-UID:893e359f-5158-4761-8241-2ce825f404a3@893e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T091500Z
-LOCATION:--каф.
-DTSTART:20230926T074500Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:04431518-ea0d-4984-a57e-4dbe0d753986@0443.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T073000Z
-LOCATION:--каф.
-DTSTART:20231017T060000Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:5b441b15-8fa1-4c7d-bfe6-1e5e0a4ffb91@5b44.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T073000Z
-LOCATION:--каф.
-DTSTART:20230919T060000Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:26b5018c-f204-4ed9-bc29-2e74a4134c66@26b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230916T091500Z
-LOCATION:--каф.
-DTSTART:20230916T074500Z
-SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:a075acb2-9fb6-47cd-908d-640f1e8abd79@a075.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T131500Z
-LOCATION:--каф.
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:00de7885-afb8-4147-b820-501793289e3a@00de.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T091500Z
-LOCATION:--каф.
-DTSTART:20230915T074500Z
-SUMMARY:ЛК Системы автоматизированного проектирования
-UID:795d6f79-f2aa-404d-af1c-3469f3e9d635@795d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T073000Z
-LOCATION:--каф.
-DTSTART:20230908T060000Z
-SUMMARY:ЛК Системы автоматизированного проектирования
-UID:6f57fbd8-38ea-4e92-b843-f6c4b3f39e75@6f57.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T113000Z
-LOCATION:--каф.
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:e05c3818-de04-4bef-8886-a96bd920dcf8@e05c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T091500Z
-LOCATION:--каф.
-DTSTART:20231003T074500Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:3c96b16e-809c-4e5b-944c-3803866e1134@3c96.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T131500Z
-LOCATION:--каф.
-DTSTART:20230912T114500Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:8ecbbebd-bb78-474b-bcd3-5e4ba4de19b1@8ecb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231125T113000Z
-LOCATION:--каф.
-DTSTART:20231125T100000Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:a7a709d1-a25b-4bac-b87b-6461b8d8b9e6@a7a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231209T113000Z
-LOCATION:--каф.
-DTSTART:20231209T100000Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:588c7286-579c-4271-aab4-8bae42ccc102@588c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T073000Z
-LOCATION:--каф.
-DTSTART:20231121T060000Z
-SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
-UID:a7c4cfcb-ab17-4585-9898-487eb344f06d@a7c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T073000Z
-LOCATION:--каф.
-DTSTART:20230926T060000Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:edf04d2a-653f-4057-b3d9-0e5dede5df38@edf0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T073000Z
-LOCATION:--каф.
-DTSTART:20230915T060000Z
-SUMMARY:ЛК Системы автоматизированного проектирования
-UID:63a8b3de-64e1-4e2a-b005-3a0089fd4a58@63a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230905T073000Z
-LOCATION:--каф.
-DTSTART:20230905T060000Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:1dc9bf9f-fbc0-4e69-af3f-8d14af1fe4fc@1dc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T073000Z
-LOCATION:--каф.
-DTSTART:20231205T060000Z
-SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
-UID:259f9d2c-be8f-4e1e-9eec-69f7a1e0f68f@259f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T091500Z
-LOCATION:--каф.
-DTSTART:20231006T074500Z
-SUMMARY:ЛР Системы автоматизированного проектирования
-UID:046a2853-803e-4396-a581-7101a9cac4e5@046a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T113000Z
-LOCATION:--каф.
-DTSTART:20231114T100000Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:7f145a41-6f38-4a35-9a36-e365ec8ed32a@7f14.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T073000Z
-LOCATION:--каф.
-DTSTART:20231107T060000Z
-SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
-UID:6f740adb-f273-49da-b9bc-ec8d42f106bd@6f74.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T131500Z
-LOCATION:--каф.
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:751622e9-4751-4db4-9207-bbe330162a2f@7516.org
+UID:f36f98a1-2863-438b-b71c-a97fb6793ec0@f36f.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231028T091500Z
 LOCATION:--каф.
 DTSTART:20231028T074500Z
 SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:7cf326de-128c-40f4-a388-f4417b07f6c0@7cf3.org
+UID:ad42708a-31f1-4b3e-bbbe-96f69da8e6a6@ad42.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231007T113000Z
+DTEND:20230926T091500Z
 LOCATION:--каф.
-DTSTART:20231007T100000Z
-SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:dac7f405-38c4-472b-8506-3a8a25f83aa9@dac7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T073000Z
-LOCATION:--каф.
-DTSTART:20231010T060000Z
+DTSTART:20230926T074500Z
 SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:471fa7e6-eb4a-4885-833d-870ce28b4150@471f.org
+UID:29731202-5b82-474e-a4f0-ce3f9c82b710@2973.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230919T091500Z
+DTEND:20231107T091500Z
 LOCATION:--каф.
-DTSTART:20230919T074500Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:e9152a49-2710-4787-a5b6-2dec8987c792@e915.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T073000Z
-LOCATION:--каф.
-DTSTART:20231114T060000Z
+DTSTART:20231107T074500Z
 SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
-UID:e874b545-eb31-44aa-9ee1-7c6ee1cc9871@e874.org
+UID:ebd1ba9e-ff47-4448-9ecd-6c0a130ec66e@ebd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T073000Z
+LOCATION:--каф.
+DTSTART:20231121T060000Z
+SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
+UID:bffc868d-67ec-4047-960d-d97b2d67b7ad@bffc.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231212T113000Z
 LOCATION:--каф.
 DTSTART:20231212T100000Z
 SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:a5a552ff-4088-4637-9252-e7b2ed06f724@a5a5.org
+UID:4ed4ba36-d9ed-4d02-a461-9e70ef6d74d0@4ed4.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231128T113000Z
 LOCATION:--каф.
 DTSTART:20231128T100000Z
 SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:ffd39690-8a48-4e2c-9de0-6c2d83972101@ffd3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231209T091500Z
-LOCATION:--каф.
-DTSTART:20231209T074500Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:cd8fc27a-88cf-48ee-85f2-867d549fe480@cd8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230909T091500Z
-LOCATION:--каф.
-DTSTART:20230909T074500Z
-SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:f3307188-5082-4e79-8ef7-abbfc1a89aba@f330.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T131500Z
-LOCATION:--каф.
-DTSTART:20231024T114500Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:fc4697fa-8c9b-4795-bf4c-000a853c7739@fc46.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T131500Z
-LOCATION:--каф.
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:8cb1ba92-c37d-4642-a9f1-c8217d2c1812@8cb1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T091500Z
-LOCATION:--каф.
-DTSTART:20231020T074500Z
-SUMMARY:ЛР Системы автоматизированного проектирования
-UID:7274e9a4-81a7-4168-8df5-1328ad273f0c@7274.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230923T091500Z
-LOCATION:--каф.
-DTSTART:20230923T074500Z
-SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:ccf7b575-3868-4e98-859d-4b8d3ccdbd30@ccf7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T091500Z
-LOCATION:--каф.
-DTSTART:20231010T074500Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:d0030c51-0467-4cdf-87fa-5e8fd76b2d30@d003.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T073000Z
-LOCATION:--каф.
-DTSTART:20231027T060000Z
-SUMMARY:ЛР Системы автоматизированного проектирования
-UID:050e637c-feec-4fd7-b0f6-4deb98b92e3c@050e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T091500Z
-LOCATION:--каф.
-DTSTART:20231103T074500Z
-SUMMARY:ЛР Системы автоматизированного проектирования
-UID:57547a9d-0f3b-4065-a5c9-1cba877e9d8b@5754.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T113000Z
-LOCATION:--каф.
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:ad701c55-b94b-405c-9e7e-7d3ab96bbb5f@ad70.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T073000Z
-LOCATION:--каф.
-DTSTART:20231003T060000Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:a2c0238d-0b01-4e4b-8e2e-0e9a2a233f3b@a2c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T091500Z
-LOCATION:--каф.
-DTSTART:20231024T074500Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:7906714f-39d0-4b90-88cc-8a33ad3fa982@7906.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T073000Z
-LOCATION:--каф.
-DTSTART:20231103T060000Z
-SUMMARY:ЛР Системы автоматизированного проектирования
-UID:0253cd3d-329d-453c-877c-d34db1a7c2d6@0253.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231202T091500Z
-LOCATION:--каф.
-DTSTART:20231202T074500Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:ade3e38f-7f48-4c93-a45d-fd117cf00a21@ade3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T073000Z
-LOCATION:--каф.
-DTSTART:20231110T060000Z
-SUMMARY:ЛР Системы автоматизированного проектирования
-UID:2f78c809-758c-4401-80da-31d0f084788b@2f78.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T091500Z
-LOCATION:--каф.
-DTSTART:20231121T074500Z
-SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
-UID:b084f1c6-eabe-4b7d-87cb-e3060b34667b@b084.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T091500Z
-LOCATION:--каф.
-DTSTART:20231205T074500Z
-SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
-UID:e263e215-5d45-4532-9a8c-fbc7c57c8ea7@e263.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230905T091500Z
-LOCATION:--каф.
-DTSTART:20230905T074500Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:7fb2fa41-41f4-40ea-ab89-177a8cdc1b13@7fb2.org
+UID:ed4d0fea-73fa-4a88-b527-1d7003895ad1@ed4d.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231212T073000Z
 LOCATION:--каф.
 DTSTART:20231212T060000Z
 SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
-UID:8bcc9c39-9666-4286-b162-f8d6ddb4d98a@8bcc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T073000Z
-LOCATION:--каф.
-DTSTART:20230922T060000Z
-SUMMARY:ЛК Системы автоматизированного проектирования
-UID:a8c05489-9f6f-491a-b712-5d1aba75b6eb@a8c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231216T091500Z
-LOCATION:--каф.
-DTSTART:20231216T074500Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:9b09fe30-f311-42aa-af8f-8e553abb847b@9b09.org
+UID:4eb61a24-3623-4b44-a6c8-2611d22f5e21@4eb6.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231121T131500Z
 LOCATION:--каф.
 DTSTART:20231121T114500Z
 SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:35494e5c-05a6-4f1f-9b1e-f4a0a84745cf@3549.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T113000Z
-LOCATION:--каф.
-DTSTART:20231219T100000Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:5acad941-be4e-4f4e-92a9-3f0b609fba23@5aca.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T091500Z
-LOCATION:--каф.
-DTSTART:20230922T074500Z
-SUMMARY:ЛК Системы автоматизированного проектирования
-UID:19cd4a84-9b22-4daa-a520-0f3d87ed01fe@19cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T073000Z
-LOCATION:--каф.
-DTSTART:20231219T060000Z
-SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
-UID:597c94a8-5d09-47dd-8ee0-f3005dcdf6b4@597c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T113000Z
-LOCATION:--каф.
-DTSTART:20231205T100000Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:66098e8c-8f25-4afa-bc23-cbd8645f878d@6609.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T131500Z
-LOCATION:--каф.
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:0563b2c3-7427-4b50-94ae-bd6d90ed74fb@0563.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230905T113000Z
-LOCATION:--каф.
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:4520a623-0b1a-4161-a681-90992d3c5f17@4520.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T091500Z
-LOCATION:--каф.
-DTSTART:20231017T074500Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:1573038b-8045-4ac8-bc2f-d3e8c36090ab@1573.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231111T113000Z
-LOCATION:--каф.
-DTSTART:20231111T100000Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:db35dce8-5690-437b-8ae4-d9fd970e1d10@db35.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T131500Z
-LOCATION:--каф.
-DTSTART:20231107T114500Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:5e152bb2-4027-4fef-9d3c-5580f480d868@5e15.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230916T113000Z
-LOCATION:--каф.
-DTSTART:20230916T100000Z
-SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:33a0db93-5524-4517-aa2e-458008f8fb80@33a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T113000Z
-LOCATION:--каф.
-DTSTART:20230926T100000Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:4155a206-04f0-4fb3-aea3-a28ef96327b9@4155.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T091500Z
-LOCATION:--каф.
-DTSTART:20230929T074500Z
-SUMMARY:ЛК Системы автоматизированного проектирования
-UID:70c38dd1-ccc5-44fd-ae99-99a5844aa3ef@70c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T113000Z
-LOCATION:--каф.
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:2b3a71e4-a8be-4893-9cf7-7355130942b9@2b3a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T073000Z
-LOCATION:--каф.
-DTSTART:20231006T060000Z
-SUMMARY:ЛР Системы автоматизированного проектирования
-UID:3d88ce00-b95e-4e68-8f21-b0954d03c7f3@3d88.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231125T091500Z
-LOCATION:--каф.
-DTSTART:20231125T074500Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:9c653241-b144-4497-b3d1-2469e73fcace@9c65.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T073000Z
-LOCATION:--каф.
-DTSTART:20231024T060000Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:acd91cb4-9956-4dfa-807b-d8a4b3cb3bf4@acd9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230909T113000Z
-LOCATION:--каф.
-DTSTART:20230909T100000Z
-SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:9ddf6b48-3b1e-4958-9f17-9a8b5293c33e@9ddf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T113000Z
-LOCATION:--каф.
-DTSTART:20231010T100000Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:bf512bc1-b70f-48f3-85c9-d1cb9c7e2955@bf51.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T113000Z
-LOCATION:--каф.
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:c6a84220-5472-42b6-89de-8ddfd8ec80dc@c6a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T131500Z
-LOCATION:--каф.
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:b6e390bd-835c-4375-a72a-2cc20c751ed2@b6e3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T113000Z
-LOCATION:--каф.
-DTSTART:20231024T100000Z
-SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:a2b33090-ed9a-49ac-a95c-6c1c37b123db@a2b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T073000Z
-LOCATION:--каф.
-DTSTART:20230912T060000Z
-SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
-UID:0df5bc09-9ea4-4218-9c08-2dcb468169ea@0df5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T091500Z
-LOCATION:--каф.
-DTSTART:20231128T074500Z
-SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
-UID:24ba731c-3143-484c-bdbc-bb3b9926ebab@24ba.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231021T091500Z
-LOCATION:--каф.
-DTSTART:20231021T074500Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:d1268adc-fd79-422f-b870-2ea22b52a0d4@d126.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231021T113000Z
-LOCATION:--каф.
-DTSTART:20231021T100000Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:a97d9f54-eaac-4f9b-a8c7-dda0e39926b0@a97d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230930T113000Z
-LOCATION:--каф.
-DTSTART:20230930T100000Z
-SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:d65842d6-c592-4583-b213-bebabd530e99@d658.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230930T091500Z
-LOCATION:--каф.
-DTSTART:20230930T074500Z
-SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:5e9a0fce-0508-4d67-9cb2-478540859d8b@5e9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231202T113000Z
-LOCATION:--каф.
-DTSTART:20231202T100000Z
-SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:71518f3c-6afa-4f59-9b3b-b205fef88fc2@7151.org
+UID:5d1b0b0b-b60a-495e-94ed-13326f30635c@5d1b.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231007T091500Z
 LOCATION:--каф.
 DTSTART:20231007T074500Z
 SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
-UID:3dff8333-306f-4dfb-8e84-4a91ef8be3bf@3dff.org
+UID:9f414eee-fcd3-45a6-86e2-14429bc8c36c@9f41.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231003T131500Z
+DTEND:20231021T113000Z
 LOCATION:--каф.
-DTSTART:20231003T114500Z
+DTSTART:20231021T100000Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:b6a54ea6-6fd8-44ea-9443-311ecd8cfc04@b6a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T091500Z
+LOCATION:--каф.
+DTSTART:20231010T074500Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:89ad118d-be39-49e8-b24d-af14c6ccb1ae@89ad.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T091500Z
+LOCATION:--каф.
+DTSTART:20231020T074500Z
+SUMMARY:ЛР Системы автоматизированного проектирования
+UID:a50b51f9-78b8-4148-be64-0559e4cc02f4@a50b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T113000Z
+LOCATION:--каф.
+DTSTART:20230919T100000Z
 SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
-UID:0e98e4f9-b2e4-4752-b38d-685b8d825aa6@0e98.org
+UID:07be5b98-64c2-472a-b456-0dae9742ee56@07be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T091500Z
+LOCATION:--каф.
+DTSTART:20231128T074500Z
+SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
+UID:2b891463-3633-4cb7-8208-b8893c23d5a2@2b89.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T131500Z
+LOCATION:--каф.
+DTSTART:20230912T114500Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:eae4d028-a0da-4917-8566-6f2ac8004e6a@eae4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231028T113000Z
+LOCATION:--каф.
+DTSTART:20231028T100000Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:ec05fd27-3b03-4032-a2da-7726983a5b56@ec05.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T073000Z
+LOCATION:--каф.
+DTSTART:20230929T060000Z
+SUMMARY:ЛК Системы автоматизированного проектирования
+UID:f67baf27-cbbf-4e21-9424-2a86e154394d@f67b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231125T113000Z
+LOCATION:--каф.
+DTSTART:20231125T100000Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:3d0c379e-4722-4a32-82fb-da8ee0a385e0@3d0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231118T113000Z
+LOCATION:--каф.
+DTSTART:20231118T100000Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:c902f4c7-6c39-4202-a07c-b33e13ca797f@c902.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T091500Z
+LOCATION:--каф.
+DTSTART:20230905T074500Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:8be5ae56-01bf-46d9-9038-3c3098963d7a@8be5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230923T113000Z
+LOCATION:--каф.
+DTSTART:20230923T100000Z
+SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:c22c7b03-64eb-462b-a12c-d55a8478fa04@c22c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231111T113000Z
+LOCATION:--каф.
+DTSTART:20231111T100000Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:8ee71f1a-8761-4e90-b6ec-62b3321ba1f3@8ee7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230923T091500Z
+LOCATION:--каф.
+DTSTART:20230923T074500Z
+SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:564df69e-ea26-4f37-8bd6-4223acd34d4e@564d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T113000Z
+LOCATION:--каф.
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:d3ede814-414f-41c9-8a29-89c6702d1bb6@d3ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T091500Z
+LOCATION:--каф.
+DTSTART:20231212T074500Z
+SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
+UID:a52e7773-aa18-4579-8513-0849a9d08168@a52e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T073000Z
+LOCATION:--каф.
+DTSTART:20231017T060000Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:32d11395-67ef-47db-8f82-e8b125325d2e@32d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T131500Z
+LOCATION:--каф.
+DTSTART:20231010T114500Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:514e557b-169d-43ca-bd09-9dfe6c197ab3@514e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T091500Z
+LOCATION:--каф.
+DTSTART:20231027T074500Z
+SUMMARY:ЛР Системы автоматизированного проектирования
+UID:83ccacd7-2a1a-4584-bcb8-164b0da39729@83cc.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231013T073000Z
 LOCATION:--каф.
 DTSTART:20231013T060000Z
 SUMMARY:ЛР Системы автоматизированного проектирования
-UID:f3271166-bb20-4448-beee-2ce67bb9dcfe@f327.org
+UID:8acd9a0a-c577-42d8-b954-fff5b4168e2d@8acd.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231219T131500Z
+DTEND:20231014T091500Z
 LOCATION:--каф.
-DTSTART:20231219T114500Z
+DTSTART:20231014T074500Z
+SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:07d46577-09b0-4265-b2c3-162ba249ef12@07d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T113000Z
+LOCATION:--каф.
+DTSTART:20231205T100000Z
 SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:2b38b2fe-01d7-4f48-a36f-3ea3114d5f9c@2b38.org
+UID:e921f5c0-bee2-4a3c-afc4-7e92b69c1676@e921.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T091500Z
+LOCATION:--каф.
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
+UID:4606e9b3-c60f-4cef-bbdb-284edb4eadd7@4606.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T091500Z
+LOCATION:--каф.
+DTSTART:20231013T074500Z
+SUMMARY:ЛР Системы автоматизированного проектирования
+UID:210a2bc5-21a3-4746-ad93-ed9f7ee5c836@210a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T131500Z
+LOCATION:--каф.
+DTSTART:20231024T114500Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:63eea57f-1184-4855-9647-d754c66d7d88@63ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231202T113000Z
+LOCATION:--каф.
+DTSTART:20231202T100000Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:571c95d2-22a8-4373-a927-f58e2b76b6d9@571c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T091500Z
+LOCATION:--каф.
+DTSTART:20231219T074500Z
+SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
+UID:26bba1a1-fa47-4bb3-9de4-32c0364328a1@26bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T073000Z
+LOCATION:--каф.
+DTSTART:20230922T060000Z
+SUMMARY:ЛК Системы автоматизированного проектирования
+UID:8ca4caca-9eb0-4a54-a1ff-6caab8911658@8ca4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T073000Z
+LOCATION:--каф.
+DTSTART:20231003T060000Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:40a2b406-c643-4b00-ad96-4f6d42fe67c6@40a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231014T113000Z
+LOCATION:--каф.
+DTSTART:20231014T100000Z
+SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:96da63bd-4000-44f1-b237-c24a3a871a3f@96da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T091500Z
+LOCATION:--каф.
+DTSTART:20230929T074500Z
+SUMMARY:ЛК Системы автоматизированного проектирования
+UID:a8daa2cf-201b-490a-966c-43f0f6c391c4@a8da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T073000Z
+LOCATION:--каф.
+DTSTART:20231128T060000Z
+SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
+UID:a9bc1d98-a17a-4fd6-b002-97fad9ad69c3@a9bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T073000Z
+LOCATION:--каф.
+DTSTART:20231205T060000Z
+SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
+UID:7d7f7b67-3d4e-4f12-8204-0a3412618422@7d7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T113000Z
+LOCATION:--каф.
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:cec4e680-5507-43fa-8429-398649368929@cec4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T131500Z
+LOCATION:--каф.
+DTSTART:20231003T114500Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:5b4c8953-00f9-442a-a9d6-70362d24ae2b@5b4c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231209T113000Z
+LOCATION:--каф.
+DTSTART:20231209T100000Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:7ae430b5-03d4-4bda-a59a-f810a2016642@7ae4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231125T091500Z
+LOCATION:--каф.
+DTSTART:20231125T074500Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:7257ee2c-9f09-482b-b50b-5b2aab0e37c7@7257.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T131500Z
+LOCATION:--каф.
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:e7af0b92-5f25-4bb5-9564-c3f1d56feef7@e7af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T091500Z
+LOCATION:--каф.
+DTSTART:20231024T074500Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:3b0520ea-636b-479d-a38f-fb99dccc6a6d@3b05.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T091500Z
+LOCATION:--каф.
+DTSTART:20230912T074500Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:790e1a43-4507-49f3-a511-ac0d2df81019@790e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T113000Z
+LOCATION:--каф.
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:0eb77297-99fe-4ebf-85b8-5ae9a4eb778c@0eb7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T113000Z
+LOCATION:--каф.
+DTSTART:20231114T100000Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:00dcb40a-646f-4414-b5ec-12d083790c99@00dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T131500Z
+LOCATION:--каф.
+DTSTART:20231212T114500Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:2ec9852e-7f2e-46b8-a930-e52cda9872da@2ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231111T091500Z
+LOCATION:--каф.
+DTSTART:20231111T074500Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:c4890c2e-8d82-49d8-aa90-b849770673b4@c489.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T091500Z
+LOCATION:--каф.
+DTSTART:20231031T074500Z
+SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
+UID:7ac1639e-8847-4ed3-9b30-44cd38ddbbbd@7ac1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T091500Z
+LOCATION:--каф.
+DTSTART:20231017T074500Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:65e9e146-0a16-41f1-bdb8-4067a9a0ae2b@65e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230930T113000Z
+LOCATION:--каф.
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:6346501c-c56c-4db7-aa3e-ff64c8576ed9@6346.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T073000Z
+LOCATION:--каф.
+DTSTART:20230912T060000Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:80e6528e-7d58-435a-beb9-56fa1cccdda6@80e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T073000Z
+LOCATION:--каф.
+DTSTART:20231219T060000Z
+SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
+UID:1379d820-ecdc-4805-961c-d2da02682b9e@1379.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T113000Z
+LOCATION:--каф.
+DTSTART:20231219T100000Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:fe2d6a4a-745b-4aa3-b3b4-c9b72aacacbf@fe2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T113000Z
+LOCATION:--каф.
+DTSTART:20230926T100000Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:760decfe-a6d8-48f8-9485-1f69a9516ccd@760d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T073000Z
+LOCATION:--каф.
+DTSTART:20230908T060000Z
+SUMMARY:ЛК Системы автоматизированного проектирования
+UID:478ea792-5f83-4d7a-a24c-c3ad7bb3cca4@478e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T091500Z
+LOCATION:--каф.
+DTSTART:20231003T074500Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:acdfe8c8-ea2c-482f-a827-a2dbd20303ad@acdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T091500Z
+LOCATION:--каф.
+DTSTART:20230915T074500Z
+SUMMARY:ЛК Системы автоматизированного проектирования
+UID:a6b73fb8-83c4-4358-b1be-c248729dd029@a6b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T091500Z
+LOCATION:--каф.
+DTSTART:20231110T074500Z
+SUMMARY:ЛР Системы автоматизированного проектирования
+UID:8639cc2c-ba17-4b15-b519-5af236145e77@8639.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231216T091500Z
+LOCATION:--каф.
+DTSTART:20231216T074500Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:51b5d779-ca98-47fd-96a1-5a93be0951f4@51b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T131500Z
+LOCATION:--каф.
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:b12b9088-8e0f-43fa-be6d-26addff56fdd@b12b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231226T131500Z
+LOCATION:--каф.
+DTSTART:20231226T114500Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:0de7061a-95e6-4832-b526-791cbb35830c@0de7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T131500Z
+LOCATION:--каф.
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:1c8bf3d1-cc9a-4277-bfce-9396a18965e6@1c8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T073000Z
+LOCATION:--каф.
+DTSTART:20231006T060000Z
+SUMMARY:ЛР Системы автоматизированного проектирования
+UID:a7c46ca0-e5f5-454c-be24-870582670b15@a7c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T073000Z
+LOCATION:--каф.
+DTSTART:20231024T060000Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:b838a746-43f2-4dc4-bca3-07f1df55ae5f@b838.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T131500Z
+LOCATION:--каф.
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:e132b56d-9c60-43e2-acfe-6f867ccbe2ac@e132.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231021T091500Z
+LOCATION:--каф.
+DTSTART:20231021T074500Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:42f352d0-fd9e-431e-8fa3-926f0c447379@42f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230916T113000Z
+LOCATION:--каф.
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:da4a4bc2-58ec-43a3-af6a-832cb9759009@da4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T073000Z
+LOCATION:--каф.
+DTSTART:20231110T060000Z
+SUMMARY:ЛР Системы автоматизированного проектирования
+UID:08fdc8f5-751d-4a7e-ab36-65645c672ddb@08fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T073000Z
+LOCATION:--каф.
+DTSTART:20231107T060000Z
+SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
+UID:03ca73dd-d3d2-411b-9f66-04cf8c8b68c5@03ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T073000Z
+LOCATION:--каф.
+DTSTART:20231031T060000Z
+SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
+UID:64fc3bd4-cf79-4736-98a9-a4e2c732c8ad@64fc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T073000Z
+LOCATION:--каф.
+DTSTART:20231027T060000Z
+SUMMARY:ЛР Системы автоматизированного проектирования
+UID:0efedbb1-6ca3-4413-991a-e3251f7fe496@0efe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T091500Z
+LOCATION:--каф.
+DTSTART:20230908T074500Z
+SUMMARY:ЛК Системы автоматизированного проектирования
+UID:f1ffdeb2-0f30-4289-9413-11e7c8d31bc0@f1ff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T091500Z
+LOCATION:--каф.
+DTSTART:20231006T074500Z
+SUMMARY:ЛР Системы автоматизированного проектирования
+UID:3a8b770a-ea93-4dd4-8bca-02b724c773f3@3a8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T131500Z
+LOCATION:--каф.
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:bae7f472-3afb-4ce7-ac5e-11041effd701@bae7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T091500Z
+LOCATION:--каф.
+DTSTART:20231114T074500Z
+SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
+UID:e044fba7-5db7-4e33-bc5b-453e340ab32c@e044.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230916T091500Z
+LOCATION:--каф.
+DTSTART:20230916T074500Z
+SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:deffb632-3931-44b5-ab3d-962aba486a91@deff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T073000Z
+LOCATION:--каф.
+DTSTART:20231114T060000Z
+SUMMARY:ПЗ Проектирование агрегатов ЛА из композиционных материалов
+UID:179f3b57-7cb1-427e-81cc-33024dde8772@179f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T113000Z
+LOCATION:--каф.
+DTSTART:20230912T100000Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:ed8aec6f-b2ef-402a-9f20-d4fcc01a9bc8@ed8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T091500Z
+LOCATION:--каф.
+DTSTART:20230922T074500Z
+SUMMARY:ЛК Системы автоматизированного проектирования
+UID:d14f5455-cd7d-4cfc-ade7-961a67e2d161@d14f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T073000Z
+LOCATION:--каф.
+DTSTART:20230926T060000Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:6f8a652f-0453-4cdb-ba19-e5661437740c@6f8a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231118T091500Z
+LOCATION:--каф.
+DTSTART:20231118T074500Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:6aedfe0d-5f79-4289-84be-5c5422cea87c@6aed.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231107T113000Z
 LOCATION:--каф.
 DTSTART:20231107T100000Z
 SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
-UID:95dd1762-5164-4407-a27c-954406f49716@95dd.org
+UID:b8e57e46-4398-4be6-a573-e560c1efe807@b8e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T131500Z
+LOCATION:--каф.
+DTSTART:20231205T114500Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:12bd536f-24db-4ad6-b12b-1ce530f60f61@12bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231209T091500Z
+LOCATION:--каф.
+DTSTART:20231209T074500Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:bca4744b-d48e-456e-b31c-8b5573103b52@bca4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T113000Z
+LOCATION:--каф.
+DTSTART:20231121T100000Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:13b9f2b8-7c7c-41eb-a54c-43d712b15092@13b9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T131500Z
+LOCATION:--каф.
+DTSTART:20231107T114500Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:5b6bcea7-24a2-4394-9674-d7c64f21f571@5b6b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T073000Z
+LOCATION:--каф.
+DTSTART:20231010T060000Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:aad4336f-7c64-48b7-8ae8-5b4e65de544f@aad4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T131500Z
+LOCATION:--каф.
+DTSTART:20230926T114500Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:01582f3b-6598-4a21-98b3-c39b4b671b7d@0158.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T091500Z
+LOCATION:--каф.
+DTSTART:20231205T074500Z
+SUMMARY:ЛР Проектирование агрегатов ЛА из композиционных материалов
+UID:8e7667ca-c10b-402c-a7ae-6ef8df290f7d@8e76.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T113000Z
+LOCATION:--каф.
+DTSTART:20231010T100000Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:ccf4f2f4-0243-49c8-a590-d97ce47927ca@ccf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230930T091500Z
+LOCATION:--каф.
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:38ddf91d-1c38-4f1b-abb7-272d56b7dd14@38dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231007T113000Z
+LOCATION:--каф.
+DTSTART:20231007T100000Z
+SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:91fb96f1-daf7-4a70-a729-a42b5f10b82b@91fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T091500Z
+LOCATION:--каф.
+DTSTART:20231103T074500Z
+SUMMARY:ЛР Системы автоматизированного проектирования
+UID:90a3f171-e3e5-451d-b2b0-0c83b43da867@90a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T131500Z
+LOCATION:--каф.
+DTSTART:20231219T114500Z
+SUMMARY:ЛР Технология изготовления авиационных конструкций из ПКМ
+UID:5d0d4109-5af5-4de0-ae70-8f369dd656c9@5d0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T073000Z
+LOCATION:--каф.
+DTSTART:20230905T060000Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:7c4edabb-64b2-4749-947f-feb1924637f3@7c4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231216T113000Z
+LOCATION:--каф.
+DTSTART:20231216T100000Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:01777b72-b592-459b-a1d9-3f6999f7e72d@0177.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T073000Z
+LOCATION:--каф.
+DTSTART:20230919T060000Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:42f38b44-d471-4dd9-9c20-7cbf708ded53@42f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231202T091500Z
+LOCATION:--каф.
+DTSTART:20231202T074500Z
+SUMMARY:ПЗ Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:a8e9873b-aaca-4ed4-aed5-8c7717f3c43e@a8e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T073000Z
+LOCATION:--каф.
+DTSTART:20231020T060000Z
+SUMMARY:ЛР Системы автоматизированного проектирования
+UID:7a1704f7-bb3b-424d-9d8c-51f8c3095450@7a17.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T113000Z
+LOCATION:--каф.
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:d523ea89-c3f3-4afa-82b4-d93c2cc2b057@d523.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T073000Z
+LOCATION:--каф.
+DTSTART:20230915T060000Z
+SUMMARY:ЛК Системы автоматизированного проектирования
+UID:bf46c3ee-65dd-47b6-9acf-ab9da82cf97e@bf46.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T131500Z
+LOCATION:--каф.
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:dfd28dc5-a944-4990-84f3-1d0902e6a5af@dfd2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230909T113000Z
+LOCATION:--каф.
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:65debb8d-4da4-4e74-9116-6b99aefb1f7b@65de.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T091500Z
+LOCATION:--каф.
+DTSTART:20230919T074500Z
+SUMMARY:ЛК Проектирование агрегатов ЛА из композиционных материалов
+UID:ad034cdd-2a67-4aae-b911-4b6fc2cb2839@ad03.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T073000Z
+LOCATION:--каф.
+DTSTART:20231103T060000Z
+SUMMARY:ЛР Системы автоматизированного проектирования
+UID:041a2c1d-7aea-4fc0-a969-aedadd6845c9@041a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231226T113000Z
+LOCATION:--каф.
+DTSTART:20231226T100000Z
+SUMMARY:ЛК Технология изготовления авиационных конструкций из ПКМ
+UID:682f02d5-7b94-4581-ab21-912b47eaff37@682f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230909T091500Z
+LOCATION:--каф.
+DTSTART:20230909T074500Z
+SUMMARY:ЛК Вопросы общего проектирование авиационных конструкций из ПКМ
+UID:0103d297-b3b4-480f-be3a-6cb050a69bb2@0103.org
 END:VEVENT
 END:VCALENDAR
