@@ -2,1315 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231123T164500Z
-LOCATION:3-310
-DTSTART:20231123T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:3056ae32-44d4-41dc-aa65-285eaec30355@3056.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231017T164500Z
-LOCATION:3-254
-DTSTART:20231017T151500Z
-SUMMARY:ПЗ Воздушная навигация и самолетовождение
-UID:78151e1d-6989-47dc-a83c-ec59a6e8b4dc@7815.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231116T164500Z
-LOCATION:3-310
-DTSTART:20231116T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:f15e46ed-b0c4-4a82-bf86-36e7f1155a93@f15e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231128T131500Z
-LOCATION:3-254
-DTSTART:20231128T114500Z
-SUMMARY:ПЗ УИРС
-UID:da37ada9-1410-4698-9ffb-0db8a7828ad1@da37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230911T113000Z
-LOCATION:3-310
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:0f698eb0-c69d-404f-a3d8-d2282235e082@0f69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20231028T164500Z
-LOCATION:3-136
-DTSTART:20231028T151500Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:c222b079-9fad-4faf-9063-a171028e887b@c222.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230930T131500Z
-LOCATION:3-435
-DTSTART:20230930T114500Z
-SUMMARY:ЛК Испытания приборов и систем
-UID:29db1341-557d-40d4-97ef-b911111269f4@29db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231025T113000Z
-LOCATION:3-404
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:feb5528a-29e4-422a-aaf4-2b34225787fa@feb5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T073000Z
-LOCATION:--каф.
-DTSTART:20231103T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9bc86fb3-a2e8-4034-aaf6-eb2f34f4b30c@9bc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T113000Z
-LOCATION:--каф.
-DTSTART:20230915T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c5bc19bd-33f8-4de6-ac1f-08977463db60@c5bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рябинкин Максим Сергеевич
-DTEND:20230906T150000Z
-LOCATION:3-326
-DTSTART:20230906T133000Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:74050bfb-dc63-462b-8223-ce429ccd7f09@7405.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231017T131500Z
-LOCATION:3-254
-DTSTART:20231017T114500Z
-SUMMARY:ПЗ УИРС
-UID:c0c9a5a2-d2a5-49df-8c1f-1556b7532559@c0c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230925T164500Z
-LOCATION:3-310
-DTSTART:20230925T151500Z
-SUMMARY:ЛР Надежность и техническая диагностика сложных систем
-UID:0d3774a5-31a8-42f8-86e3-1ca9d9f26ad7@0d37.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T113000Z
-LOCATION:--каф.
-DTSTART:20231110T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:e19ebcc0-fb34-4bf5-97e6-38446be6c36c@e19e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231221T164500Z
-LOCATION:3-310
-DTSTART:20231221T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:cc04f6a1-8719-4802-8d91-870a36596202@cc04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231115T150000Z
-LOCATION:3-326
-DTSTART:20231115T133000Z
-SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:9e48b7d5-20ef-45d4-8870-c3b4d70d88aa@9e48.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T131500Z
-LOCATION:--каф.
-DTSTART:20231110T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a974b1d6-ed93-46d9-ac2e-8356f6c4eb90@a974.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20230907T131500Z
-LOCATION:3-310
-DTSTART:20230907T114500Z
-SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
-UID:e47cad73-a084-408d-b4fa-b34127140627@e47c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231003T164500Z
-LOCATION:3-254
-DTSTART:20231003T151500Z
-SUMMARY:ПЗ Воздушная навигация и самолетовождение
-UID:251ad8be-b0e6-49ae-8408-48f15e926864@251a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20230923T164500Z
-LOCATION:5-122
-DTSTART:20230923T151500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:4ad00dde-bf1b-42d5-82fe-2ded2a499d86@4ad0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231206T164500Z
-LOCATION:3-304
-DTSTART:20231206T151500Z
-SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
-UID:e0fb3bf6-7d05-409f-a20c-8ec0a2a50a16@e0fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лельков Константин Сергеевич
-DTEND:20231016T150000Z
-LOCATION:3-310
-DTSTART:20231016T133000Z
-SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
-UID:32dc2a71-5b26-44c2-b6c9-69d0596db717@32dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230927T113000Z
-LOCATION:3-404
-DTSTART:20230927T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:f1dca072-612d-4a60-b967-8bd88ae144e1@f1dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230925T113000Z
-LOCATION:3-310
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:9ec99212-7a84-4116-8879-28ef4b8b5261@9ec9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230902T113000Z
-LOCATION:3-435
-DTSTART:20230902T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:7279225f-b6c3-4316-a853-d2f339701b35@7279.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231101T164500Z
-LOCATION:3-326
-DTSTART:20231101T151500Z
-SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:a03ca72a-00ae-4de6-b40a-9dbabaa08873@a03c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230909T113000Z
-LOCATION:3-435
-DTSTART:20230909T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:13c00a45-7d49-4ac4-aecd-fbef8695abc1@13c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231228T150000Z
-LOCATION:3-310
-DTSTART:20231228T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:b429b7d4-aab5-47c4-a88b-12cb74e449d5@b429.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231016T113000Z
-LOCATION:3-310
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:9926a405-64f5-4047-afd3-ade26c1b2078@9926.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T131500Z
-LOCATION:--каф.
-DTSTART:20231124T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4a01a669-f987-4974-a69e-c82824474415@4a01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231025T150000Z
-LOCATION:3-304
-DTSTART:20231025T133000Z
-SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
-UID:c70ebe0c-8fe5-48b6-8ade-207e68d6ff6a@c70e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231226T150000Z
-LOCATION:3-254
-DTSTART:20231226T133000Z
-SUMMARY:ЛК Воздушная навигация и самолетовождение
-UID:07a18946-dc81-481e-bc4b-c75f482dac17@07a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T073000Z
-LOCATION:--каф.
-DTSTART:20231027T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f94fff22-8f2c-48c8-ac74-e7f512b9e5ca@f94f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231123T113000Z
-LOCATION:3-342
-DTSTART:20231123T100000Z
-SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:ece51a01-b8f4-4c81-90c9-d6964d400374@ece5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T091500Z
-LOCATION:--каф.
-DTSTART:20230929T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d831f54c-b44c-49eb-8513-f0d1b1231ef9@d831.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лельков Константин Сергеевич
-DTEND:20231113T164500Z
-LOCATION:3-310
-DTSTART:20231113T151500Z
-SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
-UID:bcf4f53f-212a-4302-979e-e71c23222381@bcf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231019T150000Z
-LOCATION:3-310
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:657f4b9d-a3ac-4ac2-8fc7-deb50d780fee@657f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T131500Z
-LOCATION:--каф.
-DTSTART:20230901T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:64275ea0-1142-4c6b-91b7-58eab611505f@6427.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231010T131500Z
-LOCATION:3-254
-DTSTART:20231010T114500Z
-SUMMARY:ПЗ УИРС
-UID:ed78faec-6ee6-4a20-ae38-99538c3bf90c@ed78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230919T131500Z
-LOCATION:3-254
-DTSTART:20230919T114500Z
-SUMMARY:ПЗ УИРС
-UID:b0d8119e-794a-4e74-8c3f-074bc3925966@b0d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20230913T150000Z
-LOCATION:3-304
-DTSTART:20230913T133000Z
-SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
-UID:ce37702d-a54d-4bf1-9278-037149396ff6@ce37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231031T150000Z
-LOCATION:3-254
-DTSTART:20231031T133000Z
-SUMMARY:ЛК Воздушная навигация и самолетовождение
-UID:f80e89d1-2dd2-44dd-9d2e-c8e4022b2280@f80e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231207T164500Z
-LOCATION:3-310
-DTSTART:20231207T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:26fa9d1b-dfee-4174-b3ce-f68594f95672@26fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231107T150000Z
-LOCATION:3-254
-DTSTART:20231107T133000Z
-SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
-UID:2ecb9b6d-0b6b-495b-9008-b481fd11dc74@2ecb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231125T113000Z
-LOCATION:3-435
-DTSTART:20231125T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:3c7c7bbf-ca8e-42dc-a4b0-65596cb375cf@3c7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231024T150000Z
-LOCATION:3-254
-DTSTART:20231024T133000Z
-SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
-UID:337627b7-f51c-40fb-8f27-910c50837158@3376.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T131500Z
-LOCATION:--каф.
-DTSTART:20231103T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:5651440d-eb96-4006-96ca-2278eee7b79c@5651.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лельков Константин Сергеевич
-DTEND:20230918T164500Z
-LOCATION:3-310
-DTSTART:20230918T151500Z
-SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
-UID:1ad65656-c0d0-4a36-8e90-b40acdae6b91@1ad6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T091500Z
-LOCATION:--каф.
-DTSTART:20230922T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:2b91437e-ac8c-4ce1-8912-9cfbbe4ef754@2b91.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T091500Z
-LOCATION:--каф.
-DTSTART:20231103T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e0a9802d-46eb-4075-963a-10b549300518@e0a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231118T113000Z
-LOCATION:3-435
-DTSTART:20231118T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:ea227efc-814c-493f-9928-008461f4b172@ea22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231212T164500Z
-LOCATION:3-254
-DTSTART:20231212T151500Z
-SUMMARY:ПЗ Воздушная навигация и самолетовождение
-UID:624b784c-20ed-4f1d-94a4-5ed59ce62ee7@624b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231012T131500Z
-LOCATION:3-342
-DTSTART:20231012T114500Z
-SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:cd960df4-5bbf-416f-906a-0076dd086714@cd96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рябинкин Максим Сергеевич
-DTEND:20231018T164500Z
-LOCATION:3-326
-DTSTART:20231018T151500Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:69e6ca8a-f81e-4793-97b2-067a010187da@69e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231028T131500Z
-LOCATION:3-435
-DTSTART:20231028T114500Z
-SUMMARY:ЛК Испытания приборов и систем
-UID:6c596b9f-3eb4-4686-8ab5-f347289f4429@6c59.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T091500Z
-LOCATION:--каф.
-DTSTART:20231117T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:6d984860-99ed-4a78-9356-7b48ae637701@6d98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231031T164500Z
-LOCATION:3-254
-DTSTART:20231031T151500Z
-SUMMARY:ПЗ Воздушная навигация и самолетовождение
-UID:9c0598ba-dafa-4d10-98b3-6e8cbfc3d434@9c05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231116T150000Z
-LOCATION:3-310
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:5fab7c85-ce40-4deb-b0c8-c1b2b1b77d10@5fab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231028T113000Z
-LOCATION:3-435
-DTSTART:20231028T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:140f84f6-c22c-4356-8d5e-28cbf80f099c@140f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231009T164500Z
-LOCATION:3-310
-DTSTART:20231009T151500Z
-SUMMARY:ЛР Надежность и техническая диагностика сложных систем
-UID:6a9f05df-2553-409b-a0c9-f07c96d233ed@6a9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231109T150000Z
-LOCATION:3-310
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:b0cadc6b-296e-4c0c-b460-bd28bc48e26e@b0ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231002T131500Z
-LOCATION:3-310
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:60dd5dba-88dc-4c6e-bad0-855f60a1223f@60dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231114T150000Z
-LOCATION:3-254
-DTSTART:20231114T133000Z
-SUMMARY:ЛК Воздушная навигация и самолетовождение
-UID:2bc23e6f-9770-400f-a7c6-af58d11f973d@2bc2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T073000Z
-LOCATION:--каф.
-DTSTART:20230922T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:bdf6e9a7-8624-448e-a494-8eba5fcd2d02@bdf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230905T131500Z
-LOCATION:3-254
-DTSTART:20230905T114500Z
-SUMMARY:ПЗ УИРС
-UID:fe1bc165-cc4b-417b-a701-75d60ede9706@fe1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231024T131500Z
-LOCATION:3-254
-DTSTART:20231024T114500Z
-SUMMARY:ПЗ УИРС
-UID:efa725a4-1aab-4275-aacd-6d207180eb66@efa7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231011T131500Z
-LOCATION:3-404
-DTSTART:20231011T114500Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:fbd464f3-36a0-4055-92b0-d0e6de0c21ef@fbd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231219T131500Z
-LOCATION:3-254
-DTSTART:20231219T114500Z
-SUMMARY:ПЗ УИРС
-UID:0e7226e2-dcc1-4ece-98ba-8268a1858ddb@0e72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231130T164500Z
-LOCATION:3-310
-DTSTART:20231130T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:e5cb9b44-8df6-4dd7-b9e3-81b705708625@e5cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20230921T150000Z
-LOCATION:3-310
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:4d0f0f9f-e423-418d-ab72-2361559099c3@4d0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231023T131500Z
-LOCATION:3-310
-DTSTART:20231023T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:40a32173-6896-4ed7-96fe-8380fdd6dc2a@40a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230918T113000Z
-LOCATION:3-310
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:99c3fe37-c0fa-4484-856a-6baf353b372e@99c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231227T150000Z
-LOCATION:3-326
-DTSTART:20231227T133000Z
-SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:d18abe81-278d-4aab-a7c8-54a9a6efe1ca@d18a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T091500Z
-LOCATION:--каф.
-DTSTART:20231020T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:72d6dc61-5bed-4e9c-8081-ca9ca10b3908@72d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T131500Z
-LOCATION:--каф.
-DTSTART:20231117T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:91b4f60c-e20c-4476-a405-aa7b43e7e75c@91b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231003T113000Z
-LOCATION:3-441
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:12c60eab-f8b3-4b16-8808-b49d95a21b3b@12c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231220T113000Z
-LOCATION:3-404
-DTSTART:20231220T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:964f424c-8bb4-426d-9b15-576bdfa564a7@964f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231024T113000Z
-LOCATION:3-441
-DTSTART:20231024T100000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:f612d74f-96ae-4bc4-baa7-300e5f63a9b3@f612.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230912T164500Z
-LOCATION:3-254
-DTSTART:20230912T151500Z
-SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
-UID:5ecaff7e-da0e-483a-a607-917cf7aca125@5eca.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T113000Z
-LOCATION:--каф.
-DTSTART:20230908T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7e4858c8-d822-4c06-9a63-5d1202394af5@7e48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231003T131500Z
-LOCATION:3-254
-DTSTART:20231003T114500Z
-SUMMARY:ПЗ УИРС
-UID:757910b3-8ee5-49ba-8b23-2fdcd214f923@7579.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231031T113000Z
-LOCATION:3-441
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:58785268-066e-4c00-8da6-d68ae1f959fb@5878.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T091500Z
-LOCATION:--каф.
-DTSTART:20231208T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d1ad6cd8-98a7-4020-8d18-961021bbfab0@d1ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231127T131500Z
-LOCATION:3-310
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:04e17076-8c0e-466c-a9a8-9249f89dba55@04e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231218T113000Z
-LOCATION:3-310
-DTSTART:20231218T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:0549179d-6d64-44b4-bd65-aaae5f501bf6@0549.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231108T131500Z
-LOCATION:3-404
-DTSTART:20231108T114500Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:712ddd2d-7fa4-4183-b17c-5e45fdb0c50b@712d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T073000Z
-LOCATION:--каф.
-DTSTART:20231110T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:5d632a50-b955-4a0f-bd45-5eb5093fbb91@5d63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231107T164500Z
-LOCATION:3-254
-DTSTART:20231107T151500Z
-SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
-UID:8732c873-48c5-4558-b87f-d5ae9d77ed9c@8732.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20231125T150000Z
-LOCATION:3-136
-DTSTART:20231125T133000Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:65901792-b6ef-4b03-859c-a7f77fe0217c@6590.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T073000Z
-LOCATION:--каф.
-DTSTART:20230929T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:23371c0e-5ab3-46e7-846d-70651b5ac923@2337.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231228T164500Z
-LOCATION:3-310
-DTSTART:20231228T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:27616392-d93b-4d6d-8e28-6c73a5097b26@2761.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T113000Z
-LOCATION:--каф.
-DTSTART:20231103T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:cba7f58f-6204-438e-813b-93f8419ef2ac@cba7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231125T131500Z
-LOCATION:3-435
-DTSTART:20231125T114500Z
-SUMMARY:ЛК Испытания приборов и систем
-UID:8c9a3cfa-e48d-4ad9-a7ab-acb5ba0d13a4@8c9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рябинкин Максим Сергеевич
-DTEND:20230906T164500Z
-LOCATION:3-326
-DTSTART:20230906T151500Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:2c7d95a1-ae18-47ba-beee-8b4ed32a56bf@2c7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230913T113000Z
-LOCATION:3-404
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:d298644a-2f00-48e9-a3a8-febd195ca04a@d298.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231115T113000Z
-LOCATION:3-404
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:01c4084f-e0ce-458e-b683-7aaa97c75a5f@01c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T113000Z
-LOCATION:--каф.
-DTSTART:20230922T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7674db4b-2ed9-4162-a9fb-591ea767fac6@7674.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231007T131500Z
-LOCATION:3-435
-DTSTART:20231007T114500Z
-SUMMARY:ЛК Испытания приборов и систем
-UID:d0e7d0c1-0950-4622-bfde-b36af55a1461@d0e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20230923T150000Z
-LOCATION:5-122
-DTSTART:20230923T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:3930eb33-2320-470e-9b0f-471a73f6719f@3930.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231205T131500Z
-LOCATION:3-254
-DTSTART:20231205T114500Z
-SUMMARY:ПЗ УИРС
-UID:e9281146-a489-47fd-a729-3ba2b79928d6@e928.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231026T164500Z
-LOCATION:3-310
-DTSTART:20231026T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:60f78a98-b97b-43fc-aa2a-f5ca23ee8dac@60f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231120T073000Z
-LOCATION:3-304
-DTSTART:20231120T060000Z
-SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
-UID:7b86f637-0b38-488f-90e5-dbad18653351@7b86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231004T131500Z
-LOCATION:3-404
-DTSTART:20231004T114500Z
-SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
-UID:e3bda1c0-e183-4431-9719-7fe60a4645ef@e3bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231012T113000Z
-LOCATION:3-342
-DTSTART:20231012T100000Z
-SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:1769ac1e-bbc2-453b-adf7-646135483eba@1769.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231129T131500Z
-LOCATION:3-404
-DTSTART:20231129T114500Z
-SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
-UID:51cf809f-13e2-4b30-8561-70cb024d2659@51cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230918T131500Z
-LOCATION:3-310
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:8de5e6e5-eafe-46ac-b292-78c96ee35268@8de5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T131500Z
-LOCATION:--каф.
-DTSTART:20231201T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:fa0cdb8e-dd1c-457c-995f-32463631bac4@fa0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231113T131500Z
-LOCATION:3-310
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:fc3bf3ee-4ecb-48cd-90cf-cfe40b71b1a9@fc3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230919T113000Z
-LOCATION:3-441
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:feb108ea-b903-4eda-8558-f06a95e85574@feb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231010T164500Z
-LOCATION:3-254
-DTSTART:20231010T151500Z
-SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
-UID:cba6a64b-9fcb-429a-9182-2adbbf9d4ab4@cba6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231026T131500Z
-LOCATION:3-342
-DTSTART:20231026T114500Z
-SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:a756b9c4-1161-4163-a0d4-8efd41428398@a756.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20231007T164500Z
-LOCATION:5-122
-DTSTART:20231007T151500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:95db9090-3dd5-488c-b6db-1d77277f8bfc@95db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20230916T150000Z
-LOCATION:3-136
-DTSTART:20230916T133000Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:73c77af5-1cc9-4a6d-8430-c473a887a1ab@73c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230925T150000Z
-LOCATION:3-310
-DTSTART:20230925T133000Z
-SUMMARY:ЛР Надежность и техническая диагностика сложных систем
-UID:3a9a4c3e-40c6-4483-b243-38873b8db4da@3a9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20230921T164500Z
-LOCATION:3-310
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:ec8b0e8e-1991-4b7f-9464-7501ab527529@ec8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230926T113000Z
-LOCATION:3-441
-DTSTART:20230926T100000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:4b4a981c-5870-4656-896f-084af4cbcea4@4b4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T073000Z
-LOCATION:--каф.
-DTSTART:20231208T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:17e53cc0-c906-4f6f-998b-0e1a8bfb0e1b@17e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T091500Z
-LOCATION:--каф.
-DTSTART:20231027T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ee30e447-b52e-4dc4-8a53-f6728a57fba2@ee30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231010T150000Z
-LOCATION:3-254
-DTSTART:20231010T133000Z
-SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
-UID:a70d80c5-8bcc-4ba5-ac5e-3b4977b22ef3@a70d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20230914T150000Z
-LOCATION:3-310
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:def71b26-2702-4b37-a955-360dc532e42a@def7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20230920T131500Z
-LOCATION:3-404
-DTSTART:20230920T114500Z
-SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
-UID:36882164-508b-42f0-94b9-e8a2a33ca64c@3688.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230919T164500Z
-LOCATION:3-254
-DTSTART:20230919T151500Z
-SUMMARY:ПЗ Воздушная навигация и самолетовождение
-UID:c042e27c-058f-402e-a509-b6040fcbb6fb@c042.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231010T113000Z
-LOCATION:3-441
-DTSTART:20231010T100000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:c639c3f6-b28c-4ba3-98dd-a82b103e6e00@c639.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T113000Z
-LOCATION:--каф.
-DTSTART:20230901T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3dc216e5-cc7e-467f-8ae8-372ccac96ce0@3dc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231220T150000Z
-LOCATION:3-304
-DTSTART:20231220T133000Z
-SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
-UID:59df96f8-53b9-47f1-8242-c127ea3afbff@59df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231123T131500Z
-LOCATION:3-342
-DTSTART:20231123T114500Z
-SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:4202de72-1319-4863-8311-0af901d89db1@4202.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T073000Z
-LOCATION:--каф.
-DTSTART:20230915T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a2b4fa9b-6c0c-40e4-a3be-43f5b34e00db@a2b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230916T113000Z
-LOCATION:3-435
-DTSTART:20230916T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:53ec5b07-64a0-40df-8e94-8ffc3f69c040@53ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T131500Z
-LOCATION:--каф.
-DTSTART:20231020T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:659e19ef-92d9-4e1a-9660-5962486f841f@659e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231019T164500Z
-LOCATION:3-310
-DTSTART:20231019T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:6bbae2d5-6ece-4e28-a0d5-a338f26c1a89@6bba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230902T131500Z
-LOCATION:3-435
-DTSTART:20230902T114500Z
-SUMMARY:ЛК Испытания приборов и систем
-UID:6d781e58-1308-43a2-892f-56d99ccaa9af@6d78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20231209T150000Z
-LOCATION:3-136
-DTSTART:20231209T133000Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:e23b06f5-fe3e-4715-9aa9-cfc04c46d14c@e23b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231023T164500Z
-LOCATION:3-310
-DTSTART:20231023T151500Z
-SUMMARY:ЛР Надежность и техническая диагностика сложных систем
-UID:9e7519a7-894b-4ec8-9e61-17ffb2c867d9@9e75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231115T131500Z
-LOCATION:3-404
-DTSTART:20231115T114500Z
-SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
-UID:1d9d246b-7707-47f4-8b5e-265b3acc2083@1d9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231018T131500Z
-LOCATION:3-404
-DTSTART:20231018T114500Z
-SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
-UID:62bea2dc-aea3-4756-a1be-37bf5ec66530@62be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231221T150000Z
-LOCATION:3-310
-DTSTART:20231221T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:4f6697f9-2561-42af-8485-e662cfb95db7@4f66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231024T164500Z
-LOCATION:3-254
-DTSTART:20231024T151500Z
-SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
-UID:15692c1d-bd37-440f-9518-95534273337a@1569.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T113000Z
-LOCATION:--каф.
-DTSTART:20231013T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:59719733-7522-4221-9497-e96bcdd68085@5971.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T073000Z
-LOCATION:--каф.
-DTSTART:20230901T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:8576794c-2040-4fe0-b482-35e09d639367@8576.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20230909T150000Z
-LOCATION:5-122
-DTSTART:20230909T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:74ad3eb6-295d-4c4e-ad9c-b16e1f797626@74ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231018T113000Z
-LOCATION:3-404
-DTSTART:20231018T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:1c21e79b-c7cf-4e5f-87a1-fd1f3bedc211@1c21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231102T164500Z
-LOCATION:3-310
-DTSTART:20231102T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:6965d0c5-f8d3-4a9c-90d5-f13cc3a35ea8@6965.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231128T150000Z
-LOCATION:3-254
-DTSTART:20231128T133000Z
-SUMMARY:ЛК Воздушная навигация и самолетовождение
-UID:be88b826-2319-4143-8cce-86855dfa4089@be88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231108T150000Z
-LOCATION:3-304
-DTSTART:20231108T133000Z
-SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
-UID:12d2578b-05df-4816-8c3f-fb9ccc80b4b8@12d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231129T113000Z
-LOCATION:3-404
-DTSTART:20231129T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:a35584ca-044c-4107-b3cb-550264caa68b@a355.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T073000Z
-LOCATION:--каф.
-DTSTART:20231117T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:80164dec-570e-4e98-96ca-70d2daed0781@8016.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230909T131500Z
-LOCATION:3-435
-DTSTART:20230909T114500Z
-SUMMARY:ЛК Испытания приборов и систем
-UID:473cd15d-903a-4742-9d87-55da62ccbcd4@473c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лельков Константин Сергеевич
-DTEND:20230918T150000Z
-LOCATION:3-310
-DTSTART:20230918T133000Z
-SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
-UID:62c10443-34ed-40eb-b021-edfefbec6a99@62c1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Петрухин Владимир Андреевич
 DTEND:20230920T113000Z
 LOCATION:3-404
 DTSTART:20230920T100000Z
 SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:5cd3816b-607c-43d3-bd64-040b800a3176@5cd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231030T113000Z
-LOCATION:3-310
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:36ce420f-4941-470e-8f60-b548c1c3efe0@36ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231109T113000Z
-LOCATION:3-342
-DTSTART:20231109T100000Z
-SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:ac874955-448e-4c01-b6f7-4d1601b68588@ac87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231213T150000Z
-LOCATION:3-326
-DTSTART:20231213T133000Z
-SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:7c27fc05-4fdc-46bb-9f9b-f4d4726ed329@7c27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230905T113000Z
-LOCATION:3-441
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:9a0c04f6-d93f-494e-a69e-643060afdba7@9a0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231120T091500Z
-LOCATION:3-304
-DTSTART:20231120T074500Z
-SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
-UID:6777463d-fd93-4b71-bf4c-5ea120ed8528@6777.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231118T131500Z
-LOCATION:3-435
-DTSTART:20231118T114500Z
-SUMMARY:ЛК Испытания приборов и систем
-UID:4c1deea0-5984-41b8-a1f1-c65832d6b392@4c1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231226T131500Z
-LOCATION:3-254
-DTSTART:20231226T114500Z
-SUMMARY:ПЗ УИРС
-UID:19c866a2-1e55-4608-b905-13042baf03b7@19c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20230930T164500Z
-LOCATION:3-136
-DTSTART:20230930T151500Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:edd07fa8-448a-4a25-9087-511570d5fcdf@edd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231212T131500Z
-LOCATION:3-254
-DTSTART:20231212T114500Z
-SUMMARY:ПЗ УИРС
-UID:eac5977e-2f5d-496c-883e-e1b04d724c87@eac5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231005T150000Z
-LOCATION:3-310
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:0161772e-3829-4dcd-98f6-7db102d5ad29@0161.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231109T164500Z
-LOCATION:3-310
-DTSTART:20231109T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:280cefc3-0d35-499b-bff5-a66df0b6df0c@280c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231025T131500Z
-LOCATION:3-404
-DTSTART:20231025T114500Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:61269261-86dc-4634-b6f7-7c1e033a1566@6126.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T131500Z
-LOCATION:--каф.
-DTSTART:20230915T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:164b25a3-aa72-4f3d-8912-abe049f4beec@164b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231214T131500Z
-LOCATION:3-310
-DTSTART:20231214T114500Z
-SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
-UID:7d63b696-6006-4eb2-85fd-59f0c202eb4d@7d63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231017T150000Z
-LOCATION:3-254
-DTSTART:20231017T133000Z
-SUMMARY:ЛК Воздушная навигация и самолетовождение
-UID:78c27c3c-052d-43f2-b816-629ab7cfaf4c@78c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T073000Z
-LOCATION:--каф.
-DTSTART:20231124T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:0ae9958f-d7b1-417f-90b0-079fd95d1ff9@0ae9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T113000Z
-LOCATION:--каф.
-DTSTART:20231027T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c490844f-c717-43ec-8b86-56b084f8fe84@c490.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231129T164500Z
-LOCATION:3-326
-DTSTART:20231129T151500Z
-SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:e2459c5b-dc94-47d5-be19-feedcc89204e@e245.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231225T131500Z
-LOCATION:3-310
-DTSTART:20231225T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:5b9f4239-454e-4b43-9431-78019b6d9482@5b9f.org
+UID:bfc9e35a-650b-4ceb-b27b-9a5c17a3eea5@bfc9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Петрухин Владимир Андреевич
@@ -1318,241 +15,30 @@ DTEND:20230928T131500Z
 LOCATION:3-342
 DTSTART:20230928T114500Z
 SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:21c15044-6bd2-49ee-91ba-ebdc3da3907a@21c1.org
+UID:13e380d7-0b4a-4bf8-a8c3-98593f8961f3@13e3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230926T131500Z
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231128T150000Z
 LOCATION:3-254
-DTSTART:20230926T114500Z
-SUMMARY:ПЗ УИРС
-UID:a1c0b7c4-9a00-4a83-b22b-06a4bcbaf56f@a1c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231025T164500Z
-LOCATION:3-304
-DTSTART:20231025T151500Z
-SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
-UID:9ffb41f5-0e7c-4dcf-8334-45ff8129b073@9ffb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231127T113000Z
-LOCATION:3-310
-DTSTART:20231127T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:1c93febd-b4fb-42d8-89d1-5cfcd15f88cf@1c93.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T113000Z
-LOCATION:--каф.
-DTSTART:20231215T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a67c1baf-d06d-4cac-ab16-5bbebefa7e80@a67c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231206T113000Z
-LOCATION:3-404
-DTSTART:20231206T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:2f364535-5c96-42a0-bb17-1f2719adfb1f@2f36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230904T113000Z
-LOCATION:3-310
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:d188c98f-5ea1-4263-869d-1a83eb2dca6f@d188.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T131500Z
-LOCATION:--каф.
-DTSTART:20230929T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:81348a3e-1ee8-4fb0-a1a9-0988fa30a806@8134.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231102T131500Z
-LOCATION:3-310
-DTSTART:20231102T114500Z
-SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
-UID:751a1cb7-64e2-45e5-8fa5-2a15d8546993@751a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231023T150000Z
-LOCATION:3-310
-DTSTART:20231023T133000Z
-SUMMARY:ЛР Надежность и техническая диагностика сложных систем
-UID:a6a43d10-6718-4b35-a854-9b269688bf1a@a6a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20230914T164500Z
-LOCATION:3-310
-DTSTART:20230914T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:9a3f3813-cb90-4e3d-a83a-2ddd7cb0241d@9a3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20230928T164500Z
-LOCATION:3-310
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:3f68a78e-e646-4b3f-acb0-10e1371b377e@3f68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231204T131500Z
-LOCATION:3-310
-DTSTART:20231204T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:70cc1f56-75bb-48af-addb-9e92971dbb19@70cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230904T131500Z
-LOCATION:3-310
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:79323044-483e-461d-bcd0-fe21ccb9214c@7932.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231009T131500Z
-LOCATION:3-310
-DTSTART:20231009T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:59dbba30-504f-4cb9-9133-5dc28539d6a9@59db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231106T131500Z
-LOCATION:3-310
-DTSTART:20231106T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:399d7733-c472-4b31-9b69-468bd1d99ed3@399d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230914T113000Z
-LOCATION:3-342
-DTSTART:20230914T100000Z
-SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:cb387242-2dfc-4822-b083-a500ae8a8a79@cb38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231108T113000Z
-LOCATION:3-404
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:13125705-a171-4223-9ffd-b8a069bf06a2@1312.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231218T131500Z
-LOCATION:3-310
-DTSTART:20231218T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:8a928486-f07a-4d52-9560-83de2313b073@8a92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231102T150000Z
-LOCATION:3-310
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:48b75303-34f3-4c88-aab5-7daf7d350697@48b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231014T131500Z
-LOCATION:3-435
-DTSTART:20231014T114500Z
-SUMMARY:ЛК Испытания приборов и систем
-UID:0f2eaf55-ff9e-4116-807e-d950329e31b2@0f2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231009T150000Z
-LOCATION:3-310
-DTSTART:20231009T133000Z
-SUMMARY:ЛР Надежность и техническая диагностика сложных систем
-UID:09630fb4-dc8c-4b69-95f5-d18d5833552a@0963.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231011T150000Z
-LOCATION:3-304
-DTSTART:20231011T133000Z
-SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
-UID:6ef0cfa1-c969-4e89-9474-8485bc138101@6ef0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231121T131500Z
-LOCATION:3-254
-DTSTART:20231121T114500Z
-SUMMARY:ПЗ УИРС
-UID:ff314362-179a-4ac8-9c77-94968a516d46@ff31.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T073000Z
-LOCATION:--каф.
-DTSTART:20231006T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c8b15a89-55b8-48d3-b909-0fe2a764aa5d@c8b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T073000Z
-LOCATION:--каф.
-DTSTART:20231013T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:5c6d2648-70eb-4ce7-9faa-5748d5cbcbab@5c6d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T073000Z
-LOCATION:--каф.
-DTSTART:20231020T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3b33781c-8450-4949-b70d-7a600acd65ac@3b33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20231125T164500Z
-LOCATION:3-136
-DTSTART:20231125T151500Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:2e8738e0-fb1f-4924-97c9-cb7d3aea4f9b@2e87.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T091500Z
-LOCATION:--каф.
-DTSTART:20231222T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:500ab542-acea-4e25-aa21-7104125cdec2@500a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231003T150000Z
-LOCATION:3-254
-DTSTART:20231003T133000Z
+DTSTART:20231128T133000Z
 SUMMARY:ЛК Воздушная навигация и самолетовождение
-UID:fd1d6d1e-7064-4ea1-931f-b357eb0e03c2@fd1d.org
+UID:2404b184-845f-4ce0-b4c7-ffc736875ceb@2404.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T113000Z
+LOCATION:--каф.
+DTSTART:20231201T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2b801403-9363-4b6b-8c34-7adfc9f70dc8@2b80.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230928T113000Z
-LOCATION:3-342
-DTSTART:20230928T100000Z
-SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:e17ca7f0-123c-4626-af69-5749e4825bc2@e17c.org
+DTEND:20231025T113000Z
+LOCATION:3-404
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:04660d93-a08d-4d05-aae5-aa40eb460041@0466.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Веремеенко Константин Константинович
@@ -1560,966 +46,7 @@ DTEND:20231116T131500Z
 LOCATION:3-310
 DTSTART:20231116T114500Z
 SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
-UID:c49877d8-4242-40c8-a664-e191b5282c55@c498.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T091500Z
-LOCATION:--каф.
-DTSTART:20231215T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a298f8ba-3f0e-44de-b9eb-8dbd58918440@a298.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231111T131500Z
-LOCATION:3-435
-DTSTART:20231111T114500Z
-SUMMARY:ЛК Испытания приборов и систем
-UID:832c66c8-287e-46b6-9c09-4ec2c906db61@832c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231202T113000Z
-LOCATION:3-435
-DTSTART:20231202T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:b516f832-ef60-4d1c-8773-4b389ccf1612@b516.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20231014T164500Z
-LOCATION:3-136
-DTSTART:20231014T151500Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:ba580157-18c0-45af-b749-364c3fd1480f@ba58.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T073000Z
-LOCATION:--каф.
-DTSTART:20231222T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:fbe13831-d596-48f3-8023-1cdc5549eb45@fbe1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T113000Z
-LOCATION:--каф.
-DTSTART:20231006T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9a281158-d455-4855-a861-6a4bbc9cf2c1@9a28.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T113000Z
-LOCATION:--каф.
-DTSTART:20231117T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a86fed63-3bb7-4ba7-9a69-70c0ac9e5c86@a86f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231101T150000Z
-LOCATION:3-326
-DTSTART:20231101T133000Z
-SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:c1af0662-bbcc-4c4a-b208-7682314b2d3a@c1af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230914T131500Z
-LOCATION:3-342
-DTSTART:20230914T114500Z
-SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:ffe0ae0e-2b06-42bd-b57e-0a8d79b5d27d@ffe0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20231028T150000Z
-LOCATION:3-136
-DTSTART:20231028T133000Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:8f5c729b-4a43-4028-89b6-da68be302812@8f5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лельков Константин Сергеевич
-DTEND:20231113T150000Z
-LOCATION:3-310
-DTSTART:20231113T133000Z
-SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
-UID:d2c46338-f16a-4abe-877a-73531c50bfa6@d2c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231211T113000Z
-LOCATION:3-310
-DTSTART:20231211T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:ba519891-8569-40fe-a7a8-1d966682c809@ba51.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T113000Z
-LOCATION:--каф.
-DTSTART:20231124T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9923a946-7253-46ac-b914-cfc6ada4c234@9923.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231005T164500Z
-LOCATION:3-310
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:ea5b0a20-96f3-4788-8174-11caa9cb814d@ea5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231122T131500Z
-LOCATION:3-404
-DTSTART:20231122T114500Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:78b5c45d-a128-45b5-9810-d6cde121d97b@78b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230905T164500Z
-LOCATION:3-254
-DTSTART:20230905T151500Z
-SUMMARY:ПЗ Воздушная навигация и самолетовождение
-UID:784a2f59-b4b3-4313-b0e0-82114ed818e1@784a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рябинкин Максим Сергеевич
-DTEND:20230920T164500Z
-LOCATION:3-326
-DTSTART:20230920T151500Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:044bf6af-f605-4e98-8971-0d657342a8b3@044b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230923T113000Z
-LOCATION:3-435
-DTSTART:20230923T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:8499931d-dcb9-4fe7-8001-5510084bc0e0@8499.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T131500Z
-LOCATION:--каф.
-DTSTART:20231027T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d2e0178d-c260-4b3b-b039-407f0bad4a3d@d2e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20231209T164500Z
-LOCATION:3-136
-DTSTART:20231209T151500Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:9850853d-8dfb-4282-a6d1-dc299e6cb573@9850.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231014T113000Z
-LOCATION:3-435
-DTSTART:20231014T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:97a2e711-7b65-47a2-8663-645bdc3c7359@97a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231021T131500Z
-LOCATION:3-435
-DTSTART:20231021T114500Z
-SUMMARY:ЛК Испытания приборов и систем
-UID:2ef5530c-971f-4283-a3d7-1cc1d77f584e@2ef5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20231111T150000Z
-LOCATION:3-136
-DTSTART:20231111T133000Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:1b59a24a-67d9-47e0-899f-3b09e63cdc85@1b59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230930T113000Z
-LOCATION:3-435
-DTSTART:20230930T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:f26893fe-5547-4d90-b68f-0db47e9afabb@f268.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рябинкин Максим Сергеевич
-DTEND:20231004T164500Z
-LOCATION:3-326
-DTSTART:20231004T151500Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:b5e32eec-c32e-470e-8d5f-d9b8ec54f21a@b5e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20231021T150000Z
-LOCATION:5-122
-DTSTART:20231021T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:be474dd7-d003-42dd-95ea-c1d1c373fcb0@be47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230911T131500Z
-LOCATION:3-310
-DTSTART:20230911T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:1df26f3a-65cb-4e5b-b6a4-8e4530c2fcfd@1df2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20230927T164500Z
-LOCATION:3-304
-DTSTART:20230927T151500Z
-SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
-UID:272f29b5-23ce-4073-ba1a-c025617146b2@272f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20230907T150000Z
-LOCATION:3-310
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:c87742c2-2114-4ad6-89b3-d3a3a13956ea@c877.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T091500Z
-LOCATION:--каф.
-DTSTART:20231124T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:2cd02de6-b153-4e46-8148-d6dead0601a9@2cd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рябинкин Максим Сергеевич
-DTEND:20230920T150000Z
-LOCATION:3-326
-DTSTART:20230920T133000Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:795ea88b-119d-454a-9c07-236a4b00a998@795e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20230906T131500Z
-LOCATION:3-404
-DTSTART:20230906T114500Z
-SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
-UID:a9ff623e-f06d-42c5-a750-aeaa1b0aecae@a9ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231115T164500Z
-LOCATION:3-326
-DTSTART:20231115T151500Z
-SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:59acc9e4-963e-4905-9d7e-ceb4175cebb6@59ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T091500Z
-LOCATION:--каф.
-DTSTART:20230901T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8f8c647e-4172-4db5-b11b-a5b66462261c@8f8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лельков Константин Сергеевич
-DTEND:20231030T150000Z
-LOCATION:3-310
-DTSTART:20231030T133000Z
-SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
-UID:95c9bc7f-b237-4330-987a-81fc1120f410@95c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20230916T164500Z
-LOCATION:3-136
-DTSTART:20230916T151500Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:81cb898e-4fab-4c9c-a7ed-5a763697f526@81cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231214T150000Z
-LOCATION:3-310
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:57ee753a-50cb-4357-95cf-e89e2845408d@57ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T091500Z
-LOCATION:--каф.
-DTSTART:20231013T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ff1ae0b6-16de-4e99-918a-034a8bfa9291@ff1a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T131500Z
-LOCATION:--каф.
-DTSTART:20230908T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c22fb7f3-78d1-4979-a2b5-68e60ca37565@c22f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лельков Константин Сергеевич
-DTEND:20231030T164500Z
-LOCATION:3-310
-DTSTART:20231030T151500Z
-SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
-UID:1248f046-bfcc-4536-a995-c6f63436621a@1248.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230913T131500Z
-LOCATION:3-404
-DTSTART:20230913T114500Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:d91c3548-7321-467b-a6b9-1b6823795b4b@d91c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231122T164500Z
-LOCATION:3-304
-DTSTART:20231122T151500Z
-SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
-UID:835cc16f-d257-44cb-9463-dfd5bd721766@835c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231228T131500Z
-LOCATION:3-310
-DTSTART:20231228T114500Z
-SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
-UID:fbba3ea9-44ae-4c51-a5dc-1118505a9a26@fbba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231122T113000Z
-LOCATION:3-404
-DTSTART:20231122T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:f4f19d88-a7ff-4425-be88-1108fee0a5fa@f4f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231101T131500Z
-LOCATION:3-404
-DTSTART:20231101T114500Z
-SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
-UID:4ba350b6-9f37-41a0-9a6e-9d13bed0cc68@4ba3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230926T164500Z
-LOCATION:3-254
-DTSTART:20230926T151500Z
-SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
-UID:368ab14d-0979-4752-9b45-88419d152c4e@368a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231227T164500Z
-LOCATION:3-326
-DTSTART:20231227T151500Z
-SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:00ef40bd-6559-4562-b5c5-b285e01f0837@00ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T073000Z
-LOCATION:--каф.
-DTSTART:20230908T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:453e0d47-9833-4d94-934c-ff1665d14921@453e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231106T150000Z
-LOCATION:3-310
-DTSTART:20231106T133000Z
-SUMMARY:ЛР Надежность и техническая диагностика сложных систем
-UID:302916af-7dbb-4228-800d-e14f53b38a04@3029.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231206T150000Z
-LOCATION:3-304
-DTSTART:20231206T133000Z
-SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
-UID:95769e69-a431-47ca-ba87-894e0882581d@9576.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рябинкин Максим Сергеевич
-DTEND:20231004T150000Z
-LOCATION:3-326
-DTSTART:20231004T133000Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:8ed0dc6f-fd84-490c-8a34-95e0a783d029@8ed0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231021T113000Z
-LOCATION:3-435
-DTSTART:20231021T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:3bcd8d46-d247-4f73-8ced-57bf558342eb@3bcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20230913T164500Z
-LOCATION:3-304
-DTSTART:20230913T151500Z
-SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
-UID:58635beb-21bc-4ec0-bb8d-9c97b1648629@5863.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T091500Z
-LOCATION:--каф.
-DTSTART:20231006T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4602abb9-5c90-43dc-a3a4-41dad23ee482@4602.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T113000Z
-LOCATION:--каф.
-DTSTART:20230929T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:67793c17-e91c-4e9f-9a56-722919fb39cd@6779.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T091500Z
-LOCATION:--каф.
-DTSTART:20230915T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:03e7c707-0443-45cd-bac5-92887837b7b6@03e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231213T164500Z
-LOCATION:3-326
-DTSTART:20231213T151500Z
-SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:2597a4fc-512c-416e-be72-20d9613cd52c@2597.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231213T113000Z
-LOCATION:3-404
-DTSTART:20231213T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:0517d5dd-9f1d-4133-bc93-981418b8b3b7@0517.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20231014T150000Z
-LOCATION:3-136
-DTSTART:20231014T133000Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:7bb953aa-e712-4683-a2fb-0e5f1190c290@7bb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231129T150000Z
-LOCATION:3-326
-DTSTART:20231129T133000Z
-SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:5bdb202f-32e4-48dd-bf49-b3c00e7391b0@5bdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20231007T150000Z
-LOCATION:5-122
-DTSTART:20231007T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:1ba9c714-ffa0-4fc3-b332-5178d2c38f92@1ba9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T131500Z
-LOCATION:--каф.
-DTSTART:20231208T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:73cb5f16-ee61-4bfb-b3d8-8f2346d53269@73cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231016T131500Z
-LOCATION:3-310
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:c62be417-491b-4155-a63f-8367fca7014c@c62b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231019T131500Z
-LOCATION:3-310
-DTSTART:20231019T114500Z
-SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
-UID:3817c73d-0984-40b7-b8af-449269871b1e@3817.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231123T150000Z
-LOCATION:3-310
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:84c9c43f-572a-48a8-8fff-7270a2b34592@84c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230916T131500Z
-LOCATION:3-435
-DTSTART:20230916T114500Z
-SUMMARY:ЛК Испытания приборов и систем
-UID:b3104a4d-b032-4dda-88a9-66a98c7945ce@b310.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231011T113000Z
-LOCATION:3-404
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:28b9fbb5-9e78-4f56-a666-f67376a1a2c8@28b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230926T150000Z
-LOCATION:3-254
-DTSTART:20230926T133000Z
-SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
-UID:ec3dc5cd-6f52-4d04-bbe9-3d9a0ec7c6fc@ec3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230911T164500Z
-LOCATION:3-310
-DTSTART:20230911T151500Z
-SUMMARY:ЛР Надежность и техническая диагностика сложных систем
-UID:3ec44282-e29c-46be-b511-a5621ae345dd@3ec4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T131500Z
-LOCATION:--каф.
-DTSTART:20231006T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:1e1290d7-7c3c-441a-82f0-b5003863bdd9@1e12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231007T113000Z
-LOCATION:3-435
-DTSTART:20231007T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:81ff8422-b2d7-45dc-b65f-4dd5b885863e@81ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T131500Z
-LOCATION:--каф.
-DTSTART:20231222T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:acc854c6-fc0c-4031-9f29-a16f0b519c12@acc8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T091500Z
-LOCATION:--каф.
-DTSTART:20231110T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e21d2ccb-e546-4433-989f-bcd19fe96931@e21d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230925T131500Z
-LOCATION:3-310
-DTSTART:20230925T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:80272a05-244c-477a-bd8b-84fbdd069141@8027.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231002T113000Z
-LOCATION:3-310
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:f9b893de-cf29-49d1-b810-31874eea593c@f9b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T113000Z
-LOCATION:--каф.
-DTSTART:20231222T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:28899d62-2368-4be1-9c98-2a89e80fb943@2889.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T091500Z
-LOCATION:--каф.
-DTSTART:20231201T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:aaa3084c-cf36-49df-88ee-bdb4b62d12e0@aaa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231023T113000Z
-LOCATION:3-310
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:98b486a3-0dbe-4f70-90ca-9cf05284d9e7@98b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T131500Z
-LOCATION:--каф.
-DTSTART:20230922T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:22b5df05-40a4-4507-bd5a-661fa11912f3@22b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20230928T150000Z
-LOCATION:3-310
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:ad055127-7482-4eb3-8bd4-d6feae766fc0@ad05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231031T131500Z
-LOCATION:3-254
-DTSTART:20231031T114500Z
-SUMMARY:ПЗ УИРС
-UID:3d940e00-4144-470a-b535-0cc567ef33e3@3d94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231225T113000Z
-LOCATION:3-310
-DTSTART:20231225T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:36e54c50-9cdd-4a38-b46a-d4b145718644@36e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230927T131500Z
-LOCATION:3-404
-DTSTART:20230927T114500Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:5b971c3a-210a-4f31-96cc-dcf216513285@5b97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лельков Константин Сергеевич
-DTEND:20231002T150000Z
-LOCATION:3-310
-DTSTART:20231002T133000Z
-SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
-UID:38939f34-4f91-4832-a7b1-1b23803f6ad4@3893.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230906T113000Z
-LOCATION:3-404
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:efb012bc-9e96-4d18-9509-017ef05fd364@efb0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T091500Z
-LOCATION:--каф.
-DTSTART:20230908T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:6a559c24-83e5-4c7d-9e33-ee69700dec45@6a55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20230921T131500Z
-LOCATION:3-310
-DTSTART:20230921T114500Z
-SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
-UID:9a2f8a43-044c-4ded-a402-8d0f3fc2f47e@9a2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231106T113000Z
-LOCATION:3-310
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:66a61735-92ef-47e4-a6b3-9587002280ff@66a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231211T131500Z
-LOCATION:3-310
-DTSTART:20231211T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:ee857f65-9c1b-4aff-ae86-11a005b89cad@ee85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231114T164500Z
-LOCATION:3-254
-DTSTART:20231114T151500Z
-SUMMARY:ПЗ Воздушная навигация и самолетовождение
-UID:33d1683d-f6d9-4bd8-961a-0b1b477e018f@33d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231212T150000Z
-LOCATION:3-254
-DTSTART:20231212T133000Z
-SUMMARY:ЛК Воздушная навигация и самолетовождение
-UID:eb3e4844-0cab-4e9d-82a9-b5fb94f1ea0c@eb3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рябинкин Максим Сергеевич
-DTEND:20231018T150000Z
-LOCATION:3-326
-DTSTART:20231018T133000Z
-SUMMARY:ЛР Основы автоматизированного проектирования
-UID:d163d6cf-27b0-4f77-84e7-765d6590aa74@d163.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231107T131500Z
-LOCATION:3-254
-DTSTART:20231107T114500Z
-SUMMARY:ПЗ УИРС
-UID:2d4e5d12-b181-4434-9cc3-d8790b6b0925@2d4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231108T164500Z
-LOCATION:3-304
-DTSTART:20231108T151500Z
-SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
-UID:0e1cceba-a0b2-42f7-b249-adc35a625745@0e1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231204T113000Z
-LOCATION:3-310
-DTSTART:20231204T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:ebc3125e-2f81-42b8-9d93-b86bc33abe01@ebc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231226T164500Z
-LOCATION:3-254
-DTSTART:20231226T151500Z
-SUMMARY:ПЗ Воздушная навигация и самолетовождение
-UID:0343c16d-9279-441a-8ba7-94c404fc399e@0343.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231207T150000Z
-LOCATION:3-310
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:69c6792e-35f3-4657-8a5a-4471d2d6c313@69c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231216T113000Z
-LOCATION:3-435
-DTSTART:20231216T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:25b09a09-3acb-444d-bca1-ec2f2a7aff56@25b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231012T164500Z
-LOCATION:3-310
-DTSTART:20231012T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:1959d9e7-18e3-4e24-bcb0-99f4f52a8099@1959.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231227T113000Z
-LOCATION:3-404
-DTSTART:20231227T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:98663fd4-58b3-42d5-b742-824886441a10@9866.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20230930T150000Z
-LOCATION:3-136
-DTSTART:20230930T133000Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:93dbe4cd-1219-4667-b7a7-324a2e56a826@93db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231026T150000Z
-LOCATION:3-310
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:40f9be8a-a72c-49ce-8f4f-2de835a99af2@40f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231017T113000Z
-LOCATION:3-441
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:3292e8a6-1a3f-4753-9765-c41fc380e3ba@3292.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231009T113000Z
-LOCATION:3-310
-DTSTART:20231009T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:52c83b0a-79fe-4de1-a2a1-86fccc8e2084@52c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231111T113000Z
-LOCATION:3-435
-DTSTART:20231111T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:2f508d4e-a1df-449f-9440-bf2ce1b1a1fc@2f50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230912T150000Z
-LOCATION:3-254
-DTSTART:20230912T133000Z
-SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
-UID:fc4b9bc9-a626-44b9-9549-f39228d1eab8@fc4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231130T131500Z
-LOCATION:3-310
-DTSTART:20231130T114500Z
-SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
-UID:941e0c17-15c2-441a-b639-6d55a442fa0c@941e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231120T113000Z
-LOCATION:3-310
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:b7730898-d3a1-4fcc-93e6-6236b0578f19@b773.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T073000Z
-LOCATION:--каф.
-DTSTART:20231201T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:bfac12a0-01d0-4cad-958c-14d97304caa1@bfac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20230912T113000Z
-LOCATION:3-441
-DTSTART:20230912T100000Z
-SUMMARY:ЛК Основы автоматизированного проектирования
-UID:8be9a1a8-fe2f-46ec-912a-074ae46ced19@8be9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230919T150000Z
-LOCATION:3-254
-DTSTART:20230919T133000Z
-SUMMARY:ЛК Воздушная навигация и самолетовождение
-UID:704b3c0c-8c64-40bd-a784-d4421e9270c1@704b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231030T131500Z
-LOCATION:3-310
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:1a4c691e-9805-469d-b076-b90e4d0a81d3@1a4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231122T150000Z
-LOCATION:3-304
-DTSTART:20231122T133000Z
-SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
-UID:f200894c-493a-4a50-bd63-2bec4e308fba@f200.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231213T131500Z
-LOCATION:3-404
-DTSTART:20231213T114500Z
-SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
-UID:12545bb3-2022-4243-920a-76ee492cf8bb@1254.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20231114T131500Z
-LOCATION:3-254
-DTSTART:20231114T114500Z
-SUMMARY:ПЗ УИРС
-UID:d6474919-bb42-4c56-91cc-b1daea09e577@d647.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T073000Z
-LOCATION:--каф.
-DTSTART:20231215T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f1edff8d-adb3-490d-81f0-cd88072dcbbd@f1ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231214T164500Z
-LOCATION:3-310
-DTSTART:20231214T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:f5792c48-d1f4-4928-b5a7-ec364495a20c@f579.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231004T113000Z
-LOCATION:3-404
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:b59bd39c-efc7-4e21-a10b-97e034f56225@b59b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зимин Роман Юрьевич
-DTEND:20231111T164500Z
-LOCATION:3-136
-DTSTART:20231111T151500Z
-SUMMARY:ЛР Испытания приборов и систем
-UID:bde64a54-4714-4b2b-8276-af6cdcb2d07f@bde6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231223T113000Z
-LOCATION:3-435
-DTSTART:20231223T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:43e5fc9b-4b35-47f3-b467-3f73930fa34c@43e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231209T113000Z
-LOCATION:3-435
-DTSTART:20231209T100000Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:2d6911d9-e092-4443-906f-5955d3041495@2d69.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T131500Z
-LOCATION:--каф.
-DTSTART:20231013T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:36beeed4-a5f8-409c-be17-1dea6900780a@36be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231113T113000Z
-LOCATION:3-310
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
-UID:79437487-956e-40ff-b018-bed32c091401@7943.org
+UID:095b9520-1684-4db7-9a84-f0cfb2acbb1c@095b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Петрухин Владимир Андреевич
@@ -2527,149 +54,78 @@ DTEND:20231107T113000Z
 LOCATION:3-441
 DTSTART:20231107T100000Z
 SUMMARY:ЛК Основы автоматизированного проектирования
-UID:2a30c7e0-6c2e-42ea-88b7-c0e10cf40d3c@2a30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231120T131500Z
-LOCATION:3-310
-DTSTART:20231120T114500Z
-SUMMARY:ЛК Надежность и техническая диагностика сложных систем
-UID:5d2f160c-47bf-4706-8b83-10a016cff3d3@5d2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231109T131500Z
-LOCATION:3-342
-DTSTART:20231109T114500Z
-SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:4ebf0553-d994-43b0-beda-66385424cbad@4ebf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231026T113000Z
-LOCATION:3-342
-DTSTART:20231026T100000Z
-SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
-UID:49a87d70-5e4c-4380-bd9b-07d0cb087ebd@49a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231220T164500Z
-LOCATION:3-304
-DTSTART:20231220T151500Z
-SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
-UID:e776e08e-f748-4308-9584-84b7c1cd2109@e776.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T113000Z
-LOCATION:--каф.
-DTSTART:20231201T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a0cf32b1-072c-49f3-b552-a55a8904824e@a0cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лельков Константин Сергеевич
-DTEND:20231002T164500Z
-LOCATION:3-310
-DTSTART:20231002T151500Z
-SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
-UID:51c841b5-e37b-4c45-afa3-c6cc676420a7@51c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T131500Z
-LOCATION:--каф.
-DTSTART:20231215T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:85d46893-2bcc-46b0-aaa0-cc6631f63591@85d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230905T150000Z
-LOCATION:3-254
-DTSTART:20230905T133000Z
-SUMMARY:ЛК Воздушная навигация и самолетовождение
-UID:e006fc5e-9177-4c4f-a4b6-f18bc62d8af4@e006.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20231021T164500Z
-LOCATION:5-122
-DTSTART:20231021T151500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:695fdbb9-3174-4d60-9ed5-94b35dda17cb@695f.org
+UID:9d05a10c-927a-4ba5-b90f-aec712e04a69@9d05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Антонов Дмитрий Александрович
-DTEND:20230912T131500Z
+DTEND:20231226T131500Z
 LOCATION:3-254
-DTSTART:20230912T114500Z
+DTSTART:20231226T114500Z
 SUMMARY:ПЗ УИРС
-UID:2ad192d8-14c2-46b9-a9f9-67f3ac31da43@2ad1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петрухин Владимир Андреевич
-DTEND:20231101T113000Z
-LOCATION:3-404
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
-UID:c7c1d595-25ba-4499-8673-0b16a8079c38@c7c1.org
+UID:9733c132-500d-48e8-9632-2c8f4000beec@9733.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231130T150000Z
-LOCATION:3-310
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:73c96e68-51d5-4683-a118-42589adfa1f6@73c9.org
+DTEND:20231227T150000Z
+LOCATION:3-326
+DTSTART:20231227T133000Z
+SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:541f7d5c-6404-4d9a-bdff-7e54a83eaff7@541f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20230911T150000Z
-LOCATION:3-310
-DTSTART:20230911T133000Z
-SUMMARY:ЛР Надежность и техническая диагностика сложных систем
-UID:99116c0e-132b-4419-ac2e-4245651d3b4c@9911.org
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231024T164500Z
+LOCATION:3-254
+DTSTART:20231024T151500Z
+SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
+UID:625c1dc0-5ba4-455d-bf8a-5a1a03031efb@625c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20231021T150000Z
+LOCATION:5-122
+DTSTART:20231021T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:06c0a616-cc88-4e0e-8959-5629213a27a4@06c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230916T131500Z
+LOCATION:3-435
+DTSTART:20230916T114500Z
+SUMMARY:ЛК Испытания приборов и систем
+UID:d6ebb910-539f-462e-a706-46f573f81180@d6eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T113000Z
+LOCATION:--каф.
+DTSTART:20231013T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9bfc111e-22d8-4f68-bf4f-721aacb24577@9bfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231024T131500Z
+LOCATION:3-254
+DTSTART:20231024T114500Z
+SUMMARY:ПЗ УИРС
+UID:57624001-a8d7-41d1-87f5-d7aa2de4aaea@5762.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20230927T150000Z
-LOCATION:3-304
-DTSTART:20230927T133000Z
-SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
-UID:b95f266d-2edc-4a44-89e4-a182c7a4f8c6@b95f.org
+DTEND:20230906T131500Z
+LOCATION:3-404
+DTSTART:20230906T114500Z
+SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
+UID:60e7d29c-79bd-44d9-8e17-ffa2a0bf48e1@60e7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231012T150000Z
+DTEND:20230921T150000Z
 LOCATION:3-310
-DTSTART:20231012T133000Z
+DTSTART:20230921T133000Z
 SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
-UID:e0f55a7e-db17-480e-b69f-36d2bef86c5f@e0f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кошелев Борис Валентинович
-DTEND:20231128T164500Z
-LOCATION:3-254
-DTSTART:20231128T151500Z
-SUMMARY:ПЗ Воздушная навигация и самолетовождение
-UID:3888e616-b83c-4b9c-9487-cef6a5d6e1eb@3888.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20230907T164500Z
-LOCATION:3-310
-DTSTART:20230907T151500Z
-SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
-UID:4f8d2a14-9912-4cea-ba77-f1db67c8378b@4f8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лельков Константин Сергеевич
-DTEND:20231016T164500Z
-LOCATION:3-310
-DTSTART:20231016T151500Z
-SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
-UID:d8ce0b01-ec88-41ff-8176-b6fd5dcd54d0@d8ce.org
+UID:efd66c1b-a012-4a00-aa4f-2b5ecd8c9119@efd6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусилетов Александр Андреевич
@@ -2677,14 +133,7 @@ DTEND:20230909T164500Z
 LOCATION:5-122
 DTSTART:20230909T151500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:12620844-bea1-4be4-805e-842f12c11e76@1262.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T113000Z
-LOCATION:--каф.
-DTSTART:20231208T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c1061b67-b404-4492-87a3-cc084a2bad5f@c106.org
+UID:ca3c983b-465f-4484-92a4-180017b9895f@ca3c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Антонов Дмитрий Александрович
@@ -2692,30 +141,181 @@ DTEND:20230923T131500Z
 LOCATION:3-435
 DTSTART:20230923T114500Z
 SUMMARY:ЛК Испытания приборов и систем
-UID:75f867a0-fb74-4b40-b294-acd3b3073275@75f8.org
+UID:132466ab-e32a-4462-8312-a5c4d4ebc00b@1324.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ушаков Андрей Николаевич
-DTEND:20231011T164500Z
-LOCATION:3-304
-DTSTART:20231011T151500Z
-SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
-UID:3ca93369-c564-41e8-9554-1358430dbb17@3ca9.org
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231017T131500Z
+LOCATION:3-254
+DTSTART:20231017T114500Z
+SUMMARY:ПЗ УИРС
+UID:c4600b9f-2c66-41cd-9eeb-ced08f162ed0@c460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230913T131500Z
+LOCATION:3-404
+DTSTART:20230913T114500Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:2d050287-ab2d-4c70-8e5f-4e91f525c76a@2d05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Веремеенко Константин Константинович
-DTEND:20231005T131500Z
-LOCATION:3-310
-DTSTART:20231005T114500Z
-SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
-UID:35f6a824-44f1-4dfc-9acb-fa83596c208d@35f6.org
+DTEND:20231129T164500Z
+LOCATION:3-326
+DTSTART:20231129T151500Z
+SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:dd3040f1-f6b4-4950-9366-99649af231a1@dd30.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231020T113000Z
+DTEND:20231110T073000Z
 LOCATION:--каф.
-DTSTART:20231020T100000Z
+DTSTART:20231110T060000Z
 SUMMARY:ПЗ Военная подготовка
-UID:9a6a44c7-6f8c-4618-944b-80e5921e8ac1@9a6a.org
+UID:ef427c9a-c8ef-42a7-8a37-7e6ff68fc7da@ef42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231228T150000Z
+LOCATION:3-310
+DTSTART:20231228T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:69ce70d6-5b0c-45b5-82ac-03b6db58db4d@69ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231016T131500Z
+LOCATION:3-310
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:236b1fc6-d276-45be-a15d-320f7da5dcda@236b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231120T113000Z
+LOCATION:3-310
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:98e64ac0-a8df-48ae-b88a-1770f67d7db8@98e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230913T113000Z
+LOCATION:3-404
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:58abf460-3ab2-4c3f-b512-440b8c9fccc1@58ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231212T131500Z
+LOCATION:3-254
+DTSTART:20231212T114500Z
+SUMMARY:ПЗ УИРС
+UID:9def63e9-5cfb-410b-9bed-5d4b869b4ba6@9def.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231109T131500Z
+LOCATION:3-342
+DTSTART:20231109T114500Z
+SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
+UID:fdc8de9c-e0aa-4157-b066-94dc56a79c04@fdc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231122T113000Z
+LOCATION:3-404
+DTSTART:20231122T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:4162c42d-81b9-49d4-9d2f-3034971d0027@4162.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231226T150000Z
+LOCATION:3-254
+DTSTART:20231226T133000Z
+SUMMARY:ЛК Воздушная навигация и самолетовождение
+UID:f649ebd1-f2a5-454c-a35d-c033544ade94@f649.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230919T131500Z
+LOCATION:3-254
+DTSTART:20230919T114500Z
+SUMMARY:ПЗ УИРС
+UID:154f1deb-26cb-4f44-892d-b45d0b6fa588@154f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230928T113000Z
+LOCATION:3-342
+DTSTART:20230928T100000Z
+SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
+UID:87ef1958-20ff-4337-ae86-c03dc43dc5f8@87ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20230916T150000Z
+LOCATION:3-136
+DTSTART:20230916T133000Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:02d00230-96d4-47c0-ad1e-ee48172d0f2d@02d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231213T150000Z
+LOCATION:3-326
+DTSTART:20231213T133000Z
+SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:10078e32-019f-48dc-95f1-aa2c4c4f79da@1007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рябинкин Максим Сергеевич
+DTEND:20231018T164500Z
+LOCATION:3-326
+DTSTART:20231018T151500Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:184dc56d-27d1-42c1-a9f1-e503df465d43@184d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230919T164500Z
+LOCATION:3-254
+DTSTART:20230919T151500Z
+SUMMARY:ПЗ Воздушная навигация и самолетовождение
+UID:e815fcca-07c0-4b74-b8d5-f00255b0399b@e815.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20231111T164500Z
+LOCATION:3-136
+DTSTART:20231111T151500Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:b2417d8e-0060-4060-ad96-d5b366563859@b241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231026T150000Z
+LOCATION:3-310
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:e92af2cc-38d9-4c5c-836b-7f1132599092@e92a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T073000Z
+LOCATION:--каф.
+DTSTART:20230901T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b11acc66-588a-48be-9780-26a5d4112c8a@b11a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231102T131500Z
+LOCATION:3-310
+DTSTART:20231102T114500Z
+SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
+UID:2e01c4dd-3ba8-40fd-9652-08ef414ed580@2e01.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кошелев Борис Валентинович
@@ -2723,7 +323,2307 @@ DTEND:20231106T164500Z
 LOCATION:3-310
 DTSTART:20231106T151500Z
 SUMMARY:ЛР Надежность и техническая диагностика сложных систем
-UID:a8c4447f-2854-49e4-9ae2-d4f73d5f2ed7@a8c4.org
+UID:d8427952-36e3-4e9d-b8df-dafb5ba92dab@d842.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230916T113000Z
+LOCATION:3-435
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:31ef6c47-d898-4413-91e2-81f7b826d666@31ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T113000Z
+LOCATION:--каф.
+DTSTART:20231110T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:afd03653-981c-4e15-9149-f01d44b59df6@afd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231003T113000Z
+LOCATION:3-441
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:169b9560-c471-4318-8c4f-1d9552d60bb0@169b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T113000Z
+LOCATION:--каф.
+DTSTART:20231215T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:602342dd-990b-42a4-826e-18c2f07a3607@6023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231128T131500Z
+LOCATION:3-254
+DTSTART:20231128T114500Z
+SUMMARY:ПЗ УИРС
+UID:64a54ab1-87be-4f6e-87d1-50bbe8479f3f@64a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20230913T164500Z
+LOCATION:3-304
+DTSTART:20230913T151500Z
+SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
+UID:2662ead7-621a-4872-8537-21fec17b9e6d@2662.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230911T113000Z
+LOCATION:3-310
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:77b2f123-51e3-414c-98fc-45575c1e2394@77b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T131500Z
+LOCATION:--каф.
+DTSTART:20231027T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c19ef196-6cb0-4b88-8a64-ef47d6a61e33@c19e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лельков Константин Сергеевич
+DTEND:20231113T150000Z
+LOCATION:3-310
+DTSTART:20231113T133000Z
+SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
+UID:9fdb96c2-38f9-4580-b581-66672e69701b@9fdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231107T164500Z
+LOCATION:3-254
+DTSTART:20231107T151500Z
+SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
+UID:660d9e4d-93c0-40af-88d4-7ac9e0ff7278@660d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231012T113000Z
+LOCATION:3-342
+DTSTART:20231012T100000Z
+SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
+UID:b8bd8da7-1b37-437a-ba0f-69c1ffca4d24@b8bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230904T131500Z
+LOCATION:3-310
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:e022e264-40e1-472c-a95c-a0700dbb9c59@e022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231028T113000Z
+LOCATION:3-435
+DTSTART:20231028T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:82ae559e-24b0-4ab9-8314-fb5c319d792b@82ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T091500Z
+LOCATION:--каф.
+DTSTART:20231110T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:158dc81c-8709-412e-98ff-282f0161b39b@158d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231111T113000Z
+LOCATION:3-435
+DTSTART:20231111T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:64988421-4f93-4264-a27a-5275164f3f5f@6498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20230914T164500Z
+LOCATION:3-310
+DTSTART:20230914T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:04afe17b-c608-4124-af9e-c1ec046b03a7@04af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231011T113000Z
+LOCATION:3-404
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:bc400763-437a-46cc-a22a-209a5c7cfb14@bc40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лельков Константин Сергеевич
+DTEND:20231016T164500Z
+LOCATION:3-310
+DTSTART:20231016T151500Z
+SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
+UID:1205ce8c-9dd3-4f0c-976b-1d9f53a33cae@1205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231130T131500Z
+LOCATION:3-310
+DTSTART:20231130T114500Z
+SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
+UID:332bf55a-f3e3-484c-8226-7b6bfa199169@332b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T073000Z
+LOCATION:--каф.
+DTSTART:20231103T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:32db829c-f45b-4e71-970c-8515aa5a4a47@32db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231205T131500Z
+LOCATION:3-254
+DTSTART:20231205T114500Z
+SUMMARY:ПЗ УИРС
+UID:dae8deee-a2bd-4cc3-b203-2c92c3ec5cba@dae8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T091500Z
+LOCATION:--каф.
+DTSTART:20231020T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:7a0c8588-37ca-43b9-983a-5c704360bf39@7a0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231202T113000Z
+LOCATION:3-435
+DTSTART:20231202T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:10d51401-232d-4b3b-833e-7a74459e1b10@10d5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T073000Z
+LOCATION:--каф.
+DTSTART:20231215T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:942f41e0-a5bf-4482-8ee4-e2ff4964f5d1@942f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T113000Z
+LOCATION:--каф.
+DTSTART:20230908T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6f77baee-2869-4d25-a8e1-b0da1d39e03c@6f77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231014T131500Z
+LOCATION:3-435
+DTSTART:20231014T114500Z
+SUMMARY:ЛК Испытания приборов и систем
+UID:2a9fdd9a-2bc5-489b-9ac7-c58ead3906b5@2a9f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T073000Z
+LOCATION:--каф.
+DTSTART:20230929T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f4ee7614-ad93-46d3-9a8f-272fc7b3e52d@f4ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231228T164500Z
+LOCATION:3-310
+DTSTART:20231228T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:df8671c6-4d00-4307-b2d4-409140dc1446@df86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231107T131500Z
+LOCATION:3-254
+DTSTART:20231107T114500Z
+SUMMARY:ПЗ УИРС
+UID:d1a723b7-057d-4be9-866e-2360945de8be@d1a7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T073000Z
+LOCATION:--каф.
+DTSTART:20231013T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7965544c-c717-4198-81c2-5233a69b8569@7965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231228T131500Z
+LOCATION:3-310
+DTSTART:20231228T114500Z
+SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
+UID:60525cda-ab2a-4000-b4d1-ccfdc20ca5d9@6052.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20230927T150000Z
+LOCATION:3-304
+DTSTART:20230927T133000Z
+SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
+UID:94be4fe4-c932-44ec-b85a-723bc8cdba82@94be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T091500Z
+LOCATION:--каф.
+DTSTART:20230929T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:91a0c2cb-ea1d-4b85-95d8-99d0b64e9f56@91a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231016T113000Z
+LOCATION:3-310
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:2de679bb-ac2f-4167-bd8e-9d914cfc48ba@2de6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230930T113000Z
+LOCATION:3-435
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:87a58158-15cf-49da-9758-4447be34ff9e@87a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20230928T150000Z
+LOCATION:3-310
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:60a0d02c-7f03-4bdf-9957-af160c7b47e9@60a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231113T113000Z
+LOCATION:3-310
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:8b7c50b5-37d2-4db7-8337-9f6ad4d7d01c@8b7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230912T113000Z
+LOCATION:3-441
+DTSTART:20230912T100000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:646db6d4-db08-4343-bbe0-8644621e5647@646d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231130T150000Z
+LOCATION:3-310
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:811a28ab-9a10-4719-b4d3-bb9de77caaab@811a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230911T164500Z
+LOCATION:3-310
+DTSTART:20230911T151500Z
+SUMMARY:ЛР Надежность и техническая диагностика сложных систем
+UID:b09df86d-48c9-494c-be41-5873361d0e91@b09d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231114T131500Z
+LOCATION:3-254
+DTSTART:20231114T114500Z
+SUMMARY:ПЗ УИРС
+UID:27c8cf61-d491-4112-b6b9-150b8bd8951b@27c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231114T150000Z
+LOCATION:3-254
+DTSTART:20231114T133000Z
+SUMMARY:ЛК Воздушная навигация и самолетовождение
+UID:a942c69e-5928-4ef3-8679-bfabd0edf65a@a942.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231123T113000Z
+LOCATION:3-342
+DTSTART:20231123T100000Z
+SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
+UID:f865e60a-c7d0-46b0-93bf-7a269031b259@f865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231129T131500Z
+LOCATION:3-404
+DTSTART:20231129T114500Z
+SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
+UID:5f4982fe-058c-4bae-b0f2-d13d62007cdc@5f49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231007T113000Z
+LOCATION:3-435
+DTSTART:20231007T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:a8d0e283-3048-4ccb-baf1-bf3fddc8dabe@a8d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231106T113000Z
+LOCATION:3-310
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:3d07ffe1-1720-4112-b40b-3455c6e4a2e6@3d07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231009T131500Z
+LOCATION:3-310
+DTSTART:20231009T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:5d2f4e65-f177-4b17-9034-4e98120f2e76@5d2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T113000Z
+LOCATION:--каф.
+DTSTART:20230915T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5c131051-d1b8-4ffd-a0ee-03f1bd3352d2@5c13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231023T113000Z
+LOCATION:3-310
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:c1ef270e-8f5a-4f3a-bad6-7017705fbbd4@c1ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231108T150000Z
+LOCATION:3-304
+DTSTART:20231108T133000Z
+SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
+UID:bfbbe2de-4fd5-4de5-a366-571e771229b5@bfbb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T131500Z
+LOCATION:--каф.
+DTSTART:20231208T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:6154e6a5-9351-4967-a531-866f94b90ac6@6154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231225T113000Z
+LOCATION:3-310
+DTSTART:20231225T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:60427644-8282-4e41-9c23-59b5ffa12eb1@6042.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20230930T164500Z
+LOCATION:3-136
+DTSTART:20230930T151500Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:29c2b620-dd21-407a-9df2-434d872dac33@29c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T091500Z
+LOCATION:--каф.
+DTSTART:20231027T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f7dcf7d3-2726-48fa-a950-098ca7779c4b@f7dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231021T131500Z
+LOCATION:3-435
+DTSTART:20231021T114500Z
+SUMMARY:ЛК Испытания приборов и систем
+UID:2d2e3d98-728f-4827-ba84-7cac331f3b51@2d2e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T113000Z
+LOCATION:--каф.
+DTSTART:20231117T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:dab9736c-1767-452c-9172-43bb54ab02cc@dab9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231127T113000Z
+LOCATION:3-310
+DTSTART:20231127T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:1cc20181-8861-49e9-a054-7a2cd014da27@1cc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лельков Константин Сергеевич
+DTEND:20231030T150000Z
+LOCATION:3-310
+DTSTART:20231030T133000Z
+SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
+UID:a2c1a5f7-af3c-4db5-9a93-ae27c5cdf700@a2c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230919T150000Z
+LOCATION:3-254
+DTSTART:20230919T133000Z
+SUMMARY:ЛК Воздушная навигация и самолетовождение
+UID:c383b65d-0c58-4631-96cb-6c56b4d630dd@c383.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231024T150000Z
+LOCATION:3-254
+DTSTART:20231024T133000Z
+SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
+UID:2985c951-d61f-4e0c-b220-9b3660357c80@2985.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231221T150000Z
+LOCATION:3-310
+DTSTART:20231221T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:04c4e03d-ce38-4ca1-92e8-dcac9d1b051c@04c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231002T113000Z
+LOCATION:3-310
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:c2ff9e0c-cdf2-4cb2-8f7c-5df336379e44@c2ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231003T131500Z
+LOCATION:3-254
+DTSTART:20231003T114500Z
+SUMMARY:ПЗ УИРС
+UID:f5220dc6-d74a-40e0-86f7-c00b4e9de921@f522.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231012T131500Z
+LOCATION:3-342
+DTSTART:20231012T114500Z
+SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
+UID:39ed81f9-734c-40fa-8cb8-cd64ff9e85ed@39ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231220T150000Z
+LOCATION:3-304
+DTSTART:20231220T133000Z
+SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
+UID:6033df67-28f8-44f6-8943-a0f537dc95b2@6033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231102T150000Z
+LOCATION:3-310
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:1b552a91-6c70-4982-8e78-f88dd46bf861@1b55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230904T113000Z
+LOCATION:3-310
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:78edcec4-8f86-430d-8cb7-992b13908347@78ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230902T113000Z
+LOCATION:3-435
+DTSTART:20230902T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:2b58d839-1eb3-4efd-8bba-be0ad87f0c8d@2b58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230905T113000Z
+LOCATION:3-441
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:ad0187a2-8786-4136-bc96-336dcfb582cf@ad01.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T091500Z
+LOCATION:--каф.
+DTSTART:20231117T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a7e55b47-9729-4c39-8a2e-3b987fd74a20@a7e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T091500Z
+LOCATION:--каф.
+DTSTART:20231124T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3fdad876-b7ef-4a80-bea8-720f61fb46d6@3fda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231114T164500Z
+LOCATION:3-254
+DTSTART:20231114T151500Z
+SUMMARY:ПЗ Воздушная навигация и самолетовождение
+UID:1122ed37-dab2-4634-8db3-865c1e0f6278@1122.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231107T150000Z
+LOCATION:3-254
+DTSTART:20231107T133000Z
+SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
+UID:bcb95310-9ce5-4a82-81e2-632230aa87e8@bcb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20231028T164500Z
+LOCATION:3-136
+DTSTART:20231028T151500Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:4fb434a8-1582-4653-be59-28c9d34a3a51@4fb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231030T113000Z
+LOCATION:3-310
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:b38bd35b-ebfe-4412-beb1-6e89ab23c064@b38b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20231125T164500Z
+LOCATION:3-136
+DTSTART:20231125T151500Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:9a49e2e4-6c6e-46c6-a5aa-002540bd1491@9a49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230912T131500Z
+LOCATION:3-254
+DTSTART:20230912T114500Z
+SUMMARY:ПЗ УИРС
+UID:e6aa0077-5dd3-48cd-a941-b35631f81f00@e6aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T113000Z
+LOCATION:--каф.
+DTSTART:20231020T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f291f374-7c39-46c9-8984-f29899f720d4@f291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231123T131500Z
+LOCATION:3-342
+DTSTART:20231123T114500Z
+SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
+UID:c6b8ce07-5ab7-4728-9718-43d2afde1db4@c6b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20230916T164500Z
+LOCATION:3-136
+DTSTART:20230916T151500Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:54ad3fd3-07e1-483c-9cbe-11d5ca9b5f35@54ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лельков Константин Сергеевич
+DTEND:20230918T164500Z
+LOCATION:3-310
+DTSTART:20230918T151500Z
+SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
+UID:e9e980d2-afd5-4ce3-8213-bb25f1727103@e9e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230926T164500Z
+LOCATION:3-254
+DTSTART:20230926T151500Z
+SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
+UID:d3a7ccba-a6ff-492c-ae26-3fa62fe9c54d@d3a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231120T131500Z
+LOCATION:3-310
+DTSTART:20231120T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:c699db58-3b31-40d2-af63-63f61a1c9734@c699.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230909T131500Z
+LOCATION:3-435
+DTSTART:20230909T114500Z
+SUMMARY:ЛК Испытания приборов и систем
+UID:26a08fc1-fa73-4198-9fe5-1892cb311ffb@26a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231204T131500Z
+LOCATION:3-310
+DTSTART:20231204T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:f6d25e3a-e723-4b7b-8e64-271cda454aa5@f6d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231023T164500Z
+LOCATION:3-310
+DTSTART:20231023T151500Z
+SUMMARY:ЛР Надежность и техническая диагностика сложных систем
+UID:05e577fc-2b31-4a9f-9fa3-4146e27494bc@05e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231116T150000Z
+LOCATION:3-310
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:4908d772-b2d7-4e5c-a974-8f20a9708972@4908.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230914T131500Z
+LOCATION:3-342
+DTSTART:20230914T114500Z
+SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
+UID:d2c2eeaf-391e-4b36-afcd-c640eaadbd99@d2c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T091500Z
+LOCATION:--каф.
+DTSTART:20230922T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1f592882-0b7f-45b7-b641-233f56bfab5d@1f59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лельков Константин Сергеевич
+DTEND:20230918T150000Z
+LOCATION:3-310
+DTSTART:20230918T133000Z
+SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
+UID:efd03437-d2ea-4ca1-9f44-05c6a359071b@efd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T091500Z
+LOCATION:--каф.
+DTSTART:20231201T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e0c68bdb-823c-45e3-baef-740e74d4c0fc@e0c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231129T113000Z
+LOCATION:3-404
+DTSTART:20231129T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:d6d30b68-709e-43fd-ad66-b790ba25cf22@d6d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231106T131500Z
+LOCATION:3-310
+DTSTART:20231106T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:40044160-026d-4b02-9bcc-4dc13fdbbcb7@4004.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T131500Z
+LOCATION:--каф.
+DTSTART:20230922T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1305eb3b-3b5c-4889-8261-528008326155@1305.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231113T131500Z
+LOCATION:3-310
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:7a53faf4-0338-4efb-9ba9-1e017a9401f9@7a53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231123T150000Z
+LOCATION:3-310
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:5c6cd3da-ab44-4b4e-8b66-95852c23b5fe@5c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231019T164500Z
+LOCATION:3-310
+DTSTART:20231019T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:51d1f5b4-0626-40d0-8d25-1c06a42e2d96@51d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231122T131500Z
+LOCATION:3-404
+DTSTART:20231122T114500Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:89531b97-9f72-4051-bb65-145c5989b48d@8953.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T113000Z
+LOCATION:--каф.
+DTSTART:20231006T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0c833e45-11f1-47cc-bf63-2794f2559956@0c83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рябинкин Максим Сергеевич
+DTEND:20231004T164500Z
+LOCATION:3-326
+DTSTART:20231004T151500Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:0b15247c-5f4a-4143-9786-aba79cad82ea@0b15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лельков Константин Сергеевич
+DTEND:20231002T164500Z
+LOCATION:3-310
+DTSTART:20231002T151500Z
+SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
+UID:c7ccc37b-176b-444d-9462-82e6dd69a99d@c7cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лельков Константин Сергеевич
+DTEND:20231113T164500Z
+LOCATION:3-310
+DTSTART:20231113T151500Z
+SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
+UID:3ff6a748-95f3-4331-bbd9-62c2d31fbda3@3ff6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20231111T150000Z
+LOCATION:3-136
+DTSTART:20231111T133000Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:d7f544e3-a233-42a9-8c29-167265528ae0@d7f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230926T113000Z
+LOCATION:3-441
+DTSTART:20230926T100000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:49397dbb-2944-4a83-ba35-2473f13c5b7b@4939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231219T131500Z
+LOCATION:3-254
+DTSTART:20231219T114500Z
+SUMMARY:ПЗ УИРС
+UID:66ab77fe-dc98-4e9b-aaee-d71528425770@66ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231220T113000Z
+LOCATION:3-404
+DTSTART:20231220T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:78a7120c-6a23-4025-a656-dea711230b9c@78a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231025T131500Z
+LOCATION:3-404
+DTSTART:20231025T114500Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:c377ce3d-4483-4427-865f-c33d0290e546@c377.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T113000Z
+LOCATION:--каф.
+DTSTART:20231103T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:56778499-9b67-4b28-be35-0ff83e275360@5677.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231213T164500Z
+LOCATION:3-326
+DTSTART:20231213T151500Z
+SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:e165c286-b108-4f8e-9df7-8a97db55d6d4@e165.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T131500Z
+LOCATION:--каф.
+DTSTART:20230901T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:47656655-cec9-4465-88f1-ad17c97d93ed@4765.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T131500Z
+LOCATION:--каф.
+DTSTART:20230915T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:39516262-2a37-4909-9310-9a8fab337bf6@3951.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231216T113000Z
+LOCATION:3-435
+DTSTART:20231216T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:15cc0124-bffe-4731-af15-e5a400da480c@15cc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T131500Z
+LOCATION:--каф.
+DTSTART:20231013T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f0334ccb-cd69-4892-8f5e-b9e0af1c5541@f033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231004T131500Z
+LOCATION:3-404
+DTSTART:20231004T114500Z
+SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
+UID:1273c0be-5b21-43ab-9e7f-bcf07f82c476@1273.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230911T131500Z
+LOCATION:3-310
+DTSTART:20230911T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:f611012f-7ea8-469b-9201-8265cb64ab01@f611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231011T131500Z
+LOCATION:3-404
+DTSTART:20231011T114500Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:f9c977af-531b-4f43-9c8c-b50db6bcd56e@f9c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231125T131500Z
+LOCATION:3-435
+DTSTART:20231125T114500Z
+SUMMARY:ЛК Испытания приборов и систем
+UID:71fc0f84-af71-4a98-8e3e-12124342c3b8@71fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230906T113000Z
+LOCATION:3-404
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:8b74249f-377b-415f-a852-1e78d5414551@8b74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20231014T164500Z
+LOCATION:3-136
+DTSTART:20231014T151500Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:9fc2ecd7-3be1-49cb-ae77-7d0f53a32dda@9fc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231101T131500Z
+LOCATION:3-404
+DTSTART:20231101T114500Z
+SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
+UID:7bd9ffbf-a6e4-4c98-b9b6-ca96f172faf4@7bd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20231021T164500Z
+LOCATION:5-122
+DTSTART:20231021T151500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:1a4f45bb-ed14-44f0-80ec-8e0656dc5b5b@1a4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рябинкин Максим Сергеевич
+DTEND:20230920T164500Z
+LOCATION:3-326
+DTSTART:20230920T151500Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:a8b86099-5ef3-4d91-8d0a-85410c8ac096@a8b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231012T150000Z
+LOCATION:3-310
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:41dd45ae-1cea-45a2-a501-c73d90bcd208@41dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T073000Z
+LOCATION:--каф.
+DTSTART:20230915T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ee631fc8-a90d-4174-9179-8af7d518fa5b@ee63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231010T164500Z
+LOCATION:3-254
+DTSTART:20231010T151500Z
+SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
+UID:d9bc9d10-510b-4c77-8d04-dabd981bc879@d9bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рябинкин Максим Сергеевич
+DTEND:20230906T150000Z
+LOCATION:3-326
+DTSTART:20230906T133000Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:66381a9c-eb02-49ff-9bcd-e56459ffcb80@6638.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T073000Z
+LOCATION:--каф.
+DTSTART:20230908T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2d8ab790-b81e-4984-84fd-bdd14a28c3c0@2d8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230925T150000Z
+LOCATION:3-310
+DTSTART:20230925T133000Z
+SUMMARY:ЛР Надежность и техническая диагностика сложных систем
+UID:630f47b5-4cec-41c2-86b9-dbab05b1f07e@630f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231109T164500Z
+LOCATION:3-310
+DTSTART:20231109T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:680d0c53-9407-42ae-98e7-64415c14ebd2@680d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231017T150000Z
+LOCATION:3-254
+DTSTART:20231017T133000Z
+SUMMARY:ЛК Воздушная навигация и самолетовождение
+UID:8cf139b9-5944-4f88-a892-20dd1af9924b@8cf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231218T113000Z
+LOCATION:3-310
+DTSTART:20231218T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:2cce6c9e-79f2-433e-a6ac-cb4e6073f9fa@2cce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231005T150000Z
+LOCATION:3-310
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:b940dba6-43e8-42a3-a67d-5c21a3ac8e78@b940.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231031T164500Z
+LOCATION:3-254
+DTSTART:20231031T151500Z
+SUMMARY:ПЗ Воздушная навигация и самолетовождение
+UID:5c46ec91-1c9e-4606-90ee-fb193938d534@5c46.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T131500Z
+LOCATION:--каф.
+DTSTART:20231006T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:671c8baa-ac3a-4b52-951a-9a367e3ec4d5@671c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231211T113000Z
+LOCATION:3-310
+DTSTART:20231211T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:c9652152-d522-4a7f-80de-d047daaf1b56@c965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231204T113000Z
+LOCATION:3-310
+DTSTART:20231204T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:ffb5d497-5b58-43b8-8997-9facb77321ba@ffb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231127T131500Z
+LOCATION:3-310
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:53b50550-c4c9-407b-9b8b-fc3ac1f1c157@53b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T091500Z
+LOCATION:--каф.
+DTSTART:20231006T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:9d2167bf-9aad-4d2a-acbe-53930abe9d4e@9d21.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T091500Z
+LOCATION:--каф.
+DTSTART:20230915T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:fbbb21d2-033c-43f4-9ea4-29ee1baad6f2@fbbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231024T113000Z
+LOCATION:3-441
+DTSTART:20231024T100000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:1b55cca4-7e8d-4c31-9440-d21410a33ef9@1b55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231130T164500Z
+LOCATION:3-310
+DTSTART:20231130T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:a97c865b-866f-49d9-8941-1f7be0e3a199@a97c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231206T150000Z
+LOCATION:3-304
+DTSTART:20231206T133000Z
+SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
+UID:5f031625-0ebb-407a-b27a-7b604122fb95@5f03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231220T164500Z
+LOCATION:3-304
+DTSTART:20231220T151500Z
+SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
+UID:414be90b-8c58-48a2-a384-c48dfe8bbc43@414b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231030T131500Z
+LOCATION:3-310
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:c98ac881-c877-4bc9-bbe6-d656266a537d@c98a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231111T131500Z
+LOCATION:3-435
+DTSTART:20231111T114500Z
+SUMMARY:ЛК Испытания приборов и систем
+UID:f31765ab-bc6f-418d-b784-2a5d7d339b9c@f317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231109T113000Z
+LOCATION:3-342
+DTSTART:20231109T100000Z
+SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
+UID:7dd9bf03-d9c8-490b-a413-5307c4572170@7dd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231206T164500Z
+LOCATION:3-304
+DTSTART:20231206T151500Z
+SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
+UID:34ea2fd4-5790-4650-8652-649c1f011b57@34ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231106T150000Z
+LOCATION:3-310
+DTSTART:20231106T133000Z
+SUMMARY:ЛР Надежность и техническая диагностика сложных систем
+UID:69ad94ee-221b-4105-b82c-8ae259718a4c@69ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231011T150000Z
+LOCATION:3-304
+DTSTART:20231011T133000Z
+SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
+UID:de001592-220e-4413-b421-d2331c29511c@de00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20231007T150000Z
+LOCATION:5-122
+DTSTART:20231007T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:3d39e4ab-6d90-42a0-a2d7-bc205cbd2cbe@3d39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231118T131500Z
+LOCATION:3-435
+DTSTART:20231118T114500Z
+SUMMARY:ЛК Испытания приборов и систем
+UID:7b3a427a-5c75-4df0-b687-a546e19ac248@7b3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230912T164500Z
+LOCATION:3-254
+DTSTART:20230912T151500Z
+SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
+UID:901ca549-da1d-4501-845c-f0552d26dfbf@901c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231003T150000Z
+LOCATION:3-254
+DTSTART:20231003T133000Z
+SUMMARY:ЛК Воздушная навигация и самолетовождение
+UID:12eb9b1d-f15d-4f87-8c78-5c1fb4d617d8@12eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231031T150000Z
+LOCATION:3-254
+DTSTART:20231031T133000Z
+SUMMARY:ЛК Воздушная навигация и самолетовождение
+UID:6c7290e8-f0f5-4976-b20b-ccb585869cd8@6c72.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T113000Z
+LOCATION:--каф.
+DTSTART:20230922T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:63480dea-b1c2-4f09-ba1c-9b2d8fa2e386@6348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лельков Константин Сергеевич
+DTEND:20231030T164500Z
+LOCATION:3-310
+DTSTART:20231030T151500Z
+SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
+UID:882179e8-2151-42ff-a1d7-8bd40ed48d0b@8821.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231120T091500Z
+LOCATION:3-304
+DTSTART:20231120T074500Z
+SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
+UID:58beb84e-44a2-4d23-93e8-34232ada4264@58be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231121T131500Z
+LOCATION:3-254
+DTSTART:20231121T114500Z
+SUMMARY:ПЗ УИРС
+UID:d6be6294-6a35-4fbf-88c8-63fe50f3d1f8@d6be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T131500Z
+LOCATION:--каф.
+DTSTART:20231124T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f4257dc6-bf10-49c5-b0e5-e6ba507f2964@f425.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20231209T150000Z
+LOCATION:3-136
+DTSTART:20231209T133000Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:5fe84db3-d8dc-4122-bc25-2695a20a61a0@5fe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231026T113000Z
+LOCATION:3-342
+DTSTART:20231026T100000Z
+SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
+UID:722185d7-34d8-4057-b0d4-b12a7c14b5e2@7221.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231212T150000Z
+LOCATION:3-254
+DTSTART:20231212T133000Z
+SUMMARY:ЛК Воздушная навигация и самолетовождение
+UID:867ff6d6-6c5d-4de3-aa13-1c1126416aad@867f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рябинкин Максим Сергеевич
+DTEND:20231004T150000Z
+LOCATION:3-326
+DTSTART:20231004T133000Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:c85407a4-da50-4926-b5f0-fbd8c0023cac@c854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20231007T164500Z
+LOCATION:5-122
+DTSTART:20231007T151500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:7c8deeaa-6354-4618-8ebc-424f45cc71c7@7c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231122T150000Z
+LOCATION:3-304
+DTSTART:20231122T133000Z
+SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
+UID:c7aa8740-9ae6-4bff-8468-b4e6de4778b8@c7aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231108T113000Z
+LOCATION:3-404
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:bd2736a6-1c3c-4f95-9c9c-caba10069267@bd27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230905T164500Z
+LOCATION:3-254
+DTSTART:20230905T151500Z
+SUMMARY:ПЗ Воздушная навигация и самолетовождение
+UID:ef609a08-1ec8-47be-935a-f613994917d8@ef60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20230907T150000Z
+LOCATION:3-310
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:cbad6547-d85b-49b3-8d64-5b0502b772c6@cbad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231120T073000Z
+LOCATION:3-304
+DTSTART:20231120T060000Z
+SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
+UID:4344fbbf-91fd-40ea-8567-0348da14dca4@4344.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T131500Z
+LOCATION:--каф.
+DTSTART:20230908T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0a874d85-dbfd-4a50-bc9b-b6a02b715422@0a87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231004T113000Z
+LOCATION:3-404
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:d41f9e66-5862-4b2a-82e4-530cc39f7576@d41f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230905T131500Z
+LOCATION:3-254
+DTSTART:20230905T114500Z
+SUMMARY:ПЗ УИРС
+UID:b5073417-6800-4545-9c20-1a4f3d510c0d@b507.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230918T131500Z
+LOCATION:3-310
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:508741cb-dfe0-4045-ace4-bee46d9948e2@5087.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231123T164500Z
+LOCATION:3-310
+DTSTART:20231123T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:0931c4b4-0db6-4f62-af4f-4e104a59b0d1@0931.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20230927T164500Z
+LOCATION:3-304
+DTSTART:20230927T151500Z
+SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
+UID:35ac7310-5bea-47ee-a710-3a2f28d4b87d@35ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T131500Z
+LOCATION:--каф.
+DTSTART:20231117T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d07b9b95-5e4d-42ea-87a7-afe4581be4c1@d07b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T073000Z
+LOCATION:--каф.
+DTSTART:20231117T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:00773cfa-db1f-4c42-b9fc-cd2f8ed55ff4@0077.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231214T131500Z
+LOCATION:3-310
+DTSTART:20231214T114500Z
+SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
+UID:340bee23-d5f5-41e1-bd52-96e91bbee5b3@340b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231019T150000Z
+LOCATION:3-310
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:24eac681-9ba8-4612-a2ee-0f7afdc1dafb@24ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230930T131500Z
+LOCATION:3-435
+DTSTART:20230930T114500Z
+SUMMARY:ЛК Испытания приборов и систем
+UID:caf86f26-68bf-4712-8d5b-9c5408205e6f@caf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231213T131500Z
+LOCATION:3-404
+DTSTART:20231213T114500Z
+SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
+UID:5882f996-208f-4374-8151-ef90a86a92b8@5882.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T091500Z
+LOCATION:--каф.
+DTSTART:20230908T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5dc7ad48-a49c-4a7e-a336-ecaabb797726@5dc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20230907T131500Z
+LOCATION:3-310
+DTSTART:20230907T114500Z
+SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
+UID:5257c0ef-81af-4895-962a-3124a3bfbca6@5257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231108T164500Z
+LOCATION:3-304
+DTSTART:20231108T151500Z
+SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
+UID:c9b796d8-a116-463a-8366-bf1c0e74d31b@c9b7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T113000Z
+LOCATION:--каф.
+DTSTART:20231124T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:91bb516c-6a51-4e9e-a11f-4c4085c3d921@91bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231207T164500Z
+LOCATION:3-310
+DTSTART:20231207T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:bbea23aa-3809-4cb8-985d-16b7e88b8a04@bbea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231227T113000Z
+LOCATION:3-404
+DTSTART:20231227T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:db46f579-0443-4cdf-9bb4-85fde93f0ab0@db46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230925T131500Z
+LOCATION:3-310
+DTSTART:20230925T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:01138e1b-58a8-4eb1-83c4-83e09998cee7@0113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20230914T150000Z
+LOCATION:3-310
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:f1f2a36e-074e-4c75-a51f-dc9379094687@f1f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231009T150000Z
+LOCATION:3-310
+DTSTART:20231009T133000Z
+SUMMARY:ЛР Надежность и техническая диагностика сложных систем
+UID:e1cfb978-d1ad-4596-bd62-c4b39b5fcf04@e1cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230926T150000Z
+LOCATION:3-254
+DTSTART:20230926T133000Z
+SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
+UID:4b21f811-26c0-4d45-aa98-51293588997f@4b21.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T091500Z
+LOCATION:--каф.
+DTSTART:20231103T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2d606f67-f106-4c5c-9b8b-87bb812819ab@2d60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231109T150000Z
+LOCATION:3-310
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:5dd27ed8-8b49-42ec-af43-40d9397cf823@5dd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230918T113000Z
+LOCATION:3-310
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:4ecc4acb-7fed-4297-bcb4-51b8e124217f@4ecc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230911T150000Z
+LOCATION:3-310
+DTSTART:20230911T133000Z
+SUMMARY:ЛР Надежность и техническая диагностика сложных систем
+UID:332077cd-4011-48fd-8ea5-cf16a313dfa0@3320.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T091500Z
+LOCATION:--каф.
+DTSTART:20231013T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:23fc3837-3d90-471e-8c6f-5b2db0fff2dc@23fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231009T113000Z
+LOCATION:3-310
+DTSTART:20231009T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:797b60ca-cf21-4569-8f0d-b73b175801f0@797b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231025T164500Z
+LOCATION:3-304
+DTSTART:20231025T151500Z
+SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
+UID:7240d1bf-ca05-487b-9979-605e13e01d7d@7240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231031T131500Z
+LOCATION:3-254
+DTSTART:20231031T114500Z
+SUMMARY:ПЗ УИРС
+UID:126e164d-fff3-4401-8174-6ad53885f7d0@126e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231031T113000Z
+LOCATION:3-441
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:1b77ae1d-5c7b-484e-9280-a5df2d8939e2@1b77.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T073000Z
+LOCATION:--каф.
+DTSTART:20231208T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:73523d70-68ee-46c7-ac70-1eb58c623a23@7352.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231218T131500Z
+LOCATION:3-310
+DTSTART:20231218T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:40950aa3-650c-42cf-ad6b-1db09c0305d6@4095.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20230928T164500Z
+LOCATION:3-310
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:6aa831a4-0ae7-41c0-b769-07a11d540a2f@6aa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231019T131500Z
+LOCATION:3-310
+DTSTART:20231019T114500Z
+SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
+UID:3d3b94c4-62fd-419f-88bb-39548d0f7624@3d3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231018T113000Z
+LOCATION:3-404
+DTSTART:20231018T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:69ea9072-c3e0-42cc-aa02-b5ebccab0e91@69ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231101T164500Z
+LOCATION:3-326
+DTSTART:20231101T151500Z
+SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:2bea2b66-6e88-4019-bb14-e8a7c709fcb5@2bea.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T073000Z
+LOCATION:--каф.
+DTSTART:20231006T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:353f6d93-b4bf-44a1-8ff9-85e24dd138fd@353f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231010T150000Z
+LOCATION:3-254
+DTSTART:20231010T133000Z
+SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
+UID:2450a3e9-82d9-41a4-8d29-6648fc59a7d7@2450.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231025T150000Z
+LOCATION:3-304
+DTSTART:20231025T133000Z
+SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
+UID:a934da3b-2f61-48df-b077-a625220f260e@a934.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T073000Z
+LOCATION:--каф.
+DTSTART:20230922T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:041469f4-a1d9-4a1e-9f8b-70a1fe3106fa@0414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231115T164500Z
+LOCATION:3-326
+DTSTART:20231115T151500Z
+SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:19cd6662-c40e-4d81-bf69-1678d61d659e@19cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231128T164500Z
+LOCATION:3-254
+DTSTART:20231128T151500Z
+SUMMARY:ПЗ Воздушная навигация и самолетовождение
+UID:442f8bcc-f21a-4e4a-9d3d-db87563093f9@442f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231213T113000Z
+LOCATION:3-404
+DTSTART:20231213T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:817c67c2-3e88-40e9-871a-c4bc066c1f86@817c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T091500Z
+LOCATION:--каф.
+DTSTART:20231222T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:baf33a8b-2cbf-446c-878d-5e057f9a0b4d@baf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231122T164500Z
+LOCATION:3-304
+DTSTART:20231122T151500Z
+SUMMARY:ЛР Микропроцессорная техника в приборах\, системах и комплексах
+UID:e71f57ab-eeb8-4f3c-9e4b-09b96124b1fb@e71f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20230920T131500Z
+LOCATION:3-404
+DTSTART:20230920T114500Z
+SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
+UID:0556e957-4342-4b5e-ac72-27d0beb654b4@0556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230914T113000Z
+LOCATION:3-342
+DTSTART:20230914T100000Z
+SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
+UID:f5dd2004-c686-40e6-be5b-0ba999c926dd@f5dd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T113000Z
+LOCATION:--каф.
+DTSTART:20231027T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0856cc03-91a2-40ab-a4a9-0d1088816875@0856.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231115T113000Z
+LOCATION:3-404
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:3866dbdf-0ecf-45ea-aaba-4799f6f2e7f6@3866.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T073000Z
+LOCATION:--каф.
+DTSTART:20231201T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:cb4a3af9-0b34-4929-b2fd-3fd7fa81d4f6@cb4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20231125T150000Z
+LOCATION:3-136
+DTSTART:20231125T133000Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:0d310da5-7a12-454c-a1ca-6e60260742fd@0d31.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T091500Z
+LOCATION:--каф.
+DTSTART:20231208T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:47f53621-a085-4067-a9c7-62a303f8eca3@47f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231009T164500Z
+LOCATION:3-310
+DTSTART:20231009T151500Z
+SUMMARY:ЛР Надежность и техническая диагностика сложных систем
+UID:44abd2b3-a082-4df2-a557-66e3b45c70ce@44ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231003T164500Z
+LOCATION:3-254
+DTSTART:20231003T151500Z
+SUMMARY:ПЗ Воздушная навигация и самолетовождение
+UID:5b7a7cd8-e8b3-44fc-af93-d2d8467ed8a4@5b7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231227T164500Z
+LOCATION:3-326
+DTSTART:20231227T151500Z
+SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:8126c372-49b8-4a34-a6e1-ac1c8177e085@8126.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231002T131500Z
+LOCATION:3-310
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:58f44f43-0428-4d05-b8c1-c3f109d41327@58f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231223T113000Z
+LOCATION:3-435
+DTSTART:20231223T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:c7aca3cd-81cc-44d4-a44c-8531f4813a64@c7ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231212T164500Z
+LOCATION:3-254
+DTSTART:20231212T151500Z
+SUMMARY:ПЗ Воздушная навигация и самолетовождение
+UID:c2b0ccf6-ee45-4be1-b2f2-e10e4d4fe242@c2b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231007T131500Z
+LOCATION:3-435
+DTSTART:20231007T114500Z
+SUMMARY:ЛК Испытания приборов и систем
+UID:97869970-bf5b-4b5c-a77f-fb99d4490c0d@9786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231010T113000Z
+LOCATION:3-441
+DTSTART:20231010T100000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:56696e4b-361c-426a-8dba-0fd4bd2e39d3@5669.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T113000Z
+LOCATION:--каф.
+DTSTART:20230929T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2d27313d-85ef-4850-957a-f79560d61635@2d27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231129T150000Z
+LOCATION:3-326
+DTSTART:20231129T133000Z
+SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:75b4fa49-b84e-4eda-932a-c321fff4961a@75b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231017T164500Z
+LOCATION:3-254
+DTSTART:20231017T151500Z
+SUMMARY:ПЗ Воздушная навигация и самолетовождение
+UID:c4590099-cf99-4aa9-bb4c-cd6fd2e9cf47@c459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рябинкин Максим Сергеевич
+DTEND:20230920T150000Z
+LOCATION:3-326
+DTSTART:20230920T133000Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:1215a007-62bb-43d4-91c5-c62bc1dbde19@1215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231023T131500Z
+LOCATION:3-310
+DTSTART:20231023T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:ac2f5d3b-cc8d-4563-aff3-d42e16af0060@ac2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231017T113000Z
+LOCATION:3-441
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:efc94ab3-ec74-49d5-8d36-a64c38e26253@efc9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T073000Z
+LOCATION:--каф.
+DTSTART:20231124T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:d0c2ecb0-eb95-4a0b-ab06-1b098cf7306e@d0c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230927T113000Z
+LOCATION:3-404
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:f6d165c6-0920-42db-b5ab-acd164d176d7@f6d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T073000Z
+LOCATION:--каф.
+DTSTART:20231020T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:81575c84-3a52-4988-9721-cc8e7f765d65@8157.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лельков Константин Сергеевич
+DTEND:20231016T150000Z
+LOCATION:3-310
+DTSTART:20231016T133000Z
+SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
+UID:234b30bd-a03b-44d5-843a-5cf95039c4e5@234b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231214T164500Z
+LOCATION:3-310
+DTSTART:20231214T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:a43cec2e-db73-4021-8c81-da776653cc7b@a43c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T073000Z
+LOCATION:--каф.
+DTSTART:20231027T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:de0af96e-12f4-4188-8224-2d65b5764b7d@de0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рябинкин Максим Сергеевич
+DTEND:20231018T150000Z
+LOCATION:3-326
+DTSTART:20231018T133000Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:6f355a33-0171-4377-ae0e-45a2276363db@6f35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231207T150000Z
+LOCATION:3-310
+DTSTART:20231207T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:12cae257-accd-4318-99fa-1cb0af94e606@12ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231125T113000Z
+LOCATION:3-435
+DTSTART:20231125T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:50234a96-ab9c-4b0b-9714-730a90f44754@5023.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230909T113000Z
+LOCATION:3-435
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:6ce07145-2bf8-4f84-9eab-a7258ef95cd3@6ce0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231115T150000Z
+LOCATION:3-326
+DTSTART:20231115T133000Z
+SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:43e7111e-e96f-4cee-b832-71846d3f4cd7@43e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231012T164500Z
+LOCATION:3-310
+DTSTART:20231012T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:b76d9516-60e6-4823-85d4-6f90e8d4e231@b76d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T113000Z
+LOCATION:--каф.
+DTSTART:20230901T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e9eee96a-757c-496e-b188-08e5ce6f05e7@e9ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231011T164500Z
+LOCATION:3-304
+DTSTART:20231011T151500Z
+SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
+UID:cc5a381d-f199-429c-83d2-e3aaaa8cbf34@cc5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T091500Z
+LOCATION:--каф.
+DTSTART:20230901T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:b662892b-5fd9-47d7-ba30-10589f99c4df@b662.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20230923T150000Z
+LOCATION:5-122
+DTSTART:20230923T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:3ffccaf6-b8de-4591-8bfa-4b16bf009df7@3ffc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20231028T150000Z
+LOCATION:3-136
+DTSTART:20231028T133000Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:cca13a51-e6b4-49b4-97ad-b4b9fcae4ffd@cca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231026T164500Z
+LOCATION:3-310
+DTSTART:20231026T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:c1ed4c7b-4074-48aa-8c3e-7d803f6f7139@c1ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20230909T150000Z
+LOCATION:5-122
+DTSTART:20230909T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:bd63202e-69de-4015-b3bd-d3199bec1180@bd63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231116T164500Z
+LOCATION:3-310
+DTSTART:20231116T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:46e6d0bb-16e0-4ccf-8994-9355a8a76410@46e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231108T131500Z
+LOCATION:3-404
+DTSTART:20231108T114500Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:e91020a4-5b99-4e49-b6c3-8b38f11cc1c8@e910.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T073000Z
+LOCATION:--каф.
+DTSTART:20231222T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:247ae1e2-e9d1-434f-966f-c6b4a187d33f@247a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231026T131500Z
+LOCATION:3-342
+DTSTART:20231026T114500Z
+SUMMARY:ЛР Системы автоматического управления космическими летательными аппаратами
+UID:5c429b4d-ca4c-46e0-9493-12b909c5c8b7@5c42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231209T113000Z
+LOCATION:3-435
+DTSTART:20231209T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:a139d2da-bdf5-4ec0-9cb4-6c935440316d@a139.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230925T113000Z
+LOCATION:3-310
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Спутниковые и радиотехнические навигационные системы
+UID:7adb9976-a61c-49b4-a518-0f4d7b616d56@7adb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231021T113000Z
+LOCATION:3-435
+DTSTART:20231021T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:6dc18c9e-b565-46e1-aba3-7a76ee17e3e7@6dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231226T164500Z
+LOCATION:3-254
+DTSTART:20231226T151500Z
+SUMMARY:ПЗ Воздушная навигация и самолетовождение
+UID:e6818ce6-a967-4ee1-b6ef-291e28f6c62b@e681.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231028T131500Z
+LOCATION:3-435
+DTSTART:20231028T114500Z
+SUMMARY:ЛК Испытания приборов и систем
+UID:eb240d41-f344-4cb0-9b6c-884fcdc876a5@eb24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230927T131500Z
+LOCATION:3-404
+DTSTART:20230927T114500Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:1722e66f-7bae-4071-b6fe-7dc67c2d0bb0@1722.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231023T150000Z
+LOCATION:3-310
+DTSTART:20231023T133000Z
+SUMMARY:ЛР Надежность и техническая диагностика сложных систем
+UID:24614a64-f79c-41a7-9d0f-f557231f97f5@2461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20230921T131500Z
+LOCATION:3-310
+DTSTART:20230921T114500Z
+SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
+UID:d4c52631-e71b-4720-89d5-f82d1fe56dca@d4c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231101T113000Z
+LOCATION:3-404
+DTSTART:20231101T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:0c1c530f-f42c-491c-bae6-cfc259f4c6cd@0c1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20231014T150000Z
+LOCATION:3-136
+DTSTART:20231014T133000Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:97a17c7e-bc4f-4c8e-b519-3da1673434da@97a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T131500Z
+LOCATION:--каф.
+DTSTART:20231222T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c0bdee92-c2c7-49b7-8d62-e811c2218c03@c0bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T131500Z
+LOCATION:--каф.
+DTSTART:20231020T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e7b3fda1-f7ed-42f3-91a6-6e77eecea7b5@e7b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230905T150000Z
+LOCATION:3-254
+DTSTART:20230905T133000Z
+SUMMARY:ЛК Воздушная навигация и самолетовождение
+UID:9fbe9538-a514-4303-8beb-1746f8bf36c3@9fbe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T131500Z
+LOCATION:--каф.
+DTSTART:20231110T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8f0b7ef9-65d8-4702-9301-5b12dd55ffa5@8f0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231005T131500Z
+LOCATION:3-310
+DTSTART:20231005T114500Z
+SUMMARY:ПЗ Пилотажно-навигационные комплексы летательных аппаратов
+UID:4d8dde79-d9bc-42e7-ac9f-87dd833852e0@4d8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20230913T150000Z
+LOCATION:3-304
+DTSTART:20230913T133000Z
+SUMMARY:ПЗ Микропроцессорная техника в приборах\, системах и комплексах
+UID:8a72437a-b61f-4957-a162-938a79eab926@8a72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20231010T131500Z
+LOCATION:3-254
+DTSTART:20231010T114500Z
+SUMMARY:ПЗ УИРС
+UID:2dac4a78-2bdd-42fd-a083-5d2d79409dc5@2dac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230926T131500Z
+LOCATION:3-254
+DTSTART:20230926T114500Z
+SUMMARY:ПЗ УИРС
+UID:7d1eb86c-0657-45c3-bc83-b5cf420d01c7@7d1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20230907T164500Z
+LOCATION:3-310
+DTSTART:20230907T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:243dfa1a-b1e1-45b6-a7c4-fe5eb544d532@243d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230902T131500Z
+LOCATION:3-435
+DTSTART:20230902T114500Z
+SUMMARY:ЛК Испытания приборов и систем
+UID:dbf41bb5-b714-47b5-a55b-c5bf8663d2dd@dbf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231225T131500Z
+LOCATION:3-310
+DTSTART:20231225T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:27b33ec7-9bf2-4aac-b836-9312cfbd398f@27b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231018T131500Z
+LOCATION:3-404
+DTSTART:20231018T114500Z
+SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
+UID:66cd1a01-f238-4095-afa3-622ef6c89686@66cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231101T150000Z
+LOCATION:3-326
+DTSTART:20231101T133000Z
+SUMMARY:ЛР Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:fc0694cb-8470-4178-9d04-257b4d1e8f1f@fc06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20231206T113000Z
+LOCATION:3-404
+DTSTART:20231206T100000Z
+SUMMARY:ЛК Системы автоматического управления космическими летательными аппаратами
+UID:c2e00e02-4095-47d1-a978-29ca3838ebaa@c2e0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T091500Z
+LOCATION:--каф.
+DTSTART:20231215T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1d1f3e42-8056-4554-8c23-d0e7d7be3e79@1d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231214T150000Z
+LOCATION:3-310
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Пилотажно-навигационные комплексы летательных аппаратов
+UID:8d0a8974-9e3b-4d90-8759-187e56d7d8a5@8d0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20230923T164500Z
+LOCATION:5-122
+DTSTART:20230923T151500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:11e970a4-0e4a-470b-8ee3-293efa1cd740@11e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20230925T164500Z
+LOCATION:3-310
+DTSTART:20230925T151500Z
+SUMMARY:ЛР Надежность и техническая диагностика сложных систем
+UID:53b21c5f-c600-4a56-823a-fd4617c1a7cf@53b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T131500Z
+LOCATION:--каф.
+DTSTART:20231215T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:67c66fb7-e524-42d5-a7e3-f2f1801f06d3@67c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231221T164500Z
+LOCATION:3-310
+DTSTART:20231221T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:a4bfc795-d9f3-46a3-8161-3bee0a87cc98@a4bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231014T113000Z
+LOCATION:3-435
+DTSTART:20231014T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:aa7c2a55-73ae-4e2e-93f9-f1c98e51ad74@aa7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T131500Z
+LOCATION:--каф.
+DTSTART:20230929T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e88efadc-3247-42b8-8e79-f0ab2e20dc04@e88e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231118T113000Z
+LOCATION:3-435
+DTSTART:20231118T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:3c231391-c8c0-429c-9654-f255d617f261@3c23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20230921T164500Z
+LOCATION:3-310
+DTSTART:20230921T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:318ce64b-1b66-4c55-a13b-c62c54ee62ea@318c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20230930T150000Z
+LOCATION:3-136
+DTSTART:20230930T133000Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:52d11ff2-94fa-49ac-af01-250a3c8749de@52d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лельков Константин Сергеевич
+DTEND:20231002T150000Z
+LOCATION:3-310
+DTSTART:20231002T133000Z
+SUMMARY:ЛР Пилотажно-навигационные комплексы летательных аппаратов
+UID:01ba60c9-72c8-4ae2-a472-8e202c0ba834@01ba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ушаков Андрей Николаевич
@@ -2731,6 +2631,106 @@ DTEND:20231227T131500Z
 LOCATION:3-404
 DTSTART:20231227T114500Z
 SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
-UID:498abe80-cbb1-4e11-af53-662163bd3cfe@498a.org
+UID:f462eb42-0144-4e73-9d19-64d751b45b94@f462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ушаков Андрей Николаевич
+DTEND:20231115T131500Z
+LOCATION:3-404
+DTSTART:20231115T114500Z
+SUMMARY:ЛК Микропроцессорная техника в приборах\, системах и комплексах
+UID:a85ebd95-730d-497c-b6d3-3c50c563e092@a85e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T113000Z
+LOCATION:--каф.
+DTSTART:20231208T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:944258b3-7360-4e40-a1d4-5c90f28e7a72@9442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кошелев Борис Валентинович
+DTEND:20231211T131500Z
+LOCATION:3-310
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Надежность и техническая диагностика сложных систем
+UID:52acedc4-022f-47d9-9805-bf2415fb0f1b@52ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петрухин Владимир Андреевич
+DTEND:20230919T113000Z
+LOCATION:3-441
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Основы автоматизированного проектирования
+UID:cd4c2f0b-0c3c-4a71-851a-e157c52c826a@cd4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230923T113000Z
+LOCATION:3-435
+DTSTART:20230923T100000Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:b75614d2-a039-4dc5-9e41-ea80af5bbef8@b756.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T131500Z
+LOCATION:--каф.
+DTSTART:20231201T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:7597cd9d-fbae-487c-b187-b390a431eb7a@7597.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зимин Роман Юрьевич
+DTEND:20231209T164500Z
+LOCATION:3-136
+DTSTART:20231209T151500Z
+SUMMARY:ЛР Испытания приборов и систем
+UID:72c7c784-7d72-4113-b15e-1cff5f89730b@72c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231005T164500Z
+LOCATION:3-310
+DTSTART:20231005T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:7fa42703-017f-478d-897e-c5cc886146b1@7fa4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T113000Z
+LOCATION:--каф.
+DTSTART:20231222T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e7ceb552-7699-4c37-85b8-ec9d6cd18184@e7ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Антонов Дмитрий Александрович
+DTEND:20230912T150000Z
+LOCATION:3-254
+DTSTART:20230912T133000Z
+SUMMARY:ЛР Спутниковые и радиотехнические навигационные системы
+UID:c63885ed-3622-458f-a80d-ee6f15890b35@c638.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T131500Z
+LOCATION:--каф.
+DTSTART:20231103T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:41bddf01-c697-430e-9027-d3445328e4f6@41bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веремеенко Константин Константинович
+DTEND:20231102T164500Z
+LOCATION:3-310
+DTSTART:20231102T151500Z
+SUMMARY:ЛК Программно-алгоритмическое обеспечение пилотажно-навигационных комплексов летательных аппаратов
+UID:5c395d26-7ddb-41bb-a14b-a872409f4e1c@5c39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рябинкин Максим Сергеевич
+DTEND:20230906T164500Z
+LOCATION:3-326
+DTSTART:20230906T151500Z
+SUMMARY:ЛР Основы автоматизированного проектирования
+UID:ad5c8066-e439-4376-aa37-c609e6bb0816@ad5c.org
 END:VEVENT
 END:VCALENDAR

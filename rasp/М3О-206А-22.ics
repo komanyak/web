@@ -2,49 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:86b8ca83-58e7-40f8-80e9-68d62ad8a76c@86b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5ab55b0e-9e9d-4e63-87bf-ee55cf9e15ce@5ab5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:694d2aa8-30f1-42a4-bc2a-4d286ee47419@694d.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231024T183000Z
+DTEND:20231031T164500Z
 LOCATION:ГУК В-228
-DTSTART:20231024T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:b3381b48-978a-465f-9eed-d83cc73c2fdd@b338.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
+DTSTART:20231031T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:f8db71f5-3322-4662-96e0-feb17b122878@f8db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:f626569f-1f44-42e1-89a5-a1d90d30ad02@f626.org
+UID:68d3d70a-ed5e-4ee6-8983-63b777b85141@68d3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -52,124 +15,7 @@ DTEND:20231010T164500Z
 LOCATION:ГУК В-228
 DTSTART:20231010T151500Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:a4bd3161-199b-4400-a922-fe62c0c02e30@a4bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:1c2753eb-5016-412d-85c8-02f214192306@1c27.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b365c2cb-f25f-4a73-9ead-0643bc6959d8@b365.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:8d5c2b6c-6f8a-40fd-bdf2-4a0b1fd61de8@8d5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6aa7208c-babc-4ecc-8fe6-9e82ba9aaa16@6aa7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3f9cd387-e298-4ec7-8c5b-7b9282ae8147@3f9c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:dd4d1bcd-88f3-434b-a0a3-50783e68a7df@dd4d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:13f75c3d-939e-4052-8b5d-4f44fc6d4eda@13f7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:815f2d52-5f65-41a6-9a5c-22c1b4d7e32f@815f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:931fc056-e670-4882-9f28-f1b5e5fa293f@931f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:475ec375-7f99-4491-a57a-797e1f701111@475e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:309828a4-aa17-4b9b-b3f1-786b1bee8296@3098.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:04f45452-24dc-4d25-b1b6-e672c8025e3b@04f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:c8068e48-aee8-4c3a-a200-70c3e1c013bb@c806.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:73d5fd91-0907-48bc-99ff-58a40401a398@73d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:80fcb3a8-ce04-47ff-a59c-756ca098dfb1@80fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6f8d961e-b0e0-48d2-99c4-74b0fef65cee@6f8d.org
+UID:d598ac55-46d3-418d-9dd8-ff993cbdf66e@d598.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -177,65 +23,130 @@ DTEND:20231017T164500Z
 LOCATION:ГУК В-228
 DTSTART:20231017T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:3e69d146-3527-4653-8682-7e4a231367fb@3e69.org
+UID:88e07c45-c810-4728-a0ad-6cdbce7f138d@88e0.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231023T150000Z
+DTEND:20231030T164500Z
 LOCATION:--каф.
-DTSTART:20231023T133000Z
+DTSTART:20231030T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8677464b-eafd-4308-b8a0-72c46f615b1b@8677.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:eaae3b8d-9561-4be9-a9ef-c62bc10f0ea1@eaae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231024T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:948feeda-3890-4ff7-a71e-34021f7aca73@948f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:24ab30db-22c1-4278-b793-4157b4b4a012@24ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231010T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231010T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:215e91de-62b3-408f-99ef-40da6667c35a@215e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4371ee78-a8c1-4a71-9bfd-18f053577c60@4371.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d34daac7-8fe8-4556-ac68-17cf6a971576@d34d.org
+UID:6a362385-cb72-4547-8cfa-7764613ede07@6a36.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231113T164500Z
 LOCATION:--каф.
 DTSTART:20231113T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c2d3b532-cada-4323-970b-976440eb1166@c2d3.org
+UID:f6edfa79-cd0a-4f9f-9f1c-b1687d29fe47@f6ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c2e88a8a-db57-445c-8ed4-4f5a9f8ad7ed@c2e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231024T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231024T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:9f884c53-5753-456a-839d-7b33558a6717@9f88.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7c7dfa9d-1cfa-428c-9d8a-0eef9bb9b019@7c7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:b8d9b97a-8f63-4511-8ad1-c7cf5716622b@b8d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:6fb514cb-341b-41bd-b8e0-66a7c3996d07@6fb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:54b6e5db-b558-4548-b982-f969ce0d18e2@54b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0023d90d-99a8-49b5-af6b-3af6105f4681@0023.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b08f7336-633d-470b-8b32-4d86d5a5b8ce@b08f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T164500Z
+LOCATION:--каф.
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:29f8b2b2-a06b-4eeb-a836-9f178393f1ab@29f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f216fda0-f796-43d0-8183-80ee65fd833f@f216.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:310af930-e989-47f6-9757-10312514310b@310a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1561366a-581d-45cf-8a27-b060e25db8b9@1561.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ee5277c7-9e56-4857-a087-f850c1a45003@ee52.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0fa506b6-4ce2-4044-b0ad-73168fedbfe8@0fa5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:08485638-75eb-4f65-9ef5-b3469c61881e@0848.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -243,28 +154,89 @@ DTEND:20231114T164500Z
 LOCATION:ГУК В-228
 DTSTART:20231114T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:3ba0609e-b38c-4632-be6e-16f6b8aa0140@3ba0.org
+UID:8a843770-8797-4d16-92db-a48feb387b78@8a84.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231120T150000Z
+DTEND:20231002T164500Z
 LOCATION:--каф.
-DTSTART:20231120T133000Z
+DTSTART:20231002T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7d169970-2261-4f4e-810a-37a33bd6544f@7d16.org
+UID:4caededf-366f-43af-96c0-b0bcc5bf1469@4cae.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:140b5283-f120-425d-bb1d-f76188843a2e@140b.org
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:35a98663-7b8d-446c-a0e0-8a595b4320aa@35a9.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230918T150000Z
+DTEND:20231120T164500Z
 LOCATION:--каф.
-DTSTART:20230918T133000Z
+DTSTART:20231120T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:cbd7888a-f3e0-4331-a886-e3094769c1e5@cbd7.org
+UID:6ddd7c39-8160-4aa8-87de-8838987a8ff6@6ddd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:0d29f483-909a-4ec9-a25e-992448e7b76d@0d29.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c9a3e240-937a-4c46-9f35-44ac48d9b141@c9a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231010T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231010T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:805fa823-4d7f-47f3-ad24-d4bcb4942154@805f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:45aa30c2-3bf9-428d-be04-a7f01a19c682@45aa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0498169b-99c9-4ee9-aa75-06dbffc421d0@0498.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:cbb9b8c7-d42a-46d2-bc47-b4daff9c6580@cbb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:bfe509e0-94e9-44ee-8791-9b323475f56d@bfe5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231024T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:f44c6ad2-4582-46df-a669-cac21eb946f8@f44c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -272,20 +244,48 @@ DTEND:20230919T183000Z
 LOCATION:ГУК В-228
 DTSTART:20230919T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:a592df47-7f7c-462b-bade-720b8f1193da@a592.org
+UID:8c5ce4cc-651f-4ee9-9a63-5a5056e01eb6@8c5c.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230918T164500Z
+DTEND:20231016T150000Z
 LOCATION:--каф.
-DTSTART:20230918T151500Z
+DTSTART:20231016T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2875c2be-73c5-4cf2-8814-22cc751e72b8@2875.org
+UID:d6d98528-c450-42cc-9ea1-8eba87cbc2d2@d6d9.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231016T164500Z
+DTEND:20230911T164500Z
 LOCATION:--каф.
-DTSTART:20231016T151500Z
+DTSTART:20230911T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7103a0eb-6951-4197-aa85-edfd695bbf4d@7103.org
+UID:2a2e5dcd-0bc2-4929-b094-4cb8cc1d050d@2a2e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c7cfaea5-f887-43fc-acf9-b28b312b4b48@c7cf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:15bc67b7-1abb-417c-9b3c-edd90875b01f@15bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1ee742d0-2033-48e9-82ae-3990d1e1ba7f@1ee7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ffeed58a-8828-4b3c-8449-a8990a455fcb@ffee.org
 END:VEVENT
 END:VCALENDAR

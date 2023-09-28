@@ -2,412 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231016T183000Z
-LOCATION:24-713
-DTSTART:20231016T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:773f1d53-03e2-47a7-ad58-d3be871f764b@773f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондрашов Юрий Николаевич
-DTEND:20231004T164500Z
-LOCATION:24-709
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:f279c2c5-f2fd-49fb-87f1-150959c4046c@f279.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231011T183000Z
-LOCATION:24-705
-DTSTART:20231011T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:3b0a6f35-451a-4b87-9462-e38dcd5eaf2d@3b0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20231024T183000Z
-LOCATION:--каф.
-DTSTART:20231024T170000Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:fd9d6e33-87b9-4b8a-afe9-3b1e9aefcb30@fd9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231023T183000Z
-LOCATION:24-705
-DTSTART:20231023T170000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:295628c8-6a70-463b-bd9c-8d9207f75b4a@2956.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231102T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:33db163b-6353-4943-8d67-744160f7484d@33db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондрашов Юрий Николаевич
-DTEND:20230906T183000Z
-LOCATION:24-709
-DTSTART:20230906T170000Z
-SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:297d3823-abe9-4580-a2ac-1f53360d8068@297d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231214T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231214T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:1a34b6d5-b2c9-410f-9226-9a75ce9460f8@1a34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231009T164500Z
-LOCATION:24-705
-DTSTART:20231009T151500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:9eaffad9-92be-4e31-af82-a1e8b5c91b2b@9eaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондрашов Юрий Николаевич
-DTEND:20230906T164500Z
-LOCATION:24-709
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:e67c2d34-a94c-4830-8498-35dc513831f7@e67c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231204T164500Z
-LOCATION:24-705
-DTSTART:20231204T151500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:9bba81b1-cbf3-4059-922c-9a9e6a478143@9bba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20231219T183000Z
-LOCATION:--каф.
-DTSTART:20231219T170000Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:dd659f66-abba-4077-b672-e605a77b7c74@dd65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231006T164500Z
-LOCATION:24-705
-DTSTART:20231006T151500Z
-SUMMARY:ЛК Информатизация процессов жизненного цикла изделий
-UID:4e26be51-e1d4-48f5-a267-4bda6bf1b93c@4e26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондрашов Юрий Николаевич
-DTEND:20230920T183000Z
-LOCATION:24-709
-DTSTART:20230920T170000Z
-SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:0f973492-066a-4bff-8f09-6ce46d95299d@0f97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20230908T164500Z
-LOCATION:24-705
-DTSTART:20230908T151500Z
-SUMMARY:ЛК Информатизация процессов жизненного цикла изделий
-UID:d7e881c9-80c8-4ac8-b337-04167a1256d9@d7e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231106T164500Z
-LOCATION:24-705
-DTSTART:20231106T151500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:a539c773-5cf6-4ecf-b8ae-0f8c52e17546@a539.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231127T183000Z
-LOCATION:24-713
-DTSTART:20231127T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:9a3fb00a-900c-47f4-a2be-a40f2215ea90@9a3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230925T164500Z
-LOCATION:24-705
-DTSTART:20230925T151500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:877d4c09-b786-4284-bb82-649e1cf9a200@877d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231005T183000Z
-LOCATION:ГУК А-507а
-DTSTART:20231005T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:2ba60aa1-ee7b-45a5-a7f5-4169290d8b6c@2ba6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондрашов Юрий Николаевич
-DTEND:20231018T183000Z
-LOCATION:24-709
-DTSTART:20231018T170000Z
-SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:7ac5c809-8722-4e4b-afc1-ed9b6a2ca86a@7ac5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231025T183000Z
-LOCATION:24-705
-DTSTART:20231025T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:a8694789-8c23-4aec-8ee6-89f975c1c2db@a869.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231113T183000Z
-LOCATION:24-713
-DTSTART:20231113T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:f5877e4a-73f2-4d69-85cd-c0b10de6b2ce@f587.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231120T164500Z
-LOCATION:24-705
-DTSTART:20231120T151500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:fa783cc4-4082-40db-8161-399188f463df@fa78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231220T164500Z
-LOCATION:24-705
-DTSTART:20231220T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:8566a8f9-6749-454a-8ef9-673ca910b9e5@8566.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231009T183000Z
-LOCATION:24-705
-DTSTART:20231009T170000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:726bb701-fc73-4ebb-8f1f-9424708e345f@726b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20230926T183000Z
-LOCATION:--каф.
-DTSTART:20230926T170000Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:43346183-564e-48ae-af31-40a5fd791be4@4334.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20231024T164500Z
-LOCATION:--каф.
-DTSTART:20231024T151500Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:71d8d8e4-a2b1-4318-95c4-c057133ae331@71d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231020T164500Z
-LOCATION:24-705
-DTSTART:20231020T151500Z
-SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
-UID:580d059f-9ab4-4f3d-8535-40f0e4d68aed@580d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20231107T183000Z
-LOCATION:--каф.
-DTSTART:20231107T170000Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:d2cb9a6e-5ae9-43ae-a515-b2b59c753363@d2cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230921T183000Z
-LOCATION:ГУК А-507а
-DTSTART:20230921T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:ebab55ed-0f5b-4caf-8404-a2e6b8302253@ebab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231117T183000Z
-LOCATION:24-705
-DTSTART:20231117T170000Z
-SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
-UID:b309b812-34b5-45ab-afef-94f1dd60f6ad@b309.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231201T164500Z
-LOCATION:24-705
-DTSTART:20231201T151500Z
-SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
-UID:6eb45ca7-ebd2-436d-ac92-0054d01e568c@6eb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231120T183000Z
-LOCATION:24-705
-DTSTART:20231120T170000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:ac1c676d-0e1b-4753-a7b5-17068bdbe48f@ac1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20230904T164500Z
-LOCATION:24-713
-DTSTART:20230904T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:dd61f82d-6d5d-4b69-8ae5-b1283800391a@dd61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231206T164500Z
-LOCATION:24-705
-DTSTART:20231206T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:d6ceb281-e08d-4b85-9335-7dd927e66158@d6ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231020T183000Z
-LOCATION:24-705
-DTSTART:20231020T170000Z
-SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
-UID:2b3c85f3-2195-4a34-b830-2a6c19d9408e@2b3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230927T164500Z
-LOCATION:24-705
-DTSTART:20230927T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:c861df17-e60c-42dc-9317-199144658273@c861.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20231205T164500Z
-LOCATION:--каф.
-DTSTART:20231205T151500Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:e2402871-e90c-4fb4-acb6-5ba339607e05@e240.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20231121T164500Z
-LOCATION:--каф.
-DTSTART:20231121T151500Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:17c947ba-eeac-4d51-8696-7231e26aec11@17c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20230918T164500Z
-LOCATION:24-713
-DTSTART:20230918T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:8c8f10f9-81c9-4519-bb38-c4649f653330@8c8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231108T164500Z
-LOCATION:24-705
-DTSTART:20231108T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:d9103714-2d54-4dc4-836f-d3c604fb8e03@d910.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231113T164500Z
-LOCATION:24-713
-DTSTART:20231113T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:ee8697e6-f414-4a77-ae69-b40d2db3eac9@ee86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20231107T164500Z
-LOCATION:--каф.
-DTSTART:20231107T151500Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:a5f23405-2986-405b-8e46-944be5fa660c@a5f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231130T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231130T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:46e0420a-d4ec-4656-aedd-416bd9696d46@46e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231117T164500Z
-LOCATION:24-705
-DTSTART:20231117T151500Z
-SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
-UID:3983b485-441a-4020-ab21-034e48ab9c79@3983.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Денисова Анастасия Николаевна
 DTEND:20230912T164500Z
 LOCATION:--каф.
 DTSTART:20230912T151500Z
 SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:589790b6-c84b-452c-8e49-0203120cf9e3@5897.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20230918T183000Z
-LOCATION:24-713
-DTSTART:20230918T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:385d6a2a-38b9-4e25-8227-971d3dbf35c7@385d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231122T164500Z
-LOCATION:24-705
-DTSTART:20231122T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:e932ef45-4536-4832-96e2-549341f206eb@e932.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230913T164500Z
-LOCATION:24-705
-DTSTART:20230913T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:ebb569d2-d5fc-4348-8fc5-979f4e8275fc@ebb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20231205T183000Z
-LOCATION:--каф.
-DTSTART:20231205T170000Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:b9bc3b36-e3e5-4e6f-975b-ce8ad18fce5a@b9bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231201T183000Z
-LOCATION:24-705
-DTSTART:20231201T170000Z
-SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
-UID:4f13a61c-dcfd-4a1d-8ab2-631e39d44aeb@4f13.org
+UID:22e26ebd-2a98-4184-952a-fc42e6ebfe01@22e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысаков Николай Дмитриевич
@@ -415,31 +15,39 @@ DTEND:20231225T164500Z
 LOCATION:24-713
 DTSTART:20231225T151500Z
 SUMMARY:ЛК Психология и педагогика
-UID:aa1b73f7-d2f9-4d55-8c63-f404c500ffc4@aa1b.org
+UID:21da7d57-756a-46f2-8ee2-bd39ae43dde0@21da.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231005T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:75f4f713-298a-43bd-bd5f-3a8337021898@75f4.org
+DESCRIPTION:Кондрашов Юрий Николаевич
+DTEND:20231018T183000Z
+LOCATION:24-709
+DTSTART:20231018T170000Z
+SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:fa90bc4e-3d29-497d-94f5-5241c0d19f18@fa90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондрашов Юрий Николаевич
+DTEND:20231004T164500Z
+LOCATION:24-709
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:1a442dab-d49f-492b-9dea-8d62bf5e6329@1a44.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231204T183000Z
+DTEND:20231011T183000Z
 LOCATION:24-705
-DTSTART:20231204T170000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:29d99fea-3977-4f2f-9060-7edd306876a6@29d9.org
+DTSTART:20231011T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:10274116-b25f-43d9-9637-c3008ad45cb9@1027.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230911T183000Z
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20231006T164500Z
 LOCATION:24-705
-DTSTART:20230911T170000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:6fb5426d-f6e0-4798-aa97-6015077a5bee@6fb5.org
+DTSTART:20231006T151500Z
+SUMMARY:ЛК Информатизация процессов жизненного цикла изделий
+UID:738d5b7a-1c85-40af-9835-b8fe0145f0b5@738d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Петров Андрей Владимирович
@@ -447,127 +55,15 @@ DTEND:20230922T183000Z
 LOCATION:24-705
 DTSTART:20230922T170000Z
 SUMMARY:ЛК Информатизация процессов жизненного цикла изделий
-UID:212a56e9-9d82-4552-b39a-8140b6df97c3@212a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231211T183000Z
-LOCATION:24-713
-DTSTART:20231211T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:df589c3b-16e2-4de7-80af-454cc0515215@df58.org
+UID:55b4c42a-e729-487d-945d-e17338479a82@55b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Петров Андрей Владимирович
-DTEND:20230908T183000Z
+DTEND:20231117T183000Z
 LOCATION:24-705
-DTSTART:20230908T170000Z
-SUMMARY:ЛК Информатизация процессов жизненного цикла изделий
-UID:3fa34892-0b3e-43f7-8512-d4e38798ad13@3fa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230913T183000Z
-LOCATION:24-705
-DTSTART:20230913T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:2f2c5586-ef06-4073-93ad-aad53d7ac73c@2f2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231220T183000Z
-LOCATION:24-705
-DTSTART:20231220T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:10e47a35-ae04-41c6-b358-58088195e6cd@10e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231002T183000Z
-LOCATION:24-713
-DTSTART:20231002T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:62e77476-9f78-4904-912c-047a0718712d@62e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231229T183000Z
-LOCATION:24-705
-DTSTART:20231229T170000Z
+DTSTART:20231117T170000Z
 SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
-UID:d314f97b-d299-490a-a2f8-79366480bfa2@d314.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондрашов Юрий Николаевич
-DTEND:20231018T164500Z
-LOCATION:24-709
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:c37d2242-e7b4-411f-bbf9-2a877cb287e1@c37d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20230926T164500Z
-LOCATION:--каф.
-DTSTART:20230926T151500Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:724dc1e2-378d-42bd-aa36-9f7566a2d1ac@724d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230927T183000Z
-LOCATION:24-705
-DTSTART:20230927T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:274a1f47-641b-44a9-9f6c-c9399d5c386a@274a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231206T183000Z
-LOCATION:24-705
-DTSTART:20231206T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:e99ff8cb-d263-470c-bc8e-48b9e0c08ecc@e99f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20230922T164500Z
-LOCATION:24-705
-DTSTART:20230922T151500Z
-SUMMARY:ЛК Информатизация процессов жизненного цикла изделий
-UID:6627a2ff-c11e-48a0-9517-31d7bd223512@6627.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231215T164500Z
-LOCATION:24-705
-DTSTART:20231215T151500Z
-SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
-UID:7bacd66b-c026-44fd-8340-7fea4dd1a835@7bac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20230912T183000Z
-LOCATION:--каф.
-DTSTART:20230912T170000Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:e8b45729-f993-40f1-92a1-1c3e73ab7a5b@e8b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20231121T183000Z
-LOCATION:--каф.
-DTSTART:20231121T170000Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:91f54be1-d5d7-426a-91d7-d47d3b378fc5@91f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231011T164500Z
-LOCATION:24-705
-DTSTART:20231011T151500Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:4f3de25a-1cbd-493c-8b75-a8860d92529c@4f3d.org
+UID:696d8908-60e9-459e-af3f-eb0e8aec7835@696d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
@@ -575,23 +71,39 @@ DTEND:20230921T164500Z
 LOCATION:ГУК А-507а
 DTSTART:20230921T151500Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:9f600d08-c5cc-4ea0-a9c1-7375c503eeac@9f60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондрашов Юрий Николаевич
-DTEND:20231004T183000Z
-LOCATION:24-709
-DTSTART:20231004T170000Z
-SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:681f9d04-a0df-482a-b5df-9f1a9b2e8de4@681f.org
+UID:7a058c02-6c82-4785-9440-7069b799cf72@7a05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231215T183000Z
+DTEND:20231201T183000Z
 LOCATION:24-705
-DTSTART:20231215T170000Z
+DTSTART:20231201T170000Z
 SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
-UID:cb72bb9d-6b48-40fb-87d9-ae25e4bda063@cb72.org
+UID:c149b5cc-b184-4c26-a0a6-9ba5370504cf@c149.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231130T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231130T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:5b705c99-242b-4989-81eb-20ce2cc676fe@5b70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231211T183000Z
+LOCATION:24-713
+DTSTART:20231211T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:d194586a-7fe2-42a8-bbd8-13a8f4d40048@d194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20231020T183000Z
+LOCATION:24-705
+DTSTART:20231020T170000Z
+SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
+UID:eaf060ef-c309-4f86-a27b-3fb869af640f@eaf0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коротаева Ирина Эдуардовна
@@ -599,215 +111,23 @@ DTEND:20231130T183000Z
 LOCATION:ГУК А-507а
 DTSTART:20231130T170000Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:24140b3b-392f-4fd9-a9d8-1b876a6f22d1@2414.org
+UID:da42a721-83f3-492c-9eed-86f233159d30@da42.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231025T164500Z
+DTEND:20231206T164500Z
 LOCATION:24-705
-DTSTART:20231025T151500Z
+DTSTART:20231206T151500Z
 SUMMARY:ЛР Интеллектуальные системы
-UID:bc161a36-722d-499e-8104-c3db350f74b7@bc16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231019T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:8166aced-05e2-48bf-a83e-706e18b7bf34@8166.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231030T164500Z
-LOCATION:24-713
-DTSTART:20231030T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:243f00a2-f9ea-49dc-8c84-57b1a9f56b1a@243f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231023T164500Z
-LOCATION:24-705
-DTSTART:20231023T151500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:39b41053-5641-4e0e-8860-200f13c262f4@39b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231122T183000Z
-LOCATION:24-705
-DTSTART:20231122T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:95eb156c-cb88-4e66-9436-a1c75c24882e@95eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231019T183000Z
-LOCATION:ГУК А-507а
-DTSTART:20231019T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:27ef1725-e78e-4556-a82a-b6799e23cb33@27ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231102T183000Z
-LOCATION:ГУК А-507а
-DTSTART:20231102T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:e56bc85e-c0c5-4b28-a15f-005237878b19@e56b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231214T183000Z
-LOCATION:ГУК А-507а
-DTSTART:20231214T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:508d9a20-bd27-4486-991d-29a26a61168b@508d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231229T164500Z
-LOCATION:24-705
-DTSTART:20231229T151500Z
-SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
-UID:77ad8054-7b6c-403b-b6a7-e88b2a33f05f@77ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20231010T183000Z
-LOCATION:--каф.
-DTSTART:20231010T170000Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:c79c4bec-586b-41a4-b3ca-0beb6242be79@c79c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231211T164500Z
-LOCATION:24-713
-DTSTART:20231211T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:03d3ee1c-5345-48e2-b02e-92a413f04dcd@03d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231116T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:8ea3b6eb-eaa4-4e72-8378-304eb15c739e@8ea3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230907T183000Z
-LOCATION:ГУК А-507а
-DTSTART:20230907T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:8e8cf27d-15f1-4ce5-8908-bd5fbf816d0e@8e8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231127T164500Z
-LOCATION:24-713
-DTSTART:20231127T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:8e3dfe73-a64e-48f6-827f-757c10fcbf4a@8e3d.org
+UID:132e27d0-1fcb-4b8f-a367-c8b6a45445c4@132e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кондрашов Юрий Николаевич
-DTEND:20230920T164500Z
+DTEND:20230906T164500Z
 LOCATION:24-709
-DTSTART:20230920T151500Z
+DTSTART:20230906T151500Z
 SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:08927144-17fb-427c-8545-01c8f9ea2ec1@0892.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Петров Андрей Владимирович
-DTEND:20231006T183000Z
-LOCATION:24-705
-DTSTART:20231006T170000Z
-SUMMARY:ЛК Информатизация процессов жизненного цикла изделий
-UID:9179a0c4-ceae-41a3-8aa6-126795461c32@9179.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231016T164500Z
-LOCATION:24-713
-DTSTART:20231016T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:9b78238f-77b1-48a5-9e46-0ceb5b731da1@9b78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20230904T183000Z
-LOCATION:24-713
-DTSTART:20230904T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:3761f123-cb2c-436c-8c13-783d100b0db3@3761.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230925T183000Z
-LOCATION:24-705
-DTSTART:20230925T170000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:939314c2-2fd1-4c27-a8e3-8f17effb0220@9393.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20230911T164500Z
-LOCATION:24-705
-DTSTART:20230911T151500Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:cf7e1991-4185-496b-843a-18845b46263a@cf7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231106T183000Z
-LOCATION:24-705
-DTSTART:20231106T170000Z
-SUMMARY:ЛК Интеллектуальные системы
-UID:a0f99511-a2e7-4d30-a7f2-1caf4230d2b6@a0f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бродский Александр Владимирович
-DTEND:20231108T183000Z
-LOCATION:24-705
-DTSTART:20231108T170000Z
-SUMMARY:ЛР Интеллектуальные системы
-UID:34dca8cb-201a-4543-8cf5-f13eb6802fee@34dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231030T183000Z
-LOCATION:24-713
-DTSTART:20231030T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:c7018168-e961-4923-ae3b-fd9a1481d51d@c701.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20230907T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:08d43405-b1a5-4d11-a631-2823d6df2fab@08d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коротаева Ирина Эдуардовна
-DTEND:20231116T183000Z
-LOCATION:ГУК А-507а
-DTSTART:20231116T170000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:ec3ad788-e6f2-4383-a8fa-fe7fa7813724@ec3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Денисова Анастасия Николаевна
-DTEND:20231219T164500Z
-LOCATION:--каф.
-DTSTART:20231219T151500Z
-SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:f5f1e743-517b-431f-b52d-854749c2b010@f5f1.org
+UID:1def3eaa-8a43-4d73-a193-d2284f8d2921@1def.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысаков Николай Дмитриевич
@@ -815,7 +135,495 @@ DTEND:20231002T164500Z
 LOCATION:24-713
 DTSTART:20231002T151500Z
 SUMMARY:ЛК Психология и педагогика
-UID:81cee2e5-1c7c-4c54-9f43-8e2e976bf828@81ce.org
+UID:8cce8473-e19f-420b-a95e-be8d051fc3b6@8cce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231106T164500Z
+LOCATION:24-705
+DTSTART:20231106T151500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:4accc912-d2df-40a6-94b8-15cb76d4d04a@4acc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231019T183000Z
+LOCATION:ГУК А-507а
+DTSTART:20231019T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:9368ad77-bc06-4dba-9c8d-05e753d87426@9368.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231214T183000Z
+LOCATION:ГУК А-507а
+DTSTART:20231214T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:44a92216-481d-411e-b35f-867790828fb1@44a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231011T164500Z
+LOCATION:24-705
+DTSTART:20231011T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:fe471811-08d2-4c17-8508-ea2a0607cfc2@fe47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231106T183000Z
+LOCATION:24-705
+DTSTART:20231106T170000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:7fb4c2b6-d4ab-4613-936a-5e1a6c8cb73e@7fb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231206T183000Z
+LOCATION:24-705
+DTSTART:20231206T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:61326edd-5ca9-4119-8b37-f15d1069ba3c@6132.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20230926T183000Z
+LOCATION:--каф.
+DTSTART:20230926T170000Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:ab560039-d19c-4aeb-b333-11f51bf2204e@ab56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230913T164500Z
+LOCATION:24-705
+DTSTART:20230913T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:c11dbf64-4460-4e9d-8a52-f51a072b7ae9@c11d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231102T183000Z
+LOCATION:ГУК А-507а
+DTSTART:20231102T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:2f7f02fa-a570-420d-9049-0d185a38457d@2f7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231122T164500Z
+LOCATION:24-705
+DTSTART:20231122T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:84dbf9ce-7f7c-4ee0-ba67-8f216fd3d544@84db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20230904T183000Z
+LOCATION:24-713
+DTSTART:20230904T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:95680843-f103-4297-af43-c2f96c4c2b40@9568.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231127T164500Z
+LOCATION:24-713
+DTSTART:20231127T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:60dd313e-8686-4350-9ec6-5982854c4db6@60dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20230912T183000Z
+LOCATION:--каф.
+DTSTART:20230912T170000Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:f6c2d88f-aa52-41e2-aceb-de18c6404141@f6c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20231215T183000Z
+LOCATION:24-705
+DTSTART:20231215T170000Z
+SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
+UID:f49afa1b-d4a3-448b-9a9b-c92f8022d885@f49a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондрашов Юрий Николаевич
+DTEND:20231004T183000Z
+LOCATION:24-709
+DTSTART:20231004T170000Z
+SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:40f632e6-d5ac-4342-bc6e-7c6f3a92e197@40f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20231010T183000Z
+LOCATION:--каф.
+DTSTART:20231010T170000Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:6319ce0d-5334-4c3a-92ea-0195b72c05ba@6319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20231020T164500Z
+LOCATION:24-705
+DTSTART:20231020T151500Z
+SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
+UID:493cf920-26d9-453a-8235-c4da1c3bed6b@493c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231016T183000Z
+LOCATION:24-713
+DTSTART:20231016T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:adce4318-75bb-4e3a-95f2-66b7d0d9ed1c@adce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20231121T164500Z
+LOCATION:--каф.
+DTSTART:20231121T151500Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:2c30200c-48e3-49c6-b5ee-b51c385ed502@2c30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231204T183000Z
+LOCATION:24-705
+DTSTART:20231204T170000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:2428626e-b676-4b12-b4a0-88f8b6986cd3@2428.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231030T183000Z
+LOCATION:24-713
+DTSTART:20231030T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:cf144c4c-94a5-42c5-bc68-a9f31daf2104@cf14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20231006T183000Z
+LOCATION:24-705
+DTSTART:20231006T170000Z
+SUMMARY:ЛК Информатизация процессов жизненного цикла изделий
+UID:b5855b4e-db4f-4b1a-a625-59608e0ccfc3@b585.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20231117T164500Z
+LOCATION:24-705
+DTSTART:20231117T151500Z
+SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
+UID:3efeb278-901f-4d9b-b20f-b32c19339550@3efe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230911T183000Z
+LOCATION:24-705
+DTSTART:20230911T170000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:081a1ff6-906f-4f39-bec3-e65bd69fcd41@081a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231002T183000Z
+LOCATION:24-713
+DTSTART:20231002T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:7a8a5bee-acd0-49d4-9124-810165d07dc5@7a8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231030T164500Z
+LOCATION:24-713
+DTSTART:20231030T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:cdc7201c-76f9-40a4-9994-de4fa9c87ff3@cdc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20231219T164500Z
+LOCATION:--каф.
+DTSTART:20231219T151500Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:03f923fe-de0b-4fcb-ae45-8662f49cccc9@03f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231116T183000Z
+LOCATION:ГУК А-507а
+DTSTART:20231116T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:ade11c45-0ad6-4ef4-b05d-87a438f4a6bf@ade1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231005T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:d0c0113c-7c73-4f27-a807-6cd6990ebb7b@d0c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20230918T183000Z
+LOCATION:24-713
+DTSTART:20230918T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:04f04841-2963-444e-b938-30539b3adbb7@04f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20231024T164500Z
+LOCATION:--каф.
+DTSTART:20231024T151500Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:a5785b14-99fa-4859-a13c-76b94891dad8@a578.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231102T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:40e6d7c5-f1c9-47f5-8db6-6e83d7ef67d7@40e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20230918T164500Z
+LOCATION:24-713
+DTSTART:20230918T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:637cfaa6-8f46-4a24-ab31-d58c38bfd1c7@637c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20231205T183000Z
+LOCATION:--каф.
+DTSTART:20231205T170000Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:858f846d-fbea-47cf-a6e1-68934ba53d38@858f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондрашов Юрий Николаевич
+DTEND:20230920T164500Z
+LOCATION:24-709
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:3e67036b-5c19-4fe4-8a91-2cc4b978a8fb@3e67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20231229T183000Z
+LOCATION:24-705
+DTSTART:20231229T170000Z
+SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
+UID:037539df-569b-4f46-87df-46797d7a195e@0375.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231220T183000Z
+LOCATION:24-705
+DTSTART:20231220T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:796a194e-b26a-4021-9dcc-7fb0343bb0a2@796a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20231219T183000Z
+LOCATION:--каф.
+DTSTART:20231219T170000Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:a052472e-aab5-4bc3-88a4-c52ad696d108@a052.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондрашов Юрий Николаевич
+DTEND:20230906T183000Z
+LOCATION:24-709
+DTSTART:20230906T170000Z
+SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:79f8cb8e-5c80-4095-8f56-0d53b904abcd@79f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20231024T183000Z
+LOCATION:--каф.
+DTSTART:20231024T170000Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:834e6c30-d09f-4cdf-bbdd-9b12aaa25b9a@834e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20231229T164500Z
+LOCATION:24-705
+DTSTART:20231229T151500Z
+SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
+UID:6e21bf44-6683-4cb8-982a-c478c3cbc0b7@6e21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230911T164500Z
+LOCATION:24-705
+DTSTART:20230911T151500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:c3ad8c46-8ab6-448e-af30-8b507db84638@c3ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230927T164500Z
+LOCATION:24-705
+DTSTART:20230927T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:d8ad99d2-2c73-48db-8104-65c9bf42beaf@d8ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230927T183000Z
+LOCATION:24-705
+DTSTART:20230927T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:837aa787-5b8c-438a-ae36-f59ccedd7e67@837a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20231205T164500Z
+LOCATION:--каф.
+DTSTART:20231205T151500Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:d2ae8107-cf16-4352-a1d6-32d8c45ca3eb@d2ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20230904T164500Z
+LOCATION:24-713
+DTSTART:20230904T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:712aa2ad-b888-4f56-86ef-d365d08b356b@712a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20230926T164500Z
+LOCATION:--каф.
+DTSTART:20230926T151500Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:e6d1baa9-0fb7-4b76-a399-b375b47b38e8@e6d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231220T164500Z
+LOCATION:24-705
+DTSTART:20231220T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:b8dc137e-46d2-4ba9-89f7-43ac21a9dcfa@b8dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231122T183000Z
+LOCATION:24-705
+DTSTART:20231122T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:f3ce1fd1-13a5-49ae-b2c8-14e9b59b11e5@f3ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231023T183000Z
+LOCATION:24-705
+DTSTART:20231023T170000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:caa96f5d-0bee-4818-a0c4-36a9e4178eab@caa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231108T164500Z
+LOCATION:24-705
+DTSTART:20231108T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:bdae3f82-dfb3-4636-827f-7884c89887fe@bdae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20231121T183000Z
+LOCATION:--каф.
+DTSTART:20231121T170000Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:be5e3908-31e4-40f5-ae47-cfb088d4862f@be5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231025T183000Z
+LOCATION:24-705
+DTSTART:20231025T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:e8fa53a6-acb0-45a6-9739-438e261cb22f@e8fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231009T164500Z
+LOCATION:24-705
+DTSTART:20231009T151500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:29bf4eb2-365b-46a8-b869-cd69c4453461@29bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230907T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:3d8d284c-60f5-49d3-8298-7c4da7ddcdd9@3d8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230913T183000Z
+LOCATION:24-705
+DTSTART:20230913T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:639b9208-34b0-4162-a0d0-9474cc9286b0@639b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231016T164500Z
+LOCATION:24-713
+DTSTART:20231016T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:badadf80-c5e1-41e1-803c-784f2120e3bf@bada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231204T164500Z
+LOCATION:24-705
+DTSTART:20231204T151500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:d5abdd00-87e5-4f2a-875a-69e37baf9f41@d5ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231019T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:ebf0f245-0dab-4517-b5f3-a231a03c7108@ebf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231211T164500Z
+LOCATION:24-713
+DTSTART:20231211T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:039043b0-14cb-4375-bcc9-a169eb176ed4@0390.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20231201T164500Z
+LOCATION:24-705
+DTSTART:20231201T151500Z
+SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
+UID:b3e62592-f7ba-4c0d-b0ab-95609e30a628@b3e6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Денисова Анастасия Николаевна
@@ -823,6 +631,198 @@ DTEND:20231010T164500Z
 LOCATION:--каф.
 DTSTART:20231010T151500Z
 SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
-UID:4b724011-8c49-450b-afd2-b13dc173b1e8@4b72.org
+UID:922c2d16-a608-4799-a05a-b750e9e143e1@922c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20230922T164500Z
+LOCATION:24-705
+DTSTART:20230922T151500Z
+SUMMARY:ЛК Информатизация процессов жизненного цикла изделий
+UID:7bfc9fdf-8320-4d24-aea9-86e58ad2ca3b@7bfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230925T164500Z
+LOCATION:24-705
+DTSTART:20230925T151500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:5950a17b-753b-4b57-a282-291b78dff9b4@5950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20230925T183000Z
+LOCATION:24-705
+DTSTART:20230925T170000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:05756775-7358-4ad9-b551-e3594c3b5f81@0575.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231116T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:e1af5a91-ecee-47b2-8439-2152c47c29e8@e1af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230921T183000Z
+LOCATION:ГУК А-507а
+DTSTART:20230921T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:10a49844-741a-4f20-ade4-1e22f2003e00@10a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20231107T164500Z
+LOCATION:--каф.
+DTSTART:20231107T151500Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:1f6a3758-befd-4cba-a8ed-deaa44e8d8b1@1f6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231120T183000Z
+LOCATION:24-705
+DTSTART:20231120T170000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:3a7e17ee-2058-4b0d-b694-4d4edf5f3790@3a7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20230907T183000Z
+LOCATION:ГУК А-507а
+DTSTART:20230907T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:b9e3b7d3-4b67-4951-a245-8f281ecb3526@b9e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231005T183000Z
+LOCATION:ГУК А-507а
+DTSTART:20231005T170000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:58e8002a-bfe3-4658-9fbd-f050e10bab9a@58e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231108T183000Z
+LOCATION:24-705
+DTSTART:20231108T170000Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:84279860-e2e5-4904-a8e3-14a96c4791b6@8427.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондрашов Юрий Николаевич
+DTEND:20231018T164500Z
+LOCATION:24-709
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:9e28295a-bf06-42f4-9af6-8270ddd43d5d@9e28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Денисова Анастасия Николаевна
+DTEND:20231107T183000Z
+LOCATION:--каф.
+DTSTART:20231107T170000Z
+SUMMARY:ЛР Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:7d169227-8489-4de9-af34-fe16e3b0d998@7d16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20230908T183000Z
+LOCATION:24-705
+DTSTART:20230908T170000Z
+SUMMARY:ЛК Информатизация процессов жизненного цикла изделий
+UID:13f33765-3b19-40a1-87af-156ed2bdc5fd@13f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231023T164500Z
+LOCATION:24-705
+DTSTART:20231023T151500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:50e25e71-c361-47e6-b7c7-44aa91c6e7c3@50e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231113T164500Z
+LOCATION:24-713
+DTSTART:20231113T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:a86e8a62-8e9b-48f2-90d7-f94eabc3e20f@a86e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231113T183000Z
+LOCATION:24-713
+DTSTART:20231113T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:d933e20c-93fd-45df-92b7-ce7633093bac@d933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231120T164500Z
+LOCATION:24-705
+DTSTART:20231120T151500Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:8a5a7a2e-0e43-4c70-aa8f-8199d6ebbe91@8a5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20231215T164500Z
+LOCATION:24-705
+DTSTART:20231215T151500Z
+SUMMARY:ЛР Информатизация процессов жизненного цикла изделий
+UID:03219a8a-c687-4a46-aa0a-a72e6fa03f46@0321.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Петров Андрей Владимирович
+DTEND:20230908T164500Z
+LOCATION:24-705
+DTSTART:20230908T151500Z
+SUMMARY:ЛК Информатизация процессов жизненного цикла изделий
+UID:ac643e71-98b5-4169-aeaa-e6fd05a84797@ac64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коротаева Ирина Эдуардовна
+DTEND:20231214T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231214T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:a734df9d-566f-4c33-9607-8255775ddd2f@a734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондрашов Юрий Николаевич
+DTEND:20230920T183000Z
+LOCATION:24-709
+DTSTART:20230920T170000Z
+SUMMARY:ЛК Информационно-аналитические системы поддержки принятия проектных и управленческих решений
+UID:b8d2566e-0a02-487b-a5ae-5601e8391199@b8d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231009T183000Z
+LOCATION:24-705
+DTSTART:20231009T170000Z
+SUMMARY:ЛК Интеллектуальные системы
+UID:d47c5498-9563-4782-90c9-c842c6728179@d47c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бродский Александр Владимирович
+DTEND:20231025T164500Z
+LOCATION:24-705
+DTSTART:20231025T151500Z
+SUMMARY:ЛР Интеллектуальные системы
+UID:ef4bb5cf-fcdf-40b7-9ed6-386bb06a73df@ef4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231127T183000Z
+LOCATION:24-713
+DTSTART:20231127T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:b06fe9cc-f29b-4206-b404-f12922e7bbc9@b06f.org
 END:VEVENT
 END:VCALENDAR

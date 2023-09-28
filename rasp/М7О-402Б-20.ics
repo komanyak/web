@@ -2,762 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20230906T091500Z
-LOCATION:--каф.
-DTSTART:20230906T074500Z
-SUMMARY:ЛК Методология создания комплексов операционного моделирования
-UID:6b03cf32-21f1-4ad2-9015-3a6b2bb7aec0@6b03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20231013T073000Z
-LOCATION:4-306
-DTSTART:20231013T060000Z
-SUMMARY:ЛР Динамика полета
-UID:8f318630-414a-4ad1-822a-8bde0c72683a@8f31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230918T150000Z
-LOCATION:24-502
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:db12294d-1cb2-42fe-8dbd-ecc5112dbc35@db12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231020T113000Z
-LOCATION:5-117
-DTSTART:20231020T100000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:d41084cc-81c8-482f-a197-d519cb5de4ad@d410.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T113000Z
-LOCATION:--каф.
-DTSTART:20231025T100000Z
-SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
-UID:4bf2988a-d8a2-4996-a978-4ed5331b34d2@4bf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231102T073000Z
-LOCATION:--каф.
-DTSTART:20231102T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:2da7d520-b489-42fa-b336-0807bf1dacc9@2da7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T073000Z
-LOCATION:--каф.
-DTSTART:20231129T060000Z
-SUMMARY:ПЗ Методология создания комплексов операционного моделирования
-UID:b813319a-7be3-40ba-8e3d-988cee78ee91@b813.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231225T150000Z
-LOCATION:24-502
-DTSTART:20231225T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:0276d48e-1b5f-42e0-8fcf-9a3c00bf11f2@0276.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231227T091500Z
-LOCATION:--каф.
-DTSTART:20231227T074500Z
-SUMMARY:ПЗ Методология создания комплексов операционного моделирования
-UID:d0e4d183-7ccb-4c76-95f4-23525942503a@d0e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231211T091500Z
-LOCATION:5-117
-DTSTART:20231211T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:a104f133-d2f4-4934-b939-74b2c105ad5d@a104.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20230912T073000Z
-LOCATION:--каф.
-DTSTART:20230912T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:abcdb43a-6aee-498d-9c8e-0d5260ea6c69@abcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231221T113000Z
-LOCATION:--каф.
-DTSTART:20231221T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:b610b44c-10fe-4c63-89c7-07c25fc19593@b610.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T091500Z
-LOCATION:--каф.
-DTSTART:20231010T074500Z
-SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
-UID:a35cec1e-426f-46fd-bfa7-977a46cd90f4@a35c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231002T113000Z
-LOCATION:5-101
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Экология
-UID:bcf2be83-72fc-424f-a700-c43ff59551b6@bcf2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231201T113000Z
+DTEND:20231117T131500Z
 LOCATION:5-122
-DTSTART:20231201T100000Z
+DTSTART:20231117T114500Z
 SUMMARY:ЛР Экология
-UID:67598cd0-3d2c-469d-b836-1e92a34653c9@6759.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231201T091500Z
-LOCATION:4-412
-DTSTART:20231201T074500Z
-SUMMARY:ЛК Динамика полета
-UID:b6693b85-0a0f-4386-88e6-10d5002c2eaa@b669.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20230925T091500Z
-LOCATION:5-117
-DTSTART:20230925T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:431ad470-a378-4024-8c04-7e72b6fb2fcf@431a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231026T113000Z
-LOCATION:--каф.
-DTSTART:20231026T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:eba2911e-bfc3-417b-8718-4c1d6ba90cf1@eba2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20231206T073000Z
-LOCATION:--каф.
-DTSTART:20231206T060000Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:1c693966-db76-48a3-91b3-2da333742565@1c69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20231013T091500Z
-LOCATION:4-306
-DTSTART:20231013T074500Z
-SUMMARY:ЛР Динамика полета
-UID:594fe519-4530-4cae-949e-5babae21d29e@594f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231003T113000Z
-LOCATION:--каф.
-DTSTART:20231003T100000Z
-SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
-UID:8fbaa305-7522-470d-b31b-02ad6584704c@8fba.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231122T113000Z
-LOCATION:--каф.
-DTSTART:20231122T100000Z
-SUMMARY:ПЗ Информационные и вычислительные бортовые системы АК
-UID:1fd7b15d-96de-492d-a35a-834981438dca@1fd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231016T150000Z
-LOCATION:24-502
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:aa45791b-e94a-4357-ae15-82dead0ea237@aa45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231019T091500Z
-LOCATION:--каф.
-DTSTART:20231019T074500Z
-SUMMARY:ПЗ Системы оснащения авиационных комплексов
-UID:85f3e10f-9e66-488e-99c6-d7129d71024b@85f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231020T131500Z
-LOCATION:5-117
-DTSTART:20231020T114500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:d59fd3aa-362d-4f53-85ff-beacdb1a37c4@d59f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231016T091500Z
-LOCATION:5-117
-DTSTART:20231016T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:1251a72f-bb4f-46d9-881d-a246566ed92a@1251.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20231208T091500Z
-LOCATION:4-306
-DTSTART:20231208T074500Z
-SUMMARY:ЛР Динамика полета
-UID:44355ed0-a689-44fd-b110-70ac5510c15e@4435.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231030T113000Z
-LOCATION:5-101
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Экология
-UID:3941b58f-d496-419e-9bf5-1a53e1502110@3941.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20231124T091500Z
-LOCATION:4-306
-DTSTART:20231124T074500Z
-SUMMARY:ЛР Динамика полета
-UID:5faaa35b-d61c-4797-b8b5-87bfe478c312@5faa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20231122T073000Z
-LOCATION:--каф.
-DTSTART:20231122T060000Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:93ed019d-b390-4f97-946c-b821f36033c5@93ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231130T073000Z
-LOCATION:--каф.
-DTSTART:20231130T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:fa46fe1a-450d-45ff-98c6-98ca3115dd3b@fa46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20231122T091500Z
-LOCATION:--каф.
-DTSTART:20231122T074500Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:82770418-0d09-4d77-be2e-27b5914b07a9@8277.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231107T073000Z
-LOCATION:--каф.
-DTSTART:20231107T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:13aa0a4b-d78f-44a2-9cc1-caafc2f55509@13aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20231011T073000Z
-LOCATION:--каф.
-DTSTART:20231011T060000Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:346a0721-3851-46ea-a6a4-c72698067f60@346a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231031T091500Z
-LOCATION:--каф.
-DTSTART:20231031T074500Z
-SUMMARY:ЛК Моделирование функционирования авиационных комплексов
-UID:80abcbb7-db29-418d-ac22-0919aa6550e6@80ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231103T113000Z
-LOCATION:5-117
-DTSTART:20231103T100000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:93129a77-2ee0-4ab6-a18f-ed914bdfb389@9312.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T091500Z
-LOCATION:--каф.
-DTSTART:20231026T074500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:b55d6c2f-8857-44c3-8326-98eea9aa32f6@b55d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20230914T113000Z
-LOCATION:--каф.
-DTSTART:20230914T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:9bda9544-b83e-4066-a289-2c3fec6785ce@9bda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231010T073000Z
-LOCATION:--каф.
-DTSTART:20231010T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:3f1190cf-cbf9-44da-b443-9fd6fc76ba93@3f11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230911T150000Z
-LOCATION:24-502
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:8064c88c-e3d8-4aec-a984-2c3b1ec28661@8064.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231017T091500Z
-LOCATION:--каф.
-DTSTART:20231017T074500Z
-SUMMARY:ЛК Моделирование функционирования авиационных комплексов
-UID:09a8d5b6-3607-4d0a-9e93-9f2bd43bcdc3@09a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231128T113000Z
-LOCATION:--каф.
-DTSTART:20231128T100000Z
-SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
-UID:c08077c8-bd9c-466f-91b7-e878a09e3a5d@c080.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231030T150000Z
-LOCATION:24-502
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:8088baf4-f647-49ef-895a-33da2b91e9ab@8088.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231019T113000Z
-LOCATION:--каф.
-DTSTART:20231019T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:12c167e1-2ac9-4831-bcae-c79b2e56e750@12c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20230913T091500Z
-LOCATION:--каф.
-DTSTART:20230913T074500Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:56cd06f4-0242-4aaf-ad7c-07fe41f74a3f@56cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231026T073000Z
-LOCATION:--каф.
-DTSTART:20231026T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:494e09d8-36b7-4d7f-affb-91657e04642c@494e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231109T113000Z
-LOCATION:--каф.
-DTSTART:20231109T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:97c092b7-943d-45bf-a5a3-eddfd5081d94@97c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231113T113000Z
-LOCATION:5-101
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Экология
-UID:cfc7c0d9-04f8-4d70-a408-638091ea6920@cfc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20231110T073000Z
-LOCATION:4-306
-DTSTART:20231110T060000Z
-SUMMARY:ЛР Динамика полета
-UID:6ef00dba-022e-4b64-b936-d1fee19c1204@6ef0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231020T091500Z
-LOCATION:4-412
-DTSTART:20231020T074500Z
-SUMMARY:ЛК Динамика полета
-UID:3b0f188f-b07a-4ede-ac3b-12252a5eee77@3b0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231204T150000Z
-LOCATION:24-502
-DTSTART:20231204T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:a5730286-cd64-4740-ae5b-2e95cb182627@a573.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231117T091500Z
-LOCATION:4-412
-DTSTART:20231117T074500Z
-SUMMARY:ЛК Динамика полета
-UID:a07995f9-b2fe-4f8a-afbe-fce6e338ba28@a079.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230905T113000Z
-LOCATION:--каф.
-DTSTART:20230905T100000Z
-SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
-UID:4bef3179-cee7-4a26-a749-420ed5750569@4bef.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231206T113000Z
-LOCATION:--каф.
-DTSTART:20231206T100000Z
-SUMMARY:ПЗ Информационные и вычислительные бортовые системы АК
-UID:8d6c1617-31f4-4f3e-8caa-ad07dc4700ff@8d6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T091500Z
-LOCATION:--каф.
-DTSTART:20231123T074500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:57ff984b-a1d6-42be-bd4d-ec77cb585d61@57ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T091500Z
-LOCATION:--каф.
-DTSTART:20231109T074500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:8cf5fc38-51ed-4d8c-ad09-45402a0f8da0@8cf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20230928T073000Z
-LOCATION:--каф.
-DTSTART:20230928T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:05625190-8ae5-402d-b4d4-b50171791b7e@0562.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230911T113000Z
-LOCATION:5-101
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Экология
-UID:b5d3eb2e-ec1a-4166-9823-ec0ca2a278ef@b5d3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T091500Z
-LOCATION:--каф.
-DTSTART:20231213T074500Z
-SUMMARY:ПЗ Методология создания комплексов операционного моделирования
-UID:d2fe6750-49c9-4e35-8252-3aede13b3cca@d2fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231127T150000Z
-LOCATION:24-502
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:5b64b8d5-412a-4f70-8009-cbf1909a071c@5b64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231201T131500Z
-LOCATION:5-122
-DTSTART:20231201T114500Z
-SUMMARY:ЛР Экология
-UID:d636c480-6bec-4446-92b3-433b60f9993f@d636.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20230926T073000Z
-LOCATION:--каф.
-DTSTART:20230926T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:96c39d39-7cfe-49d9-93b8-8ca3c6373a22@96c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231219T073000Z
-LOCATION:--каф.
-DTSTART:20231219T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:726d53c9-0693-4d71-9e5e-8cb265de8d04@726d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231012T073000Z
-LOCATION:--каф.
-DTSTART:20231012T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:ab93e6d8-4cfc-46f8-a7ad-395b19ff360e@ab93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20230908T091500Z
-LOCATION:4-412
-DTSTART:20230908T074500Z
-SUMMARY:ЛК Динамика полета
-UID:5907cead-ce6a-4e42-a671-c931ff035a5d@5907.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T091500Z
-LOCATION:--каф.
-DTSTART:20231205T074500Z
-SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
-UID:f16defa4-56f0-4c8a-9746-c25c2f641d21@f16d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231006T073000Z
-LOCATION:4-412
-DTSTART:20231006T060000Z
-SUMMARY:ЛК Динамика полета
-UID:41928586-a67f-436b-a6f6-8efb44d4aa3a@4192.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20230905T073000Z
-LOCATION:--каф.
-DTSTART:20230905T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:783a1c9a-37a9-40a5-80db-2d4912aedce5@783a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T091500Z
-LOCATION:--каф.
-DTSTART:20231107T074500Z
-SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
-UID:da3b28e4-8938-4653-b1fe-27dfbb079cbf@da3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231113T150000Z
-LOCATION:24-502
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:b61cc8e8-4568-423d-91b6-e96cd031544b@b61c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20231027T073000Z
-LOCATION:4-306
-DTSTART:20231027T060000Z
-SUMMARY:ЛР Динамика полета
-UID:a39ef76a-8ed2-4172-9cbb-f361763c9359@a39e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231116T073000Z
-LOCATION:--каф.
-DTSTART:20231116T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:d5e06636-4071-41bf-8d20-6d850a81156b@d5e0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T091500Z
-LOCATION:--каф.
-DTSTART:20231207T074500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:9e02a38a-2556-4f1c-9734-4a4a25d41a52@9e02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230925T131500Z
-LOCATION:24-502
-DTSTART:20230925T114500Z
-SUMMARY:ЛК Системный анализ
-UID:f2839dea-d8a1-4313-aeb7-6bfab8a9bfc0@f283.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230904T131500Z
-LOCATION:24-502
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Системный анализ
-UID:8d30d6c6-e835-4210-b5ee-9459a9f7506c@8d30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231103T091500Z
-LOCATION:4-412
-DTSTART:20231103T074500Z
-SUMMARY:ЛК Динамика полета
-UID:ed188c26-a96f-4534-9a66-fa8f2d88fb86@ed18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20230908T131500Z
-LOCATION:5-117
-DTSTART:20230908T114500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:e107baa9-3bf7-4995-9ae2-26a3f0ac2231@e107.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231130T113000Z
-LOCATION:--каф.
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:b8781cb2-5292-4f55-87c1-5c148768632d@b878.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T113000Z
-LOCATION:--каф.
-DTSTART:20231031T100000Z
-SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
-UID:753c7d69-02ce-44e6-bec8-3ade03b289da@753c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231113T091500Z
-LOCATION:5-117
-DTSTART:20231113T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:2f321757-1475-444c-bfa8-f7df0e01f026@2f32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20230921T073000Z
-LOCATION:--каф.
-DTSTART:20230921T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:75ad5132-03dd-49ab-aea6-71e1711849d7@75ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231113T131500Z
-LOCATION:24-502
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Системный анализ
-UID:722fe280-9ebf-44b6-adbf-58ceb8718caf@722f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T091500Z
-LOCATION:--каф.
-DTSTART:20231219T074500Z
-SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
-UID:b5c95a1c-b629-4cef-b98d-75a45577060f@b5c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231106T150000Z
-LOCATION:24-502
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:676c6405-12a9-484d-a795-2ad56cac1ae0@676c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20231220T073000Z
-LOCATION:--каф.
-DTSTART:20231220T060000Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:be3bb1be-d545-4f4a-9876-8e1d4ffd7fdb@be3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231006T091500Z
-LOCATION:4-412
-DTSTART:20231006T074500Z
-SUMMARY:ЛК Динамика полета
-UID:02673cda-51cf-4a5d-b603-aea87213476d@0267.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20230928T113000Z
-LOCATION:--каф.
-DTSTART:20230928T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:a69b4651-b276-4760-9589-af7488f21789@a69b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231116T091500Z
-LOCATION:--каф.
-DTSTART:20231116T074500Z
-SUMMARY:ПЗ Системы оснащения авиационных комплексов
-UID:8c8299e1-191a-4398-9f97-78b8486ecd5f@8c82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231211T131500Z
-LOCATION:24-502
-DTSTART:20231211T114500Z
-SUMMARY:ЛК Системный анализ
-UID:641e7660-dbf7-4bb3-81f6-ffe2ee67d5a9@641e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231204T091500Z
-LOCATION:5-117
-DTSTART:20231204T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:0e03259c-4452-499f-b65b-944e0c066136@0e03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20230911T091500Z
-LOCATION:5-117
-DTSTART:20230911T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:6580dec2-67a6-4934-bdea-cb8dbb9b2763@6580.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231002T150000Z
-LOCATION:24-502
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:e6a601f9-b7bc-4cf9-a572-74f0894224fd@e6a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231023T131500Z
-LOCATION:24-502
-DTSTART:20231023T114500Z
-SUMMARY:ЛК Системный анализ
-UID:7e03be51-79df-423d-9f96-2d4dcc833e7d@7e03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20230913T073000Z
-LOCATION:--каф.
-DTSTART:20230913T060000Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:6d69d201-3eef-429a-9b22-c6cc3cf0e258@6d69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231228T113000Z
-LOCATION:--каф.
-DTSTART:20231228T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:9b56df20-b469-442c-8ad4-a79c5aee9a4b@9b56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20231027T091500Z
-LOCATION:4-306
-DTSTART:20231027T074500Z
-SUMMARY:ЛР Динамика полета
-UID:5f14ad98-c4db-4594-9b18-bf4236260cda@5f14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231103T131500Z
-LOCATION:5-117
-DTSTART:20231103T114500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:eafa20d8-ca40-4f75-9e34-e241533eaec2@eafa.org
+UID:5caada11-c281-4a77-9376-7e96f2db310d@5caa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Широков Александр Иванович
@@ -765,498 +15,7 @@ DTEND:20231130T091500Z
 LOCATION:--каф.
 DTSTART:20231130T074500Z
 SUMMARY:ПЗ Системы оснащения авиационных комплексов
-UID:5b59d92c-6d39-48f6-bedb-29d031c98bcd@5b59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20231108T073000Z
-LOCATION:--каф.
-DTSTART:20231108T060000Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:2dfb43b4-22b8-4965-958b-af8174d5071c@2dfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20230922T131500Z
-LOCATION:5-117
-DTSTART:20230922T114500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:e76fe53b-eabf-4907-a43d-1068a3c27347@e76f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231019T073000Z
-LOCATION:--каф.
-DTSTART:20231019T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:eaf608ea-4156-460b-87c0-206862bb1380@eaf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231205T073000Z
-LOCATION:--каф.
-DTSTART:20231205T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:849576fe-c311-4183-a567-0611c80a867f@8495.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231116T113000Z
-LOCATION:--каф.
-DTSTART:20231116T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:4dade780-970d-4507-a93f-85598daf6284@4dad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20230921T113000Z
-LOCATION:--каф.
-DTSTART:20230921T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:3872c5f4-4ec2-44b1-867c-11b3755dcd48@3872.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20230922T113000Z
-LOCATION:5-117
-DTSTART:20230922T100000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:032383e2-1cbd-424d-8835-fc0d6556ff36@0323.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20230907T091500Z
-LOCATION:--каф.
-DTSTART:20230907T074500Z
-SUMMARY:ПЗ Системы оснащения авиационных комплексов
-UID:3d3633d9-8671-4c87-a7ac-c559555cfebd@3d36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231005T113000Z
-LOCATION:--каф.
-DTSTART:20231005T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:9cc2cd9e-8ef8-4938-8ed1-fe68dfc1fb56@9cc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231103T073000Z
-LOCATION:4-412
-DTSTART:20231103T060000Z
-SUMMARY:ЛК Динамика полета
-UID:6b731b0c-6b6c-47b4-904f-c22708bdf061@6b73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231109T073000Z
-LOCATION:--каф.
-DTSTART:20231109T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:ef57b2fb-4ac7-48a4-8a5b-0559011b8b15@ef57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231218T150000Z
-LOCATION:24-502
-DTSTART:20231218T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:95e67ed6-f4db-4542-aaa2-7cfc99d7f2f3@95e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20230919T073000Z
-LOCATION:--каф.
-DTSTART:20230919T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:2499fbdd-ff2b-4068-9c10-5e91b852d949@2499.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231220T113000Z
-LOCATION:--каф.
-DTSTART:20231220T100000Z
-SUMMARY:ПЗ Информационные и вычислительные бортовые системы АК
-UID:c3003515-1845-4081-8f71-a5bf4927cb1e@c300.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231117T131500Z
-LOCATION:5-122
-DTSTART:20231117T114500Z
-SUMMARY:ЛР Экология
-UID:05e84858-31bc-4497-90b5-a9db8d770c39@05e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231120T131500Z
-LOCATION:24-502
-DTSTART:20231120T114500Z
-SUMMARY:ЛК Системный анализ
-UID:b9173a0d-5e33-4663-840d-fa337887b4b9@b917.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20231025T073000Z
-LOCATION:--каф.
-DTSTART:20231025T060000Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:bc2a3b2b-7a73-4727-b249-67a092163a2b@bc2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231002T131500Z
-LOCATION:24-502
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Системный анализ
-UID:3cef13df-ab3a-4790-9a2a-0e70e5d6a75f@3cef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231012T113000Z
-LOCATION:--каф.
-DTSTART:20231012T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:27d1765b-cc51-4486-a8b6-1c3dec436e94@27d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T091500Z
-LOCATION:--каф.
-DTSTART:20230926T074500Z
-SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
-UID:6e90c4cb-76b1-49a9-9b50-357f8231ccf1@6e90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231009T150000Z
-LOCATION:24-502
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:2ce62300-def7-47a9-8248-08234dbb2432@2ce6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T091500Z
-LOCATION:--каф.
-DTSTART:20231018T074500Z
-SUMMARY:ЛР Методология создания комплексов операционного моделирования
-UID:96173899-738a-4dd4-bdd3-1de86f4cf9ba@9617.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231120T150000Z
-LOCATION:24-502
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:090e30cf-0c92-4306-afd7-5662ed549c3f@090e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230904T150000Z
-LOCATION:24-502
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:d004545b-f602-42d8-8fef-3c82d9e89b72@d004.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231004T073000Z
-LOCATION:--каф.
-DTSTART:20231004T060000Z
-SUMMARY:ЛК Методология создания комплексов операционного моделирования
-UID:c77ee3fc-cb11-4829-bb2e-8676656b4d48@c77e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T113000Z
-LOCATION:--каф.
-DTSTART:20231114T100000Z
-SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
-UID:7469df2e-0cc2-4be5-9511-bc35d3ed90f9@7469.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231228T091500Z
-LOCATION:--каф.
-DTSTART:20231228T074500Z
-SUMMARY:ПЗ Системы оснащения авиационных комплексов
-UID:5cfe0240-dfaf-474f-8bb6-adafd10f1a79@5cfe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230919T113000Z
-LOCATION:--каф.
-DTSTART:20230919T100000Z
-SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
-UID:225d86c8-65ea-414f-ba60-6356d593595d@225d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231201T073000Z
-LOCATION:4-412
-DTSTART:20231201T060000Z
-SUMMARY:ЛК Динамика полета
-UID:736933a9-ccb8-4465-9d7f-3e263fb04f9b@7369.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231221T073000Z
-LOCATION:--каф.
-DTSTART:20231221T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:f9b4e4dd-f269-4c56-8aea-bf100eae948a@f9b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231226T073000Z
-LOCATION:--каф.
-DTSTART:20231226T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:bf91e069-dcdc-412f-bd2d-89fc28fa628a@bf91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231102T091500Z
-LOCATION:--каф.
-DTSTART:20231102T074500Z
-SUMMARY:ПЗ Системы оснащения авиационных комплексов
-UID:e6ba4f8c-f62c-4227-93b0-1d61504a8b16@e6ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231023T091500Z
-LOCATION:5-117
-DTSTART:20231023T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:ac7b1b0c-aef4-440e-a055-b074764d1cad@ac7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231006T131500Z
-LOCATION:5-117
-DTSTART:20231006T114500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:8b52b868-8114-441f-96ac-26f69d8d3b5e@8b52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231117T073000Z
-LOCATION:4-412
-DTSTART:20231117T060000Z
-SUMMARY:ЛК Динамика полета
-UID:f6f489cd-d7ce-4501-ab5d-a4ea737426b8@f6f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231121T073000Z
-LOCATION:--каф.
-DTSTART:20231121T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:01244b6c-beeb-46a9-a145-2866dc985a12@0124.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231211T150000Z
-LOCATION:24-502
-DTSTART:20231211T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:a57f0e7c-ea25-491b-a35b-28be3c9c2eaf@a57f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T091500Z
-LOCATION:--каф.
-DTSTART:20231115T074500Z
-SUMMARY:ПЗ Методология создания комплексов операционного моделирования
-UID:ce3806a7-a819-46c4-b55c-0612db66050c@ce38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231017T073000Z
-LOCATION:--каф.
-DTSTART:20231017T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:ee6e20bf-d825-4da2-95ed-cb4a6176137f@ee6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20230920T091500Z
-LOCATION:--каф.
-DTSTART:20230920T074500Z
-SUMMARY:ЛК Методология создания комплексов операционного моделирования
-UID:b44937fe-7e45-4a71-9cb5-97f8b58843da@b449.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231023T150000Z
-LOCATION:24-502
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:af3ee178-61ee-4edc-8e18-cdb72d72b97a@af3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231218T091500Z
-LOCATION:5-117
-DTSTART:20231218T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:cd888eee-7639-4944-a62a-6bc22684fd71@cd88.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T091500Z
-LOCATION:--каф.
-DTSTART:20231101T074500Z
-SUMMARY:ЛР Методология создания комплексов операционного моделирования
-UID:f5225eae-026a-4dc7-a08c-8d3a3f52d709@f522.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231106T113000Z
-LOCATION:5-101
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Экология
-UID:9af890f0-2704-41b0-aa94-8ba273cece95@9af8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T091500Z
-LOCATION:--каф.
-DTSTART:20230914T074500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:65125b40-a602-4ada-93a8-4d9f17ab2db4@6512.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T091500Z
-LOCATION:--каф.
-DTSTART:20231221T074500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:8e215631-a16e-4d40-a5d6-8821177a1283@8e21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231123T073000Z
-LOCATION:--каф.
-DTSTART:20231123T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:a7cf84c6-d513-433b-b783-ba9d1ac21d67@a7cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231207T073000Z
-LOCATION:--каф.
-DTSTART:20231207T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:fb80ae47-2f25-486a-a5ef-399f9ce20d2b@fb80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230918T113000Z
-LOCATION:5-101
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Экология
-UID:1563c8bf-167a-45ed-8605-fe9d53ced797@1563.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T091500Z
-LOCATION:--каф.
-DTSTART:20230912T074500Z
-SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
-UID:bab6475c-13c3-45ee-bdd1-b7658c915406@bab6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230911T131500Z
-LOCATION:24-502
-DTSTART:20230911T114500Z
-SUMMARY:ЛК Системный анализ
-UID:3e8e1859-2660-4518-bf27-c70212afd5c3@3e8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20230908T113000Z
-LOCATION:5-117
-DTSTART:20230908T100000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:84a213b9-edb9-4063-8ef6-de0d8e56209d@84a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231023T113000Z
-LOCATION:5-101
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Экология
-UID:fb41d17e-5f01-45be-915f-c86c85adcd3f@fb41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231215T091500Z
-LOCATION:4-412
-DTSTART:20231215T074500Z
-SUMMARY:ЛК Динамика полета
-UID:c7db7a64-a1a7-4102-9d69-643d197ceda4@c7db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231214T073000Z
-LOCATION:--каф.
-DTSTART:20231214T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:7a90c03b-a08c-4c69-afb0-e73fe5edb652@7a90.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T091500Z
-LOCATION:--каф.
-DTSTART:20231024T074500Z
-SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
-UID:b7138bcc-3efe-4dc4-882f-b97b67e432cd@b713.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231024T073000Z
-LOCATION:--каф.
-DTSTART:20231024T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:d4b4ef97-0dd1-457e-9bef-c742fd09a675@d4b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231030T091500Z
-LOCATION:5-117
-DTSTART:20231030T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:ec70c7e3-ce02-4aa7-b21b-4795fe89047c@ec70.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T131500Z
-LOCATION:--каф.
-DTSTART:20231108T114500Z
-SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
-UID:0dca5e13-de4f-402b-8414-eaff8864e97b@0dca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231123T113000Z
-LOCATION:--каф.
-DTSTART:20231123T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:04218104-54f6-4afa-a842-89dc5b43b913@0421.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T091500Z
-LOCATION:--каф.
-DTSTART:20231121T074500Z
-SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
-UID:03ab5918-995e-46cf-a636-cd019df8f863@03ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20231208T073000Z
-LOCATION:4-306
-DTSTART:20231208T060000Z
-SUMMARY:ЛР Динамика полета
-UID:f4b91645-c4eb-4be4-95ff-7e6d8e7ab563@f4b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231212T091500Z
-LOCATION:--каф.
-DTSTART:20231212T074500Z
-SUMMARY:ЛК Моделирование функционирования авиационных комплексов
-UID:5601386f-c365-4cb4-bb25-bbe444718490@5601.org
+UID:bf212a8f-d1b3-40a1-9a1a-351b4df2a032@bf21.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вавилов Денис Сергеевич
@@ -1264,242 +23,15 @@ DTEND:20231206T091500Z
 LOCATION:--каф.
 DTSTART:20231206T074500Z
 SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:7ca11275-ff00-4617-b97b-4a861052b29d@7ca1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T073000Z
-LOCATION:--каф.
-DTSTART:20231213T060000Z
-SUMMARY:ПЗ Методология создания комплексов операционного моделирования
-UID:f934e13f-9532-43e6-ace2-1658527fa1a2@f934.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T073000Z
-LOCATION:--каф.
-DTSTART:20231115T060000Z
-SUMMARY:ПЗ Методология создания комплексов операционного моделирования
-UID:b6e1e709-d61c-46a9-be88-2b473ea4ca77@b6e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20230922T073000Z
-LOCATION:4-412
-DTSTART:20230922T060000Z
-SUMMARY:ЛК Динамика полета
-UID:4b0903a8-91c8-440a-8dcf-d1bf10131fc3@4b09.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231017T113000Z
-LOCATION:--каф.
-DTSTART:20231017T100000Z
-SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
-UID:34736731-0a0c-4d37-a9c1-bd20ba616dfa@3473.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231214T091500Z
-LOCATION:--каф.
-DTSTART:20231214T074500Z
-SUMMARY:ПЗ Системы оснащения авиационных комплексов
-UID:6ac46d1b-a12a-44c8-8327-5e3640966250@6ac4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231009T091500Z
-LOCATION:5-117
-DTSTART:20231009T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:b5d9872c-b62f-4e1e-b720-f5fbc79f0c3c@b5d9.org
+UID:e1b4da4c-9108-4ed4-94bf-5bb2b31f4528@e1b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231127T131500Z
+DTEND:20231113T150000Z
 LOCATION:24-502
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Системный анализ
-UID:57717792-d6e8-425b-be61-42e024065a41@5771.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231212T073000Z
-LOCATION:--каф.
-DTSTART:20231212T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:bac6d38d-2019-4898-912a-453d9fc875e0@bac6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20230907T113000Z
-LOCATION:--каф.
-DTSTART:20230907T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:61365911-02ea-4ee2-afd0-6388e8d2129d@6136.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20231025T091500Z
-LOCATION:--каф.
-DTSTART:20231025T074500Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:6c68d827-b785-407a-b6e4-4d1e8411740b@6c68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231117T113000Z
-LOCATION:5-122
-DTSTART:20231117T100000Z
-SUMMARY:ЛР Экология
-UID:aad6441b-2c5e-430b-91d8-7fe5950383b7@aad6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20230918T091500Z
-LOCATION:5-117
-DTSTART:20230918T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:3ee4ca3c-4275-40c4-9091-ad293b6fdd27@3ee4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231226T113000Z
-LOCATION:--каф.
-DTSTART:20231226T100000Z
-SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
-UID:3cd63366-0ed8-4df2-a504-eabd25a0e51c@3cd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231120T091500Z
-LOCATION:5-117
-DTSTART:20231120T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:4bcafe34-07cf-4c76-bdd6-122ccfb6a9c9@4bca.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231108T113000Z
-LOCATION:--каф.
-DTSTART:20231108T100000Z
-SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
-UID:ae775f36-28cf-4d9e-9344-e471bb7fee64@ae77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231009T131500Z
-LOCATION:24-502
-DTSTART:20231009T114500Z
-SUMMARY:ЛК Системный анализ
-UID:4dac9edb-2cd8-4147-b4d8-5360ecf42b66@4dac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20230908T073000Z
-LOCATION:4-412
-DTSTART:20230908T060000Z
-SUMMARY:ЛК Динамика полета
-UID:7bb30869-4032-4132-8ff1-0f9359938de1@7bb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231215T113000Z
-LOCATION:5-122
-DTSTART:20231215T100000Z
-SUMMARY:ЛР Экология
-UID:1f3b43c3-3c0d-44f2-b4d8-976420d69bc5@1f3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231114T073000Z
-LOCATION:--каф.
-DTSTART:20231114T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:25566658-e04f-420c-b3b9-670e03664d25@2556.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20230922T091500Z
-LOCATION:4-412
-DTSTART:20230922T074500Z
-SUMMARY:ЛК Динамика полета
-UID:aea927c2-2581-4b66-96bc-b56aeefe44c7@aea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231003T073000Z
-LOCATION:--каф.
-DTSTART:20231003T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:855ca02c-aa3f-4ae7-ace2-9b0c6c9de5c1@855c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231215T131500Z
-LOCATION:5-122
-DTSTART:20231215T114500Z
-SUMMARY:ЛР Экология
-UID:6ca4ba54-31af-4f7e-b854-c27835c244af@6ca4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231226T091500Z
-LOCATION:--каф.
-DTSTART:20231226T074500Z
-SUMMARY:ЛК Моделирование функционирования авиационных комплексов
-UID:170eb769-27f1-4454-87c2-247b4e733553@170e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231106T131500Z
-LOCATION:24-502
-DTSTART:20231106T114500Z
-SUMMARY:ЛК Системный анализ
-UID:184770f9-b85d-484c-9bda-2b59f171c3f5@1847.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231114T091500Z
-LOCATION:--каф.
-DTSTART:20231114T074500Z
-SUMMARY:ЛК Моделирование функционирования авиационных комплексов
-UID:76fadcc4-04e3-4a6c-bdd2-7444f3bad1e8@76fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231128T073000Z
-LOCATION:--каф.
-DTSTART:20231128T060000Z
-SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:e73167ef-ca52-4b99-9e5f-aef5816ce3ef@e731.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231102T113000Z
-LOCATION:--каф.
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:5cbad455-ec0d-4a02-bd9b-71ae1c1a10c3@5cba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20231228T073000Z
-LOCATION:--каф.
-DTSTART:20231228T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:4502dcc4-4b6e-4dbe-85a8-3619466cc785@4502.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231207T113000Z
-LOCATION:--каф.
-DTSTART:20231207T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:b0f53ee0-4a29-445d-9ba9-977a6769e92f@b0f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20230927T091500Z
-LOCATION:--каф.
-DTSTART:20230927T074500Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:1894b4bb-4bdf-4f4e-a0df-4e37a549c4b6@1894.org
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:ec310273-73e0-401c-805b-4839d0379a0b@ec31.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Широков Александр Иванович
@@ -1507,317 +39,101 @@ DTEND:20231005T091500Z
 LOCATION:--каф.
 DTSTART:20231005T074500Z
 SUMMARY:ПЗ Системы оснащения авиационных комплексов
-UID:fef013c6-9403-4f50-866e-bbb63739918e@fef0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230904T113000Z
-LOCATION:5-101
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Экология
-UID:c49c30de-da5f-44aa-ba44-8283a35bd2ea@c49c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231225T131500Z
-LOCATION:24-502
-DTSTART:20231225T114500Z
-SUMMARY:ЛК Системный анализ
-UID:1e8a9513-19ab-4ed0-9f40-8a313efcaaf4@1e8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20230919T091500Z
-LOCATION:--каф.
-DTSTART:20230919T074500Z
-SUMMARY:ЛК Моделирование функционирования авиационных комплексов
-UID:b49f5af9-70de-4112-9954-ec41931d0c70@b49f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231218T131500Z
-LOCATION:24-502
-DTSTART:20231218T114500Z
-SUMMARY:ЛК Системный анализ
-UID:b77796a8-9a6b-4a3d-84e5-43520618e0f3@b777.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20231003T091500Z
-LOCATION:--каф.
-DTSTART:20231003T074500Z
-SUMMARY:ЛК Моделирование функционирования авиационных комплексов
-UID:a0b145ad-83d1-4eab-8e00-397de77012e1@a0b1.org
+UID:d629204d-2998-4dd3-b5aa-6bed268d271f@d629.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231012T091500Z
 LOCATION:--каф.
 DTSTART:20231012T074500Z
 SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:2a595729-eb97-48d2-9d71-849a92becc29@2a59.org
+UID:5ded01f8-2d0e-4506-b40d-5c9b70df2c54@5ded.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231020T073000Z
-LOCATION:4-412
-DTSTART:20231020T060000Z
-SUMMARY:ЛК Динамика полета
-UID:8901bb77-9ba7-4086-b2ac-3a26cf823872@8901.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231204T131500Z
-LOCATION:24-502
-DTSTART:20231204T114500Z
-SUMMARY:ЛК Системный анализ
-UID:49076d0c-12ec-4e57-812b-b31595bb80d9@4907.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T113000Z
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231228T113000Z
 LOCATION:--каф.
-DTSTART:20231011T100000Z
-SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
-UID:9a57085c-93cb-476c-b591-3cee9c5ff29b@9a57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мальцев Юрий Иванович
-DTEND:20231215T073000Z
-LOCATION:4-412
-DTSTART:20231215T060000Z
-SUMMARY:ЛК Динамика полета
-UID:6e9ceccd-4228-4f24-9c1c-0c26e4d5b064@6e9c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231227T073000Z
-LOCATION:--каф.
-DTSTART:20231227T060000Z
-SUMMARY:ПЗ Методология создания комплексов операционного моделирования
-UID:1f3bf1ea-ec34-492a-b85f-f663bc98ac4d@1f3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20231124T073000Z
-LOCATION:4-306
-DTSTART:20231124T060000Z
-SUMMARY:ЛР Динамика полета
-UID:a740c05d-c675-43e0-8269-6f55ce2e40cf@a740.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230918T131500Z
-LOCATION:24-502
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Системный анализ
-UID:a2407d08-2066-4c36-97de-e2ca2ac17cec@a240.org
+DTSTART:20231228T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:eb0f246f-db17-4f90-9e9e-4868059ecd03@eb0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231002T091500Z
+DTEND:20231006T131500Z
 LOCATION:5-117
-DTSTART:20231002T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:65e37090-82b5-4478-8e57-46da16d8a5c6@65e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231016T113000Z
-LOCATION:5-101
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Экология
-UID:d4a9118a-a9ad-4a93-b24b-92464a0e074b@d4a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20231004T091500Z
-LOCATION:--каф.
-DTSTART:20231004T074500Z
-SUMMARY:ЛК Методология создания комплексов операционного моделирования
-UID:efeeb859-1ba7-4e96-a800-4f535246a6d3@efee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20230920T073000Z
-LOCATION:--каф.
-DTSTART:20230920T060000Z
-SUMMARY:ЛК Методология создания комплексов операционного моделирования
-UID:c1e99409-ef65-4cb3-8d93-495debd3ff0f@c1e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231212T113000Z
-LOCATION:--каф.
-DTSTART:20231212T100000Z
-SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
-UID:5cb07a52-1903-426d-b8bc-97bfa514cc49@5cb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Русак Максим Александрович
-DTEND:20230906T073000Z
-LOCATION:--каф.
-DTSTART:20230906T060000Z
-SUMMARY:ЛК Методология создания комплексов операционного моделирования
-UID:484eae03-9a74-4328-82f4-8ad1ca9ba420@484e.org
+DTSTART:20231006T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:5a2b9a0c-9f58-4b24-8561-84bc24c3dfd6@5a2b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Широков Александр Иванович
-DTEND:20230921T091500Z
+DTEND:20231116T091500Z
 LOCATION:--каф.
-DTSTART:20230921T074500Z
+DTSTART:20231116T074500Z
 SUMMARY:ПЗ Системы оснащения авиационных комплексов
-UID:6e860a74-8a01-478e-85df-061da0c184ba@6e86.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T073000Z
-LOCATION:--каф.
-DTSTART:20231018T060000Z
-SUMMARY:ЛР Методология создания комплексов операционного моделирования
-UID:3e84f04a-06eb-49bf-843c-ce23a068b161@3e84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20230925T150000Z
-LOCATION:24-502
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:2079d76a-1b2e-4e80-8874-9ed0a95e2ed8@2079.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231025T131500Z
-LOCATION:--каф.
-DTSTART:20231025T114500Z
-SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
-UID:719fea4a-03c7-4d80-8d4a-bea2997a947f@719f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20230927T073000Z
-LOCATION:--каф.
-DTSTART:20230927T060000Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:6987517c-39f3-490f-867b-1f00b00a6499@6987.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T091500Z
-LOCATION:--каф.
-DTSTART:20230928T074500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:5fefd25f-98d9-4d17-a1bf-dbc68301a231@5fef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20231108T091500Z
-LOCATION:--каф.
-DTSTART:20231108T074500Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:ad378157-c6a4-4d7c-a670-9b2b34156954@ad37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231127T091500Z
-LOCATION:5-117
-DTSTART:20231127T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:44d568c1-a769-4b75-ac2f-c857f3561885@44d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231011T131500Z
-LOCATION:--каф.
-DTSTART:20231011T114500Z
-SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
-UID:68cf83dc-57c4-4d20-a33a-7abbd65361ee@68cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231106T091500Z
-LOCATION:5-117
-DTSTART:20231106T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:802ea162-0b80-44bd-805c-1f4816cdd67d@802e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231030T131500Z
-LOCATION:24-502
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Системный анализ
-UID:8ca61c6c-d128-4e70-8f91-158a3d012ede@8ca6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T091500Z
-LOCATION:--каф.
-DTSTART:20231129T074500Z
-SUMMARY:ПЗ Методология создания комплексов операционного моделирования
-UID:57b7dcae-719c-4573-b94f-56b1117f280d@57b7.org
+UID:90c97104-6236-4a60-9c35-3d04e2e1246c@90c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Скрипниченко Юрий Станиславович
-DTEND:20230905T091500Z
+DTEND:20230926T073000Z
 LOCATION:--каф.
-DTSTART:20230905T074500Z
-SUMMARY:ЛК Моделирование функционирования авиационных комплексов
-UID:5b841669-02b2-4082-9b09-e8787b823edb@5b84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Малышев Вениамин Васильевич
-DTEND:20231016T131500Z
-LOCATION:24-502
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Системный анализ
-UID:a3eaaaaa-a2a1-48eb-9b51-7dc99b6db74d@a3ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20230904T091500Z
-LOCATION:5-117
-DTSTART:20230904T074500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:6ea6c1df-5f51-4c65-b6a6-e156f89defe8@6ea6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Воронка Татьяна Владимировна
-DTEND:20231110T091500Z
-LOCATION:4-306
-DTSTART:20231110T074500Z
-SUMMARY:ЛР Динамика полета
-UID:21fdc0c7-f61b-451a-bb14-a5cecdc70da3@21fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T073000Z
-LOCATION:--каф.
-DTSTART:20231101T060000Z
-SUMMARY:ЛР Методология создания комплексов операционного моделирования
-UID:38894750-a48a-47b6-8240-3d2df7a337bb@3889.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20230925T113000Z
-LOCATION:5-101
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Экология
-UID:cf463e04-22d9-4284-8102-6d28d1dc4e6a@cf46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20231220T091500Z
-LOCATION:--каф.
-DTSTART:20231220T074500Z
-SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:6b3bb2a3-26f1-4ee9-bb20-7a4cd6d2357f@6b3b.org
+DTSTART:20230926T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:a9ed3e35-f541-4553-8adc-54772ad9a3f6@a9ed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Русак Максим Александрович
-DTEND:20231214T113000Z
+DTEND:20231012T113000Z
 LOCATION:--каф.
-DTSTART:20231214T100000Z
+DTSTART:20231012T100000Z
 SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:2f0b9306-d7a5-4033-9bfc-a2671601ddba@2f0b.org
+UID:dd446ce2-b67b-4aaa-9ea8-1ee06574ae5b@dd44.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мурманцева Екатерина Юрьевна
-DTEND:20231120T113000Z
-LOCATION:5-101
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Экология
-UID:2eed314f-11c3-4409-b0fe-f8739b913642@2eed.org
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231023T150000Z
+LOCATION:24-502
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:a23c25df-a956-45d3-9e1e-ab9dc3ca09f5@a23c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231123T073000Z
+LOCATION:--каф.
+DTSTART:20231123T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:dc21d73e-11a6-42eb-8fa2-b3ba2bbedfcb@dc21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20230912T073000Z
+LOCATION:--каф.
+DTSTART:20230912T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:5808c1e2-0a21-46da-ae22-bc7663bab015@5808.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20231108T073000Z
+LOCATION:--каф.
+DTSTART:20231108T060000Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:1b4808eb-5262-4cd7-8442-70f3c5b21cfe@1b48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20230928T113000Z
+LOCATION:--каф.
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:401b6228-6774-4f4b-9211-fa2cc71d69c3@401b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T073000Z
+LOCATION:--каф.
+DTSTART:20231115T060000Z
+SUMMARY:ПЗ Методология создания комплексов операционного моделирования
+UID:ae5d69fe-04ac-4182-a7c1-3fec6dcd88a1@ae5d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Скрипниченко Юрий Станиславович
@@ -1825,23 +141,134 @@ DTEND:20231031T073000Z
 LOCATION:--каф.
 DTSTART:20231031T060000Z
 SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
-UID:6dde3eb8-eb84-4f3a-b6d1-d9c7a4cf9c4f@6dde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Широков Александр Иванович
-DTEND:20230914T073000Z
-LOCATION:--каф.
-DTSTART:20230914T060000Z
-SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:8c7e8d2a-a7a3-4eb5-bf87-659e08320cbc@8c7e.org
+UID:472d1fc3-71fe-488d-827a-5da6cd876e23@472d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дайнов Михаил Ильич
-DTEND:20231006T113000Z
+DTEND:20231120T091500Z
 LOCATION:5-117
-DTSTART:20231006T100000Z
+DTSTART:20231120T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:8a80a3f1-55cf-4410-b4e3-72237ea0c46a@8a80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20231013T073000Z
+LOCATION:4-306
+DTSTART:20231013T060000Z
+SUMMARY:ЛР Динамика полета
+UID:6241103a-be09-497c-b2b3-3be9b8a386a1@6241.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231113T131500Z
+LOCATION:24-502
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Системный анализ
+UID:11af5bc0-d017-4fdd-a004-9077454a65ee@11af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231212T091500Z
+LOCATION:--каф.
+DTSTART:20231212T074500Z
+SUMMARY:ЛК Моделирование функционирования авиационных комплексов
+UID:dc594df1-ad05-48d2-a37a-d30902f2ec61@dc59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231211T150000Z
+LOCATION:24-502
+DTSTART:20231211T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:22b3c497-a048-4ebc-a1a3-4a48660bc31e@22b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231218T150000Z
+LOCATION:24-502
+DTSTART:20231218T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:972a1b64-0f3f-4856-9282-9a02fe43261a@972a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20230922T131500Z
+LOCATION:5-117
+DTSTART:20230922T114500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:f6cf528d-49ce-40a3-a9e2-4026808c46c1@f6cf.org
+UID:cd537cd0-4935-48cd-afc6-e428a8b3ece2@cd53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20230920T091500Z
+LOCATION:--каф.
+DTSTART:20230920T074500Z
+SUMMARY:ЛК Методология создания комплексов операционного моделирования
+UID:52334d56-8528-47b1-9404-e350090fcb3f@5233.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231225T150000Z
+LOCATION:24-502
+DTSTART:20231225T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:a4110d5d-261a-4d5f-81c6-b74c2cd31b62@a411.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231109T113000Z
+LOCATION:--каф.
+DTSTART:20231109T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:242fe057-ab4a-4c28-95ff-92699b098844@242f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231226T091500Z
+LOCATION:--каф.
+DTSTART:20231226T074500Z
+SUMMARY:ЛК Моделирование функционирования авиационных комплексов
+UID:50c24960-d7f8-490b-9207-026e20f11672@50c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T091500Z
+LOCATION:--каф.
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
+UID:441ec95a-a36e-471e-91c3-22c2ddbb0b04@441e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20230908T091500Z
+LOCATION:4-412
+DTSTART:20230908T074500Z
+SUMMARY:ЛК Динамика полета
+UID:216ffacf-99af-4c6a-aa79-f4a18719d22b@216f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20231027T091500Z
+LOCATION:4-306
+DTSTART:20231027T074500Z
+SUMMARY:ЛР Динамика полета
+UID:e54df149-b771-45d6-85ca-44eefb118de3@e54d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20231011T073000Z
+LOCATION:--каф.
+DTSTART:20231011T060000Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:386a64bf-d11b-45b0-9119-a8dc88bbb1cd@386a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20230920T073000Z
+LOCATION:--каф.
+DTSTART:20230920T060000Z
+SUMMARY:ЛК Методология создания комплексов операционного моделирования
+UID:3d6a7713-5111-47cf-bbb5-f548b8325f79@3d6a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Мурманцева Екатерина Юрьевна
@@ -1849,7 +276,210 @@ DTEND:20231009T113000Z
 LOCATION:5-101
 DTSTART:20231009T100000Z
 SUMMARY:ЛК Экология
-UID:6bb1fb37-8c86-4790-9636-b01f8b5f5915@6bb1.org
+UID:647b6cbf-b167-48dc-b3c1-1d547101b3ce@647b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T091500Z
+LOCATION:--каф.
+DTSTART:20231010T074500Z
+SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
+UID:4b77cd2c-8170-4a9a-a7fb-d29c4332d937@4b77.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T113000Z
+LOCATION:--каф.
+DTSTART:20231025T100000Z
+SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
+UID:dda93886-3ca0-486a-96e4-de2769520582@dda9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T091500Z
+LOCATION:--каф.
+DTSTART:20231107T074500Z
+SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
+UID:5851bb77-cc80-4c7d-8721-95e008f9fc42@5851.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230911T131500Z
+LOCATION:24-502
+DTSTART:20230911T114500Z
+SUMMARY:ЛК Системный анализ
+UID:a0e32696-ad0a-4d10-9dcc-7d3ab5fe2fd2@a0e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20230911T091500Z
+LOCATION:5-117
+DTSTART:20230911T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:68612ed8-65a8-4be3-80b8-9a5d8f527785@6861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20230925T091500Z
+LOCATION:5-117
+DTSTART:20230925T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:14b82287-4417-42f4-8cb2-edfbf14f5957@14b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20231208T073000Z
+LOCATION:4-306
+DTSTART:20231208T060000Z
+SUMMARY:ЛР Динамика полета
+UID:d65348aa-40e2-4aa6-b737-0c115d2b59ac@d653.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231019T073000Z
+LOCATION:--каф.
+DTSTART:20231019T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:76c61375-b1a1-42a2-919a-4fcebacf3205@76c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231116T113000Z
+LOCATION:--каф.
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:2a660feb-db51-454e-8034-df303b590347@2a66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20230927T091500Z
+LOCATION:--каф.
+DTSTART:20230927T074500Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:5c8a97f0-ab5d-47b6-8d0f-96eeaf1da489@5c8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231020T131500Z
+LOCATION:5-117
+DTSTART:20231020T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:83cdbdf5-be9a-4cbd-ab4e-45776866f1eb@83cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231003T091500Z
+LOCATION:--каф.
+DTSTART:20231003T074500Z
+SUMMARY:ЛК Моделирование функционирования авиационных комплексов
+UID:749308d3-cbda-4460-8092-787614761fca@7493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230918T131500Z
+LOCATION:24-502
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Системный анализ
+UID:16993ac5-e224-4d61-a5ee-eff165c59245@1699.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231017T073000Z
+LOCATION:--каф.
+DTSTART:20231017T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:d41289c1-803a-471d-b47e-9af238fa5a3c@d412.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20230922T073000Z
+LOCATION:4-412
+DTSTART:20230922T060000Z
+SUMMARY:ЛК Динамика полета
+UID:afdcdc1e-90f0-43d2-94b2-2b471c121ebc@afdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20230914T113000Z
+LOCATION:--каф.
+DTSTART:20230914T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:5d613be3-0d93-4b6c-ac9b-4517b7525a85@5d61.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T113000Z
+LOCATION:--каф.
+DTSTART:20231031T100000Z
+SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
+UID:e99f843e-e69d-4709-bdd7-b84cd8a33240@e99f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231030T091500Z
+LOCATION:5-117
+DTSTART:20231030T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:d9b7ca49-3be7-4552-999d-b782f46466ec@d9b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231116T073000Z
+LOCATION:--каф.
+DTSTART:20231116T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:08e6cfac-2190-49fe-bb28-c58f0dea28d1@08e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231221T073000Z
+LOCATION:--каф.
+DTSTART:20231221T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:ab023560-7625-406f-a094-3a9618752cef@ab02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231006T091500Z
+LOCATION:4-412
+DTSTART:20231006T074500Z
+SUMMARY:ЛК Динамика полета
+UID:7da56bc8-d010-4f2d-8e96-c714066f3cee@7da5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231024T073000Z
+LOCATION:--каф.
+DTSTART:20231024T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:f2bd8f35-299c-4a79-b77c-58a6a4eafcc0@f2bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20230922T091500Z
+LOCATION:4-412
+DTSTART:20230922T074500Z
+SUMMARY:ЛК Динамика полета
+UID:8a448e11-a9ba-45ea-ae56-d2bd02478ff6@8a44.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T091500Z
+LOCATION:--каф.
+DTSTART:20231024T074500Z
+SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
+UID:7d8521ad-6b47-4b60-806b-9f192dbf97eb@7d85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231114T073000Z
+LOCATION:--каф.
+DTSTART:20231114T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:a1fa9a75-765d-4794-944d-15bc76adc93d@a1fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231201T113000Z
+LOCATION:5-122
+DTSTART:20231201T100000Z
+SUMMARY:ЛР Экология
+UID:7b1ef093-04f4-4017-b160-27c36439dcc1@7b1e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Широков Александр Иванович
@@ -1857,7 +487,616 @@ DTEND:20230907T073000Z
 LOCATION:--каф.
 DTSTART:20230907T060000Z
 SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:1009c6e0-352e-4b0a-9e19-fd93c9586f50@1009.org
+UID:6fae9f7a-17df-4563-90d4-adfe1b4faf3e@6fae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231211T091500Z
+LOCATION:5-117
+DTSTART:20231211T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:4d13eaa8-8bb7-4f62-8219-95301227a0f5@4d13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231215T131500Z
+LOCATION:5-122
+DTSTART:20231215T114500Z
+SUMMARY:ЛР Экология
+UID:67c0cda4-cd29-4123-be13-1ae87d4c6e80@67c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20230905T091500Z
+LOCATION:--каф.
+DTSTART:20230905T074500Z
+SUMMARY:ЛК Моделирование функционирования авиационных комплексов
+UID:f8876a9e-97cc-4abc-8759-efd84443b375@f887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231201T073000Z
+LOCATION:4-412
+DTSTART:20231201T060000Z
+SUMMARY:ЛК Динамика полета
+UID:3e022a45-cc23-47c8-9f0e-f465f546de4d@3e02.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T091500Z
+LOCATION:--каф.
+DTSTART:20230926T074500Z
+SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
+UID:cd5cbcab-fd52-4e76-ab07-a142985c2eed@cd5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231130T113000Z
+LOCATION:--каф.
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:7fe82a93-d13e-4588-a7b8-b06b15455cb4@7fe8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T113000Z
+LOCATION:--каф.
+DTSTART:20230919T100000Z
+SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
+UID:d2e50d8a-77ab-43bb-9090-1176cc2f9e0f@d2e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T091500Z
+LOCATION:--каф.
+DTSTART:20231109T074500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:fce69bf1-11e4-45f1-8018-47de60d98af2@fce6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20231124T073000Z
+LOCATION:4-306
+DTSTART:20231124T060000Z
+SUMMARY:ЛР Динамика полета
+UID:6c6f7f3d-3195-4555-afb5-dab393770739@6c6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231020T113000Z
+LOCATION:5-117
+DTSTART:20231020T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:58b2e52a-122b-4e44-b1ee-358f59c7317c@58b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230925T113000Z
+LOCATION:5-101
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Экология
+UID:457fc521-91e6-4469-b295-400a931f2b8f@457f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231017T091500Z
+LOCATION:--каф.
+DTSTART:20231017T074500Z
+SUMMARY:ЛК Моделирование функционирования авиационных комплексов
+UID:ddab24c1-794c-4559-99c0-8f3ac33cd879@ddab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230911T113000Z
+LOCATION:5-101
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Экология
+UID:2589bd81-14a1-4e4e-87fe-9ad9d05660bd@2589.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20230919T091500Z
+LOCATION:--каф.
+DTSTART:20230919T074500Z
+SUMMARY:ЛК Моделирование функционирования авиационных комплексов
+UID:91067a3c-cbb4-4e1b-af46-43df9044835c@9106.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231102T073000Z
+LOCATION:--каф.
+DTSTART:20231102T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:a9ebbf4e-6b6d-4998-8c62-f619cd762cb6@a9eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T091500Z
+LOCATION:--каф.
+DTSTART:20230914T074500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:c6ada23f-348a-4446-b626-f0de89eefa75@c6ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20230908T113000Z
+LOCATION:5-117
+DTSTART:20230908T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:af796e83-320b-42ef-a48b-dfe4de55941c@af79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20231122T073000Z
+LOCATION:--каф.
+DTSTART:20231122T060000Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:fce4ff4d-db4d-41db-ac68-34b626d1d52b@fce4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231023T091500Z
+LOCATION:5-117
+DTSTART:20231023T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:fe2fb3ef-3e22-4061-bc3c-c5724842cc24@fe2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231212T073000Z
+LOCATION:--каф.
+DTSTART:20231212T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:aaedc996-26ba-4881-ac83-f449e95a8ee1@aaed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231016T150000Z
+LOCATION:24-502
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:38bfc29a-a4cf-4d5b-b53a-6724fe3a809c@38bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231106T091500Z
+LOCATION:5-117
+DTSTART:20231106T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:41818944-e17d-4357-8c59-7a31990467d5@4181.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20230921T091500Z
+LOCATION:--каф.
+DTSTART:20230921T074500Z
+SUMMARY:ПЗ Системы оснащения авиационных комплексов
+UID:a826d934-6713-4892-a5b2-d461cb9d3f10@a826.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231004T073000Z
+LOCATION:--каф.
+DTSTART:20231004T060000Z
+SUMMARY:ЛК Методология создания комплексов операционного моделирования
+UID:87e34b96-34b3-4d7a-ad4a-baa172ec9f0a@87e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231120T131500Z
+LOCATION:24-502
+DTSTART:20231120T114500Z
+SUMMARY:ЛК Системный анализ
+UID:9450830f-b661-4f8b-b836-6a31f605c1d9@9450.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231030T131500Z
+LOCATION:24-502
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Системный анализ
+UID:546a0b53-6833-4d15-a871-17c12b02c159@546a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20230906T073000Z
+LOCATION:--каф.
+DTSTART:20230906T060000Z
+SUMMARY:ЛК Методология создания комплексов операционного моделирования
+UID:271d4af0-3e33-407e-bcd2-02b83dd5d043@271d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231201T091500Z
+LOCATION:4-412
+DTSTART:20231201T074500Z
+SUMMARY:ЛК Динамика полета
+UID:201c897e-4dd2-45a5-917b-9db092f8fb5f@201c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231020T073000Z
+LOCATION:4-412
+DTSTART:20231020T060000Z
+SUMMARY:ЛК Динамика полета
+UID:4f608982-92ee-4400-b8e0-2dd6bd99a0e3@4f60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231113T091500Z
+LOCATION:5-117
+DTSTART:20231113T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:c065a765-562c-4d1f-a3b2-26c333c51051@c065.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20231025T091500Z
+LOCATION:--каф.
+DTSTART:20231025T074500Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:5911bb1b-633b-4a61-bfd2-73462f0301a8@5911.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231102T113000Z
+LOCATION:--каф.
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:92de3748-2377-4948-ba7a-6ba1747b7d69@92de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231214T073000Z
+LOCATION:--каф.
+DTSTART:20231214T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:d208c0b4-79f3-46bb-8d2a-24fbdcfbd69f@d208.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230918T150000Z
+LOCATION:24-502
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:99771c85-827d-4e29-b696-9f1be525f3de@9977.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20231124T091500Z
+LOCATION:4-306
+DTSTART:20231124T074500Z
+SUMMARY:ЛР Динамика полета
+UID:1ebcb912-646c-42a6-8f02-37da5ef444a1@1ebc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231031T091500Z
+LOCATION:--каф.
+DTSTART:20231031T074500Z
+SUMMARY:ЛК Моделирование функционирования авиационных комплексов
+UID:1f1bf8ad-863c-413a-b4e0-482f95d06566@1f1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20230921T073000Z
+LOCATION:--каф.
+DTSTART:20230921T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:e6fe373b-3ce0-4db7-bcd2-859dd08bf444@e6fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231103T073000Z
+LOCATION:4-412
+DTSTART:20231103T060000Z
+SUMMARY:ЛК Динамика полета
+UID:dfa04180-1445-40d6-86f7-daa8167be68d@dfa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231127T131500Z
+LOCATION:24-502
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Системный анализ
+UID:a160274e-1a7b-4180-a560-4f52523cc1de@a160.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231204T091500Z
+LOCATION:5-117
+DTSTART:20231204T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:de8899d9-9cfc-40ea-828c-78afe4ab3ddc@de88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231214T113000Z
+LOCATION:--каф.
+DTSTART:20231214T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:50a43b7b-8987-428d-bd0f-33909e2ff583@50a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230918T113000Z
+LOCATION:5-101
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Экология
+UID:396b861a-3dd8-42c1-bdca-f059acabb9d7@396b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231215T113000Z
+LOCATION:5-122
+DTSTART:20231215T100000Z
+SUMMARY:ЛР Экология
+UID:57e11ba8-77cb-47bf-b38c-e9bc83c218ee@57e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20231220T091500Z
+LOCATION:--каф.
+DTSTART:20231220T074500Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:bfd4d537-b48a-4aca-8ca8-aa7deae3cb7a@bfd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231019T091500Z
+LOCATION:--каф.
+DTSTART:20231019T074500Z
+SUMMARY:ПЗ Системы оснащения авиационных комплексов
+UID:c6c92c27-dd7b-497c-ba4f-c8c450e24ec0@c6c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20231206T073000Z
+LOCATION:--каф.
+DTSTART:20231206T060000Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:81642f9f-2675-4cc2-a7f1-44b74bb00aed@8164.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20230913T091500Z
+LOCATION:--каф.
+DTSTART:20230913T074500Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:98f81c05-ed11-425c-8d9a-6b50f5580bb7@98f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231004T091500Z
+LOCATION:--каф.
+DTSTART:20231004T074500Z
+SUMMARY:ЛК Методология создания комплексов операционного моделирования
+UID:7aed7165-7375-464f-ace4-02c3bf046610@7aed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T113000Z
+LOCATION:--каф.
+DTSTART:20231011T100000Z
+SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
+UID:1b417e41-fcf3-46a5-8ddd-310401dd54ee@1b41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20230904T113000Z
+LOCATION:5-101
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Экология
+UID:bb59c949-76ba-42b2-8b69-5c5436d29b18@bb59.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T091500Z
+LOCATION:--каф.
+DTSTART:20230912T074500Z
+SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
+UID:5fbf52c2-2ac8-416b-9787-2e0d64e317f1@5fbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231020T091500Z
+LOCATION:4-412
+DTSTART:20231020T074500Z
+SUMMARY:ЛК Динамика полета
+UID:2668ca7f-6e3e-4782-b3f6-3d4490f2a96b@2668.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231115T091500Z
+LOCATION:--каф.
+DTSTART:20231115T074500Z
+SUMMARY:ПЗ Методология создания комплексов операционного моделирования
+UID:bb691b90-577d-47db-a7de-f925269f6ad0@bb69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231120T113000Z
+LOCATION:5-101
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Экология
+UID:8d74a3ab-e362-4f81-a3d8-f8a03f924b31@8d74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20231208T091500Z
+LOCATION:4-306
+DTSTART:20231208T074500Z
+SUMMARY:ЛР Динамика полета
+UID:8899161f-df49-42da-b7f2-032838aeb845@8899.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231227T091500Z
+LOCATION:--каф.
+DTSTART:20231227T074500Z
+SUMMARY:ПЗ Методология создания комплексов операционного моделирования
+UID:7dbe927e-fbbc-4450-8f82-ef443be4b1ba@7dbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20230906T091500Z
+LOCATION:--каф.
+DTSTART:20230906T074500Z
+SUMMARY:ЛК Методология создания комплексов операционного моделирования
+UID:bb5e249c-7580-42b7-bb3f-6731d06a7b2a@bb5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231221T113000Z
+LOCATION:--каф.
+DTSTART:20231221T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:c8b7b7e1-b1d4-4520-8c69-808c04a499c1@c8b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231228T091500Z
+LOCATION:--каф.
+DTSTART:20231228T074500Z
+SUMMARY:ПЗ Системы оснащения авиационных комплексов
+UID:4387481f-6659-4250-b0c3-da779570981a@4387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20231122T091500Z
+LOCATION:--каф.
+DTSTART:20231122T074500Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:39dac8f4-3af7-4d39-b886-58d4e99c101b@39da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20231220T073000Z
+LOCATION:--каф.
+DTSTART:20231220T060000Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:88946983-6003-485d-bb0b-ac7dab28a155@8894.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20230914T073000Z
+LOCATION:--каф.
+DTSTART:20230914T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:4aeb9761-0d0d-4b25-a464-0eb4c9a80a8c@4aeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231030T150000Z
+LOCATION:24-502
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:f23e77e6-09a7-4bde-b063-f0ed85b24b96@f23e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231019T113000Z
+LOCATION:--каф.
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:e11c410a-e53b-4b78-a61a-6eddf354a35d@e11c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T113000Z
+LOCATION:--каф.
+DTSTART:20230905T100000Z
+SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
+UID:e2e7f17e-5ed6-4361-be65-f9e1c3692d4f@e2e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231011T131500Z
+LOCATION:--каф.
+DTSTART:20231011T114500Z
+SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
+UID:bf0cf5ac-2e60-4b75-8d5b-5798cb619dbf@bf0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20230907T091500Z
+LOCATION:--каф.
+DTSTART:20230907T074500Z
+SUMMARY:ПЗ Системы оснащения авиационных комплексов
+UID:b772833f-d3ff-4c8f-a495-c8c37aefeddd@b772.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231106T131500Z
+LOCATION:24-502
+DTSTART:20231106T114500Z
+SUMMARY:ЛК Системный анализ
+UID:b4c5067e-1147-4369-9e5c-5d6fbd7f38d9@b4c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T091500Z
+LOCATION:--каф.
+DTSTART:20231123T074500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:5d661a51-f007-4f2c-a10d-256004561c96@5d66.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T091500Z
+LOCATION:--каф.
+DTSTART:20231129T074500Z
+SUMMARY:ПЗ Методология создания комплексов операционного моделирования
+UID:a0f78876-fa9b-47b9-ae89-61b527b57ca9@a0f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231226T113000Z
+LOCATION:--каф.
+DTSTART:20231226T100000Z
+SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
+UID:d328a710-9c0e-4663-9080-00229fac5138@d328.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231102T091500Z
+LOCATION:--каф.
+DTSTART:20231102T074500Z
+SUMMARY:ПЗ Системы оснащения авиационных комплексов
+UID:fd01e4fa-1fbd-481c-80bd-db30f106876e@fd01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231128T073000Z
+LOCATION:--каф.
+DTSTART:20231128T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:1cc62f55-78dd-4ecf-87c3-a72c20682af3@1cc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20230927T073000Z
+LOCATION:--каф.
+DTSTART:20230927T060000Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:aa03d7f6-6705-453b-a12d-6a73b52e8af1@aa03.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T091500Z
+LOCATION:--каф.
+DTSTART:20231018T074500Z
+SUMMARY:ЛР Методология создания комплексов операционного моделирования
+UID:af5bc5a5-6ab1-4eb3-bb2d-5cc3e8d9b546@af5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20230919T073000Z
+LOCATION:--каф.
+DTSTART:20230919T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:7904f9fb-3646-4d1f-af0e-0731edc287b7@7904.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T091500Z
+LOCATION:--каф.
+DTSTART:20231207T074500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:aec99cb9-8022-4486-868f-464d59f9524e@aec9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230904T131500Z
+LOCATION:24-502
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Системный анализ
+UID:38c4e77e-ac2b-404f-9d68-7a0c8c0a6800@38c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Широков Александр Иванович
@@ -1865,15 +1104,194 @@ DTEND:20231005T073000Z
 LOCATION:--каф.
 DTSTART:20231005T060000Z
 SUMMARY:ЛК Системы оснащения авиационных комплексов
-UID:a364425f-6e0f-444f-b935-ac79b5aeae5c@a364.org
+UID:0d0d8e69-e835-4d40-955d-6de46e64e4d0@0d0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231016T113000Z
+LOCATION:5-101
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Экология
+UID:fce9892a-4ad3-4dbc-b9f4-8469b0b8e686@fce9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231109T073000Z
+LOCATION:--каф.
+DTSTART:20231109T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:c98d624a-1114-423d-90dd-69d39760e0ba@c98d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231220T113000Z
+LOCATION:--каф.
+DTSTART:20231220T100000Z
+SUMMARY:ПЗ Информационные и вычислительные бортовые системы АК
+UID:ced814d6-96b0-45cf-878b-53182de098e6@ced8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20230904T091500Z
+LOCATION:5-117
+DTSTART:20230904T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:a7f92c99-11d9-4d4d-ab97-5e3f2671c248@a7f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231207T073000Z
+LOCATION:--каф.
+DTSTART:20231207T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:9ca06100-4a22-4ae5-8090-34e0178d435b@9ca0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231012T073000Z
+LOCATION:--каф.
+DTSTART:20231012T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:6828a817-a47d-430d-a0de-445acfbab80a@6828.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20231110T091500Z
+LOCATION:4-306
+DTSTART:20231110T074500Z
+SUMMARY:ЛР Динамика полета
+UID:28d4c3af-6347-44d9-9a12-54a9987d5a9a@28d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T091500Z
+LOCATION:--каф.
+DTSTART:20230928T074500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:ee645148-aea8-4d37-9c8b-fe81a4378918@ee64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231009T091500Z
+LOCATION:5-117
+DTSTART:20231009T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:b5cebdcf-3b4f-41a3-86c8-c8472b18d064@b5ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231030T113000Z
+LOCATION:5-101
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Экология
+UID:f8372089-5eba-4a7a-8adf-72b8f7f39817@f837.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231117T113000Z
+LOCATION:5-122
+DTSTART:20231117T100000Z
+SUMMARY:ЛР Экология
+UID:63216b83-6e63-4737-89a2-3d46e6b561f3@6321.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231227T073000Z
+LOCATION:--каф.
+DTSTART:20231227T060000Z
+SUMMARY:ПЗ Методология создания комплексов операционного моделирования
+UID:1fb6af11-98c0-4a91-9ef8-4991a3318323@1fb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231009T150000Z
+LOCATION:24-502
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:9058519d-fd59-44c6-a610-0b8bbeaffe26@9058.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231211T131500Z
+LOCATION:24-502
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Системный анализ
+UID:e31a9de4-46c8-4288-9e43-55543c38259e@e31a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20230928T073000Z
+LOCATION:--каф.
+DTSTART:20230928T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:a78ba591-47f9-4700-bcdf-5fef4e64af1d@a78b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231002T091500Z
+LOCATION:5-117
+DTSTART:20231002T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:f24e4875-9cf8-4302-8d90-255419736e8f@f24e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20231013T091500Z
+LOCATION:4-306
+DTSTART:20231013T074500Z
+SUMMARY:ЛР Динамика полета
+UID:40479247-6f24-4c58-be16-88388b0d7bfe@4047.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T073000Z
+LOCATION:--каф.
+DTSTART:20231101T060000Z
+SUMMARY:ЛР Методология создания комплексов операционного моделирования
+UID:80cee9e0-abbb-4216-a14b-dda79e8b75af@80ce.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вавилов Денис Сергеевич
-DTEND:20231011T091500Z
+DTEND:20231108T091500Z
 LOCATION:--каф.
-DTSTART:20231011T074500Z
+DTSTART:20231108T074500Z
 SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
-UID:3b4f91c1-9a7d-4808-ac83-c0808f11f53b@3b4f.org
+UID:88a929bc-60a2-4284-9141-e77d8b386c0c@88a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231120T150000Z
+LOCATION:24-502
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:b7cd6caa-5182-4f67-97a4-fa05e821edbd@b7cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230904T150000Z
+LOCATION:24-502
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:8731b8cb-327d-4e2b-ad7b-7ecf923a0724@8731.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T113000Z
+LOCATION:--каф.
+DTSTART:20231003T100000Z
+SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
+UID:44d28015-ec08-4ce2-a638-c2151585676b@44d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231127T091500Z
+LOCATION:5-117
+DTSTART:20231127T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:f4d4dd05-da38-456e-bd2e-e00abb9606bf@f4d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20230913T073000Z
+LOCATION:--каф.
+DTSTART:20230913T060000Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:203c1488-f8b6-4f21-8f51-2d9f60a00eec@203c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Скрипниченко Юрий Станиславович
@@ -1881,6 +1299,588 @@ DTEND:20231128T091500Z
 LOCATION:--каф.
 DTSTART:20231128T074500Z
 SUMMARY:ЛК Моделирование функционирования авиационных комплексов
-UID:1e0a59db-bca1-463e-8008-db0bb1f53064@1e0a.org
+UID:5616557f-912d-47ad-b77f-955b732eeb1f@5616.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231205T073000Z
+LOCATION:--каф.
+DTSTART:20231205T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:58c3f00e-5c90-4a3f-838c-3670d5b1e439@58c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231218T091500Z
+LOCATION:5-117
+DTSTART:20231218T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:0e11fc58-9ed8-45f1-a36f-1f8528c66d97@0e11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231009T131500Z
+LOCATION:24-502
+DTSTART:20231009T114500Z
+SUMMARY:ЛК Системный анализ
+UID:23a4c8ea-cc26-4b4a-90fd-417d1e361170@23a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231228T073000Z
+LOCATION:--каф.
+DTSTART:20231228T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:e0b1525f-887c-41e0-87a0-6a608867fcc1@e0b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231026T073000Z
+LOCATION:--каф.
+DTSTART:20231026T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:b50b846f-c40b-4bd6-98ac-c2d3b2139715@b50b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T113000Z
+LOCATION:--каф.
+DTSTART:20231114T100000Z
+SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
+UID:fcefbad8-1c1c-4ce9-adc5-524c36725405@fcef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T131500Z
+LOCATION:--каф.
+DTSTART:20231108T114500Z
+SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
+UID:2b356597-3cee-4237-9a00-5fdce96bb92a@2b35.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231122T113000Z
+LOCATION:--каф.
+DTSTART:20231122T100000Z
+SUMMARY:ПЗ Информационные и вычислительные бортовые системы АК
+UID:cb23e5ce-e8fd-4d2c-b5c8-c2db2be5181e@cb23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231106T113000Z
+LOCATION:5-101
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Экология
+UID:960646b1-53d8-4135-be8d-0debd0598716@9606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231117T091500Z
+LOCATION:4-412
+DTSTART:20231117T074500Z
+SUMMARY:ЛК Динамика полета
+UID:4bb277d0-c5f9-493e-b143-7c9122b1a33c@4bb2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T113000Z
+LOCATION:--каф.
+DTSTART:20231212T100000Z
+SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
+UID:8298c2b4-c8e4-44c1-81c7-bb8bcffe0342@8298.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T091500Z
+LOCATION:--каф.
+DTSTART:20231213T074500Z
+SUMMARY:ПЗ Методология создания комплексов операционного моделирования
+UID:bee3ef58-4d0d-4ecc-b81a-b2e8e8604d37@bee3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231215T091500Z
+LOCATION:4-412
+DTSTART:20231215T074500Z
+SUMMARY:ЛК Динамика полета
+UID:73e0a9e9-9a97-4cc7-90ad-3c02cb6f46cd@73e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231107T073000Z
+LOCATION:--каф.
+DTSTART:20231107T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:ea52a88d-7276-428a-a2b7-e9465dc98755@ea52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231114T091500Z
+LOCATION:--каф.
+DTSTART:20231114T074500Z
+SUMMARY:ЛК Моделирование функционирования авиационных комплексов
+UID:9e888d09-a4f2-4933-bb38-7666a52349c2@9e88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20230905T073000Z
+LOCATION:--каф.
+DTSTART:20230905T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:f7c6503a-9391-4b10-863e-6575ea7a1c9f@f7c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20230918T091500Z
+LOCATION:5-117
+DTSTART:20230918T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:42203c1f-5590-4d53-8907-5e36f986cab2@4220.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20230921T113000Z
+LOCATION:--каф.
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:6c40a6e6-02a5-409b-afa3-9bfb6f4cac55@6c40.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231206T113000Z
+LOCATION:--каф.
+DTSTART:20231206T100000Z
+SUMMARY:ПЗ Информационные и вычислительные бортовые системы АК
+UID:dcfb3e2c-8a8e-4dcd-86de-770c80c4d73b@dcfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231016T091500Z
+LOCATION:5-117
+DTSTART:20231016T074500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:68d09f8c-8512-4965-9dc7-95bb9f464722@68d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T073000Z
+LOCATION:--каф.
+DTSTART:20231018T060000Z
+SUMMARY:ЛР Методология создания комплексов операционного моделирования
+UID:e04118dd-733c-41b8-9c96-e2cf91a16bb0@e041.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231103T091500Z
+LOCATION:4-412
+DTSTART:20231103T074500Z
+SUMMARY:ЛК Динамика полета
+UID:2fa7844d-3e6d-4e18-98bc-a02b1c49bdad@2fa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231113T113000Z
+LOCATION:5-101
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Экология
+UID:390e4c5a-1cfb-4d42-9729-9830a95351d1@390e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231226T073000Z
+LOCATION:--каф.
+DTSTART:20231226T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:8d350ce4-40f0-46e0-84e3-86da20ff3284@8d35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230925T150000Z
+LOCATION:24-502
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:a2af3444-6eeb-4620-98bc-c0674d957105@a2af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231006T113000Z
+LOCATION:5-117
+DTSTART:20231006T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:5b7c831b-9a5c-4103-b1f6-594fa5136102@5b7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20231011T091500Z
+LOCATION:--каф.
+DTSTART:20231011T074500Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:94720344-1d53-4841-8b40-b5762c671f95@9472.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20230908T131500Z
+LOCATION:5-117
+DTSTART:20230908T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:90b05003-f087-42ad-8d1d-3691454b6730@90b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231026T113000Z
+LOCATION:--каф.
+DTSTART:20231026T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:31a06293-04ec-424b-9655-18aff3366683@31a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231121T073000Z
+LOCATION:--каф.
+DTSTART:20231121T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:bdd3ec1e-3dc2-4e63-a0d1-15fa49f3edee@bdd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231010T073000Z
+LOCATION:--каф.
+DTSTART:20231010T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:006c2721-412b-488c-9161-7a96b83d612d@006c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231023T113000Z
+LOCATION:5-101
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Экология
+UID:35cf4092-5011-49b6-9357-3f7d058114aa@35cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231016T131500Z
+LOCATION:24-502
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Системный анализ
+UID:158c8c14-2955-41ed-93f5-4450b67893b8@158c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231006T073000Z
+LOCATION:4-412
+DTSTART:20231006T060000Z
+SUMMARY:ЛК Динамика полета
+UID:6f9b07fe-c772-4bc1-9a66-50222753912d@6f9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231204T131500Z
+LOCATION:24-502
+DTSTART:20231204T114500Z
+SUMMARY:ЛК Системный анализ
+UID:c21fe90d-6df0-4e6d-8ef9-2568ec8cede2@c21f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231025T131500Z
+LOCATION:--каф.
+DTSTART:20231025T114500Z
+SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
+UID:002db22b-cdae-4aeb-89f4-e8946acb0e7e@002d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231127T150000Z
+LOCATION:24-502
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:fc3b3884-f4e8-4b40-bf93-e9fe339e8e3b@fc3b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T073000Z
+LOCATION:--каф.
+DTSTART:20231129T060000Z
+SUMMARY:ПЗ Методология создания комплексов операционного моделирования
+UID:ab5051b3-eac7-4529-9fe1-8a74d9d1b7f1@ab50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231002T113000Z
+LOCATION:5-101
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Экология
+UID:4eea261f-a440-42f5-97c7-4b7401ad05af@4eea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231002T150000Z
+LOCATION:24-502
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:554a1ef4-79fd-49f3-b111-e551aa5785e6@554a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мурманцева Екатерина Юрьевна
+DTEND:20231201T131500Z
+LOCATION:5-122
+DTSTART:20231201T114500Z
+SUMMARY:ЛР Экология
+UID:882c9b1d-b677-416d-b621-ee4cd5c39e99@882c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231103T113000Z
+LOCATION:5-117
+DTSTART:20231103T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:0dca84ba-20a2-46a5-9395-18778e6a615a@0dca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231123T113000Z
+LOCATION:--каф.
+DTSTART:20231123T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:2c57b50d-cfde-42d3-83be-7c09d19f7a0e@2c57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20230922T113000Z
+LOCATION:5-117
+DTSTART:20230922T100000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:9b5f72f5-7509-4e88-a0c2-6d4486bd7777@9b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231003T073000Z
+LOCATION:--каф.
+DTSTART:20231003T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:56609aec-9630-447f-aedf-523e35b03457@5660.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T091500Z
+LOCATION:--каф.
+DTSTART:20231026T074500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:646582b1-2673-4e65-a6a8-20fd0650c9a2@6465.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T091500Z
+LOCATION:--каф.
+DTSTART:20231219T074500Z
+SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
+UID:d111f945-4773-49bb-9700-f2e20e7e53bb@d111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231207T113000Z
+LOCATION:--каф.
+DTSTART:20231207T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:514cafe5-45f8-4218-b43b-8bd1a0a7a6d1@514c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231204T150000Z
+LOCATION:24-502
+DTSTART:20231204T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:669407ce-ba3c-43f2-bfb1-c5c2bc297fa7@6694.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20230907T113000Z
+LOCATION:--каф.
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:79c82d0e-1dc4-4729-be40-c938c6d1ef61@79c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Скрипниченко Юрий Станиславович
+DTEND:20231219T073000Z
+LOCATION:--каф.
+DTSTART:20231219T060000Z
+SUMMARY:ЛК Методы исследования эффективности  авиационных организационно-технических систем
+UID:8ac92e22-0456-4eb9-b7e3-50a3c06892b4@8ac9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231130T073000Z
+LOCATION:--каф.
+DTSTART:20231130T060000Z
+SUMMARY:ЛК Системы оснащения авиационных комплексов
+UID:335d827f-c549-4b00-9bd4-d872a7c30ea0@335d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230911T150000Z
+LOCATION:24-502
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:2ed708d1-e5b3-4dde-83df-188179a84206@2ed7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T113000Z
+LOCATION:--каф.
+DTSTART:20231128T100000Z
+SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
+UID:f6a14c5c-4861-4d19-8904-638e8e23dcc0@f6a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20231027T073000Z
+LOCATION:4-306
+DTSTART:20231027T060000Z
+SUMMARY:ЛР Динамика полета
+UID:8e05b031-569d-4e2c-ac43-06f14a2104fd@8e05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20230908T073000Z
+LOCATION:4-412
+DTSTART:20230908T060000Z
+SUMMARY:ЛК Динамика полета
+UID:a29b83fe-8163-468f-b041-afe5de891479@a29b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Воронка Татьяна Владимировна
+DTEND:20231110T073000Z
+LOCATION:4-306
+DTSTART:20231110T060000Z
+SUMMARY:ЛР Динамика полета
+UID:9093ff10-8ac6-44c4-838a-ead4a633ba58@9093.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T113000Z
+LOCATION:--каф.
+DTSTART:20231017T100000Z
+SUMMARY:ПЗ Моделирование функционирования авиационных комплексов
+UID:a4165e7d-6e5b-499d-a8f7-78548b997627@a416.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T091500Z
+LOCATION:--каф.
+DTSTART:20231101T074500Z
+SUMMARY:ЛР Методология создания комплексов операционного моделирования
+UID:ae8ed8ec-8ddb-48d8-8cc4-14bc39e7a24d@ae8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20230925T131500Z
+LOCATION:24-502
+DTSTART:20230925T114500Z
+SUMMARY:ЛК Системный анализ
+UID:e3443e5f-6512-4542-b585-45e37fd64739@e344.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231023T131500Z
+LOCATION:24-502
+DTSTART:20231023T114500Z
+SUMMARY:ЛК Системный анализ
+UID:21212765-906c-4a4a-924d-2b744ae4218f@2121.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231108T113000Z
+LOCATION:--каф.
+DTSTART:20231108T100000Z
+SUMMARY:ЛР Информационные и вычислительные бортовые системы АК
+UID:6830a7f5-9244-4dac-af7d-9350839b29a7@6830.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Русак Максим Александрович
+DTEND:20231005T113000Z
+LOCATION:--каф.
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:32019a8b-82df-40db-878d-828046ecc52a@3201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231106T150000Z
+LOCATION:24-502
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:f5ed4dcf-827b-4012-9d67-a34f921d32fa@f5ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T073000Z
+LOCATION:--каф.
+DTSTART:20231213T060000Z
+SUMMARY:ПЗ Методология создания комплексов операционного моделирования
+UID:47930156-38ff-46fa-b78c-17783162b2cf@4793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231215T073000Z
+LOCATION:4-412
+DTSTART:20231215T060000Z
+SUMMARY:ЛК Динамика полета
+UID:0fa86ab4-04cf-4392-be75-1969d29fbb61@0fa8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мальцев Юрий Иванович
+DTEND:20231117T073000Z
+LOCATION:4-412
+DTSTART:20231117T060000Z
+SUMMARY:ЛК Динамика полета
+UID:53a3e95f-2376-4f79-a13f-992f78932d68@53a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T091500Z
+LOCATION:--каф.
+DTSTART:20231205T074500Z
+SUMMARY:ПЗ Методы исследования эффективности  авиационных организационно-технических систем
+UID:63e9d0bf-7587-481c-8312-fe450deeb662@63e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Широков Александр Иванович
+DTEND:20231214T091500Z
+LOCATION:--каф.
+DTSTART:20231214T074500Z
+SUMMARY:ПЗ Системы оснащения авиационных комплексов
+UID:be182768-eb55-4f1d-b5f4-811230db3b4f@be18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231218T131500Z
+LOCATION:24-502
+DTSTART:20231218T114500Z
+SUMMARY:ЛК Системный анализ
+UID:74139e94-b1aa-4823-856c-e62a96d788ff@7413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231225T131500Z
+LOCATION:24-502
+DTSTART:20231225T114500Z
+SUMMARY:ЛК Системный анализ
+UID:34da0387-13f6-40a2-b6dc-c62aa1eb05d4@34da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дайнов Михаил Ильич
+DTEND:20231103T131500Z
+LOCATION:5-117
+DTSTART:20231103T114500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:48dc1653-b6bf-464f-9206-5afa6a150b58@48dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Малышев Вениамин Васильевич
+DTEND:20231002T131500Z
+LOCATION:24-502
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Системный анализ
+UID:595fa8d8-c827-45aa-a575-5ce73de549e1@595f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вавилов Денис Сергеевич
+DTEND:20231025T073000Z
+LOCATION:--каф.
+DTSTART:20231025T060000Z
+SUMMARY:ЛК Информационные и вычислительные бортовые системы АК
+UID:ee5a8004-a4b6-497f-81a9-2cc825c058ed@ee5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T091500Z
+LOCATION:--каф.
+DTSTART:20231221T074500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:8f4ef6b6-73a8-4d92-8858-92733f483ab1@8f4e.org
 END:VEVENT
 END:VCALENDAR

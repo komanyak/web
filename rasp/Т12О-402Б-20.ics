@@ -2,1148 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231113T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:0c1aaf23-8798-4069-936e-7d9a3ad88f9f@0c1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231023T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:4adb7c28-8ada-4c2d-913e-c498a44a1b85@4adb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231114T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20231114T114500Z
-SUMMARY:ПЗ Двигатели и энергосистемы
-UID:34994bb0-0dac-426f-9e59-ea489b8ae027@3499.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230919T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:3fc72179-1136-49fc-8ed3-7a9dc61e2b02@3fc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231229T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231229T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:1865ff0c-9774-4368-b369-0964505d0f33@1865.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231024T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20231024T114500Z
-SUMMARY:ЛК Двигатели и энергосистемы
-UID:9d98139c-4e40-498f-bdbd-d3c2b161e410@9d98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231002T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:796afb53-8d59-4f42-a580-47530aacde35@796a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230912T150000Z
-LOCATION:Берн. 14-501
-DTSTART:20230912T133000Z
-SUMMARY:ЛК Информационная поддержка жизненного цикла изделий
-UID:cd1dbc13-bb62-4452-93fc-787bbc369bd3@cd1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231004T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:fd007654-e979-4741-97e3-165ed2da93a6@fd00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231212T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20231212T133000Z
-SUMMARY:ЛР Двигатели и энергосистемы
-UID:01c737e1-d99e-4eee-869e-895912b88f52@01c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231016T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:dc0d4fe5-17a8-4ee5-8a60-0797b0124701@dc0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231218T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231218T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:aa600db8-a64c-4d9d-91b3-c6a5d7d3eae3@aa60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230911T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:260b57d9-2a18-43bc-885f-e72823cd2b2d@260b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231010T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20231010T133000Z
-SUMMARY:ЛК Двигатели и энергосистемы
-UID:a1044e1f-0522-4c2a-9f12-4c7ccc806095@a104.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231027T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231027T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:306544fb-c43c-4c1e-8dd8-5a6bb63f335f@3065.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231020T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231020T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:8055943d-eaed-4257-bc98-3aeba92cdf9d@8055.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231226T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231226T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:f0b1a6b4-83fa-4f23-8c6d-4c980ad3801a@f0b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231213T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231213T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:e7afcfc3-e313-49a3-92ae-683cf9dd346f@e7af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231225T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231225T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:609073b4-9582-49fe-9039-1735582d1dd8@6090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231002T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:a51a9498-3ad9-4f11-8932-3796b3c69cab@a51a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231009T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231009T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:f61739db-608c-452a-95d5-781d4dd94d51@f617.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231226T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231226T074500Z
-SUMMARY:ПЗ Технология изготовления деталей
-UID:a87f5336-5cba-445d-90c4-2b5fa8dd4387@a87f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231009T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231009T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:ea7d0b9c-61df-40d0-a4ec-7af075db52b5@ea7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231204T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231204T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:1b0d0507-7af7-4d03-ad0e-b5ecf88b2996@1b0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231117T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231117T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:4e8d5361-20dd-4adc-8afd-9f432bdc6af4@4e8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20230927T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20230927T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:3fc6e1c6-ea72-415c-a16f-11c73e83132c@3fc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231018T091500Z
-LOCATION:Орш. Б-306
-DTSTART:20231018T074500Z
-SUMMARY:ЛК Основы психологии
-UID:4088b32c-ca90-41f9-8613-e420b6d2152a@4088.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231030T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:28e093bc-8c4b-442c-bfb4-6a70d6602df2@28e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231206T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231206T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:dff034a3-c319-4a3f-ac2b-99e76cf884cf@dff0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20230911T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:c23e2bea-60c9-4149-a4a9-39b727adbac3@c23e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20230904T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:5349c186-8231-4d09-b879-dc12c173740c@5349.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230912T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20230912T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:e241aa0b-caa1-4076-a182-8f3bd5a65bde@e241.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231025T091500Z
-LOCATION:Орш. А-318
-DTSTART:20231025T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:ebae8da6-02fa-4c82-8287-d340cbdf8a31@ebae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231117T150000Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231117T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:54ee90e0-bdb6-4216-9707-07155a74c30c@54ee.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
 DTEND:20231027T131500Z
 LOCATION:Берн. 14-09
 DTSTART:20231027T114500Z
 SUMMARY:ЛР Технология изготовления деталей
-UID:3349667f-622e-482e-8be6-8da579149d4d@3349.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231211T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231211T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:56af9adc-3496-49e2-9abb-a385424e2dac@56af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231110T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231110T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:e301e59a-b727-488d-a49d-c1cc9858524e@e301.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231128T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231128T074500Z
-SUMMARY:ПЗ Технология изготовления деталей
-UID:38b265a6-f434-4d51-bcd7-e18d1f1c48a4@38b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20230922T150000Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20230922T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:099c246b-10d3-41b4-97e3-042f222ebd06@099c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231017T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:d02a9e93-9660-47ee-98dc-588c1f9f532f@d02a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231024T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20231024T133000Z
-SUMMARY:ЛК Двигатели и энергосистемы
-UID:945a5324-b19e-4352-9ba7-6180898a5e3b@945a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231110T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231110T114500Z
-SUMMARY:ЛР Теория пластичности
-UID:7c5bc6fb-07d6-4605-8eaf-10667516201d@7c5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230915T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20230915T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:6c243b8b-8944-4b27-8e4d-181e55200b8e@6c24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20230927T131500Z
-LOCATION:Орш. Б-302
-DTSTART:20230927T114500Z
-SUMMARY:ПЗ Технология композиционных материалов
-UID:373bb86a-19e6-456e-8987-4ecf32e3ab8d@373b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20230913T131500Z
-LOCATION:Орш. Б-302
-DTSTART:20230913T114500Z
-SUMMARY:ПЗ Технология композиционных материалов
-UID:6a6ac8c0-b35d-42cd-951a-e9622fcbcee1@6a6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231219T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231219T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:a5cfcaae-8ef3-4dbb-a9e8-23ea5bd4e57c@a5cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231113T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:b27f234a-a1a8-41fd-ad9d-ecaff1e9d6a2@b27f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20230908T150000Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20230908T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:a9de5b18-5598-4ed2-9b7b-779bf748c58d@a9de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20230926T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20230926T114500Z
-SUMMARY:ЛК Двигатели и энергосистемы
-UID:5210a069-1bf6-4b25-82b9-1aaa93cfb848@5210.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231127T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231127T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:5649a846-1c3f-4f8e-bb87-0603bbe2f81a@5649.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231120T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231120T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:5dd57416-762a-4fe0-89ec-347efc367ef3@5dd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230922T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20230922T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:be82bffa-a155-49be-aa55-ef5ca112dd42@be82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231106T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:8f690e5f-a59d-470a-bacd-655057975ce7@8f69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231129T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231129T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:d853a910-7c74-42d7-8549-4d413c3b323e@d853.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230926T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20230926T074500Z
-SUMMARY:ПЗ Теория пластичности
-UID:afd35a9d-0aa4-4f32-8f1b-3f5d4f5753ec@afd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231031T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:b1225dc2-e93e-48e7-9f1c-fc51c5e9b922@b122.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231117T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231117T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:c7a1533e-904a-4718-88c5-58d6d0a27be1@c7a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20230926T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20230926T133000Z
-SUMMARY:ЛК Двигатели и энергосистемы
-UID:fb77890d-3ff0-45d4-8065-8f0332bb30a6@fb77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230912T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20230912T074500Z
-SUMMARY:ПЗ Теория пластичности
-UID:2d919b5d-db86-4be4-ba85-18f09adc9757@2d91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231115T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:39c9bab9-6c98-4f90-9100-d53339f66a3b@39c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230911T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20230911T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:b91d9c59-084b-49b7-8237-0b4edf555321@b91d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230905T150000Z
-LOCATION:Берн. 14-501
-DTSTART:20230905T133000Z
-SUMMARY:ЛК Информационная поддержка жизненного цикла изделий
-UID:ed36f1e7-02e8-4680-8cb8-350064996adb@ed36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231201T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231201T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:8e280a40-c063-42c9-80e2-cb20dc6b776f@8e28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231124T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231124T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:aaa32438-51c6-4c05-8283-f5f5ad8c4876@aaa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231218T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231218T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:7a2966f8-0a86-49dd-9409-5ee9f8f6cb57@7a29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230918T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:79fadd8d-c0d0-4288-b494-95f4680965b3@79fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231220T131500Z
-LOCATION:Орш. Б-302
-DTSTART:20231220T114500Z
-SUMMARY:ПЗ Технология композиционных материалов
-UID:913009e1-415c-457b-bec7-7e8434298fc6@9130.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231003T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231003T074500Z
-SUMMARY:ПЗ Технология изготовления деталей
-UID:25cd57f6-6fde-4ffd-a41d-178f9c9b3bbf@25cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231107T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20231107T133000Z
-SUMMARY:ПЗ Двигатели и энергосистемы
-UID:4f6a6e5a-7292-4a21-a408-12b6da8c31f2@4f6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231225T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231225T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:291a4cdf-9462-4115-8c8e-1894e8cb8635@291a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231103T131500Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231103T114500Z
-SUMMARY:ЛК Системный анализ
-UID:0bd79f28-d27d-4c37-80a8-aca7275eba1b@0bd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231211T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231211T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:7566600f-a08f-44c7-84c6-6ac90162b60c@7566.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231013T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231013T114500Z
-SUMMARY:ЛР Технология изготовления деталей
-UID:7da0e538-b5a0-4936-90d6-7b9cf29d4eb2@7da0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231030T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:55840d60-7e0e-43b8-bccc-b1dc1aeb9c01@5584.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20230927T091500Z
-LOCATION:Орш. А-318
-DTSTART:20230927T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:ec572ea9-273e-49ee-a386-47a751af54ea@ec57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230904T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:5cfa0451-3d9d-4c75-b178-1abdc08e6fc2@5cfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231206T091500Z
-LOCATION:Орш. А-318
-DTSTART:20231206T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:868f4403-909b-44fe-8e1f-f997dbcf12e4@868f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231218T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231218T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:b7f0bb20-5ae8-498a-ac37-7d901154d14c@b7f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231229T131500Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231229T114500Z
-SUMMARY:ЛК Системный анализ
-UID:b99e74bf-2608-45cc-9776-42b4457533b3@b99e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231211T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231211T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:0465ae87-5060-438f-a06f-f6c493680950@0465.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231113T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:11b5adee-a92f-4f3e-96d2-1f1758eb46ae@11b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231204T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231204T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:e6d7e486-c47b-4e5c-a55c-f751d94c19c3@e6d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231128T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20231128T114500Z
-SUMMARY:ЛР Двигатели и энергосистемы
-UID:4d4e8565-841a-4f8c-a552-bc8ce09bfd72@4d4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231114T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231114T074500Z
-SUMMARY:ПЗ Технология изготовления деталей
-UID:107ad448-9aed-44c8-970e-482ff78e7ecb@107a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231127T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:ef2f6eed-d706-4905-ae33-3831a3a17644@ef2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231215T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231215T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:e52cc05e-73dd-4fda-b95d-3fcab9ba685a@e52c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231027T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231027T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:9a96ec73-81ec-40b7-9149-631e13a46e03@9a96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231013T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231013T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:7b82e069-4af1-4a30-ac41-a892063cc06a@7b82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231117T131500Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231117T114500Z
-SUMMARY:ЛК Системный анализ
-UID:3cab91e6-708c-4050-9514-c4a8eaf58140@3cab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231106T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:d8656bf7-3f7f-4c4e-aba5-c95536dc7fd8@d865.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20230920T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:a969d317-53f6-4b19-ab36-fe0bd3abd0f6@a969.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231106T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231106T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:31cde4fb-cd25-43b5-a1c4-f51a3a9840ef@31cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231220T091500Z
-LOCATION:Орш. А-318
-DTSTART:20231220T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:f9aa10ed-4f73-43ed-9806-8db40bbfae9a@f9aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20230919T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20230919T133000Z
-SUMMARY:ЛК Двигатели и энергосистемы
-UID:7e0ea162-84dd-49d9-b634-b17e0c47902b@7e0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231024T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231024T074500Z
-SUMMARY:ПЗ Теория пластичности
-UID:6e3685b1-2fde-42c9-980e-bac73c3a5933@6e36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231115T091500Z
-LOCATION:Орш. Б-306
-DTSTART:20231115T074500Z
-SUMMARY:ЛК Основы психологии
-UID:33e5a576-4af5-44f5-88c8-e96f4f93303c@33e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231205T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20231205T114500Z
-SUMMARY:ЛР Двигатели и энергосистемы
-UID:3764db7a-aebb-4fba-bb23-61ce05ee8669@3764.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231227T091500Z
-LOCATION:Орш. Б-306
-DTSTART:20231227T074500Z
-SUMMARY:ЛК Основы психологии
-UID:b28ceed1-3806-42c2-bc9b-f05e033a509d@b28c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231106T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:19350ffb-1618-44f5-8302-ae8b84bcefa2@1935.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230912T131500Z
-LOCATION:Берн. 14-501
-DTSTART:20230912T114500Z
-SUMMARY:ЛК Информационная поддержка жизненного цикла изделий
-UID:10be7975-3488-40c6-9353-417dc7fc423b@10be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20230925T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:d20bd33b-bfa9-49b9-a3fe-aad48633cc39@d20b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20230920T091500Z
-LOCATION:Орш. Б-306
-DTSTART:20230920T074500Z
-SUMMARY:ЛК Основы психологии
-UID:417fed26-3d38-437e-9ee5-83a5694bb383@417f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231215T131500Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231215T114500Z
-SUMMARY:ЛК Системный анализ
-UID:e40e1e14-0878-4f36-ad50-25fb68b1ad36@e40e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20230908T131500Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20230908T114500Z
-SUMMARY:ЛК Системный анализ
-UID:23b25032-e23d-444b-9fe6-d794274e04a7@23b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231010T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20231010T114500Z
-SUMMARY:ЛК Двигатели и энергосистемы
-UID:389b14a0-df6a-47f3-a339-0f8358a30e70@389b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231211T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231211T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:4ad4dd60-7ead-43bd-bb20-67ff26bccc4c@4ad4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231018T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231018T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:d6d9a165-003c-4113-8a96-d13f6b244b6a@d6d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231201T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231201T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:0879ca07-abab-4aa7-865a-5e04900c5f9d@0879.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231114T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Двигатели и энергосистемы
-UID:117ceeb8-054a-483a-9903-bba9af7b9d62@117c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20230913T091500Z
-LOCATION:Орш. А-318
-DTSTART:20230913T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:aa29976a-1245-49aa-a1b1-e3e256b596f7@aa29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231006T150000Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231006T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:3efa8da7-3d43-46e9-9ddb-88188a881cdb@3efa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231107T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231107T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:ee865e39-83cc-43f8-b31d-caeae244967a@ee86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230911T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:26a5bf46-5a55-4f37-9261-26f7140d0eb2@26a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231205T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231205T074500Z
-SUMMARY:ПЗ Теория пластичности
-UID:b1381b7a-f033-4eb7-a9f8-d2ccf43ae990@b138.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231108T131500Z
-LOCATION:Орш. Б-302
-DTSTART:20231108T114500Z
-SUMMARY:ПЗ Технология композиционных материалов
-UID:7b852fef-17e0-4049-82c5-3443418145f2@7b85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230904T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:feffe8cf-7c45-4c6b-b465-9f7cac40b89c@feff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231206T131500Z
-LOCATION:Орш. Б-302
-DTSTART:20231206T114500Z
-SUMMARY:ПЗ Технология композиционных материалов
-UID:649b0ef3-2672-4c24-8979-ce2737db33e7@649b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231222T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231222T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:5a0319e9-fc8e-49e2-be62-5f4993e0be07@5a03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230925T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:671367d9-cd99-4f72-9ae8-250b53b581f8@6713.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231208T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231208T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:0361ffee-8fbd-4f65-bc74-972ba0e47fc5@0361.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20230922T131500Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20230922T114500Z
-SUMMARY:ЛК Системный анализ
-UID:cb6acdb7-58a4-4794-8a16-cedd56bb8933@cb6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231103T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231103T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:28f0e727-def7-42cd-a627-666175707661@28f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230925T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:fdce0ea7-31f3-4bab-9f9e-f4e3242edffe@fdce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231205T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231205T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:b3c00d9b-e597-43a1-9e03-e91de3147c1d@b3c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231011T091500Z
-LOCATION:Орш. А-318
-DTSTART:20231011T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:60286a05-4d1c-4d9f-af24-152ba2ebef40@6028.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231227T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231227T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:0886685f-db89-4a0c-ae09-9b1a4ab5a0ad@0886.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231016T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:43b4ebd8-5482-40bc-bd37-608dc043b183@43b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231127T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231127T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:085c751d-f412-4cdc-af7d-3c2ef65a2ad3@085c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230905T131500Z
-LOCATION:Берн. 14-501
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Информационная поддержка жизненного цикла изделий
-UID:708f6031-2ee8-464f-965c-6da074e7a281@708f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231020T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231020T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:28cf476f-e744-4f10-b995-f53ef759bfbc@28cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20230906T091500Z
-LOCATION:Орш. Б-306
-DTSTART:20230906T074500Z
-SUMMARY:ЛК Основы психологии
-UID:7de0b570-068c-4208-bae8-e0874689d9f1@7de0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230918T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:64f0fd0f-9996-4c1e-870f-dc6b0d7bb00c@64f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231023T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231023T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:8b91df17-2e8d-44a4-8128-396bce9c081d@8b91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231002T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:40823dd7-ef4e-4941-b343-8ad459133442@4082.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231212T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20231212T114500Z
-SUMMARY:ЛР Двигатели и энергосистемы
-UID:72fb0fff-2be9-47f1-bf30-ad9da392bdb9@72fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231006T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231006T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:d0a442ac-08bf-4e44-919e-115c61933692@d0a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231010T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231010T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:5edddce4-ae2c-49dc-b9c9-12b7692966c4@5edd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231129T091500Z
-LOCATION:Орш. Б-306
-DTSTART:20231129T074500Z
-SUMMARY:ЛК Основы психологии
-UID:4dd2242f-c3c9-4894-8923-2d69fa5593f2@4dd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231003T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:03a5ab3f-3a49-4e21-8fe0-3126618a9e46@03a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231017T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Двигатели и энергосистемы
-UID:6919a1ee-555c-4f41-8f59-c4ba4684de76@6919.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231020T150000Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231020T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:138c78ec-053c-4bfa-b8ff-f8d9a32040ce@138c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230904T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:981c467b-9b58-4fa6-8ef2-75c88fca5f2d@981c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231218T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231218T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:051c5388-8130-484a-a455-43325e4df5d6@051c.org
+UID:e1258784-d22d-40a7-a763-d451be89cabc@e125.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
@@ -1151,495 +15,15 @@ DTEND:20231219T091500Z
 LOCATION:Берн. 14-09
 DTSTART:20231219T074500Z
 SUMMARY:ПЗ Теория пластичности
-UID:9d57ab73-1961-43d1-ad57-29380255573f@9d57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231212T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231212T074500Z
-SUMMARY:ПЗ Технология изготовления деталей
-UID:df431376-7c25-4064-aa97-fda20c2a2de2@df43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231006T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231006T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:31495ec3-a705-44f7-8e2d-68029e1a2918@3149.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20230918T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:9a415b9a-0b1c-4bb2-b70f-a8d7eaaa0117@9a41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231017T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231017T074500Z
-SUMMARY:ПЗ Технология изготовления деталей
-UID:bb2905ae-2e8a-4a76-89a5-9a8d470dd91d@bb29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231222T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231222T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:e0f352d5-99d1-4e39-a102-25db3e1653f5@e0f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230922T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20230922T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:518e79ca-7cd5-4cc1-aafd-3a8414a14f0f@518e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231031T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231031T074500Z
-SUMMARY:ПЗ Технология изготовления деталей
-UID:641b259f-2fa9-468f-8cfd-dbbf32afe811@641b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231110T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231110T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:5a4e8c5b-6cc9-40d1-a52d-0bcb8a97c1ee@5a4e.org
+UID:0679d8e2-de34-4658-b143-7b2f7ee2597f@0679.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231024T113000Z
+DTEND:20231204T131500Z
 LOCATION:Берн. 14-09
-DTSTART:20231024T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:2e960528-8069-4c7e-8aef-db5b5fbde2d2@2e96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231120T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:237627fe-0b91-4086-82ac-1d5c027aab87@2376.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20230906T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:fc308355-1a31-4b91-a82d-386f037bd923@fc30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231229T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231229T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:1103c6c6-d57e-4530-9524-7644d2521464@1103.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231212T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231212T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:e3e1de74-1e39-4b2c-a0e3-9b20fc5c7e3a@e3e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230925T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20230925T114500Z
+DTSTART:20231204T114500Z
 SUMMARY:ЛК Основы технологии производства ЛА
-UID:269f6e1f-7091-4f25-b4ed-482425939dc4@269f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231003T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20231003T114500Z
-SUMMARY:ЛК Двигатели и энергосистемы
-UID:61b1a6e4-7fd1-4504-b7fa-f1e33f38d992@61b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231016T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:d8494ebc-c23b-48e4-91d2-ae3cd2fd1baa@d849.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231122T131500Z
-LOCATION:Орш. Б-302
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Технология композиционных материалов
-UID:bd0913f2-6318-42de-a49e-00c0c7bb7a9f@bd09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231011T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:88a60389-7ade-4cbc-bb56-476db05da5e5@88a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231215T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231215T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:da65f4d8-8b23-49ff-9f02-90e7bffc2438@da65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231030T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:ae1d84eb-2111-489c-9e36-508f4358030a@ae1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231025T131500Z
-LOCATION:Орш. Б-302
-DTSTART:20231025T114500Z
-SUMMARY:ПЗ Технология композиционных материалов
-UID:f166658b-a78e-423c-aa2c-8e3d066328af@f166.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231103T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231103T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:b45481d1-0132-4777-873e-cf9bca8c7c2b@b454.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231114T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231114T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:4b135b4a-f84a-4774-ab74-2edcfd780b24@4b13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20230913T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:9c4eddfc-99c4-4584-a8cb-11af5f571bdb@9c4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231009T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:33aee2fc-9416-4cc2-9cec-631f5bbb12a6@33ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230929T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20230929T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:471510e7-20de-4b35-ae7a-d900ddeaa1db@4715.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231127T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:a9120d52-ff2b-420e-96fb-3421c877ae83@a912.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231201T131500Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231201T114500Z
-SUMMARY:ЛК Системный анализ
-UID:860df2bb-4914-420f-8133-8aa0990f3a78@860d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231010T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231010T074500Z
-SUMMARY:ПЗ Теория пластичности
-UID:6853f2bc-8348-4cbd-9d32-cdf96ff442b5@6853.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231023T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:b35eebeb-98b8-4ec4-8c44-ae69ef4966fe@b35e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231002T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:027f0d77-7266-4b9d-b81c-528d566d49c4@027f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231225T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231225T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:d58dc81c-6acc-43db-92c0-14ac7343c847@d58d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230929T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20230929T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:e56874f4-8bb5-4a84-99e6-269000262bd5@e568.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231213T091500Z
-LOCATION:Орш. Б-306
-DTSTART:20231213T074500Z
-SUMMARY:ЛК Основы психологии
-UID:0ae0d1a4-6b68-4162-a690-20d9f2b56b70@0ae0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231011T131500Z
-LOCATION:Орш. Б-302
-DTSTART:20231011T114500Z
-SUMMARY:ПЗ Технология композиционных материалов
-UID:683ee8e5-c178-40e4-8fa3-6ef0eaa91920@683e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231124T091500Z
-LOCATION:Берн. 14-501
-DTSTART:20231124T074500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:1277153c-02f6-4d0e-a2f5-9ab000b421e9@1277.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231016T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:6043aab3-d5eb-4f00-8d29-6c1cbfd34c14@6043.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20230905T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20230905T074500Z
-SUMMARY:ПЗ Технология изготовления деталей
-UID:ea1e1539-08a9-452f-9199-f6a6a544cdf2@ea1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231006T131500Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231006T114500Z
-SUMMARY:ЛК Системный анализ
-UID:bf9590d7-d02d-428e-b45d-8d05c0d6903a@bf95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231208T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20231208T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:4f32f496-faf0-4fa9-8d8e-013d970cef72@4f32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231107T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20231107T114500Z
-SUMMARY:ПЗ Двигатели и энергосистемы
-UID:6abcdad0-2aa2-4170-b4c6-0718d7712f0a@6abc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231220T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231220T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:9cc4085d-cc27-458d-8ccf-94c2f3eb8404@9cc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230918T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:5345705b-84f7-4e92-97ef-3cbec3907248@5345.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231120T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:326c10a9-83e2-42dc-b051-6ddca3f57640@326c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231229T150000Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231229T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:9bb60cfe-a272-403d-9de8-04f09dc5668a@9bb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231020T131500Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231020T114500Z
-SUMMARY:ЛК Системный анализ
-UID:7b933cbd-7ad5-4177-b3a5-70971659a28a@7b93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231023T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:1f26811f-9779-4d40-b7dc-661c61ac8b9c@1f26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231031T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20231031T114500Z
-SUMMARY:ПЗ Двигатели и энергосистемы
-UID:877f45c4-796b-4612-81e0-58d2d04a3bcd@877f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231101T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:ffdaee92-fc7a-441f-a2fc-415bdc1ca216@ffda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231107T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231107T074500Z
-SUMMARY:ПЗ Теория пластичности
-UID:1cb74005-d917-4b7e-b65e-fb40818cdbb2@1cb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231201T150000Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231201T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:f887dcc7-f8f5-43cd-83be-00e33b7e1cb7@f887.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231204T164500Z
-LOCATION:Берн. 14-09
-DTSTART:20231204T151500Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:9880dd26-5839-47bc-a5fb-0ba1b226e880@9880.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231003T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20231003T133000Z
-SUMMARY:ЛК Двигатели и энергосистемы
-UID:dc07c86a-5fbc-43b9-96c1-b14862ef884d@dc07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231009T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:74faa3eb-ed8b-448f-a8f7-e22b4c90cd41@74fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231108T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:2f300418-5872-47c4-8f47-3806ecc5b289@2f30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231204T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231204T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:67cdcb1e-9106-43fa-9944-b97315c70f38@67cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231121T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20231121T114500Z
-SUMMARY:ЛР Двигатели и энергосистемы
-UID:ce001194-7824-4daa-af3d-d060aa68bdd6@ce00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Илюхина Светлана Сергеевна
-DTEND:20231215T150000Z
-LOCATION:Берн. 14-ИЛА 12
-DTSTART:20231215T133000Z
-SUMMARY:ПЗ Системный анализ
-UID:b1637f91-d8a2-46a0-b3ca-6f06f5f982aa@b163.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20230926T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20230926T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:71cf79cd-1a1d-47f8-9ddb-f14908b4b5c4@71cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231121T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231121T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:f141d046-1a4a-4827-be72-89f053327b03@f141.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231205T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20231205T133000Z
-SUMMARY:ЛР Двигатели и энергосистемы
-UID:070ffe91-ff3f-401d-8225-840817547fe1@070f.org
+UID:37041dc6-9a10-4f55-99f4-1bf32d57cc99@3704.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
@@ -1647,111 +31,79 @@ DTEND:20231017T150000Z
 LOCATION:Берн. 14-223
 DTSTART:20231017T133000Z
 SUMMARY:ЛК Двигатели и энергосистемы
-UID:d9601d8e-94a9-4c3f-ab0b-e11aae654132@d960.org
+UID:fe109405-5015-487e-b231-c45923931579@fe10.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231113T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:b139642b-0a37-4a43-a4cd-6251edb5de28@b139.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231013T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231013T133000Z
-SUMMARY:ЛР Технология изготовления деталей
-UID:91e4005a-cb8e-4d4a-a7a4-67a87ceb0bec@91e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231121T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20231121T074500Z
-SUMMARY:ПЗ Теория пластичности
-UID:72b53a12-2bf3-45a2-acaa-ed802e9e1942@72b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230915T113000Z
-LOCATION:Берн. 14-501
-DTSTART:20230915T100000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:f9dfb407-1f71-4828-ab42-8c3d0ce4fcc8@f9df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20230919T091500Z
-LOCATION:Берн. 14-09
-DTSTART:20230919T074500Z
-SUMMARY:ПЗ Технология изготовления деталей
-UID:f9198ed0-62d4-4ef3-953d-559779e1dbd4@f919.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231004T091500Z
-LOCATION:Орш. Б-306
-DTSTART:20231004T074500Z
-SUMMARY:ЛК Основы психологии
-UID:b2e494bf-f572-4209-b7d2-b0c92a0b0331@b2e4.org
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231129T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231129T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:4ea6b55f-d477-4de2-9fdd-e8a886e42e02@4ea6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231108T091500Z
+DTEND:20231025T091500Z
 LOCATION:Орш. А-318
-DTSTART:20231108T074500Z
+DTSTART:20231025T074500Z
 SUMMARY:ПЗ Основы психологии
-UID:daaa2e47-8c03-4e4b-b7e5-dfa37cc11435@daaa.org
+UID:47a3c1f8-2c1b-4375-8cc5-d2e775030824@47a3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231110T150000Z
+DTEND:20230911T131500Z
 LOCATION:Берн. 14-09
-DTSTART:20231110T133000Z
-SUMMARY:ЛР Теория пластичности
-UID:52bdcc8b-42b3-4d2c-8139-ec9e9c22f2a9@52bd.org
+DTSTART:20230911T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:6303d348-12ae-4f31-8e83-286519b04903@6303.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231031T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Двигатели и энергосистемы
-UID:8681b1e5-ce2d-4ece-9ec3-d5a5242f065a@8681.org
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231218T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231218T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:34bcbfa4-f2ea-46ff-99d2-1813215242af@34bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231006T150000Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231006T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:36748180-8890-4c56-b121-e22d2f1ec3d2@3674.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230926T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20230926T074500Z
+SUMMARY:ПЗ Теория пластичности
+UID:4fb1f4d3-8f0c-4a6d-b7ea-b0b7b880bbe2@4fb1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231101T091500Z
+DTEND:20231129T091500Z
 LOCATION:Орш. Б-306
-DTSTART:20231101T074500Z
+DTSTART:20231129T074500Z
 SUMMARY:ЛК Основы психологии
-UID:d9f0e9d3-27b3-4da4-ac14-d2c6b3454032@d9f0.org
+UID:120509b3-5a85-46d1-8061-3e35cf3c8ec6@1205.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231120T150000Z
+DTEND:20231205T091500Z
 LOCATION:Берн. 14-09
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Основы технологии производства ЛА
-UID:425571c9-9907-4305-8594-ae4016ec9578@4255.org
+DTSTART:20231205T074500Z
+SUMMARY:ПЗ Теория пластичности
+UID:250d20ad-9fe0-457b-959f-3515e57ae6ab@250d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20230919T131500Z
-LOCATION:Берн. 14-223
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Двигатели и энергосистемы
-UID:ffd6ff99-2d63-4440-894b-e47fa5be7d85@ffd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231121T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20231121T133000Z
-SUMMARY:ЛР Двигатели и энергосистемы
-UID:0ba0244f-bae8-4740-862a-3cbb4a5d1c46@0ba0.org
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231229T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231229T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:72832fa2-0739-4e06-a179-19f8d36518f8@7283.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
@@ -1759,71 +111,7 @@ DTEND:20230905T113000Z
 LOCATION:Берн. 14-09
 DTSTART:20230905T100000Z
 SUMMARY:ЛК Теория пластичности
-UID:331e10c9-2204-4b6f-b48e-88084f87e172@331e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231027T150000Z
-LOCATION:Берн. 14-09
-DTSTART:20231027T133000Z
-SUMMARY:ЛР Технология изготовления деталей
-UID:deca8d31-4f89-4253-a5b9-8b368ed0c7d5@deca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231025T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:6716cd81-5075-4ee0-bdb4-253174df42cc@6716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
-DTEND:20231122T113000Z
-LOCATION:Орш. Б-302
-DTSTART:20231122T100000Z
-SUMMARY:ЛК Технология композиционных материалов
-UID:58d9d863-9526-4440-9fd2-e7f62d8e8d36@58d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231225T131500Z
-LOCATION:Берн. 14-09
-DTSTART:20231225T114500Z
-SUMMARY:ЛК Основы технологии производства ЛА
-UID:3af26dca-d8b5-4e8e-8ea1-8af4d17407d1@3af2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
-DTEND:20231128T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231128T100000Z
-SUMMARY:ЛК Теория пластичности
-UID:649d705a-4e1b-4d0e-a597-e5e8582b4f38@649d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысаков Николай Дмитриевич
-DTEND:20231122T091500Z
-LOCATION:Орш. А-318
-DTSTART:20231122T074500Z
-SUMMARY:ПЗ Основы психологии
-UID:4988a8bc-7aa8-4552-afef-9a5fdc038b9e@4988.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
-DTEND:20231030T113000Z
-LOCATION:Берн. 14-09
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Технология изготовления деталей
-UID:320323c1-3f28-4cab-a4c3-6c4adf53d700@3203.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
-DTEND:20231128T150000Z
-LOCATION:Берн. 14-223
-DTSTART:20231128T133000Z
-SUMMARY:ЛР Двигатели и энергосистемы
-UID:35622bb6-1c7d-4686-b090-88317990c949@3562.org
+UID:76cc013b-e497-4163-9709-ee0ba50dc50e@76cc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
@@ -1831,6 +119,1718 @@ DTEND:20231013T113000Z
 LOCATION:Берн. 14-501
 DTSTART:20231013T100000Z
 SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
-UID:bb4698af-9bba-4650-a1c9-4f858a51c1fe@bb46.org
+UID:39bf8c8c-f0eb-4c17-a447-cf18a07cb014@39bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231201T150000Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231201T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:2101fa58-7f8b-499b-a792-31919eaaaee8@2101.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231122T091500Z
+LOCATION:Орш. А-318
+DTSTART:20231122T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:74d5ce16-ea47-444e-bdb2-99d4c244b58e@74d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231113T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:60f0bbb3-483e-4bbc-af23-489485969db3@60f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231225T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231225T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:0429855b-fafb-4351-ae3e-5d2d2a97594b@0429.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20230906T091500Z
+LOCATION:Орш. Б-306
+DTSTART:20230906T074500Z
+SUMMARY:ЛК Основы психологии
+UID:7c26f609-bc3a-4097-ab51-01c0b8dc3802@7c26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20230919T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20230919T074500Z
+SUMMARY:ПЗ Технология изготовления деталей
+UID:eb114380-6b79-48b0-b882-8e017a242602@eb11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20230922T150000Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20230922T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:cf5501f8-c3cc-46fe-aed3-32e90045564e@cf55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231031T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20231031T074500Z
+SUMMARY:ПЗ Технология изготовления деталей
+UID:ccbae9cf-1a1e-4672-8970-9d563bc21a56@ccba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231124T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231124T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:70bd48bc-739f-4dff-9293-3fe70d80d9af@70bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231121T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ Теория пластичности
+UID:dc12557b-9d30-429d-83aa-0494b03c2f86@dc12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231127T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231127T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:4fc91b15-4f30-4a9f-9100-1cb024b4dafd@4fc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231101T091500Z
+LOCATION:Орш. Б-306
+DTSTART:20231101T074500Z
+SUMMARY:ЛК Основы психологии
+UID:bf4e600c-4359-4bb5-b1b2-13c2e0e01d6d@bf4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231103T131500Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231103T114500Z
+SUMMARY:ЛК Системный анализ
+UID:c03921fd-050e-4184-a5e1-bd98f0cd4d05@c039.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230926T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20230926T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:12cd43a9-3f14-4326-90eb-f378b7b2269f@12cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231025T131500Z
+LOCATION:Орш. Б-302
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Технология композиционных материалов
+UID:2386d70b-6074-43d7-b844-99869095f682@2386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231003T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20231003T133000Z
+SUMMARY:ЛК Двигатели и энергосистемы
+UID:926b9ba5-ff39-4128-b079-fbe6fafe7ee6@926b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231212T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20231212T114500Z
+SUMMARY:ЛР Двигатели и энергосистемы
+UID:0ffd8903-3acb-4116-b893-7c106d057fd5@0ffd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230915T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20230915T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:74147d14-9123-475f-8f64-27e6d5df4381@7414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231215T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231215T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:9b6c541d-f214-48fe-a19e-372107b46a8d@9b6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231225T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231225T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:904bd08c-19c1-45a4-aeaa-2b84809a1dbb@904b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230912T131500Z
+LOCATION:Берн. 14-501
+DTSTART:20230912T114500Z
+SUMMARY:ЛК Информационная поддержка жизненного цикла изделий
+UID:76bad9b0-bab2-4055-998d-5051ba9670f9@76ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231020T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231020T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:6e9acf31-5b24-4937-94d9-791feb24eb19@6e9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231205T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20231205T114500Z
+SUMMARY:ЛР Двигатели и энергосистемы
+UID:f07a70db-9634-44fa-9ab1-96bd4a991e5c@f07a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231010T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20231010T074500Z
+SUMMARY:ПЗ Теория пластичности
+UID:a9dee62f-3939-4888-8cc5-42c265aeaba0@a9de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231107T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20231107T074500Z
+SUMMARY:ПЗ Теория пластичности
+UID:4e657f00-9a3b-4e09-9ced-740fafa809d5@4e65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20230905T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20230905T074500Z
+SUMMARY:ПЗ Технология изготовления деталей
+UID:0d8a693e-3cbd-402c-92e4-be7bf857258c@0d8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231211T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231211T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:dd3a7552-0b5d-4450-af69-0a6688beaf8f@dd3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230925T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:6d0613ff-2bc3-4bb8-ae04-c768b7d92b08@6d06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231011T091500Z
+LOCATION:Орш. А-318
+DTSTART:20231011T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:65341151-cecf-4941-b1a2-12ec4d1c99cf@6534.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231110T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231110T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:3f0ca589-e4d9-4cce-8f25-3cae1c702c52@3f0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231027T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231027T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:14440a9c-256f-45df-9e9a-b05af81859db@1444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231110T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231110T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:9f1212b2-32a1-4fb8-8183-0be6ab028164@9f12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231121T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20231121T114500Z
+SUMMARY:ЛР Двигатели и энергосистемы
+UID:c6f2f4e2-01b2-4897-a927-0ce22cd142e5@c6f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231115T091500Z
+LOCATION:Орш. Б-306
+DTSTART:20231115T074500Z
+SUMMARY:ЛК Основы психологии
+UID:56401297-f34d-479b-90ae-3af1989346b8@5640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231127T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231127T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:18f1f133-9d45-4191-ae6e-d956b76c888e@18f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231220T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231220T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:8688c387-cbd1-4b7b-a875-d3f78e41ed7d@8688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231208T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231208T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:739e7274-6069-4ada-9a41-ff29366901c5@739e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231114T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20231114T114500Z
+SUMMARY:ПЗ Двигатели и энергосистемы
+UID:ab8ade0f-ca57-490e-82ea-decddb8e5a4a@ab8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230915T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20230915T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:b10e579d-d877-4899-b17f-e2a39c76d8d5@b10e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20230920T091500Z
+LOCATION:Орш. Б-306
+DTSTART:20230920T074500Z
+SUMMARY:ЛК Основы психологии
+UID:c0c881b4-fb8c-498b-b63f-8ad79ae175d4@c0c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231006T131500Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231006T114500Z
+SUMMARY:ЛК Системный анализ
+UID:fa78900a-b224-449a-a1fd-717433a6f4a3@fa78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231212T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20231212T074500Z
+SUMMARY:ПЗ Технология изготовления деталей
+UID:690cda00-45a4-4c62-82d5-ff25406fbf92@690c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231226T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20231226T074500Z
+SUMMARY:ПЗ Технология изготовления деталей
+UID:57333b6a-edff-44b1-8595-068d09c9a5d7@5733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20230919T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20230919T133000Z
+SUMMARY:ЛК Двигатели и энергосистемы
+UID:cce142d1-7e03-44c7-8be7-d1bbae423d6c@cce1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231107T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20231107T114500Z
+SUMMARY:ПЗ Двигатели и энергосистемы
+UID:72bd8177-ee26-4604-a477-5ddfd99437ce@72bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231108T131500Z
+LOCATION:Орш. Б-302
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Технология композиционных материалов
+UID:999685dc-1094-48d8-9092-8e165bd26b11@9996.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231121T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20231121T133000Z
+SUMMARY:ЛР Двигатели и энергосистемы
+UID:6c3ba2eb-2284-4b75-a239-b8f1e2655754@6c3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231222T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231222T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:35346b5b-8534-4ba6-96fc-e5a8afd5aac2@3534.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20230918T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:a681a394-d343-45f6-9325-eda8d687d7f0@a681.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231127T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:50121389-4858-4be0-97e8-e509a4247101@5012.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231011T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:85e0984a-258b-43fe-865c-24277ca93124@85e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230905T131500Z
+LOCATION:Берн. 14-501
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Информационная поддержка жизненного цикла изделий
+UID:4149e6e9-966f-45f3-adf7-e0d20e97e68f@4149.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231124T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231124T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:4355f187-5eb5-429f-9203-879c96e3d79e@4355.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231205T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20231205T133000Z
+SUMMARY:ЛР Двигатели и энергосистемы
+UID:8a210bba-4a68-42a1-9ffa-f07b15d54f28@8a21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230918T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:dc0df699-0c19-4f52-befe-c8d01645d26c@dc0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231009T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:8e555449-6239-409c-9e45-bd970420753b@8e55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230919T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:9cc3ec48-05f0-47a4-967d-eb3a77876717@9cc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231017T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:dfc67306-108c-428e-a796-8d3fd2f3db3a@dfc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231002T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:5f6b3cab-4acb-4190-bb1a-33990d7399d0@5f6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230922T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20230922T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:8276e3c0-7e26-4fa7-ab85-958cd338d8bd@8276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231013T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231013T133000Z
+SUMMARY:ЛР Технология изготовления деталей
+UID:49f3b75f-9c87-4208-89bf-7b19369962ab@49f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231206T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231206T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:3372c538-6968-4564-816d-d090644e3906@3372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231206T131500Z
+LOCATION:Орш. Б-302
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Технология композиционных материалов
+UID:0618e1bb-9151-4610-a0f9-57b3a60aa665@0618.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230929T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20230929T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:0e785339-9dd3-4962-bcb2-6a72ce0b8fb6@0e78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20230926T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20230926T133000Z
+SUMMARY:ЛК Двигатели и энергосистемы
+UID:26eaa71e-6dea-471a-b4c8-3f73e8ee787d@26ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231120T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:ae799cc6-391a-4033-9677-0791abb0d159@ae79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231023T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231023T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:e82e97f1-a483-476f-97aa-b1e501d84c1d@e82e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230904T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:ee7203f7-f35b-4ea6-80f0-8b7df5aa378b@ee72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231024T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20231024T133000Z
+SUMMARY:ЛК Двигатели и энергосистемы
+UID:d0a78530-01f8-4bef-9db0-b9f2f8e489aa@d0a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231205T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231205T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:e35a65f9-3d14-440f-aa48-1f44d77b2172@e35a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231208T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231208T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:ce8fce1b-18e7-4858-98a3-cd11f6938660@ce8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231114T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Двигатели и энергосистемы
+UID:c323808d-e8bb-4d29-80a4-82ec201f2294@c323.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231220T131500Z
+LOCATION:Орш. Б-302
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Технология композиционных материалов
+UID:2762bd2a-9fb7-4bfd-9119-00324b70ee20@2762.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231117T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231117T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:bc162931-05e0-4585-af78-df440a03df80@bc16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20230927T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:2cb7b8fa-da9a-4f65-9f5a-bf909a3b07a8@2cb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231018T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231018T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:39707d5b-bb77-4264-965a-108fb2acd598@3970.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231206T091500Z
+LOCATION:Орш. А-318
+DTSTART:20231206T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:0d1fb5a1-5c03-4868-bcc4-11af5e624a6e@0d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20230913T131500Z
+LOCATION:Орш. Б-302
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Технология композиционных материалов
+UID:a64492e3-4815-4963-bce6-2d78b8b5b5ba@a644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231227T091500Z
+LOCATION:Орш. Б-306
+DTSTART:20231227T074500Z
+SUMMARY:ЛК Основы психологии
+UID:1e7a05a1-1fd1-4c03-8c22-a6e7910e5808@1e7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231003T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20231003T074500Z
+SUMMARY:ПЗ Технология изготовления деталей
+UID:5362a88f-5b64-437a-b4a1-e67fde5f8c05@5362.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231218T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231218T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:28592e9b-7c90-4da8-a3ed-4f2efa7cf18c@2859.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20230906T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:48a61f87-78ac-465d-bb82-a00ebbaec8c7@48a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231122T131500Z
+LOCATION:Орш. Б-302
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Технология композиционных материалов
+UID:2cb5a151-49b0-4b1b-aa7e-bca89c374cd1@2cb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230912T150000Z
+LOCATION:Берн. 14-501
+DTSTART:20230912T133000Z
+SUMMARY:ЛК Информационная поддержка жизненного цикла изделий
+UID:8f19a9de-e0a1-49d1-8193-3e576ce3838f@8f19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230918T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:1889d97a-b446-4752-8277-6fb51ce2336e@1889.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231023T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:bcd6ea5c-f335-4d69-878d-569c3cce7082@bcd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231219T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231219T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:e85f13f9-ccaf-4ad4-b821-4567a31b134a@e85f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231025T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:9d225fc3-1cd1-4044-bd05-8752ed788ab9@9d22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231016T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:c2f8a184-a13b-4f16-8b2e-d2e3d67ae016@c2f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231020T150000Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231020T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:d4e1e508-6f5b-4a84-958b-67e44c7bd309@d4e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230911T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:24d27eba-b70e-4f4b-889a-d4bdae03f3f1@24d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20230908T150000Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20230908T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:00b89ab7-4a91-4c0e-bf81-e02d32dd687f@00b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231211T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231211T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:fba0c0a6-2c87-4736-aaa2-a985eb845a8a@fba0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20230922T131500Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20230922T114500Z
+SUMMARY:ЛК Системный анализ
+UID:a37905d9-bb8b-4f67-b420-b0333413e97e@a379.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231020T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231020T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:f451e2d7-528e-4db7-9204-4021f41b339c@f451.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231113T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:14b0d59b-1964-4c50-ae39-b2c7acaf74d9@14b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231225T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231225T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:2d4d3756-1528-41ac-a418-f37929aaee07@2d4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231218T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231218T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:287cbb0b-996f-492d-9b19-a16a7df6aabc@287c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20230911T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:d64e9c4f-106f-4bc1-b699-a751635f55e7@d64e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20230919T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Двигатели и энергосистемы
+UID:2bde0932-3928-4b34-b10d-08decbe965b6@2bde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231115T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:ff9a85fa-71d3-430a-b70e-7bd89657e65f@ff9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231016T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:ee6d9ad9-2162-4d20-84ce-0e25b4efab88@ee6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20230908T131500Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20230908T114500Z
+SUMMARY:ЛК Системный анализ
+UID:e5d947a9-80ca-482a-9751-4303fb27c1bd@e5d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231031T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:6264dfa5-881a-4707-b541-0e722a25d811@6264.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231127T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:8e9b2b27-c9db-48bc-bf8a-a7771905f2af@8e9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231009T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231009T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:1b8fb7ee-7a3e-47c0-b632-ce0a2807f7f7@1b8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231122T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231122T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:f4d4ae2e-66a4-47bf-ab0f-5e5468af9954@f4d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231006T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231006T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:4796af00-fa72-439c-8562-1bb52ebe3a80@4796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231106T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:01b89113-cadf-41b4-a7d2-f03035b26dbf@01b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231120T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:fef5b02a-8a8e-490f-a658-43ca25d69729@fef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231117T131500Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231117T114500Z
+SUMMARY:ЛК Системный анализ
+UID:dfeca10e-22f0-4225-a656-9e3f51c3859b@dfec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231212T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20231212T133000Z
+SUMMARY:ЛР Двигатели и энергосистемы
+UID:8c9e67dd-5385-4f81-8675-cb856f43534a@8c9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231106T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:e9a92367-b157-434c-b974-97b0fef0fcd9@e9a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20230925T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:a3369f7c-e793-4c49-bca8-2de74970f9f9@a336.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231031T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20231031T114500Z
+SUMMARY:ПЗ Двигатели и энергосистемы
+UID:b689c3a5-9dfe-4a2b-bd3d-fdf36ce7041a@b689.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231110T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231110T133000Z
+SUMMARY:ЛР Теория пластичности
+UID:495ca91f-289a-47b8-80fd-9e0483beac24@495c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231215T131500Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231215T114500Z
+SUMMARY:ЛК Системный анализ
+UID:3d6cd63a-4e6f-4290-b868-b33d68ff7b78@3d6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20230904T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:61bdd531-1c61-47c6-b027-558c6b71f49f@61bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230925T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20230925T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:12806dde-0c3f-4f9c-aee4-1f12ba5b16f8@1280.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20230927T091500Z
+LOCATION:Орш. А-318
+DTSTART:20230927T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:a8e6bf7c-f8bf-462d-9c5a-804c394bfae2@a8e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231215T150000Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231215T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:9af9ca33-efaa-4de3-90be-236e08572ea5@9af9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231024T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20231024T114500Z
+SUMMARY:ЛК Двигатели и энергосистемы
+UID:1c57917d-fae5-4025-9592-d4b88d418c70@1c57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231030T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:051db763-34c5-4980-a0c0-9e9310f39afa@051d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231215T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231215T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:500efbcd-ce91-46fb-a857-7b1d583d391b@500e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231024T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231024T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:56b87ba9-7748-4c9c-9d81-9d05d67d74ce@56b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231016T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:41192de6-64f8-423a-8204-6e3ec790e214@4119.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230929T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20230929T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:9c4c94f1-3025-4dda-9fa8-6427fb12f6d2@9c4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231031T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Двигатели и энергосистемы
+UID:d79633d0-af89-4460-9cce-b79854de5e74@d796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231002T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:ba0ab798-e4ad-4a47-bc77-8938eaa56128@ba0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231013T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231013T114500Z
+SUMMARY:ЛР Технология изготовления деталей
+UID:b08fa0d8-37e1-45f9-9281-90d6ffb42160@b08f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231212T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231212T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:ee55e170-3742-4b08-862f-e64cb77918c5@ee55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230925T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:df1baef0-193c-4fa4-afdb-49a95a7932fa@df1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231110T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231110T114500Z
+SUMMARY:ЛР Теория пластичности
+UID:d19d6040-7460-4d30-8d98-295acbecc307@d19d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231011T131500Z
+LOCATION:Орш. Б-302
+DTSTART:20231011T114500Z
+SUMMARY:ПЗ Технология композиционных материалов
+UID:382ad412-f0f9-4fe0-ac64-f463bb43467e@382a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231222T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231222T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:55dc1dfb-174c-428e-8e33-75d01319e170@55dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231103T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231103T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:9355d72a-da6d-45f4-a408-0e76c5b9a7d4@9355.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231117T150000Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231117T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:be7ac0c4-ffe0-4e57-ba7a-d4cb8d55528f@be7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231204T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231204T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:3209ed8d-be6e-4add-9737-bfbbc49372b4@3209.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231225T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231225T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:2bf10eba-30be-49af-b386-448974bed40f@2bf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20230926T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20230926T114500Z
+SUMMARY:ЛК Двигатели и энергосистемы
+UID:7c2694fe-dec7-4966-b581-b0b4c78f1925@7c26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231027T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231027T133000Z
+SUMMARY:ЛР Технология изготовления деталей
+UID:8b6a0faa-60ec-4be6-a478-2feefb8f0f31@8b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230912T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20230912T074500Z
+SUMMARY:ПЗ Теория пластичности
+UID:d546259e-bca0-476e-9f19-374515c9ef27@d546.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231218T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231218T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:767d27a0-37de-4371-914a-d3e3b4f64197@767d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231002T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:d4f9348d-5b36-440e-94cf-5e5628205f09@d4f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231120T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231120T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:8d4ead34-8afe-4d91-95d8-3135844490d1@8d4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231229T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231229T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:bade826a-7ac2-4e82-989e-a4d241fa8070@bade.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231121T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231121T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:4d66bc8f-0f7b-4bac-9461-6fc86d8deaeb@4d66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231220T091500Z
+LOCATION:Орш. А-318
+DTSTART:20231220T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:0d5c62a1-5c4a-4eb2-9837-0169bc7a81a0@0d5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231010T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20231010T114500Z
+SUMMARY:ЛК Двигатели и энергосистемы
+UID:3b924c81-b53b-4f41-bb85-6409f8f6c901@3b92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20230920T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20230920T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:75d01f00-afa8-4242-8e6d-8c37454f8c59@75d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231113T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:942aca7f-4044-45a5-b199-f7d7d37844e1@942a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231229T131500Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231229T114500Z
+SUMMARY:ЛК Системный анализ
+UID:ac4e9b9f-cfdb-4e34-95d9-b2de43ff434a@ac4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231106T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:d5e7b65d-8895-4c5d-8b5f-4a32eadca80d@d5e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231128T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20231128T074500Z
+SUMMARY:ПЗ Технология изготовления деталей
+UID:985e4b49-0064-40c0-b05f-c92d8304cb9f@985e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231030T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:9d3e8929-5a25-4a1b-825c-aeff0e837597@9d3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231004T091500Z
+LOCATION:Орш. Б-306
+DTSTART:20231004T074500Z
+SUMMARY:ЛК Основы психологии
+UID:96c98ad7-bb99-4ae3-9d76-35a833abc3a6@96c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231229T150000Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231229T133000Z
+SUMMARY:ПЗ Системный анализ
+UID:dcc2f4f8-ca44-4c40-968e-f9803808172d@dcc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231016T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:10839ae2-0b6f-416d-8cea-5baeafbe6de6@1083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231023T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:4d12b69d-2f23-4155-82b5-e272ba1819d2@4d12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231128T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20231128T114500Z
+SUMMARY:ЛР Двигатели и энергосистемы
+UID:872f4c0a-01ed-4a1d-b0da-3e86e3aaee35@872f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20230913T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:d5e7d921-6a8e-49eb-b595-498e36ce38f4@d5e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231017T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20231017T074500Z
+SUMMARY:ПЗ Технология изготовления деталей
+UID:e549a6ca-5f50-473f-98fa-78ddad89bce3@e549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231024T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20231024T074500Z
+SUMMARY:ПЗ Теория пластичности
+UID:28ee07da-e381-4dc8-bf6d-8b7ae8c17f4b@28ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20231108T091500Z
+LOCATION:Орш. А-318
+DTSTART:20231108T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:96808cdc-d1db-47dd-9d2f-8d2f60a279bb@9680.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230911T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:ffc8fad2-d2a5-42e7-91ea-a0da663270e4@ffc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231211T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231211T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:9cd23a02-fc91-47a3-bed8-72a9a480fd45@9cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231004T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:d1aad4f6-7f36-4ff9-86dc-33824bb48245@d1aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230905T150000Z
+LOCATION:Берн. 14-501
+DTSTART:20230905T133000Z
+SUMMARY:ЛК Информационная поддержка жизненного цикла изделий
+UID:43b13a79-943c-4f28-a559-e2741130d144@43b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231201T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231201T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:c96e551b-7774-4edc-a874-cf45732a6e69@c96e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231006T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231006T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:a6ac0d20-2c8f-4723-a3e1-4c8a2c8123b1@a6ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231128T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231128T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:28b0dc89-89a4-4ba3-b265-c9a5bee7d3a3@28b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231003T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:5197280b-9408-4bf6-a47d-be23352b2121@5197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231013T091500Z
+LOCATION:Берн. 14-501
+DTSTART:20231013T074500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:b27f5dfc-389c-404d-8a2a-25e2904b9fb0@b27f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231117T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231117T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:c8e8cb91-949f-482a-b5ea-61fa082b5afb@c8e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231010T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20231010T133000Z
+SUMMARY:ЛК Двигатели и энергосистемы
+UID:7110cd5a-1d23-4847-84cb-41371b6a1c8a@7110.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231009T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:ca0fc607-ddae-4f95-9d9c-a5d12f034e39@ca0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231010T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231010T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:f7abd512-863b-4b65-8530-c05c853eb2be@f7ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231020T131500Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231020T114500Z
+SUMMARY:ЛК Системный анализ
+UID:c3cc2175-ffc3-45b6-8e66-5c627b373c2e@c3cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Илюхина Светлана Сергеевна
+DTEND:20231201T131500Z
+LOCATION:Берн. 14-ИЛА 12
+DTSTART:20231201T114500Z
+SUMMARY:ЛК Системный анализ
+UID:a7b3fa60-e0a4-475e-bc34-bd2f5b656400@a7b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231204T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231204T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:6ef831c3-95c1-4d69-a717-17a6322b500a@6ef8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231227T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231227T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:77938134-721b-409c-95a4-b0f8f531dbfc@7793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231017T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Двигатели и энергосистемы
+UID:d446dc09-5f21-412a-bce2-2f840498ee31@d446.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20230927T131500Z
+LOCATION:Орш. Б-302
+DTSTART:20230927T114500Z
+SUMMARY:ПЗ Технология композиционных материалов
+UID:9b2c82ec-aaed-43a2-b8a7-45f67f61003f@9b2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231107T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231107T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:e7091486-5bb7-4a49-9310-89d604f1fe6a@e709.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231106T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231106T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:71fef2cc-b85d-4bb2-a7ba-4e1b59c01b9a@71fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231101T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231101T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:3812fc15-9596-42db-8566-3984259e2453@3812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231023T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:ec2fba26-78ef-48c1-b507-353ba5cae6fa@ec2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231113T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:ef6acca8-8707-449a-affe-a333567ffd91@ef6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231213T091500Z
+LOCATION:Орш. Б-306
+DTSTART:20231213T074500Z
+SUMMARY:ЛК Основы психологии
+UID:294fc5e3-37b4-49f0-a36d-332a06761805@294f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230922T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20230922T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:558d06ef-cd81-4607-840e-63d4fae3b03c@558d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230904T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:920f3b5c-0584-495e-a03c-966189ea35ab@920f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231108T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:8875eb22-5a13-455d-8011-d13de2875625@8875.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231204T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231204T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:6983bfad-3c39-4574-99e7-dbe8e31b33dc@6983.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231211T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:8aba1561-7d35-4c5e-b228-690efb6454cb@8aba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231226T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231226T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:861ca6b6-5420-4511-a114-13ec4e45cef1@861c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230904T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:fe1ddcd8-5ce9-4f0c-8bd2-516671616bed@fe1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231018T091500Z
+LOCATION:Орш. Б-306
+DTSTART:20231018T074500Z
+SUMMARY:ЛК Основы психологии
+UID:b19f37f5-623e-4a76-ab1f-122c267bb567@b19f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231120T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:4a51e4b6-e4e6-46cb-a167-03be94896606@4a51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231027T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231027T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:382f5678-32bf-4f43-861f-6eb9aea54ba6@382f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231114T091500Z
+LOCATION:Берн. 14-09
+DTSTART:20231114T074500Z
+SUMMARY:ПЗ Технология изготовления деталей
+UID:7dfa0c17-cf7d-43bc-969b-695602273826@7dfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АСТАПОВ ВИКТОР ЮРЬЕВИЧ
+DTEND:20231002T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Технология изготовления деталей
+UID:ba7d623d-865d-44be-88a3-e12400d1901c@ba7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231009T131500Z
+LOCATION:Берн. 14-09
+DTSTART:20231009T114500Z
+SUMMARY:ЛК Основы технологии производства ЛА
+UID:2a496dbf-ba7f-4f2e-bea2-c17224c8b569@2a49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231103T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231103T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:3c3426db-5473-46b6-88d8-ec6d4180b33a@3c34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231128T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20231128T133000Z
+SUMMARY:ЛР Двигатели и энергосистемы
+UID:fdc261f6-34ce-4eef-aba9-205ebea9a22d@fdc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЧЕРВЯКОВ АЛЕКСАНДР АНАТОЛЬЕВИЧ
+DTEND:20231213T113000Z
+LOCATION:Орш. Б-302
+DTSTART:20231213T100000Z
+SUMMARY:ЛК Технология композиционных материалов
+UID:700c3675-545e-42b4-aba8-89352ac26b6e@700c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231003T131500Z
+LOCATION:Берн. 14-223
+DTSTART:20231003T114500Z
+SUMMARY:ЛК Двигатели и энергосистемы
+UID:13d81baa-d4a9-40ca-b525-d5d6fd3e00d2@13d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231030T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:8daa7828-7a99-4384-84c5-6501f6e0d740@8daa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысаков Николай Дмитриевич
+DTEND:20230913T091500Z
+LOCATION:Орш. А-318
+DTSTART:20230913T074500Z
+SUMMARY:ПЗ Основы психологии
+UID:0c6c523e-05d5-4f06-b3fb-e28c1b6d6e68@0c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230918T150000Z
+LOCATION:Берн. 14-09
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:bbbd7890-5c03-4429-986d-09d8f3b50ffd@bbbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ЗЕМЛЯНАЯ ВИКТОРИЯ АНДРЕЕВНА
+DTEND:20231107T150000Z
+LOCATION:Берн. 14-223
+DTSTART:20231107T133000Z
+SUMMARY:ПЗ Двигатели и энергосистемы
+UID:496fd701-7fbc-4e8c-a494-f1a42b38e330@496f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231114T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20231114T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:e9120368-190d-43cb-8834-3deb7b2943ac@e912.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГОНЧАРОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231201T113000Z
+LOCATION:Берн. 14-501
+DTSTART:20231201T100000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделий
+UID:8a560c80-1c63-4f2a-a92b-f6febdaa5a31@8a56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20230912T113000Z
+LOCATION:Берн. 14-09
+DTSTART:20230912T100000Z
+SUMMARY:ЛК Теория пластичности
+UID:1fda7e5b-06eb-45aa-b19b-9488841d25a6@1fda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОВАЛЕВИЧ МИХАИЛ ВЛАДИМИРОВИЧ
+DTEND:20231030T164500Z
+LOCATION:Берн. 14-09
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Основы технологии производства ЛА
+UID:2137c52d-1068-4523-83ed-7b173f468bdd@2137.org
 END:VEVENT
 END:VCALENDAR

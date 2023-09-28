@@ -2,868 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231114T183000Z
-LOCATION:--каф.
-DTSTART:20231114T170000Z
-SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:8f578a41-babb-4243-bd56-0a763cdba527@8f57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231226T183000Z
-LOCATION:--каф.
-DTSTART:20231226T170000Z
-SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:859f7f5e-ecb8-41ba-a7c9-8f1f13e732fc@859f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231207T183000Z
-LOCATION:2-401-1 (2В)
-DTSTART:20231207T170000Z
-SUMMARY:ЛР Методы математического моделирования
-UID:e3079eb4-eaa1-46a8-9352-fbb867ac398d@e307.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20231124T183000Z
-LOCATION:2-25(2Б)
-DTSTART:20231124T170000Z
-SUMMARY:ЛР Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:569d1585-abfc-4466-8c42-10c00619b515@569d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20231208T183000Z
-LOCATION:2-25(2Б)
-DTSTART:20231208T170000Z
-SUMMARY:ЛР Схемы и компановки двигателей летательных аппаратов
-UID:b50b838a-d163-41b3-864e-e3496f7e67d6@b50b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231128T164500Z
-LOCATION:--каф.
-DTSTART:20231128T151500Z
-SUMMARY:ЛК Теория и расчет ракетных двигателей
-UID:7d512294-dbe8-4729-b866-5fdfe4895e96@7d51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермилов Юрий Иванович
-DTEND:20231024T183000Z
-LOCATION:2-22(2Б)
-DTSTART:20231024T170000Z
-SUMMARY:ЛК Динамика и прочность
-UID:697f1fde-dfe3-44cc-bd52-363cfbf7c520@697f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20230906T164500Z
-LOCATION:--каф.
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Механика жидкости и газа
-UID:8e0b6b89-e948-4e89-8837-84ff354d5a8b@8e0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231212T164500Z
-LOCATION:--каф.
-DTSTART:20231212T151500Z
-SUMMARY:ЛК Теория и расчет ракетных двигателей
-UID:ab6e4745-6eec-476d-bed8-a388ce44c94a@ab6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20230920T183000Z
-LOCATION:--каф.
-DTSTART:20230920T170000Z
-SUMMARY:ЛК Механика жидкости и газа
-UID:668cf981-165d-4081-889e-bc62be843b44@668c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермилов Юрий Иванович
-DTEND:20230926T183000Z
-LOCATION:2-22(2Б)
-DTSTART:20230926T170000Z
-SUMMARY:ЛК Динамика и прочность
-UID:af33ec5d-eeb4-4007-bb3e-531d63e875ca@af33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20230922T183000Z
-LOCATION:--каф.
-DTSTART:20230922T170000Z
-SUMMARY:ЛК Методы математического моделирования
-UID:76064068-08c8-40b9-b5db-c6bd46d3e370@7606.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ЛР Механика жидкости и газа
-UID:6f5f10dd-14ba-4e55-b8dd-ddbcb28b8a95@6f5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231003T164500Z
-LOCATION:--каф.
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Теория и расчет ракетных двигателей
-UID:c4e0a262-f6b5-42bb-898d-4e8054104175@c4e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231123T183000Z
-LOCATION:2-401-1 (2В)
-DTSTART:20231123T170000Z
-SUMMARY:ЛР Методы математического моделирования
-UID:d81591c8-f6c4-4fa2-bd10-011340da84d0@d815.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231204T183000Z
-LOCATION:--каф.
-DTSTART:20231204T170000Z
-SUMMARY:ЛР Механика жидкости и газа
-UID:4a92a8bd-63b0-4cc8-ba08-b809297fe137@4a92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20231110T183000Z
-LOCATION:2-25(2Б)
-DTSTART:20231110T170000Z
-SUMMARY:ЛР Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:8f7c4a3c-1b39-4d36-918d-9d11efd9d3f8@8f7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20231222T183000Z
-LOCATION:2-25(2Б)
-DTSTART:20231222T170000Z
-SUMMARY:ЛР Схемы и компановки двигателей летательных аппаратов
-UID:ca505ef5-2e39-4c3b-8286-98da7b1be080@ca50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ЛР Механика жидкости и газа
-UID:2ef2c9ee-1a5d-47de-983c-ccaacb8a8da9@2ef2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231101T183000Z
-LOCATION:--каф.
-DTSTART:20231101T170000Z
-SUMMARY:ПЗ Механика жидкости и газа
-UID:a8f8452b-f56a-4a31-9f50-6e251754312c@a8f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермилов Юрий Иванович
-DTEND:20231107T164500Z
-LOCATION:2-22(2Б)
-DTSTART:20231107T151500Z
-SUMMARY:ЛР Динамика и прочность
-UID:b1064ded-6fb9-4709-ae18-b506809c3f83@b106.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231207T164500Z
-LOCATION:2-401-1 (2В)
-DTSTART:20231207T151500Z
-SUMMARY:ЛР Методы математического моделирования
-UID:729d4d34-3f4f-4d7c-9220-d824466ca533@729d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231106T183000Z
-LOCATION:--каф.
-DTSTART:20231106T170000Z
-SUMMARY:ЛР Механика жидкости и газа
-UID:48c857ce-0f69-433a-a72a-c04d6f20b5bb@48c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231020T183000Z
-LOCATION:--каф.
-DTSTART:20231020T170000Z
-SUMMARY:ЛК Методы математического моделирования
-UID:794cef81-2e6f-49d9-8ba5-b076bc490840@794c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ЛК Теория и расчет авиационных двигателей
-UID:dd806f20-6c10-4de4-88b0-74f880e9d0be@dd80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20231027T164500Z
-LOCATION:2-25(2Б)
-DTSTART:20231027T151500Z
-SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
-UID:d0aef421-be58-4e36-8faf-088c6fd26664@d0ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20231222T164500Z
-LOCATION:2-25(2Б)
-DTSTART:20231222T151500Z
-SUMMARY:ЛР Схемы и компановки двигателей летательных аппаратов
-UID:16299350-9fe0-4254-adb6-1ceef090baff@1629.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231129T164500Z
-LOCATION:--каф.
-DTSTART:20231129T151500Z
-SUMMARY:ПЗ Механика жидкости и газа
-UID:9a7767f7-1774-4f22-ab17-3e0362f0e4c6@9a77.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ермилов Юрий Иванович
 DTEND:20230912T164500Z
 LOCATION:2-22(2Б)
 DTSTART:20230912T151500Z
 SUMMARY:ЛК Динамика и прочность
-UID:b5884bf9-a88d-4231-ab37-12f293b4eb75@b588.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20230927T183000Z
-LOCATION:2-401(2В)
-DTSTART:20230927T170000Z
-SUMMARY:ПЗ Методы математического моделирования
-UID:0d87f559-ab3c-4e57-a64e-b7d04d1db25a@0d87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зарецкий Максим Владимирович
-DTEND:20231023T183000Z
-LOCATION:ГУК Б-650
-DTSTART:20231023T170000Z
-SUMMARY:ПЗ Детали механизмов и машин
-UID:8be972ac-66db-445d-aa4d-90fd2e678119@8be9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермилов Юрий Иванович
-DTEND:20231107T183000Z
-LOCATION:2-22(2Б)
-DTSTART:20231107T170000Z
-SUMMARY:ЛР Динамика и прочность
-UID:bac75d46-13d1-4976-86eb-c31f7b118937@bac7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231031T164500Z
-LOCATION:--каф.
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Теория и расчет ракетных двигателей
-UID:89f8f447-0a1f-4d73-b580-250285ef78bf@89f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231025T164500Z
-LOCATION:2-401(2В)
-DTSTART:20231025T151500Z
-SUMMARY:ПЗ Методы математического моделирования
-UID:367cd4ba-871a-4f6b-bbdc-1d1641e61742@367c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231002T183000Z
-LOCATION:--каф.
-DTSTART:20231002T170000Z
-SUMMARY:ПЗ Теория и расчет авиационных двигателей
-UID:26fa9181-0840-4900-97ca-961ecc1fdf9f@26fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зарецкий Максим Владимирович
-DTEND:20230911T164500Z
-LOCATION:ГУК Б-650
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Детали механизмов и машин
-UID:1cd84763-abfe-4505-9a34-21d99de3e4d2@1cd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231115T164500Z
-LOCATION:--каф.
-DTSTART:20231115T151500Z
-SUMMARY:ПЗ Механика жидкости и газа
-UID:58a6f4c2-d079-4611-a761-a3272a5c768a@58a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермилов Юрий Иванович
-DTEND:20231024T164500Z
-LOCATION:2-22(2Б)
-DTSTART:20231024T151500Z
-SUMMARY:ЛК Динамика и прочность
-UID:65eb77e5-bfd2-4fe0-a00f-77f080926018@65eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231109T183000Z
-LOCATION:2-401-1 (2В)
-DTSTART:20231109T170000Z
-SUMMARY:ЛР Методы математического моделирования
-UID:3e0c1628-ebb1-4709-8a3a-ad0a67d04c79@3e0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231215T164500Z
-LOCATION:--каф.
-DTSTART:20231215T151500Z
-SUMMARY:ЛК Методы математического моделирования
-UID:c84e4906-6ed1-4e85-af4a-8b8f1b09fb94@c84e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20230914T183000Z
-LOCATION:2-23(2Б)
-DTSTART:20230914T170000Z
-SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:d2b38075-f285-45f6-8e2f-e19d64ccfa80@d2b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зарецкий Максим Владимирович
-DTEND:20231023T164500Z
-LOCATION:ГУК Б-650
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Детали механизмов и машин
-UID:f829802f-a3e1-4fc1-b2cd-418cceb09c47@f829.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231212T183000Z
-LOCATION:--каф.
-DTSTART:20231212T170000Z
-SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:f27cdf65-73ee-4f82-8ad6-3e7e21783b3d@f27c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231117T164500Z
-LOCATION:--каф.
-DTSTART:20231117T151500Z
-SUMMARY:ЛК Методы математического моделирования
-UID:db0430e1-960d-4fa4-a879-84f1bd9cffe4@db04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231101T164500Z
-LOCATION:--каф.
-DTSTART:20231101T151500Z
-SUMMARY:ПЗ Механика жидкости и газа
-UID:e2add5d8-512c-4c0d-bfbc-035ea7888b3b@e2ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231115T183000Z
-LOCATION:--каф.
-DTSTART:20231115T170000Z
-SUMMARY:ПЗ Механика жидкости и газа
-UID:21ffa1c8-738e-4b1c-a818-f9aec5e0fd60@21ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20230904T183000Z
-LOCATION:--каф.
-DTSTART:20230904T170000Z
-SUMMARY:ПЗ Теория и расчет авиационных двигателей
-UID:079a43d6-0ab7-445c-b286-a888f30ad3d3@079a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зарецкий Максим Владимирович
-DTEND:20231009T164500Z
-LOCATION:ГУК Б-650
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Детали механизмов и машин
-UID:5df0251b-3dd8-4fb8-917d-580797bc5507@5df0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231211T164500Z
-LOCATION:--каф.
-DTSTART:20231211T151500Z
-SUMMARY:ЛК Теория и расчет авиационных двигателей
-UID:43edfd34-5c17-4b97-b970-93f2cc9013a7@43ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20231026T183000Z
-LOCATION:2-23(2Б)
-DTSTART:20231026T170000Z
-SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:91eed5d7-4d83-4f69-a4dc-835600005aa5@91ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231004T164500Z
-LOCATION:--каф.
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Механика жидкости и газа
-UID:1178bf4c-d329-4fdc-afa6-8a13887c20aa@1178.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20230908T183000Z
-LOCATION:--каф.
-DTSTART:20230908T170000Z
-SUMMARY:ЛК Методы математического моделирования
-UID:01e83d87-ad92-440c-837e-72471d43557e@01e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231030T183000Z
-LOCATION:--каф.
-DTSTART:20231030T170000Z
-SUMMARY:ПЗ Теория и расчет авиационных двигателей
-UID:a6c9f7d8-e532-4ede-8823-d73a75ef9da9@a6c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ЛК Теория и расчет авиационных двигателей
-UID:14393699-e3f9-4eaf-bdc7-54bceea91114@1439.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231211T183000Z
-LOCATION:--каф.
-DTSTART:20231211T170000Z
-SUMMARY:ПЗ Теория и расчет авиационных двигателей
-UID:e623f6fd-6d2e-4588-8813-de9b07ee4ec3@e623.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231226T164500Z
-LOCATION:--каф.
-DTSTART:20231226T151500Z
-SUMMARY:ЛК Теория и расчет ракетных двигателей
-UID:c464d4d3-f151-4233-bbf4-d5a4b1e149e9@c464.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20230927T164500Z
-LOCATION:2-401(2В)
-DTSTART:20230927T151500Z
-SUMMARY:ПЗ Методы математического моделирования
-UID:cf84cce6-c4cd-4ab7-aa25-183147945d77@cf84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20230929T183000Z
-LOCATION:2-25(2Б)
-DTSTART:20230929T170000Z
-SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
-UID:0f0101e6-43d3-4cd0-b15c-cb1d2d6ea640@0f01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231113T183000Z
-LOCATION:--каф.
-DTSTART:20231113T170000Z
-SUMMARY:ПЗ Теория и расчет авиационных двигателей
-UID:0e3595ee-9b6f-4179-ac97-52faf53d3f92@0e35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20231208T164500Z
-LOCATION:2-25(2Б)
-DTSTART:20231208T151500Z
-SUMMARY:ЛР Схемы и компановки двигателей летательных аппаратов
-UID:33723b71-929e-45fc-b64f-61d1ab33e4c4@3372.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231017T183000Z
-LOCATION:--каф.
-DTSTART:20231017T170000Z
-SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:7ec5f1f3-c353-4a0a-b3e5-d9b9d16a17e0@7ec5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231225T183000Z
-LOCATION:--каф.
-DTSTART:20231225T170000Z
-SUMMARY:ПЗ Теория и расчет авиационных двигателей
-UID:da247e48-3d81-4b56-bcca-d2a0cf4cc5e0@da24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231018T164500Z
-LOCATION:--каф.
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Механика жидкости и газа
-UID:a9089c64-ee2a-4a89-9b3c-4330f3ca575c@a908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231122T183000Z
-LOCATION:2-401(2В)
-DTSTART:20231122T170000Z
-SUMMARY:ПЗ Методы математического моделирования
-UID:a2881e3b-8f89-4888-a05d-3e188cadcefb@a288.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20230929T164500Z
-LOCATION:2-25(2Б)
-DTSTART:20230929T151500Z
-SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
-UID:3ba26e79-29f9-442d-8be0-901c4eb5b778@3ba2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20230922T164500Z
-LOCATION:--каф.
-DTSTART:20230922T151500Z
-SUMMARY:ЛК Методы математического моделирования
-UID:cda79acb-4627-433b-be84-767feb4d79f9@cda7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20230918T164500Z
-LOCATION:--каф.
-DTSTART:20230918T151500Z
-SUMMARY:ЛК Теория и расчет авиационных двигателей
-UID:d76efe21-c842-4d64-8687-ada88df283d0@d76e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20231026T164500Z
-LOCATION:2-23(2Б)
-DTSTART:20231026T151500Z
-SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:71a278a8-1980-46e8-a524-b7f27d6fb238@71a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231229T183000Z
-LOCATION:--каф.
-DTSTART:20231229T170000Z
-SUMMARY:ЛК Методы математического моделирования
-UID:14b50859-b9e8-4f39-b85a-f03eaba171c9@14b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20231013T183000Z
-LOCATION:2-25(2Б)
-DTSTART:20231013T170000Z
-SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
-UID:a18f574c-c870-4db7-aa74-8f7d81158e90@a18f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231218T183000Z
-LOCATION:--каф.
-DTSTART:20231218T170000Z
-SUMMARY:ЛР Механика жидкости и газа
-UID:b6b35ae3-9ac8-4a8e-8aed-be4647e4ca07@b6b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермилов Юрий Иванович
-DTEND:20230912T183000Z
-LOCATION:2-22(2Б)
-DTSTART:20230912T170000Z
-SUMMARY:ЛК Динамика и прочность
-UID:e8a0570e-50f8-4d94-b102-6149f5159e0c@e8a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ЛК Теория и расчет авиационных двигателей
-UID:e817b55e-2569-4737-9e2f-8c3587b3b7d2@e817.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231215T183000Z
-LOCATION:--каф.
-DTSTART:20231215T170000Z
-SUMMARY:ЛК Методы математического моделирования
-UID:ee1d020b-efb2-4d0a-abda-f4e9842915fe@ee1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зарецкий Максим Владимирович
-DTEND:20230925T183000Z
-LOCATION:ГУК Б-650
-DTSTART:20230925T170000Z
-SUMMARY:ПЗ Детали механизмов и машин
-UID:b5838754-f2f7-46c4-9374-2dc4a138fc58@b583.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зарецкий Максим Владимирович
-DTEND:20231009T183000Z
-LOCATION:ГУК Б-650
-DTSTART:20231009T170000Z
-SUMMARY:ПЗ Детали механизмов и машин
-UID:ba77eb85-1cdb-43fb-8f1f-6e6d18bbf566@ba77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ЛК Теория и расчет авиационных двигателей
-UID:450c6e27-e82a-487b-bc81-97e68e3f1c63@450c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231127T164500Z
-LOCATION:--каф.
-DTSTART:20231127T151500Z
-SUMMARY:ЛК Теория и расчет авиационных двигателей
-UID:187e5b0b-0676-4d15-886e-543923e065a7@187e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20231012T183000Z
-LOCATION:2-23(2Б)
-DTSTART:20231012T170000Z
-SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:43b62275-cf14-4add-9b35-98029ce95e9c@43b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермилов Юрий Иванович
-DTEND:20231010T164500Z
-LOCATION:2-22(2Б)
-DTSTART:20231010T151500Z
-SUMMARY:ЛК Динамика и прочность
-UID:680394f2-bd02-43fa-aaa6-350bee413d32@6803.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20231124T164500Z
-LOCATION:2-25(2Б)
-DTSTART:20231124T151500Z
-SUMMARY:ЛР Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:c2c5dd99-411a-431e-b98f-a74d2ca214e9@c2c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231229T164500Z
-LOCATION:--каф.
-DTSTART:20231229T151500Z
-SUMMARY:ЛК Методы математического моделирования
-UID:6f9a18cf-433f-4e23-ba03-877522b15703@6f9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231123T164500Z
-LOCATION:2-401-1 (2В)
-DTSTART:20231123T151500Z
-SUMMARY:ЛР Методы математического моделирования
-UID:42d6cba2-0109-47e0-a70c-e8880960fb9b@42d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231006T164500Z
-LOCATION:--каф.
-DTSTART:20231006T151500Z
-SUMMARY:ЛК Методы математического моделирования
-UID:e47d8624-b0ca-4a53-8f13-d10277425207@e47d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермилов Юрий Иванович
-DTEND:20231010T183000Z
-LOCATION:2-22(2Б)
-DTSTART:20231010T170000Z
-SUMMARY:ЛК Динамика и прочность
-UID:fd644bcc-9103-4c32-96e9-40812cd4fd9f@fd64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зарецкий Максим Владимирович
-DTEND:20230925T164500Z
-LOCATION:ГУК Б-650
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Детали механизмов и машин
-UID:815ba4df-9046-4765-bdf4-48c7b6ca5a29@815b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231117T183000Z
-LOCATION:--каф.
-DTSTART:20231117T170000Z
-SUMMARY:ЛК Методы математического моделирования
-UID:a66bb8a8-1c3d-42fe-8202-9e0078bad99e@a66b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231128T183000Z
-LOCATION:--каф.
-DTSTART:20231128T170000Z
-SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:fd3f5254-4d1f-42c7-8518-fc468ffc7d3e@fd3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20230928T164500Z
-LOCATION:2-23(2Б)
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:248ea060-a059-47f7-bcd8-3297f330063e@248e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермилов Юрий Иванович
-DTEND:20231121T164500Z
-LOCATION:2-22(2Б)
-DTSTART:20231121T151500Z
-SUMMARY:ЛР Динамика и прочность
-UID:274f816e-268f-4b6c-a451-83416a9a1561@274f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231221T183000Z
-LOCATION:2-401-1 (2В)
-DTSTART:20231221T170000Z
-SUMMARY:ЛР Методы математического моделирования
-UID:9583b44b-9d9b-4dbc-8165-5a96d0c3291f@9583.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231004T183000Z
-LOCATION:--каф.
-DTSTART:20231004T170000Z
-SUMMARY:ЛК Механика жидкости и газа
-UID:4dacaadd-8957-4f77-8f85-6d6758ca229a@4dac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231020T164500Z
-LOCATION:--каф.
-DTSTART:20231020T151500Z
-SUMMARY:ЛК Методы математического моделирования
-UID:c9cbb1fc-9a14-4a6c-98ce-91cb12bdaf63@c9cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20230918T183000Z
-LOCATION:--каф.
-DTSTART:20230918T170000Z
-SUMMARY:ПЗ Теория и расчет авиационных двигателей
-UID:2ede3b29-21ca-4cb3-867c-ff4e510ada48@2ede.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20230906T183000Z
-LOCATION:--каф.
-DTSTART:20230906T170000Z
-SUMMARY:ЛК Механика жидкости и газа
-UID:7b4042eb-e114-48a9-a1cf-d61d1b829115@7b40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20230915T183000Z
-LOCATION:2-25(2Б)
-DTSTART:20230915T170000Z
-SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
-UID:9cc7e3f8-5b6d-46e7-90c7-0c64a47f2d0a@9cc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231018T183000Z
-LOCATION:--каф.
-DTSTART:20231018T170000Z
-SUMMARY:ЛК Механика жидкости и газа
-UID:d4aa4986-3e5e-4a7a-af71-b7f1df22147d@d4aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231108T164500Z
-LOCATION:2-401(2В)
-DTSTART:20231108T151500Z
-SUMMARY:ПЗ Методы математического моделирования
-UID:b31c4bbc-af06-47f3-b4bd-70bee9063420@b31c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231108T183000Z
-LOCATION:2-401(2В)
-DTSTART:20231108T170000Z
-SUMMARY:ПЗ Методы математического моделирования
-UID:3d521a94-de79-4e82-ab1d-d22c7eb63a5a@3d52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20230914T164500Z
-LOCATION:2-23(2Б)
-DTSTART:20230914T151500Z
-SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:98c66264-587b-44a7-99c3-a3d733122b44@98c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20231013T164500Z
-LOCATION:2-25(2Б)
-DTSTART:20231013T151500Z
-SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
-UID:f6c86ddc-0609-4139-b26a-46344a1f25da@f6c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231201T183000Z
-LOCATION:--каф.
-DTSTART:20231201T170000Z
-SUMMARY:ЛК Методы математического моделирования
-UID:997c1728-6f7b-4027-b738-9760f15b6945@997c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231017T164500Z
-LOCATION:--каф.
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Теория и расчет ракетных двигателей
-UID:db95882f-e437-45a5-98f5-f8d15763ed93@db95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20230928T183000Z
-LOCATION:2-23(2Б)
-DTSTART:20230928T170000Z
-SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:3fad6334-c42b-45be-89ae-4aea46455489@3fad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231120T183000Z
-LOCATION:--каф.
-DTSTART:20231120T170000Z
-SUMMARY:ЛР Механика жидкости и газа
-UID:523fa08a-2127-499b-acb1-efa3cbf1c6e7@523f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231218T164500Z
-LOCATION:--каф.
-DTSTART:20231218T151500Z
-SUMMARY:ЛР Механика жидкости и газа
-UID:280a851b-b718-4642-bb82-127c26abf8e1@280a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермилов Юрий Иванович
-DTEND:20231121T183000Z
-LOCATION:2-22(2Б)
-DTSTART:20231121T170000Z
-SUMMARY:ЛР Динамика и прочность
-UID:e57b9cc4-d7fd-42bb-abc8-1bcea2ec9ddf@e57b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20231012T164500Z
-LOCATION:2-23(2Б)
-DTSTART:20231012T151500Z
-SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:cbdf7440-aacb-456f-a792-90e06e5b24d8@cbdf.org
+UID:40a8f851-26e3-4bb9-a1c5-7493980ad167@40a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кучеров Никита Александрович
@@ -871,151 +15,7 @@ DTEND:20230920T164500Z
 LOCATION:--каф.
 DTSTART:20230920T151500Z
 SUMMARY:ЛК Механика жидкости и газа
-UID:8c90d47c-a8db-4bc1-8b68-0249ec34d179@8c90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231025T183000Z
-LOCATION:2-401(2В)
-DTSTART:20231025T170000Z
-SUMMARY:ПЗ Методы математического моделирования
-UID:a311b3da-e4a6-4af4-9a06-d9382b0ef867@a311.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231221T164500Z
-LOCATION:2-401-1 (2В)
-DTSTART:20231221T151500Z
-SUMMARY:ЛР Методы математического моделирования
-UID:7305e7b5-cbec-4c88-a58e-78bd4963bd43@7305.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231031T183000Z
-LOCATION:--каф.
-DTSTART:20231031T170000Z
-SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:6fc3b9f2-5234-408e-a06e-26e0b8842ad3@6fc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Попов Георгий Владимирович
-DTEND:20231110T164500Z
-LOCATION:2-25(2Б)
-DTSTART:20231110T151500Z
-SUMMARY:ЛР Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
-UID:e7bdde55-de25-4c2e-aeb5-3f9b0cca85f4@e7bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231006T183000Z
-LOCATION:--каф.
-DTSTART:20231006T170000Z
-SUMMARY:ЛК Методы математического моделирования
-UID:167c03e6-a682-4e04-8670-fd2648b7860d@167c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ЛК Теория и расчет авиационных двигателей
-UID:c5d38049-ac88-436a-9ad4-9ba09669753a@c5d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231016T183000Z
-LOCATION:--каф.
-DTSTART:20231016T170000Z
-SUMMARY:ПЗ Теория и расчет авиационных двигателей
-UID:32bd2f1a-e0df-44ed-b012-84bf31779283@32bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231114T164500Z
-LOCATION:--каф.
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Теория и расчет ракетных двигателей
-UID:4d5f38d4-e65b-4093-855e-3eb7ba31af21@4d5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231204T164500Z
-LOCATION:--каф.
-DTSTART:20231204T151500Z
-SUMMARY:ЛР Механика жидкости и газа
-UID:b070a3a1-78d3-4ad1-84b4-3e376fdf4125@b070.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231109T164500Z
-LOCATION:2-401-1 (2В)
-DTSTART:20231109T151500Z
-SUMMARY:ЛР Методы математического моделирования
-UID:c66c993f-e1d5-4cca-8561-765a956a068c@c66c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20231027T183000Z
-LOCATION:2-25(2Б)
-DTSTART:20231027T170000Z
-SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
-UID:2075b947-79b2-4a38-9b24-c7d36b1654ce@2075.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231127T183000Z
-LOCATION:--каф.
-DTSTART:20231127T170000Z
-SUMMARY:ПЗ Теория и расчет авиационных двигателей
-UID:dc915f9f-bf16-4d6e-8a87-3dc7aa3b1c8f@dc91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231129T183000Z
-LOCATION:--каф.
-DTSTART:20231129T170000Z
-SUMMARY:ПЗ Механика жидкости и газа
-UID:86994d96-8793-4434-a538-035fb365c52a@8699.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Волощенко Антон Владимирович
-DTEND:20230915T164500Z
-LOCATION:2-25(2Б)
-DTSTART:20230915T151500Z
-SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
-UID:938a90ef-1302-4256-8037-5f663438ec23@938a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20230908T164500Z
-LOCATION:--каф.
-DTSTART:20230908T151500Z
-SUMMARY:ЛК Методы математического моделирования
-UID:298c31e6-05c5-428f-b6c3-a3a78b3ea178@298c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбунов Артем Александрович
-DTEND:20231225T164500Z
-LOCATION:--каф.
-DTSTART:20231225T151500Z
-SUMMARY:ЛК Теория и расчет авиационных двигателей
-UID:b11a906b-eee5-43e1-844e-a37d7753b0ab@b11a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермилов Юрий Иванович
-DTEND:20230926T164500Z
-LOCATION:2-22(2Б)
-DTSTART:20230926T151500Z
-SUMMARY:ЛК Динамика и прочность
-UID:abe894b9-a43c-4485-9592-8d96860ba6ff@abe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зарецкий Максим Владимирович
-DTEND:20230911T183000Z
-LOCATION:ГУК Б-650
-DTSTART:20230911T170000Z
-SUMMARY:ПЗ Детали механизмов и машин
-UID:21ec61a4-8e7c-4b77-aed0-68bc9f1a57b4@21ec.org
+UID:f0f4aa03-5fe5-4041-b37f-894f7b2df7ab@f0f4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гордеев Святослав Валерьевич
@@ -1023,31 +23,47 @@ DTEND:20231011T183000Z
 LOCATION:2-401(2В)
 DTSTART:20231011T170000Z
 SUMMARY:ПЗ Методы математического моделирования
-UID:8cc7550a-4765-43e1-8218-3eaa871cf057@8cc7.org
+UID:7d7bb8e9-0c68-45d9-88d4-e31ade242b2d@7d7b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Канев Степан Васильевич
-DTEND:20231201T164500Z
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20230904T164500Z
 LOCATION:--каф.
-DTSTART:20231201T151500Z
-SUMMARY:ЛК Методы математического моделирования
-UID:f555b1dc-e76b-4d70-a794-4c2eb55b1e27@f555.org
+DTSTART:20230904T151500Z
+SUMMARY:ЛК Теория и расчет авиационных двигателей
+UID:911e7a89-8296-49f4-83dc-e4e98cd6e833@911e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231004T183000Z
+LOCATION:--каф.
+DTSTART:20231004T170000Z
+SUMMARY:ЛК Механика жидкости и газа
+UID:fd5b4d61-788d-4fff-a76f-685b33afddc1@fd5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20231026T183000Z
+LOCATION:2-23(2Б)
+DTSTART:20231026T170000Z
+SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:d650fef3-e250-4606-a576-baf56276aca4@d650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20230904T183000Z
+LOCATION:--каф.
+DTSTART:20230904T170000Z
+SUMMARY:ПЗ Теория и расчет авиационных двигателей
+UID:4cbe68ee-f483-4989-ba72-4e5a9d03db2b@4cbe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бирюков Василий Иванович
-DTEND:20231003T183000Z
+DTEND:20231031T183000Z
 LOCATION:--каф.
-DTSTART:20231003T170000Z
+DTSTART:20231031T170000Z
 SUMMARY:ПЗ Теория и расчет ракетных двигателей
-UID:f24f1631-ef00-42a0-b2a0-0ad729569097@f24f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гордеев Святослав Валерьевич
-DTEND:20231011T164500Z
-LOCATION:2-401(2В)
-DTSTART:20231011T151500Z
-SUMMARY:ПЗ Методы математического моделирования
-UID:25ab820c-28a2-4b84-9d2c-c13f7778fef7@25ab.org
+UID:b5b9bc79-0b12-499e-ae2f-f7e191b2367a@b5b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гордеев Святослав Валерьевич
@@ -1055,6 +71,990 @@ DTEND:20231122T164500Z
 LOCATION:2-401(2В)
 DTSTART:20231122T151500Z
 SUMMARY:ПЗ Методы математического моделирования
-UID:2f7d074c-370f-4347-adc5-45156ad1594c@2f7d.org
+UID:dd294af2-a622-44f0-9b90-79fc1cfa7660@dd29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20231222T164500Z
+LOCATION:2-25(2Б)
+DTSTART:20231222T151500Z
+SUMMARY:ЛР Схемы и компановки двигателей летательных аппаратов
+UID:8f7240f1-1219-42e8-ade8-0b790e8ac2dc@8f72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231016T183000Z
+LOCATION:--каф.
+DTSTART:20231016T170000Z
+SUMMARY:ПЗ Теория и расчет авиационных двигателей
+UID:205aaeb2-342f-415e-a2f9-4d73ca6fcfc9@205a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20231026T164500Z
+LOCATION:2-23(2Б)
+DTSTART:20231026T151500Z
+SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:5f60cb65-88ca-4613-a15c-78df3495f31f@5f60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231004T164500Z
+LOCATION:--каф.
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Механика жидкости и газа
+UID:aa78397f-d8fe-4292-a7d2-3bf0ea2b473c@aa78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231101T183000Z
+LOCATION:--каф.
+DTSTART:20231101T170000Z
+SUMMARY:ПЗ Механика жидкости и газа
+UID:f9796fc0-977b-4b88-8028-07417d9ccf3e@f979.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20231222T183000Z
+LOCATION:2-25(2Б)
+DTSTART:20231222T170000Z
+SUMMARY:ЛР Схемы и компановки двигателей летательных аппаратов
+UID:ad18b58c-53e9-4819-9b1c-c60a3e3da3e5@ad18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20230908T164500Z
+LOCATION:2-410 (2В)
+DTSTART:20230908T151500Z
+SUMMARY:ЛК Методы математического моделирования
+UID:9d70c8c8-8bcc-4209-9ddf-3f2ff6606322@9d70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20231027T164500Z
+LOCATION:2-25(2Б)
+DTSTART:20231027T151500Z
+SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
+UID:49975b38-95a1-4cc0-b9cf-f083578880e4@4997.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231123T183000Z
+LOCATION:2-401-1 (2В)
+DTSTART:20231123T170000Z
+SUMMARY:ЛР Методы математического моделирования
+UID:8e6e272a-4ee7-4dce-b9df-f6f313b790e7@8e6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зарецкий Максим Владимирович
+DTEND:20230911T183000Z
+LOCATION:ГУК Б-650
+DTSTART:20230911T170000Z
+SUMMARY:ПЗ Детали механизмов и машин
+UID:28b678a1-9630-447f-83fc-610059d63e12@28b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20230908T183000Z
+LOCATION:2-410 (2В)
+DTSTART:20230908T170000Z
+SUMMARY:ЛК Методы математического моделирования
+UID:c2fe083b-e460-40ba-ac8d-8abd14adeee1@c2fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20231012T183000Z
+LOCATION:2-23(2Б)
+DTSTART:20231012T170000Z
+SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:f0648057-cd25-4bfe-ac38-079bd1e9c513@f064.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермилов Юрий Иванович
+DTEND:20231107T164500Z
+LOCATION:2-22(2Б)
+DTSTART:20231107T151500Z
+SUMMARY:ЛР Динамика и прочность
+UID:7372d004-e516-406e-aa16-718dd74ad539@7372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231225T164500Z
+LOCATION:--каф.
+DTSTART:20231225T151500Z
+SUMMARY:ЛК Теория и расчет авиационных двигателей
+UID:a4a2890a-edd4-4804-8a02-b23f27fc0721@a4a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зарецкий Максим Владимирович
+DTEND:20231009T164500Z
+LOCATION:ГУК Б-650
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Детали механизмов и машин
+UID:ef79b8c7-9ace-442d-965a-936fda57c735@ef79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермилов Юрий Иванович
+DTEND:20230912T183000Z
+LOCATION:2-22(2Б)
+DTSTART:20230912T170000Z
+SUMMARY:ЛК Динамика и прочность
+UID:c060be67-947e-43f4-8d28-2810043dcfdd@c060.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231212T183000Z
+LOCATION:--каф.
+DTSTART:20231212T170000Z
+SUMMARY:ПЗ Теория и расчет ракетных двигателей
+UID:17ca0ea5-f791-47e8-a84d-ad4d91e66b1c@17ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20230927T164500Z
+LOCATION:2-401(2В)
+DTSTART:20230927T151500Z
+SUMMARY:ПЗ Методы математического моделирования
+UID:58836987-867c-4837-a2de-b6e0ab8d4774@5883.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20230914T183000Z
+LOCATION:2-23(2Б)
+DTSTART:20230914T170000Z
+SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:932c2b2d-517e-4279-bc3c-3f703f46d787@932c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231114T164500Z
+LOCATION:--каф.
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Теория и расчет ракетных двигателей
+UID:29cbe0d7-d244-4744-9d08-08353e94ceee@29cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20230927T183000Z
+LOCATION:2-401(2В)
+DTSTART:20230927T170000Z
+SUMMARY:ПЗ Методы математического моделирования
+UID:ee73e83c-8bd1-4e79-8e59-1211898f97ca@ee73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231221T164500Z
+LOCATION:2-401-1 (2В)
+DTSTART:20231221T151500Z
+SUMMARY:ЛР Методы математического моделирования
+UID:092d3d93-deed-44a4-9bd9-b0479c6294f4@092d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермилов Юрий Иванович
+DTEND:20231010T183000Z
+LOCATION:2-22(2Б)
+DTSTART:20231010T170000Z
+SUMMARY:ЛК Динамика и прочность
+UID:bcaa6ad4-d2b2-4acf-9bcc-b64f4020ce10@bcaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231226T164500Z
+LOCATION:--каф.
+DTSTART:20231226T151500Z
+SUMMARY:ЛК Теория и расчет ракетных двигателей
+UID:e1842336-364b-4867-869a-6521d0ad2c83@e184.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231017T183000Z
+LOCATION:--каф.
+DTSTART:20231017T170000Z
+SUMMARY:ПЗ Теория и расчет ракетных двигателей
+UID:cc3b3d11-b26f-4f50-a0ab-3a422c619beb@cc3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231129T164500Z
+LOCATION:--каф.
+DTSTART:20231129T151500Z
+SUMMARY:ПЗ Механика жидкости и газа
+UID:d3c33f3c-28c5-4947-b5c4-245b6addf724@d3c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231030T183000Z
+LOCATION:--каф.
+DTSTART:20231030T170000Z
+SUMMARY:ПЗ Теория и расчет авиационных двигателей
+UID:419dbd6b-ac1b-4280-95c1-41ccb0238300@419d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231128T164500Z
+LOCATION:--каф.
+DTSTART:20231128T151500Z
+SUMMARY:ЛК Теория и расчет ракетных двигателей
+UID:665b45b5-459d-4352-afa5-67a469825057@665b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231207T183000Z
+LOCATION:2-401-1 (2В)
+DTSTART:20231207T170000Z
+SUMMARY:ЛР Методы математического моделирования
+UID:309b8b43-080f-495d-b26d-f5147f8d1122@309b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231114T183000Z
+LOCATION:--каф.
+DTSTART:20231114T170000Z
+SUMMARY:ПЗ Теория и расчет ракетных двигателей
+UID:7fd81232-7ae1-43f4-898d-c6b033a30b52@7fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20230928T183000Z
+LOCATION:2-23(2Б)
+DTSTART:20230928T170000Z
+SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:a933d421-f655-47fe-8e3b-908fa9fd2483@a933.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермилов Юрий Иванович
+DTEND:20230926T164500Z
+LOCATION:2-22(2Б)
+DTSTART:20230926T151500Z
+SUMMARY:ЛК Динамика и прочность
+UID:9ea74d39-ab0e-4e62-9423-131996a02309@9ea7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зарецкий Максим Владимирович
+DTEND:20230911T164500Z
+LOCATION:ГУК Б-650
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Детали механизмов и машин
+UID:c4a599cd-c8cf-4822-822b-446e642d829b@c4a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20230922T164500Z
+LOCATION:2-410 (2В)
+DTSTART:20230922T151500Z
+SUMMARY:ЛК Методы математического моделирования
+UID:76dfd57d-6375-4f41-bead-fe79bffd219f@76df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231128T183000Z
+LOCATION:--каф.
+DTSTART:20231128T170000Z
+SUMMARY:ПЗ Теория и расчет ракетных двигателей
+UID:c4dc6021-bd6d-4a9d-9dd5-e20f08d0c5d0@c4dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231117T164500Z
+LOCATION:2-410 (2В)
+DTSTART:20231117T151500Z
+SUMMARY:ЛК Методы математического моделирования
+UID:29384981-8f3a-410d-beb2-11e0eab3514d@2938.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20230914T164500Z
+LOCATION:2-23(2Б)
+DTSTART:20230914T151500Z
+SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:c2777e00-8cd7-4e46-9b68-464c0d2c1f10@c277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермилов Юрий Иванович
+DTEND:20230926T183000Z
+LOCATION:2-22(2Б)
+DTSTART:20230926T170000Z
+SUMMARY:ЛК Динамика и прочность
+UID:09cedba9-d5fa-4b95-951a-b667272c2089@09ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231113T183000Z
+LOCATION:--каф.
+DTSTART:20231113T170000Z
+SUMMARY:ПЗ Теория и расчет авиационных двигателей
+UID:a5d8e4e6-8921-4ece-a684-ecdd7c93fd3c@a5d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермилов Юрий Иванович
+DTEND:20231121T183000Z
+LOCATION:2-22(2Б)
+DTSTART:20231121T170000Z
+SUMMARY:ЛР Динамика и прочность
+UID:4b06fc34-9b73-4956-a533-5e0f15528a8f@4b06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20230920T183000Z
+LOCATION:--каф.
+DTSTART:20230920T170000Z
+SUMMARY:ЛК Механика жидкости и газа
+UID:afcedb3d-2dda-4a4f-93ce-d9a2da479f7e@afce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231201T164500Z
+LOCATION:2-410 (2В)
+DTSTART:20231201T151500Z
+SUMMARY:ЛК Методы математического моделирования
+UID:cfba031c-4fb4-48a3-9dea-cc99c73a7117@cfba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20231027T183000Z
+LOCATION:2-25(2Б)
+DTSTART:20231027T170000Z
+SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
+UID:6c980b09-a5f5-4e23-b9c5-1bee27fad3bb@6c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20231124T164500Z
+LOCATION:2-25(2Б)
+DTSTART:20231124T151500Z
+SUMMARY:ЛР Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:9d230443-e141-4da0-bd46-335f84d8c99a@9d23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231109T164500Z
+LOCATION:2-401-1 (2В)
+DTSTART:20231109T151500Z
+SUMMARY:ЛР Методы математического моделирования
+UID:f49acdac-7c33-4721-9a90-34badc69c18c@f49a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231229T183000Z
+LOCATION:2-410 (2В)
+DTSTART:20231229T170000Z
+SUMMARY:ЛК Методы математического моделирования
+UID:812a7567-ad1b-46b6-bf74-67496ec2a698@812a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231109T183000Z
+LOCATION:2-401-1 (2В)
+DTSTART:20231109T170000Z
+SUMMARY:ЛР Методы математического моделирования
+UID:4d52eca7-9613-476f-8c49-b3365d025280@4d52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231115T164500Z
+LOCATION:--каф.
+DTSTART:20231115T151500Z
+SUMMARY:ПЗ Механика жидкости и газа
+UID:685f41ce-c841-487c-a718-8543b885e257@685f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231020T164500Z
+LOCATION:2-410 (2В)
+DTSTART:20231020T151500Z
+SUMMARY:ЛК Методы математического моделирования
+UID:6733852b-a8f8-4a04-833d-1219ae997252@6733.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20231110T164500Z
+LOCATION:2-25(2Б)
+DTSTART:20231110T151500Z
+SUMMARY:ЛР Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:d2004294-3dd2-4d3b-8b5c-d3e471a0fce6@d200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермилов Юрий Иванович
+DTEND:20231107T183000Z
+LOCATION:2-22(2Б)
+DTSTART:20231107T170000Z
+SUMMARY:ЛР Динамика и прочность
+UID:f8a6caef-6d80-4654-83bb-f7521db41e65@f8a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20230928T164500Z
+LOCATION:2-23(2Б)
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:0d4d8b52-6314-4153-a6b4-506d81c3c573@0d4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231018T164500Z
+LOCATION:--каф.
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Механика жидкости и газа
+UID:c880656e-2463-41ad-99fe-177ec77ab21d@c880.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231127T183000Z
+LOCATION:--каф.
+DTSTART:20231127T170000Z
+SUMMARY:ПЗ Теория и расчет авиационных двигателей
+UID:dc101728-2ed6-48bd-a02d-7ec60cd53fa8@dc10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231207T164500Z
+LOCATION:2-401-1 (2В)
+DTSTART:20231207T151500Z
+SUMMARY:ЛР Методы математического моделирования
+UID:16aae15f-c140-4dcc-8145-bdfe5d563e19@16aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231002T183000Z
+LOCATION:--каф.
+DTSTART:20231002T170000Z
+SUMMARY:ПЗ Теория и расчет авиационных двигателей
+UID:cc17d231-7008-445a-8c37-783ad02d4eee@cc17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231108T164500Z
+LOCATION:2-401(2В)
+DTSTART:20231108T151500Z
+SUMMARY:ПЗ Методы математического моделирования
+UID:13128c73-c7bf-437b-b6cc-f858ecf279e3@1312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231117T183000Z
+LOCATION:2-410 (2В)
+DTSTART:20231117T170000Z
+SUMMARY:ЛК Методы математического моделирования
+UID:27a68b4b-c9c0-4f89-8939-43e448e22b6b@27a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зарецкий Максим Владимирович
+DTEND:20230925T183000Z
+LOCATION:ГУК Б-650
+DTSTART:20230925T170000Z
+SUMMARY:ПЗ Детали механизмов и машин
+UID:87a6d2d2-419d-41c0-a1cc-6ca9bb53b6b1@87a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ЛК Теория и расчет авиационных двигателей
+UID:316c9e2c-983a-496d-8f74-a1c50eb70cdd@316c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20230906T164500Z
+LOCATION:--каф.
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Механика жидкости и газа
+UID:437682db-54a7-448f-b12a-23c695ed73fd@4376.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231025T183000Z
+LOCATION:2-401(2В)
+DTSTART:20231025T170000Z
+SUMMARY:ПЗ Методы математического моделирования
+UID:47ccfd5c-6273-4549-8e04-15f2af90fbea@47cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зарецкий Максим Владимирович
+DTEND:20231023T164500Z
+LOCATION:ГУК Б-650
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Детали механизмов и машин
+UID:0ad1ec04-1812-4f0b-bbe6-41fcd8c43373@0ad1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231127T164500Z
+LOCATION:--каф.
+DTSTART:20231127T151500Z
+SUMMARY:ЛК Теория и расчет авиационных двигателей
+UID:614fff37-092f-4659-bdf2-14ae5b300446@614f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231212T164500Z
+LOCATION:--каф.
+DTSTART:20231212T151500Z
+SUMMARY:ЛК Теория и расчет ракетных двигателей
+UID:679db1fb-5e4c-4659-b553-ce74257aea26@679d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зарецкий Максим Владимирович
+DTEND:20231009T183000Z
+LOCATION:ГУК Б-650
+DTSTART:20231009T170000Z
+SUMMARY:ПЗ Детали механизмов и машин
+UID:012a47bc-fde8-46cf-a659-f94a5a1d1055@012a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231215T183000Z
+LOCATION:2-410 (2В)
+DTSTART:20231215T170000Z
+SUMMARY:ЛК Методы математического моделирования
+UID:52b40d3e-36f1-4a00-a248-aa132663c809@52b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20231110T183000Z
+LOCATION:2-25(2Б)
+DTSTART:20231110T170000Z
+SUMMARY:ЛР Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:e6163ad7-5dd4-4990-9afc-7355133d104f@e616.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231218T183000Z
+LOCATION:--каф.
+DTSTART:20231218T170000Z
+SUMMARY:ЛР Механика жидкости и газа
+UID:e8bf5db4-59d5-4738-a49d-f60a6367b189@e8bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20230918T183000Z
+LOCATION:--каф.
+DTSTART:20230918T170000Z
+SUMMARY:ПЗ Теория и расчет авиационных двигателей
+UID:ca76a2ed-2187-461b-a632-61bea53d6856@ca76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231108T183000Z
+LOCATION:2-401(2В)
+DTSTART:20231108T170000Z
+SUMMARY:ПЗ Методы математического моделирования
+UID:df5f9ada-1e1a-4c82-90f0-4ab90b9f20b8@df5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231225T183000Z
+LOCATION:--каф.
+DTSTART:20231225T170000Z
+SUMMARY:ПЗ Теория и расчет авиационных двигателей
+UID:d7f1eac8-6fa0-4d69-bca5-b1a3621c34d2@d7f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231025T164500Z
+LOCATION:2-401(2В)
+DTSTART:20231025T151500Z
+SUMMARY:ПЗ Методы математического моделирования
+UID:d7fa2d55-6740-4d4f-b42d-4ff1dc0e0fca@d7fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20230915T183000Z
+LOCATION:2-25(2Б)
+DTSTART:20230915T170000Z
+SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
+UID:b02421bc-0695-47ec-aa29-25cae2b0d020@b024.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231003T183000Z
+LOCATION:--каф.
+DTSTART:20231003T170000Z
+SUMMARY:ПЗ Теория и расчет ракетных двигателей
+UID:0d063c31-0283-40b6-a13b-58650bc5a4be@0d06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231115T183000Z
+LOCATION:--каф.
+DTSTART:20231115T170000Z
+SUMMARY:ПЗ Механика жидкости и газа
+UID:dd5f4691-d18d-4f03-a01f-366a2d3e0786@dd5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ЛР Механика жидкости и газа
+UID:e04b55b3-58cb-4aaa-beae-9b15f6131016@e04b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231006T164500Z
+LOCATION:2-410 (2В)
+DTSTART:20231006T151500Z
+SUMMARY:ЛК Методы математического моделирования
+UID:77d79ebb-2f0b-40ea-9a0b-677eb37a1998@77d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20230922T183000Z
+LOCATION:2-410 (2В)
+DTSTART:20230922T170000Z
+SUMMARY:ЛК Методы математического моделирования
+UID:6192fcf7-edd2-4c5d-ba49-8271ec33aa93@6192.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зарецкий Максим Владимирович
+DTEND:20231023T183000Z
+LOCATION:ГУК Б-650
+DTSTART:20231023T170000Z
+SUMMARY:ПЗ Детали механизмов и машин
+UID:109c15d3-4ac4-4d84-b48e-90448f7f0d06@109c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231017T164500Z
+LOCATION:--каф.
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Теория и расчет ракетных двигателей
+UID:3ff8e9db-90a8-4128-9a5d-9fe5e35eac54@3ff8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231204T164500Z
+LOCATION:--каф.
+DTSTART:20231204T151500Z
+SUMMARY:ЛР Механика жидкости и газа
+UID:d7117037-7a9e-4372-ad19-6de2142ee8e1@d711.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20231124T183000Z
+LOCATION:2-25(2Б)
+DTSTART:20231124T170000Z
+SUMMARY:ЛР Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:570f81b9-7ce5-4c2c-905e-c902a2f39409@570f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ЛК Теория и расчет авиационных двигателей
+UID:720e40f0-2c06-4f30-9ddf-4f51a8dd0b68@720e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231129T183000Z
+LOCATION:--каф.
+DTSTART:20231129T170000Z
+SUMMARY:ПЗ Механика жидкости и газа
+UID:ed3f6659-5ba6-446f-8d43-aa8fc2e1a1d0@ed3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20231208T164500Z
+LOCATION:2-25(2Б)
+DTSTART:20231208T151500Z
+SUMMARY:ЛР Схемы и компановки двигателей летательных аппаратов
+UID:b7a4b5bb-ce5e-44c4-a72b-bee78aa16bbb@b7a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231226T183000Z
+LOCATION:--каф.
+DTSTART:20231226T170000Z
+SUMMARY:ПЗ Теория и расчет ракетных двигателей
+UID:7d12a1a4-928a-4798-a700-666c4039212a@7d12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231211T183000Z
+LOCATION:--каф.
+DTSTART:20231211T170000Z
+SUMMARY:ПЗ Теория и расчет авиационных двигателей
+UID:295ad919-dcf4-46ec-9a54-d351ce973481@295a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231018T183000Z
+LOCATION:--каф.
+DTSTART:20231018T170000Z
+SUMMARY:ЛК Механика жидкости и газа
+UID:41744328-f5f2-4df7-8d10-5d2d25b75ae1@4174.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231003T164500Z
+LOCATION:--каф.
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Теория и расчет ракетных двигателей
+UID:69611cb6-377d-413c-8bcd-881d2b09412d@6961.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231201T183000Z
+LOCATION:2-410 (2В)
+DTSTART:20231201T170000Z
+SUMMARY:ЛК Методы математического моделирования
+UID:25570826-bbfb-41cf-8e28-61d034336f1a@2557.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231211T164500Z
+LOCATION:--каф.
+DTSTART:20231211T151500Z
+SUMMARY:ЛК Теория и расчет авиационных двигателей
+UID:4910bcca-f3d1-48e4-9f6a-b456a32644b0@4910.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231221T183000Z
+LOCATION:2-401-1 (2В)
+DTSTART:20231221T170000Z
+SUMMARY:ЛР Методы математического моделирования
+UID:510827d7-3baf-4a2b-998d-c70a0d215bb9@5108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ЛК Теория и расчет авиационных двигателей
+UID:1b765843-ad27-453a-abb2-f1a61116074e@1b76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ЛК Теория и расчет авиационных двигателей
+UID:a741d921-ea35-448f-98ca-d27bec75ec8b@a741.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20230915T164500Z
+LOCATION:2-25(2Б)
+DTSTART:20230915T151500Z
+SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
+UID:e8d57239-12f2-4e82-b32d-3897a9c9fcb8@e8d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермилов Юрий Иванович
+DTEND:20231024T183000Z
+LOCATION:2-22(2Б)
+DTSTART:20231024T170000Z
+SUMMARY:ЛК Динамика и прочность
+UID:a30148c9-8281-4e1d-a0d2-c322a41ca51d@a301.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20230929T183000Z
+LOCATION:2-25(2Б)
+DTSTART:20230929T170000Z
+SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
+UID:2ec911c7-638a-41fb-abe2-1032411b9155@2ec9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20230906T183000Z
+LOCATION:--каф.
+DTSTART:20230906T170000Z
+SUMMARY:ЛК Механика жидкости и газа
+UID:d878ed83-ee43-494c-8403-c1b42e25204c@d878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Попов Георгий Владимирович
+DTEND:20231012T164500Z
+LOCATION:2-23(2Б)
+DTSTART:20231012T151500Z
+SUMMARY:ЛК Конструкция и проектирование узлов и деталей двигателей летательных аппаратов
+UID:6f97b15d-1afc-4dd5-a1a6-cc03326d908a@6f97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбунов Артем Александрович
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ЛК Теория и расчет авиационных двигателей
+UID:06e0f8ad-9b8a-409d-9d73-f2e3830a9e43@06e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231006T183000Z
+LOCATION:2-410 (2В)
+DTSTART:20231006T170000Z
+SUMMARY:ЛК Методы математического моделирования
+UID:3031bace-a363-46d8-8cf4-09ce478ea97a@3031.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231215T164500Z
+LOCATION:2-410 (2В)
+DTSTART:20231215T151500Z
+SUMMARY:ЛК Методы математического моделирования
+UID:d4f7879d-0c4e-41bd-bd60-8ea16b84d48c@d4f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20231013T183000Z
+LOCATION:2-25(2Б)
+DTSTART:20231013T170000Z
+SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
+UID:d97a0e6d-69da-4af1-aad8-bb909c0a07aa@d97a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермилов Юрий Иванович
+DTEND:20231024T164500Z
+LOCATION:2-22(2Б)
+DTSTART:20231024T151500Z
+SUMMARY:ЛК Динамика и прочность
+UID:31a63d50-9169-489b-9feb-25807a4d55b4@31a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231011T164500Z
+LOCATION:2-401(2В)
+DTSTART:20231011T151500Z
+SUMMARY:ПЗ Методы математического моделирования
+UID:b967f3ac-9e61-4eef-9a52-7764675d2649@b967.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бирюков Василий Иванович
+DTEND:20231031T164500Z
+LOCATION:--каф.
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Теория и расчет ракетных двигателей
+UID:b3514f69-46eb-441b-8a58-4b3a4afc6941@b351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231218T164500Z
+LOCATION:--каф.
+DTSTART:20231218T151500Z
+SUMMARY:ЛР Механика жидкости и газа
+UID:7820fb56-4489-4958-9f41-32b358a1c8db@7820.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231123T164500Z
+LOCATION:2-401-1 (2В)
+DTSTART:20231123T151500Z
+SUMMARY:ЛР Методы математического моделирования
+UID:1fd6225f-2bb0-46e7-8a3b-261701d3b31c@1fd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20230929T164500Z
+LOCATION:2-25(2Б)
+DTSTART:20230929T151500Z
+SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
+UID:7c5f20de-8322-4368-9c02-36e971682ec1@7c5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20231208T183000Z
+LOCATION:2-25(2Б)
+DTSTART:20231208T170000Z
+SUMMARY:ЛР Схемы и компановки двигателей летательных аппаратов
+UID:3f01664a-ed51-4995-a3cd-5321e3f87871@3f01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231020T183000Z
+LOCATION:2-410 (2В)
+DTSTART:20231020T170000Z
+SUMMARY:ЛК Методы математического моделирования
+UID:6b98941e-47fa-45d1-8850-d3d62f6bdd6d@6b98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231101T164500Z
+LOCATION:--каф.
+DTSTART:20231101T151500Z
+SUMMARY:ПЗ Механика жидкости и газа
+UID:3ca3cfcf-7a83-4800-9f72-31f436e78e77@3ca3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гордеев Святослав Валерьевич
+DTEND:20231122T183000Z
+LOCATION:2-401(2В)
+DTSTART:20231122T170000Z
+SUMMARY:ПЗ Методы математического моделирования
+UID:6c14b0a1-b4a0-4e45-9c40-6af0b92fb124@6c14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231106T183000Z
+LOCATION:--каф.
+DTSTART:20231106T170000Z
+SUMMARY:ЛР Механика жидкости и газа
+UID:6d4d712b-fc66-4f64-9f73-472679f42e93@6d4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Канев Степан Васильевич
+DTEND:20231229T164500Z
+LOCATION:2-410 (2В)
+DTSTART:20231229T151500Z
+SUMMARY:ЛК Методы математического моделирования
+UID:3c8e4e57-1a65-4f9b-b7f4-5fcc843045c1@3c8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ЛР Механика жидкости и газа
+UID:c3898b44-e436-460b-b0d0-9cb050b4dfb2@c389.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермилов Юрий Иванович
+DTEND:20231121T164500Z
+LOCATION:2-22(2Б)
+DTSTART:20231121T151500Z
+SUMMARY:ЛР Динамика и прочность
+UID:298a8297-1c06-40ad-9c97-b8660ca2cf7e@298a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зарецкий Максим Владимирович
+DTEND:20230925T164500Z
+LOCATION:ГУК Б-650
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Детали механизмов и машин
+UID:f561b695-ccb8-4661-a497-c9b7de8fcd4c@f561.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231120T183000Z
+LOCATION:--каф.
+DTSTART:20231120T170000Z
+SUMMARY:ЛР Механика жидкости и газа
+UID:6c2f104b-09af-4a16-86a6-d4187f524b30@6c2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Волощенко Антон Владимирович
+DTEND:20231013T164500Z
+LOCATION:2-25(2Б)
+DTSTART:20231013T151500Z
+SUMMARY:ЛК Схемы и компановки двигателей летательных аппаратов
+UID:bf764f75-d92f-4a39-bf0c-c2f5d1987bb2@bf76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермилов Юрий Иванович
+DTEND:20231010T164500Z
+LOCATION:2-22(2Б)
+DTSTART:20231010T151500Z
+SUMMARY:ЛК Динамика и прочность
+UID:68217f39-73bc-4b31-b127-29fded66e90b@6821.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231204T183000Z
+LOCATION:--каф.
+DTSTART:20231204T170000Z
+SUMMARY:ЛР Механика жидкости и газа
+UID:1ecdef4a-85ef-4bf1-ae11-92d91e581aba@1ecd.org
 END:VEVENT
 END:VCALENDAR

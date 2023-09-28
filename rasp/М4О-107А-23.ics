@@ -2,112 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231115T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231115T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:559e764d-e1c9-461e-88e3-81d033710f6c@559e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230925T183000Z
-LOCATION:3-Зал А
-DTSTART:20230925T170000Z
-SUMMARY:ЛК История и философия науки
-UID:fc3748d2-8503-4289-b524-8aca79f580e3@fc37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231227T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231227T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:ada73ec0-9215-4d3d-a197-9ff2736553f0@ada7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:24Б-621
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:357295e9-75af-473b-9ed9-f8568ff5c637@3572.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240124T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240124T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:9052e382-ce86-4d5c-a8dd-93e828de5d7c@9052.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231024T164500Z
+DTEND:20230926T164500Z
 LOCATION:2-410(2А)
-DTSTART:20231024T151500Z
+DTSTART:20230926T151500Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:658ade61-e891-432d-b54d-0b17772aa356@658a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T131500Z
-LOCATION:24Б-621
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8167a4b8-b691-42da-8cbd-06b1bff730f7@8167.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T131500Z
-LOCATION:24Б-621
-DTSTART:20230904T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:99169c69-4327-45d8-ac9e-5d6d051508d0@9916.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:24Б-621
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d2650f63-d5d9-4769-b8ca-87655130d776@d265.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231024T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231024T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:43db802a-3a3b-421f-bcf6-afa4ca2cfd80@43db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231121T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231121T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:2d6539cb-5a3e-44bc-9134-ad5742b2777f@2d65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231115T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231115T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:de4f9be0-df5a-417c-a6ec-78cd3c009a42@de4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240131T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240131T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:48d6f9d3-5331-46b5-b3e3-05c8579a114b@48d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230904T164500Z
-LOCATION:3-Зал А
-DTSTART:20230904T151500Z
-SUMMARY:ЛК История и философия науки
-UID:d3a51f50-4a63-4fbe-b4bc-e7a65dd6ca6f@d3a5.org
+UID:50bdfdf0-1e8b-4b81-9359-4d9349eba9f4@50bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Овсянникова Мария Николаевна
@@ -115,730 +15,7 @@ DTEND:20231212T150000Z
 LOCATION:2-410(2А)
 DTSTART:20231212T133000Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:d28c9e18-0003-45f5-afe0-964c46d26d22@d28c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20240116T150000Z
-LOCATION:2-410(2А)
-DTSTART:20240116T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:ee3127ea-2838-412e-a4b6-1406a3918221@ee31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231030T183000Z
-LOCATION:3-Зал А
-DTSTART:20231030T170000Z
-SUMMARY:ЛК История и философия науки
-UID:1ca37817-57c2-40fb-9e13-ab43b5929907@1ca3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20240123T150000Z
-LOCATION:2-410(2А)
-DTSTART:20240123T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:d06992b1-40ee-4403-8b3d-31e78b88d108@d069.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231016T164500Z
-LOCATION:3-Зал А
-DTSTART:20231016T151500Z
-SUMMARY:ЛК История и философия науки
-UID:f534112d-90c4-4b1c-8d91-8bf8b2db94d4@f534.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231114T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:351a5553-57c1-4114-ad52-680ba98f2e84@351a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20230926T164500Z
-LOCATION:2-410(2А)
-DTSTART:20230926T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:9850a2ad-020d-4abe-a731-ca26b1d486bc@9850.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T131500Z
-LOCATION:24Б-621
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:58d1d035-9a9d-40d0-a7f4-d967be0e108c@58d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231030T164500Z
-LOCATION:3-Зал А
-DTSTART:20231030T151500Z
-SUMMARY:ЛК История и философия науки
-UID:5fffcc8a-f9ec-497f-95ba-452b96dbf3b7@5fff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231129T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231129T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:c17dc297-d516-41b1-bb6c-e10c83c88269@c17d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T131500Z
-LOCATION:24Б-621
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2481e316-ffb0-4649-aa8d-10651ca640e3@2481.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:24Б-621
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ad91c897-38d9-45da-a5db-982968f74399@ad91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231016T183000Z
-LOCATION:3-Зал А
-DTSTART:20231016T170000Z
-SUMMARY:ЛК История и философия науки
-UID:48252853-9d22-4440-8645-e320d976a4ee@4825.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231212T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231212T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:28191592-e012-4b8a-9a67-9a07d9795c9c@2819.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231213T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231213T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:981c9c81-c490-44ab-8e2a-30351b2d759a@981c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240131T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240131T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:6e047bb1-ba6a-458b-9dcd-f0780be764d3@6e04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20240123T164500Z
-LOCATION:2-410(2А)
-DTSTART:20240123T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:1f2b41f1-46d0-4946-a38d-81ccc18ec083@1f2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:24Б-621
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8573ae2c-f795-4ab5-9956-c9189cb6ac34@8573.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231009T164500Z
-LOCATION:3-Зал А
-DTSTART:20231009T151500Z
-SUMMARY:ЛК История и философия науки
-UID:4b12599b-ac78-4621-b917-2bb39c95d4d6@4b12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231031T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4a01b85c-10e1-4b07-94ff-b80fb638b850@4a01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231128T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231128T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:a191f111-9bac-42cf-8baf-d6ff68ae7a9b@a191.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231010T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231010T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:01b828c1-7d81-4647-8f08-e37ad098091b@01b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231002T164500Z
-LOCATION:3-Зал А
-DTSTART:20231002T151500Z
-SUMMARY:ЛК История и философия науки
-UID:a3e6f67b-643e-4916-bb21-9162892b5c71@a3e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T131500Z
-LOCATION:24Б-621
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:699851c8-5c81-4fdc-bf98-bcb2928af97d@6998.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231009T183000Z
-LOCATION:3-Зал А
-DTSTART:20231009T170000Z
-SUMMARY:ЛК История и философия науки
-UID:3a9a49d7-3c90-4ca0-90a0-e137ec2220a4@3a9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231121T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231121T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:908d2c42-d881-42ac-a966-ffda4c8e51ca@908d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231017T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231017T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:cde95409-b75f-4e26-b758-1b5f29bf6281@cde9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231003T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231003T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:61600cec-225c-4d70-be96-67d176e6648a@6160.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T131500Z
-LOCATION:24Б-621
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8fa522bf-312c-4fb2-91ec-6821b9c437c6@8fa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231128T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231128T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:a6e14685-15ea-4cb7-a988-5d94fe5f2873@a6e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:24Б-621
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b60d36a9-1fee-481b-9de8-50b34e42ac22@b60d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230911T164500Z
-LOCATION:3-Зал А
-DTSTART:20230911T151500Z
-SUMMARY:ЛК История и философия науки
-UID:ffe05dd3-91e2-4259-abfd-516b2101d668@ffe0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:24Б-621
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5049f3d2-5f62-4281-b658-add9471d8939@5049.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231205T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:aced3944-03b6-473d-9369-7d947945ce45@aced.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231226T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231226T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:042b17fe-74b2-4c75-ac23-3286e7cc9d0a@042b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:24Б-621
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d0d9cf27-b54e-4708-9019-e52711cdb09d@d0d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230925T164500Z
-LOCATION:3-Зал А
-DTSTART:20230925T151500Z
-SUMMARY:ЛК История и философия науки
-UID:8a30c782-d05d-480f-aa78-3a4adeceabf9@8a30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231122T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231122T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:6041c7e0-ff12-4082-a87b-86becd598ca9@6041.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:24Б-621
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3b6253d3-6081-4292-b22c-d35bdbbd6814@3b62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20230905T150000Z
-LOCATION:2-410(2А)
-DTSTART:20230905T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:71dc7f11-c6e1-4b2a-9c5d-7cfe5864f4be@71dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:24Б-621
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ca3ee6a0-3a30-4527-a91b-c2bd0cf0d78c@ca3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231129T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231129T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:3c6a3fb8-569f-4b9d-8465-af78b545eacc@3c6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230911T183000Z
-LOCATION:3-Зал А
-DTSTART:20230911T170000Z
-SUMMARY:ЛК История и философия науки
-UID:ba632871-3cdf-4bec-adae-e52bf157144f@ba63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20230919T150000Z
-LOCATION:2-410(2А)
-DTSTART:20230919T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:ad60491c-fba9-4be1-8e7c-6724fadca39c@ad60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231108T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231108T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:39530f20-cf8f-4771-b3c0-0f91b8466199@3953.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231220T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231220T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:6cca35a5-eec3-4b47-af6a-5aec791cea37@6cca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240124T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240124T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:c979e359-af18-473e-a22c-904cb5480b55@c979.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231108T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231108T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:7b358e3d-fbd8-4537-969e-08e7ca10402b@7b35.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:24Б-621
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8d3e6629-4444-4060-bfdd-2a5897897d04@8d3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20230926T150000Z
-LOCATION:2-410(2А)
-DTSTART:20230926T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:a981d7af-55ba-4b3c-9a5f-53327285b75e@a981.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231219T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231219T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:12ad9201-b6f0-467b-9084-89c9fc2b5ef4@12ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20230919T164500Z
-LOCATION:2-410(2А)
-DTSTART:20230919T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:e3534020-2084-4e73-a7ad-717cfa5f463c@e353.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20240109T164500Z
-LOCATION:2-410(2А)
-DTSTART:20240109T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:ace0dea7-0604-4a67-b113-429f08169d6f@ace0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20230912T150000Z
-LOCATION:2-410(2А)
-DTSTART:20230912T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:f29ad4fd-632f-4b41-8432-d96ed7dd5475@f29a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230918T183000Z
-LOCATION:3-Зал А
-DTSTART:20230918T170000Z
-SUMMARY:ЛК История и философия науки
-UID:6298d9f0-92d9-4c77-9007-c8627de9a40b@6298.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20230905T164500Z
-LOCATION:2-410(2А)
-DTSTART:20230905T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:bf844737-31b5-4d71-991d-77d68a7ba2be@bf84.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:24Б-621
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d50b11d4-233f-4098-bffc-fda35618305e@d50b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231220T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231220T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:c77f4905-0a46-412c-a265-6ac8ad4f6bbc@c77f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240117T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240117T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:b02f978e-ad82-4357-bff3-67f44f5e7893@b02f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T131500Z
-LOCATION:24Б-621
-DTSTART:20231016T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:83f7407c-a456-4332-855f-1e3cd9a3a41a@83f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20240130T164500Z
-LOCATION:2-410(2А)
-DTSTART:20240130T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:dcfa42b7-f35d-49ed-89d9-125c8e094285@dcfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231205T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231205T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:6251b90b-2574-4bd1-96ef-0dfe554493ac@6251.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231023T183000Z
-LOCATION:3-Зал А
-DTSTART:20231023T170000Z
-SUMMARY:ЛК История и философия науки
-UID:311a3092-5de3-424d-aecd-f2bf687f4935@311a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231107T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231107T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:f455b40d-6776-4d19-b374-91bcacdd7d82@f455.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231122T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231122T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:0ec490de-42ef-4063-a9cd-1ea227de91fa@0ec4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T131500Z
-LOCATION:24Б-621
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:9b708053-9e69-474d-a2fb-6731299a2337@9b70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231107T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:1943a273-79d3-4705-9e8d-1b757cc973e6@1943.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231002T183000Z
-LOCATION:3-Зал А
-DTSTART:20231002T170000Z
-SUMMARY:ЛК История и философия науки
-UID:2f19af76-65ba-4d78-8fe4-6ae88f63836f@2f19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231206T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231206T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:830f131d-0b65-46aa-81a5-d6481b950a69@830f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:24Б-621
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e0a9b67a-783e-47e9-a5e3-5da59d801e8f@e0a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231206T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231206T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:ae819b7c-f6e3-48f9-b2d8-30913fd64c96@ae81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240110T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240110T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:2fc95351-4ac8-4fa4-8a8b-f059d1f2d859@2fc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20240109T150000Z
-LOCATION:2-410(2А)
-DTSTART:20240109T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:1c8a061b-4035-4c85-95c5-84cf753c0771@1c8a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T131500Z
-LOCATION:24Б-621
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4330957c-935b-4061-87a3-c879df75ce9e@4330.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231023T164500Z
-LOCATION:3-Зал А
-DTSTART:20231023T151500Z
-SUMMARY:ЛК История и философия науки
-UID:17088bdb-d300-4bcf-b6e1-8ef796288396@1708.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231017T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231017T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:035c78b8-1726-4ae8-b90d-59eb171f4726@035c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T131500Z
-LOCATION:24Б-621
-DTSTART:20230918T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:398900be-17d4-4d40-bc54-0dcd7e25ca36@3989.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240110T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240110T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:e9b67d8a-0d1f-4cf2-869b-8f0d6441f1a4@e9b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231226T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231226T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:9eeb6cff-e576-4072-afd2-496f1aa90ca3@9eeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240117T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240117T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:8ccec777-4e81-4234-9f67-f595e568b990@8cce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231010T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231010T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4bc58834-0006-4783-8099-a9ad946ed4e5@4bc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230904T183000Z
-LOCATION:3-Зал А
-DTSTART:20230904T170000Z
-SUMMARY:ЛК История и философия науки
-UID:2704e12e-8838-4879-a910-b5549587235f@2704.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231219T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:01024472-d35d-4d15-9933-95b8d6ef46ab@0102.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231031T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231031T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:f7369766-899e-421f-b04f-e688a00080e9@f736.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T131500Z
-LOCATION:24Б-621
-DTSTART:20231002T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7aea8a9e-57d4-4c3f-96e6-d13e0e886a08@7aea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:24Б-621
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:fcc368a0-fff6-4bbd-aaf7-e13120133562@fcc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231003T150000Z
-LOCATION:2-410(2А)
-DTSTART:20231003T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:9f4a7663-bb86-4aa1-8cb0-84eee1ea6194@9f4a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T131500Z
-LOCATION:24Б-621
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d6dd8250-c338-40da-ae2e-24e1d8b97a25@d6dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231227T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231227T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:cc7c6608-d077-4238-ac16-e30b2e48757a@cc7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20240116T164500Z
-LOCATION:2-410(2А)
-DTSTART:20240116T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:ae12a4e4-74ce-4961-916f-45414a063b21@ae12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231213T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231213T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:a72c6def-4a23-43e3-ab4f-2c9448e2898b@a72c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20240130T150000Z
-LOCATION:2-410(2А)
-DTSTART:20240130T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:da3fd8f3-7274-45ce-80b1-4a6808a94466@da3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20231114T164500Z
-LOCATION:2-410(2А)
-DTSTART:20231114T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:0d9b3c53-9489-4e9b-b61a-055215482861@0d9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Овсянникова Мария Николаевна
-DTEND:20230912T164500Z
-LOCATION:2-410(2А)
-DTSTART:20230912T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:2d7af3bd-f73d-4c94-9a3f-45dbc9cdcbf5@2d7a.org
+UID:0bb8a1e6-c30e-4314-a4b3-3332f1682a36@0bb8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
@@ -846,6 +23,829 @@ DTEND:20230918T164500Z
 LOCATION:3-Зал А
 DTSTART:20230918T151500Z
 SUMMARY:ЛК История и философия науки
-UID:ba86f0a6-5ae6-4286-b32a-c678e1861706@ba86.org
+UID:d78fd4ec-3a4d-443c-a4f3-024ec32fefa9@d78f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231115T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231115T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:1201fe9a-1585-4116-a8e7-f226f072a072@1201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231128T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231128T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2edce853-ed51-4078-8d79-f7ffcba2bf71@2edc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231010T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:6d34257c-bfc1-4f8c-99a8-c0f768bcbd43@6d34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230925T164500Z
+LOCATION:3-Зал А
+DTSTART:20230925T151500Z
+SUMMARY:ЛК История и философия науки
+UID:db92d13c-2435-4f95-bd67-6de3f68caa0f@db92.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T131500Z
+LOCATION:24Б-621
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:988c9a61-c398-4665-9539-9cb2afead6de@988c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231212T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231212T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:d55f76c5-f804-4b82-ab40-b37209995b6e@d55f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231129T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231129T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:bed15c7a-8505-4f40-ad95-c33f53aefafd@bed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231009T183000Z
+LOCATION:3-Зал А
+DTSTART:20231009T170000Z
+SUMMARY:ЛК История и философия науки
+UID:9b53a1f2-800d-4665-b6b5-bbb95498012b@9b53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231016T164500Z
+LOCATION:3-Зал А
+DTSTART:20231016T151500Z
+SUMMARY:ЛК История и философия науки
+UID:44149514-dfe9-4f4f-99a2-e5680f1b50b1@4414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240124T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240124T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:bdd45208-69b0-425e-940e-85aa50ce2963@bdd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230904T183000Z
+LOCATION:3-Зал А
+DTSTART:20230904T170000Z
+SUMMARY:ЛК История и философия науки
+UID:39db4954-1d48-46fc-a50c-ed6edc12b797@39db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230911T164500Z
+LOCATION:3-Зал А
+DTSTART:20230911T151500Z
+SUMMARY:ЛК История и философия науки
+UID:fb6e7927-3cbd-4984-a1fb-c0ec66d2432c@fb6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231003T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231003T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:9485ea1c-767c-4a10-93d5-ea4b5a5e38bd@9485.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231016T183000Z
+LOCATION:3-Зал А
+DTSTART:20231016T170000Z
+SUMMARY:ЛК История и философия науки
+UID:c8506fb5-07e2-4508-b452-24d4ce65af57@c850.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231017T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231017T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:84eeef97-159c-46c9-a7bf-0ba6a5b6bd13@84ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20230919T164500Z
+LOCATION:2-410(2А)
+DTSTART:20230919T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f7597961-3a51-41c1-a8b7-d05382a1a99b@f759.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231226T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231226T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:d20ccbf1-4658-40f7-b372-e5576f5b631d@d20c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20240116T150000Z
+LOCATION:2-410(2А)
+DTSTART:20240116T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:3183eae7-d5c5-481a-bc25-8a37271851d1@3183.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T131500Z
+LOCATION:24Б-621
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e85f378c-abe4-441d-a9b7-8e8c12a1061d@e85f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T131500Z
+LOCATION:24Б-621
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:efa0d78e-8890-4d85-aedf-e2d40bfe5c0b@efa0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:24Б-621
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9ce765fb-3320-417c-aaa3-4829f2ce5716@9ce7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T131500Z
+LOCATION:24Б-621
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a4ccb7d4-e79b-4e64-84d7-2a9041790d88@a4cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240117T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240117T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:12331390-4088-4e04-af27-98356460c113@1233.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231107T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:e758fa1f-1e46-429c-80e3-dca045cb8511@e758.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231023T164500Z
+LOCATION:3-Зал А
+DTSTART:20231023T151500Z
+SUMMARY:ЛК История и философия науки
+UID:9bb5621f-6a84-41d4-85cc-b1357c84f4fa@9bb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231226T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231226T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f22a4eea-2fe3-4bc2-aaf1-e9beb6fd7356@f22a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T131500Z
+LOCATION:24Б-621
+DTSTART:20230918T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f27e0d42-b622-4c32-b080-d88ae786f3b2@f27e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230925T183000Z
+LOCATION:3-Зал А
+DTSTART:20230925T170000Z
+SUMMARY:ЛК История и философия науки
+UID:5be81e04-f87c-4ce2-a43c-4aee08f76932@5be8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T131500Z
+LOCATION:24Б-621
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:2879402f-218c-47a4-9bea-ed52c2ca1a31@2879.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T131500Z
+LOCATION:24Б-621
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:2ab8c224-ea4b-4cd2-b4bc-af12fc7f4c53@2ab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231129T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231129T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:596d1afe-ec81-452c-8527-509a10f94b95@596d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231128T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:44dc47c6-242a-40ef-8c0d-65e10f528458@44dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231121T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231121T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2fc53ee3-01dd-43d5-ad39-cb0c2483f4c4@2fc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231002T183000Z
+LOCATION:3-Зал А
+DTSTART:20231002T170000Z
+SUMMARY:ЛК История и философия науки
+UID:55586aca-99d1-414b-8fc9-ce74d4ce4738@5558.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20230905T150000Z
+LOCATION:2-410(2А)
+DTSTART:20230905T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:252c05e0-8392-4346-bb81-132be3cfb264@252c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240117T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240117T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:ef7187ce-bc1d-4d56-9190-b642f3608968@ef71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231108T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231108T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:d67ed350-59a0-43bd-941d-dcb219f020c7@d67e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20230912T150000Z
+LOCATION:2-410(2А)
+DTSTART:20230912T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:1dd7422e-9737-477e-8930-12bfb642b593@1dd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230904T164500Z
+LOCATION:3-Зал А
+DTSTART:20230904T151500Z
+SUMMARY:ЛК История и философия науки
+UID:95fe950b-0d75-4581-8622-2b79592262df@95fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231220T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231220T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:c66e7461-7ff0-464a-b139-30bdeb2547d5@c66e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231024T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231024T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:6337fcad-2694-4304-849f-00c5842b6cc5@6337.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T131500Z
+LOCATION:24Б-621
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:970a3bfe-c15c-4663-8539-8f152e139878@970a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231023T183000Z
+LOCATION:3-Зал А
+DTSTART:20231023T170000Z
+SUMMARY:ЛК История и философия науки
+UID:720fb083-3641-484b-bc9b-48cfed4122b9@720f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20240130T150000Z
+LOCATION:2-410(2А)
+DTSTART:20240130T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2270a476-eb1a-4dce-928e-849aeb79eb95@2270.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:24Б-621
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:197416c8-fbf7-4d74-9831-53a4ff533477@1974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231220T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231220T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:85a7626f-d2a5-4b7d-9c50-ec7441354194@85a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231219T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231219T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2e189cfc-2b83-4710-aa50-805812194af2@2e18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20240123T164500Z
+LOCATION:2-410(2А)
+DTSTART:20240123T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:84a8bb70-10aa-4e1a-a8a3-0604877013e9@84a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231205T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231205T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:70d1469c-62c1-4021-be56-f7a9876c6905@70d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:24Б-621
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d0b10d86-a927-4b2b-86c3-6f48c5df822c@d0b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231009T164500Z
+LOCATION:3-Зал А
+DTSTART:20231009T151500Z
+SUMMARY:ЛК История и философия науки
+UID:2cb734a2-7e4a-483a-ace3-e2cf0b8433da@2cb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231206T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231206T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:00ccced8-b421-49f2-b999-753aee6adfee@00cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231122T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231122T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:9bd666c6-0a72-476b-8e31-bf5dbc6c8ecb@9bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:24Б-621
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7ec2bc49-ea69-464a-b54b-06f7ae8af9e5@7ec2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231114T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:caf0e1da-ff18-41ce-be7a-766c01fcae35@caf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20230905T164500Z
+LOCATION:2-410(2А)
+DTSTART:20230905T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:cd00fae0-1b2f-41a7-a607-9a5240f23e74@cd00.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T131500Z
+LOCATION:24Б-621
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:70044959-9cc5-4be7-bc1a-380e840f30a9@7004.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:24Б-621
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:24aa775b-4028-4dfa-a3ca-21e5b5d1eda8@24aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20240109T150000Z
+LOCATION:2-410(2А)
+DTSTART:20240109T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:95b187d8-8689-4052-90ee-ba42eb4853a7@95b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231107T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231107T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:947e0510-16db-4cd9-8a84-5dd0e3cdd48a@947e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231227T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231227T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:724dde0b-a6fe-4ab6-ae1f-4ef88e309590@724d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231003T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231003T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:c7d55690-e4bc-4f90-85f0-e3d6650d9fb4@c7d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231030T164500Z
+LOCATION:3-Зал А
+DTSTART:20231030T151500Z
+SUMMARY:ЛК История и философия науки
+UID:55588709-c120-4bb4-8d58-de071a3557ca@5558.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230918T183000Z
+LOCATION:3-Зал А
+DTSTART:20230918T170000Z
+SUMMARY:ЛК История и философия науки
+UID:d6204c8c-3a35-4722-936c-a83e2ed23e00@d620.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20240109T164500Z
+LOCATION:2-410(2А)
+DTSTART:20240109T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:b2597bd0-1b64-4997-930b-1aea284a8f18@b259.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T131500Z
+LOCATION:24Б-621
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c5fb15e3-bead-4d66-8d45-21065636ef10@c5fb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:24Б-621
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6b582006-0ca9-4f0e-810c-91aa7c8d5842@6b58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231002T164500Z
+LOCATION:3-Зал А
+DTSTART:20231002T151500Z
+SUMMARY:ЛК История и философия науки
+UID:5a5f045e-d723-4ae1-9544-e094d532ac9b@5a5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231206T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231206T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:6fe47810-7f82-4d47-8c01-2f7a7de5168c@6fe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240124T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240124T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:ff2ae469-50d9-4acd-bc1d-11cf5aa40db5@ff2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231219T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:70a1bcbf-a098-416e-a135-14ef17ccf317@70a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240131T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240131T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:a3d8c4d0-276f-4975-ba85-a1c046a1d5e7@a3d8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T131500Z
+LOCATION:24Б-621
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d0e2f390-7e93-470e-8239-08d7538b324b@d0e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:24Б-621
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:46c5a724-f8c7-481a-a533-68b89ead5c5d@46c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231108T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231108T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:81a57f16-aa04-404b-b95d-b2e84f9544de@81a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240110T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240110T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:03d9b69f-74f2-4bd9-b297-60ae7c124955@03d9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:24Б-621
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:59f0133f-b306-4e86-bed5-dc38fba7d969@59f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231213T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231213T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:e3d21e5e-c833-4749-b327-c974d3215a99@e3d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231031T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231031T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:ed16cae8-a956-4233-bd9e-f5cf80a0020b@ed16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231115T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231115T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:7d975169-7849-4a82-b317-4db148378196@7d97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20230919T150000Z
+LOCATION:2-410(2А)
+DTSTART:20230919T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:50893652-5996-4428-80fe-e69aaae4a635@5089.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231205T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:7a40d32f-46d0-41a4-a30d-a51298a4307b@7a40.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:24Б-621
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f3b2f866-a771-4caa-ba9c-2db4c2b838a6@f3b2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:24Б-621
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a1fba029-a99c-4401-b1d8-d514884bae78@a1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20230926T150000Z
+LOCATION:2-410(2А)
+DTSTART:20230926T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:17e065b1-dd79-438b-ac3e-4db51a52cd38@17e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231031T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:db011e2e-17ca-47df-9902-0f47757a6f19@db01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240110T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240110T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:5a9f96ca-9966-4b3f-a343-eacd4029f70b@5a9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231213T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231213T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:3f53ea92-c1b9-485d-8864-6eebe4e065c7@3f53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231227T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231227T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:0981e15f-a3d7-4e54-8c2b-66a4577be8ea@0981.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240131T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240131T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:2f478e54-58b1-4a86-b742-f84f879d3713@2f47.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T131500Z
+LOCATION:24Б-621
+DTSTART:20230904T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f1aaf6de-8b6d-4356-8ad8-02ed2c4fb0e8@f1aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20240116T164500Z
+LOCATION:2-410(2А)
+DTSTART:20240116T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:b88eee14-e5c6-4d43-ac76-f41ada933ffd@b88e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231114T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231114T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:760a335d-0e4d-417e-a1ac-1082b00d40dd@760a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231122T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231122T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:fbee680d-f427-459a-8027-5d763a0461aa@fbee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231030T183000Z
+LOCATION:3-Зал А
+DTSTART:20231030T170000Z
+SUMMARY:ЛК История и философия науки
+UID:e19affd0-e08c-48fb-8698-979438ec900c@e19a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20240130T164500Z
+LOCATION:2-410(2А)
+DTSTART:20240130T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:0d845ff0-5257-4e0f-a859-7567e9992536@0d84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231024T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f8dfd5d6-7da9-46d8-b822-f3af8020f9eb@f8df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231010T150000Z
+LOCATION:2-410(2А)
+DTSTART:20231010T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:fbb29fc8-dc29-4c65-91f6-5ef833f09758@fbb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231017T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231017T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:bf76e878-3bd5-43a2-9e94-773f25bc02e4@bf76.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:24Б-621
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9c74b904-ee16-4ab4-9199-dfb44f06d63b@9c74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20240123T150000Z
+LOCATION:2-410(2А)
+DTSTART:20240123T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:dfeb4c2d-78e1-48c6-a220-e8a395ac1b94@dfeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230911T183000Z
+LOCATION:3-Зал А
+DTSTART:20230911T170000Z
+SUMMARY:ЛК История и философия науки
+UID:de30cc66-67c0-4d62-8fd5-c2a967facfd1@de30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20231121T164500Z
+LOCATION:2-410(2А)
+DTSTART:20231121T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2a3807b8-5f79-4ea2-b2db-3e4b39745f2a@2a38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Овсянникова Мария Николаевна
+DTEND:20230912T164500Z
+LOCATION:2-410(2А)
+DTSTART:20230912T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:8696c06c-b85e-4755-a86e-5207ccae2075@8696.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:24Б-621
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:dc1c790f-f491-49f7-a86f-83bb4dd58a2a@dc1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:24Б-621
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:fd150e05-93fd-473f-8381-48b486a8b655@fd15.org
 END:VEVENT
 END:VCALENDAR

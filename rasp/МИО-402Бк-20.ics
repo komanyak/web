@@ -2,92 +2,322 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231130T131500Z
-LOCATION:7-401
-DTSTART:20231130T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:10e14494-50e0-447f-82cc-627c034aee5e@10e1.org
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230929T131500Z
+LOCATION:2-407(2А)
+DTSTART:20230929T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:5b3e818f-84a0-4f6b-98ad-707b87379980@5b3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231002T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231002T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:0b27c8d2-7972-4fb5-a658-b2cd25129841@0b27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230908T113000Z
+LOCATION:2-407(2А)
+DTSTART:20230908T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:3cdfc6b5-04fc-411a-933a-67c1ad6387c9@3cdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231201T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231201T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:b6209165-9dbe-4a45-af8c-173a6f3d7f6d@b620.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231016T131500Z
+LOCATION:7-209
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:5d177e66-32d8-4850-a8c3-703e81e50e60@5d17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231117T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231117T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:876aeedf-0028-4a05-81b7-79a80cbe2976@876a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20230913T073000Z
+LOCATION:2-308(2А)
+DTSTART:20230913T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:ad9c0b18-950f-492a-829a-d4e7315a920f@ad9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231009T113000Z
+LOCATION:7-209
+DTSTART:20231009T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:ce34a2b5-793e-4f14-b783-be79d1fa4382@ce34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231018T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231018T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:85691dbb-8efc-409f-9ac9-0747eec6dc0a@8569.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T150000Z
+LOCATION:24-407-2
+DTSTART:20231012T133000Z
+SUMMARY:ПЗ Культура речевого общения второго иностранного языка
+UID:3aa3b7f2-bc57-4ffa-99a2-97da5a25bcd3@3aa3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
 DTEND:20231221T131500Z
-LOCATION:7-401
+LOCATION:5-319
 DTSTART:20231221T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:e778c937-3a8c-4935-8a53-635142bcbafa@e778.org
+UID:36c81a8b-0fa7-4ca0-8654-4f47be7d60b9@36c8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231214T131500Z
-LOCATION:7-401
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:23170c38-72c6-4a76-84a7-ed6c11b73b2a@2317.org
+DTEND:20231031T073000Z
+LOCATION:24-407-2
+DTSTART:20231031T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:3091901e-e419-4735-957f-541c4a4efcea@3091.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20230914T131500Z
-LOCATION:7-401
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:f7bf0c93-1c26-40a6-a1f6-70688031fcef@f7bf.org
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231229T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231229T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:9a298fbc-ba4e-4e14-b51f-d540b615d6c1@9a29.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231109T131500Z
-LOCATION:7-401
-DTSTART:20231109T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:06460991-129d-4c8f-8d48-553290151527@0646.org
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231009T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231009T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:40b1d4ac-75a3-4b0c-b76d-a0e6cdef8670@40b1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20230921T131500Z
-LOCATION:7-401
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:32983ad2-d468-453d-adb1-0269978cab17@3298.org
+DTEND:20231024T131500Z
+LOCATION:24-407-2
+DTSTART:20231024T114500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:d36e72d5-476b-4a54-8062-520ea1c0fbb9@d36e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231026T131500Z
-LOCATION:7-401
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:585957b7-e365-48a3-8e43-ec776f395396@5859.org
+DTEND:20230926T113000Z
+LOCATION:24-407-2
+DTSTART:20230926T100000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:f402783f-6aca-4c5e-9798-81a33d5d8f3f@f402.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231102T131500Z
-LOCATION:7-401
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:937797ef-81d2-4764-affd-bccd0340dc5f@9377.org
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231129T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231129T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:85b79fe9-c148-40c3-b261-6cce03c4f349@85b7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231123T131500Z
-LOCATION:7-401
-DTSTART:20231123T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:41b09845-4527-425c-b803-fc7974f229f9@41b0.org
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20230914T113000Z
+LOCATION:2-301(2В)
+DTSTART:20230914T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:ff319928-0343-449a-b645-70f12b202465@ff31.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231207T131500Z
-LOCATION:7-401
-DTSTART:20231207T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:46f38a3d-153e-4cd6-bda7-b9eefe79c3b0@46f3.org
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231211T113000Z
+LOCATION:7-209
+DTSTART:20231211T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:6c015bbc-760d-4c06-ba9e-1f512986b628@6c01.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20231113T164500Z
-LOCATION:5-122
-DTSTART:20231113T151500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:c4b8e7ee-092b-47f4-a057-a2ce3fd1ff29@c4b8.org
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231103T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231103T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:799f29fe-739d-4a6f-84fa-307d084207dc@799f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231130T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:21bc8441-4e88-407f-9334-2fc97a0dace7@21bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T073000Z
+LOCATION:24-407-2
+DTSTART:20231010T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:bc21b483-867e-47fe-ae98-82b2815fea01@bc21.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T091500Z
+LOCATION:24-407-2
+DTSTART:20231031T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:7d89a2ab-c07b-4853-bbe5-5c8d1b23eaec@7d89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231106T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231106T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:cd3c73c9-6871-4e9c-a135-8d87dd80f8da@cd3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231211T131500Z
+LOCATION:7-209
+DTSTART:20231211T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:bf0bc320-08ac-480d-ac5c-fd54b3ad691c@bf0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231023T131500Z
+LOCATION:7-209
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:bc3541de-34be-4795-aa56-15395df0ba12@bc35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231222T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231222T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:88d98223-745e-47b3-bf45-33f6eb44e46e@88d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230929T091500Z
+LOCATION:2-407(2А)
+DTSTART:20230929T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:cbed03d2-e7ca-4283-95b6-91a4b5a958cd@cbed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231006T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231006T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:2896fe91-ebe7-4190-8c61-d318cff65c3c@2896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231023T113000Z
+LOCATION:7-209
+DTSTART:20231023T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:b5e4631b-08a1-421f-b240-7dca5799c961@b5e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231026T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231026T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:f8000719-1909-4ede-85f2-f5f2b64ae83a@f800.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231204T131500Z
+LOCATION:7-209
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:a72e084c-e60f-438e-aa42-8c57812dab32@a72e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T150000Z
+LOCATION:24-407-2
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ Культура речевого общения второго иностранного языка
+UID:a769b864-672a-4fd8-9bcc-62897dd59213@a769.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Степанов Сергей Анатольевич
+DTEND:20231204T150000Z
+LOCATION:2-401(2А)
+DTSTART:20231204T133000Z
+SUMMARY:ПЗ Перевод специального текста (авиационная тематика)
+UID:da88f1b0-8532-4373-a001-1c24dab52c40@da88.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T150000Z
+LOCATION:24-407-2
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Культура речевого общения второго иностранного языка
+UID:356ed322-e38d-4287-b12f-71c617af7ca6@356e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20230907T113000Z
+LOCATION:2-301(2В)
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:0514cf6c-bf1e-4156-ab6b-cc5928a7d784@0514.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231120T131500Z
+LOCATION:7-209
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:33a54877-c545-4cc6-a59c-bb92aa300cf6@33a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231229T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231229T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:5e05c466-d4e3-46a8-a633-387a0847cac5@5e05.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T091500Z
+LOCATION:24-407-2
+DTSTART:20230919T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:cb691ef5-1ef4-475e-8c65-601366b8c289@cb69.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T131500Z
+LOCATION:24-407-2
+DTSTART:20230912T114500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:1f82db38-538a-4539-a295-f4d22684b48b@1f82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231127T113000Z
+LOCATION:7-209
+DTSTART:20231127T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:f13e041f-88aa-4046-bbf1-6b22e16e4ad3@f13e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусилетов Александр Андреевич
@@ -95,39 +325,482 @@ DTEND:20231127T164500Z
 LOCATION:5-122
 DTSTART:20231127T151500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:1989980f-79e7-49b8-9208-c33f92e0f780@1989.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20231211T164500Z
-LOCATION:5-122
-DTSTART:20231211T151500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:d74a9973-5f04-48c8-b986-736fdcc8c945@d74a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20231225T164500Z
-LOCATION:5-122
-DTSTART:20231225T151500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:a7f777d2-8fb7-469e-9a30-966670de64aa@a7f7.org
+UID:314070dd-65cc-486a-9170-6d6a5404c77b@3140.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20230907T131500Z
-LOCATION:7-401
-DTSTART:20230907T114500Z
+DTEND:20231012T131500Z
+LOCATION:5-319
+DTSTART:20231012T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:0c095d14-852f-4ba1-998a-7b686743b25f@0c09.org
+UID:956b113a-d903-4f17-b87c-0eb6c9e2afbf@956b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20231127T150000Z
-LOCATION:5-122
-DTSTART:20231127T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:d4a86b2a-fea0-4193-997d-bdd54ba35d7e@d4a8.org
+DTEND:20231123T150000Z
+LOCATION:24-407-2
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ Культура речевого общения второго иностранного языка
+UID:06779b26-57da-4a3a-98a6-ccbfcb67f554@0677.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231229T073000Z
+LOCATION:7-213А
+DTSTART:20231229T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:2eef9b13-05dd-4ea5-ac21-4e018d9595ef@2eef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231207T131500Z
+LOCATION:5-319
+DTSTART:20231207T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:2a6578c2-a32c-478d-8821-612dd8eb19d6@2a65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231204T113000Z
+LOCATION:7-209
+DTSTART:20231204T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:be977066-ec73-4f9c-9257-69dc5d250fdf@be97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231113T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231113T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:515bfb89-07ab-4433-a711-a89c9153fa78@515b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20230906T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230906T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:2e0d6fed-0585-4fb7-9bca-999894599c7e@2e0d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T091500Z
+LOCATION:24-407-2
+DTSTART:20231107T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:bb24a7a7-aa41-4ebe-b606-16f301dbf067@bb24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20230906T073000Z
+LOCATION:2-308(2А)
+DTSTART:20230906T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:2e52ec61-9015-4a3a-8936-adb53606460c@2e52.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T131500Z
+LOCATION:24-407-2
+DTSTART:20230926T114500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:0a95204f-5a39-4c92-a2f4-d1d6eb6593e3@0a95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231201T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231201T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:a713a00d-b5b6-4a3a-9dbf-e440f60de82e@a713.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231016T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231016T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:0924021f-c0ce-490b-a00d-3eff1902ec74@0924.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231117T073000Z
+LOCATION:7-213А
+DTSTART:20231117T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:4c310ebc-722d-4f80-996b-1b69a3ead1e4@4c31.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T150000Z
+LOCATION:24-407-2
+DTSTART:20230928T133000Z
+SUMMARY:ПЗ Культура речевого общения второго иностранного языка
+UID:c06e706c-7824-4912-b49d-b0195120120f@c06e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T091500Z
+LOCATION:24-407-2
+DTSTART:20230912T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:ce302600-8f2b-4e23-8ece-91f4380a0d0e@ce30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20230921T131500Z
+LOCATION:5-319
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:79868c22-c5aa-465d-a2c8-70c49303027c@7986.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231019T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:bf342c56-5a52-4170-838d-fd0940758778@bf34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231013T073000Z
+LOCATION:7-213А
+DTSTART:20231013T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:7413f092-77b8-43dd-9986-0049357ccf24@7413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231113T131500Z
+LOCATION:7-209
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:f8e5b8f2-223a-46da-b9ff-ec6a6b10bdf7@f8e5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T113000Z
+LOCATION:24-407-2
+DTSTART:20231121T100000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:7cf19c72-4f05-47e2-9f70-9a13af98791b@7cf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231025T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231025T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:81d2c3a5-8268-46dd-b6b6-f44f0c82e08c@81d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231102T131500Z
+LOCATION:5-319
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:3cef2c6f-1113-499a-b1bd-b3ed7da232df@3cef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231023T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231023T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:4f4f2f0c-f6a6-4687-8ca8-f93f0aea247e@4f4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231110T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231110T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:7ae4285f-a46f-4d61-bafd-d6efd7635de1@7ae4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T091500Z
+LOCATION:24-407-2
+DTSTART:20231010T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:eddebb45-56c5-4b10-abb8-57da8da3f985@edde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231006T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231006T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:38c7e109-ce3f-430f-9805-08cc2a1b6c27@38c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231116T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:ff11986a-a7aa-4c91-8503-1be3eca21fc5@ff11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20230927T073000Z
+LOCATION:2-308(2А)
+DTSTART:20230927T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:749241a9-3e9d-460d-ba66-c1ee087fade6@7492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20230925T131500Z
+LOCATION:7-209
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:be9c12f7-1c10-4683-bf75-ee08afed26d2@be9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T113000Z
+LOCATION:24-407-2
+DTSTART:20231024T100000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:abc24f55-c972-4a72-8d5e-0b3e09142d77@abc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20230904T131500Z
+LOCATION:7-209
+DTSTART:20230904T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:192a8eca-3fc0-4c18-bfc4-ffd9f823e19e@192a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20230911T113000Z
+LOCATION:7-209
+DTSTART:20230911T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:67723467-47f9-4701-80d7-65ce29dad6c0@6772.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Степанов Сергей Анатольевич
+DTEND:20231120T150000Z
+LOCATION:2-401(2А)
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Перевод специального текста (авиационная тематика)
+UID:312c6918-b512-40ef-834c-cf3a52ad372a@312c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231120T113000Z
+LOCATION:7-209
+DTSTART:20231120T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:9d63f6d3-535b-41eb-91c0-7fef24b6a74d@9d63.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T073000Z
+LOCATION:24-407-2
+DTSTART:20231219T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:00126349-4876-4cdc-a696-fd18f4f4940f@0012.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231124T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231124T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:dae40899-f331-4993-b6da-307990585fcb@dae4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231201T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231201T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:73275011-5e39-4ceb-9107-7a042968d164@7327.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231229T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231229T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:bdb89ebb-9997-452e-a51e-e59fdff1a958@bdb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231018T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231018T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:78f87a64-2d4c-4de6-9b3c-c1447c9e81d9@78f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231122T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231122T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:fbdb7a46-7c96-4506-b196-f2d86bef13a4@fbdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20230904T091500Z
+LOCATION:2-308(2А)
+DTSTART:20230904T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:193e0a9d-46e1-475b-b8ee-601d0ec846c1@193e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231009T131500Z
+LOCATION:7-209
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:1479b9dd-52f2-4796-a4ce-161a01579327@1479.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T091500Z
+LOCATION:24-407-2
+DTSTART:20231219T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:d426f4b8-208a-4f3f-99a8-0214ff717292@d426.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231026T131500Z
+LOCATION:5-319
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:6aa7194d-0184-49d0-8602-7cbcfa9ed9a3@6aa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231110T073000Z
+LOCATION:7-213А
+DTSTART:20231110T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:da870263-bffd-4341-b931-53e56869d6e9@da87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20230918T113000Z
+LOCATION:7-209
+DTSTART:20230918T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:db0ee51e-0452-46e8-b4a9-0e496473e820@db0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231101T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231101T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:330ef127-e985-441f-b857-33631ed2e232@330e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T113000Z
+LOCATION:24-407-2
+DTSTART:20231205T100000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:f738c2de-3b7b-4223-b02b-8bce0a0aa729@f738.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231002T113000Z
+LOCATION:7-209
+DTSTART:20231002T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:23a8338e-7121-46f2-81b2-859b8967dd89@23a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T073000Z
+LOCATION:24-407-2
+DTSTART:20231017T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:2477c62c-259f-447a-b309-e6c3da10cf52@2477.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231124T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231124T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:7db0df13-0781-4762-8bfb-c0d97a9777eb@7db0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230922T131500Z
+LOCATION:2-407(2А)
+DTSTART:20230922T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:b30ecf7a-8113-4a92-9c32-4e1fe12af600@b30e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20230911T131500Z
+LOCATION:7-209
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:380fb04d-951d-47b1-bdd8-7be36a4f499d@380f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231123T131500Z
+LOCATION:5-319
+DTSTART:20231123T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:8f6290a8-68c4-4d08-b7e6-86613a618b6c@8f62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231124T073000Z
+LOCATION:7-213А
+DTSTART:20231124T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:437f11ee-ad01-43db-b4bc-ea4f5b3d2dfa@437f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T073000Z
+LOCATION:24-407-2
+DTSTART:20231205T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:1f7d2717-7c05-4e41-86f9-f7e18ddb2b3b@1f7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231102T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:7ae6443a-da81-41f5-b62e-a7c758fc874a@7ae6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Степанов Сергей Анатольевич
+DTEND:20231106T150000Z
+LOCATION:2-401(2А)
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Перевод специального текста (авиационная тематика)
+UID:b996992a-e6ed-460f-9e30-e852ee355fea@b996.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231005T131500Z
+LOCATION:5-319
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:6895ab29-3f0c-4d00-a84f-cb2137665545@6895.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231130T131500Z
+LOCATION:5-319
+DTSTART:20231130T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:72768df9-acfb-4996-b1d1-d8ff38a3451e@7276.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231215T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231215T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:e7ef3e0f-2c5f-44a1-af5e-fe4e25abda5d@e7ef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусилетов Александр Андреевич
@@ -135,7 +808,15 @@ DTEND:20231030T164500Z
 LOCATION:5-122
 DTSTART:20231030T151500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:6a71097c-8ea4-4dfe-abfc-975ef7adaca5@6a71.org
+UID:e72c3190-0476-4ee4-9f28-3dd591d96d10@e72c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231127T131500Z
+LOCATION:7-209
+DTSTART:20231127T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:26c5048a-9e78-4bce-bc6f-2df600f98c61@26c5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусилетов Александр Андреевич
@@ -143,31 +824,123 @@ DTEND:20231113T150000Z
 LOCATION:5-122
 DTSTART:20231113T133000Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:44cbeac6-d41f-4f51-b1ea-3fec41a9129d@44cb.org
+UID:10408dd1-352c-4b3a-9c7d-f2864b1ebfbc@1040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231117T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231117T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:39a0a65f-d298-4145-9c3f-032c319a211c@39a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230908T091500Z
+LOCATION:2-407(2А)
+DTSTART:20230908T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:9c95ab6e-388a-4404-9825-a2b49599f7e4@9c95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231011T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231011T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:27efcb53-5a6f-419f-81ec-08550f5d7945@27ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20230925T091500Z
+LOCATION:2-308(2А)
+DTSTART:20230925T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:c222821d-edf5-461c-807b-9d5f94b0d20f@c222.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20231225T164500Z
+LOCATION:5-122
+DTSTART:20231225T151500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:9dc19b56-4b3e-440e-a854-24c7783f7159@9dc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Степанов Сергей Анатольевич
+DTEND:20231023T150000Z
+LOCATION:2-401(2А)
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Перевод специального текста (авиационная тематика)
+UID:35528383-6a4f-41aa-bd8a-f530e6d03f7c@3552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231207T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231207T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:bfa1db8a-9641-4446-b87a-0a94645d74d9@bfa1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T073000Z
+LOCATION:24-407-2
+DTSTART:20231003T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:a75a3ecf-1780-4439-802e-5e1c9d311e2f@a75a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Степанов Сергей Анатольевич
+DTEND:20230911T150000Z
+LOCATION:2-401(2А)
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Перевод специального текста (авиационная тематика)
+UID:b5263ce9-77ee-4009-a233-c0550736fc3c@b526.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231019T131500Z
-LOCATION:7-401
-DTSTART:20231019T114500Z
+DTEND:20231214T131500Z
+LOCATION:5-319
+DTSTART:20231214T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:370dacd5-129e-4f79-b009-1ccff49b6ce2@370d.org
+UID:0afef65e-2f53-45b1-abaf-b3f6a7d8eaf9@0afe.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20231030T150000Z
-LOCATION:5-122
-DTSTART:20231030T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:a69f8973-bc9d-4b31-bf80-6ec10bfd5947@a69f.org
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20230904T113000Z
+LOCATION:7-209
+DTSTART:20230904T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:bfd047cf-bad2-4ff9-9faa-ed3ee4a05254@bfd0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Гусилетов Александр Андреевич
-DTEND:20231225T150000Z
-LOCATION:5-122
-DTSTART:20231225T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:c730dae0-bde7-42da-b92e-081a5de5f1ec@c730.org
+DTEND:20231207T150000Z
+LOCATION:24-407-2
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Культура речевого общения второго иностранного языка
+UID:777a6cd3-1e22-4702-83ba-9f6840d0e7c6@777a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T131500Z
+LOCATION:24-407-2
+DTSTART:20231219T114500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:42a3c5de-63cf-48f3-a4a7-c04180b20863@42a3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T073000Z
+LOCATION:24-407-2
+DTSTART:20231024T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:d49407cc-56c7-4810-93d0-a2f3b363e648@d494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20230922T073000Z
+LOCATION:7-213А
+DTSTART:20230922T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:f96e4449-a3c0-4864-97aa-9dd608c0d0f1@f96e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Гусилетов Александр Андреевич
@@ -175,38 +948,1071 @@ DTEND:20231211T150000Z
 LOCATION:5-122
 DTSTART:20231211T133000Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:ef74e9df-1da5-4fa9-ad30-548acc828298@ef74.org
+UID:6405eaa9-548b-4c29-8acd-c2190cc95793@6405.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231027T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231027T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:1d44ae5c-58b6-4cc1-9140-c40696c80ba8@1d44.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T091500Z
+LOCATION:24-407-2
+DTSTART:20231205T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:ad197602-e0eb-4cfc-bb9b-d226937beb0f@ad19.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T091500Z
+LOCATION:24-407-2
+DTSTART:20231128T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:f50ee128-6a7a-4980-b466-50bedae3b49c@f50e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230922T113000Z
+LOCATION:2-407(2А)
+DTSTART:20230922T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:641ac61a-bcf7-4552-8823-e1ce07bf6136@641a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231127T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231127T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:7ed0bc8a-9a58-49a6-8c8f-4dbc4351039d@7ed0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231214T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231214T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:3b5c5a2b-fdd6-434c-b290-868db1ff7ec6@3b5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231226T091500Z
+LOCATION:24-407-2
+DTSTART:20231226T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:129c9243-5597-41d7-800e-7674a9392ceb@129c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231005T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:6d4bd44f-94a4-4fbc-8b04-c775b33b81c5@6d4b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T131500Z
+LOCATION:24-407-2
+DTSTART:20231205T114500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:28fa8395-d748-4d94-888e-82316443b959@28fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20230918T131500Z
+LOCATION:7-209
+DTSTART:20230918T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:88e1c8db-5cfd-4064-9b52-825905baa239@88e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231103T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231103T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:bc2ad5e7-90db-4c05-9cd1-ef9f9ff51a57@bc2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231211T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231211T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:bb5a0487-befe-4c4a-99a4-c2ba3c04b4b2@bb5a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T073000Z
+LOCATION:24-407-2
+DTSTART:20231107T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:1519daa5-2734-40f5-8ec8-8d4f7fc0be77@1519.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T091500Z
+LOCATION:24-407-2
+DTSTART:20230905T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:0876d3e5-07f3-4fb9-8c5b-83d5d82efd97@0876.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231020T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231020T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:7ece7f5a-2e58-4680-a966-301cc64cc7fc@7ece.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231206T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231206T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:f41e06c6-0010-4035-a71f-34b316e8d3fd@f41e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231027T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231027T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:b5c32aa6-4a9f-48c7-9a28-6b07b7167ba1@b5c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231103T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231103T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:9c4038c0-4d7b-48b4-b81a-5d70cf68c640@9c40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231208T073000Z
+LOCATION:7-213А
+DTSTART:20231208T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:ac944530-0596-4b8b-87f3-adb1b32300a7@ac94.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T073000Z
+LOCATION:24-407-2
+DTSTART:20230926T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:3043665f-aba4-4d55-9b44-22e141b1fe29@3043.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231027T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231027T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:7083e12b-adf7-4b03-acea-38b6648bd951@7083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231106T131500Z
+LOCATION:7-209
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:5e32e41f-2b9c-4f1f-bcd9-ce74db61ef6b@5e32.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T150000Z
+LOCATION:24-407-2
+DTSTART:20231109T133000Z
+SUMMARY:ПЗ Культура речевого общения второго иностранного языка
+UID:e82a8721-bec8-4b64-856b-8a7629c56c8a@e82a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231116T131500Z
+DTEND:20230907T131500Z
 LOCATION:7-401
-DTSTART:20231116T114500Z
+DTSTART:20230907T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:55a1626d-8e4a-4ac8-8ece-302ec1394f95@55a1.org
+UID:887bdfc8-f7d2-4856-923e-62f23bb92782@887b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231012T131500Z
-LOCATION:7-401
-DTSTART:20231012T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:f93763bf-bb72-4329-b448-c2c0ed950032@f937.org
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231002T131500Z
+LOCATION:7-209
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:272c678c-f691-47de-ab60-bbd4a87cdf26@272c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20230920T073000Z
+LOCATION:2-308(2А)
+DTSTART:20230920T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:21742881-4b7f-4114-8529-2e3b5bc05e97@2174.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T113000Z
+LOCATION:24-407-2
+DTSTART:20231219T100000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:92fc3273-801e-44af-92a0-3078a94fedb9@92fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230929T113000Z
+LOCATION:2-407(2А)
+DTSTART:20230929T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:d8d0c5ce-1840-4aa9-abc6-ffdf931891ab@d8d0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T091500Z
+LOCATION:24-407-2
+DTSTART:20231024T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:59162075-d9e1-41a7-94e2-7ee0b9d20624@5916.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20230918T091500Z
+LOCATION:2-308(2А)
+DTSTART:20230918T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:996ab925-6f0e-4830-9af6-47f0ee2d4d02@996a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231020T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231020T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:837764aa-8100-4156-851e-f217c81a0661@8377.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230908T131500Z
+LOCATION:2-407(2А)
+DTSTART:20230908T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:65524401-8b6a-457d-a761-d8e3166ad3dd@6552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231030T131500Z
+LOCATION:7-209
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:49b8f36c-83a0-461a-abd2-5ac8fb6ec8e9@49b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T073000Z
+LOCATION:24-407-2
+DTSTART:20231114T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:625661cd-4797-413e-92d1-e5d26296d596@6256.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
 DTEND:20230928T131500Z
-LOCATION:7-401
+LOCATION:5-319
 DTSTART:20230928T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:6e43b616-ef5d-4c7a-b4b2-793dc430f682@6e43.org
+UID:9d8fb0b6-7f94-494f-afff-4f33ae2dc892@9d8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231213T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231213T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:597556a3-fabd-47de-8b65-5df8383b02f5@5975.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20230908T073000Z
+LOCATION:7-213А
+DTSTART:20230908T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:e6a433e2-3295-466b-8604-f9e702d441cd@e6a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231222T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231222T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:ffdd2588-f7ca-4fd0-9e64-9b98990d7df9@ffdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231123T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231123T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:cc50b1f3-81de-4f76-a0cf-f98e9b1149ae@cc50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20231225T150000Z
+LOCATION:5-122
+DTSTART:20231225T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:35634476-6141-450a-994b-a3468554905e@3563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231020T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231020T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:837f0c97-bfe1-435e-9d74-ee0c0a5295d4@837f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231218T113000Z
+LOCATION:7-209
+DTSTART:20231218T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:ca4eda7a-d6cd-418a-9401-5cd92d69125d@ca4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231124T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231124T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:6638eba2-56be-4de0-a1b0-db6a9a8febdb@6638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231020T073000Z
+LOCATION:7-213А
+DTSTART:20231020T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:0f1c5756-be54-4392-89e4-2d98a9a58d96@0f1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230915T091500Z
+LOCATION:2-407(2А)
+DTSTART:20230915T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:f8dd1e50-f31f-4312-8dcd-b953ae687212@f8dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20230927T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230927T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:e3e41c83-c31e-4210-9df5-8dacf596626e@e3e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T150000Z
+LOCATION:24-407-2
+DTSTART:20231026T133000Z
+SUMMARY:ПЗ Культура речевого общения второго иностранного языка
+UID:66068794-be3b-4953-9713-138213f41f34@6606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231218T131500Z
+LOCATION:7-209
+DTSTART:20231218T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:bdc2a436-f56e-4a22-9a18-a75a6339db32@bdc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231117T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231117T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:605560ee-c541-4c7c-903e-2d9904cd2df0@6055.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231030T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231030T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:4b72b037-2e8a-4647-b858-8b26ceec98a4@4b72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231025T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231025T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:79d62a6e-f767-423b-b206-72217a4a0587@79d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231108T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231108T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:bad8812b-0371-4026-ab41-04850b6062dd@bad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231006T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231006T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:8786c1f0-7fdf-40f3-84f8-18d31a9a4184@8786.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231005T131500Z
+DTEND:20230914T131500Z
 LOCATION:7-401
-DTSTART:20231005T114500Z
+DTSTART:20230914T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:8d9ef5df-9fef-457f-ad90-118ae2887121@8d9e.org
+UID:edd7af0b-826a-423c-b0b2-97020cc1f3a9@edd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231113T113000Z
+LOCATION:7-209
+DTSTART:20231113T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:5a275522-811d-4eeb-81f6-49bd01287ed7@5a27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231030T113000Z
+LOCATION:7-209
+DTSTART:20231030T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:812094a4-4f14-4beb-9a02-3856aa08785a@8120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231101T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231101T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:b582be73-781a-4051-9f05-8031a216e286@b582.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231213T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231213T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:bd7ffe4b-ba37-4201-98e7-5573e7fa6ad7@bd7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T073000Z
+LOCATION:24-407-2
+DTSTART:20230912T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:ea6726c4-8edd-4770-b9df-eb906883d2e6@ea67.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231017T091500Z
+LOCATION:24-407-2
+DTSTART:20231017T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:eecc9361-22a2-4297-8368-c0d4762b0b17@eecc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231109T131500Z
+LOCATION:5-319
+DTSTART:20231109T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:69c23784-3366-4ee1-aa89-72e74f836651@69c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20230911T091500Z
+LOCATION:2-308(2А)
+DTSTART:20230911T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:ea29bffd-d351-4338-a185-0c7087f76ba3@ea29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231215T073000Z
+LOCATION:7-213А
+DTSTART:20231215T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:62d78a0a-e04a-42e2-a9a2-c125e4887d6d@62d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231011T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231011T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:15e30ca6-9756-4ebe-a029-d6c2145c6ddc@15e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231012T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231012T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:9a11ca01-a1e6-470f-aa8b-fc0088fc8676@9a11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231115T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231115T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:c8f056a3-99d7-4743-bbed-a911ff7303d4@c8f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231129T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231129T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:34f8f8d9-1963-4b81-9c46-93c3f44dbf66@34f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231220T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231220T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:e1c9d003-6622-4d7a-b247-5b192bddeead@e1c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231222T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231222T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:ff846743-f3c0-4fd9-87d8-468dfb7c1a53@ff84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20231127T150000Z
+LOCATION:5-122
+DTSTART:20231127T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:64a590c6-f87c-4c41-a607-b3538046489b@64a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231225T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231225T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:aded5c2a-7883-4f3a-ab6f-0fa6187b50a8@aded.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T091500Z
+LOCATION:24-407-2
+DTSTART:20231212T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:19b3aded-deb7-45d6-9772-b457b0969044@19b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Степанов Сергей Анатольевич
+DTEND:20231009T150000Z
+LOCATION:2-401(2А)
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Перевод специального текста (авиационная тематика)
+UID:f2ac7ec9-f999-467a-bc9e-7a332baf181d@f2ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231027T073000Z
+LOCATION:7-213А
+DTSTART:20231027T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:4e1eda2d-1bfa-42e8-96f2-bdd72f125e97@4e1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231110T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231110T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:4319eb6c-6937-444c-8e31-3bb1897b5034@4319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231006T073000Z
+LOCATION:7-213А
+DTSTART:20231006T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:25b67edb-66f5-4097-bc6d-7a535406c851@25b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20230913T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230913T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:9e71e1dd-5fe9-40db-b0ba-f51793e0b969@9e71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20230925T113000Z
+LOCATION:7-209
+DTSTART:20230925T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:0fc374a6-3226-495d-befd-48581c0bf2f1@0fc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231016T113000Z
+LOCATION:7-209
+DTSTART:20231016T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:f44e0d58-447d-4a86-a0d5-c2812f03b054@f44e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231208T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231208T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:3433e3cf-ce22-4890-9f02-517250618d4d@3433.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230915T113000Z
+LOCATION:2-407(2А)
+DTSTART:20230915T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:6e56bb7e-ea6d-4d5e-b4c4-6b85b29b8fd6@6e56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20230915T073000Z
+LOCATION:7-213А
+DTSTART:20230915T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:f7039ad9-19f5-4696-aef5-ec9f25f5d415@f703.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T113000Z
+LOCATION:24-407-2
+DTSTART:20231010T100000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:81d4c73d-3fc1-41bf-a494-4f458b678c90@81d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20230920T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20230920T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:0e40f5f8-e763-4235-9464-70eeafaa74ad@0e40.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T073000Z
+LOCATION:24-407-2
+DTSTART:20231121T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:b784f9bf-f6fd-4ee0-bb48-9b487e524ec4@b784.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231225T131500Z
+LOCATION:7-209
+DTSTART:20231225T114500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:dc8b49a3-b8ac-40d3-978a-b5ff27b3d25c@dc8b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T113000Z
+LOCATION:24-407-2
+DTSTART:20231107T100000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:e7669431-6060-4fdb-86d0-7d668ff3e61c@e766.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230919T073000Z
+LOCATION:24-407-2
+DTSTART:20230919T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:b1942cfc-5e36-4bb6-abae-72d5bdc4ecec@b194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20231113T164500Z
+LOCATION:5-122
+DTSTART:20231113T151500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:db8ae5b1-11bd-4f0a-a8fc-6b2ef8d91b76@db8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230922T091500Z
+LOCATION:2-407(2А)
+DTSTART:20230922T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:298395d7-8869-4b2c-b908-690038fd57bb@2983.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231128T073000Z
+LOCATION:24-407-2
+DTSTART:20231128T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:9fa9755b-a760-4a0a-b358-e3906382b4af@9fa9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230905T073000Z
+LOCATION:24-407-2
+DTSTART:20230905T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:7a56e0e9-6b1b-40e6-91b9-9595b8c11b9b@7a56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231004T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231004T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:481eca3e-08bb-40c4-bda3-3cfec4589f1f@481e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231004T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231004T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:e78407f8-ced9-4cc6-8a08-3abccd0b5227@e784.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T091500Z
+LOCATION:24-407-2
+DTSTART:20231114T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:dbf9101d-043a-4abf-9087-2c214abf97a5@dbf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231206T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231206T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:7e2d1b6c-2841-425f-9699-ce24e44d7829@7e2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T131500Z
+LOCATION:24-407-2
+DTSTART:20231121T114500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:b236d915-728e-4755-b7e7-01a7bbce5a28@b236.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231227T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231227T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:672cdf4a-4473-43ef-a6ea-f018ecc9520d@672c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20230915T131500Z
+LOCATION:2-407(2А)
+DTSTART:20230915T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:ab1e9495-9457-4d72-9137-24f311986cb8@ab1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231108T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231108T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:73731ea6-ef28-4aef-aa01-1a35c84270dd@7373.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231109T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231109T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:02674a35-07f9-4de9-aad8-cc598b85f22b@0267.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20231211T164500Z
+LOCATION:5-122
+DTSTART:20231211T151500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:405914dd-607a-4129-8755-2241d38e6287@4059.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231013T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231013T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:adae44a9-46a7-4a0d-a4a9-6d7375a36140@adae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231215T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231215T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:c6709fe5-ea3f-495b-ac38-75fad05d29cd@c670.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231225T113000Z
+LOCATION:7-209
+DTSTART:20231225T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:bfc11997-7bae-4d74-a05a-2e80338282f8@bfc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гусилетов Александр Андреевич
+DTEND:20231030T150000Z
+LOCATION:5-122
+DTSTART:20231030T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:2f850ee2-5ee8-4537-aba9-a71c2b08a61d@2f85.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T131500Z
+LOCATION:24-407-2
+DTSTART:20231010T114500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:979b444d-e2dc-4f4e-90ac-45cd19665f10@979b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231208T131500Z
+LOCATION:2-407(2А)
+DTSTART:20231208T114500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:d07a5390-cdc2-4865-a3db-4ea9828c76eb@d07a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Степанов Сергей Анатольевич
+DTEND:20231218T150000Z
+LOCATION:2-401(2А)
+DTSTART:20231218T133000Z
+SUMMARY:ПЗ Перевод специального текста (авиационная тематика)
+UID:2ce62c74-dd5c-4a13-9c75-bac7da5936ec@2ce6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231013T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231013T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:4691f2b5-0ffa-4110-a10b-3a628748cfb6@4691.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T113000Z
+LOCATION:24-407-2
+DTSTART:20230912T100000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:752cc0a9-24a4-4586-aae2-f3e2aa3c729d@752c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231003T091500Z
+LOCATION:24-407-2
+DTSTART:20231003T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:f2e1ec8f-eb82-4423-bb33-751090779a9c@f2e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231218T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231218T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:9e51859b-bc22-46dd-8756-19d7589c97b8@9e51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Степанов Сергей Анатольевич
+DTEND:20230925T150000Z
+LOCATION:2-401(2А)
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Перевод специального текста (авиационная тематика)
+UID:721ed06f-5d93-4fe4-b4ea-9aaff8df2a32@721e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231013T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231013T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:09f123fd-bc4b-4faf-8ff7-d424d569ddcd@09f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20231115T091500Z
+LOCATION:2-319-3 (2А)
+DTSTART:20231115T074500Z
+SUMMARY:ПЗ Основы теории первого иностранного языка
+UID:d7c1c352-ed1e-4ce9-a6f3-5c236f1bac34@d7c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231116T131500Z
+LOCATION:5-319
+DTSTART:20231116T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:a9c22cae-23e6-44f0-8bf0-2b7e8f3188e4@a9c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231122T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231122T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:3bf3c452-2979-4e2d-a9cc-2764882bbc3d@3bf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231103T073000Z
+LOCATION:7-213А
+DTSTART:20231103T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:1f0665d9-4166-41ab-8239-ffe88c7cae62@1f06.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T091500Z
+LOCATION:24-407-2
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:1d60634d-e4e7-4358-b965-a2735e9b1733@1d60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231110T113000Z
+LOCATION:2-407(2А)
+DTSTART:20231110T100000Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:cacb2bc1-c14a-4f6b-8598-e68a3bf3dc50@cacb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T131500Z
+LOCATION:24-407-2
+DTSTART:20231107T114500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:0393b21c-2fd3-495b-a443-6878540237b6@0393.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231212T073000Z
+LOCATION:24-407-2
+DTSTART:20231212T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:5a214de0-6d8b-42a3-bfc9-08a9e73570cc@5a21.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T091500Z
+LOCATION:24-407-2
+DTSTART:20230926T074500Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:75d6d07f-0d4d-4774-8090-6e809a552218@75d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231120T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231120T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:801fcc40-732e-48d9-a140-135f0add6bfc@801f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Афанасов Валерий Васильевич
+DTEND:20231106T113000Z
+LOCATION:7-209
+DTSTART:20231106T100000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:78063b64-c01e-4543-ad16-6c146f18fa8c@7806.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231226T073000Z
+LOCATION:24-407-2
+DTSTART:20231226T060000Z
+SUMMARY:ПЗ Практический курс перевода второго иностранного языка
+UID:86aedff0-18d9-43b2-a3d8-cb1595c2b8df@86ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231208T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231208T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:2e8dd7ab-a421-4fd6-8c28-de9209ed2825@2e8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231222T073000Z
+LOCATION:7-213А
+DTSTART:20231222T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:b13b5d62-45ac-47d6-bd23-2f4d675f6ffc@b13b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20230929T073000Z
+LOCATION:7-213А
+DTSTART:20230929T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:8cf9420e-504f-446e-99e7-8130d1eace53@8cf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231019T131500Z
+LOCATION:5-319
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:7590e636-4e09-44d9-983b-91a5cd8aae22@7590.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20230928T113000Z
+LOCATION:2-301(2В)
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:a8527f1d-4fcc-4108-b2b6-d9063e7badf5@a852.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курбаков Александр Викторович
+DTEND:20231201T073000Z
+LOCATION:7-213А
+DTSTART:20231201T060000Z
+SUMMARY:ПЗ Основы технического перевода
+UID:e349e019-630f-48e7-b848-ad716943bc60@e349.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Комиссарова Елена Анатольевна
+DTEND:20230921T113000Z
+LOCATION:2-301(2В)
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Основы теории первого иностранного языка
+UID:f27cf3ce-ce73-47de-acf0-f4e0f555ae06@f27c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ибрагимова Карине Грачиевна
+DTEND:20231215T091500Z
+LOCATION:2-407(2А)
+DTSTART:20231215T074500Z
+SUMMARY:ПЗ Практический курс перевода первого иностранного языка
+UID:2033947e-da8e-4dd6-8fca-eaa67c54e9ce@2033.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231220T073000Z
+LOCATION:2-308(2А)
+DTSTART:20231220T060000Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:2cf01061-4545-4869-ae14-ca326e52b374@2cf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мец Максим Евгеньевич
+DTEND:20231204T091500Z
+LOCATION:2-308(2А)
+DTSTART:20231204T074500Z
+SUMMARY:ПЗ Культура речевого общения первого иностранного языка
+UID:e5b3b270-41c9-4570-b5c8-355227ba71cb@e5b3.org
 END:VEVENT
 END:VCALENDAR

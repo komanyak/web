@@ -2,383 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:c211ac58-7666-4851-a707-06c133359eed@c211.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231013T164500Z
+DTEND:20231027T164500Z
 LOCATION:3-305
-DTSTART:20231013T151500Z
+DTSTART:20231027T151500Z
 SUMMARY:ПЗ Теория параллельных алгоритмов
-UID:a0c0dd81-cf96-4390-a9a1-d604ee60ea6d@a0c0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7c9a3161-4ad8-44d0-bf48-966d05563bde@7c9a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6c8eb709-f56e-495e-a615-0543d0ec5291@6c8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20230908T150000Z
-LOCATION:3-305
-DTSTART:20230908T133000Z
-SUMMARY:ЛК Теория параллельных алгоритмов
-UID:2f4e8cdf-577e-4521-9a9b-74983c50172a@2f4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:4d073c92-1013-4915-a66b-47a5e21bbcae@4d07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231020T164500Z
-LOCATION:3-305
-DTSTART:20231020T151500Z
-SUMMARY:ПЗ Теория параллельных алгоритмов
-UID:40b40c94-83bc-4b21-9907-1b85b5676899@40b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T164500Z
-LOCATION:--каф.
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6c14f286-3e03-475e-acf9-f5ae2bcebf7a@6c14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231117T164500Z
-LOCATION:3-305
-DTSTART:20231117T151500Z
-SUMMARY:ПЗ Теория параллельных алгоритмов
-UID:0b968e06-1110-4d08-b310-2e4fe8ceaca1@0b96.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:0debb129-6120-4797-b4df-0f7830e752ec@0deb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231124T164500Z
-LOCATION:3-305
-DTSTART:20231124T151500Z
-SUMMARY:ПЗ Теория параллельных алгоритмов
-UID:868470cc-9195-47be-b15b-8899a5b969ef@8684.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231006T164500Z
-LOCATION:3-305
-DTSTART:20231006T151500Z
-SUMMARY:ПЗ Теория параллельных алгоритмов
-UID:a1d46fed-3f7e-467a-9fc0-8c4f67a3f881@a1d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231110T150000Z
-LOCATION:3-305
-DTSTART:20231110T133000Z
-SUMMARY:ЛК Теория параллельных алгоритмов
-UID:ab99aff5-8c20-4f93-9314-67734b4b839c@ab99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:56f6dc43-a1c7-497f-babb-bd1f82f44225@56f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20230908T164500Z
-LOCATION:3-305
-DTSTART:20230908T151500Z
-SUMMARY:ПЗ Теория параллельных алгоритмов
-UID:0d342a70-6751-415e-8d24-e1cc54666b9e@0d34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231201T150000Z
-LOCATION:3-305
-DTSTART:20231201T133000Z
-SUMMARY:ЛК Теория параллельных алгоритмов
-UID:b4cc5e25-da08-4775-844f-6c9e2829c6fe@b4cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:30f00d05-cb9e-4138-944c-c0cbc4820d60@30f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:2af05920-f987-4694-9efa-f971d2a332d6@2af0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:0a66eae5-3e30-455c-96f6-561c54b6c764@0a66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231010T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231010T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:09873833-cade-40d2-82ba-c850e78cc792@0987.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:df6bf8b2-f845-4229-ba63-d17b7f57a5e9@df6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231117T150000Z
-LOCATION:3-305
-DTSTART:20231117T133000Z
-SUMMARY:ЛК Теория параллельных алгоритмов
-UID:d4650666-3d23-4391-a155-dc6a51946d35@d465.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231013T150000Z
-LOCATION:3-305
-DTSTART:20231013T133000Z
-SUMMARY:ЛК Теория параллельных алгоритмов
-UID:9f574d55-1de0-4e6b-82e8-3c395367abeb@9f57.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7ce8e740-6e60-4207-b9e5-10fa339ba092@7ce8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20230929T164500Z
-LOCATION:3-305
-DTSTART:20230929T151500Z
-SUMMARY:ПЗ Теория параллельных алгоритмов
-UID:c29429d2-54d9-4242-991a-19eac1995a3a@c294.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:064947b0-baea-45b2-b80d-94c66bf6918d@0649.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231020T150000Z
-LOCATION:3-305
-DTSTART:20231020T133000Z
-SUMMARY:ЛК Теория параллельных алгоритмов
-UID:eca862d6-bf6f-42a1-a898-56c44eded94e@eca8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:cfdb9eeb-45c0-41c8-9d9b-af0db90f60b3@cfdb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ccdbc59b-5b77-4e49-82ba-6d38a88695d9@ccdb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:bcf27eef-552a-463d-bad2-0d2a45e3b346@bcf2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5c771ba8-74ac-4208-be58-1638737db656@5c77.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:12e6b8b9-cf68-46b6-9372-f601f6a29ff0@12e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231010T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231010T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:fcb6ab9f-4b52-47f8-a1d2-f128f34495de@fcb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:a4fbc510-89cb-48e0-9f84-c5808307f6a9@a4fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:76515456-3a64-41e5-89d9-b4cf360b64dd@7651.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231027T150000Z
-LOCATION:3-305
-DTSTART:20231027T133000Z
-SUMMARY:ЛК Теория параллельных алгоритмов
-UID:d877b8cb-d396-49b0-8bfc-78241599e6b6@d877.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231215T150000Z
-LOCATION:3-305
-DTSTART:20231215T133000Z
-SUMMARY:ЛК Теория параллельных алгоритмов
-UID:8c5fbbb4-359d-473c-adff-2de7d158d3a3@8c5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231110T164500Z
-LOCATION:3-305
-DTSTART:20231110T151500Z
-SUMMARY:ПЗ Теория параллельных алгоритмов
-UID:2c3c4b42-d072-4a10-89ea-9f22ba779b21@2c3c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7780b64b-5312-4d58-bad3-e4454ae4d719@7780.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f57a99fe-8ba9-4c43-9b8b-5c5ae51f2976@f57a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:25154acc-ca49-4f77-bfcd-4292ddbf475e@2515.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:33701a89-7d85-4bf5-b2a5-d8e8a5d34480@3370.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231124T150000Z
-LOCATION:3-305
-DTSTART:20231124T133000Z
-SUMMARY:ЛК Теория параллельных алгоритмов
-UID:2ce66bc1-9783-4073-a85e-449b33440362@2ce6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231024T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:683b100b-38a1-4431-ad20-e0ddbd239264@683b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7ae0f6e1-0686-46ce-a0f9-7d1537db6c6a@7ae0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c80ea770-4ad8-42ce-8097-c59e756223df@c80e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:862b3d86-803f-4ea8-9118-f1a0bcdc390b@862b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5e67f3a0-be8e-43f0-a1fc-6719e41fa899@5e67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20230929T150000Z
-LOCATION:3-305
-DTSTART:20230929T133000Z
-SUMMARY:ЛК Теория параллельных алгоритмов
-UID:6ca44532-2df3-4b5f-8bcb-a2e86957d952@6ca4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:55a21587-990e-4420-afc1-46d253e146b3@55a2.org
+UID:1f0935cd-be6b-46aa-9d59-72ab0fd22aab@1f09.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -386,44 +15,37 @@ DTEND:20231024T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231024T170000Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:0df9a8aa-40fc-477d-a1f0-210730217889@0df9.org
+UID:615ff70e-9208-47d3-aafc-1534a945de8d@615f.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230925T164500Z
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:c29a158c-38a8-4a66-acef-7e31576eb160@c29a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:3ca61675-d19f-4ca4-a5dd-185bd6e03608@3ca6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
 LOCATION:--каф.
-DTSTART:20230925T151500Z
+DTSTART:20231106T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:28144b7c-91ae-41ff-9dab-6991c73234a5@2814.org
+UID:f33f21b6-6595-4789-9013-f9aab9737b0d@f33f.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230904T150000Z
+DTEND:20231002T164500Z
 LOCATION:--каф.
-DTSTART:20230904T133000Z
+DTSTART:20231002T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:0f26d25b-f932-4d30-b754-881363d185be@0f26.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:54de9a93-c0ee-4e2b-9e47-6e25b1226973@54de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231027T164500Z
-LOCATION:3-305
-DTSTART:20231027T151500Z
-SUMMARY:ПЗ Теория параллельных алгоритмов
-UID:3d3dd706-690d-41fe-b8c3-ab8454c55615@3d3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20230915T164500Z
-LOCATION:3-305
-DTSTART:20230915T151500Z
-SUMMARY:ПЗ Теория параллельных алгоритмов
-UID:ad6e19b1-2323-483c-b616-99330f064e8d@ad6e.org
+UID:8b214b3c-0548-4954-953c-f725d25778e9@8b21.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Протасов Владислав Иванович
@@ -431,46 +53,38 @@ DTEND:20230915T150000Z
 LOCATION:3-305
 DTSTART:20230915T133000Z
 SUMMARY:ЛК Теория параллельных алгоритмов
-UID:c274e1ec-f654-41fa-94a2-4df300aa56b7@c274.org
+UID:cbeb5fbf-0571-4d22-8d53-bfa98187700e@cbeb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231208T150000Z
+DTEND:20231215T150000Z
 LOCATION:3-305
-DTSTART:20231208T133000Z
+DTSTART:20231215T133000Z
 SUMMARY:ЛК Теория параллельных алгоритмов
-UID:f26555ae-b3c1-4b19-b921-30fdbd1fe5d9@f265.org
+UID:adb110f1-c32a-4a16-88dc-8a9779a32b5a@adb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:07a62010-4ca5-4744-aa1e-7e1b72c80407@07a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231013T150000Z
+LOCATION:3-305
+DTSTART:20231013T133000Z
+SUMMARY:ЛК Теория параллельных алгоритмов
+UID:73d2cc82-1eae-4521-8506-50c26ecf7e07@73d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
+DTEND:20231003T183000Z
 LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
+DTSTART:20231003T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:ebddfb98-2fe3-492a-915a-cd7ca131877e@ebdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20230922T164500Z
-LOCATION:3-305
-DTSTART:20230922T151500Z
-SUMMARY:ПЗ Теория параллельных алгоритмов
-UID:480d4718-ebba-4d8b-b1ae-419c92832ff3@480d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:234bcad4-2949-46a0-8507-141d41b844cc@234b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Протасов Владислав Иванович
-DTEND:20231006T150000Z
-LOCATION:3-305
-DTSTART:20231006T133000Z
-SUMMARY:ЛК Теория параллельных алгоритмов
-UID:df4af6d2-72f6-412e-baa2-ffc2920ed494@df4a.org
+UID:fe675c3c-3c31-4d1a-85eb-53846dbbeda4@fe67.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Протасов Владислав Иванович
@@ -478,7 +92,214 @@ DTEND:20230922T150000Z
 LOCATION:3-305
 DTSTART:20230922T133000Z
 SUMMARY:ЛК Теория параллельных алгоритмов
-UID:21501609-9c81-4e8f-815b-68c9642a1075@2150.org
+UID:e55ae8a2-85e9-42ca-939a-4f935e03a749@e55a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a646d7f0-e396-481b-9f43-0e5e564f2b86@a646.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3ee5a39e-9823-4ee5-bcef-43e2e834190d@3ee5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:b7632e5b-6c99-4dbc-a2ad-295b041954d6@b763.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b631b0d7-350c-4b46-99fc-a7dcb23aa90d@b631.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231208T150000Z
+LOCATION:3-305
+DTSTART:20231208T133000Z
+SUMMARY:ЛК Теория параллельных алгоритмов
+UID:58bf5445-a59c-41db-943c-ab5d821bccd6@58bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231117T150000Z
+LOCATION:3-305
+DTSTART:20231117T133000Z
+SUMMARY:ЛК Теория параллельных алгоритмов
+UID:86c51a69-630b-4949-b68f-380cc4b58926@86c5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:83719c66-893a-4737-a8a9-f39817acf04f@8371.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231027T150000Z
+LOCATION:3-305
+DTSTART:20231027T133000Z
+SUMMARY:ЛК Теория параллельных алгоритмов
+UID:53824574-8441-4b97-a0d3-104aef12b0b4@5382.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:74a2bfa9-9ab3-4283-aee2-82c45cf37471@74a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20230929T150000Z
+LOCATION:3-305
+DTSTART:20230929T133000Z
+SUMMARY:ЛК Теория параллельных алгоритмов
+UID:94ee3974-cceb-4e10-9edb-30ae6a491001@94ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:27a61524-f70c-442f-add4-51856ac05e2e@27a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:60ef7bc1-0eef-4cc9-bed4-121421eb2b1f@60ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231117T164500Z
+LOCATION:3-305
+DTSTART:20231117T151500Z
+SUMMARY:ПЗ Теория параллельных алгоритмов
+UID:6e5546ec-5fb2-4717-937d-e323a6552956@6e55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:2cfe7361-ccd9-4e88-9046-ecab3646f74d@2cfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e7918e54-8633-451d-803e-5e859d151533@e791.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20230908T164500Z
+LOCATION:3-305
+DTSTART:20230908T151500Z
+SUMMARY:ПЗ Теория параллельных алгоритмов
+UID:51f748f6-92e3-432c-aed3-fe6834129e6a@51f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20230929T164500Z
+LOCATION:3-305
+DTSTART:20230929T151500Z
+SUMMARY:ПЗ Теория параллельных алгоритмов
+UID:e2f7a7f7-3993-4985-831c-6db584d8eea1@e2f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:06f5bbda-13b5-4386-a0f2-d397fac07380@06f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231010T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:d4fa6cb8-2b0e-45af-bc19-b88541948e4d@d4fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:6c7c70fd-2f05-4d14-b3f9-184e117e29a4@6c7c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e63008ce-a0a1-4968-9f8d-f4076c35d765@e630.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231020T164500Z
+LOCATION:3-305
+DTSTART:20231020T151500Z
+SUMMARY:ПЗ Теория параллельных алгоритмов
+UID:90f5b3c2-80b6-4820-b296-135ff6e6a810@90f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231201T150000Z
+LOCATION:3-305
+DTSTART:20231201T133000Z
+SUMMARY:ЛК Теория параллельных алгоритмов
+UID:488862df-973c-4d9b-b1b9-860d85846711@4888.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231110T164500Z
+LOCATION:3-305
+DTSTART:20231110T151500Z
+SUMMARY:ПЗ Теория параллельных алгоритмов
+UID:347dd58f-c311-48fb-adb1-34f941ea203f@347d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231006T150000Z
+LOCATION:3-305
+DTSTART:20231006T133000Z
+SUMMARY:ЛК Теория параллельных алгоритмов
+UID:8d45bfcd-5cd4-44ee-a322-c7e9e0f94956@8d45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20230908T150000Z
+LOCATION:3-305
+DTSTART:20230908T133000Z
+SUMMARY:ЛК Теория параллельных алгоритмов
+UID:e6ad80fe-1b69-4015-af51-31e966d225a1@e6ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:ac5a928b-6e20-4eaa-8722-b607fbc5c93f@ac5a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -486,6 +307,185 @@ DTEND:20231017T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231017T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:0b09812d-5133-4190-bb2b-290e25676127@0b09.org
+UID:6452fad5-8859-4e14-bfcf-15b6cb13112d@6452.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b941e2f8-9af9-4fe2-9820-8a2f5689fb6f@b941.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231124T150000Z
+LOCATION:3-305
+DTSTART:20231124T133000Z
+SUMMARY:ЛК Теория параллельных алгоритмов
+UID:84cc4e8b-7925-4b56-88e7-da8889f57c30@84cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20230922T164500Z
+LOCATION:3-305
+DTSTART:20230922T151500Z
+SUMMARY:ПЗ Теория параллельных алгоритмов
+UID:684a9069-5f29-4ea5-b7a3-fe80dc7ef97b@684a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231124T164500Z
+LOCATION:3-305
+DTSTART:20231124T151500Z
+SUMMARY:ПЗ Теория параллельных алгоритмов
+UID:ea8f58da-42d1-47ad-8a4a-c258997eb8ab@ea8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:988f8ea3-d592-41c9-8685-2924c20e3ec0@988f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231006T164500Z
+LOCATION:3-305
+DTSTART:20231006T151500Z
+SUMMARY:ПЗ Теория параллельных алгоритмов
+UID:747cf50b-8a2b-4a2f-b24a-2dc975d8dbe8@747c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3fb94a4f-6eac-4c03-8d6c-8584e032a2a6@3fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ec36f25f-7369-4b99-913c-6679759ef64b@ec36.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c6d7695d-7ef6-4ccc-a85d-f004ba962ed5@c6d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20230915T164500Z
+LOCATION:3-305
+DTSTART:20230915T151500Z
+SUMMARY:ПЗ Теория параллельных алгоритмов
+UID:720d3690-d0d7-443a-aa5f-9c9459152418@720d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T164500Z
+LOCATION:--каф.
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f861ba22-fcad-4e83-ba36-6a2ac7df419d@f861.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3c47c593-b2e1-4a76-a2ab-2548dd564b86@3c47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231010T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231010T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:b2f67962-21f3-4d23-b00f-f502fbda5691@b2f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231020T150000Z
+LOCATION:3-305
+DTSTART:20231020T133000Z
+SUMMARY:ЛК Теория параллельных алгоритмов
+UID:e9cfdda7-1ae9-4fb4-ae45-fa5d335f830f@e9cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231024T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:29defd87-eae5-486e-aa11-8d48bc8b35c0@29de.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:81761f82-8818-48ed-ab25-7de44efed46a@8176.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6c114c0e-331d-4615-a8e5-77e4f07e68f0@6c11.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:13f2caef-d887-4239-b385-c7ffd8e9f6b6@13f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:26e758e6-2cfb-481e-9ccd-2aa3bbef205f@26e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:bd2fb506-b521-4c96-a34b-e606b527a98c@bd2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231013T164500Z
+LOCATION:3-305
+DTSTART:20231013T151500Z
+SUMMARY:ПЗ Теория параллельных алгоритмов
+UID:f8136bf4-de13-4282-914e-bb3bb04b8091@f813.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3f3caea5-5eb9-4762-9959-2862138b98ef@3f3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:709ee5b1-ffc7-4c3f-b0e0-6ca8565fc9cd@709e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Протасов Владислав Иванович
+DTEND:20231110T150000Z
+LOCATION:3-305
+DTSTART:20231110T133000Z
+SUMMARY:ЛК Теория параллельных алгоритмов
+UID:aeb1086c-1b74-4e04-89e3-483ac5b5b7a0@aeb1.org
 END:VEVENT
 END:VCALENDAR

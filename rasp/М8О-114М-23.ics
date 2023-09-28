@@ -2,277 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231019T131500Z
-LOCATION:--каф.
-DTSTART:20231019T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:a982ff84-bcf5-4e22-a25e-299000907b2b@a982.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231116T131500Z
-LOCATION:--каф.
-DTSTART:20231116T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:a3425f08-6bf3-44d4-ab87-1b48a05bbaee@a342.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231212T131500Z
-LOCATION:--каф.
-DTSTART:20231212T114500Z
-SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
-UID:78f77050-b7ba-4cd8-88f7-295b0b5cc667@78f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
-UID:bde87878-d0d0-4405-ac7e-9992ffa17a91@bde8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Москаленко Ольга Александровна
-DTEND:20231017T150000Z
-LOCATION:--каф.
-DTSTART:20231017T133000Z
-SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
-UID:848ffbb5-0748-4992-b689-4db10b3d4ff8@848f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T150000Z
-LOCATION:--каф.
-DTSTART:20230912T133000Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:fb7f338a-f669-479d-896e-3ef7c052d6fa@fb7f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Булакина Мария Борисовна
-DTEND:20230914T131500Z
+DTEND:20230902T113000Z
 LOCATION:--каф.
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Мониторинг проектной деятельности
-UID:6eab3195-bbe1-482a-a104-3af38cdbac36@6eab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Москаленко Ольга Александровна
-DTEND:20231017T164500Z
-LOCATION:--каф.
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
-UID:11e9d336-d162-4f66-8a86-2a19f825c9db@11e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20230906T150000Z
-LOCATION:--каф.
-DTSTART:20230906T133000Z
-SUMMARY:ЛК Мультимедийные системы
-UID:ea293708-b884-4597-b98a-c760d4eff482@ea29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20230928T164500Z
-LOCATION:--каф.
-DTSTART:20230928T151500Z
-SUMMARY:ЛР Параллельные и распределенные вычисления
-UID:f9e32c1a-b594-4b97-aa92-df09694f6e34@f9e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231102T164500Z
-LOCATION:--каф.
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Параллельные и распределенные вычисления
-UID:c3e5d5a8-b000-4939-bafc-d6fd6a0af47f@c3e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231108T150000Z
-LOCATION:--каф.
-DTSTART:20231108T133000Z
-SUMMARY:ЛР Мультимедийные системы
-UID:89b817a1-bc70-4bb8-8d4f-1ceeec2b5071@89b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231213T131500Z
-LOCATION:3-421
-DTSTART:20231213T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:fc58e906-bac9-4a91-841c-f7fbfc80ca2c@fc58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20230921T164500Z
-LOCATION:--каф.
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Параллельные и распределенные вычисления
-UID:6038b715-2e83-42bd-a115-470a703fef6e@6038.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T164500Z
-LOCATION:--каф.
-DTSTART:20231010T151500Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:84c2b707-f23c-44f4-85d2-cebf7e62bae6@84c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230930T131500Z
-LOCATION:--каф.
-DTSTART:20230930T114500Z
-SUMMARY:ЛР Управление IT-проектами
-UID:9635867e-dc59-4109-be1d-c7ff9376416b@9635.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
-UID:c1f22d16-8e59-4901-84a3-75bbc8f6c365@c1f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
-UID:0e498d58-432b-4a3a-afe2-854a08fcb201@0e49.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230920T164500Z
-LOCATION:--каф.
-DTSTART:20230920T151500Z
-SUMMARY:ПЗ Мультимедийные системы
-UID:93a7ae36-63f6-45d6-9603-15012ce0f98b@93a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231012T131500Z
-LOCATION:--каф.
-DTSTART:20231012T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:98ec70d1-79eb-4c8d-b706-0589d5dd1b37@98ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T150000Z
-LOCATION:--каф.
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Параллельные и распределенные вычисления
-UID:89cc7e62-05e9-47fe-8696-e8f278a59689@89cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231206T131500Z
-LOCATION:3-421
-DTSTART:20231206T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:98a7c3f9-9f85-464b-957b-49917e74f213@98a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231017T113000Z
-LOCATION:--каф.
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
-UID:9be95331-f0ff-4ff9-b272-80a9a50587a2@9be9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булакина Мария Борисовна
-DTEND:20230930T091500Z
-LOCATION:--каф.
-DTSTART:20230930T074500Z
+DTSTART:20230902T100000Z
 SUMMARY:ЛК Управление IT-проектами
-UID:08cadeb1-7534-42a0-b901-3a3772ea831e@08ca.org
+UID:39a90edf-3faa-40cb-a43d-3f0795dd60aa@39a9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231116T164500Z
+DTEND:20230907T150000Z
 LOCATION:--каф.
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Параллельные и распределенные вычисления
-UID:ea83977a-f26b-4ef4-9edf-314afe574727@ea83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231011T131500Z
-LOCATION:3-421
-DTSTART:20231011T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:57e09198-7bf5-456d-b16b-4d0832e92d88@57e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231024T131500Z
-LOCATION:--каф.
-DTSTART:20231024T114500Z
-SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:45a8ef51-793e-455d-b3f8-a6be6c6455c0@45a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231107T131500Z
-LOCATION:--каф.
-DTSTART:20231107T114500Z
-SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:6fb67175-d057-4a25-929b-44900b2a0eef@6fb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231130T131500Z
-LOCATION:--каф.
-DTSTART:20231130T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:fbb0bf15-79e2-4c21-99f5-1f921cc3b078@fbb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231221T131500Z
-LOCATION:--каф.
-DTSTART:20231221T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:8532c737-1bad-4b9e-8a4b-35b748c275fc@8532.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231227T150000Z
-LOCATION:--каф.
-DTSTART:20231227T133000Z
-SUMMARY:ПЗ Мультимедийные системы
-UID:6f8d26b9-89e6-434a-abd4-e0010a2a4433@6f8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231212T113000Z
-LOCATION:--каф.
-DTSTART:20231212T100000Z
-SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
-UID:37a1c9af-0d3b-40a1-8cdb-9c5f2c0f0f1e@37a1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T150000Z
-LOCATION:--каф.
-DTSTART:20231005T133000Z
+DTSTART:20230907T133000Z
 SUMMARY:ЛК Параллельные и распределенные вычисления
-UID:4caf2d3b-8877-41ce-9497-fce5d8220f29@4caf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231028T131500Z
-LOCATION:--каф.
-DTSTART:20231028T114500Z
-SUMMARY:ЛР Управление IT-проектами
-UID:358e8a66-34dd-4375-9e05-ad16f5fb4013@358e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20230928T150000Z
-LOCATION:--каф.
-DTSTART:20230928T133000Z
-SUMMARY:ЛР Параллельные и распределенные вычисления
-UID:bbcf03a1-73fd-4814-b8b8-282d434e2515@bbcf.org
+UID:64538739-e0cd-4870-83a4-c7fdc78d0fc2@6453.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тимохин Максим Юрьевич
@@ -280,565 +22,14 @@ DTEND:20230911T150000Z
 LOCATION:--каф.
 DTSTART:20230911T133000Z
 SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:45207ca1-2768-4b6e-ae56-f1dac3b1efd0@4520.org
+UID:a9eb7b93-eb50-475d-aa85-2a61126b6b49@a9eb.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231211T150000Z
+DTEND:20231010T164500Z
 LOCATION:--каф.
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
-UID:39be0283-7b9b-453e-ae06-841431a293df@39be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:8fc11ca1-f6ad-4f3a-9b9e-db09802254c8@8fc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231012T150000Z
-LOCATION:--каф.
-DTSTART:20231012T133000Z
-SUMMARY:ЛР Параллельные и распределенные вычисления
-UID:372880c1-73f4-4853-8da0-d4c024fc4669@3728.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231122T131500Z
-LOCATION:3-421
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:685f6a92-bcc9-43a4-b025-58863de41239@685f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231003T131500Z
-LOCATION:--каф.
-DTSTART:20231003T114500Z
-SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
-UID:80ecda07-ce74-4389-82d4-f976fa7273a4@80ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231121T131500Z
-LOCATION:--каф.
-DTSTART:20231121T114500Z
-SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:2679f533-09de-4e5c-be49-d18705814f8e@2679.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231024T113000Z
-LOCATION:--каф.
-DTSTART:20231024T100000Z
-SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:a8feff43-27f6-44ad-bd48-b50bb5220d81@a8fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231121T113000Z
-LOCATION:--каф.
-DTSTART:20231121T100000Z
-SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:e0a7095b-71b0-4628-817a-eaba991ea712@e0a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231010T150000Z
-LOCATION:--каф.
-DTSTART:20231010T133000Z
+DTSTART:20231010T151500Z
 SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:47d588c7-6f8f-41c9-b455-838575c2c67f@47d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231012T164500Z
-LOCATION:--каф.
-DTSTART:20231012T151500Z
-SUMMARY:ЛР Параллельные и распределенные вычисления
-UID:9efe9b09-0174-4a4d-87f8-ecf44b28134b@9efe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231111T131500Z
-LOCATION:--каф.
-DTSTART:20231111T114500Z
-SUMMARY:ЛР Управление IT-проектами
-UID:68d0a715-16e8-402f-8f3d-681a5193617e@68d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20230907T164500Z
-LOCATION:--каф.
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Параллельные и распределенные вычисления
-UID:c5dc4b51-5fc9-4b00-a2e2-054bb5d4409a@c5dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T150000Z
-LOCATION:--каф.
-DTSTART:20231205T133000Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:79d52e1b-1b09-4031-ae87-812a61062a8b@79d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231227T164500Z
-LOCATION:--каф.
-DTSTART:20231227T151500Z
-SUMMARY:ПЗ Мультимедийные системы
-UID:9a3598ed-3fda-4f9a-bc10-d25d7a5a8c2f@9a35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:4e1ffd70-c543-4bf2-828a-0caf43866fff@4e1f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T164500Z
-LOCATION:--каф.
-DTSTART:20231121T151500Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:7a6a22f2-122e-4385-b1fb-8fa4d67f9afd@7a6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:c5ddc9e4-20ae-4c6f-bd8b-ddff9a82d0e6@c5dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231111T113000Z
-LOCATION:--каф.
-DTSTART:20231111T100000Z
-SUMMARY:ЛР Управление IT-проектами
-UID:49f3da06-ffd6-4574-bdac-7cdd02c5ba09@49f3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231014T131500Z
-LOCATION:--каф.
-DTSTART:20231014T114500Z
-SUMMARY:ЛР Управление IT-проектами
-UID:3e762984-d170-490f-b8b6-2ea565fe474c@3e76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20230906T131500Z
-LOCATION:3-421
-DTSTART:20230906T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:9e8335d0-9cb8-4947-b516-24f2852c8ceb@9e83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булакина Мария Борисовна
-DTEND:20231014T091500Z
-LOCATION:--каф.
-DTSTART:20231014T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:829ea219-6331-40e7-a5c4-32d7046b1b8a@829e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T150000Z
-LOCATION:--каф.
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Алгоритмы и алгоритмические языки высокого уровня
-UID:6de37a3e-4d95-4d7f-9988-a4e243faab59@6de3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231115T164500Z
-LOCATION:--каф.
-DTSTART:20231115T151500Z
-SUMMARY:ПЗ Мультимедийные системы
-UID:ffb76746-c00b-4fe3-8628-45a9af835cd2@ffb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20230919T113000Z
-LOCATION:--каф.
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
-UID:ec502c54-d0fd-43df-81ba-5c5104481930@ec50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Москаленко Ольга Александровна
-DTEND:20230919T164500Z
-LOCATION:--каф.
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
-UID:d2b485e9-342a-4dcc-8bed-d20f36fb2017@d2b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20230920T131500Z
-LOCATION:3-421
-DTSTART:20230920T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:f47e88b7-0844-463c-a8e6-166166129585@f47e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T164500Z
-LOCATION:--каф.
-DTSTART:20231114T151500Z
-SUMMARY:ПЗ Алгоритмы и алгоритмические языки высокого уровня
-UID:34354b9d-4a49-4e52-84cc-a8216b190df2@3435.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:d5eaf44c-d3b4-4bbd-9a7f-a3ed6f86277f@d5ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231004T164500Z
-LOCATION:--каф.
-DTSTART:20231004T151500Z
-SUMMARY:ПЗ Мультимедийные системы
-UID:4726aa5c-2191-42b2-ae22-b6dee900b6d0@4726.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20230905T113000Z
-LOCATION:--каф.
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
-UID:6335fe18-4899-490c-b5da-dd46101554d3@6335.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20230926T131500Z
-LOCATION:--каф.
-DTSTART:20230926T114500Z
-SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:fee66cf2-2dee-4dd0-9c59-5e43796054c0@fee6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231122T150000Z
-LOCATION:--каф.
-DTSTART:20231122T133000Z
-SUMMARY:ПЗ Мультимедийные системы
-UID:5092e5b7-ba81-41fe-8a7d-b43e2ae02520@5092.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Москаленко Ольга Александровна
-DTEND:20230905T150000Z
-LOCATION:--каф.
-DTSTART:20230905T133000Z
-SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
-UID:4ca21aaa-4576-47c3-b0db-dd7a6eca8a86@4ca2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231218T150000Z
-LOCATION:--каф.
-DTSTART:20231218T133000Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:c6ea7382-8e84-4e74-b763-2969ac9c070c@c6ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231130T164500Z
-LOCATION:--каф.
-DTSTART:20231130T151500Z
-SUMMARY:ПЗ Параллельные и распределенные вычисления
-UID:f6324e3b-a4f0-47dd-8893-44e0e1aba6fc@f632.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231114T131500Z
-LOCATION:--каф.
-DTSTART:20231114T114500Z
-SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
-UID:4d756eb7-abc7-432b-946f-c546dc9e628d@4d75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231128T131500Z
-LOCATION:--каф.
-DTSTART:20231128T114500Z
-SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
-UID:feabe993-3df7-46a6-b895-e28e17acc991@feab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Москаленко Ольга Александровна
-DTEND:20231003T150000Z
-LOCATION:--каф.
-DTSTART:20231003T133000Z
-SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
-UID:6c1ead5c-97f7-4c55-ac8f-29c10d674e4d@6c1e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231031T164500Z
-LOCATION:--каф.
-DTSTART:20231031T151500Z
-SUMMARY:ПЗ Алгоритмы и алгоритмические языки высокого уровня
-UID:7b65cab4-fec1-4775-b4a9-cf23a5d0c708@7b65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
-UID:55d38ab7-6992-4ba9-86d9-93d381aad241@55d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20230926T113000Z
-LOCATION:--каф.
-DTSTART:20230926T100000Z
-SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:38f41741-9e2a-408b-acd7-5dd484ceab13@38f4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231018T164500Z
-LOCATION:--каф.
-DTSTART:20231018T151500Z
-SUMMARY:ПЗ Мультимедийные системы
-UID:f259c314-caed-44cd-9b33-c10e8c21be95@f259.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булакина Мария Борисовна
-DTEND:20230907T131500Z
-LOCATION:--каф.
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Мониторинг проектной деятельности
-UID:d390d3ca-77c5-445a-a63d-cf609abaf14e@d390.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булакина Мария Борисовна
-DTEND:20231125T091500Z
-LOCATION:--каф.
-DTSTART:20231125T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:74d2c0ea-69ad-4cdd-affd-cb009c8f80b7@74d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231026T164500Z
-LOCATION:--каф.
-DTSTART:20231026T151500Z
-SUMMARY:ЛР Параллельные и распределенные вычисления
-UID:5362e83e-3a4f-4960-af30-9978816aeb4b@5362.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231205T164500Z
-LOCATION:--каф.
-DTSTART:20231205T151500Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:ad7fd3ed-f963-48c2-8333-f7c9792559eb@ad7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20230919T131500Z
-LOCATION:--каф.
-DTSTART:20230919T114500Z
-SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
-UID:520c0c87-ea72-47df-89c9-f1c5ba74f4aa@520c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231219T164500Z
-LOCATION:--каф.
-DTSTART:20231219T151500Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:e93b06d3-921a-4962-a701-d8d15afa168c@e93b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231129T131500Z
-LOCATION:3-421
-DTSTART:20231129T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:e8aa189d-e96b-4188-b6fb-f7486ffcc98b@e8aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231028T113000Z
-LOCATION:--каф.
-DTSTART:20231028T100000Z
-SUMMARY:ЛР Управление IT-проектами
-UID:d3048f97-3d7b-4253-903b-a32f0d82fbd6@d304.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:3ce4a1b1-499e-416e-8a80-f06c6d12e7f0@3ce4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
-UID:754e2c38-e18f-4f74-8dad-c6efc9e7d720@754e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20230928T131500Z
-LOCATION:--каф.
-DTSTART:20230928T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:91201431-ba94-43cc-8fe6-8d21efdacfe1@9120.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231031T113000Z
-LOCATION:--каф.
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
-UID:dfdbc70a-ffcc-44a6-ad92-7e57834b3dcc@dfdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231214T164500Z
-LOCATION:--каф.
-DTSTART:20231214T151500Z
-SUMMARY:ПЗ Параллельные и распределенные вычисления
-UID:0949e069-d22e-4fc8-820f-20c3f4e75433@0949.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
-UID:571038ee-0ad4-4a48-9537-e3037384489b@5710.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231004T131500Z
-LOCATION:3-421
-DTSTART:20231004T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:cf951c6b-f5ab-4657-a2ff-67b7730f0141@cf95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231101T131500Z
-LOCATION:3-421
-DTSTART:20231101T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:de49b816-eb32-430b-8799-65fe550d9877@de49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231218T164500Z
-LOCATION:--каф.
-DTSTART:20231218T151500Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:4fee9dd2-b616-465b-b188-975c7e0d3ffb@4fee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20230913T164500Z
-LOCATION:--каф.
-DTSTART:20230913T151500Z
-SUMMARY:ЛР Мультимедийные системы
-UID:a9edb748-6a4e-4d8c-a71d-3acb4d2a183d@a9ed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231024T150000Z
-LOCATION:--каф.
-DTSTART:20231024T133000Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:7c507832-96aa-4ed4-9e55-0ec1f6e5daad@7c50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20230914T164500Z
-LOCATION:--каф.
-DTSTART:20230914T151500Z
-SUMMARY:ЛР Параллельные и распределенные вычисления
-UID:532cba00-792a-49e8-ab51-60c5ac83fc09@532c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230916T113000Z
-LOCATION:--каф.
-DTSTART:20230916T100000Z
-SUMMARY:ЛР Управление IT-проектами
-UID:b4ce1ee7-1e67-45b2-8d37-edd6975d432e@b4ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20230913T150000Z
-LOCATION:--каф.
-DTSTART:20230913T133000Z
-SUMMARY:ЛР Мультимедийные системы
-UID:24fc30d4-09b0-4e97-b53c-59f7deb9d380@24fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231122T164500Z
-LOCATION:--каф.
-DTSTART:20231122T151500Z
-SUMMARY:ПЗ Мультимедийные системы
-UID:732f588c-6a0e-4cc1-831b-84a2b6fd1452@732f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231228T150000Z
-LOCATION:--каф.
-DTSTART:20231228T133000Z
-SUMMARY:ПЗ Параллельные и распределенные вычисления
-UID:4da3eea9-c0cc-4562-8bc5-829d06346738@4da3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231107T113000Z
-LOCATION:--каф.
-DTSTART:20231107T100000Z
-SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:9a78000f-5da8-4a81-95e8-593aa8d20154@9a78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231004T150000Z
-LOCATION:--каф.
-DTSTART:20231004T133000Z
-SUMMARY:ЛК Мультимедийные системы
-UID:9ce66f15-f187-480e-9c93-1341a703931a@9ce6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231005T164500Z
-LOCATION:--каф.
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Параллельные и распределенные вычисления
-UID:c3579620-7492-4741-9a1f-bfd526cd5149@c357.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231102T131500Z
-LOCATION:--каф.
-DTSTART:20231102T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:c4f905bf-5281-46ca-97f5-b5d2d6478c9f@c4f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булакина Мария Борисовна
-DTEND:20231111T091500Z
-LOCATION:--каф.
-DTSTART:20231111T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:8f40902b-0a62-4d2a-b4c9-779b4bf3843d@8f40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231025T150000Z
-LOCATION:--каф.
-DTSTART:20231025T133000Z
-SUMMARY:ЛР Мультимедийные системы
-UID:7836ee32-8505-46b4-8f59-d6a58d7cd1c4@7836.org
+UID:c3e2eeb3-6959-4749-8914-dc85c8d7915a@c3e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Москаленко Ольга Александровна
@@ -846,317 +37,45 @@ DTEND:20230919T150000Z
 LOCATION:--каф.
 DTSTART:20230919T133000Z
 SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
-UID:56e623a7-4fb7-4893-bdc0-333558a1be2c@56e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231227T131500Z
-LOCATION:3-421
-DTSTART:20231227T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:90a36fb6-11ca-46a5-aca4-51ecd909e556@90a3.org
+UID:def3fee3-5c32-4971-8143-ae408a351595@def3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231129T150000Z
+DTEND:20230913T164500Z
 LOCATION:--каф.
-DTSTART:20231129T133000Z
-SUMMARY:ЛК Мультимедийные системы
-UID:2cd93643-28d7-4ea2-9c9b-92daa001248e@2cd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20230912T131500Z
-LOCATION:--каф.
-DTSTART:20230912T114500Z
-SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:bd8a1792-87b3-4674-bdf3-ddb96f6cda8d@bd8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20230927T150000Z
-LOCATION:--каф.
-DTSTART:20230927T133000Z
+DTSTART:20230913T151500Z
 SUMMARY:ЛР Мультимедийные системы
-UID:947803d1-e410-441d-a575-64a5aee0e946@9478.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
-UID:aecc67f1-32e6-4a4e-aaa8-2261453718c1@aecc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20230913T131500Z
-LOCATION:3-421
-DTSTART:20230913T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:a9d07bd5-ae6b-4f46-9664-4b8a0862d2ff@a9d0.org
+UID:3729a431-00dc-43e8-9c1d-93bed47a7bee@3729.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20230905T131500Z
+DTEND:20231012T164500Z
 LOCATION:--каф.
-DTSTART:20230905T114500Z
-SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
-UID:4b027435-fcae-4d7d-aa06-6b10e5d821ba@4b02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:c746168d-273d-4880-b58f-0dd217490e94@c746.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231014T113000Z
-LOCATION:--каф.
-DTSTART:20231014T100000Z
-SUMMARY:ЛР Управление IT-проектами
-UID:b3ff0f19-d3fb-4269-9f0b-76b8b5bd4d80@b3ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
-UID:c949fb0a-fb4a-4e9e-bd0a-be0ea4315929@c949.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:4c1a937f-33f1-47ca-9de1-08e82320ee41@4c1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231101T150000Z
-LOCATION:--каф.
-DTSTART:20231101T133000Z
-SUMMARY:ЛК Мультимедийные системы
-UID:d39ed2fd-4de1-44b1-9be6-fa92065d50d8@d39e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20230914T150000Z
-LOCATION:--каф.
-DTSTART:20230914T133000Z
+DTSTART:20231012T151500Z
 SUMMARY:ЛР Параллельные и распределенные вычисления
-UID:f75f66fe-071e-4509-a78b-9eda13fd6c53@f75f.org
+UID:fa879aea-fa00-45f8-acbe-7d414ba38e34@fa87.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20230925T150000Z
+DTEND:20231115T164500Z
 LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:c7b895d2-efb5-44ba-aa4f-8f9ec062ec4f@c7b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231211T164500Z
-LOCATION:--каф.
-DTSTART:20231211T151500Z
-SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
-UID:af856c88-d94c-4183-a14d-2e0eb5313e26@af85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231019T164500Z
-LOCATION:--каф.
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Параллельные и распределенные вычисления
-UID:33f0c574-c766-4bbb-8923-9c05f70e9742@33f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231121T150000Z
-LOCATION:--каф.
-DTSTART:20231121T133000Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:d114c5c7-64cf-4f32-9c7a-2811e9862a71@d114.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231018T150000Z
-LOCATION:--каф.
-DTSTART:20231018T133000Z
-SUMMARY:ЛК Мультимедийные системы
-UID:5a1bbddb-3413-4692-b933-dc0016fa6ea3@5a1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231109T131500Z
-LOCATION:--каф.
-DTSTART:20231109T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:23c35266-0972-45ae-9304-39ad73668098@23c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231018T131500Z
-LOCATION:3-421
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:70339019-1056-4144-aa64-8b20c281dc74@7033.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231129T164500Z
-LOCATION:--каф.
-DTSTART:20231129T151500Z
+DTSTART:20231115T151500Z
 SUMMARY:ПЗ Мультимедийные системы
-UID:ef975b1f-af76-44c2-9176-390dbc2b3494@ef97.org
+UID:168b65bd-793c-47c7-bb27-f0d23a7f6f07@168b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231016T164500Z
+DTEND:20230916T113000Z
 LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
-UID:55daa58d-0402-47d4-a6fd-3750ab6c6749@55da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:188ebdb0-44fe-41b6-992c-4749a0cf115a@188e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T150000Z
-LOCATION:--каф.
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Параллельные и распределенные вычисления
-UID:e39153df-4e91-4cdb-914e-574c01ecbc1d@e391.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231025T164500Z
-LOCATION:--каф.
-DTSTART:20231025T151500Z
-SUMMARY:ЛР Мультимедийные системы
-UID:210bd1c5-acbb-410a-b389-00d2ec13706b@210b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231204T164500Z
-LOCATION:--каф.
-DTSTART:20231204T151500Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:f5580b21-02f2-4a75-802e-4b681a15748a@f558.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231011T164500Z
-LOCATION:--каф.
-DTSTART:20231011T151500Z
-SUMMARY:ЛР Мультимедийные системы
-UID:73fe832a-a3a8-4ff3-b108-225012182843@73fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231127T164500Z
-LOCATION:--каф.
-DTSTART:20231127T151500Z
-SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
-UID:da69b5b8-f5bf-4003-b6a5-f1dc07ba89b6@da69.org
+DTSTART:20230916T100000Z
+SUMMARY:ЛР Управление IT-проектами
+UID:139fb41f-1d89-4921-aa13-f8626d4ebea0@139f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231026T150000Z
+DTEND:20231116T164500Z
 LOCATION:--каф.
-DTSTART:20231026T133000Z
-SUMMARY:ЛР Параллельные и распределенные вычисления
-UID:f66358ae-dcc3-4d15-9250-f25be5fc965a@f663.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T150000Z
-LOCATION:--каф.
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Параллельные и распределенные вычисления
-UID:6ab26541-fcb1-4996-8061-3e3be896599a@6ab2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булакина Мария Борисовна
-DTEND:20230916T091500Z
-LOCATION:--каф.
-DTSTART:20230916T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:b8876a36-6344-44fd-93af-d5e646351fad@b887.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T150000Z
-LOCATION:--каф.
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Параллельные и распределенные вычисления
-UID:31085039-d746-4814-93fc-f16931e08ebd@3108.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Москаленко Ольга Александровна
-DTEND:20230905T164500Z
-LOCATION:--каф.
-DTSTART:20230905T151500Z
-SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
-UID:60084bef-4c98-47e4-ab00-68228549e601@6008.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230916T131500Z
-LOCATION:--каф.
-DTSTART:20230916T114500Z
-SUMMARY:ЛР Управление IT-проектами
-UID:e01b0bc2-b0f9-4a9c-ba2e-d5f9d14e7f65@e01b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230912T164500Z
-LOCATION:--каф.
-DTSTART:20230912T151500Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:2c260fd9-9906-4caa-ac4c-8551e4f97eae@2c26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
-UID:656c4df5-c2a9-47c5-aadb-deac98335216@656c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231026T131500Z
-LOCATION:--каф.
-DTSTART:20231026T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:744c743e-995a-4052-83e8-7a04ef878e79@744c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T150000Z
-LOCATION:--каф.
-DTSTART:20231107T133000Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:58974b08-e973-4f53-9873-e0b24bf43510@5897.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231114T150000Z
-LOCATION:--каф.
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Алгоритмы и алгоритмические языки высокого уровня
-UID:6558e6bb-e2fd-4461-b6b5-7c06e351efbd@6558.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
-UID:538d325f-f77f-4988-b657-d3e3573660bc@538d.org
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Параллельные и распределенные вычисления
+UID:5c3c5804-d40f-47e2-adcb-2934867541ff@5c3c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тимохин Максим Юрьевич
@@ -1164,186 +83,44 @@ DTEND:20231120T164500Z
 LOCATION:--каф.
 DTSTART:20231120T151500Z
 SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:c42777d7-0b07-46f7-8e75-9ce9640e7d10@c427.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Москаленко Ольга Александровна
-DTEND:20231003T164500Z
-LOCATION:--каф.
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
-UID:74b12425-4a90-43b7-846f-8bce7dc89226@74b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булакина Мария Борисовна
-DTEND:20230902T113000Z
-LOCATION:--каф.
-DTSTART:20230902T100000Z
-SUMMARY:ЛК Управление IT-проектами
-UID:40b7ed75-659c-4c66-8d33-3f32999b71b1@40b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231114T113000Z
-LOCATION:--каф.
-DTSTART:20231114T100000Z
-SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
-UID:58f51152-760b-406b-a515-69bc04ee38b1@58f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231010T113000Z
-LOCATION:--каф.
-DTSTART:20231010T100000Z
-SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:fe063e52-391b-40f6-8d1e-4d4ac513ea56@fe06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булакина Мария Борисовна
-DTEND:20230902T091500Z
-LOCATION:--каф.
-DTSTART:20230902T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:3eee72f8-dd9a-406e-ac4f-bc8aeda5a330@3eee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T150000Z
-LOCATION:--каф.
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Параллельные и распределенные вычисления
-UID:d70ac41a-6e27-4d68-ab96-22ad23e0c671@d70a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231108T131500Z
-LOCATION:3-421
-DTSTART:20231108T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:b1a3566f-6140-481c-ad5f-e2e8ed04fe28@b1a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231108T164500Z
-LOCATION:--каф.
-DTSTART:20231108T151500Z
-SUMMARY:ЛР Мультимедийные системы
-UID:d6eccdab-6ea9-496c-8b06-1bdfb77f5d9b@d6ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Булакина Мария Борисовна
-DTEND:20231028T091500Z
-LOCATION:--каф.
-DTSTART:20231028T074500Z
-SUMMARY:ЛК Управление IT-проектами
-UID:0abb4d16-8e7e-4229-85a4-5af2a3ddc02b@0abb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231115T131500Z
-LOCATION:3-421
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:d8bb3915-cffa-40d0-ae3b-24a1c178105d@d8bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231207T131500Z
-LOCATION:--каф.
-DTSTART:20231207T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:aea590bb-a431-4b1f-8513-800d368acfbd@aea5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20230921T131500Z
-LOCATION:--каф.
-DTSTART:20230921T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:dcfaed63-4805-494a-a34f-66a5b961da65@dcfa.org
+UID:f5b99df2-f60a-4a2d-bd4f-9f794090a10c@f5b9.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231219T150000Z
 LOCATION:--каф.
 DTSTART:20231219T133000Z
 SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:6d3c7e0e-de4f-4ad4-a9da-cbfb4574182f@6d3c.org
+UID:4648a6aa-b7db-4597-8776-2a3e300d0045@4648.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231010T131500Z
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231011T164500Z
 LOCATION:--каф.
-DTSTART:20231010T114500Z
-SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:009c7f6f-8856-4d47-88f9-a61ed31d4073@009c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231228T164500Z
-LOCATION:--каф.
-DTSTART:20231228T151500Z
-SUMMARY:ПЗ Параллельные и распределенные вычисления
-UID:ae3ea5e5-f32f-4642-9054-b902c601fe1a@ae3e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T150000Z
-LOCATION:--каф.
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Параллельные и распределенные вычисления
-UID:c45a7455-6db6-4dfc-ba0c-0e4274d0c431@c45a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230906T164500Z
-LOCATION:--каф.
-DTSTART:20230906T151500Z
-SUMMARY:ПЗ Мультимедийные системы
-UID:1eb085e8-51f5-41d4-bcc6-a108708c5af3@1eb0.org
+DTSTART:20231011T151500Z
+SUMMARY:ЛР Мультимедийные системы
+UID:003f1762-2a68-4b19-b83e-ede98d784559@003f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231204T150000Z
+DTEND:20231204T164500Z
 LOCATION:--каф.
-DTSTART:20231204T133000Z
+DTSTART:20231204T151500Z
 SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:0feeaf10-ca92-4938-9c20-66e3d4914a9f@0fee.org
+UID:ee30b126-1a5b-49d5-8420-90c83ee87312@ee30.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кондаратцев Вадим Леонидович
-DTEND:20231017T131500Z
+DTEND:20230920T164500Z
 LOCATION:--каф.
-DTSTART:20231017T114500Z
-SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
-UID:b65e7a60-a2e7-4e66-a0f7-36b6778295ee@b65e.org
+DTSTART:20230920T151500Z
+SUMMARY:ПЗ Мультимедийные системы
+UID:252ba929-dc72-46c6-b9f8-fe0562901548@252b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231113T164500Z
+DTEND:20231121T164500Z
 LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
-UID:e2540450-0862-45a8-9a8f-e026453b0cde@e254.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231005T131500Z
-LOCATION:--каф.
-DTSTART:20231005T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:df32dab9-02d7-47f4-b72e-726330567d9d@df32.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231107T164500Z
-LOCATION:--каф.
-DTSTART:20231107T151500Z
+DTSTART:20231121T151500Z
 SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:c9bed53a-fbeb-4c1f-9811-73b4012aa26a@c9be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231123T131500Z
-LOCATION:--каф.
-DTSTART:20231123T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:3a16bdd4-8f79-41d6-8385-f76e6bcf8602@3a16.org
+UID:db279a80-7a5b-4694-8fc6-1668a1c5f38d@db27.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кондаратцев Вадим Леонидович
@@ -1351,75 +128,7 @@ DTEND:20231031T131500Z
 LOCATION:--каф.
 DTSTART:20231031T114500Z
 SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
-UID:62f03029-f9dc-4182-9ec7-a3f040b7d50e@62f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231101T164500Z
-LOCATION:--каф.
-DTSTART:20231101T151500Z
-SUMMARY:ПЗ Мультимедийные системы
-UID:09952a69-dba4-4cf5-832e-a89c01dba024@0995.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T150000Z
-LOCATION:--каф.
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Параллельные и распределенные вычисления
-UID:12b1ff95-4233-4c7d-bf90-d489d715be92@12b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20230927T131500Z
-LOCATION:3-421
-DTSTART:20230927T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:529e038f-6f01-4661-a125-59f38e2c3a1d@529e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230926T164500Z
-LOCATION:--каф.
-DTSTART:20230926T151500Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:7a2e2ec2-3b5c-4759-ab88-31ad52b0625f@7a2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231011T150000Z
-LOCATION:--каф.
-DTSTART:20231011T133000Z
-SUMMARY:ЛР Мультимедийные системы
-UID:52d507e1-2556-47b4-8674-0f47fffcc876@52d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231025T131500Z
-LOCATION:3-421
-DTSTART:20231025T114500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:e4b9ba96-edf5-4423-acea-ed831527bd52@e4b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Плотникова Наталья Олеговна
-DTEND:20231214T131500Z
-LOCATION:--каф.
-DTSTART:20231214T114500Z
-SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:1d8de4a6-cd33-439e-a921-3552a78a82ef@1d8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20230920T150000Z
-LOCATION:--каф.
-DTSTART:20230920T133000Z
-SUMMARY:ЛК Мультимедийные системы
-UID:e6c29b79-3770-457a-91bc-a51b0ab270c8@e6c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231213T164500Z
-LOCATION:--каф.
-DTSTART:20231213T151500Z
-SUMMARY:ПЗ Мультимедийные системы
-UID:11f5516f-2e59-429c-94ae-ae632d82505c@11f5.org
+UID:8eaca39f-9eac-4ab4-bb35-67f1c3e6dc89@8eac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Плотникова Наталья Олеговна
@@ -1427,54 +136,152 @@ DTEND:20231228T131500Z
 LOCATION:--каф.
 DTSTART:20231228T114500Z
 SUMMARY:ПЗ Мониторинг проектной деятельности
-UID:275a82db-7394-43c9-87c7-273cc3aed064@275a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Николай Анатольевич
-DTEND:20231115T150000Z
-LOCATION:--каф.
-DTSTART:20231115T133000Z
-SUMMARY:ЛК Мультимедийные системы
-UID:784ead7e-6dd9-4a43-901d-3cde42e07a44@784e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231128T113000Z
-LOCATION:--каф.
-DTSTART:20231128T100000Z
-SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
-UID:b737110c-7f7a-4141-8d64-33bdc544fdc6@b737.org
+UID:80df0ae2-651e-4518-8870-49c31b2647f7@80df.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рогожина Анна Павловна
-DTEND:20231220T131500Z
+DTEND:20231115T131500Z
 LOCATION:3-421
-DTSTART:20231220T114500Z
+DTSTART:20231115T114500Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:751f42d1-81da-4975-845d-c345090a9663@751f.org
+UID:86cd48d1-1fc8-410e-bb90-c2e45350aaee@86cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:32b2a5b5-955a-49ae-a645-1d41500f5368@32b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231227T150000Z
+LOCATION:--каф.
+DTSTART:20231227T133000Z
+SUMMARY:ПЗ Мультимедийные системы
+UID:86e3989c-7d3d-4acf-911b-58149436895e@86e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T150000Z
+LOCATION:--каф.
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:ec135ac4-f6ce-40ad-aeca-3df29993b8cb@ec13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231019T164500Z
+LOCATION:--каф.
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Параллельные и распределенные вычисления
+UID:bc36adb6-f804-43f3-a83a-230e63ca4608@bc36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231108T164500Z
+LOCATION:--каф.
+DTSTART:20231108T151500Z
+SUMMARY:ЛР Мультимедийные системы
+UID:a595a07a-7d2f-4abf-b714-4edbbf9600a0@a595.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20230928T150000Z
+LOCATION:--каф.
+DTSTART:20230928T133000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:4ecaf9f0-ee9d-4b1a-ad02-4543938027f3@4eca.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T150000Z
+LOCATION:--каф.
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:6d1020f0-f7d9-4ac4-bf6f-1ae05982f8ae@6d10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231005T164500Z
+LOCATION:--каф.
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Параллельные и распределенные вычисления
+UID:c7beb1db-8235-4148-a17f-8a6bbd66ef7c@c7be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231031T113000Z
+LOCATION:--каф.
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
+UID:4fed78db-0c08-4127-ba87-9e86d2e90682@4fed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T150000Z
+LOCATION:--каф.
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Алгоритмы и алгоритмические языки высокого уровня
+UID:3005fc0e-3cd9-46d7-a102-1de6d6b2f337@3005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:3d9e6466-f531-41c9-b4aa-bbfc07886b89@3d9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231227T164500Z
+LOCATION:--каф.
+DTSTART:20231227T151500Z
+SUMMARY:ПЗ Мультимедийные системы
+UID:c00949ea-7a9b-41be-a54c-b56cb91b438d@c009.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231101T164500Z
+LOCATION:--каф.
+DTSTART:20231101T151500Z
+SUMMARY:ПЗ Мультимедийные системы
+UID:c3c061d8-6bf3-4e2a-81da-a13628247ab0@c3c0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T150000Z
+LOCATION:--каф.
+DTSTART:20231205T133000Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:d8d5e21f-d2be-4be7-a1d5-c3a312411c28@d8d5.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231024T164500Z
 LOCATION:--каф.
 DTSTART:20231024T151500Z
 SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:88b4f805-0547-415a-87df-aaa177eff842@88b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сошников Дмитрий Валерьевич
-DTEND:20231003T113000Z
-LOCATION:--каф.
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
-UID:b64d0f87-2c85-4fdc-9519-94634391f3f8@b64d.org
+UID:3b83d9f4-393e-46ac-9b73-3c7fda76a165@3b83.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20230918T164500Z
+DTEND:20231016T164500Z
 LOCATION:--каф.
-DTSTART:20230918T151500Z
+DTSTART:20231016T151500Z
 SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
-UID:81755538-7b81-4f9a-9547-f53c8b1b1bfc@8175.org
+UID:77dd4862-8b7e-497a-99fc-5068072ca9ac@77dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
+UID:37ac22c8-a449-4c28-926b-0119340fbefa@37ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:0ba881d3-4679-4840-9e79-ae2fad79c957@0ba8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Харченко Николай Анатольевич
@@ -1482,15 +289,124 @@ DTEND:20230927T164500Z
 LOCATION:--каф.
 DTSTART:20230927T151500Z
 SUMMARY:ЛР Мультимедийные системы
-UID:1db8ec90-4738-409f-8a5b-000160d8c94b@1db8.org
+UID:c50abf96-e5ea-45f8-b61b-eb44f37079a1@c50a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Булакина Мария Борисовна
+DTEND:20231111T091500Z
+LOCATION:--каф.
+DTSTART:20231111T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:555b866c-d599-471c-9005-9386d0738501@555b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231211T150000Z
+LOCATION:--каф.
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
+UID:2fa046fb-243a-40c7-8592-0d08976d5f41@2fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Москаленко Ольга Александровна
+DTEND:20231003T150000Z
+LOCATION:--каф.
+DTSTART:20231003T133000Z
+SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
+UID:59c1c487-cb83-4fde-8598-14bd23920718@59c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T150000Z
+LOCATION:--каф.
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:429eb203-e7bd-42e3-b1e8-254ae538db6d@429e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231025T150000Z
+LOCATION:--каф.
+DTSTART:20231025T133000Z
+SUMMARY:ЛР Мультимедийные системы
+UID:404f50d2-df3e-420a-bacf-96527fb474d5@404f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Москаленко Ольга Александровна
+DTEND:20231003T164500Z
+LOCATION:--каф.
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
+UID:c84da22a-a1bc-499e-b177-5053107afedd@c84d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231012T150000Z
+LOCATION:--каф.
+DTSTART:20231012T133000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:4d484a05-b185-4d47-bf4d-32c0ecff4d94@4d48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Булакина Мария Борисовна
+DTEND:20230916T091500Z
+LOCATION:--каф.
+DTSTART:20230916T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:b68b0d8e-7f84-4e57-b014-4981bb039719@b68b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231227T131500Z
+LOCATION:3-421
+DTSTART:20231227T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:0e2f668b-65c2-42f0-b7c0-74d52d0e4da0@0e2f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тимохин Максим Юрьевич
-DTEND:20231120T150000Z
+DTEND:20231030T164500Z
 LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
-UID:85458441-ab2e-40ec-b016-a0c4965c1ade@8545.org
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
+UID:3c890b84-de3b-424c-b2a1-9d2430667fd9@3c89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231011T131500Z
+LOCATION:3-421
+DTSTART:20231011T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:a3fd6297-798a-4a5b-9e9d-fd82d8e3d969@a3fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231130T164500Z
+LOCATION:--каф.
+DTSTART:20231130T151500Z
+SUMMARY:ПЗ Параллельные и распределенные вычисления
+UID:30bd3cd8-d06a-4e45-82cc-c271fd5141df@30bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231219T164500Z
+LOCATION:--каф.
+DTSTART:20231219T151500Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:0262fa10-5e59-42b9-8326-213ee92266d4@0262.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231228T150000Z
+LOCATION:--каф.
+DTSTART:20231228T133000Z
+SUMMARY:ПЗ Параллельные и распределенные вычисления
+UID:eff76516-b350-41f9-9dc6-9394197a6b7c@eff7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231018T164500Z
+LOCATION:--каф.
+DTSTART:20231018T151500Z
+SUMMARY:ПЗ Мультимедийные системы
+UID:dc8fd416-7320-4d59-bedb-d753da9bcdb5@dc8f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Харченко Николай Анатольевич
@@ -1498,21 +414,260 @@ DTEND:20231213T150000Z
 LOCATION:--каф.
 DTSTART:20231213T133000Z
 SUMMARY:ЛК Мультимедийные системы
-UID:f6c18509-c81c-4da0-a9f3-d2a22dda42fe@f6c1.org
+UID:2104e1c0-90a1-4cfd-aa8a-144421a9a109@2104.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230930T113000Z
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231025T131500Z
+LOCATION:3-421
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:9ab836b9-ea33-4774-8fdb-995b9e298a8b@9ab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231010T131500Z
 LOCATION:--каф.
-DTSTART:20230930T100000Z
+DTSTART:20231010T114500Z
+SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
+UID:7180bd27-eaf6-4a75-bf5c-4190a050506c@7180.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20230913T131500Z
+LOCATION:3-421
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:1a4b3e77-fa72-4092-9e93-fb782e907c51@1a4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Москаленко Ольга Александровна
+DTEND:20230905T164500Z
+LOCATION:--каф.
+DTSTART:20230905T151500Z
+SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
+UID:a2b9a757-2325-4c11-b51e-9b54e1f483ff@a2b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
+UID:1c6e8aac-522f-4615-ac99-6999aba4b3fc@1c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231005T131500Z
+LOCATION:--каф.
+DTSTART:20231005T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:2d77efc1-d88e-4ac0-a1f7-33033964d1cb@2d77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231115T150000Z
+LOCATION:--каф.
+DTSTART:20231115T133000Z
+SUMMARY:ЛК Мультимедийные системы
+UID:c4e24800-edd6-4b6e-9349-a1ac273c4ac7@c4e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20230926T113000Z
+LOCATION:--каф.
+DTSTART:20230926T100000Z
+SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
+UID:18da2e17-bfd4-42f3-a543-1f7bdcde78ee@18da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230916T131500Z
+LOCATION:--каф.
+DTSTART:20230916T114500Z
 SUMMARY:ЛР Управление IT-проектами
-UID:85c13bba-a939-49a6-bba0-5e215ac0b1b0@85c1.org
+UID:91e3a93b-f6db-48d4-9269-d19b18d4c15b@91e3.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230926T150000Z
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231012T131500Z
 LOCATION:--каф.
-DTSTART:20230926T133000Z
-SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
-UID:f79ee36d-504f-499c-86bc-b544e393de3f@f79e.org
+DTSTART:20231012T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:3965181f-351d-40f6-936c-f9f17fcb77fc@3965.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231123T131500Z
+LOCATION:--каф.
+DTSTART:20231123T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:7fd70b16-f363-46ab-9634-6ace82699dca@7fd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231011T150000Z
+LOCATION:--каф.
+DTSTART:20231011T133000Z
+SUMMARY:ЛР Мультимедийные системы
+UID:57fc02cf-5f62-4044-bb26-607a324755f4@57fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
+UID:a150e422-3c1e-490c-9557-e2efe7ad741a@a150.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231122T164500Z
+LOCATION:--каф.
+DTSTART:20231122T151500Z
+SUMMARY:ПЗ Мультимедийные системы
+UID:7ad5ab34-c1c8-4d95-a1d6-a6e0fe33a56e@7ad5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20230921T164500Z
+LOCATION:--каф.
+DTSTART:20230921T151500Z
+SUMMARY:ПЗ Параллельные и распределенные вычисления
+UID:11d59ecb-ebc0-454d-b611-f955e17df31a@11d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:1c49d59e-92e3-4c35-ad88-263e7dfbd1bd@1c49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Москаленко Ольга Александровна
+DTEND:20230919T164500Z
+LOCATION:--каф.
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
+UID:97ece4b7-0276-46f6-81a9-2c5b24378a40@97ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20230906T131500Z
+LOCATION:3-421
+DTSTART:20230906T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:7d895310-43dc-4b6c-b745-0a9d991cb460@7d89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20230914T150000Z
+LOCATION:--каф.
+DTSTART:20230914T133000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:3ef429ab-a4dc-49a1-a781-ea8c766bef6e@3ef4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
+UID:7b68fc40-f295-4668-aece-e5a0084c489d@7b68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20230905T131500Z
+LOCATION:--каф.
+DTSTART:20230905T114500Z
+SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
+UID:652d465f-8bc2-441a-8b41-f713c7365cbe@652d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20230928T164500Z
+LOCATION:--каф.
+DTSTART:20230928T151500Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:8f8ff001-8ffe-4f2d-8069-d63fe36644d4@8f8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231114T131500Z
+LOCATION:--каф.
+DTSTART:20231114T114500Z
+SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
+UID:e9c293e5-0382-444e-8cb0-ae51096b02fb@e9c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231122T150000Z
+LOCATION:--каф.
+DTSTART:20231122T133000Z
+SUMMARY:ПЗ Мультимедийные системы
+UID:479225a4-c8ce-4d0c-8cd9-ca4c57acbdd5@4792.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230906T164500Z
+LOCATION:--каф.
+DTSTART:20230906T151500Z
+SUMMARY:ПЗ Мультимедийные системы
+UID:a503b56e-f1f1-45cb-bef1-c7118e2d1c06@a503.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231108T131500Z
+LOCATION:3-421
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:64a97c1e-c4df-4d5c-8a02-b686d62029a2@64a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Булакина Мария Борисовна
+DTEND:20230914T131500Z
+LOCATION:--каф.
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Мониторинг проектной деятельности
+UID:3cced775-0fbf-44da-9882-9d695c1fda55@3cce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231129T150000Z
+LOCATION:--каф.
+DTSTART:20231129T133000Z
+SUMMARY:ЛК Мультимедийные системы
+UID:932fc078-92af-4f69-8531-31d98e63aa6f@932f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231018T131500Z
+LOCATION:3-421
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:21f4f4b6-8dd9-4ecd-a478-61659522a84f@21f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231107T113000Z
+LOCATION:--каф.
+DTSTART:20231107T100000Z
+SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
+UID:77fddea3-0faa-4591-8d27-04302073f6e9@77fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T150000Z
+LOCATION:--каф.
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:5c046bb9-9d74-44c5-b9db-1ff40a1ac5e0@5c04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20230905T113000Z
+LOCATION:--каф.
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
+UID:5f29a583-7ae2-4070-bc46-2706dcfddd17@5f29.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кондаратцев Вадим Леонидович
@@ -1520,6 +675,851 @@ DTEND:20230912T113000Z
 LOCATION:--каф.
 DTSTART:20230912T100000Z
 SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
-UID:5c05c09b-7e85-4116-b180-53c46bd78570@5c05.org
+UID:d5f18f44-7f88-42f7-9d89-adea57799b5b@d5f1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231213T164500Z
+LOCATION:--каф.
+DTSTART:20231213T151500Z
+SUMMARY:ПЗ Мультимедийные системы
+UID:800d78a3-0185-402e-9151-8adc3fa1d9f3@800d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20230920T131500Z
+LOCATION:3-421
+DTSTART:20230920T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:f1415249-4974-4f34-8669-232ffcf2aa5b@f141.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231028T131500Z
+LOCATION:--каф.
+DTSTART:20231028T114500Z
+SUMMARY:ЛР Управление IT-проектами
+UID:277dc8dc-8111-4f96-9131-625f6e5f1eab@277d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231003T113000Z
+LOCATION:--каф.
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
+UID:f50024d0-92a3-46ef-be99-2df4ca91cb9f@f500.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231111T131500Z
+LOCATION:--каф.
+DTSTART:20231111T114500Z
+SUMMARY:ЛР Управление IT-проектами
+UID:901f981b-870c-4047-83b0-6d428fc4195d@901f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20230904T164500Z
+LOCATION:--каф.
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
+UID:fabe0e80-78c7-44c6-afee-6587824d76d9@fabe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231121T131500Z
+LOCATION:--каф.
+DTSTART:20231121T114500Z
+SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
+UID:47b95416-686c-4530-9d54-f2b327228a36@47b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231108T150000Z
+LOCATION:--каф.
+DTSTART:20231108T133000Z
+SUMMARY:ЛР Мультимедийные системы
+UID:69dffd59-4281-4e3b-9555-7600a58a747e@69df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231213T131500Z
+LOCATION:3-421
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:0d725f3b-a30f-44ba-816c-961e69c34acd@0d72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231211T164500Z
+LOCATION:--каф.
+DTSTART:20231211T151500Z
+SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
+UID:43ec0afb-8578-4f54-8b0a-7e0309c121a4@43ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T164500Z
+LOCATION:--каф.
+DTSTART:20230912T151500Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:0cb3bcaa-0451-4608-9d56-1c4267ced690@0cb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20230913T150000Z
+LOCATION:--каф.
+DTSTART:20230913T133000Z
+SUMMARY:ЛР Мультимедийные системы
+UID:ccbace3d-4999-4756-a6ba-40204a2c12a9@ccba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231004T150000Z
+LOCATION:--каф.
+DTSTART:20231004T133000Z
+SUMMARY:ЛК Мультимедийные системы
+UID:062ff119-8d2d-4234-b1f7-ef642eabff61@062f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231101T150000Z
+LOCATION:--каф.
+DTSTART:20231101T133000Z
+SUMMARY:ЛК Мультимедийные системы
+UID:3528ec32-5bb4-448e-b737-b7b9083f1c32@3528.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231220T131500Z
+LOCATION:3-421
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:59f2828e-e820-40b5-b188-df4605ec6987@59f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231218T164500Z
+LOCATION:--каф.
+DTSTART:20231218T151500Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:f5a2c183-13af-4f2b-9c50-031b1ab11383@f5a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20230926T131500Z
+LOCATION:--каф.
+DTSTART:20230926T114500Z
+SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
+UID:466eb47a-2b71-4143-9e1e-f044aa38934e@466e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T150000Z
+LOCATION:--каф.
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:736ae1cd-ee88-46c7-80d0-871791da3f3c@736a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231010T113000Z
+LOCATION:--каф.
+DTSTART:20231010T100000Z
+SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
+UID:c4bdfd62-675b-496f-a624-69d5338104dd@c4bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Булакина Мария Борисовна
+DTEND:20231125T091500Z
+LOCATION:--каф.
+DTSTART:20231125T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:9598f340-3b76-4360-98cc-41ab5d22c22c@9598.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231206T131500Z
+LOCATION:3-421
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:d96808e6-0e17-4884-81b4-5defd5996e33@d968.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T164500Z
+LOCATION:--каф.
+DTSTART:20230926T151500Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:a0228311-c9aa-4ec3-a6ca-4c4ce054788e@a022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
+UID:30a7f80e-c5fd-403e-917f-4a40c0b506e7@30a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
+UID:bcd3c1a7-ab5e-4cc6-9160-f416d63d1d79@bcd3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231111T113000Z
+LOCATION:--каф.
+DTSTART:20231111T100000Z
+SUMMARY:ЛР Управление IT-проектами
+UID:df7a3005-d07a-4c42-978c-faa0a0db1c8c@df7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20230928T131500Z
+LOCATION:--каф.
+DTSTART:20230928T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:d8d58ef2-3d47-4e79-a1e2-e9b48f96364a@d8d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20230907T164500Z
+LOCATION:--каф.
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Параллельные и распределенные вычисления
+UID:7da6d505-81c2-4b46-9766-c1cc9b963f20@7da6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20230920T150000Z
+LOCATION:--каф.
+DTSTART:20230920T133000Z
+SUMMARY:ЛК Мультимедийные системы
+UID:bfc49c6a-bf5b-429d-87a0-bfc8b0df2d09@bfc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:f93eec98-5a8d-4e72-9c64-bb46d54646f1@f93e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231212T113000Z
+LOCATION:--каф.
+DTSTART:20231212T100000Z
+SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
+UID:b587dc15-77d8-40f7-9fe4-9da7148d65fe@b587.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231024T150000Z
+LOCATION:--каф.
+DTSTART:20231024T133000Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:3252a632-134b-4529-beb7-4cf789750b18@3252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231102T131500Z
+LOCATION:--каф.
+DTSTART:20231102T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:655606f5-779c-46a8-8153-bce04088c2f9@6556.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T150000Z
+LOCATION:--каф.
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:16f2a4c1-2356-41e4-8ec8-70cfdaf9eae5@16f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20230912T131500Z
+LOCATION:--каф.
+DTSTART:20230912T114500Z
+SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
+UID:9edaf68c-efb2-45fc-aa3c-d164aee5b873@9eda.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T150000Z
+LOCATION:--каф.
+DTSTART:20231107T133000Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:2765cfd9-3e10-4d2d-be0a-9f0d085f6aaa@2765.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
+UID:db6e5e3e-4099-45bb-ae3c-428488fd1b7d@db6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231221T131500Z
+LOCATION:--каф.
+DTSTART:20231221T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:23b4de3d-53a9-4fd9-bd0c-5d77ea670bb8@23b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20230919T131500Z
+LOCATION:--каф.
+DTSTART:20230919T114500Z
+SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
+UID:daeb8172-7ad8-4b00-93a2-13ded9287b0a@daeb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T150000Z
+LOCATION:--каф.
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Параллельные и распределенные вычисления
+UID:eb2bb216-1bd3-4c4b-be9d-9fd3f2ae4517@eb2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231028T113000Z
+LOCATION:--каф.
+DTSTART:20231028T100000Z
+SUMMARY:ЛР Управление IT-проектами
+UID:82e58624-91b7-4de3-8a3d-2b30c42908d6@82e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231024T131500Z
+LOCATION:--каф.
+DTSTART:20231024T114500Z
+SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
+UID:5b109e39-e8df-479b-9a67-6d7d05f659af@5b10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20230919T113000Z
+LOCATION:--каф.
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
+UID:6095b73b-6d29-48db-ad8a-2c4d25c8e3c4@6095.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230930T113000Z
+LOCATION:--каф.
+DTSTART:20230930T100000Z
+SUMMARY:ЛР Управление IT-проектами
+UID:265853e1-e972-45fd-a140-a02fe57db041@2658.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231010T150000Z
+LOCATION:--каф.
+DTSTART:20231010T133000Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:da0fc3c6-5e0f-4146-90a4-eb9e387589d2@da0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231122T131500Z
+LOCATION:3-421
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:19e93ae3-133a-4910-acac-7a293f607633@19e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:73060a9c-abc0-492b-b215-c21217014902@7306.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231018T150000Z
+LOCATION:--каф.
+DTSTART:20231018T133000Z
+SUMMARY:ЛК Мультимедийные системы
+UID:3c72dd08-2618-469e-9a4a-6347a23f0485@3c72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
+UID:e829c2eb-1a14-40a8-bd59-ec7139dd5966@e829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Москаленко Ольга Александровна
+DTEND:20231017T150000Z
+LOCATION:--каф.
+DTSTART:20231017T133000Z
+SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
+UID:3c548ac2-4dbf-4719-87df-c0017df7ccdf@3c54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231107T131500Z
+LOCATION:--каф.
+DTSTART:20231107T114500Z
+SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
+UID:b685fcf0-e1a2-41b5-959e-a1e66100ca74@b685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231019T131500Z
+LOCATION:--каф.
+DTSTART:20231019T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:deb872ec-f0ba-485f-8209-6ac67c9a9559@deb8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231107T164500Z
+LOCATION:--каф.
+DTSTART:20231107T151500Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:d0dfb890-f122-4411-a1e5-2c97915eddc7@d0df.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230930T131500Z
+LOCATION:--каф.
+DTSTART:20230930T114500Z
+SUMMARY:ЛР Управление IT-проектами
+UID:7104c37b-9c11-403f-9058-8f25c87e1e4c@7104.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Москаленко Ольга Александровна
+DTEND:20230905T150000Z
+LOCATION:--каф.
+DTSTART:20230905T133000Z
+SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
+UID:cdbaf2bc-b37d-4bfc-9e80-bf94074178bd@cdba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20230906T150000Z
+LOCATION:--каф.
+DTSTART:20230906T133000Z
+SUMMARY:ЛК Мультимедийные системы
+UID:6b70660a-83a6-4709-af4a-c9325916fb92@6b70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231129T131500Z
+LOCATION:3-421
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:999a8c13-b698-49b4-9ecb-9af07d6f2ac4@999a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231026T150000Z
+LOCATION:--каф.
+DTSTART:20231026T133000Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:b0754a94-8308-4873-8cac-eafdffb763aa@b075.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231109T131500Z
+LOCATION:--каф.
+DTSTART:20231109T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:87541910-2a69-4d84-af9e-ee80ac46034a@8754.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231128T113000Z
+LOCATION:--каф.
+DTSTART:20231128T100000Z
+SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
+UID:56a010e4-6553-41d4-a6a9-a77acf583368@56a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Москаленко Ольга Александровна
+DTEND:20231017T164500Z
+LOCATION:--каф.
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Алгоритмы и алгоритмические языки высокого уровня
+UID:ced3d364-50ff-4c65-ad7c-68ec568096fa@ced3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231024T113000Z
+LOCATION:--каф.
+DTSTART:20231024T100000Z
+SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
+UID:791eb838-9c6c-4b66-9c70-645d8d0fcc83@791e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:75559b83-c001-47cc-96ed-d3af7fc948a4@7555.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231017T131500Z
+LOCATION:--каф.
+DTSTART:20231017T114500Z
+SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
+UID:c70b5c86-236a-4322-ae04-f39f2880c9b5@c70b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231026T164500Z
+LOCATION:--каф.
+DTSTART:20231026T151500Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:2bb319d1-d5d6-4d91-9eba-acfebc73f675@2bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231101T131500Z
+LOCATION:3-421
+DTSTART:20231101T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:4129476e-6652-4c56-9a0f-43f15a0b5d88@4129.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231114T164500Z
+LOCATION:--каф.
+DTSTART:20231114T151500Z
+SUMMARY:ПЗ Алгоритмы и алгоритмические языки высокого уровня
+UID:cc0a730c-d404-46c4-adaf-afa6583ebebf@cc0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231212T131500Z
+LOCATION:--каф.
+DTSTART:20231212T114500Z
+SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
+UID:ad9651ad-f1f6-42ee-a63d-9a6df34e01bd@ad96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231116T131500Z
+LOCATION:--каф.
+DTSTART:20231116T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:421c09c6-6a46-4138-84d1-09bf13a5ffae@421c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231130T131500Z
+LOCATION:--каф.
+DTSTART:20231130T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:d7befbc1-9c55-4065-8437-44d7875bd098@d7be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Булакина Мария Борисовна
+DTEND:20230930T091500Z
+LOCATION:--каф.
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:bc800d3f-8e13-49f7-be65-40e210b18312@bc80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Булакина Мария Борисовна
+DTEND:20231014T091500Z
+LOCATION:--каф.
+DTSTART:20231014T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:08d25fc9-92ce-4a19-b3c4-07909aa9e4a4@08d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231228T164500Z
+LOCATION:--каф.
+DTSTART:20231228T151500Z
+SUMMARY:ПЗ Параллельные и распределенные вычисления
+UID:8b78ead9-db63-4fd6-985d-c20ebc5fe59a@8b78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231214T131500Z
+LOCATION:--каф.
+DTSTART:20231214T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:b68c0782-d142-4d69-8307-0daf29474d03@b68c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Проектирование динамических сцен на платформе Unity 3D
+UID:2bdce6a0-d0e5-4cfd-8550-6491c916d321@2bdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20230927T131500Z
+LOCATION:3-421
+DTSTART:20230927T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:d66d05e3-edb2-4f0a-86f6-eb3b0dc978e6@d66d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рогожина Анна Павловна
+DTEND:20231004T131500Z
+LOCATION:3-421
+DTSTART:20231004T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:d14008dd-7c55-4aee-8000-3699cad81df6@d140.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T164500Z
+LOCATION:--каф.
+DTSTART:20231031T151500Z
+SUMMARY:ПЗ Алгоритмы и алгоритмические языки высокого уровня
+UID:e2df4e41-1d85-4771-8b60-c2e8dad30570@e2df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:f7a9de64-b0e0-4eeb-8143-cf3e13743e45@f7a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231204T150000Z
+LOCATION:--каф.
+DTSTART:20231204T133000Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:bfd6a2ca-f29a-45bd-a48c-adc04fdeea95@bfd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:dcc1aa27-bdcb-40bc-ba60-74d97da25c59@dcc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231128T131500Z
+LOCATION:--каф.
+DTSTART:20231128T114500Z
+SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
+UID:4e32e3f3-a0ce-4869-9528-ae52ab9e5dfb@4e32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Булакина Мария Борисовна
+DTEND:20230907T131500Z
+LOCATION:--каф.
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Мониторинг проектной деятельности
+UID:55575d34-3d72-4fd2-8961-c7dc61ce449e@5557.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231004T164500Z
+LOCATION:--каф.
+DTSTART:20231004T151500Z
+SUMMARY:ПЗ Мультимедийные системы
+UID:57c5c579-2482-4152-8623-c718a33aa6df@57c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20231025T164500Z
+LOCATION:--каф.
+DTSTART:20231025T151500Z
+SUMMARY:ЛР Мультимедийные системы
+UID:06f48eb0-663a-4397-adb1-97dcdd4b6987@06f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231003T131500Z
+LOCATION:--каф.
+DTSTART:20231003T114500Z
+SUMMARY:ПЗ Фундаментальные концепции искусственного интеллекта
+UID:7b51e15a-f9e4-49fc-ae77-0b35e4b38a44@7b51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231026T131500Z
+LOCATION:--каф.
+DTSTART:20231026T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:2ac21902-7c11-4cb0-b9b4-d3ac53d6d809@2ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:1fa2a02e-548e-40db-bdc9-69a94f54080b@1fa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Булакина Мария Борисовна
+DTEND:20230902T091500Z
+LOCATION:--каф.
+DTSTART:20230902T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:7a46dbe3-96c6-456f-8624-60064b473dc9@7a46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231214T164500Z
+LOCATION:--каф.
+DTSTART:20231214T151500Z
+SUMMARY:ПЗ Параллельные и распределенные вычисления
+UID:c5cbd86b-6bca-4c11-a8a7-7631ae1ecd1c@c5cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231114T113000Z
+LOCATION:--каф.
+DTSTART:20231114T100000Z
+SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
+UID:7c0913e9-a62c-4603-a24a-44d100fc7be2@7c09.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231129T164500Z
+LOCATION:--каф.
+DTSTART:20231129T151500Z
+SUMMARY:ПЗ Мультимедийные системы
+UID:2dfbff45-4ccb-41fa-9fe4-7bccedac82bd@2dfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231218T150000Z
+LOCATION:--каф.
+DTSTART:20231218T133000Z
+SUMMARY:ЛР Проектирование динамических сцен на платформе Unity 3D
+UID:4d0c106d-061b-4ba2-b145-0585130bc980@4d0c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231014T131500Z
+LOCATION:--каф.
+DTSTART:20231014T114500Z
+SUMMARY:ЛР Управление IT-проектами
+UID:bbd017d4-d638-4a51-89bf-75a9a7d7603d@bbd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Булакина Мария Борисовна
+DTEND:20231028T091500Z
+LOCATION:--каф.
+DTSTART:20231028T074500Z
+SUMMARY:ЛК Управление IT-проектами
+UID:c45b7e3c-a6ca-4aa3-911c-0e457c68b3ef@c45b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230912T150000Z
+LOCATION:--каф.
+DTSTART:20230912T133000Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:9afe69c2-7465-401d-bafe-bff190db9f91@9afe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231014T113000Z
+LOCATION:--каф.
+DTSTART:20231014T100000Z
+SUMMARY:ЛР Управление IT-проектами
+UID:96532603-80f9-4f9c-a8eb-7d6c15755190@9653.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20230921T131500Z
+LOCATION:--каф.
+DTSTART:20230921T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:67ede13d-1ceb-4bd8-b4cc-add69c291ed8@67ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сошников Дмитрий Валерьевич
+DTEND:20231017T113000Z
+LOCATION:--каф.
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Фундаментальные концепции искусственного интеллекта
+UID:5a93237a-620a-4daa-be21-d390c061efac@5a93.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231205T164500Z
+LOCATION:--каф.
+DTSTART:20231205T151500Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:d4307745-bda5-4497-85bd-cb95cb45d93f@d430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231102T164500Z
+LOCATION:--каф.
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Параллельные и распределенные вычисления
+UID:ccccfb84-ef24-4996-a713-8510bb6d7da6@cccc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20230914T164500Z
+LOCATION:--каф.
+DTSTART:20230914T151500Z
+SUMMARY:ЛР Параллельные и распределенные вычисления
+UID:b110be42-d209-4740-9c24-aecaa928a5fd@b110.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231121T150000Z
+LOCATION:--каф.
+DTSTART:20231121T133000Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:aed8e420-e8fe-4144-84d6-ee1b85174113@aed8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Николай Анатольевич
+DTEND:20230927T150000Z
+LOCATION:--каф.
+DTSTART:20230927T133000Z
+SUMMARY:ЛР Мультимедийные системы
+UID:ca2e78eb-b153-4433-9b82-73fdb77fe416@ca2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231127T164500Z
+LOCATION:--каф.
+DTSTART:20231127T151500Z
+SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
+UID:9684beb0-6ce9-4cb3-8886-ae746900c250@9684.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тимохин Максим Юрьевич
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Проектирование динамических сцен на платформе Unity 3D
+UID:00551702-219c-4ec9-88aa-f575bd07cdb4@0055.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кондаратцев Вадим Леонидович
+DTEND:20231121T113000Z
+LOCATION:--каф.
+DTSTART:20231121T100000Z
+SUMMARY:ЛР Фундаментальные концепции искусственного интеллекта
+UID:c43fa807-2844-4c40-b6a3-686ae2e65292@c43f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Плотникова Наталья Олеговна
+DTEND:20231207T131500Z
+LOCATION:--каф.
+DTSTART:20231207T114500Z
+SUMMARY:ПЗ Мониторинг проектной деятельности
+UID:f9f70977-945d-432f-a0af-d9b785ec5b1f@f9f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230926T150000Z
+LOCATION:--каф.
+DTSTART:20230926T133000Z
+SUMMARY:ЛР Алгоритмы и алгоритмические языки высокого уровня
+UID:84013072-c687-4001-b125-ae6a28dc36c4@8401.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231031T150000Z
+LOCATION:--каф.
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Алгоритмы и алгоритмические языки высокого уровня
+UID:2d4ec820-cd79-4cef-b746-54896c7423d1@2d4e.org
 END:VEVENT
 END:VCALENDAR

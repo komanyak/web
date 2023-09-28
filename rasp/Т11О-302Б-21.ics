@@ -2,1796 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231113T131500Z
-LOCATION:--стадион
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:84884304-c084-4951-92bf-6d518a18ca52@8488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231109T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231109T114500Z
-SUMMARY:ЛК Финишные технологии производства продукции
-UID:2cc21998-083c-449c-9353-5f86ca7a4d2f@2cc2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T073000Z
+DTEND:20230901T131500Z
 LOCATION:--каф.
-DTSTART:20231020T060000Z
+DTSTART:20230901T114500Z
 SUMMARY:ПЗ Военная подготовка
-UID:9ff7fa02-3c40-43cd-bc8b-2bfc3a8fb444@9ff7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231206T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231206T074500Z
-SUMMARY:ЛР Искусственный интеллект в технологиях материалов
-UID:fc56173f-c189-465e-9ef7-cc7939158bb4@fc56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231018T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231018T100000Z
-SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
-UID:3b2027f8-1790-44cc-8491-4548a3e0a28e@3b20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231010T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231010T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:b12d9918-8517-42cb-a068-f6b44f608d9c@b12d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T113000Z
-LOCATION:--каф.
-DTSTART:20231110T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:bf0302a9-b1b8-4a6a-bf6a-d96294434ac9@bf03.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T131500Z
-LOCATION:--стадион
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:60a7f47e-e277-49fb-b150-f7e17dfc5f6f@60a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20230905T073000Z
-LOCATION:Орш. А-101
-DTSTART:20230905T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:6ec877bb-6afd-41f7-bcf8-ee8ea36f2000@6ec8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T113000Z
-LOCATION:--каф.
-DTSTART:20230908T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:8e210a1f-f64e-422e-959d-a6de80819ff9@8e21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231111T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231111T100000Z
-SUMMARY:ЛК Теория автоматического управления
-UID:590dc25d-de90-4401-9bc5-522983ea700d@590d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20230928T073000Z
-LOCATION:3-435
-DTSTART:20230928T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:d8344c0c-283f-4f89-bd07-e42d572df844@d834.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231012T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231012T114500Z
-SUMMARY:ЛК Финишные технологии производства продукции
-UID:30e78f6d-eee5-4fc6-8118-558b19784022@30e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T073000Z
-LOCATION:--каф.
-DTSTART:20231215T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ca8dd5c6-8c15-400e-955d-af37225c3522@ca8d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231111T073000Z
-LOCATION:--стадион
-DTSTART:20231111T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:04014775-da27-42a1-b770-4963e6068481@0401.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T091500Z
-LOCATION:--каф.
-DTSTART:20231215T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a26ad8db-d3b0-421c-9bb8-e39403410a0b@a26a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231225T150000Z
-LOCATION:Орш. В-501
-DTSTART:20231225T133000Z
-SUMMARY:ЛК Социология
-UID:2f012fe9-6f9d-46cb-9857-0158a2ac8fbc@2f01.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T091500Z
-LOCATION:--каф.
-DTSTART:20231103T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:29ed0eb1-19d6-424c-a79e-de1c351cb664@29ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231021T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231021T100000Z
-SUMMARY:ПЗ Теория автоматического управления
-UID:319f3143-dfec-4864-81d3-4ee6a1fa95c9@319f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231107T073000Z
-LOCATION:Орш. А-101
-DTSTART:20231107T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:38a11b57-8096-4276-b49f-b6d53367757c@38a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230927T150000Z
-LOCATION:Орш. А-525
-DTSTART:20230927T133000Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:62f17bd5-c445-4048-b9bf-04848f2fe337@62f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231007T073000Z
-LOCATION:--стадион
-DTSTART:20231007T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:6ee79394-5715-4b8d-a791-a5b7f782aa27@6ee7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231002T164500Z
-LOCATION:Орш. А-408
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Социология
-UID:938814f2-d75c-430d-8a4e-2a38044a8afc@9388.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20230916T091500Z
-LOCATION:Орш. А-408
-DTSTART:20230916T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:690dfdcc-4c38-45cf-9824-d80717a52e04@690d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231017T073000Z
-LOCATION:Орш. А-101
-DTSTART:20231017T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:e3349bc5-9bb6-4843-a90a-ad319cd2404a@e334.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231228T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231228T100000Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:f7cdb28e-4d68-4179-8f8a-6d3e33c8e513@f7cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T131500Z
-LOCATION:--каф.
-DTSTART:20231027T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ba4f1736-d955-495f-a2c2-1743faf7636e@ba4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T131500Z
-LOCATION:--стадион
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:430623a3-7450-42f8-9dc3-c9ea58af0a1e@4306.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20230919T131500Z
-LOCATION:Орш. А-527
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:02994730-d282-4e4b-9966-4ef3ff357ff4@0299.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20231007T091500Z
-LOCATION:Орш. А-408
-DTSTART:20231007T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:db34cbd8-560c-4413-8c63-5db08d99b6c5@db34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20231111T091500Z
-LOCATION:Орш. А-408
-DTSTART:20231111T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:04fa5c22-6e70-451d-a7bf-e2a01970cc7a@04fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20230905T091500Z
-LOCATION:Орш. А-527
-DTSTART:20230905T074500Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:a2f1c2a5-07e8-4e2e-9c1d-0d33b9173aee@a2f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231018T073000Z
-LOCATION:Орш. А-319
-DTSTART:20231018T060000Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:44a81b95-6dba-4b20-95d8-842a41af4857@44a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20230911T073000Z
-LOCATION:Орш. А-117
-DTSTART:20230911T060000Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:48ca1f96-7f29-4ca5-a7c2-0fd57fa84fba@48ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БЕРЕЖНОЙ ДМИТРИЙ ВАСИЛЬЕВИЧ
-DTEND:20231226T113000Z
-LOCATION:Орш. А-532
-DTSTART:20231226T100000Z
-SUMMARY:ЛР Искусственный интеллект в технологиях материалов
-UID:09f835ff-c15a-42fe-abbb-e692b0e8da0b@09f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T091500Z
-LOCATION:--каф.
-DTSTART:20231208T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a23272ff-9a7b-457e-9bc7-7d5b7f47bf5c@a232.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20230923T091500Z
-LOCATION:Орш. А-408
-DTSTART:20230923T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:2307602a-d1df-4478-bda1-593229967d07@2307.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231101T073000Z
-LOCATION:Орш. А-319
-DTSTART:20231101T060000Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:f9be852a-2a17-4a62-8968-5cbed1b19265@f9be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231106T073000Z
-LOCATION:Орш. А-117
-DTSTART:20231106T060000Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:c3363de4-cd25-4e51-88f5-02a5d7d86da8@c336.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231205T073000Z
-LOCATION:Орш. А-101
-DTSTART:20231205T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:6a65f657-27ad-4b39-abbd-65c0cc711942@6a65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231009T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231009T100000Z
-SUMMARY:ЛК Основы математического и имитационного моделирования
-UID:66d04c58-c33b-4621-bfb8-0e1ef8141ffb@66d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231211T164500Z
-LOCATION:Орш. А-408
-DTSTART:20231211T151500Z
-SUMMARY:ПЗ Социология
-UID:c18b67bb-8eae-43b1-9e11-b8b8e481ca02@c18b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231130T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231130T114500Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:01e435ff-f7d7-4e54-afaf-994f7ad981ab@01e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куценко Ольга Викторовна
-DTEND:20230928T091500Z
-LOCATION:3-409
-DTSTART:20230928T074500Z
-SUMMARY:ПЗ Экономическая теория
-UID:14816316-c9ac-4c61-ac3c-31e625c771c1@1481.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231004T073000Z
-LOCATION:Орш. А-319
-DTSTART:20231004T060000Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:b1f2b283-5917-4567-886c-bcc03eab2fd9@b1f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T131500Z
-LOCATION:--каф.
-DTSTART:20230915T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a0914986-04e1-4e83-827f-5b90b9e8ce94@a091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231108T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231108T114500Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:e7b5029a-765b-465a-998a-3d77a42fa1ee@e7b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20231202T091500Z
-LOCATION:Орш. А-408
-DTSTART:20231202T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:fe585804-9ed3-4ae9-861d-3465c196a71a@fe58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231115T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231115T100000Z
-SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
-UID:3336dbc7-cc3d-4b47-8116-9f2291bd78c7@3336.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T073000Z
-LOCATION:--каф.
-DTSTART:20230922T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c11e19d3-875b-482c-9973-497f0e4aeb2e@c11e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231109T073000Z
-LOCATION:3-435
-DTSTART:20231109T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:fbfd0c82-093e-4757-b373-6683551e6d3e@fbfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231115T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
-UID:f1c7a1c1-0e50-4bf3-ba8b-db8dd285a8fc@f1c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231121T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231121T100000Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:a3953e8a-ab93-4f59-a40d-c897f020aa6c@a395.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T073000Z
-LOCATION:--каф.
-DTSTART:20231110T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:485b5b53-bbb9-4216-8813-fa9d7a45cbe2@485b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20230921T073000Z
-LOCATION:3-435
-DTSTART:20230921T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:d516c48f-7404-4472-8046-02671041892e@d516.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230902T073000Z
-LOCATION:--стадион
-DTSTART:20230902T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:ad61fa46-35be-4ff9-a29d-7cdb1fcbffee@ad61.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T073000Z
-LOCATION:--каф.
-DTSTART:20231006T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c43b54a0-7e2b-482e-84a7-fd3783adcf0c@c43b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куценко Ольга Викторовна
-DTEND:20231207T091500Z
-LOCATION:3-409
-DTSTART:20231207T074500Z
-SUMMARY:ПЗ Экономическая теория
-UID:3e658b7c-b503-4ae8-aed2-d97b83dfc429@3e65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231031T073000Z
-LOCATION:Орш. А-101
-DTSTART:20231031T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:01a08fb4-013a-4d5b-9292-666f10dfd8de@01a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230921T131500Z
-LOCATION:Орш. А-525
-DTSTART:20230921T114500Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:7f3d8dac-694e-4f9d-aa0b-4d402a9eea68@7f3d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T073000Z
-LOCATION:--каф.
-DTSTART:20231222T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ad423eb8-ee47-46f4-b140-6f9c4fe0fc79@ad42.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T073000Z
-LOCATION:--каф.
-DTSTART:20231013T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:47360c84-6982-45b4-825c-5bfa823232ff@4736.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БЕРЕЖНОЙ ДМИТРИЙ ВАСИЛЬЕВИЧ
-DTEND:20231226T091500Z
-LOCATION:Орш. А-532
-DTSTART:20231226T074500Z
-SUMMARY:ЛР Искусственный интеллект в технологиях материалов
-UID:acf19d86-a60b-4707-bdba-216945bf0934@acf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231205T091500Z
-LOCATION:Орш. А-521
-DTSTART:20231205T074500Z
-SUMMARY:ЛР Финишные технологии производства продукции
-UID:dfbb486f-3d85-4404-8f69-3d0384dc92f4@dfbb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T091500Z
-LOCATION:--каф.
-DTSTART:20231222T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c5fd2b0c-465f-4d6a-a8d7-7218373e2549@c5fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231120T073000Z
-LOCATION:Орш. А-117
-DTSTART:20231120T060000Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:05e265e0-ccf9-460d-b0f4-85878bd10829@05e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231025T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231025T114500Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:912ffd92-c0c9-4611-9d47-bcf89bf47bd5@912f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231212T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231212T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:72dadf5c-d3ea-4b12-b06a-f24887aacd8b@72da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231129T091500Z
-LOCATION:Орш. А-532
-DTSTART:20231129T074500Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:cd1b8843-1d7c-436f-82b9-947a9eb1013f@cd1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231016T164500Z
-LOCATION:Орш. А-408
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Социология
-UID:60693310-9764-4ba4-8e68-50425eed9481@6069.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231106T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Основы математического и имитационного моделирования
-UID:d739d656-b6e9-4080-afcb-54ec7f7011b0@d739.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T131500Z
-LOCATION:--стадион
-DTSTART:20231016T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:c23961c5-82e9-4bf3-82f6-f04bd72b7904@c239.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куценко Ольга Викторовна
-DTEND:20230914T091500Z
-LOCATION:3-409
-DTSTART:20230914T074500Z
-SUMMARY:ПЗ Экономическая теория
-UID:f730a531-daa8-4978-8915-a83f74da157f@f730.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20230906T091500Z
-LOCATION:Орш. А-319
-DTSTART:20230906T074500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:9411db8a-a99e-4f5c-9dce-6b77f4beedb1@9411.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T113000Z
-LOCATION:--каф.
-DTSTART:20231103T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:712eb7dd-8a1f-4bea-9baa-43eac097ce82@712e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T091500Z
-LOCATION:--каф.
-DTSTART:20231020T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ef28fbd5-611e-47cc-bb58-902d66932d75@ef28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231206T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231206T100000Z
-SUMMARY:ЛР Искусственный интеллект в технологиях материалов
-UID:e40e0118-64c8-4247-8761-330d18460f92@e40e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T113000Z
-LOCATION:--каф.
-DTSTART:20231117T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:17c31dad-86ab-4a32-b2ff-22bda451bf6c@17c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230928T131500Z
-LOCATION:Орш. А-523
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Финишные технологии производства продукции
-UID:7b9ff7b6-3f37-4afd-a2bb-8d2ea45cd25a@7b9f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T091500Z
-LOCATION:--каф.
-DTSTART:20231117T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a5942714-c96f-489b-b7e2-98b6633e1d0c@a594.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231118T073000Z
-LOCATION:--стадион
-DTSTART:20231118T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:bedc4701-2c6d-4ba3-b2a8-629358c3d6d9@bedc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T131500Z
-LOCATION:--каф.
-DTSTART:20231013T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:6f33137b-2ef4-46bc-a8da-39875bd3580c@6f33.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T091500Z
-LOCATION:--каф.
-DTSTART:20231110T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:25812597-b475-4da0-80ea-6013daeb3cc8@2581.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231114T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:50422cfb-bf25-4354-85d1-1869697d8f73@5042.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231116T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231116T114500Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:d9b9818b-20b0-40fe-9816-8a762f9f6ac6@d9b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231128T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:a5ec6bec-a2d2-4b21-9020-1c6a4e5de603@a5ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231213T131500Z
-LOCATION:--каф.
-DTSTART:20231213T114500Z
-SUMMARY:ПЗ Искусственный интеллект в технологиях материалов
-UID:3c852cdd-0b2b-4241-b3f7-fce73f66ddfe@3c85.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T091500Z
-LOCATION:--каф.
-DTSTART:20230922T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:4932f973-7d89-4d5e-a2e7-2e3f7791cd93@4932.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T091500Z
-LOCATION:--каф.
-DTSTART:20230908T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:2f85ebbe-212a-4820-8838-217a8529bfe1@2f85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231004T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Диагностика и надежность автоматизированных систем
-UID:82bb5a3e-ad53-42d8-a58b-3a174d24baa3@82bb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T131500Z
-LOCATION:--стадион
-DTSTART:20231204T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:a1aa47df-558e-4513-ae64-5e0e1145018b@a1aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T131500Z
-LOCATION:--стадион
-DTSTART:20231127T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:e8ab8510-41de-4766-898a-17513295d769@e8ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20231125T091500Z
-LOCATION:Орш. А-408
-DTSTART:20231125T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:68935356-e50b-4c74-bd13-8f9397dc22c6@6893.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231221T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231221T133000Z
-SUMMARY:ЛР Финишные технологии производства продукции
-UID:5271a983-7376-45d8-857c-55eb42ed3834@5271.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231018T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
-UID:93bcfcb6-84ac-407f-8b82-e717565c8582@93bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231014T073000Z
-LOCATION:--стадион
-DTSTART:20231014T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:71931058-ade0-40c9-80c8-c3e1a84c4b02@7193.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20231128T113000Z
-LOCATION:Орш. А-527
-DTSTART:20231128T100000Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:3aa576ea-9546-4e5c-af7f-ab697832591e@3aa5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230914T131500Z
-LOCATION:Орш. А-523
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Финишные технологии производства продукции
-UID:78532c52-9e66-443a-b090-f62177e9c0c3@7853.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T113000Z
-LOCATION:--каф.
-DTSTART:20231215T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:ac9fca21-dc17-42ae-9a3b-5bc49ee15955@ac9f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230916T073000Z
-LOCATION:--стадион
-DTSTART:20230916T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:c5224e2c-101f-4b11-980f-deb87a095ccc@c522.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20231017T091500Z
-LOCATION:Орш. А-527
-DTSTART:20231017T074500Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:1776ffd8-1c10-4ac9-b1e7-61cfa5b62109@1776.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T131500Z
-LOCATION:--стадион
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:426a6be1-bac0-4594-b5be-7ab82be264ed@426a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231024T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231024T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:92e4cf0a-5f09-45fd-ac25-4bbf305a96a1@92e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20231114T091500Z
-LOCATION:Орш. А-527
-DTSTART:20231114T074500Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:c5c7ba7b-c507-4364-b7dd-d2516cd6043d@c5c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231204T073000Z
-LOCATION:Орш. А-117
-DTSTART:20231204T060000Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:6cdf5891-ef78-430e-aa9a-52abbfd50da7@6cdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231122T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231122T114500Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:38b60f1a-2221-477a-b556-d45c5098557f@38b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230906T131500Z
-LOCATION:Орш. А-525
-DTSTART:20230906T114500Z
-SUMMARY:ЛК Диагностика и надежность автоматизированных систем
-UID:4cce623c-d7cc-4f2e-a14e-fb7838d5a847@4cce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231026T073000Z
-LOCATION:3-435
-DTSTART:20231026T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:e2f44b35-a567-471d-844e-d34aeb64900e@e2f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231130T073000Z
-LOCATION:3-435
-DTSTART:20231130T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:1ddc628b-5459-43c4-ae55-030fcbc8fdb2@1ddc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231004T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231004T114500Z
-SUMMARY:ЛК Диагностика и надежность автоматизированных систем
-UID:129d76a6-9fee-4284-836e-62bfa66be098@129d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20230918T150000Z
-LOCATION:Орш. В-501
-DTSTART:20230918T133000Z
-SUMMARY:ЛК Социология
-UID:cd107c12-31e6-4aaf-a61b-2b0c2a3cff30@cd10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20231021T091500Z
-LOCATION:Орш. А-408
-DTSTART:20231021T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:5b8352fd-58f3-45f9-9539-f1947be81aab@5b83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230928T150000Z
-LOCATION:Орш. А-523
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Финишные технологии производства продукции
-UID:7268498b-8e6f-4e70-9125-e03fc72d138f@7268.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20230902T091500Z
-LOCATION:Орш. А-408
-DTSTART:20230902T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:d97a071e-8df6-4bbb-8705-0ea6b093365b@d97a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T131500Z
-LOCATION:--каф.
-DTSTART:20231124T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:0796db54-8ae2-4767-b340-6f86a3280c6c@0796.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T113000Z
-LOCATION:--каф.
-DTSTART:20231020T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:52d40654-5429-4284-b386-ebc102891120@52d4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230923T073000Z
-LOCATION:--стадион
-DTSTART:20230923T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:1bff0cd9-d08f-461e-933f-6f216e411fc5@1bff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20231031T091500Z
-LOCATION:Орш. А-527
-DTSTART:20231031T074500Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:d4cf18c6-af07-453a-af3d-5ece11e14b12@d4cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231218T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231218T100000Z
-SUMMARY:ЛК Основы математического и имитационного моделирования
-UID:560ba868-9ae3-4a1a-9cb1-843d2c84d07b@560b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231102T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231102T114500Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:c82b2084-3f4d-40aa-939d-06944420a262@c82b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20230906T073000Z
-LOCATION:Орш. А-319
-DTSTART:20230906T060000Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:0aabdada-f4ab-4f9f-b7ca-2947a36139c2@0aab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T131500Z
-LOCATION:--каф.
-DTSTART:20230929T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c2634308-baf5-4448-b2c2-5f9c4ad7ea66@c263.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20230925T091500Z
-LOCATION:Орш. А-117
-DTSTART:20230925T074500Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:83522cb3-25ce-431d-8549-c7ed4fa8fdb6@8352.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231101T091500Z
-LOCATION:Орш. А-319
-DTSTART:20231101T074500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:29825983-4c1b-4c10-9975-82d7d88c64a1@2982.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231113T150000Z
-LOCATION:Орш. В-501
-DTSTART:20231113T133000Z
-SUMMARY:ЛК Социология
-UID:c0bb61ee-2ace-42f2-b1c7-b5a17e826d61@c0bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231127T164500Z
-LOCATION:Орш. А-408
-DTSTART:20231127T151500Z
-SUMMARY:ПЗ Социология
-UID:a9e8f7a6-7f5d-4de2-b722-f8fb24d5a8a6@a9e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231118T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231118T100000Z
-SUMMARY:ПЗ Теория автоматического управления
-UID:8146bed7-bf70-4792-888d-0a83393bf5af@8146.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20230905T113000Z
-LOCATION:Орш. А-527
-DTSTART:20230905T100000Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:0365bfe0-752e-476e-8b87-dfc5fdc3d33b@0365.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231207T073000Z
-LOCATION:3-435
-DTSTART:20231207T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:0bb309fc-bb49-40ff-bed2-21377e8d8f89@0bb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231002T150000Z
-LOCATION:Орш. В-501
-DTSTART:20231002T133000Z
-SUMMARY:ЛК Социология
-UID:9f015bb7-e1d1-4492-a3bb-12841d526a5d@9f01.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T131500Z
-LOCATION:--каф.
-DTSTART:20231110T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:69cd7665-1be8-4dd9-beb2-9c1170f889cd@69cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T131500Z
-LOCATION:--каф.
-DTSTART:20231208T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a40f6e8a-48b9-4e6e-bc2a-ba9a148391fb@a40f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231011T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:3b38a73b-8acd-4d22-8f71-cd1395c9c223@3b38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231123T073000Z
-LOCATION:3-435
-DTSTART:20231123T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:7e9ac07a-66a6-47a7-b952-97d5cb8bc7b3@7e9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20230912T131500Z
-LOCATION:Орш. А-527
-DTSTART:20230912T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:bd07dec7-2b1f-483e-8404-916a95f83009@bd07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231101T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231101T100000Z
-SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
-UID:726b21df-ae1a-47e6-a945-a5f097870aa6@726b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231213T113000Z
-LOCATION:--каф.
-DTSTART:20231213T100000Z
-SUMMARY:ПЗ Искусственный интеллект в технологиях материалов
-UID:10520de7-1f85-425a-bbab-fafbf7bcea33@1052.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20230919T091500Z
-LOCATION:Орш. А-527
-DTSTART:20230919T074500Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:fa7b71bf-46ac-41bf-bca3-c86d361d1aa4@fa7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куценко Ольга Викторовна
-DTEND:20231221T091500Z
-LOCATION:3-409
-DTSTART:20231221T074500Z
-SUMMARY:ПЗ Экономическая теория
-UID:a0d8f13a-4701-448a-b4ea-005cd3cdedb5@a0d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231005T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231005T100000Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:1cd65b7d-cda9-4b39-b5f3-8ea07834a78d@1cd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231114T073000Z
-LOCATION:Орш. А-101
-DTSTART:20231114T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:bcc22cfa-00a0-436a-87c8-a47520e79b02@bcc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230913T113000Z
-LOCATION:ГУК Б-336а
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:996def85-8b7b-4299-b90d-a8b6ba535613@996d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231016T150000Z
-LOCATION:Орш. В-501
-DTSTART:20231016T133000Z
-SUMMARY:ЛК Социология
-UID:a3dbe738-0e74-4311-abb5-9822b555d7f9@a3db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231030T150000Z
-LOCATION:Орш. В-501
-DTSTART:20231030T133000Z
-SUMMARY:ЛК Социология
-UID:abfb4b3c-ab00-4226-af03-25d646246fcd@abfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231221T131500Z
-LOCATION:Орш. А-521
-DTSTART:20231221T114500Z
-SUMMARY:ЛР Финишные технологии производства продукции
-UID:9d769e06-7a57-4ced-91bd-12467962acd4@9d76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231218T091500Z
-LOCATION:Орш. А-117
-DTSTART:20231218T074500Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:ea6e148d-9c09-4496-9dff-135ecc6c609e@ea6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231207T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Финишные технологии производства продукции
-UID:84cf9212-5c0f-4d50-a999-b8e5cc28eeb5@84cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231007T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231007T100000Z
-SUMMARY:ПЗ Теория автоматического управления
-UID:fa3704be-b4e1-4bf1-a83a-eae155a29b2c@fa37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20230930T091500Z
-LOCATION:Орш. А-408
-DTSTART:20230930T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:51dbc411-61e3-4ef9-86d0-134ac0eec4da@51db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20230912T073000Z
-LOCATION:Орш. А-101
-DTSTART:20230912T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:634fc65d-1a0c-41a1-b2b8-791e35d2c999@634f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231202T073000Z
-LOCATION:--стадион
-DTSTART:20231202T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:a14d5652-bbd2-4bef-b6e8-8681269cf66d@a14d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T131500Z
-LOCATION:--каф.
-DTSTART:20231117T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:73417277-7ae8-4151-953d-4e7eb275d3ff@7341.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231024T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231024T074500Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:b1f3871a-51af-4b46-b1bd-494dc382e3b5@b1f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231019T073000Z
-LOCATION:3-435
-DTSTART:20231019T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:a3f89af8-875d-4b3d-9c85-129162a09d9b@a3f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231113T164500Z
-LOCATION:Орш. А-408
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Социология
-UID:a9b9e26b-142d-4aad-a1b1-bba8ba418a53@a9b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231019T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231019T114500Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:aacb03bf-af57-458a-8e36-e713fd33c3c0@aacb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231121T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231121T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:332b0b9c-49bd-4f01-b0e0-21f3bcd786ae@332b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T113000Z
-LOCATION:--каф.
-DTSTART:20231006T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:69f95e59-fa05-4cca-9d3d-83fdaff22185@69f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20231031T113000Z
-LOCATION:Орш. А-527
-DTSTART:20231031T100000Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:2faa1c81-1205-4882-b6ae-8440295ad623@2faa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231011T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231011T114500Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:d5b583b6-0cec-4413-984b-ccebfe2dc090@d5b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20230912T091500Z
-LOCATION:Орш. А-525
-DTSTART:20230912T074500Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:cffd1912-6856-4e26-b5f7-87edd815e8e1@cffd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231028T073000Z
-LOCATION:--стадион
-DTSTART:20231028T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:49aecfa2-a362-49bc-9213-1189c1baa28f@49ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231125T073000Z
-LOCATION:--стадион
-DTSTART:20231125T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:1f7ab879-e349-442b-a2cf-cd752e715491@1f7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА
-DTEND:20230927T091500Z
-LOCATION:Орш. А-509
-DTSTART:20230927T074500Z
-SUMMARY:ПЗ Искусственный интеллект в технологиях материалов
-UID:2b838196-168b-439c-8bda-d8b084b4704e@2b83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231130T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231130T100000Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:3b33098a-cdb0-4791-981d-deda57676a71@3b33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20231114T113000Z
-LOCATION:Орш. А-527
-DTSTART:20231114T100000Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:c2ea3063-6af2-4c14-af0d-939234510fd1@c2ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231129T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231129T100000Z
-SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
-UID:71b4105c-0ce7-4e9c-836c-1e10893df7e2@71b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T131500Z
-LOCATION:--каф.
-DTSTART:20231103T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:b9d9a233-150e-4c6a-a3fb-00d4749b4fe9@b9d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20230926T131500Z
-LOCATION:Орш. А-527
-DTSTART:20230926T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:fa2b7089-1b35-4e43-83ed-bd568c94eb4d@fa2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231214T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231214T114500Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:821c03be-eb75-4673-947c-c3683cd3fd9b@821c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20230918T164500Z
-LOCATION:Орш. А-408
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Социология
-UID:4973bf46-cb5b-4fd7-8812-486a32e2ff9e@4973.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231019T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231019T100000Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:2ff92134-50ed-40e5-9571-835baa5a8f6a@2ff9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231213T073000Z
-LOCATION:Орш. А-532
-DTSTART:20231213T060000Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:00f6beaa-f7fc-480a-a142-ebcfe4123d9c@00f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20231003T091500Z
-LOCATION:Орш. А-527
-DTSTART:20231003T074500Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:22d923f5-21e4-40c7-975c-8bf401f14ee1@22d9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T091500Z
-LOCATION:--каф.
-DTSTART:20231013T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:2adf4c2b-e968-46ba-bff1-4e28ae39a585@2adf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T131500Z
-LOCATION:--стадион
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:2828e9ad-d070-4901-92ee-92b83195bced@2828.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230909T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230909T100000Z
-SUMMARY:ПЗ Теория автоматического управления
-UID:a92f5c1c-244f-45b4-881b-5d8a530645fc@a92f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20230920T073000Z
-LOCATION:Орш. А-319
-DTSTART:20230920T060000Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:63bf3e7c-531d-490c-be9c-d2d95bdab9b0@63bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T131500Z
-LOCATION:--каф.
-DTSTART:20231215T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:347dce50-13b7-474e-9169-1fdc486cb475@347d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231107T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231107T100000Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:51009973-3953-4b94-8e9c-8ecb3388b44b@5100.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231030T164500Z
-LOCATION:Орш. А-408
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Социология
-UID:7291fdef-2941-4f7e-9b36-acac5249477c@7291.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T073000Z
-LOCATION:--каф.
-DTSTART:20231201T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:37081af2-9507-4352-a9bf-4eaccbb553e5@3708.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231121T073000Z
-LOCATION:Орш. А-101
-DTSTART:20231121T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:1f8f92cb-21b3-44e0-bbbe-5fdaf09f2055@1f8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231219T073000Z
-LOCATION:Орш. А-101
-DTSTART:20231219T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:08ca97be-98c3-44a1-baa4-592713376c0f@08ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231212T073000Z
-LOCATION:Орш. А-101
-DTSTART:20231212T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:3a99de7d-2c31-4eb1-9dfe-8c119349c6a2@3a99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20230919T113000Z
-LOCATION:Орш. А-527
-DTSTART:20230919T100000Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:29ef7c59-f816-4fc6-b862-e77d28d8cd71@29ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231120T091500Z
-LOCATION:Орш. А-117
-DTSTART:20231120T074500Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:742a63d5-0052-426b-8796-cf4520b3c4dd@742a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20231028T091500Z
-LOCATION:Орш. А-408
-DTSTART:20231028T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:38432a43-fd02-4c89-8d0e-bbd75187756e@3843.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231207T131500Z
-LOCATION:Орш. А-521
-DTSTART:20231207T114500Z
-SUMMARY:ПЗ Финишные технологии производства продукции
-UID:817ca2d2-b052-46da-8e2f-094b59494054@817c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T091500Z
-LOCATION:--каф.
-DTSTART:20231201T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:6c482cfb-9e80-4f25-a486-4d077543911d@6c48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230916T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230916T100000Z
-SUMMARY:ЛК Теория автоматического управления
-UID:c5e36901-c781-412e-8d90-24cfa3be2b0c@c5e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231108T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:5e6f36e0-b9cf-4cbf-aef5-dce8befc24ed@5e6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230930T073000Z
-LOCATION:--стадион
-DTSTART:20230930T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:e6150099-d231-40ff-bfad-eb071133d69c@e615.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231024T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231024T100000Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:77c55d17-d776-4563-9ad9-4568c09e06f5@77c5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T131500Z
-LOCATION:--каф.
-DTSTART:20231006T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f7691901-f76f-4283-bc98-dc63a2040843@f769.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231025T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:77bfa10c-c8f0-4d31-b31f-beb43fd88234@77bf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T113000Z
-LOCATION:--каф.
-DTSTART:20230929T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:37ca314a-3a1d-4511-ae41-36793e8125ec@37ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20230920T091500Z
-LOCATION:Орш. А-319
-DTSTART:20230920T074500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:5d23d190-6579-4088-974d-4c16ed65a1b3@5d23.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231225T131500Z
-LOCATION:--стадион
-DTSTART:20231225T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:a224c2c8-dc2d-4721-8374-cfd8781acfc4@a224.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T091500Z
-LOCATION:--каф.
-DTSTART:20231124T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:05196d17-5930-41c3-b403-4a822d508591@0519.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T091500Z
-LOCATION:--каф.
-DTSTART:20231027T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:3776f7f7-65b1-444e-99b0-d0f870159a45@3776.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20230909T091500Z
-LOCATION:Орш. А-408
-DTSTART:20230909T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:61f25910-1dea-4470-a4c2-a155fd1408b8@61f2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231021T073000Z
-LOCATION:--стадион
-DTSTART:20231021T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:773d251d-6734-4ced-82ac-76a98a41d4f0@773d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T113000Z
-LOCATION:--каф.
-DTSTART:20230915T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:81ded35a-f1f6-42c3-abf9-09c7841a345d@81de.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T131500Z
-LOCATION:--стадион
-DTSTART:20231218T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:8e96e377-2aab-433c-9387-b89b87a8a061@8e96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231120T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Основы математического и имитационного моделирования
-UID:904c74d0-526e-4aac-840e-a47435f3f831@904c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T131500Z
-LOCATION:--стадион
-DTSTART:20230918T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:59a2dea1-f159-468b-bb29-289bf42491a0@59a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20230912T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230912T100000Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:9f615f85-bda1-4c67-8533-2460e73411a2@9f61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20230926T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230926T100000Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:bf1806d4-27b3-4e93-abd6-430ba898199a@bf18.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231223T073000Z
-LOCATION:--стадион
-DTSTART:20231223T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:1dea4bac-a782-4fc3-a894-40650c9c9491@1dea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230927T131500Z
-LOCATION:Орш. А-525
-DTSTART:20230927T114500Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:95fa7e83-0157-42cd-91f2-176b7a1fed23@95fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231107T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231107T074500Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:e8ae921a-1066-45a0-9128-691b435f2429@e8ae.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T091500Z
-LOCATION:--каф.
-DTSTART:20230901T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:9397be68-03f1-48da-8a29-1a57f1c6207c@9397.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20230926T073000Z
-LOCATION:Орш. А-101
-DTSTART:20230926T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:ac20f6b5-b6ed-45ce-b249-e59326900ccf@ac20.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T091500Z
-LOCATION:--каф.
-DTSTART:20231006T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:a9d63ab5-e9ab-423d-bf5c-aec8677e3e51@a9d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231023T091500Z
-LOCATION:Орш. А-117
-DTSTART:20231023T074500Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:e3b396c8-113c-4ed5-88d0-1e64dc073286@e3b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231116T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231116T100000Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:1f71bfa4-89d8-4474-9ffe-a33e7574c78f@1f71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20230911T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Основы математического и имитационного моделирования
-UID:e1e36de8-8f70-4a3b-95ab-de0744e4ba22@e1e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231009T073000Z
-LOCATION:Орш. А-117
-DTSTART:20231009T060000Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:459b8286-5e2b-4ea5-94e4-f47e576eccfc@459b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231123T150000Z
-LOCATION:Орш. А-521
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Финишные технологии производства продукции
-UID:5e8f8dae-5f0d-4e6e-903c-c50b516eebb5@5e8f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T091500Z
-LOCATION:--каф.
-DTSTART:20230915T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:89dc2dae-6490-420b-84cf-79525a0c649d@89dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231028T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231028T100000Z
-SUMMARY:ЛК Теория автоматического управления
-UID:a2aa1218-fbcc-48d6-969e-b9fe65197644@a2aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231204T113000Z
-LOCATION:Орш. А-523
-DTSTART:20231204T100000Z
-SUMMARY:ЛК Основы математического и имитационного моделирования
-UID:bafbc00b-4e2e-4bac-a8ff-3f4905d5510f@bafb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230930T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230930T100000Z
-SUMMARY:ЛК Теория автоматического управления
-UID:8d725d85-4225-4721-b500-0984c85d39d1@8d72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231031T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:de9c0eee-bdac-4823-a9c7-586e25200896@de9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231129T073000Z
-LOCATION:Орш. А-532
-DTSTART:20231129T060000Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:3371b1ac-5501-4e10-9387-fdd2205754d5@3371.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231017T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:7c7d6d83-933a-49e8-b72a-ff16be9b7116@7c7d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T131500Z
-LOCATION:--стадион
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:be49d2ae-448e-4622-94ab-238c95c89fee@be49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230902T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230902T100000Z
-SUMMARY:ЛК Теория автоматического управления
-UID:174cccd8-f9fc-42ce-be80-a54f630b2030@174c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T131500Z
-LOCATION:--каф.
-DTSTART:20231222T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:252b26f0-ab94-4789-8037-e17fbbdb06b6@252b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куценко Ольга Викторовна
-DTEND:20231012T091500Z
-LOCATION:3-409
-DTSTART:20231012T074500Z
-SUMMARY:ПЗ Экономическая теория
-UID:89a3d6f6-2d32-493c-b585-72c3efd8e621@89a3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231209T073000Z
-LOCATION:--стадион
-DTSTART:20231209T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:b0906440-0ecb-4794-af41-ca1c2798f626@b090.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T131500Z
-LOCATION:--каф.
-DTSTART:20231020T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:639945a1-596e-4e74-a4e7-af83451c9d3a@6399.org
+UID:12d6993b-030b-4b22-a16c-fcc9ebd507f6@12d6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Помулева Наталья Сергеевна
@@ -1799,229 +14,7 @@ DTEND:20231214T073000Z
 LOCATION:3-435
 DTSTART:20231214T060000Z
 SUMMARY:ЛК Экономическая теория
-UID:116ce7bc-0155-4062-8764-72d080b4d367@116c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T113000Z
-LOCATION:--каф.
-DTSTART:20231027T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f06b47ca-a7d2-4df6-a0b6-8c1f055e36f1@f06b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231211T131500Z
-LOCATION:--стадион
-DTSTART:20231211T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:0914bc78-9c71-4d53-b79d-7b5a5a367242@0914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231109T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Финишные технологии производства продукции
-UID:228cfbc5-e65a-4f9e-ad21-dfcd53dfa3de@228c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T113000Z
-LOCATION:--каф.
-DTSTART:20231201T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:48bca35b-5c74-4017-be41-ef5c597dd57e@48bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231228T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231228T114500Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:8275c832-00c0-4a93-b645-6c785618d47f@8275.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231220T113000Z
-LOCATION:ГУК Б-336а
-DTSTART:20231220T100000Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:ad7aa08c-2cb8-405e-8082-f69b5e733c24@ad7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20230926T091500Z
-LOCATION:Орш. А-525
-DTSTART:20230926T074500Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:c2842a72-da34-41cf-94d7-a3e615d21aac@c284.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куценко Ольга Викторовна
-DTEND:20231026T091500Z
-LOCATION:3-409
-DTSTART:20231026T074500Z
-SUMMARY:ПЗ Экономическая теория
-UID:f0b6fbee-05bd-48f2-b917-80bf09e340cb@f0b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231026T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Финишные технологии производства продукции
-UID:f3c3fb07-5c61-4c4e-8eb6-34eb9806bf9b@f3c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T073000Z
-LOCATION:--каф.
-DTSTART:20231117T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:045fe504-5563-439b-8882-10333efe333f@045f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T113000Z
-LOCATION:--каф.
-DTSTART:20230901T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:b045624c-6e93-4154-9cdd-cf826c9d122d@b045.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231128T073000Z
-LOCATION:Орш. А-101
-DTSTART:20231128T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:1f879206-e945-4e8a-a774-2fe7791be2b8@1f87.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T073000Z
-LOCATION:--каф.
-DTSTART:20230901T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:db4efd4f-46c7-4840-a94d-166f2fe481c5@db4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230907T131500Z
-LOCATION:Орш. А-525
-DTSTART:20230907T114500Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:3774b249-44bb-4061-a3f9-6604dc0e4f1f@3774.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куценко Ольга Викторовна
-DTEND:20231109T091500Z
-LOCATION:3-409
-DTSTART:20231109T074500Z
-SUMMARY:ПЗ Экономическая теория
-UID:c37b6bca-8af2-4f6e-8ecc-af654b5cfe08@c37b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231012T150000Z
-LOCATION:Орш. А-523
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Финишные технологии производства продукции
-UID:b12ae64d-cb94-4929-b736-3bf58472d7e2@b12a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T073000Z
-LOCATION:--каф.
-DTSTART:20231208T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c5548cab-7b85-4205-9155-ac3452a7b9b7@c554.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231202T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231202T100000Z
-SUMMARY:ПЗ Теория автоматического управления
-UID:81cb7959-8519-4995-93d7-ce399e00a7e0@81cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T091500Z
-LOCATION:--каф.
-DTSTART:20230929T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:dd86fd45-18f1-4487-9c11-4262719778ea@dd86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230913T131500Z
-LOCATION:ГУК Б-336а
-DTSTART:20230913T114500Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:cc736f62-24be-4d6f-8941-c63c57ec3133@cc73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20230911T091500Z
-LOCATION:Орш. А-117
-DTSTART:20230911T074500Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:c828fea6-98ab-465e-9a0a-4582a4ae90df@c828.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20231118T091500Z
-LOCATION:Орш. А-408
-DTSTART:20231118T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:973dca84-4c6c-4bee-ac29-1e9d1b375780@973d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T131500Z
-LOCATION:--каф.
-DTSTART:20230901T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:09ec6dbc-4d0f-4be5-918e-7457be053d2d@09ec.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230909T073000Z
-LOCATION:--стадион
-DTSTART:20230909T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:2d1638e5-6dea-4f92-a431-bbe4fa50aaf4@2d16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231004T091500Z
-LOCATION:Орш. А-319
-DTSTART:20231004T074500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:22aeae8e-49ef-445b-92f4-5f15f6636f57@22ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230920T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Диагностика и надежность автоматизированных систем
-UID:cb214164-a0f3-48fe-8078-1f08b12f50e5@cb21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231101T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231101T114500Z
-SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
-UID:e96f6f2d-9fd2-4fb2-83da-c862046ab29e@e96f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20230905T131500Z
-LOCATION:Орш. А-527
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:86243206-9084-4b2e-a61a-fc593eb85740@8624.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20231209T091500Z
-LOCATION:Орш. А-408
-DTSTART:20231209T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:7cf35755-65b2-4844-8b3d-5410f99a85e8@7cf3.org
+UID:594692d8-255d-4e6f-87a4-84e226397801@5946.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
@@ -2029,274 +22,7 @@ DTEND:20230925T073000Z
 LOCATION:Орш. А-117
 DTSTART:20230925T060000Z
 SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:a5cedf7c-d5b4-4ca3-81f6-5a54ab878a18@a5ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230906T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Диагностика и надежность автоматизированных систем
-UID:44135792-6ca8-480f-9f91-29f9045aa11e@4413.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230923T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230923T100000Z
-SUMMARY:ПЗ Теория автоматического управления
-UID:00570df6-96b1-42cf-8217-dc2221bec17d@0057.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20230914T073000Z
-LOCATION:3-435
-DTSTART:20230914T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:86e19490-7b6e-4153-87a2-9b88e5103222@86e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231102T073000Z
-LOCATION:3-435
-DTSTART:20231102T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:fa85bfbe-01bf-423f-98b3-d09cc8f9ca56@fa85.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T073000Z
-LOCATION:--каф.
-DTSTART:20230929T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:987878a6-221a-4f34-b59a-2b9942e1d213@9878.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231127T150000Z
-LOCATION:Орш. В-501
-DTSTART:20231127T133000Z
-SUMMARY:ЛК Социология
-UID:7efac8ee-0f07-41b6-afd7-1e145e14e5fd@7efa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231106T091500Z
-LOCATION:Орш. А-117
-DTSTART:20231106T074500Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:00490c55-91d0-45cd-a17c-a65fd591b688@0049.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231219T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231219T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:9c3efaac-a051-4abf-97fe-85cba5b3d31a@9c3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231122T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231122T100000Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:1a9b801f-8548-4dab-97ed-769c30a3a603@1a9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231204T091500Z
-LOCATION:Орш. А-117
-DTSTART:20231204T074500Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:f989d9ac-f57e-4be3-9d0e-13bb94eb305b@f989.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20230904T164500Z
-LOCATION:Орш. А-408
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Социология
-UID:308642ca-d926-48fb-a319-d161f48d91ee@3086.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231026T131500Z
-LOCATION:Орш. А-523
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Финишные технологии производства продукции
-UID:8af10a5d-e1f4-4ff2-bb09-e09d5cdfac68@8af1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231125T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231125T100000Z
-SUMMARY:ЛК Теория автоматического управления
-UID:d559ddb6-655c-4696-83bb-dbfb596146f5@d559.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231116T073000Z
-LOCATION:3-435
-DTSTART:20231116T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:f7f82340-de52-44f8-a22c-8de118c43021@f7f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231206T150000Z
-LOCATION:Орш. А-525
-DTSTART:20231206T133000Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:ada626a8-4bca-4cb2-b83d-03e8976869dc@ada6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231018T091500Z
-LOCATION:Орш. А-319
-DTSTART:20231018T074500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:89bc75ad-bedb-4994-aa1b-e8489fde6af6@89bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231024T073000Z
-LOCATION:Орш. А-101
-DTSTART:20231024T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:c161e555-3301-4cb0-946b-b69fb14e0e3e@c161.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20230925T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Основы математического и имитационного моделирования
-UID:16f69bcb-0bc4-4f95-b296-f42cf4b120ca@16f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231205T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231205T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:fd11e1a9-d503-4d8b-8b91-9309e28bc821@fd11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20231211T150000Z
-LOCATION:Орш. В-501
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Социология
-UID:5d080add-cd0a-49ac-8b28-9bff6e16fbd8@5d08.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T113000Z
-LOCATION:--каф.
-DTSTART:20231222T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9ff02e0a-4374-47cf-a0fd-115bc3938122@9ff0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231107T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231107T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:cac77db1-650f-4a81-9dcb-ca5c9a09454c@cac7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20230907T073000Z
-LOCATION:3-435
-DTSTART:20230907T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:50df90c3-dc40-4554-8d82-26c6165783be@50df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20231128T091500Z
-LOCATION:Орш. А-527
-DTSTART:20231128T074500Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:ed172253-5dc9-4071-905a-8d6c0a9e7ace@ed17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20231017T113000Z
-LOCATION:Орш. А-527
-DTSTART:20231017T100000Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:0a3b4b6d-43ff-4dc2-998d-ed2a452d7b0f@0a3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231005T073000Z
-LOCATION:3-435
-DTSTART:20231005T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:32efc343-3eb1-4d83-a509-f7c394e09628@32ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T131500Z
-LOCATION:--каф.
-DTSTART:20230922T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:3f936c08-a968-4ec1-8204-f5ed0be8c83c@3f93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231121T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231121T074500Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:a529a82a-f7fb-4c7c-b0b7-70acfc3534d2@a529.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231218T073000Z
-LOCATION:Орш. А-117
-DTSTART:20231218T060000Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:f7eaccd5-fbb0-4136-aa12-3c93d2c7e9a6@f7ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231209T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231209T100000Z
-SUMMARY:ЛК Теория автоматического управления
-UID:c453a5ee-3ec5-48ce-a0a4-9823d74a6fc8@c453.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T113000Z
-LOCATION:--каф.
-DTSTART:20231208T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:018ef3ac-63d9-488c-9fc8-89e3ac963682@018e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231129T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231129T114500Z
-SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
-UID:c4c9a552-e900-4df8-a579-dde6f6a9bcb9@c4c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T113000Z
-LOCATION:--каф.
-DTSTART:20230922T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3d01cf58-7005-4887-85cf-d081e3faa51d@3d01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231005T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231005T114500Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:28378caf-4477-4c09-881e-fc709a47193b@2837.org
+UID:2d71c94d-bea5-40de-9cdd-c88bf9753d40@2d71.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
@@ -2304,214 +30,7 @@ DTEND:20231220T131500Z
 LOCATION:ГУК Б-336а
 DTSTART:20231220T114500Z
 SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:3b95c6a0-68b1-4fe5-8eef-71fcca400134@3b95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20230919T073000Z
-LOCATION:Орш. А-101
-DTSTART:20230919T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:a74015cb-2c45-4a17-98a1-642a77c89a45@a740.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231014T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231014T100000Z
-SUMMARY:ЛК Теория автоматического управления
-UID:c91f7928-6e54-4470-893a-102177aea91f@c91f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куценко Ольга Викторовна
-DTEND:20231123T091500Z
-LOCATION:3-409
-DTSTART:20231123T074500Z
-SUMMARY:ПЗ Экономическая теория
-UID:ea58dd86-88a9-48f6-bece-4a9e5d19a912@ea58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231213T091500Z
-LOCATION:Орш. А-532
-DTSTART:20231213T074500Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:e35acd42-62ec-41a3-a416-0c3a023a92a7@e35a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T131500Z
-LOCATION:--каф.
-DTSTART:20231201T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c145ebb3-3809-4525-b639-dee83925590e@c145.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230921T113000Z
-LOCATION:Орш. А-525
-DTSTART:20230921T100000Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:5b101ce9-ccfe-4ee7-a620-9591887a0566@5b10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231003T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231003T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:778131e7-7858-4ed9-ba18-d6cf3da35d79@7781.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231102T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231102T100000Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:a1f4d066-50e2-4ab9-9ef4-d2a290c2af4b@a1f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
-DTEND:20231003T113000Z
-LOCATION:Орш. А-527
-DTSTART:20231003T100000Z
-SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
-UID:91dc1f0e-77cc-49f2-8ef0-8f3ab460b9e8@91dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231010T113000Z
-LOCATION:Орш. А-525
-DTSTART:20231010T100000Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:08cd186d-0c7f-4c66-b561-1199fd490ee8@08cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231009T091500Z
-LOCATION:Орш. А-117
-DTSTART:20231009T074500Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:52fef4a5-7738-4bda-b31b-bccf6332d367@52fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T113000Z
-LOCATION:--каф.
-DTSTART:20231013T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:86b16275-bdb8-49c3-9224-bcb05e208945@86b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20231216T091500Z
-LOCATION:Орш. А-408
-DTSTART:20231216T074500Z
-SUMMARY:ПЗ Иностранный язык
-UID:71a0bf29-b559-49cc-ba68-6facde04493f@71a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T131500Z
-LOCATION:--каф.
-DTSTART:20230908T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:db628291-bbee-4ffa-b964-84b8ede80bc0@db62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА
-DTEND:20230927T113000Z
-LOCATION:Орш. А-509
-DTSTART:20230927T100000Z
-SUMMARY:ПЗ Искусственный интеллект в технологиях материалов
-UID:975203b9-9f16-4b2b-9c6b-9a4eff2cb232@9752.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T073000Z
-LOCATION:--каф.
-DTSTART:20231124T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:220b6ae9-aec7-402c-9bdd-c81a456dde29@220b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20230914T150000Z
-LOCATION:Орш. А-523
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Финишные технологии производства продукции
-UID:930d32ed-1996-4765-b6e6-728e9711437f@930d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231206T131500Z
-LOCATION:Орш. А-525
-DTSTART:20231206T114500Z
-SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
-UID:df8e5595-417e-472c-ab42-399121cf808a@df8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231010T091500Z
-LOCATION:Орш. А-525
-DTSTART:20231010T074500Z
-SUMMARY:ПЗ Основы математического и имитационного моделирования
-UID:e6604745-76cb-484c-bbd0-16bb9f619304@e660.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231012T073000Z
-LOCATION:3-435
-DTSTART:20231012T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:65db629c-1e66-4a2a-a71b-8161f973af8a@65db.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T131500Z
-LOCATION:--стадион
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:4a190a94-438b-41ef-b023-c241cc4ab85d@4a19.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T113000Z
-LOCATION:--каф.
-DTSTART:20231124T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:beb87c4c-cd3f-4e8f-941a-abf409eca132@beb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20230920T131500Z
-LOCATION:Орш. А-525
-DTSTART:20230920T114500Z
-SUMMARY:ЛК Диагностика и надежность автоматизированных систем
-UID:15e29f2b-1623-4114-9e79-13dd9be0238c@15e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
-DTEND:20231226T073000Z
-LOCATION:Орш. А-101
-DTSTART:20231226T060000Z
-SUMMARY:ЛК Искусственный интеллект в технологиях материалов
-UID:b14e86c2-0c1d-46eb-a359-4f29f93b51a0@b14e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T073000Z
-LOCATION:--каф.
-DTSTART:20230915T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:b0d71f5e-f7e1-4501-b5bd-b90aa7842dbb@b0d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T073000Z
-LOCATION:--каф.
-DTSTART:20231027T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:65d05b3b-8c48-4ac9-9b69-89af2a3c3a2c@65d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T073000Z
-LOCATION:--каф.
-DTSTART:20230908T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:238da3ba-26a4-487d-8186-215196511056@238d.org
+UID:34c187e6-d643-4d48-8567-69b81951f259@34c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
@@ -2519,122 +38,173 @@ DTEND:20230907T113000Z
 LOCATION:Орш. А-525
 DTSTART:20230907T100000Z
 SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:fda1d5d0-c9f5-46fa-b757-dde7a5acc3cb@fda1.org
+UID:b29f101e-ddea-445a-babb-25f174831920@b29f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231216T113000Z
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231121T113000Z
 LOCATION:Орш. А-525
-DTSTART:20231216T100000Z
-SUMMARY:ПЗ Теория автоматического управления
-UID:4ef29afc-15e7-447c-bd26-44010a5671ab@4ef2.org
+DTSTART:20231121T100000Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:92b27900-c935-4fdc-be69-1a5b7bcbec67@92b2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
-DTEND:20231023T073000Z
-LOCATION:Орш. А-117
-DTSTART:20231023T060000Z
-SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
-UID:a9b9d305-47ed-47cc-9bdd-86885dc9d0bd@a9b9.org
+DTEND:20230920T073000Z
+LOCATION:Орш. А-319
+DTSTART:20230920T060000Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:0b1e3336-277d-4866-b2bc-c705e90e9242@0b1e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231221T073000Z
-LOCATION:3-435
-DTSTART:20231221T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:f30a3978-a3ee-40e2-a823-2c2a9de08aa6@f30a.org
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231021T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231021T100000Z
+SUMMARY:ПЗ Теория автоматического управления
+UID:bf58a58e-6aa1-4d0c-99c9-5223e8204cb5@bf58.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231205T113000Z
+DTEND:20231207T150000Z
 LOCATION:Орш. А-521
-DTSTART:20231205T100000Z
-SUMMARY:ЛР Финишные технологии производства продукции
-UID:46dd353c-a78f-4373-8b93-f6c09323d645@46dd.org
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Финишные технологии производства продукции
+UID:458ac614-c3ab-4a81-a557-f5aa77a48b46@458a.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230904T131500Z
-LOCATION:--стадион
-DTSTART:20230904T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:6c16c81a-0f69-4d54-ac56-795b87151400@6c16.org
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231024T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231024T074500Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:66a47e41-15c1-42df-ace5-d6a7d7f9b0a6@66a4.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231023T131500Z
-LOCATION:--стадион
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Физическая культура
-UID:c76ad83a-f552-4ad7-885f-ea2e56ad251c@c76a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231216T073000Z
-LOCATION:--стадион
-DTSTART:20231216T060000Z
-SUMMARY:ПЗ Физическая культура
-UID:e7663918-5055-481c-b22e-f01147f20cc4@e766.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Помулева Наталья Сергеевна
-DTEND:20231228T073000Z
-LOCATION:3-435
-DTSTART:20231228T060000Z
-SUMMARY:ЛК Экономическая теория
-UID:2442b707-4587-43b8-a046-b218484eaf7e@2442.org
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20230920T091500Z
+LOCATION:Орш. А-319
+DTSTART:20230920T074500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:aa88377c-f856-4a9b-ab09-535d58e60174@aa88.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
-DTEND:20231214T113000Z
+DTEND:20230913T131500Z
+LOCATION:ГУК Б-336а
+DTSTART:20230913T114500Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:82e104dc-1449-4eec-8f6b-be5d1d49574c@82e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231011T131500Z
 LOCATION:Орш. А-525
-DTSTART:20231214T100000Z
-SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
-UID:1b5de159-cb1e-4526-b071-e429bb2ab5d5@1b5d.org
+DTSTART:20231011T114500Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:cec9bad5-67ec-4f8d-88c4-05dadcb45d43@cec9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Латышева Валентина Васильевна
-DTEND:20230904T150000Z
-LOCATION:Орш. В-501
-DTSTART:20230904T133000Z
-SUMMARY:ЛК Социология
-UID:c68a13f7-811b-414f-8f84-faf4cd796df1@c68a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T073000Z
-LOCATION:--каф.
-DTSTART:20231103T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:250e0be2-05f8-4d7d-973d-fd7fd55608b5@250e.org
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231018T091500Z
+LOCATION:Орш. А-319
+DTSTART:20231018T074500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:7955bde2-d109-457a-9fae-d910ec60f67c@7955.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Хоткина Екатерина Сергеевна
-DTEND:20231014T091500Z
+DTEND:20231028T091500Z
 LOCATION:Орш. А-408
-DTSTART:20231014T074500Z
+DTSTART:20231028T074500Z
 SUMMARY:ПЗ Иностранный язык
-UID:2d8193cb-d944-47b0-85b1-c861d84b46cc@2d81.org
+UID:e37e740c-d183-4717-a174-35c9fc521e28@e37e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
-DTEND:20231123T131500Z
-LOCATION:Орш. А-521
-DTSTART:20231123T114500Z
-SUMMARY:ПЗ Финишные технологии производства продукции
-UID:ae5f03a7-6aa1-4d4a-a3fa-bed014206770@ae5f.org
+DTEND:20230914T131500Z
+LOCATION:Орш. А-523
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Финишные технологии производства продукции
+UID:6ca0b873-53d9-4805-9af6-49b07b0d8437@6ca0.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231002T131500Z
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231211T164500Z
+LOCATION:Орш. А-408
+DTSTART:20231211T151500Z
+SUMMARY:ПЗ Социология
+UID:42956ced-35ee-490d-b918-45c966b3b807@4295.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231018T073000Z
+LOCATION:Орш. А-319
+DTSTART:20231018T060000Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:9e267b95-118c-4bd5-ae90-1759d0427b53@9e26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230920T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230920T100000Z
+SUMMARY:ЛК Диагностика и надежность автоматизированных систем
+UID:d9a5ac74-5bff-45f5-aef5-9885bfe1dcba@d9a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куценко Ольга Викторовна
+DTEND:20231109T091500Z
+LOCATION:3-409
+DTSTART:20231109T074500Z
+SUMMARY:ПЗ Экономическая теория
+UID:69379860-0132-4d8d-8b12-9d82f8ec65c1@6937.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231120T073000Z
+LOCATION:Орш. А-117
+DTSTART:20231120T060000Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:e463d65f-a01c-4871-b8fc-a0b73962474d@e463.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T113000Z
+LOCATION:--каф.
+DTSTART:20231006T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:74840d91-c310-4c84-872f-0f1c1b47e55d@7484.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231005T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231005T114500Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:92214b7f-2601-492b-bd3d-9cedc19661cc@9221.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T131500Z
 LOCATION:--стадион
-DTSTART:20231002T114500Z
+DTSTART:20231127T114500Z
 SUMMARY:ПЗ Физическая культура
-UID:32f5f325-a4f9-4a8a-bc1b-e299276e1708@32f5.org
+UID:7fd2fd1c-2b80-4d97-89a7-4d4112bdec58@7fd2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
-DTEND:20231226T131500Z
-LOCATION:Орш. А-527
-DTSTART:20231226T114500Z
-SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
-UID:7cb53a3e-f4a3-422f-879f-4be80dc68555@7cb5.org
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20231209T091500Z
+LOCATION:Орш. А-408
+DTSTART:20231209T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:043ac5fd-69ca-4006-b8d2-a8cf61a2b3a2@043a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231228T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231228T114500Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:94f8ada6-3123-4397-8041-d284a6a2b976@94f8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
@@ -2642,6 +212,2436 @@ DTEND:20231023T113000Z
 LOCATION:Орш. А-525
 DTSTART:20231023T100000Z
 SUMMARY:ЛК Основы математического и имитационного моделирования
-UID:8d4f884a-050c-4738-b088-aaa610551c47@8d4f.org
+UID:24d7e94c-0a0d-4083-8424-d6773b516cc7@24d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231109T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Финишные технологии производства продукции
+UID:ba8ca0f6-6bec-40b0-ad1d-ca81e44a011e@ba8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231019T073000Z
+LOCATION:3-435
+DTSTART:20231019T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:d0166eb9-fc01-4e78-8d57-9049f1d89283@d016.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231019T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231019T114500Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:15642aa2-94e7-4a63-9a93-87673a85e0f6@1564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20231125T091500Z
+LOCATION:Орш. А-408
+DTSTART:20231125T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:2688978b-6793-4566-9d82-03b99f95cb49@2688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231123T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ Финишные технологии производства продукции
+UID:3d44e68f-2285-4f54-b040-29304795f1da@3d44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231221T073000Z
+LOCATION:3-435
+DTSTART:20231221T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:0cf6905b-bd78-4f9e-b760-7db1e26c2a56@0cf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20231111T091500Z
+LOCATION:Орш. А-408
+DTSTART:20231111T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:93e920a8-d997-422f-815e-b8bbcea1b1fc@93e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231121T073000Z
+LOCATION:Орш. А-101
+DTSTART:20231121T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:36abf163-b1cb-45d9-bcff-f0a68d210760@36ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230907T131500Z
+LOCATION:Орш. А-525
+DTSTART:20230907T114500Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:30637217-58dd-4c33-baae-6b06e1e836c9@3063.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T113000Z
+LOCATION:--каф.
+DTSTART:20231013T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3709eae1-d3e1-4230-8b2f-c4a1b2e5e5dd@3709.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20231031T113000Z
+LOCATION:Орш. А-527
+DTSTART:20231031T100000Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:cec1ad7b-29f2-4e93-918a-d8fed4c227eb@cec1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231219T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231219T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:53fa26c3-6336-4e13-ba5f-990d66f6e522@53fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕЖНОЙ ДМИТРИЙ ВАСИЛЬЕВИЧ
+DTEND:20231226T113000Z
+LOCATION:Орш. А-532
+DTSTART:20231226T100000Z
+SUMMARY:ЛР Искусственный интеллект в технологиях материалов
+UID:9ddcf2e5-4c25-4ef6-b4aa-92d99d588a68@9ddc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231123T131500Z
+LOCATION:Орш. А-521
+DTSTART:20231123T114500Z
+SUMMARY:ПЗ Финишные технологии производства продукции
+UID:88218026-a235-4158-953f-a87087b41631@8821.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231005T073000Z
+LOCATION:3-435
+DTSTART:20231005T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:3215a9fc-7965-4a88-8d16-3c96b8b61037@3215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231130T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231130T114500Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:d4284890-51ff-4965-8094-622aefa46abb@d428.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20230926T091500Z
+LOCATION:Орш. А-525
+DTSTART:20230926T074500Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:0142e5ca-63cb-458a-b78b-1fa92170b932@0142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231031T073000Z
+LOCATION:Орш. А-101
+DTSTART:20231031T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:a167d16d-14ad-4a19-aa91-fa6657a6142a@a167.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231214T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231214T114500Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:a4452673-23cb-45ca-80de-639e8640b769@a445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231010T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231010T100000Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:e65c711f-d28d-41f4-9fac-b2487424a51c@e65c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230916T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Теория автоматического управления
+UID:40cc6484-485b-4821-a37b-1ffb43003d84@40cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231109T073000Z
+LOCATION:3-435
+DTSTART:20231109T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:a962d000-fa0b-404b-916c-1c86dfdcd523@a962.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T131500Z
+LOCATION:--каф.
+DTSTART:20231117T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d64df6ab-cdd1-4fd1-9bef-e3f2b13ff21c@d64d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T073000Z
+LOCATION:--каф.
+DTSTART:20231208T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:1f662c1b-8a30-4b26-afd4-f5fcd9c026fe@1f66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231125T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231125T100000Z
+SUMMARY:ЛК Теория автоматического управления
+UID:cc531898-8e5e-4e6b-a62c-8e751945479a@cc53.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T091500Z
+LOCATION:--каф.
+DTSTART:20231103T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2c5744e1-bea3-4a7e-9f34-3785ccc6045f@2c57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231204T091500Z
+LOCATION:Орш. А-117
+DTSTART:20231204T074500Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:e39a8c54-f838-4f33-be6d-e0be2b2ac9be@e39a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231106T091500Z
+LOCATION:Орш. А-117
+DTSTART:20231106T074500Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:f0c06c20-8e99-4a22-a232-c2dfaf7a79bd@f0c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231009T091500Z
+LOCATION:Орш. А-117
+DTSTART:20231009T074500Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:b66477d2-878b-4bb1-b7cc-d1b4e1defa4e@b664.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА
+DTEND:20230927T113000Z
+LOCATION:Орш. А-509
+DTSTART:20230927T100000Z
+SUMMARY:ПЗ Искусственный интеллект в технологиях материалов
+UID:24a0e71b-4347-4cde-a767-aef78ba3b39d@24a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231012T073000Z
+LOCATION:3-435
+DTSTART:20231012T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:6490fae0-f388-46e9-bb92-ce42f51b1909@6490.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231213T091500Z
+LOCATION:Орш. А-532
+DTSTART:20231213T074500Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:0125c692-ab35-4ad9-bf52-994156b9fb45@0125.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T091500Z
+LOCATION:--каф.
+DTSTART:20230901T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:89667bbc-3b9d-48ee-ba47-a20abdf7814c@8966.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T113000Z
+LOCATION:--каф.
+DTSTART:20230901T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b2599cae-068d-4d68-bdf0-63d80d06ea0e@b259.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20230919T073000Z
+LOCATION:Орш. А-101
+DTSTART:20230919T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:c004c78a-db76-4672-a76e-35e95db9a805@c004.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231109T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231109T114500Z
+SUMMARY:ЛК Финишные технологии производства продукции
+UID:3adb6582-ef1f-4561-9e56-e9f136346152@3adb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T131500Z
+LOCATION:--каф.
+DTSTART:20231020T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4d63e4d1-6614-48cb-87b2-6549d42a8691@4d63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20230926T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230926T100000Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:cd7b23ab-89a2-4503-8ac8-ca638eb05af6@cd7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T131500Z
+LOCATION:--каф.
+DTSTART:20231103T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:bf55188c-3c32-47c5-8f5d-803844e58e2b@bf55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231030T150000Z
+LOCATION:Орш. В-501
+DTSTART:20231030T133000Z
+SUMMARY:ЛК Социология
+UID:b3d39a1b-4c8a-4d35-9fe8-3e12c54c26ba@b3d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231010T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231010T074500Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:fb408492-4de7-4a2d-a54a-3e0ace0384a6@fb40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231120T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Основы математического и имитационного моделирования
+UID:1e5500ec-27c6-4fcf-a81a-021f59c0d33f@1e55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231107T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231107T100000Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:cde387e9-6212-4aa7-9a8d-6ed3fcaea481@cde3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230927T150000Z
+LOCATION:Орш. А-525
+DTSTART:20230927T133000Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:fc394a7d-db8f-4026-bacb-56decd9d4c75@fc39.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T113000Z
+LOCATION:--каф.
+DTSTART:20231222T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:a1935471-3c02-4bfe-9adf-c7be149cc61d@a193.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231214T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231214T100000Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:77ed7787-cdc4-4741-b3cb-66c0382167de@77ed.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T073000Z
+LOCATION:--каф.
+DTSTART:20231215T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:4db62833-572c-4196-bb18-e1e9cf317d1a@4db6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231017T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:0be0f98f-f5a5-4282-a7ec-f7006b663b18@0be0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T091500Z
+LOCATION:--каф.
+DTSTART:20231006T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:beb3cda5-9800-46d8-87c4-8747b3301ad9@beb3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T131500Z
+LOCATION:--каф.
+DTSTART:20231124T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:532d6ea9-be40-45ad-915d-066f941143af@532d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231212T073000Z
+LOCATION:Орш. А-101
+DTSTART:20231212T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:689d2b0c-0096-410a-adaa-e98ac778b716@689d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T091500Z
+LOCATION:--каф.
+DTSTART:20231013T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:57ce51d6-8f95-49dd-8a94-1720b4182067@57ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20230905T131500Z
+LOCATION:Орш. А-527
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:7c87c3c9-5d77-45d8-9fe8-57371646641f@7c87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231205T091500Z
+LOCATION:Орш. А-521
+DTSTART:20231205T074500Z
+SUMMARY:ЛР Финишные технологии производства продукции
+UID:2caf356a-af70-4f6c-916f-e93f608fa59b@2caf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20230919T113000Z
+LOCATION:Орш. А-527
+DTSTART:20230919T100000Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:64bea533-ebbc-4526-86e5-cc32f320794c@64be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231116T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231116T100000Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:795e8561-bbf2-49a9-98db-c98dd565fe3e@795e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20230921T073000Z
+LOCATION:3-435
+DTSTART:20230921T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:0fbf22f0-4264-401a-8a37-eae2db74f1f3@0fbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231106T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Основы математического и имитационного моделирования
+UID:f0a08568-ae79-47a5-9038-6e3d1e495ad9@f0a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230923T073000Z
+LOCATION:--стадион
+DTSTART:20230923T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:166f9fa5-5221-419c-9c86-bdddaf40645b@166f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231129T091500Z
+LOCATION:Орш. А-532
+DTSTART:20231129T074500Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:785b933d-eefd-485f-be20-69068e2b32b9@785b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231009T073000Z
+LOCATION:Орш. А-117
+DTSTART:20231009T060000Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:6f241a5a-7219-4499-97a5-f8c36e5b391b@6f24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231218T073000Z
+LOCATION:Орш. А-117
+DTSTART:20231218T060000Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:d40b7b1c-2b16-4598-a9d7-52dfb8f697f1@d40b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231205T073000Z
+LOCATION:Орш. А-101
+DTSTART:20231205T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:27f90832-bff4-4beb-8086-e2327d004022@27f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231205T113000Z
+LOCATION:Орш. А-521
+DTSTART:20231205T100000Z
+SUMMARY:ЛР Финишные технологии производства продукции
+UID:1f80150b-0399-41a0-8f22-4e4b7d432d14@1f80.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T091500Z
+LOCATION:--каф.
+DTSTART:20231110T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1d4f3498-fb75-4a7b-80df-907f9fa27506@1d4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T091500Z
+LOCATION:--каф.
+DTSTART:20231117T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:39bc398a-f0db-41b2-b229-a44ea67a6646@39bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T131500Z
+LOCATION:--каф.
+DTSTART:20230922T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4fdad563-bfbe-4482-a932-ce05b10ec4c0@4fda.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T131500Z
+LOCATION:--стадион
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:ff9647aa-9362-4295-ae16-f800b7f04d11@ff96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20230904T164500Z
+LOCATION:Орш. А-408
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Социология
+UID:81961ab2-69ed-4c19-9314-f645dccc0dc7@8196.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T073000Z
+LOCATION:--каф.
+DTSTART:20230929T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f261121f-dedc-40c3-aafc-28b2998a3f2a@f261.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T131500Z
+LOCATION:--каф.
+DTSTART:20230915T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:37d88034-9459-44ec-926c-3a2bc34113e6@37d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231220T113000Z
+LOCATION:ГУК Б-336а
+DTSTART:20231220T100000Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:4be68583-27fc-4381-9eec-66aea520facf@4be6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T073000Z
+LOCATION:--каф.
+DTSTART:20231117T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:bd11b0bc-68e9-40ad-ae59-2ec9976f6bc0@bd11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231023T073000Z
+LOCATION:Орш. А-117
+DTSTART:20231023T060000Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:e3ffa96c-833b-4565-b3ed-47fd1565e3a1@e3ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231106T073000Z
+LOCATION:Орш. А-117
+DTSTART:20231106T060000Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:4194286c-f895-4c18-b4e1-829977bbcdba@4194.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231225T131500Z
+LOCATION:--стадион
+DTSTART:20231225T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:fa6ae5c5-cb2b-49cb-b69c-ca5bbea4b6b8@fa6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231004T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231004T114500Z
+SUMMARY:ЛК Диагностика и надежность автоматизированных систем
+UID:dce811e1-38b0-4562-baf8-098c5cab9867@dce8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20231114T091500Z
+LOCATION:Орш. А-527
+DTSTART:20231114T074500Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:58bc6430-3ff9-400a-98b6-e80cb43042be@58bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231122T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231122T114500Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:d3e2603d-289c-4155-b287-e63c7a096c44@d3e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231121T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231121T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:91ab3b0f-e6a3-4453-b314-aa840616b8a4@91ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231101T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231101T114500Z
+SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
+UID:d61331d2-d1bb-413e-88ec-a7710dd253b1@d613.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231121T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:1cf00b57-340a-44a4-9140-23476a03a8e1@1cf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20230918T150000Z
+LOCATION:Орш. В-501
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Социология
+UID:430baf8e-89f7-47c3-86f2-7c54ea63b7e2@430b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230902T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230902T100000Z
+SUMMARY:ЛК Теория автоматического управления
+UID:8ae15b2f-8793-4812-9494-10c0c63d6013@8ae1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231014T073000Z
+LOCATION:--стадион
+DTSTART:20231014T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:a570a5cd-1f67-4173-9cbb-9adb3058f517@a570.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T131500Z
+LOCATION:--стадион
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:dd457a1c-9c20-4f98-ae10-0edc66e9afbc@dd45.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T073000Z
+LOCATION:--каф.
+DTSTART:20231222T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:15779753-a5ad-42d9-ac49-307d34f952b7@1577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231115T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231115T100000Z
+SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
+UID:c2009289-9552-4930-8e65-f81e609d3374@c200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20231003T091500Z
+LOCATION:Орш. А-527
+DTSTART:20231003T074500Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:b88bea4e-b908-427b-bd25-87569c41792d@b88b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230923T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230923T100000Z
+SUMMARY:ПЗ Теория автоматического управления
+UID:9fa70256-3704-4820-a13b-229bb59572e3@9fa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231023T091500Z
+LOCATION:Орш. А-117
+DTSTART:20231023T074500Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:83a5700c-62de-4ba9-89f1-892923330ca4@83a5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231007T073000Z
+LOCATION:--стадион
+DTSTART:20231007T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:df48becf-c712-4312-926d-64c95fccfe72@df48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20231017T091500Z
+LOCATION:Орш. А-527
+DTSTART:20231017T074500Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:9f8e02e6-e7f8-4a6d-9243-1952fec48006@9f8e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T073000Z
+LOCATION:--каф.
+DTSTART:20231027T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:725d1a3b-9b89-48dd-b70b-a2b0eafbeb78@725d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T113000Z
+LOCATION:--каф.
+DTSTART:20231103T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:dab1ea3e-cfed-415e-9a4e-8b9c3a2da442@dab1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T091500Z
+LOCATION:--каф.
+DTSTART:20230908T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e4a48799-86a7-4be5-84f3-7c56206aa0ce@e4a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20230905T091500Z
+LOCATION:Орш. А-527
+DTSTART:20230905T074500Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:869bdaea-e844-4c19-900a-1d70c858ddb6@869b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T131500Z
+LOCATION:--каф.
+DTSTART:20231222T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a460cda2-1f6e-43ff-b7d3-d7399d105daf@a460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20231114T113000Z
+LOCATION:Орш. А-527
+DTSTART:20231114T100000Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:7156e9c3-30ea-4589-b1d5-17e890bf1ba3@7156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231111T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231111T100000Z
+SUMMARY:ЛК Теория автоматического управления
+UID:00baf521-8e2d-4f7a-986b-60df489a4aba@00ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231225T150000Z
+LOCATION:Орш. В-501
+DTSTART:20231225T133000Z
+SUMMARY:ЛК Социология
+UID:7505c719-0cc5-415a-96a4-3f3fa108ab10@7505.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230914T150000Z
+LOCATION:Орш. А-523
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Финишные технологии производства продукции
+UID:c0dfbc12-c2cb-48be-b266-1295ca3cd8d3@c0df.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T131500Z
+LOCATION:--каф.
+DTSTART:20231027T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0c2b388a-260f-438f-9014-07c0892adc2b@0c2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231009T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231009T100000Z
+SUMMARY:ЛК Основы математического и имитационного моделирования
+UID:64603c99-6139-45d0-a56c-e5da34cf9c61@6460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20230916T091500Z
+LOCATION:Орш. А-408
+DTSTART:20230916T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:b95d21ed-44e8-4bb9-b1a5-74c539932c0f@b95d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231028T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231028T100000Z
+SUMMARY:ЛК Теория автоматического управления
+UID:eda67eea-4258-4f81-9c93-38b94bfa92b5@eda6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231101T091500Z
+LOCATION:Орш. А-319
+DTSTART:20231101T074500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:bb47c1ef-8a32-47f2-9191-e98e417a5ab9@bb47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231207T073000Z
+LOCATION:3-435
+DTSTART:20231207T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:6b8ccab1-aef1-4ada-a1df-ba3b97ff9bca@6b8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231122T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231122T100000Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:ba398eb7-e7d8-4324-9645-0ba6191fea16@ba39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20230914T073000Z
+LOCATION:3-435
+DTSTART:20230914T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:057535a4-1235-468d-a875-565a06db492f@0575.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T131500Z
+LOCATION:--каф.
+DTSTART:20231013T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:fffcba74-7c28-454e-805a-2cc0fd7b8822@fffc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231018T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
+UID:54538946-723e-4fb5-8b5a-33b074364a92@5453.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20230925T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Основы математического и имитационного моделирования
+UID:964ef42b-f71d-410d-8530-ad6192a43fe3@964e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T091500Z
+LOCATION:--каф.
+DTSTART:20231208T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:64dd11f4-9f1d-4b5f-8f9e-75a8ccf3c37c@64dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231116T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231116T114500Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:e5b796e2-5949-4f4b-aa5e-3b6cf420e2f0@e5b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231024T073000Z
+LOCATION:Орш. А-101
+DTSTART:20231024T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:725d8781-3dc0-408a-b40c-72c9ff79a950@725d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T131500Z
+LOCATION:--стадион
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:220ea543-4969-4281-9cf1-c8198de9d15b@220e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231024T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231024T100000Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:ed405f31-0847-4b07-b921-803bb84ae875@ed40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20231021T091500Z
+LOCATION:Орш. А-408
+DTSTART:20231021T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:60d27550-70e2-4e2f-8d56-4c70d49c4074@60d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231005T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231005T100000Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:801f2884-beb0-4045-a8ca-cc220b897cda@801f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T073000Z
+LOCATION:--каф.
+DTSTART:20230922T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:75f3227d-f124-414f-aaec-c83d39d63591@75f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231206T150000Z
+LOCATION:Орш. А-525
+DTSTART:20231206T133000Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:1458c1bd-1f70-42a4-b701-48d7f05775a7@1458.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231114T073000Z
+LOCATION:Орш. А-101
+DTSTART:20231114T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:9e35744a-14f0-4ece-b632-18c6764aac37@9e35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231025T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:6bab1360-6997-406b-9159-5604f67ae5f4@6bab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T131500Z
+LOCATION:--стадион
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:c05027b3-2700-49b2-9b5e-e88ce619aa6f@c050.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T091500Z
+LOCATION:--каф.
+DTSTART:20230922T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:56d434eb-e724-4d4c-b273-19bb7aba4948@56d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20230919T131500Z
+LOCATION:Орш. А-527
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:45f027d3-1892-4a61-98dd-ba98b1de6331@45f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231025T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231025T114500Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:eb9fb154-c0e9-443e-8675-e590f9cefa6e@eb9f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230930T073000Z
+LOCATION:--стадион
+DTSTART:20230930T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:b0989e47-9ba8-4fbf-86d1-3614214c42f7@b098.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20231118T091500Z
+LOCATION:Орш. А-408
+DTSTART:20231118T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:771bafb3-eaf2-469f-8e8e-d9d06684e165@771b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T131500Z
+LOCATION:--стадион
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:9d6b21a3-a14f-42ee-b766-a295590c5b12@9d6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231101T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231101T100000Z
+SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
+UID:e917b9e9-5335-4cab-9af5-2eb03af83b0b@e917.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20230905T073000Z
+LOCATION:Орш. А-101
+DTSTART:20230905T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:a8fe6bbd-4bd7-4978-b6d4-c41d13f4b75c@a8fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231018T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231018T100000Z
+SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
+UID:ec0c82fb-a1ca-433d-9281-14a0b1d86380@ec0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231130T073000Z
+LOCATION:3-435
+DTSTART:20231130T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:66004d8d-ab55-4b1d-9ae4-88a30d2a6839@6600.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T131500Z
+LOCATION:--каф.
+DTSTART:20230908T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:ad6792f2-52df-4ebd-bb23-35a89075fa83@ad67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20231031T091500Z
+LOCATION:Орш. А-527
+DTSTART:20231031T074500Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:b4244d77-8171-416f-aafe-5179d9f8aa29@b424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20230906T073000Z
+LOCATION:Орш. А-319
+DTSTART:20230906T060000Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:8d2b9eaa-c661-47be-a0f4-173a8f076d5f@8d2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231205T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231205T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:ab065d0b-3b58-4f5a-878b-00c1cd9d1ae4@ab06.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T113000Z
+LOCATION:--каф.
+DTSTART:20231208T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:74b2ae39-22d0-415e-b2f5-afcde4a46a9b@74b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20230912T073000Z
+LOCATION:Орш. А-101
+DTSTART:20230912T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:02da490f-cc58-430d-8389-77fb4a6a66c6@02da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231125T073000Z
+LOCATION:--стадион
+DTSTART:20231125T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:6719c588-441f-42e5-b6d3-95e3c8e4d2de@6719.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231213T073000Z
+LOCATION:Орш. А-532
+DTSTART:20231213T060000Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:43bc8f8f-867b-42fe-b74b-382dd8187f43@43bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T091500Z
+LOCATION:--каф.
+DTSTART:20231124T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f987aa04-f662-4e1d-abd8-364106e5f004@f987.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231218T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231218T100000Z
+SUMMARY:ЛК Основы математического и имитационного моделирования
+UID:f17ed39a-25c7-4c45-b01d-6a61b44355df@f17e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230927T131500Z
+LOCATION:Орш. А-525
+DTSTART:20230927T114500Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:0b8f64b9-516f-4f86-aaab-ebfa54e2e5a9@0b8f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231211T131500Z
+LOCATION:--стадион
+DTSTART:20231211T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:f952bfcf-94a1-4891-b92e-7b160a0022b6@f952.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231019T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231019T100000Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:ac001684-bf65-4de3-90ec-cb8bef177ad3@ac00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231226T073000Z
+LOCATION:Орш. А-101
+DTSTART:20231226T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:9a98470f-47b1-45ec-ab8a-8fe3f488f311@9a98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231204T073000Z
+LOCATION:Орш. А-117
+DTSTART:20231204T060000Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:3f1c034d-f061-4c82-8fed-f991336eba92@3f1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20230904T150000Z
+LOCATION:Орш. В-501
+DTSTART:20230904T133000Z
+SUMMARY:ЛК Социология
+UID:4aa08d24-2ed5-4930-8ae5-aaa8c9ce7b87@4aa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231026T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Финишные технологии производства продукции
+UID:c04f36f5-145d-43af-8379-8b12ef868c12@c04f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куценко Ольга Викторовна
+DTEND:20230914T091500Z
+LOCATION:3-409
+DTSTART:20230914T074500Z
+SUMMARY:ПЗ Экономическая теория
+UID:af1f483e-9ab6-4e77-9413-4607e14c9e13@af1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231016T164500Z
+LOCATION:Орш. А-408
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Социология
+UID:b2a12862-81f3-4ad5-81b5-be0aaa8892d4@b2a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T131500Z
+LOCATION:--каф.
+DTSTART:20231215T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1821f753-df7e-4b76-8c87-b6bda5b4c1bd@1821.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231007T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231007T100000Z
+SUMMARY:ПЗ Теория автоматического управления
+UID:7d7b1b34-b9cb-4bd1-bae1-94366871476f@7d7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куценко Ольга Викторовна
+DTEND:20230928T091500Z
+LOCATION:3-409
+DTSTART:20230928T074500Z
+SUMMARY:ПЗ Экономическая теория
+UID:eec926fd-ef8d-4126-872b-55d54de67fbd@eec9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T131500Z
+LOCATION:--каф.
+DTSTART:20231110T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5b8495d3-5128-4a5f-af45-7c8b125f71ac@5b84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231207T131500Z
+LOCATION:Орш. А-521
+DTSTART:20231207T114500Z
+SUMMARY:ПЗ Финишные технологии производства продукции
+UID:14811901-e29c-46e0-982d-640d59191633@1481.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T113000Z
+LOCATION:--каф.
+DTSTART:20231020T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e10264be-04cb-495b-8f57-53d815c97762@e102.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231004T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Диагностика и надежность автоматизированных систем
+UID:21d32186-6af4-4ab2-b5da-e3ffce9c662b@21d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T091500Z
+LOCATION:--каф.
+DTSTART:20230929T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:458304f0-2ebc-4398-a516-0485aab72cf9@4583.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231228T073000Z
+LOCATION:3-435
+DTSTART:20231228T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:6c9d011e-6626-45f6-b75f-fd0a7efc09f4@6c9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231209T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231209T100000Z
+SUMMARY:ЛК Теория автоматического управления
+UID:0fac6b67-eae4-4426-abf1-585152f06cbc@0fac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230906T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Диагностика и надежность автоматизированных систем
+UID:33c79961-3568-4a0f-a2f6-065e8485dab7@33c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:АЛЕКСАНДРОВА СВЕТЛАНА СЕРГЕЕВНА
+DTEND:20230927T091500Z
+LOCATION:Орш. А-509
+DTSTART:20230927T074500Z
+SUMMARY:ПЗ Искусственный интеллект в технологиях материалов
+UID:49f612a6-7b63-42ea-bb18-9b6d46351dc5@49f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T073000Z
+LOCATION:--каф.
+DTSTART:20231103T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f8fb19ee-b2b4-4b63-81bb-dfc9dbc53db7@f8fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231123T073000Z
+LOCATION:3-435
+DTSTART:20231123T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:62b8616b-9fdf-451f-aaab-afbf29bb6c7d@62b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T091500Z
+LOCATION:--каф.
+DTSTART:20231215T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8959ef95-2559-4df0-b81b-54fe1750e617@8959.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20230911T091500Z
+LOCATION:Орш. А-117
+DTSTART:20230911T074500Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:1340f4ae-7d48-40dc-a1aa-ce8a2351d3da@1340.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231216T073000Z
+LOCATION:--стадион
+DTSTART:20231216T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:38297da8-5ea1-4a8c-a525-2542323297f7@3829.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T131500Z
+LOCATION:--стадион
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:e2943554-0865-412b-bb1f-75198e7f92fc@e294.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231003T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231003T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:9f410c15-5e4f-4c40-b054-660d5f8f9061@9f41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20230911T073000Z
+LOCATION:Орш. А-117
+DTSTART:20230911T060000Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:5b24c835-2c59-42ce-bbe7-bff09a2fcc6d@5b24.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T091500Z
+LOCATION:--каф.
+DTSTART:20231027T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:5be00f58-6138-4b07-8166-0285a427249c@5be0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231221T131500Z
+LOCATION:Орш. А-521
+DTSTART:20231221T114500Z
+SUMMARY:ЛР Финишные технологии производства продукции
+UID:55c6fa0b-4792-42d6-bddf-3679eda34911@55c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20231202T091500Z
+LOCATION:Орш. А-408
+DTSTART:20231202T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:d7b6aebd-a7ec-40b2-b121-341b0726f39b@d7b6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T113000Z
+LOCATION:--каф.
+DTSTART:20230908T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6b4e1f5f-852a-401a-809c-104917701b34@6b4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T113000Z
+LOCATION:--каф.
+DTSTART:20231110T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:14fec763-463a-46a4-9a4b-d3b64c0a79bd@14fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20230902T091500Z
+LOCATION:Орш. А-408
+DTSTART:20230902T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:245a702c-a243-49b4-b0ad-6fdf7f9e4b7a@245a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231204T113000Z
+LOCATION:Орш. А-523
+DTSTART:20231204T100000Z
+SUMMARY:ЛК Основы математического и имитационного моделирования
+UID:4c8a26d3-691b-4362-9239-dd9bc8fb90e7@4c8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231114T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:f6143c52-345c-4965-bb2d-20105f0c362e@f614.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20230912T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230912T100000Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:ec92027b-eb7d-4edd-a366-78826083e5cf@ec92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куценко Ольга Викторовна
+DTEND:20231207T091500Z
+LOCATION:3-409
+DTSTART:20231207T074500Z
+SUMMARY:ПЗ Экономическая теория
+UID:88a633c3-414b-4eeb-adaf-dedf8b9af207@88a6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T113000Z
+LOCATION:--каф.
+DTSTART:20230922T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ba8421b9-4177-4d53-b4ce-bf094ec16a90@ba84.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231028T073000Z
+LOCATION:--стадион
+DTSTART:20231028T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:827a2c81-45ab-4682-8369-934513c8995d@827a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20230911T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Основы математического и имитационного моделирования
+UID:5a8be6a6-6f0b-420e-9eeb-da1b6a864628@5a8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20230909T091500Z
+LOCATION:Орш. А-408
+DTSTART:20230909T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:2d151b9f-ea20-4828-a4be-7ff6a826c5a4@2d15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20230918T164500Z
+LOCATION:Орш. А-408
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Социология
+UID:02db5275-dba9-40f6-a78d-be4984f298c6@02db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231213T131500Z
+LOCATION:--каф.
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Искусственный интеллект в технологиях материалов
+UID:7a608ec5-2a49-402e-a8b9-80927be71489@7a60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230913T113000Z
+LOCATION:ГУК Б-336а
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:46efced0-10c7-463b-8805-07c670e3a0eb@46ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20230928T073000Z
+LOCATION:3-435
+DTSTART:20230928T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:a6a56e94-6c3b-404f-9b35-81800495feaf@a6a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231004T091500Z
+LOCATION:Орш. А-319
+DTSTART:20231004T074500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:13844a77-1704-428f-82e5-d5fc7463a8db@1384.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20231128T091500Z
+LOCATION:Орш. А-527
+DTSTART:20231128T074500Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:7813a973-b80b-45d9-b4a1-d0c972f655b4@7813.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231218T131500Z
+LOCATION:--стадион
+DTSTART:20231218T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:b5c4c27e-9bc8-4c0a-b249-5018eeb4f956@b5c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231108T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:5dde9f8a-65c5-4d24-9d78-b4c500323554@5dde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куценко Ольга Викторовна
+DTEND:20231221T091500Z
+LOCATION:3-409
+DTSTART:20231221T074500Z
+SUMMARY:ПЗ Экономическая теория
+UID:afe5763a-98ba-4808-8dea-50c37d24c7f6@afe5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T131500Z
+LOCATION:--стадион
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:27a228e6-4e37-4ca2-885e-7086575283bc@27a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T073000Z
+LOCATION:--каф.
+DTSTART:20231020T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:94f71bf5-ecb2-431c-bd8b-e2b4ed9eb171@94f7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T073000Z
+LOCATION:--каф.
+DTSTART:20230901T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:5fdf7666-2290-4627-a173-87699b392ccc@5fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T073000Z
+LOCATION:--каф.
+DTSTART:20231201T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:87460c13-de0b-43ae-9f0d-c75a061466a4@8746.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231002T164500Z
+LOCATION:Орш. А-408
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Социология
+UID:783b9aaa-8dec-42c6-abbd-80199ed328ca@783b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231226T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231226T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:e97bcf3f-5082-4fa3-9640-677893503de1@e97b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231128T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:9e798565-2374-462f-823c-2dcfc1650094@9e79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231012T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Финишные технологии производства продукции
+UID:88aff73a-b704-4d11-b014-1add929f9bd8@88af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231118T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231118T100000Z
+SUMMARY:ПЗ Теория автоматического управления
+UID:199a68a1-2584-4c32-87c7-fa290d804e6a@199a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230928T131500Z
+LOCATION:Орш. А-523
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Финишные технологии производства продукции
+UID:2390160d-fc77-4271-9bf8-92df7fd9f550@2390.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230920T131500Z
+LOCATION:Орш. А-525
+DTSTART:20230920T114500Z
+SUMMARY:ЛК Диагностика и надежность автоматизированных систем
+UID:7787eb8c-a9d6-4844-845b-a99e6a62e243@7787.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231026T073000Z
+LOCATION:3-435
+DTSTART:20231026T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:3d774cfd-c121-4749-adce-f68683cd4359@3d77.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T073000Z
+LOCATION:--каф.
+DTSTART:20231006T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6937b9e7-c091-4173-b19a-18f9b12f6279@6937.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230921T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230921T100000Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:e7029045-4ce1-44d5-951c-817d25a11627@e702.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T091500Z
+LOCATION:--каф.
+DTSTART:20230915T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:94dd2bba-37ec-47e9-a10a-e04cf80b8cbe@94dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231014T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231014T100000Z
+SUMMARY:ЛК Теория автоматического управления
+UID:f6a1400e-5d24-4d3e-b954-bd1b2ac0997e@f6a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20231003T113000Z
+LOCATION:Орш. А-527
+DTSTART:20231003T100000Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:ecb9c45a-e497-4801-89e9-7ce6fadb1a34@ecb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T073000Z
+LOCATION:--каф.
+DTSTART:20230915T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6a30bf70-1000-45d7-bd85-a0089f30bdc6@6a30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231206T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231206T114500Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:7e1dcd28-d32d-4479-a6a2-cabf6ea14f78@7e1d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T113000Z
+LOCATION:--каф.
+DTSTART:20231215T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ccbd485c-b879-464e-a7d6-8e57080fbafc@ccbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БЕРЕЖНОЙ ДМИТРИЙ ВАСИЛЬЕВИЧ
+DTEND:20231226T091500Z
+LOCATION:Орш. А-532
+DTSTART:20231226T074500Z
+SUMMARY:ЛР Искусственный интеллект в технологиях материалов
+UID:048448f8-5498-4c67-b541-4bfb503d4438@0484.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куценко Ольга Викторовна
+DTEND:20231026T091500Z
+LOCATION:3-409
+DTSTART:20231026T074500Z
+SUMMARY:ПЗ Экономическая теория
+UID:05656a0c-a270-4383-a5a6-addf898b8091@0565.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T113000Z
+LOCATION:--каф.
+DTSTART:20231117T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:acf9d410-1af8-4d3b-8fc7-3f6a02bbcb88@acf9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T073000Z
+LOCATION:--каф.
+DTSTART:20231110T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7ea8b7bd-c122-4b71-9614-6cf3bbbb9d76@7ea8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231206T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231206T074500Z
+SUMMARY:ЛР Искусственный интеллект в технологиях материалов
+UID:e253f02f-8576-44ef-af6b-449703ba80cb@e253.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231212T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231212T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:6b52bf77-cdf0-40aa-89c5-975b37fa028c@6b52.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T073000Z
+LOCATION:--каф.
+DTSTART:20230908T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:81e12b3d-932c-4475-a971-f8e801596fc4@81e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231017T073000Z
+LOCATION:Орш. А-101
+DTSTART:20231017T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:d5cf8c02-ac8c-49c5-8e15-403ea3fbca65@d5cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231129T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231129T100000Z
+SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
+UID:d77069e6-79a1-4d57-9bd2-81d5aa24264e@d770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231016T150000Z
+LOCATION:Орш. В-501
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Социология
+UID:98f2204f-34d4-4f39-b3f7-feed5d8106a8@98f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T131500Z
+LOCATION:--стадион
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:f22d503d-b67e-4038-b405-9697f252d32e@f22d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20230919T091500Z
+LOCATION:Орш. А-527
+DTSTART:20230919T074500Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:2b575f8c-a587-4b9b-8a3b-90c376771ed1@2b57.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T091500Z
+LOCATION:--каф.
+DTSTART:20231020T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:13829497-5707-4f7c-83ae-800e2b947a03@1382.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231021T073000Z
+LOCATION:--стадион
+DTSTART:20231021T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:3c033b7d-c82f-47a3-85cd-53bdb3140554@3c03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231202T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231202T100000Z
+SUMMARY:ПЗ Теория автоматического управления
+UID:3a4be4eb-a88d-4816-8a30-8e40d9fe28b4@3a4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231120T091500Z
+LOCATION:Орш. А-117
+DTSTART:20231120T074500Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:afc46bf6-954d-42b2-bca9-c2ec872d724b@afc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T113000Z
+LOCATION:--каф.
+DTSTART:20231027T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:2bd28690-453b-4107-a1e9-d909aadc9924@2bd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230909T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230909T100000Z
+SUMMARY:ПЗ Теория автоматического управления
+UID:c29790c5-3c20-49cc-a955-df5550e0041a@c297.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231107T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231107T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:7ffc7abc-c90c-45d8-8403-8665056d7899@7ffc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231219T073000Z
+LOCATION:Орш. А-101
+DTSTART:20231219T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:487481fa-1bd9-4fcd-a146-e38b55c97ba3@4874.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230921T131500Z
+LOCATION:Орш. А-525
+DTSTART:20230921T114500Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:139d5c3d-5232-4c68-a8a7-2fac0e6ba2a0@139d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T113000Z
+LOCATION:--каф.
+DTSTART:20231124T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:3d4673be-c009-42a8-8b8f-667b89a9c127@3d46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20230926T131500Z
+LOCATION:Орш. А-527
+DTSTART:20230926T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:30055c96-5ddb-4ae5-9f1b-ce0f2ad57c87@3005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20230905T113000Z
+LOCATION:Орш. А-527
+DTSTART:20230905T100000Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:5ba1c7b7-635c-4199-93b3-f47634237d21@5ba1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T113000Z
+LOCATION:--каф.
+DTSTART:20230929T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ca81ba94-b836-41ce-ba56-ae05b31d36c1@ca81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20231007T091500Z
+LOCATION:Орш. А-408
+DTSTART:20231007T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:115957ec-be1e-41b6-8ebb-e3413dd32a00@1159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231115T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
+UID:0147bf85-0898-4c52-b875-50bbb49bd84d@0147.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231102T073000Z
+LOCATION:3-435
+DTSTART:20231102T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:a52c27a0-3128-4632-9963-00d248e58cf8@a52c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20230928T150000Z
+LOCATION:Орш. А-523
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Финишные технологии производства продукции
+UID:2171177f-6053-4ae8-a9e1-cc32100054d1@2171.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231127T164500Z
+LOCATION:Орш. А-408
+DTSTART:20231127T151500Z
+SUMMARY:ПЗ Социология
+UID:44cb3fe8-43c3-4fb1-a563-415ff19c1c41@44cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T131500Z
+LOCATION:--стадион
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:6a152e43-1282-496a-aa55-35ee53999805@6a15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231228T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231228T100000Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:34c43b82-4815-4ebf-bee1-126c7ac4b169@34c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231101T073000Z
+LOCATION:Орш. А-319
+DTSTART:20231101T060000Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:d94d0976-591d-4b76-b2d4-34e7cc64ae56@d94d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20230912T091500Z
+LOCATION:Орш. А-525
+DTSTART:20230912T074500Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:9ce98940-c5e2-4dac-b899-458c57ae2738@9ce9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231107T091500Z
+LOCATION:Орш. А-525
+DTSTART:20231107T074500Z
+SUMMARY:ПЗ Основы математического и имитационного моделирования
+UID:2d1984d7-f539-4cb1-b17b-8c0a4c351b40@2d19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231030T164500Z
+LOCATION:Орш. А-408
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Социология
+UID:982981cb-2163-4d44-a896-c7bc5b2ad49c@9829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231102T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231102T114500Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:cdff51cc-e81b-4990-a83e-f9108f8669c7@cdff.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T073000Z
+LOCATION:--каф.
+DTSTART:20231013T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:8c72b2d4-2608-4c0f-8ca6-7e212b8f0650@8c72.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230902T073000Z
+LOCATION:--стадион
+DTSTART:20230902T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:bdf82dc1-07fb-47be-8ceb-27d36e73d97e@bdf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231127T150000Z
+LOCATION:Орш. В-501
+DTSTART:20231127T133000Z
+SUMMARY:ЛК Социология
+UID:0d432bf6-b871-4618-bba5-b3114eded2b7@0d43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20230907T073000Z
+LOCATION:3-435
+DTSTART:20230907T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:0dbcefa4-feed-4937-a717-4bd45822f650@0dbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T131500Z
+LOCATION:--каф.
+DTSTART:20231208T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:902896a2-6a6e-4d0c-92d1-2f4c8094e2b1@9028.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231202T073000Z
+LOCATION:--стадион
+DTSTART:20231202T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:9d56b591-39e0-4580-b6d2-12c82b1f2972@9d56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231129T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Диагностика и надежность автоматизированных систем
+UID:61d12c39-4720-4c07-918c-fff8db341bb0@61d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231211T150000Z
+LOCATION:Орш. В-501
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Социология
+UID:139163eb-e8ab-42b0-b6ae-3c21079206f4@1391.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231102T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231102T100000Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:dfe2fb61-bf94-4ae9-9d01-69a328bf054a@dfe2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T131500Z
+LOCATION:--стадион
+DTSTART:20230918T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:4b491c80-e3b0-463f-adc7-0dc8fcdfde9e@4b49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20230906T091500Z
+LOCATION:Орш. А-319
+DTSTART:20230906T074500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:c951d2c9-c216-4764-9eee-c8832a2f40cc@c951.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230916T073000Z
+LOCATION:--стадион
+DTSTART:20230916T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:ddb434d4-2a73-405d-8ea8-74f6898f3cd1@ddb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231004T073000Z
+LOCATION:Орш. А-319
+DTSTART:20231004T060000Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:b39bd05b-63fc-4916-bb03-cc50504e3cbc@b39b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231011T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:8bc34062-e3d9-4f07-8c52-505ab0993b55@8bc3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T131500Z
+LOCATION:--стадион
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:391fa41c-0cd3-4c3c-a651-260ba237c4ab@391f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231223T073000Z
+LOCATION:--стадион
+DTSTART:20231223T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:df6aae14-efe5-45ae-9787-af741ccad9dc@df6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230930T113000Z
+LOCATION:Орш. А-525
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Теория автоматического управления
+UID:e1b3756a-0541-4099-8ed2-f4acca20d16b@e1b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231026T150000Z
+LOCATION:Орш. А-523
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Финишные технологии производства продукции
+UID:a2850158-2b5e-46a0-afd7-f42c336daed2@a285.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230909T073000Z
+LOCATION:--стадион
+DTSTART:20230909T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:b884dd47-0ab4-4a82-b0e7-409153221f44@b884.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20230925T091500Z
+LOCATION:Орш. А-117
+DTSTART:20230925T074500Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:b32b82a5-860e-49b9-821e-843aa593425e@b32b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куценко Ольга Викторовна
+DTEND:20231123T091500Z
+LOCATION:3-409
+DTSTART:20231123T074500Z
+SUMMARY:ПЗ Экономическая теория
+UID:62945539-08d2-407d-a5b9-6bdefc37dea5@6294.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231206T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231206T100000Z
+SUMMARY:ЛР Искусственный интеллект в технологиях материалов
+UID:b523ad57-7232-400c-bc24-fd03838a3a97@b523.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231129T073000Z
+LOCATION:Орш. А-532
+DTSTART:20231129T060000Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:0b87c00f-6f0a-4ec5-a1a1-e4b58a4fc030@0b87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231107T073000Z
+LOCATION:Орш. А-101
+DTSTART:20231107T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:08c76d2a-33bc-49e6-a479-037868ae0eeb@08c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20231216T091500Z
+LOCATION:Орш. А-408
+DTSTART:20231216T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:bac60a36-cca6-4389-b1ec-ab12159a4dea@bac6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T113000Z
+LOCATION:--каф.
+DTSTART:20231201T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:33982d6b-b235-49c0-80ec-3308c735f0d3@3398.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T131500Z
+LOCATION:--каф.
+DTSTART:20231006T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1ea8e741-d976-4282-8d05-44506ba6184e@1ea8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231118T073000Z
+LOCATION:--стадион
+DTSTART:20231118T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:93a856c1-d78b-401e-944a-5f504c36ae94@93a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231209T073000Z
+LOCATION:--стадион
+DTSTART:20231209T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:7d25d2e9-757b-4679-a165-9d3d7e1c8941@7d25.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T073000Z
+LOCATION:--каф.
+DTSTART:20231124T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:4793e134-058a-4e3f-97a5-131601d3c697@4793.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПРЕОБРАЖЕНСКИЙ ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231216T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231216T100000Z
+SUMMARY:ПЗ Теория автоматического управления
+UID:5445c50a-d60f-4161-8483-6bfe57362fb4@5445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20230912T131500Z
+LOCATION:Орш. А-527
+DTSTART:20230912T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:386ea6c1-bfc1-42fe-bc3f-213c8fea2ade@386e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231108T131500Z
+LOCATION:Орш. А-525
+DTSTART:20231108T114500Z
+SUMMARY:ЛК Методы прогнозирования в управлении жизненным циклом продукции
+UID:34035def-5624-40ce-a561-0cfc8a4b5ef6@3403.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20231130T113000Z
+LOCATION:Орш. А-525
+DTSTART:20231130T100000Z
+SUMMARY:ПЗ Методы прогнозирования в управлении жизненным циклом продукции
+UID:6cf9551e-2038-41d7-b464-3049422073b1@6cf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231113T164500Z
+LOCATION:Орш. А-408
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Социология
+UID:bb629129-f185-41f7-b8af-52ed22c164dd@bb62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231113T150000Z
+LOCATION:Орш. В-501
+DTSTART:20231113T133000Z
+SUMMARY:ЛК Социология
+UID:b4a03ef8-0994-4378-9ad9-e8c74b243ae7@b4a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Помулева Наталья Сергеевна
+DTEND:20231116T073000Z
+LOCATION:3-435
+DTSTART:20231116T060000Z
+SUMMARY:ЛК Экономическая теория
+UID:68794e45-47a9-49b2-8d9c-85c072911eed@6879.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T131500Z
+LOCATION:--стадион
+DTSTART:20230904T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:6cf6a8ff-84ee-4356-86e5-a582ef506a17@6cf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231128T073000Z
+LOCATION:Орш. А-101
+DTSTART:20231128T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:10b00cad-5b98-43a1-8a33-33f22096711f@10b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20231017T113000Z
+LOCATION:Орш. А-527
+DTSTART:20231017T100000Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:4d2f5906-f6be-4cdf-a5e2-c57991cc0241@4d2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куценко Ольга Викторовна
+DTEND:20231012T091500Z
+LOCATION:3-409
+DTSTART:20231012T074500Z
+SUMMARY:ПЗ Экономическая теория
+UID:0b0dde2a-76bc-4147-9538-54650caa608b@0b0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20230926T073000Z
+LOCATION:Орш. А-101
+DTSTART:20230926T060000Z
+SUMMARY:ЛК Искусственный интеллект в технологиях материалов
+UID:62f53461-8a96-4ab7-be2b-e4232266ccd0@62f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ВИКТОР ИВАНОВИЧ
+DTEND:20231213T113000Z
+LOCATION:--каф.
+DTSTART:20231213T100000Z
+SUMMARY:ПЗ Искусственный интеллект в технологиях материалов
+UID:1a0ae4e5-9add-42c1-bb8f-51b785cd249b@1a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ШЛЯПЦЕВА АНАСТАСИЯ ДМИТРИЕВНА
+DTEND:20231128T113000Z
+LOCATION:Орш. А-527
+DTSTART:20231128T100000Z
+SUMMARY:ПЗ Основы технологии и автоматизации производства продукции методами ТЛП
+UID:bdf7dec1-f298-45f2-8779-7e57992707c6@bdf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Латышева Валентина Васильевна
+DTEND:20231002T150000Z
+LOCATION:Орш. В-501
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Социология
+UID:a919a944-d317-45a5-8d66-438d07b354d7@a919.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231031T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:d54d459a-4dab-42f2-b6e6-5fcaa0e1e3bd@d54d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20231014T091500Z
+LOCATION:Орш. А-408
+DTSTART:20231014T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:e78fecf8-b283-45ea-98f6-1e24c6607bed@e78f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T113000Z
+LOCATION:--каф.
+DTSTART:20230915T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c51ab815-0f33-4747-aea4-994e151034b2@c51a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231012T131500Z
+LOCATION:Орш. А-523
+DTSTART:20231012T114500Z
+SUMMARY:ЛК Финишные технологии производства продукции
+UID:4f9f6c79-c4bc-4d81-8a08-46aa0b645da4@4f9f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T091500Z
+LOCATION:--каф.
+DTSTART:20231222T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e2b28797-9ac5-4aa4-9110-b173d53edff9@e2b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20230930T091500Z
+LOCATION:Орш. А-408
+DTSTART:20230930T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:bd1c0fab-15a3-4be1-a2dd-552f5c2b61e6@bd1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231024T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231024T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:79958113-37b7-453a-b9b1-c53d5652631c@7995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕРОВ МИХАИЛ МИХАЙЛОВИЧ
+DTEND:20231218T091500Z
+LOCATION:Орш. А-117
+DTSTART:20231218T074500Z
+SUMMARY:ЛР Основы технологии и автоматизации производства продукции методами ПМиЗП
+UID:60678f02-dd92-4da1-bdb7-e06c60c9ce4c@6067.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Хоткина Екатерина Сергеевна
+DTEND:20230923T091500Z
+LOCATION:Орш. А-408
+DTSTART:20230923T074500Z
+SUMMARY:ПЗ Иностранный язык
+UID:9da348a2-323d-439a-806d-8018c05c6c0e@9da3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ВАРФОЛОМЕЕВ МАКСИМ СЕРГЕЕВИЧ
+DTEND:20231010T131500Z
+LOCATION:Орш. А-527
+DTSTART:20231010T114500Z
+SUMMARY:ЛК Основы технологии и автоматизации производства продукции методами ТЛП
+UID:df32a85c-fc0e-46b5-bd71-31f03a5c939f@df32.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T131500Z
+LOCATION:--каф.
+DTSTART:20231201T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a17fe81a-325f-48e6-a73a-f3b192f19b90@a17f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T091500Z
+LOCATION:--каф.
+DTSTART:20231201T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:13e7941f-3655-4f19-9569-0f5440cc0275@13e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T131500Z
+LOCATION:--стадион
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Физическая культура
+UID:26127172-7825-494d-b49f-af8001308829@2612.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ГАЛКИН ЕВГЕНИЙ ВЛАДИМИРОВИЧ
+DTEND:20230906T131500Z
+LOCATION:Орш. А-525
+DTSTART:20230906T114500Z
+SUMMARY:ЛК Диагностика и надежность автоматизированных систем
+UID:00b4b93c-f4f5-4a08-8f4d-5f783efde20a@00b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231111T073000Z
+LOCATION:--стадион
+DTSTART:20231111T060000Z
+SUMMARY:ПЗ Физическая культура
+UID:10ecbe3e-26aa-4192-b43c-ef2b62a1106f@10ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T131500Z
+LOCATION:--каф.
+DTSTART:20230929T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:a04443e2-e8b6-4191-8ffd-c36cfc0cd770@a044.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СОКОЛОВ АЛЕКСЕЙ ВИКТОРОВИЧ
+DTEND:20231221T150000Z
+LOCATION:Орш. А-521
+DTSTART:20231221T133000Z
+SUMMARY:ЛР Финишные технологии производства продукции
+UID:ff7fbbd6-47f7-476e-b70a-f59b9645bab5@ff7f.org
 END:VEVENT
 END:VCALENDAR

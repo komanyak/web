@@ -2,276 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230922T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230922T133000Z
-SUMMARY:ПЗ Технологии разработки программного обеспечения
-UID:f9a54ddb-7ecf-42a9-979c-b00c2f0f4e60@f9a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231010T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231010T133000Z
-SUMMARY:ЛР Информационная безопасность
-UID:18912290-745b-4c14-a376-6e87b7976344@1891.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231024T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231024T133000Z
-SUMMARY:ЛР Информационная безопасность
-UID:0e4d7ec4-f046-4d7d-9673-b29879aa74a0@0e4d.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231018T164500Z
+DTEND:20231011T164500Z
 LOCATION:Орш. В-510
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:5249fbbd-f818-44a7-b6b3-438866f87cd8@5249.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231019T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231019T151500Z
-SUMMARY:ЛК Технологии разработки программного обеспечения
-UID:84e08e00-d2de-4588-8aa3-9567991eed02@84e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231118T091500Z
-LOCATION:Орш. В-510
-DTSTART:20231118T074500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:34f49c6e-fdab-443a-8d0b-f5edc4b70702@34f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231107T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231107T133000Z
-SUMMARY:ЛР Информационная безопасность
-UID:603409cd-80f1-4ccc-b063-e1c9d6a7bc9b@6034.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20231118T113000Z
-LOCATION:Орш. В-510
-DTSTART:20231118T100000Z
-SUMMARY:ЛК Управление IT-проектами
-UID:a28f56ff-9b2c-4794-be0e-d833ce9a0df3@a28f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231212T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231212T133000Z
-SUMMARY:ЛК Информационная безопасность
-UID:24a020aa-11b5-4baa-82b8-7e9da5ca333d@24a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20230923T113000Z
-LOCATION:Орш. В-510
-DTSTART:20230923T100000Z
-SUMMARY:ЛК Управление IT-проектами
-UID:3eea1fe7-d7d7-4fcd-8de1-0b82f7094e6d@3eea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231211T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231211T151500Z
-SUMMARY:ЛК Вычислительные системы
-UID:460105d0-6f58-4a5a-8c49-3bc640906936@4601.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231218T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231218T151500Z
-SUMMARY:ЛР Вычислительные системы
-UID:f3526c32-169e-4a7b-ae3f-48081b8d71fb@f352.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231218T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231218T133000Z
-SUMMARY:ЛР Вычислительные системы
-UID:6ae6e493-6859-45eb-a97d-299d1ffa8d3d@6ae6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231012T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231012T133000Z
-SUMMARY:ЛР История и методология информатики
-UID:6c88381d-1b24-4ca4-adc7-6d3a30bce5e7@6c88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231201T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231201T151500Z
-SUMMARY:ЛР Технологии разработки программного обеспечения
-UID:94b1adba-9ecd-4eef-8488-e37a265dfa4a@94b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231219T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231219T133000Z
-SUMMARY:ЛР Информационная безопасность
-UID:416b3dc6-6591-4738-886c-c169b6b94233@416b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230906T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230906T133000Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:282fc344-28dc-4a2b-8bcb-bfecba2638f2@282f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230907T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230907T133000Z
-SUMMARY:ЛК История и методология информатики
-UID:28153906-8cf4-442b-942a-70f9402a7042@2815.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20230909T113000Z
-LOCATION:Орш. В-510
-DTSTART:20230909T100000Z
-SUMMARY:ЛК Управление IT-проектами
-UID:54671916-0619-46a4-af48-8ad7f6b836ec@5467.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231003T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:fa25a32b-a4fd-4ae4-aad1-4a593a61d021@fa25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231030T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231030T133000Z
-SUMMARY:ЛК Вычислительные системы
-UID:39d3866f-7774-4084-90a1-351531ace906@39d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231025T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231025T151500Z
+DTSTART:20231011T151500Z
 SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:be060c24-8655-412b-9f7f-f697cef37bc7@be06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231004T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231004T133000Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:47e6a15b-3da5-4604-a05c-7d17854790ef@47e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231005T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231005T133000Z
-SUMMARY:ЛК История и методология информатики
-UID:9cdb8dbc-a01a-460a-8ffc-2cb0c3e91c20@9cdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231005T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Технологии разработки программного обеспечения
-UID:07332320-90f6-4094-8b30-cc75630f1b11@0733.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230904T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230904T133000Z
-SUMMARY:ЛК Вычислительные системы
-UID:d9bfadb4-d409-4a05-9a59-7163c55fb6d7@d9bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231229T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231229T151500Z
-SUMMARY:ЛР Технологии разработки программного обеспечения
-UID:71ca3201-cc81-41b3-9bf1-d608153feefb@71ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231106T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231106T133000Z
-SUMMARY:ЛР Вычислительные системы
-UID:9f298c6c-fd70-4bed-8ec1-752f535eea8b@9f29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231021T073000Z
-LOCATION:Орш. В-510
-DTSTART:20231021T060000Z
-SUMMARY:ЛК Психология и педагогика
-UID:b8e560e8-807f-4975-b262-b0fbe89e867f@b8e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230920T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230920T151500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:a4f4aa18-986f-4a1b-bcfa-df32e63a02b2@a4f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231108T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231108T151500Z
-SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:99763803-7461-42af-abf0-ef693a524b62@9976.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231220T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231220T151500Z
-SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:70537511-4658-4d89-8610-8cbc1a6fd780@7053.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230912T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230912T151500Z
-SUMMARY:ПЗ Информационная безопасность
-UID:dfa0a6d5-b6de-4bc3-80b2-b24a40d80a65@dfa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231006T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231006T133000Z
-SUMMARY:ПЗ Технологии разработки программного обеспечения
-UID:2502561d-651b-42d2-b6ab-aad91066d39c@2502.org
+UID:528cbd90-440a-4f96-85c5-f30d800fe855@528c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Колесников Дмитрий Александрович
@@ -279,471 +15,15 @@ DTEND:20231230T113000Z
 LOCATION:Орш. В-510
 DTSTART:20231230T100000Z
 SUMMARY:ЛК Управление IT-проектами
-UID:3293411a-c013-43a4-84a6-19b30224d3f0@3293.org
+UID:b3161507-8d31-4b5d-8493-99403278e49f@b316.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231120T164500Z
+DTEND:20231005T150000Z
 LOCATION:Орш. В-510
-DTSTART:20231120T151500Z
-SUMMARY:ЛР Вычислительные системы
-UID:4a645d25-ef4f-47db-a0bf-e7c49e20bd13@4a64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231017T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231017T133000Z
-SUMMARY:ЛК Информационная безопасность
-UID:3ea1fc77-1748-4809-b9ae-6bc85ca3891c@3ea1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230912T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230912T133000Z
-SUMMARY:ПЗ Информационная безопасность
-UID:8229f951-51ea-4c38-8814-eeb9b68d47c6@8229.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230914T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230914T133000Z
-SUMMARY:ЛР История и методология информатики
-UID:a6e9f3d9-dfe4-497f-8ffa-3714e6549c87@a6e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231211T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Вычислительные системы
-UID:dd0c3fd2-3888-45b3-8e22-6b0a54e7081d@dd0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231123T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231123T151500Z
-SUMMARY:ЛР История и методология информатики
-UID:776a9f49-d594-4689-b226-86f8d012ed80@776a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231129T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231129T133000Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:3f836731-3693-426d-914e-1b9f71d79af7@3f83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231026T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231026T151500Z
-SUMMARY:ЛР История и методология информатики
-UID:391419d0-384c-4e9d-80ee-bbe8412629dd@3914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231018T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231018T133000Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:a47b6f59-dd7d-4834-8cd5-e9a02ca355e3@a47b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230928T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230928T133000Z
-SUMMARY:ЛР История и методология информатики
-UID:a9f9240e-b1f6-444c-b299-bd619045e6f1@a9f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230909T091500Z
-LOCATION:Орш. В-510
-DTSTART:20230909T074500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:d70e17b1-0c3b-43ef-aadb-1a96e7b909d0@d70e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230920T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230920T133000Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:37a3c060-e96a-4042-9a8d-aa8f2126f2c8@37a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230911T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230911T151500Z
-SUMMARY:ЛР Вычислительные системы
-UID:e214c85f-66d7-4a1d-972b-ffa10b1b5f06@e214.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231004T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:5c7dfba6-c518-4a2b-ac3d-a3525f874625@5c7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231127T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231127T133000Z
-SUMMARY:ЛК Вычислительные системы
-UID:4ce4d514-582f-4530-8a2c-3b73f04270ea@4ce4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20230909T131500Z
-LOCATION:Орш. В-510
-DTSTART:20230909T114500Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:97387702-c8f9-447d-b945-166fd0953093@9738.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231202T091500Z
-LOCATION:Орш. В-510
-DTSTART:20231202T074500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:91435c9e-b955-4d87-8df2-337b55850014@9143.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231003T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231003T133000Z
-SUMMARY:ЛК Информационная безопасность
-UID:6794d7aa-9461-4531-8af4-747f5e3df0b2@6794.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231118T073000Z
-LOCATION:Орш. В-510
-DTSTART:20231118T060000Z
-SUMMARY:ЛК Психология и педагогика
-UID:8b73e6ef-314a-4b45-bd84-98e90f7de56c@8b73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231219T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231219T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:d665a501-2d75-4c26-a6b4-146298c79199@d665.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231031T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:b2d88497-bf1d-464a-9ee5-5857f50bcb60@b2d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230909T073000Z
-LOCATION:Орш. В-510
-DTSTART:20230909T060000Z
-SUMMARY:ЛК Психология и педагогика
-UID:931eb483-5854-4c0d-b86b-187a17bd1663@931e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20230923T131500Z
-LOCATION:Орш. В-510
-DTSTART:20230923T114500Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:b1475b62-687b-496c-aff0-c0c072801864@b147.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231115T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231115T151500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:ae396a45-97ef-402f-8d47-457ba164127f@ae39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231016T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231016T133000Z
-SUMMARY:ЛК Вычислительные системы
-UID:9aee7ef7-8bca-4c2f-b01f-950e871d4077@9aee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231202T073000Z
-LOCATION:Орш. В-510
-DTSTART:20231202T060000Z
-SUMMARY:ЛК Психология и педагогика
-UID:4bdafb33-5381-4485-8422-b71af61f0b23@4bda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231121T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231121T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:06de361b-fc11-4ad7-b4ca-cde0f49f86f5@06de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231101T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231101T151500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:4bc7a923-825b-4ed1-9bcd-ddf6640bbb22@4bc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231116T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231116T133000Z
+DTSTART:20231005T133000Z
 SUMMARY:ЛК История и методология информатики
-UID:79e3a0a2-ea90-47a3-b8d3-4f35b8dc0a09@79e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231204T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231204T151500Z
-SUMMARY:ЛР Вычислительные системы
-UID:74e3d60e-7bea-4d6b-b945-73895c87d2bb@74e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231215T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231215T151500Z
-SUMMARY:ЛР Технологии разработки программного обеспечения
-UID:3f56c0e7-3de6-4ebf-8757-ae2aef5f316f@3f56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231205T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231205T133000Z
-SUMMARY:ЛР Информационная безопасность
-UID:89bda449-8186-4c51-895f-e22cd4783f3b@89bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20231007T131500Z
-LOCATION:Орш. В-510
-DTSTART:20231007T114500Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:fb03531c-3302-47f7-8469-905cbdf4e3a2@fb03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230913T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230913T133000Z
-SUMMARY:ПЗ Проектирование и сопровождение баз данных
-UID:f667c64a-9c7d-428e-a361-a1d455126492@f667.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231204T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231204T133000Z
-SUMMARY:ЛР Вычислительные системы
-UID:bdc9337f-7f1d-4feb-b239-9b63ac94cdb6@bdc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20231216T131500Z
-LOCATION:Орш. В-510
-DTSTART:20231216T114500Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:e96deb24-4581-4ff2-a7c1-539563923268@e96d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231201T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231201T133000Z
-SUMMARY:ЛР Технологии разработки программного обеспечения
-UID:4795a61e-8d0b-4505-a8f1-42c920fd20a3@4795.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231216T091500Z
-LOCATION:Орш. В-510
-DTSTART:20231216T074500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:330369e3-12c8-4f4e-97e5-bcd029fd3a2a@3303.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231102T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231102T133000Z
-SUMMARY:ЛК История и методология информатики
-UID:1e8a18f6-fc60-417c-974a-cea9fade37b7@1e8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231009T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231009T133000Z
-SUMMARY:ЛР Вычислительные системы
-UID:b11d332a-eec3-4020-9a76-8b570fc8a1af@b11d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231230T073000Z
-LOCATION:Орш. В-510
-DTSTART:20231230T060000Z
-SUMMARY:ЛК Психология и педагогика
-UID:204997bc-0ae4-4b1c-b637-0e6e4102c205@2049.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231128T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231128T133000Z
-SUMMARY:ЛК Информационная безопасность
-UID:d190abb3-4875-42c9-874a-7f984fe11207@d190.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231026T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231026T133000Z
-SUMMARY:ЛР История и методология информатики
-UID:d0dd3c74-c57d-4fea-826b-7cc562268ff6@d0dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231130T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231130T133000Z
-SUMMARY:ЛК История и методология информатики
-UID:41c44f60-f918-417b-92be-c0fd838d2c30@41c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231228T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231228T133000Z
-SUMMARY:ЛК История и методология информатики
-UID:12bdb10f-e6b7-4154-9617-6240d5d4c0d0@12bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230918T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230918T133000Z
-SUMMARY:ЛК Вычислительные системы
-UID:15133e5f-183d-4e88-90f8-9a5a7134264d@1513.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231229T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231229T133000Z
-SUMMARY:ЛР Технологии разработки программного обеспечения
-UID:db08c120-0f02-45bf-8c50-1774f156578a@db08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231031T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231031T133000Z
-SUMMARY:ЛК Информационная безопасность
-UID:9976c72e-0b21-4f38-9d86-225c348c5a76@9976.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231106T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231106T151500Z
-SUMMARY:ЛР Вычислительные системы
-UID:75a7c77d-0155-4806-84a9-15274ef8f5fa@75a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231127T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231127T151500Z
-SUMMARY:ЛК Вычислительные системы
-UID:c5695b48-681c-431c-93b5-f5c57890a4ea@c569.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231214T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231214T133000Z
-SUMMARY:ЛК История и методология информатики
-UID:29e37c9d-5a76-4306-90d7-e4d4468c73e5@29e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231023T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231023T133000Z
-SUMMARY:ЛР Вычислительные системы
-UID:5d633184-d146-4c5c-92d6-59bce2724a26@5d63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231117T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231117T133000Z
-SUMMARY:ЛР Технологии разработки программного обеспечения
-UID:2448678d-3a07-4fa2-ba19-540e4c147841@2448.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231213T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231213T133000Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:fcecee79-f907-4402-a035-93b201f13fc3@fcec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231007T091500Z
-LOCATION:Орш. В-510
-DTSTART:20231007T074500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:306c0253-21ae-4891-9947-9570576db87b@306c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230925T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230925T151500Z
-SUMMARY:ЛР Вычислительные системы
-UID:2042e9c2-08f6-4cb7-b6fe-b0571aa09472@2042.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230925T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230925T133000Z
-SUMMARY:ЛР Вычислительные системы
-UID:e7ecd0fc-7cea-4ef5-8e5f-853c8953f7dc@e7ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231011T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231011T151500Z
-SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:b4473be4-59f2-48d6-8978-233e414f3611@b447.org
+UID:17abf94a-95a8-4935-b2a9-d0abf54c7ce4@17ab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каверная Ирина Николаевна
@@ -751,543 +31,15 @@ DTEND:20230905T150000Z
 LOCATION:Орш. В-510
 DTSTART:20230905T133000Z
 SUMMARY:ЛК Информационная безопасность
-UID:d7021bef-cbd0-4fac-a72c-38b72cafe9a4@d702.org
+UID:b7521795-c5d0-4712-b368-b67e7ffd53d1@b752.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230927T150000Z
+DTEND:20230904T150000Z
 LOCATION:Орш. В-510
-DTSTART:20230927T133000Z
-SUMMARY:ПЗ Проектирование и сопровождение баз данных
-UID:72410f6c-168b-4dd6-a973-76c68f65ded7@7241.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231115T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231115T133000Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:a1c700c4-45ac-416a-a1e4-8fdb65b108d7@a1c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231016T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231016T151500Z
+DTSTART:20230904T133000Z
 SUMMARY:ЛК Вычислительные системы
-UID:b5871ff7-dec5-46dd-ad90-a19e07939942@b587.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231120T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231120T133000Z
-SUMMARY:ЛР Вычислительные системы
-UID:77144caf-4156-4e28-a510-8f26f83738f9@7714.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230914T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230914T151500Z
-SUMMARY:ЛР История и методология информатики
-UID:46c3ee06-0106-484c-b2c8-24c4a414670e@46c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230918T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230918T151500Z
-SUMMARY:ЛК Вычислительные системы
-UID:4777549c-04bb-47d6-a054-250957c47692@4777.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231002T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231002T133000Z
-SUMMARY:ЛК Вычислительные системы
-UID:019e328f-1c32-44f2-bf6d-090d4ca9cb83@019e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231108T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231108T133000Z
-SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:fe15bc1e-2232-4489-a0ac-f5f5215c629f@fe15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231024T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231024T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:a9052cd3-46ae-4581-84be-846981d473a4@a905.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231207T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231207T133000Z
-SUMMARY:ЛР История и методология информатики
-UID:82d33589-e0ac-4068-ae7a-aec9aed51477@82d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231109T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231109T133000Z
-SUMMARY:ЛР История и методология информатики
-UID:3bfca4ea-a577-4104-93a4-b8f3136e40ad@3bfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231220T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231220T133000Z
-SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:7b468be5-81b9-4387-a1a1-386b5590d1e5@7b46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231009T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231009T151500Z
-SUMMARY:ЛР Вычислительные системы
-UID:f8e6fb28-6557-4183-9832-39db94f2aa83@f8e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231020T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231020T151500Z
-SUMMARY:ПЗ Технологии разработки программного обеспечения
-UID:622f8734-0059-45c4-90e7-352cd0155476@622f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231023T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231023T151500Z
-SUMMARY:ЛР Вычислительные системы
-UID:dbe93bf5-e136-4e38-9a07-cfe592ea3f7c@dbe9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230911T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230911T133000Z
-SUMMARY:ЛР Вычислительные системы
-UID:9e915122-7af4-4c6c-b864-f9e5f3d756e9@9e91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20231021T113000Z
-LOCATION:Орш. В-510
-DTSTART:20231021T100000Z
-SUMMARY:ЛК Управление IT-проектами
-UID:a334be1c-2c36-44bc-a404-3b81d556ac62@a334.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231121T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231121T133000Z
-SUMMARY:ЛР Информационная безопасность
-UID:3ba43372-978f-40c4-9c3c-bb8700bc0d6e@3ba4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230905T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230905T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:2bd76dee-ba8a-4067-8467-fa2273319d9b@2bd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230921T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Технологии разработки программного обеспечения
-UID:83ab5543-7383-4185-aab6-6f2281fc8e95@83ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230928T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230928T151500Z
-SUMMARY:ЛР История и методология информатики
-UID:392e6b5f-d862-417c-a530-91ee929670b9@392e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231113T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231113T151500Z
-SUMMARY:ЛК Вычислительные системы
-UID:fcb00d43-274f-4f78-8d4a-0ffb59f5b173@fcb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231114T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:592000cc-bdd5-4543-a34c-dbb5e462fbb5@5920.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231021T091500Z
-LOCATION:Орш. В-510
-DTSTART:20231021T074500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:8e949921-c68c-4c2d-a225-efd365634b14@8e94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20231202T113000Z
-LOCATION:Орш. В-510
-DTSTART:20231202T100000Z
-SUMMARY:ЛК Управление IT-проектами
-UID:1612b83d-94ea-47d3-891a-d4b589123c23@1612.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231122T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231122T133000Z
-SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:811c6e3b-f6ba-4bcf-af50-7cd4a2ff5de0@811c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20231118T131500Z
-LOCATION:Орш. В-510
-DTSTART:20231118T114500Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:ecf86b3c-f84c-4ec6-a4ba-92505cfaf413@ecf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230919T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230919T133000Z
-SUMMARY:ЛК Информационная безопасность
-UID:089d7150-1923-43e7-b2b3-80e15df0bc8f@089d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231114T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231114T133000Z
-SUMMARY:ЛК Информационная безопасность
-UID:3f4974a6-6f87-40a7-97ea-b14f837ae5e8@3f49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231130T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231130T151500Z
-SUMMARY:ЛК Технологии разработки программного обеспечения
-UID:d77171af-6441-40bd-975e-4ee8907581d8@d771.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231205T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231205T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:4e19c83e-37af-4eca-bf82-5baaf6771860@4e19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230908T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230908T151500Z
-SUMMARY:ПЗ Технологии разработки программного обеспечения
-UID:858c4605-1a92-43ae-a770-3f00dc97a466@858c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231010T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231010T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:7402c0da-cd3d-48d9-a0a6-608110cb7a47@7402.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231215T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231215T133000Z
-SUMMARY:ЛР Технологии разработки программного обеспечения
-UID:4663ec29-6577-4c79-aec6-b60a308f3494@4663.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231116T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231116T151500Z
-SUMMARY:ЛК Технологии разработки программного обеспечения
-UID:9d864dfa-fc34-4f98-a0d4-4870d7924afa@9d86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231102T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231102T151500Z
-SUMMARY:ЛК Технологии разработки программного обеспечения
-UID:31807db2-e4a6-4cbb-9aa5-989e30485ece@3180.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231213T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231213T151500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:6a74ec6a-09ea-4da5-97b9-ff14ec9ae6c9@6a74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231216T073000Z
-LOCATION:Орш. В-510
-DTSTART:20231216T060000Z
-SUMMARY:ЛК Психология и педагогика
-UID:2d8e1835-b2cf-4412-ad6f-7916b7fddae7@2d8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231017T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:9b9e1766-a740-4fc3-9695-ee04d8e99461@9b9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231113T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231113T133000Z
-SUMMARY:ЛК Вычислительные системы
-UID:4bb37a57-e196-4b16-83b0-3430e7776eaf@4bb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231030T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231030T151500Z
-SUMMARY:ЛК Вычислительные системы
-UID:9ad2c587-3608-459f-8c75-13b4b22b2b76@9ad2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20231202T131500Z
-LOCATION:Орш. В-510
-DTSTART:20231202T114500Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:0e508f62-45d1-4046-bec6-0d4adaf47533@0e50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231007T073000Z
-LOCATION:Орш. В-510
-DTSTART:20231007T060000Z
-SUMMARY:ЛК Психология и педагогика
-UID:a35abef2-b93a-41cb-8093-519ce2249b6f@a35a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231206T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231206T133000Z
-SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:af5e7f50-32b1-44b1-9c3c-3ac5ff3c3bb6@af5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231212T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231212T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:135cbd75-48dd-4a31-8363-c3c32adebe4d@135c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231025T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231025T133000Z
-SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:bee1f2fb-90bf-4110-92c9-d69b6d2221be@bee1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20231021T131500Z
-LOCATION:Орш. В-510
-DTSTART:20231021T114500Z
-SUMMARY:ПЗ Управление IT-проектами
-UID:66f996a7-4f65-470b-b551-fcea9ead6f1e@66f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231002T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231002T151500Z
-SUMMARY:ЛК Вычислительные системы
-UID:224eb959-8abb-424b-9896-63918aff0213@224e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231129T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231129T151500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:75b404cc-f73b-4017-bb93-40fbd233e1e4@75b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231107T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231107T151500Z
-SUMMARY:ЛР Информационная безопасность
-UID:05eac7c1-a387-4ffa-baa1-889c42fefb9c@05ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231207T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231207T151500Z
-SUMMARY:ЛР История и методология информатики
-UID:1123b64c-28f9-40c8-a6dd-ff85bf90235d@1123.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231006T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231006T151500Z
-SUMMARY:ПЗ Технологии разработки программного обеспечения
-UID:23ab535a-b427-4c2c-b895-e9354ee0c81f@23ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231101T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231101T133000Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:39e46e7f-3122-430e-8782-794a14c5583a@39e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231117T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231117T151500Z
-SUMMARY:ЛР Технологии разработки программного обеспечения
-UID:204fd1c6-394e-4394-8892-2a851531b788@204f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231122T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231122T151500Z
-SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:34e0cf0b-bc0d-433b-8c7b-ec757f7c5d03@34e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230927T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230927T151500Z
-SUMMARY:ПЗ Проектирование и сопровождение баз данных
-UID:ce234243-a0a2-4f77-aa56-c0c97cb10f9a@ce23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231214T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231214T151500Z
-SUMMARY:ЛК Технологии разработки программного обеспечения
-UID:cae35802-852f-4644-8af4-10cf4a0dbceb@cae3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230908T150000Z
-LOCATION:Орш. В-510
-DTSTART:20230908T133000Z
-SUMMARY:ПЗ Технологии разработки программного обеспечения
-UID:7848f83d-ecc4-4244-985a-f0bf86b0559d@7848.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20231007T113000Z
-LOCATION:Орш. В-510
-DTSTART:20231007T100000Z
-SUMMARY:ЛК Управление IT-проектами
-UID:9bea6b83-dcf4-4aa1-b38c-92018a47fa6d@9bea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230906T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Проектирование и сопровождение баз данных
-UID:a6e242de-370e-43ab-9217-7af2226d6063@a6e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20230904T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230904T151500Z
-SUMMARY:ЛК Вычислительные системы
-UID:8ab8ba40-b7b4-489f-829f-fc31e19b9173@8ab8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Колесников Дмитрий Александрович
-DTEND:20231216T113000Z
-LOCATION:Орш. В-510
-DTSTART:20231216T100000Z
-SUMMARY:ЛК Управление IT-проектами
-UID:331bcbff-369b-4a6a-9c41-6bc41bd40633@331b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230907T164500Z
-LOCATION:Орш. В-510
-DTSTART:20230907T151500Z
-SUMMARY:ЛК Технологии разработки программного обеспечения
-UID:70bd0166-347d-4a42-983f-a93cacb89249@70bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230923T073000Z
-LOCATION:Орш. В-510
-DTSTART:20230923T060000Z
-SUMMARY:ЛК Психология и педагогика
-UID:88e9adc8-bca2-420f-aaad-0a2f3e0d4d3d@88e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231011T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231011T133000Z
-SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:9dfa13cc-3ff3-48bf-9cf1-09f0cdb694b4@9dfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231123T150000Z
-LOCATION:Орш. В-510
-DTSTART:20231123T133000Z
-SUMMARY:ЛР История и методология информатики
-UID:85122a1b-a52c-4a4c-b6d9-c97d9c4c04ae@8512.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231109T164500Z
-LOCATION:Орш. В-510
-DTSTART:20231109T151500Z
-SUMMARY:ЛР История и методология информатики
-UID:4497a459-27e7-4ed0-907f-1d8da8781dd4@4497.org
+UID:d8947e65-cd2d-442d-8e0d-452921236c27@d894.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каверная Ирина Николаевна
@@ -1295,47 +47,319 @@ DTEND:20230919T164500Z
 LOCATION:Орш. В-510
 DTSTART:20230919T151500Z
 SUMMARY:ЛК Информационная безопасность
-UID:d7bdb96f-0312-4a89-8210-24a607f75cbf@d7bd.org
+UID:e79dd78d-7bb8-4b59-8c74-230622de502a@e79d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231128T164500Z
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20231021T131500Z
 LOCATION:Орш. В-510
-DTSTART:20231128T151500Z
-SUMMARY:ЛК Информационная безопасность
-UID:dd17694e-8a36-46e7-a35f-603d24ca4e72@dd17.org
+DTSTART:20231021T114500Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:68354cd3-1d1d-41f6-9500-6bebb52a9348@6835.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20230923T131500Z
+LOCATION:Орш. В-510
+DTSTART:20230923T114500Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:6a0506d5-eb34-4072-995f-faba0733edcb@6a05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231002T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231002T151500Z
+SUMMARY:ЛК Вычислительные системы
+UID:52e28944-9c1a-4a90-b2a6-1edb0fb73d9c@52e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231030T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231030T151500Z
+SUMMARY:ЛК Вычислительные системы
+UID:b7c75d0e-d5c3-41f6-9568-bd2ddb0c7713@b7c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231031T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231031T133000Z
+SUMMARY:ЛК Информационная безопасность
+UID:655507e2-b1be-4576-a58a-95d1db21c3b0@6555.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231004T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231004T133000Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:14c123ef-c439-45f5-b88e-6250befa12ae@14c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231106T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231106T133000Z
+SUMMARY:ЛР Вычислительные системы
+UID:13d2e49c-b13e-4207-b08d-a7de55fc29f8@13d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231023T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231023T151500Z
+SUMMARY:ЛР Вычислительные системы
+UID:f5d148df-dfcc-4f00-8fa3-91c76a9981d8@f5d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231107T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231107T133000Z
+SUMMARY:ЛР Информационная безопасность
+UID:f6e0137d-877f-4293-a0dd-e0ccf66ce187@f6e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
 DTEND:20231012T164500Z
 LOCATION:Орш. В-510
 DTSTART:20231012T151500Z
 SUMMARY:ЛР История и методология информатики
-UID:28538b92-390c-4146-b3a7-d1ff3e95710d@2853.org
+UID:bcb657ff-90a6-4e3e-a483-fa18520b3427@bcb6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230923T091500Z
+DTEND:20231215T150000Z
 LOCATION:Орш. В-510
-DTSTART:20230923T074500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:8269273d-1f1b-4c1b-98c8-8008393701b6@8269.org
+DTSTART:20231215T133000Z
+SUMMARY:ЛР Технологии разработки программного обеспечения
+UID:87711bd3-4136-47c6-a812-ccc9d2e5dd36@8771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231108T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231108T151500Z
+SUMMARY:ЛР Проектирование и сопровождение баз данных
+UID:afd322b2-e529-4e7c-8c68-d7c583d0de48@afd3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20231020T150000Z
+DTEND:20231114T164500Z
 LOCATION:Орш. В-510
-DTSTART:20231020T133000Z
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:8aa1f013-7677-4915-8b2c-a8214aa6807a@8aa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20231118T113000Z
+LOCATION:Орш. В-510
+DTSTART:20231118T100000Z
+SUMMARY:ЛК Управление IT-проектами
+UID:4da7f35e-969b-4af5-af40-3476c4ad6bdf@4da7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231007T073000Z
+LOCATION:Орш. В-510
+DTSTART:20231007T060000Z
+SUMMARY:ЛК Психология и педагогика
+UID:9d223646-c47a-4cac-9026-ad68ea24ef95@9d22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230927T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230927T151500Z
+SUMMARY:ПЗ Проектирование и сопровождение баз данных
+UID:007120bf-b110-4ef7-b11f-6b8987db0ddb@0071.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231107T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231107T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:c34f6bd0-2e68-4064-91b8-770057008f5e@c34f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231213T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231213T151500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:82abc0f6-de35-4989-8aa2-09a50aee19f5@82ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20230908T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230908T133000Z
 SUMMARY:ПЗ Технологии разработки программного обеспечения
-UID:92c5e6c6-7e13-457a-a6b9-6fa81bfe7c74@92c5.org
+UID:f1ccf6e5-a759-4a7e-b1b4-00f7aa6ae230@f1cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231220T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231220T133000Z
+SUMMARY:ЛР Проектирование и сопровождение баз данных
+UID:21145e7d-555e-4d10-82e1-a68240da5065@2114.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20230909T091500Z
+LOCATION:Орш. В-510
+DTSTART:20230909T074500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:db3a80b2-a790-4ce9-ae15-060f7047d197@db3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20230912T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230912T133000Z
+SUMMARY:ПЗ Информационная безопасность
+UID:da447635-6340-4fa4-a547-a5d85c0d7b8e@da44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
 DTEND:20231019T150000Z
 LOCATION:Орш. В-510
 DTSTART:20231019T133000Z
 SUMMARY:ЛК История и методология информатики
-UID:03133aba-128d-4aab-8f83-182ff81ce47f@0313.org
+UID:cd2427b3-0d37-4c6e-b6dc-8cc80c04ade1@cd24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231109T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231109T133000Z
+SUMMARY:ЛР История и методология информатики
+UID:9b39936c-1e7b-4d45-881f-6456d4e37925@9b39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20230923T113000Z
+LOCATION:Орш. В-510
+DTSTART:20230923T100000Z
+SUMMARY:ЛК Управление IT-проектами
+UID:e3150ea8-97e3-4cdf-b073-d7eec1b8b3d1@e315.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231018T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:d4fcf90a-375d-46f7-9b83-c7dd5138298f@d4fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20231202T131500Z
+LOCATION:Орш. В-510
+DTSTART:20231202T114500Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:0aa1b371-a0fc-4e29-968a-8487da0761d8@0aa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20230919T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230919T133000Z
+SUMMARY:ЛК Информационная безопасность
+UID:875448ec-a8ef-4163-8b31-b3d95edb3dce@8754.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231102T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Технологии разработки программного обеспечения
+UID:ce4c7a76-aa27-46b8-864e-844985bf13cd@ce4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230918T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Вычислительные системы
+UID:29143c15-0eaa-4d2c-940a-dcef2d20ec6e@2914.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231115T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231115T133000Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:ea3521b1-024e-4281-a8da-8a0078dfe5bd@ea35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231219T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231219T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:99253a75-a3a7-4f48-b5ae-2536b4d6b9bd@9925.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20230923T073000Z
+LOCATION:Орш. В-510
+DTSTART:20230923T060000Z
+SUMMARY:ЛК Психология и педагогика
+UID:17ba2d28-717e-48d2-a006-1d68782e7912@17ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231018T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231018T133000Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:1960444c-d49b-4a82-9725-4dadad730744@1960.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231116T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Технологии разработки программного обеспечения
+UID:a5af945c-6ce2-498b-9636-2efe3d357eca@a5af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20231216T113000Z
+LOCATION:Орш. В-510
+DTSTART:20231216T100000Z
+SUMMARY:ЛК Управление IT-проектами
+UID:a4ea4fe2-0b5b-4bed-8872-67413d85af60@a4ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231229T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231229T133000Z
+SUMMARY:ЛР Технологии разработки программного обеспечения
+UID:6719820b-4c50-4000-a289-f8fd6c7eca24@6719.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230907T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230907T151500Z
+SUMMARY:ЛК История и методология информатики
+UID:921496f7-412b-4421-a372-a3ba0955306f@9214.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231204T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231204T151500Z
+SUMMARY:ЛР Вычислительные системы
+UID:c3b75c41-f4f5-420d-9618-f2e6582e5f6c@c3b7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
@@ -1343,7 +367,135 @@ DTEND:20230913T164500Z
 LOCATION:Орш. В-510
 DTSTART:20230913T151500Z
 SUMMARY:ПЗ Проектирование и сопровождение баз данных
-UID:06bbd5e9-6ac4-4ea1-ace0-b0852dae4657@06bb.org
+UID:216d17f1-9acd-49e8-9500-95ca4d355457@216d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20231007T113000Z
+LOCATION:Орш. В-510
+DTSTART:20231007T100000Z
+SUMMARY:ЛК Управление IT-проектами
+UID:05adfe02-00f7-496e-ba47-c03f2194d6cd@05ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231020T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231020T133000Z
+SUMMARY:ПЗ Технологии разработки программного обеспечения
+UID:4939e1ef-56aa-43c7-a47a-8bff4371e295@4939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231118T073000Z
+LOCATION:Орш. В-510
+DTSTART:20231118T060000Z
+SUMMARY:ЛК Психология и педагогика
+UID:1cdbd175-576d-445e-8903-5605a2fdb13c@1cdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231002T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Вычислительные системы
+UID:99c67720-1fc6-4c7e-9907-a53ba6b8f0b5@99c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231021T091500Z
+LOCATION:Орш. В-510
+DTSTART:20231021T074500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:77e9fd20-d0d3-4552-9e44-dde5c944c072@77e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231106T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231106T151500Z
+SUMMARY:ЛР Вычислительные системы
+UID:c6a7b3bf-6921-46bb-9ea3-faa03dd12bc6@c6a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231130T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231130T151500Z
+SUMMARY:ЛК Технологии разработки программного обеспечения
+UID:1a708f52-de9b-42ba-93ee-d01064e65421@1a70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231031T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:77a05641-cb38-4505-a6d9-ce3666623c97@77a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231122T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231122T133000Z
+SUMMARY:ЛР Проектирование и сопровождение баз данных
+UID:6b4fa0d5-4eed-4601-90d8-9ffc1a9f9398@6b4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231204T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231204T133000Z
+SUMMARY:ЛР Вычислительные системы
+UID:fb2735ba-a0af-49ea-b799-76a532efe9b3@fb27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231207T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231207T133000Z
+SUMMARY:ЛР История и методология информатики
+UID:6e2a2f26-b6da-4bfe-ac23-88e83bd7dc88@6e2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231127T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231127T151500Z
+SUMMARY:ЛК Вычислительные системы
+UID:9cbbf870-8b4d-41ff-b6a5-408713c46c73@9cbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231009T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231009T151500Z
+SUMMARY:ЛР Вычислительные системы
+UID:efb3439d-10c9-4caa-bb2d-8b0f32269b93@efb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231123T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231123T133000Z
+SUMMARY:ЛР История и методология информатики
+UID:7306f74a-d9be-44c4-9269-24d58dc6e390@7306.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231006T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231006T151500Z
+SUMMARY:ПЗ Технологии разработки программного обеспечения
+UID:afd072c9-1ffa-46d3-9829-9a7fcabc26df@afd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230921T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230921T151500Z
+SUMMARY:ЛК История и методология информатики
+UID:73965b32-1c87-4f8f-8a8b-7458ce6856cc@7396.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каверная Ирина Николаевна
@@ -1351,7 +503,455 @@ DTEND:20230922T164500Z
 LOCATION:Орш. В-510
 DTSTART:20230922T151500Z
 SUMMARY:ПЗ Технологии разработки программного обеспечения
-UID:b553c822-e5de-4803-be06-e73975474937@b553.org
+UID:f14cb59a-f10e-486f-b19c-1608cbc4eb6c@f14c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231129T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231129T133000Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:b8ba2093-c8d5-48d7-85cd-f179053a0b50@b8ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230906T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:e14f1b33-9b84-4f08-8071-6536df87cf44@e14f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231202T073000Z
+LOCATION:Орш. В-510
+DTSTART:20231202T060000Z
+SUMMARY:ЛК Психология и педагогика
+UID:097462ce-c9d9-4b29-931b-7ac7e5c8672c@0974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231017T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:aceb451e-f85a-4178-837d-7ee385345d0c@aceb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231109T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231109T151500Z
+SUMMARY:ЛР История и методология информатики
+UID:57c65a87-7210-4cb7-84bb-4d3e1c6ee13a@57c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230928T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230928T133000Z
+SUMMARY:ЛР История и методология информатики
+UID:3ac28c00-bfbf-4e10-9361-13c01e075518@3ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231121T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231121T133000Z
+SUMMARY:ЛР Информационная безопасность
+UID:b562a3c0-6796-4597-95b2-f1c1c4aa1e77@b562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231215T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231215T151500Z
+SUMMARY:ЛР Технологии разработки программного обеспечения
+UID:4c040ef1-8e8e-4311-9f61-12332134fc25@4c04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231113T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231113T151500Z
+SUMMARY:ЛК Вычислительные системы
+UID:3cd2e089-1246-4c9d-939e-87e8959e25fa@3cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231006T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231006T133000Z
+SUMMARY:ПЗ Технологии разработки программного обеспечения
+UID:c78d1a8b-a366-47a6-a0a0-c6835196077f@c78d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231117T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231117T151500Z
+SUMMARY:ЛР Технологии разработки программного обеспечения
+UID:a040fcc4-666f-4cee-8e58-9efcdc0b1f18@a040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20230908T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230908T151500Z
+SUMMARY:ПЗ Технологии разработки программного обеспечения
+UID:48dd12eb-c723-4a20-9950-4f2c79abaf52@48dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230907T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230907T133000Z
+SUMMARY:ЛК История и методология информатики
+UID:57d3d325-2080-4a9d-af3f-21e61ce4b284@57d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231021T073000Z
+LOCATION:Орш. В-510
+DTSTART:20231021T060000Z
+SUMMARY:ЛК Психология и педагогика
+UID:868b2b0f-95ef-4547-a495-dbc3e0422e4e@868b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231120T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231120T151500Z
+SUMMARY:ЛР Вычислительные системы
+UID:09734400-0b92-4370-b70c-d24d5ea17f79@0973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231016T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231016T151500Z
+SUMMARY:ЛК Вычислительные системы
+UID:5baa3c1a-c4f4-456b-a677-ac4f43549c19@5baa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231004T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:b69f4fec-a197-42b9-857a-9438e44c2bfa@b69f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231116T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231116T151500Z
+SUMMARY:ЛК Технологии разработки программного обеспечения
+UID:14b556fc-da84-4fce-8ba9-47997964c204@14b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231122T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231122T151500Z
+SUMMARY:ЛР Проектирование и сопровождение баз данных
+UID:42eff4a2-ae25-49ae-b079-f3c2e00200be@42ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231123T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231123T151500Z
+SUMMARY:ЛР История и методология информатики
+UID:656dbf65-b50f-4246-84a4-fa67bfe0cd5b@656d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231025T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231025T151500Z
+SUMMARY:ЛР Проектирование и сопровождение баз данных
+UID:f1897c98-38e2-4431-a791-989cd6d646f9@f189.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231101T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231101T133000Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:87653af1-77d1-4f45-9da6-0053848b939f@8765.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20230912T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230912T151500Z
+SUMMARY:ПЗ Информационная безопасность
+UID:5db6acf4-ba59-49ff-86a7-56335ef781ef@5db6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231114T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231114T133000Z
+SUMMARY:ЛК Информационная безопасность
+UID:fcd5645a-8a30-403e-90e1-b1948fe1f232@fcd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231205T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231205T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:04f84039-87df-4532-b401-1ce33cc00a21@04f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231129T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231129T151500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:8b74cc72-b763-4054-8156-6081e153027c@8b74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231012T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231012T133000Z
+SUMMARY:ЛР История и методология информатики
+UID:236e4847-796c-451f-a2e6-84a58f666c08@236e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20230909T113000Z
+LOCATION:Орш. В-510
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Управление IT-проектами
+UID:e1821375-7796-4e80-b684-f8dfdd9ade6c@e182.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230925T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230925T151500Z
+SUMMARY:ЛР Вычислительные системы
+UID:6cc59dc2-6cbc-4ab5-8f47-171ea60383bd@6cc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231211T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Вычислительные системы
+UID:c8f22912-1273-481d-9dbe-ae91da26c004@c8f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231202T091500Z
+LOCATION:Орш. В-510
+DTSTART:20231202T074500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:3cea11be-6e24-4e05-a51f-f21bf8233045@3cea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231211T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231211T151500Z
+SUMMARY:ЛК Вычислительные системы
+UID:89392125-b668-4fc1-ae7d-513d97f0c53b@8939.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231212T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231212T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:e66da72b-1890-4398-97d1-0753f6ed0720@e66d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231218T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231218T151500Z
+SUMMARY:ЛР Вычислительные системы
+UID:1286b13e-145a-493e-aac5-0aa9c69df9fc@1286.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231205T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231205T133000Z
+SUMMARY:ЛР Информационная безопасность
+UID:742e3e8f-18ef-4574-a2ba-01c77889dad2@742e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231017T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231017T133000Z
+SUMMARY:ЛК Информационная безопасность
+UID:418ee487-a893-481e-9e77-1b5d3f9a844f@418e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230921T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230921T133000Z
+SUMMARY:ЛК История и методология информатики
+UID:ab32a0ae-7cd3-4e07-ae94-915d65e4cba7@ab32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231024T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231024T133000Z
+SUMMARY:ЛР Информационная безопасность
+UID:66a223b9-e0a3-4b97-b6dc-5b635eaa9e4c@66a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231010T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231010T133000Z
+SUMMARY:ЛР Информационная безопасность
+UID:50e817a4-814e-4fe4-96cd-bbc25bd267c0@50e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231019T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231019T151500Z
+SUMMARY:ЛК История и методология информатики
+UID:7cac5909-41f3-4f19-b2ec-ede6b848202f@7cac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231026T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231026T133000Z
+SUMMARY:ЛР История и методология информатики
+UID:b14d2a42-3384-4685-b8f2-ee7b25320c1c@b14d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231127T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231127T133000Z
+SUMMARY:ЛК Вычислительные системы
+UID:bcbd1596-8b30-486f-a31a-9cc76cb6450c@bcbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231020T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231020T151500Z
+SUMMARY:ПЗ Технологии разработки программного обеспечения
+UID:97c118eb-c77a-4b08-a351-3d9b322df325@97c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231120T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231120T133000Z
+SUMMARY:ЛР Вычислительные системы
+UID:6a142870-bf38-4583-aaf6-886fde9cf703@6a14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230914T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230914T133000Z
+SUMMARY:ЛР История и методология информатики
+UID:97c7f18a-7547-4a87-a3b0-782e233f795a@97c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230927T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230927T133000Z
+SUMMARY:ПЗ Проектирование и сопровождение баз данных
+UID:126e0287-7ea9-4125-81a1-589920f22179@126e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231219T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231219T133000Z
+SUMMARY:ЛР Информационная безопасность
+UID:67fc391f-d56c-4b2a-9dab-80607ebb9e84@67fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20231202T113000Z
+LOCATION:Орш. В-510
+DTSTART:20231202T100000Z
+SUMMARY:ЛК Управление IT-проектами
+UID:6a35184d-67aa-49f3-9444-b6a02009f638@6a35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230913T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230913T133000Z
+SUMMARY:ПЗ Проектирование и сопровождение баз данных
+UID:032ed454-5734-4a7b-8cf2-f18a26a4e5bb@032e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20230905T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230905T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:bb56f9d3-94ea-4544-9066-3a28c19f562c@bb56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230914T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230914T151500Z
+SUMMARY:ЛР История и методология информатики
+UID:44b66715-ac4a-4fc3-99a1-208d22d08bfa@44b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231011T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231011T133000Z
+SUMMARY:ЛР Проектирование и сопровождение баз данных
+UID:0ba8d394-1bab-4d33-970a-0deb3c83366a@0ba8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231101T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231101T151500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:81cc93b7-ef0a-4d42-b9f6-f28d1b102d00@81cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231216T091500Z
+LOCATION:Орш. В-510
+DTSTART:20231216T074500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:a67f16c5-e5a7-49bb-8460-949d0d24f8e2@a67f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20231021T113000Z
+LOCATION:Орш. В-510
+DTSTART:20231021T100000Z
+SUMMARY:ЛК Управление IT-проектами
+UID:8e32f9af-2108-47cb-a736-47ddfd70cba8@8e32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231206T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231206T133000Z
+SUMMARY:ЛР Проектирование и сопровождение баз данных
+UID:acdc95eb-a191-4bdb-98cf-7313a777da0d@acdc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
@@ -1359,14 +959,406 @@ DTEND:20231206T164500Z
 LOCATION:Орш. В-510
 DTSTART:20231206T151500Z
 SUMMARY:ЛР Проектирование и сопровождение баз данных
-UID:d8cbc1b1-23c9-4d73-bbb9-285813b12f33@d8cb.org
+UID:1f45ad9a-c40a-4fe7-83ab-d20fa95788d6@1f45.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Каверная Ирина Николаевна
-DTEND:20230921T150000Z
+DTEND:20231102T164500Z
 LOCATION:Орш. В-510
-DTSTART:20230921T133000Z
+DTSTART:20231102T151500Z
+SUMMARY:ЛК Технологии разработки программного обеспечения
+UID:e45d205c-ff67-4775-ae83-ba0aa2c211f8@e45d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230911T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230911T151500Z
+SUMMARY:ЛР Вычислительные системы
+UID:cb06cde1-1459-4a4d-8db0-a29dc51bab1f@cb06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231003T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:fd4ade44-2ef3-4e09-b4ad-a6f97b9bb6f2@fd4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231025T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231025T133000Z
+SUMMARY:ЛР Проектирование и сопровождение баз данных
+UID:4702524a-9a6e-4b95-b296-27676fe16ae4@4702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231128T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231128T151500Z
+SUMMARY:ЛК Информационная безопасность
+UID:6c14f1c5-bb4e-4220-a841-1f062f63a790@6c14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231113T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231113T133000Z
+SUMMARY:ЛК Вычислительные системы
+UID:1bcd46c2-9a75-4eb3-81d5-0a6d37e83e2b@1bcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20230909T131500Z
+LOCATION:Орш. В-510
+DTSTART:20230909T114500Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:1e5e697a-0055-46b4-b11c-78c461c73a88@1e5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231024T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231024T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:212338df-5081-46bb-8432-cfbb89e7a024@2123.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230906T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230906T133000Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:c3e3b781-8c6a-4e86-8b98-14a84a38314b@c3e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231216T073000Z
+LOCATION:Орш. В-510
+DTSTART:20231216T060000Z
+SUMMARY:ЛК Психология и педагогика
+UID:f3f7adac-aae8-4555-b466-c2e7e5f77819@f3f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20230922T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230922T133000Z
+SUMMARY:ПЗ Технологии разработки программного обеспечения
+UID:42dbb0ff-7d1f-4d67-81dd-63d69b298c9a@42db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231128T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231128T133000Z
+SUMMARY:ЛК Информационная безопасность
+UID:87d00f7d-71ca-4593-aa1b-07b579eab498@87d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231130T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Технологии разработки программного обеспечения
+UID:f84a2247-8f0a-411e-80b4-6ed40ac92c37@f84a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231214T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Технологии разработки программного обеспечения
+UID:d3b51f81-cf77-4674-94f6-1c7b0bcb9b41@d3b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231218T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231218T133000Z
+SUMMARY:ЛР Вычислительные системы
+UID:698223e4-8ccc-4fcb-a058-f50d742868d4@6982.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231023T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231023T133000Z
+SUMMARY:ЛР Вычислительные системы
+UID:29465ac2-a584-4071-bb7e-940937e891a0@2946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231201T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231201T133000Z
+SUMMARY:ЛР Технологии разработки программного обеспечения
+UID:437492e6-62c6-468b-9ab8-e4bad2e503a3@4374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231030T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231030T133000Z
+SUMMARY:ЛК Вычислительные системы
+UID:c8a6e09e-41b0-41c1-87f0-ef15c58b5842@c8a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231115T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231115T151500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:048e0bda-58ef-4027-be5f-cabe161c8734@048e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230920T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230920T133000Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:e1c88f85-cba9-4c7d-aa5d-e4945e6ba4c1@e1c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231003T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231003T133000Z
+SUMMARY:ЛК Информационная безопасность
+UID:998285ca-b9de-4c56-9f37-4ba8a75838cb@9982.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231230T073000Z
+LOCATION:Орш. В-510
+DTSTART:20231230T060000Z
+SUMMARY:ЛК Психология и педагогика
+UID:f202352b-e5e1-4147-84a7-bb97efc11b79@f202.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231212T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231212T133000Z
+SUMMARY:ЛК Информационная безопасность
+UID:798ec1ce-c610-4a4c-b817-35076439f6f0@798e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230928T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230928T151500Z
+SUMMARY:ЛР История и методология информатики
+UID:1a35482b-015c-4008-ae5f-0cb28c863cec@1a35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231016T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Вычислительные системы
+UID:d79c7391-25d2-4557-a2e1-2cba5ba5cee5@d79c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231213T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231213T133000Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:53843aaa-1940-4ea1-a358-ca869d3afb1c@5384.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231207T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231207T151500Z
+SUMMARY:ЛР История и методология информатики
+UID:46d9cedc-d27c-4d1f-81b9-d641e20fbd5b@46d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230911T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230911T133000Z
+SUMMARY:ЛР Вычислительные системы
+UID:160e8d8b-36b4-4bfc-85ea-e088ed39a15a@160e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231007T091500Z
+LOCATION:Орш. В-510
+DTSTART:20231007T074500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:469c9ef4-8069-493f-9696-3f0cd9873211@469c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230925T150000Z
+LOCATION:Орш. В-510
+DTSTART:20230925T133000Z
+SUMMARY:ЛР Вычислительные системы
+UID:4a64a47f-abc9-46f8-b737-a617d7e18321@4a64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231121T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231121T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:063b97ce-18c8-4ff0-a554-a943a042558f@063b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230904T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230904T151500Z
+SUMMARY:ЛК Вычислительные системы
+UID:ba1837a2-314f-4f60-a9f4-dffbf5cce312@ba18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231005T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231005T151500Z
 SUMMARY:ЛК История и методология информатики
-UID:5d44ec6c-6553-467c-8f07-f38646ad723d@5d44.org
+UID:7b9394c2-ba27-4f71-bfb3-7b3b35f8c7fc@7b93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231009T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231009T133000Z
+SUMMARY:ЛР Вычислительные системы
+UID:68499a77-ad97-498b-9507-7b30c3bac9df@6849.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230920T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Проектирование и сопровождение баз данных
+UID:96b84bd9-5bde-4821-9a26-f3a70fbbdef5@96b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231229T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231229T151500Z
+SUMMARY:ЛР Технологии разработки программного обеспечения
+UID:b8002134-907e-4187-99f6-e9518f598370@b800.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20231216T131500Z
+LOCATION:Орш. В-510
+DTSTART:20231216T114500Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:f59c6abf-d38c-4eb8-aa42-b94a0a3898b3@f59c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20231007T131500Z
+LOCATION:Орш. В-510
+DTSTART:20231007T114500Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:52b914b5-f355-49e0-baa9-08fe7a54f948@52b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20230918T164500Z
+LOCATION:Орш. В-510
+DTSTART:20230918T151500Z
+SUMMARY:ЛК Вычислительные системы
+UID:188b0ace-d9e2-4336-87f7-fdeed4bf718e@188b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Колесников Дмитрий Александрович
+DTEND:20231118T131500Z
+LOCATION:Орш. В-510
+DTSTART:20231118T114500Z
+SUMMARY:ПЗ Управление IT-проектами
+UID:45e121a4-3752-41b3-8f47-e4e7d8c0a1b4@45e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231118T091500Z
+LOCATION:Орш. В-510
+DTSTART:20231118T074500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:52f2203d-b0f7-41d0-b029-98d9bb99f45d@52f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231010T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231010T151500Z
+SUMMARY:ЛР Информационная безопасность
+UID:1d814fa2-e28f-48b0-a121-79cab8c3598b@1d81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20230923T091500Z
+LOCATION:Орш. В-510
+DTSTART:20230923T074500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:5cfa95a3-b5ff-4832-aa0c-425f23d99b72@5cfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20230909T073000Z
+LOCATION:Орш. В-510
+DTSTART:20230909T060000Z
+SUMMARY:ЛК Психология и педагогика
+UID:f19712d1-288d-4059-9c23-4d10df662c11@f197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231201T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231201T151500Z
+SUMMARY:ЛР Технологии разработки программного обеспечения
+UID:9737450e-0d5e-48ec-8cad-ba7dd67bd49b@9737.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231117T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231117T133000Z
+SUMMARY:ЛР Технологии разработки программного обеспечения
+UID:1f48b5e7-86d9-4a94-be69-e5811b26d69f@1f48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231026T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231026T151500Z
+SUMMARY:ЛР История и методология информатики
+UID:80cd343a-7cdd-47de-a2ab-a3c70b77a40f@80cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Каверная Ирина Николаевна
+DTEND:20231214T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231214T151500Z
+SUMMARY:ЛК Технологии разработки программного обеспечения
+UID:61cee841-8ed0-46f7-b3e7-e5558b04e521@61ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231220T164500Z
+LOCATION:Орш. В-510
+DTSTART:20231220T151500Z
+SUMMARY:ЛР Проектирование и сопровождение баз данных
+UID:aea6d494-26eb-4123-a092-9dcbf0854826@aea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231108T150000Z
+LOCATION:Орш. В-510
+DTSTART:20231108T133000Z
+SUMMARY:ЛР Проектирование и сопровождение баз данных
+UID:eb8dfaa8-f80f-44c8-be6c-8f2c519eca5f@eb8d.org
 END:VEVENT
 END:VCALENDAR

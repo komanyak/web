@@ -2,207 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20230904T164500Z
+DTEND:20231023T150000Z
 LOCATION:--каф.
-DTSTART:20230904T151500Z
+DTSTART:20231023T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2786d27b-b6af-4987-936d-450bebedb254@2786.org
+UID:4b895e75-629e-4bec-800e-26cf7a770200@4b89.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230911T164500Z
+DTEND:20231120T164500Z
 LOCATION:--каф.
-DTSTART:20230911T151500Z
+DTSTART:20231120T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5f65030f-1e1c-46de-b5bd-b16ece3307e3@5f65.org
+UID:f733548e-b435-47e4-81b1-eecfd23810da@f733.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231002T164500Z
+DTEND:20230925T150000Z
 LOCATION:--каф.
-DTSTART:20231002T151500Z
+DTSTART:20230925T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f7afdb6a-c32b-4767-9459-9f6978a50563@f7af.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T150000Z
-LOCATION:--каф.
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:55e66171-a14e-491b-8b43-6b98c1fe37d4@55e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T150000Z
-LOCATION:--каф.
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:a2230ed6-63ff-44ca-8e07-8b92da152c82@a223.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:467232a8-f61d-4706-b785-9b38f337dbd3@4672.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a4792add-c871-47a6-8dcd-82783a05d2fa@a479.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T164500Z
-LOCATION:--каф.
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:8a544ea0-81de-4e05-87ca-bcaddbf92893@8a54.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:38686d4e-fe3c-4f9a-8e73-6a17dec52ad7@3868.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7cd4fada-b1a0-4381-b936-5e69c0fb3f84@7cd4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:cdb03faf-8012-41ca-a128-6fe9701946af@cdb0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a254f079-19c5-484b-aac1-86af85f129c8@a254.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e55f9554-daf3-41a7-a438-d87679682dca@e55f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:8091c923-e9a5-4dca-ba51-316045cd7fc8@8091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:4382c631-8a09-4a4f-9256-762f7fe28bd5@4382.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:611e218a-c2bd-47b7-b162-e243d274e9cb@611e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T150000Z
-LOCATION:--каф.
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:cf22777e-43a7-4f5d-a03a-6683c1c14b8f@cf22.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T164500Z
-LOCATION:--каф.
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:39ed0aad-10c7-455b-995e-4a16f72d9385@39ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:21ce9a85-b590-43b4-b965-4891ce61e794@21ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b0e5589d-3dfa-4583-a376-f339596dcabd@b0e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:704ea5c3-26e2-4a34-a980-d3e6dde6ea63@704e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:617381bb-3bc5-48ce-bcd5-a98be7042ca8@6173.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T150000Z
-LOCATION:--каф.
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:4384cc3f-acf8-4359-a782-586be28da874@4384.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8aed5b9b-bfb0-4f21-ab4d-88d69d9b675e@8aed.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T150000Z
-LOCATION:--каф.
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:c67f5fe5-b025-4dbd-a5c6-1e25dcdb5d2d@c67f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T150000Z
-LOCATION:--каф.
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:b89af414-a67c-4544-91a5-96909f3674e0@b89a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:be3ed487-62a9-4d03-bdeb-64f06efa9aa9@be3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:86f15723-cc0b-4381-b352-51e71e4857b8@86f1.org
+UID:66d68b46-b702-4c9a-a800-cce8d927cb84@66d6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -210,215 +28,15 @@ DTEND:20231031T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231031T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:8f2f5fa5-d3bb-4691-ab39-6202cb1f606b@8f2f.org
+UID:dc0cacf5-dbb7-4837-a6ef-30d0ba074993@dc0c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231205T164500Z
+DTEND:20231017T164500Z
 LOCATION:ГУК В-228
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:ed6e9fff-e81f-48d5-973a-452224d91ce5@ed6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231219T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:b32da23b-5330-4e8c-b90f-aff8d4559a20@b32d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T150000Z
-LOCATION:--каф.
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:1dd0f018-74be-4494-852c-c1767e9fa57c@1dd0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f0e5f893-95fc-4d91-96d8-5fc4de87dae8@f0e5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2b51caaf-74bf-4b93-a001-ae1338f24aa1@2b51.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:fd582caa-4e62-4b42-8001-2b0cccada5e0@fd58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231205T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231205T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:38ac5895-9734-43af-86b0-e739f7cabb91@38ac.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T164500Z
-LOCATION:--каф.
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:dcc5c439-202a-42a7-928e-42f9257243b9@dcc5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:041c83ca-2752-4a11-a691-b3ee5141182f@041c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T164500Z
-LOCATION:--каф.
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:d74d91ef-f9e5-4fa5-aafe-ffad767799b3@d74d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T150000Z
-LOCATION:--каф.
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:98757c81-d3fd-4d2b-84e0-b88ca8a781c1@9875.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T164500Z
-LOCATION:--каф.
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:10b1ce37-2367-4227-81ab-e18df0a292c2@10b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d3bc2b8a-22ce-44f3-a9dd-a45d1127ad1f@d3bc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T164500Z
-LOCATION:--каф.
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:50fa5911-85a6-4485-9af0-dad0eff7b9c6@50fa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T164500Z
-LOCATION:--каф.
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:b7b32552-d7a9-4927-87f3-c136428f1622@b7b3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T150000Z
-LOCATION:--каф.
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:d580c86a-0d30-400c-ae8d-b88d0bb675d1@d580.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T150000Z
-LOCATION:--каф.
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:02a2ad05-23ec-4b4e-bd46-5cf844e94eaa@02a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
+DTSTART:20231017T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:1437a825-5adb-4085-86ce-515482cba63a@1437.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T164500Z
-LOCATION:--каф.
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:a8a076cf-3466-47f1-ad85-e3073f26d043@a8a0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4dab3cdd-43d3-46e9-8e81-3e4a46258540@4dab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T164500Z
-LOCATION:--каф.
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:38ab338c-bc0d-4b05-ba7f-3efde69248fb@38ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:dd41ba53-329e-476f-b51d-9e0706462cd2@dd41.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T150000Z
-LOCATION:--каф.
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:cfe16e10-4087-4e68-a4d4-dfce019af89c@cfe1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T164500Z
-LOCATION:--каф.
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:146b6c85-acd8-40c4-ae5b-341a2236fffa@146b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T150000Z
-LOCATION:--каф.
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:fceabf7c-d4cd-46a0-b61e-46315a9604d1@fcea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:9cc3d4da-bb9d-4421-b68e-607529bc41c0@9cc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T150000Z
-LOCATION:--каф.
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:f5e6b802-cd82-4554-bef5-6fb78e25f6f1@f5e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T150000Z
-LOCATION:--каф.
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:6d37b2bc-7249-4303-9975-8328c5b935ea@6d37.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b412f007-5702-4985-a88b-a38afb1442e0@b412.org
+UID:85776057-79b0-4901-875d-d3c98f672153@8577.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -426,55 +44,437 @@ DTEND:20231219T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231219T170000Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:b17699b5-263f-49c1-b4e3-ecc268514608@b176.org
+UID:3de63927-1b6d-4b23-9630-7cb1f021b3e5@3de6.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231030T164500Z
+DTEND:20231016T164500Z
 LOCATION:--каф.
-DTSTART:20231030T151500Z
+DTSTART:20231016T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ada614a7-fe2d-4bd8-93b8-ecbf539f933b@ada6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a06f1970-8efb-46c5-8db3-ea51547a2cf1@a06f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T164500Z
-LOCATION:--каф.
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:08b1e0f0-5593-45d4-81f6-6874b96266df@08b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:98db3d1d-b4df-42d7-83b8-a489121a25a1@98db.org
+UID:98d4c62e-b759-4fb3-97eb-e0fa955ccf29@98d4.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230921T164500Z
 LOCATION:--каф.
 DTSTART:20230921T151500Z
 SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:d9359bd7-9ec7-48b5-846e-c47fd93a9e2a@d935.org
+UID:88437426-976a-4eb2-9b8a-95d32928f9a4@8843.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231026T150000Z
+DTEND:20231016T150000Z
 LOCATION:--каф.
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
-UID:9ff6d682-edbe-481c-9150-646155d82792@9ff6.org
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c4a67a82-3cd9-4893-abfd-6a42d67caf2b@c4a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:a1128b65-141c-4d15-954a-563f1dc88fb4@a112.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:49e4c67a-f8b1-4f87-8abf-e6f9a03ccb67@49e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T164500Z
+LOCATION:--каф.
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
+UID:50ac6a50-3ba3-4790-925d-e9cfb3b7032a@50ac.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ec309694-e3df-49e8-a435-2c3502027a5f@ec30.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230907T164500Z
 LOCATION:--каф.
 DTSTART:20230907T151500Z
 SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
-UID:0745133a-96e7-4c60-89c6-69aa3c6f08d5@0745.org
+UID:d2c2a2f4-2d76-4fd5-8f36-1daefb1681c6@d2c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:27c1dc81-4a35-4f57-8bfd-406b820cbc79@27c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:fab16b80-56ad-487a-9302-42b82a60a177@fab1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T150000Z
+LOCATION:--каф.
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:92d2b0f4-16ea-46f9-8a97-c855d994773d@92d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:f63244be-4807-403c-9570-bdfd5f98876f@f632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:ef604974-6484-4f02-93a3-0b17af9d31c3@ef60.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T150000Z
+LOCATION:--каф.
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:48c6924b-a6ed-4d4a-8939-7aa28e884050@48c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T164500Z
+LOCATION:--каф.
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
+UID:b56ed41d-4b60-4535-8cc6-a1547657b520@b56e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:70c9317b-2123-4c3c-b678-52441b398fc0@70c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a018f586-7378-4e63-9f9b-fd44748421a2@a018.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T150000Z
+LOCATION:--каф.
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:74e1bbbf-ff31-4412-95d9-a641ce2e3d19@74e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T150000Z
+LOCATION:--каф.
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:9605aef7-74ad-4273-924e-f04ee5768964@9605.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b839bc4a-12b3-42f7-be4e-22329e3210cf@b839.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T164500Z
+LOCATION:--каф.
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
+UID:5aee063c-505d-4cf9-b896-a8cc70a9916b@5aee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T150000Z
+LOCATION:--каф.
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:b9dc186b-e42f-4d86-90fc-b80ae61c9740@b9dc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T150000Z
+LOCATION:--каф.
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:50b52c4e-22b6-4113-8dbc-0b5ccb0c23e9@50b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T150000Z
+LOCATION:--каф.
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:d1823c04-dfae-4e30-aee7-46e480cc7201@d182.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T164500Z
+LOCATION:--каф.
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
+UID:7ec22316-1856-4213-8bc4-a9c5f0a06dd4@7ec2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T150000Z
+LOCATION:--каф.
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:88723343-29bc-4766-844c-f782c93fb047@8872.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3276533e-f078-4052-810f-c131d70c8ba4@3276.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c4234f97-6acf-4f71-9beb-021cf3c21dfa@c423.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T164500Z
+LOCATION:--каф.
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
+UID:59ebe00a-fc2e-44df-ba12-19a3c71302f3@59eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1e0e9484-f4c1-4d9c-870a-e80ddaaa08f7@1e0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T150000Z
+LOCATION:--каф.
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:565920f7-9f97-4a1a-b748-4f69dbe70cee@5659.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T164500Z
+LOCATION:--каф.
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
+UID:83cad10c-0788-437f-a21f-dbeebe4d25b4@83ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:85080ffe-c4a7-497b-9929-693e2c07c0ca@8508.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:8be8f844-fed5-4455-9780-a651410b5556@8be8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T150000Z
+LOCATION:--каф.
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:3d26512e-ad96-43d1-9cd4-3619e2b69744@3d26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231205T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:1feca37d-4db1-4bf5-8f05-d9e21f73ae36@1fec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T150000Z
+LOCATION:--каф.
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:31f24195-d387-4701-8251-94d2d370a0eb@31f2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:df4796ea-8514-4e95-a89e-3295da6c9c63@df47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:31767678-7fbe-48d7-9667-763807f65306@3176.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9cb520e3-b198-49e3-a0e6-b9c3ab0dd5ef@9cb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231205T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231205T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:ee00b81b-0360-4bea-ab1c-60ef81a78873@ee00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:1c04585f-58dd-4138-8bad-b39852770e23@1c04.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T150000Z
+LOCATION:--каф.
+DTSTART:20231207T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:1a575669-4167-4be5-95f2-c025d28a41cb@1a57.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a823e493-74c9-4798-8bf5-c81db42e8021@a823.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T150000Z
+LOCATION:--каф.
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:54aba111-15b8-4e2c-bbb7-48cfc7f0f143@54ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:5aaf6352-21ea-49d8-b65f-caf2fe7b06c9@5aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231219T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:81f6c2c9-eaee-4099-893b-6b42c5374c3e@81f6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T150000Z
+LOCATION:--каф.
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:74338f3f-9052-4f64-874e-8b1f7e436ef1@7433.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T164500Z
+LOCATION:--каф.
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
+UID:8e276d45-b99a-4bfa-9153-d89ddb0c60d7@8e27.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7b3d4813-d7e3-4f05-87ff-641552d1df45@7b3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0228d07d-2b2d-4625-967a-d95929b08478@0228.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T164500Z
+LOCATION:--каф.
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:096b1e49-9aa6-4aaa-b0c4-8a6b154c3f5c@096b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T164500Z
+LOCATION:--каф.
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
+UID:6f912c74-1d61-4c18-b74e-8a0c04819d1a@6f91.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:75a9a346-ac54-41a2-b484-b03f501b39f2@75a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a470a4f1-7375-411e-b2cf-3303bfdb0487@a470.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T164500Z
+LOCATION:--каф.
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
+UID:618b3144-48ad-4fc4-bba5-6f8b267f39a3@618b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:fd8ac35f-ca46-4cbd-8d3b-d1568deccf65@fd8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:484fb367-0c0c-462f-abc2-ee064851fd23@484f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T164500Z
+LOCATION:--каф.
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Автоматизация проектирования и управления жизненным циклом изделий
+UID:bd161233-4932-4de3-b340-b45fdb4c7771@bd16.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T150000Z
+LOCATION:--каф.
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Автоматизация проектирования и управления жизненным циклом изделий
+UID:f441d705-757a-4db5-803c-f23eccb77494@f441.org
 END:VEVENT
 END:VCALENDAR

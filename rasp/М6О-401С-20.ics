@@ -2,1811 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230929T091500Z
-LOCATION:24-316Б
-DTSTART:20230929T074500Z
-SUMMARY:ЛР Технология системного моделирования
-UID:bf525ce4-9719-4d63-9887-2f50b40bcdae@bf52.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T091500Z
-LOCATION:--каф.
-DTSTART:20231005T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:f3fc2735-2d53-4a5f-a2e5-ee4af20938e9@f3fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231023T131500Z
-LOCATION:3-413
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Политика командной работы
-UID:ff973ac3-7551-4876-b610-4d7751b1593d@ff97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231113T073000Z
-LOCATION:24-314
-DTSTART:20231113T060000Z
-SUMMARY:ЛК Вычислительные машины\, системы и сети
-UID:1d439efd-cf9e-4047-aa30-ec2c23765dc5@1d43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231030T131500Z
-LOCATION:3-413
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Политика командной работы
-UID:c4afa4d2-3140-42c5-9882-afb9ae0eb2ad@c4af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231127T091500Z
-LOCATION:24-314
-DTSTART:20231127T074500Z
-SUMMARY:ПЗ Вычислительные машины\, системы и сети
-UID:7628bcdf-2260-45d9-abb1-8f6072b76dd5@7628.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231107T113000Z
-LOCATION:24-318А
-DTSTART:20231107T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:d08bdf97-a054-48b5-8b57-f378056426de@d08b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231219T131500Z
-LOCATION:24-318А
-DTSTART:20231219T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:4a7019dd-bf7e-408a-935a-69bf720cfb9e@4a70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231204T091500Z
-LOCATION:24-314
-DTSTART:20231204T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:5985e773-ce5e-45c4-815f-827ebad6c300@5985.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231013T131500Z
-LOCATION:24-316Б
-DTSTART:20231013T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:fe37a70d-3db9-45ce-ac17-9e608060fa67@fe37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20230926T131500Z
-LOCATION:24-318А
-DTSTART:20230926T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:f5fe803c-2d8a-45e2-aef8-60de7d265e44@f5fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231124T131500Z
-LOCATION:24-316Б
-DTSTART:20231124T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:04212750-708a-4ccc-8ec7-263fecde1abb@0421.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231225T131500Z
-LOCATION:3-413
-DTSTART:20231225T114500Z
-SUMMARY:ЛК Политика командной работы
-UID:23769cd9-3319-49e8-bf29-310b015bb9d4@2376.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230905T073000Z
-LOCATION:24-314
-DTSTART:20230905T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:51955907-3c02-4467-8cc1-d0fff2f26b84@5195.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231020T131500Z
-LOCATION:24-316Б
-DTSTART:20231020T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:4122ef74-4d7f-45c9-a0fd-3828d64257b0@4122.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20230926T091500Z
-LOCATION:24-314
-DTSTART:20230926T074500Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:67af5137-75d0-4b78-8a80-af996fd4643a@67af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231110T073000Z
-LOCATION:24-316Б
-DTSTART:20231110T060000Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:10001ce1-f9d9-4f19-bc94-dbf94c75d925@1000.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T091500Z
-LOCATION:--каф.
-DTSTART:20231214T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:3eb00d79-8edd-4ce2-863c-13b650882fa6@3eb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231002T091500Z
-LOCATION:24-314
-DTSTART:20231002T074500Z
-SUMMARY:ПЗ Вычислительные машины\, системы и сети
-UID:6b8ffc08-324e-41d9-81dd-b0ee6f102832@6b8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231114T091500Z
-LOCATION:24-314
-DTSTART:20231114T074500Z
-SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
-UID:9c4eb703-529e-4db8-b1e0-b2dc60851a09@9c4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20230919T131500Z
-LOCATION:24-318А
-DTSTART:20230919T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:b2c99085-f071-4706-9e84-eee9717411f5@b2c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T131500Z
-LOCATION:--каф.
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:af4fc7ab-3731-4ed0-bbf3-4a51fad1d060@af4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230919T073000Z
-LOCATION:24-314
-DTSTART:20230919T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:29f1322e-4971-4266-acc4-bda5c9314769@29f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T073000Z
-LOCATION:--каф.
-DTSTART:20231012T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:868b18c5-2b7c-459d-85cd-19884ae20db5@868b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T073000Z
-LOCATION:--каф.
-DTSTART:20231221T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:91def360-f8b1-4059-baee-1a740828e6a8@91de.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T113000Z
-LOCATION:--каф.
-DTSTART:20230914T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:d9c93882-7a04-4090-8351-c5be0b12228a@d9c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231205T091500Z
-LOCATION:24-314
-DTSTART:20231205T074500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:97a7c164-a0d9-4547-becf-388841b88975@97a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231010T113000Z
-LOCATION:24-318А
-DTSTART:20231010T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:50ef5c7d-6132-489c-b333-5fffa9f5b608@50ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T073000Z
-LOCATION:--каф.
-DTSTART:20231130T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:e62c3c2f-3e1b-45a7-8e5c-4a42ffb24098@e62c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T131500Z
-LOCATION:--каф.
-DTSTART:20231207T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:559e1cb3-d257-4e47-bce8-9d9e29f36639@559e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231031T113000Z
-LOCATION:24-318А
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:5d2cecae-826e-4949-83ed-1e389bd78df7@5d2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231117T091500Z
-LOCATION:24-709
-DTSTART:20231117T074500Z
-SUMMARY:ЛК Технология системного моделирования
-UID:4f82b242-630d-4e37-ae0a-b42d05520f12@4f82.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T131500Z
-LOCATION:--каф.
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:28b380ec-9ffa-4bc7-8b60-753ca82babf2@28b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231124T073000Z
-LOCATION:24-316Б
-DTSTART:20231124T060000Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:ee1d6897-1934-4e00-81a6-5e335d77dc71@ee1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231017T113000Z
-LOCATION:24-318А
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:4d98e76b-c887-48a9-ac8c-b40c97ebb623@4d98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231114T113000Z
-LOCATION:24-318А
-DTSTART:20231114T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:a8786dfb-fc16-4e1e-b760-7d331a8bf180@a878.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231215T073000Z
-LOCATION:24-709
-DTSTART:20231215T060000Z
-SUMMARY:ЛК Технология системного моделирования
-UID:a4547659-4d11-435c-b463-3677347f1be5@a454.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T091500Z
-LOCATION:--каф.
-DTSTART:20230928T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:d29b0875-fc04-4fff-b209-917b805c1507@d29b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231218T113000Z
-LOCATION:3-115
-DTSTART:20231218T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:6df455b1-3e0c-40a4-9eac-5d9ef3a9e5c3@6df4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230918T091500Z
-LOCATION:24-314
-DTSTART:20230918T074500Z
-SUMMARY:ПЗ Вычислительные машины\, системы и сети
-UID:06b08e0d-e940-4f18-9592-3713a659de1b@06b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231204T073000Z
-LOCATION:24-314
-DTSTART:20231204T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:eebeebac-16ec-4058-b10f-4753a7dad930@eebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231006T131500Z
-LOCATION:24-316Б
-DTSTART:20231006T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:6776f7e1-9997-4419-a5f3-2ee746b49c58@6776.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231124T113000Z
-LOCATION:24-316Б
-DTSTART:20231124T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:d5e015ac-ab21-4509-a9b2-6333142e8cef@d5e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230904T113000Z
-LOCATION:3-115
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:9c9698ea-9a6c-48cc-bed2-a16d0e763036@9c96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230926T073000Z
-LOCATION:24-314
-DTSTART:20230926T060000Z
-SUMMARY:ПЗ УИРС
-UID:64d59207-d8bc-4b99-8c0f-68cc034f2946@64d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231030T073000Z
-LOCATION:24-314
-DTSTART:20231030T060000Z
-SUMMARY:ЛК Вычислительные машины\, системы и сети
-UID:7a205306-904d-43e3-aa13-49eda88fef9b@7a20.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T073000Z
-LOCATION:--каф.
-DTSTART:20231102T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:301c19d1-f53b-4250-ba1d-0509d9550c4a@301c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231120T091500Z
-LOCATION:24-314
-DTSTART:20231120T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:af616334-4af1-4cd4-a32d-3a5e18348a19@af61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20230901T131500Z
-LOCATION:24-316Б
-DTSTART:20230901T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:01b2eb0d-dc4b-4bf8-ad4b-dcc0f57afd6c@01b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231009T113000Z
-LOCATION:3-115
-DTSTART:20231009T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:711702bb-0c30-4adf-acee-56e863d5ea80@7117.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231016T091500Z
-LOCATION:24-314
-DTSTART:20231016T074500Z
-SUMMARY:ПЗ Вычислительные машины\, системы и сети
-UID:49e8c634-54c2-4a8d-b9f2-57fc0a39fd73@49e8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T113000Z
-LOCATION:--каф.
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:37336dab-01df-4463-92aa-fe96f2e10c8e@3733.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T131500Z
-LOCATION:--каф.
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:1d9ea50e-efee-4a61-8bb5-b0a44908f154@1d9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231117T131500Z
-LOCATION:24-316Б
-DTSTART:20231117T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:b8fbe142-5cc7-4c63-ae0e-edb2a34321c2@b8fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231201T073000Z
-LOCATION:24-709
-DTSTART:20231201T060000Z
-SUMMARY:ЛК Технология системного моделирования
-UID:defc4e30-1bbd-449e-9976-093367d23d25@defc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231110T113000Z
-LOCATION:24-316Б
-DTSTART:20231110T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:20a83030-d0f8-47d8-bfe0-422c274efd9b@20a8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T091500Z
-LOCATION:--каф.
-DTSTART:20231116T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:a872cb0c-24e2-4d8b-87ae-06ab20c2b191@a872.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231219T113000Z
-LOCATION:24-318А
-DTSTART:20231219T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:ea7cde67-3036-45b1-8df6-e902ed6c7748@ea7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230901T091500Z
-LOCATION:24-316Б
-DTSTART:20230901T074500Z
-SUMMARY:ЛР Технология системного моделирования
-UID:0d50a7fc-ed2e-4918-8808-f58db9c622fc@0d50.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20231214T113000Z
 LOCATION:--каф.
 DTSTART:20231214T100000Z
 SUMMARY:ЛК Военная подготовка
-UID:81c49d03-76b1-430a-a221-c4e9b498a7fe@81c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20230919T113000Z
-LOCATION:24-318А
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:cbbb6b68-50e1-4fa2-b97a-c8484e3f95d5@cbbb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T091500Z
-LOCATION:--каф.
-DTSTART:20231102T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:6329f0e2-cbbe-439d-9af3-6ac21c58c8c8@6329.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231106T113000Z
-LOCATION:3-115
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:67361239-50a6-4356-9bc5-7ba42842a71e@6736.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231017T131500Z
-LOCATION:24-318А
-DTSTART:20231017T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:01547999-4535-4109-8490-f7ef81795c3a@0154.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231020T073000Z
-LOCATION:24-709
-DTSTART:20231020T060000Z
-SUMMARY:ЛК Технология системного моделирования
-UID:a16d5ac1-5161-4efe-bf6d-a3777f4cebe4@a16d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20230901T113000Z
-LOCATION:24-316Б
-DTSTART:20230901T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:360e063e-6166-4f59-95d4-27e9d79eed14@360e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231009T091500Z
-LOCATION:24-314
-DTSTART:20231009T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:d2f19f17-671b-4eca-b614-35849d7a0998@d2f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231013T113000Z
-LOCATION:24-316Б
-DTSTART:20231013T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:c37461d2-476f-408b-9d9a-ee908233c274@c374.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230915T091500Z
-LOCATION:24-316Б
-DTSTART:20230915T074500Z
-SUMMARY:ЛР Технология системного моделирования
-UID:e122edbe-1ae0-44c9-bbc9-8ede1b7ebb08@e122.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230904T073000Z
-LOCATION:24-314
-DTSTART:20230904T060000Z
-SUMMARY:ЛК Вычислительные машины\, системы и сети
-UID:97d889d5-22fc-44fc-84ea-d1c9113fcd50@97d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231229T113000Z
-LOCATION:24-316Б
-DTSTART:20231229T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:ea28b7b2-232d-44a5-b3da-42c859c2b290@ea28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230908T073000Z
-LOCATION:24-709
-DTSTART:20230908T060000Z
-SUMMARY:ЛК Технология системного моделирования
-UID:c19f1475-e046-44c4-8646-60ca57b7483b@c19f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231113T113000Z
-LOCATION:3-115
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:623df1bd-791d-4faa-bee3-c9592a1c71d0@623d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20230905T131500Z
-LOCATION:24-318А
-DTSTART:20230905T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:bd223002-0b17-4652-97e6-39c436f2b926@bd22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231106T073000Z
-LOCATION:24-314
-DTSTART:20231106T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:979f012d-01aa-488a-bfd8-18552828fb1c@979f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230925T113000Z
-LOCATION:3-115
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:99065063-41f1-48e3-acfd-49b831251898@9906.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T113000Z
-LOCATION:--каф.
-DTSTART:20231109T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:ac18bc56-20bc-476c-bb47-b48f35a30e37@ac18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231128T091500Z
-LOCATION:24-314
-DTSTART:20231128T074500Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:511e6666-43d6-44b7-889d-abc13cf2b817@511e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231103T073000Z
-LOCATION:24-709
-DTSTART:20231103T060000Z
-SUMMARY:ЛК Технология системного моделирования
-UID:cdcba873-d25e-4e0c-9238-77b5b001e1ba@cdcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231212T073000Z
-LOCATION:24-314
-DTSTART:20231212T060000Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:0c287d15-b04f-4fcd-a05d-7c1f7ed95bcb@0c28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231016T131500Z
-LOCATION:3-413
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Политика командной работы
-UID:a2251ecd-e03b-4110-8fc0-7b6c00e03519@a225.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231121T131500Z
-LOCATION:24-318А
-DTSTART:20231121T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:119da7a2-da8b-4ead-8506-5afc3fb59c1b@119d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231114T131500Z
-LOCATION:24-318А
-DTSTART:20231114T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:9696e79d-ba26-497f-a84b-0b60bde9a5ae@9696.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20230912T113000Z
-LOCATION:24-318А
-DTSTART:20230912T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:6cd2fb2d-9885-4428-801f-5e75461cee59@6cd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20230908T131500Z
-LOCATION:24-316Б
-DTSTART:20230908T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:be47da8c-ee23-4c8b-ad16-523b31f5e549@be47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231103T131500Z
-LOCATION:24-316Б
-DTSTART:20231103T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:a5d3dc6d-6546-46e6-8187-edbcb84b70d4@a5d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231106T131500Z
-LOCATION:3-413
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Политика командной работы
-UID:30bd9762-a558-4a49-8864-0f219329a728@30bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T131500Z
-LOCATION:--каф.
-DTSTART:20231228T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:e2b95682-f300-44dd-8260-fcd949d46d1d@e2b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231020T113000Z
-LOCATION:24-316Б
-DTSTART:20231020T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:fbddf316-d4b3-4724-99ef-da2da9441697@fbdd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T091500Z
-LOCATION:--каф.
-DTSTART:20231109T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:1a160980-3f34-4043-94af-cac5993556b9@1a16.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231102T113000Z
-LOCATION:--каф.
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:01e4ee4a-de0a-4fd6-864f-47009eba4ddd@01e4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T091500Z
-LOCATION:--каф.
-DTSTART:20231228T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:4fcd89d5-795f-46a4-8d9c-a04ab0d18b1b@4fcd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T131500Z
-LOCATION:--каф.
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:4024b51b-a4cd-452d-afc9-9725ac069069@4024.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231006T073000Z
-LOCATION:24-709
-DTSTART:20231006T060000Z
-SUMMARY:ЛК Технология системного моделирования
-UID:02a952d9-a489-4178-82dc-b5481ea8923a@02a9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T131500Z
-LOCATION:--каф.
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:e077966d-a965-42da-8d7e-460ec8716e19@e077.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231127T131500Z
-LOCATION:3-413
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Политика командной работы
-UID:4521498b-949a-44b2-bae5-8e4d00268380@4521.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20230922T113000Z
-LOCATION:24-316Б
-DTSTART:20230922T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:942eef68-df7f-42d9-924b-535d2f56634b@942e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231117T113000Z
-LOCATION:24-316Б
-DTSTART:20231117T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:f4f6504a-a4ff-4d1b-9314-abb146fe7bce@f4f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231003T091500Z
-LOCATION:24-314
-DTSTART:20231003T074500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:9407874a-b74c-4405-9c62-6232125ec855@9407.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T073000Z
-LOCATION:--каф.
-DTSTART:20231123T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:5bc4ce2a-6db8-445b-b336-d1fe1ca7c176@5bc4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T131500Z
-LOCATION:--каф.
-DTSTART:20231221T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:1bfc0f68-d418-4e27-a334-e7b1d7651708@1bfc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T091500Z
-LOCATION:--каф.
-DTSTART:20231019T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:3f6771b7-a210-408c-a75d-de06cdfe7c5c@3f67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231110T091500Z
-LOCATION:24-316Б
-DTSTART:20231110T074500Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:db532f4b-25e4-461b-b947-098cef4bb280@db53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231211T073000Z
-LOCATION:24-314
-DTSTART:20231211T060000Z
-SUMMARY:ЛК Вычислительные машины\, системы и сети
-UID:c61e7c76-e30e-43fc-8f24-64995430f69e@c61e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231214T073000Z
-LOCATION:--каф.
-DTSTART:20231214T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:572c9e16-efc6-4027-856a-e60d371793dd@572c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T113000Z
-LOCATION:--каф.
-DTSTART:20231019T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:f1f09e9c-ecea-48d5-a021-3c919652c217@f1f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231205T131500Z
-LOCATION:24-318А
-DTSTART:20231205T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:10fbb5b4-a25f-4210-85b0-abe7a1a3fef6@10fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230919T091500Z
-LOCATION:24-314
-DTSTART:20230919T074500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:c7e3a6fd-20b1-4cb6-8eaf-28ca606abd05@c7e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20230929T113000Z
-LOCATION:24-316Б
-DTSTART:20230929T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:adc01ac9-d22c-4282-be80-53a71f88b0f0@adc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20230926T113000Z
-LOCATION:24-318А
-DTSTART:20230926T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:59c3586a-4bac-4ef9-b722-1c2cb906401f@59c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231030T113000Z
-LOCATION:3-115
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:7a3d212d-61b0-4922-93fc-cae58aa694a7@7a3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231218T091500Z
-LOCATION:24-314
-DTSTART:20231218T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:a654dfbc-5a4f-4521-8013-95c5fd548efb@a654.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230911T091500Z
-LOCATION:24-314
-DTSTART:20230911T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:73fa7614-407e-485c-be02-9e8f0cae4fab@73fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231211T131500Z
-LOCATION:3-413
-DTSTART:20231211T114500Z
-SUMMARY:ЛК Политика командной работы
-UID:1a9e35ca-47eb-4988-a31f-7c66c5d2acd6@1a9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231024T131500Z
-LOCATION:24-318А
-DTSTART:20231024T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:9741a73f-7a2e-4721-a09c-380293df3ad6@9741.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T131500Z
-LOCATION:--каф.
-DTSTART:20231123T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:75035ed8-7a8a-4f85-b3e0-313cc4e147f8@7503.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20230912T131500Z
-LOCATION:24-318А
-DTSTART:20230912T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:2c960598-de41-450e-9675-10c9a4baa8c6@2c96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231010T131500Z
-LOCATION:24-318А
-DTSTART:20231010T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:fb05fc9a-abaa-47e0-95e7-c259110beb2b@fb05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231017T073000Z
-LOCATION:24-314
-DTSTART:20231017T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:501669e7-2db2-4c2b-bcd8-497b8a25d01c@5016.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20230922T131500Z
-LOCATION:24-316Б
-DTSTART:20230922T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:9c20b1fb-99e0-4cc3-92a7-9943853fb726@9c20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231128T131500Z
-LOCATION:24-318А
-DTSTART:20231128T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:d6413b74-c13f-457d-8d78-bc6de8b18719@d641.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231023T073000Z
-LOCATION:24-314
-DTSTART:20231023T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:addf05c7-67a2-47e9-ad6b-bb95ca58dbc0@addf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231003T073000Z
-LOCATION:24-314
-DTSTART:20231003T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:6445dbaf-c86f-4b2c-a8d1-dc024126e0ec@6445.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231107T091500Z
-LOCATION:24-314
-DTSTART:20231107T074500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:32d5ff8f-0fce-497c-8bfd-c163f7a81338@32d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T091500Z
-LOCATION:--каф.
-DTSTART:20230921T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:c1bd9f85-d8ef-4672-9593-01fbb4d61fd9@c1bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T091500Z
-LOCATION:--каф.
-DTSTART:20230914T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:3f9b32ae-1c3e-41bd-8b38-b070bb2b0ba2@3f9b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T113000Z
-LOCATION:--каф.
-DTSTART:20231116T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:d960c375-85ea-4d21-afbb-c25fc249a5b1@d960.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20230911T131500Z
-LOCATION:3-413
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Политика командной работы
-UID:dc120236-009a-41f0-877b-78f1ec4e493b@dc12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231205T073000Z
-LOCATION:24-314
-DTSTART:20231205T060000Z
-SUMMARY:ПЗ УИРС
-UID:8a0da902-bd73-446a-9491-acc91ab62131@8a0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231218T131500Z
-LOCATION:3-413
-DTSTART:20231218T114500Z
-SUMMARY:ПЗ Политика командной работы
-UID:5a5558ff-57fb-4f26-9d1c-50949dfa569c@5a55.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T131500Z
-LOCATION:--каф.
-DTSTART:20231116T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:790a1074-3dbe-48a1-94d0-73e25ee89a21@790a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20230918T131500Z
-LOCATION:3-413
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Политика командной работы
-UID:5f43628e-e13a-4d95-882f-6c248d301a9c@5f43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231121T113000Z
-LOCATION:24-318А
-DTSTART:20231121T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:b82067ba-8fc2-47aa-903a-b64f9776b009@b820.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231103T091500Z
-LOCATION:24-709
-DTSTART:20231103T074500Z
-SUMMARY:ЛК Технология системного моделирования
-UID:e2898385-ad0a-4fb1-8761-974e56c9ae5c@e289.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231003T113000Z
-LOCATION:24-318А
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:d8251add-d0fe-4bb1-b07b-89f3ed05f58f@d825.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231003T131500Z
-LOCATION:24-318А
-DTSTART:20231003T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:228a2426-3e06-413e-952a-b7970ed28119@228a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231031T131500Z
-LOCATION:24-318А
-DTSTART:20231031T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:afa67e47-0974-4ba3-bd7a-21cd9731f033@afa6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T113000Z
-LOCATION:--каф.
-DTSTART:20230907T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:50e94eb1-1151-4610-bfce-248796184310@50e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231222T131500Z
-LOCATION:24-316Б
-DTSTART:20231222T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:b190bfcb-fc59-4521-994c-cf4fa5265a23@b190.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230922T073000Z
-LOCATION:24-709
-DTSTART:20230922T060000Z
-SUMMARY:ЛК Технология системного моделирования
-UID:bdfc368e-c6d8-4e90-a4fb-a78ba18cd039@bdfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231027T113000Z
-LOCATION:24-316Б
-DTSTART:20231027T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:dab571ce-db44-4d7c-8a90-8a2ea3a2a040@dab5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231201T131500Z
-LOCATION:24-316Б
-DTSTART:20231201T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:31a239f2-e535-4d13-90eb-6f9735420cdb@31a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231218T073000Z
-LOCATION:24-314
-DTSTART:20231218T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:29cd11b3-4326-4aff-bbf4-1a59eb131398@29cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231109T073000Z
-LOCATION:--каф.
-DTSTART:20231109T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:e7aeb039-bdd0-4264-a126-15350064d6a9@e7ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230908T091500Z
-LOCATION:24-709
-DTSTART:20230908T074500Z
-SUMMARY:ЛК Технология системного моделирования
-UID:507e7a16-0fa7-4b3c-826a-51a9a9bff8fd@507e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231027T073000Z
-LOCATION:24-316Б
-DTSTART:20231027T060000Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:35f61863-91f5-483e-b0da-d5621d4257ad@35f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231113T091500Z
-LOCATION:24-314
-DTSTART:20231113T074500Z
-SUMMARY:ПЗ Вычислительные машины\, системы и сети
-UID:62317fbd-bfc1-44db-bbbe-057b1eb7b8af@6231.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231222T113000Z
-LOCATION:24-316Б
-DTSTART:20231222T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:899845da-9248-4973-b48a-e278dc213ba3@8998.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231103T113000Z
-LOCATION:24-316Б
-DTSTART:20231103T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:ea704b36-4318-4f24-9540-b205a4113626@ea70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20230905T113000Z
-LOCATION:24-318А
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:f83061bb-7490-49c8-bc7d-7d05618a3a27@f830.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20230925T131500Z
-LOCATION:3-413
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Политика командной работы
-UID:faf76acd-06f7-4785-a1b0-493b610a1ec8@faf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231024T073000Z
-LOCATION:24-314
-DTSTART:20231024T060000Z
-SUMMARY:ПЗ УИРС
-UID:1f6f5720-1808-44ee-8f7a-e6f930e76a24@1f6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231226T131500Z
-LOCATION:24-318А
-DTSTART:20231226T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:c5fda1b6-8244-4b1b-a8e8-3da108a27bb1@c5fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231010T073000Z
-LOCATION:24-314
-DTSTART:20231010T060000Z
-SUMMARY:ПЗ УИРС
-UID:20927e40-0ac9-49b2-bdfe-e73c182ed605@2092.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231030T091500Z
-LOCATION:24-314
-DTSTART:20231030T074500Z
-SUMMARY:ПЗ Вычислительные машины\, системы и сети
-UID:7e621287-1c19-4b11-9540-d015baade053@7e62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231110T131500Z
-LOCATION:24-316Б
-DTSTART:20231110T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:e3bde2ae-24ed-4a63-a6d7-1cb38a97e087@e3bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231212T113000Z
-LOCATION:24-318А
-DTSTART:20231212T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:ec7990d8-2f86-4e2d-b024-7d974b1d732b@ec79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231023T113000Z
-LOCATION:3-115
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:ebdba1fa-6f4f-42fc-a373-e1f4ac477594@ebdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231204T131500Z
-LOCATION:3-413
-DTSTART:20231204T114500Z
-SUMMARY:ПЗ Политика командной работы
-UID:efdbc1ef-56ac-4da6-8422-6880593b630c@efdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231002T073000Z
-LOCATION:24-314
-DTSTART:20231002T060000Z
-SUMMARY:ЛК Вычислительные машины\, системы и сети
-UID:9b405670-fe01-4a8a-ad17-59cbc957b898@9b40.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T091500Z
-LOCATION:--каф.
-DTSTART:20231123T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:0bf43386-473b-4408-933b-e1dcc30c4e92@0bf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231226T073000Z
-LOCATION:24-314
-DTSTART:20231226T060000Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:01fa1ecc-9f83-4c20-9bde-394ba9a22848@01fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230929T073000Z
-LOCATION:24-316Б
-DTSTART:20230929T060000Z
-SUMMARY:ЛР Технология системного моделирования
-UID:2fda70fe-fe7a-4942-bb72-0d3cf3dcb92e@2fda.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T073000Z
-LOCATION:--каф.
-DTSTART:20230928T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:97341032-cf19-4bdc-928f-1d57aba280d8@9734.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231002T131500Z
-LOCATION:3-413
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Политика командной работы
-UID:08014626-a07f-4b8f-a2e1-87431e242e0b@0801.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231006T091500Z
-LOCATION:24-709
-DTSTART:20231006T074500Z
-SUMMARY:ЛК Технология системного моделирования
-UID:f1bede50-d8f7-43cb-b151-6d51d98b7ee0@f1be.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T113000Z
-LOCATION:--каф.
-DTSTART:20231005T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:5eb9098d-7241-4f6f-8e94-5a19d2934589@5eb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231208T131500Z
-LOCATION:24-316Б
-DTSTART:20231208T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:4c8b0908-4dc8-48f8-83ed-2d5b01895de7@4c8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230918T073000Z
-LOCATION:24-314
-DTSTART:20230918T060000Z
-SUMMARY:ЛК Вычислительные машины\, системы и сети
-UID:9e52d949-1dbd-42fa-ba62-9acefc40fe61@9e52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231031T091500Z
-LOCATION:24-314
-DTSTART:20231031T074500Z
-SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
-UID:5d6ab425-2a09-4048-b465-401d18090242@5d6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230911T113000Z
-LOCATION:3-115
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:e6cb40ac-ff28-4d40-83a5-85fba355c25b@e6cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231010T091500Z
-LOCATION:24-314
-DTSTART:20231010T074500Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:3e55c22a-797a-4366-bf6c-c467b293c1e3@3e55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231114T073000Z
-LOCATION:24-314
-DTSTART:20231114T060000Z
-SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
-UID:cd4e71e0-a262-41b3-905d-71132ca84c3b@cd4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230918T113000Z
-LOCATION:3-115
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:cf98ea2d-f67a-4909-aceb-8e38606bdd79@cf98.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231005T131500Z
-LOCATION:--каф.
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:fba242fe-4ec8-42e9-8425-5d5517179db2@fba2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231208T073000Z
-LOCATION:24-316Б
-DTSTART:20231208T060000Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:22498de8-3bc2-4ea6-93e0-6e8d96d08788@2249.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231127T113000Z
-LOCATION:3-115
-DTSTART:20231127T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:f7d8ca45-9619-40db-9d53-305dd0c99645@f7d8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T073000Z
-LOCATION:--каф.
-DTSTART:20230914T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:9038fa28-5aca-48fa-9156-beeb46349b5e@9038.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231009T131500Z
-LOCATION:3-413
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Политика командной работы
-UID:2737df1b-2c19-44d3-91a5-7ba239eaf4c9@2737.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T131500Z
-LOCATION:--каф.
-DTSTART:20231012T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:77b1116e-c7bb-4695-b86c-8abdb0fe4bf9@77b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231016T073000Z
-LOCATION:24-314
-DTSTART:20231016T060000Z
-SUMMARY:ЛК Вычислительные машины\, системы и сети
-UID:5102cedc-8e5f-4970-a33e-c1f9c1279065@5102.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T073000Z
-LOCATION:--каф.
-DTSTART:20231026T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:a62a3e01-d0e4-4280-a305-78275781e5fa@a62a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T073000Z
-LOCATION:--каф.
-DTSTART:20230907T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:86f5d3d7-6110-43c1-bb4f-8933fb5ae6d0@86f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231201T113000Z
-LOCATION:24-316Б
-DTSTART:20231201T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:5f452211-5704-4b7e-ba9b-2c97ac4684cb@5f45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231215T131500Z
-LOCATION:24-316Б
-DTSTART:20231215T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:6acc4eea-76aa-44d0-aa9f-8970421b207f@6acc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230925T091500Z
-LOCATION:24-314
-DTSTART:20230925T074500Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:e7498d53-f037-4fe1-a963-603ba1bce7b9@e749.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231120T113000Z
-LOCATION:3-115
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:a806c1ec-f0c3-47af-a0d7-f146e027a145@a806.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231117T073000Z
-LOCATION:24-709
-DTSTART:20231117T060000Z
-SUMMARY:ЛК Технология системного моделирования
-UID:5e1ad138-d994-4d1b-832c-71145ed30e50@5e1a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T131500Z
-LOCATION:--каф.
-DTSTART:20231130T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:c0bafec4-1c16-4c87-867f-015bd8bcdffc@c0ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231013T091500Z
-LOCATION:24-316Б
-DTSTART:20231013T074500Z
-SUMMARY:ЛР Технология системного моделирования
-UID:04491321-d95b-44b0-9da5-0e01c01f8b46@0449.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20230912T091500Z
-LOCATION:24-314
-DTSTART:20230912T074500Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:58319d98-d8f3-4bc8-a8d7-f4e1b546f4dc@5831.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231212T091500Z
-LOCATION:24-314
-DTSTART:20231212T074500Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:df65bd04-d9f0-4280-86cb-21f2b5325c10@df65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231212T131500Z
-LOCATION:24-318А
-DTSTART:20231212T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:0d88c040-5013-44b8-9a6e-d7064d447dcf@0d88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231020T091500Z
-LOCATION:24-709
-DTSTART:20231020T074500Z
-SUMMARY:ЛК Технология системного моделирования
-UID:c3673c54-36dc-4134-83f8-f53bf112607d@c367.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231211T113000Z
-LOCATION:3-115
-DTSTART:20231211T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:92adc2ea-ab19-4fd6-b801-112375ebca2b@92ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231027T091500Z
-LOCATION:24-316Б
-DTSTART:20231027T074500Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:bee571a7-5bfc-441f-b871-9c3c5af284cc@bee5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231121T073000Z
-LOCATION:24-314
-DTSTART:20231121T060000Z
-SUMMARY:ПЗ УИРС
-UID:87d12cfb-5aff-4b58-af53-666ccbc41687@87d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230912T073000Z
-LOCATION:24-314
-DTSTART:20230912T060000Z
-SUMMARY:ПЗ УИРС
-UID:bdcd91ec-28f0-4f3f-aa79-80ad1a3e83f8@bdcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231128T113000Z
-LOCATION:24-318А
-DTSTART:20231128T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:2d54bb07-e36f-44fb-bebe-9311aa9cee27@2d54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230922T091500Z
-LOCATION:24-709
-DTSTART:20230922T074500Z
-SUMMARY:ЛК Технология системного моделирования
-UID:626f3e16-0963-4451-9149-463c47ca57d9@626f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230907T091500Z
-LOCATION:--каф.
-DTSTART:20230907T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:5c0a03bd-f623-470d-b02f-ba7dd031c7fd@5c0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20230929T131500Z
-LOCATION:24-316Б
-DTSTART:20230929T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:6f9beeb9-fa0c-424d-bce6-8c10bc05d976@6f9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231024T091500Z
-LOCATION:24-314
-DTSTART:20231024T074500Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:788d72c9-51c4-4970-8a1d-966e8bb412e3@788d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231024T113000Z
-LOCATION:24-318А
-DTSTART:20231024T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:bf692472-f102-449a-923d-96f23a574875@bf69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231211T091500Z
-LOCATION:24-314
-DTSTART:20231211T074500Z
-SUMMARY:ПЗ Вычислительные машины\, системы и сети
-UID:00926776-f81d-40bc-ab14-6017e025962c@0092.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20231113T131500Z
-LOCATION:3-413
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Политика командной работы
-UID:6fbc8274-5dc2-4424-bd15-425511a5ec14@6fbc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T113000Z
-LOCATION:--каф.
-DTSTART:20231228T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:de9ba37e-97b2-4b41-86a3-2792b8417bd6@de9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231120T073000Z
-LOCATION:24-314
-DTSTART:20231120T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:04b9b558-67af-410e-8e2c-15929558f2a3@04b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231201T091500Z
-LOCATION:24-709
-DTSTART:20231201T074500Z
-SUMMARY:ЛК Технология системного моделирования
-UID:1021ea56-335c-48ce-9c9d-6e00a43a1ff0@1021.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T131500Z
-LOCATION:--каф.
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:3555a186-e20c-453e-8346-69743d250a33@3555.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231002T113000Z
-LOCATION:3-115
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:fa519d91-9c80-4008-b2c2-3517403ed319@fa51.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T113000Z
-LOCATION:--каф.
-DTSTART:20230921T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:a52a5938-aaf4-4e8e-bacd-646b639b4087@a52a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231016T113000Z
-LOCATION:3-115
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:cc27bb2e-86e9-445c-8ac5-8389b4511c71@cc27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231107T073000Z
-LOCATION:24-314
-DTSTART:20231107T060000Z
-SUMMARY:ПЗ УИРС
-UID:f49113a5-c284-480b-9822-c9847675e61f@f491.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230928T113000Z
-LOCATION:--каф.
-DTSTART:20230928T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:da06d4e6-93d0-4b18-b669-d5412e2ea301@da06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231208T091500Z
-LOCATION:24-316Б
-DTSTART:20231208T074500Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:7997138c-8d0c-497d-bf25-c7ec8cf6740e@7997.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231013T073000Z
-LOCATION:24-316Б
-DTSTART:20231013T060000Z
-SUMMARY:ЛР Технология системного моделирования
-UID:5b421e07-d6b7-4357-b2c8-c63d6e01b4aa@5b42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231215T091500Z
-LOCATION:24-709
-DTSTART:20231215T074500Z
-SUMMARY:ЛК Технология системного моделирования
-UID:c88005ca-8790-4df7-99c9-82c156f8ac50@c880.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230911T073000Z
-LOCATION:24-314
-DTSTART:20230911T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:09026023-9e37-4e1d-993b-fd64ca162ed1@0902.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбаков Андрей Вячеславович
-DTEND:20230904T131500Z
-LOCATION:3-413
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Политика командной работы
-UID:3848081c-fff4-4b6f-a5e9-12c77ddd025f@3848.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231226T113000Z
-LOCATION:24-318А
-DTSTART:20231226T100000Z
-SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:10b8ff65-7343-4b8b-8b7d-4fe757756f60@10b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231130T091500Z
-LOCATION:--каф.
-DTSTART:20231130T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:21062ed5-cfd2-4d30-95cd-3a66f7b91f4a@2106.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231221T113000Z
-LOCATION:--каф.
-DTSTART:20231221T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:d4ceec2a-358d-49b3-9353-97ea000ae644@d4ce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T091500Z
-LOCATION:--каф.
-DTSTART:20231026T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:14e6e46f-f0ef-4b36-9bf5-1e475724af4e@14e6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231123T113000Z
-LOCATION:--каф.
-DTSTART:20231123T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:fc0e30b5-1142-4334-beee-eb515392d2f5@fc0e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231012T113000Z
-LOCATION:--каф.
-DTSTART:20231012T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:2ce1e1ee-a0c8-4a31-8b8e-6e86798c14ee@2ce1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231204T113000Z
-LOCATION:3-115
-DTSTART:20231204T100000Z
-SUMMARY:ЛК Надежность аэрокосмических систем
-UID:8ddd0d15-bbcf-45ee-83ca-6ee1612e449e@8ddd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231031T073000Z
-LOCATION:24-314
-DTSTART:20231031T060000Z
-SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
-UID:8d04fc92-d5b1-43e6-b659-38ab24174ea0@8d04.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T131500Z
-LOCATION:--каф.
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:582e5698-e8ef-4537-9470-7027e1fbeb87@582e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231027T131500Z
-LOCATION:24-316Б
-DTSTART:20231027T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:74febc94-e149-47d7-a712-d354183eef61@74fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230914T131500Z
-LOCATION:--каф.
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:058938ee-1b1d-4877-a95a-cc46e15a07c3@0589.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231116T073000Z
-LOCATION:--каф.
-DTSTART:20231116T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:9a51a2b0-e99e-430d-8455-f8270ec57459@9a51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20230915T073000Z
-LOCATION:24-316Б
-DTSTART:20230915T060000Z
-SUMMARY:ЛР Технология системного моделирования
-UID:eaddcf5f-df0f-4195-b758-3f69dfa85996@eadd.org
+UID:a6ef892f-f7f1-4503-88f5-f83455ec692f@a6ef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шмигирилов Сергей Юрьевич
@@ -1814,221 +14,60 @@ DTEND:20230901T073000Z
 LOCATION:24-316Б
 DTSTART:20230901T060000Z
 SUMMARY:ЛР Технология системного моделирования
-UID:3a8ae29b-ca09-43b6-8de1-deae62cf6190@3a8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231009T073000Z
-LOCATION:24-314
-DTSTART:20231009T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:a3c80950-b58d-4b68-9942-5b947c94e128@a3c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230921T073000Z
-LOCATION:--каф.
-DTSTART:20230921T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:39d16660-0a61-48b3-81c9-e9fdd358fa25@39d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231017T091500Z
-LOCATION:24-314
-DTSTART:20231017T074500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:bb4bd108-64da-4bf8-83a4-123ed7a9c9b5@bb4b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T091500Z
-LOCATION:--каф.
-DTSTART:20231207T074500Z
-SUMMARY:ЛК Военная подготовка
-UID:4e47495f-07f1-4ecc-a089-e45be008de2a@4e47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20231225T073000Z
-LOCATION:24-314
-DTSTART:20231225T060000Z
-SUMMARY:ЛК Вычислительные машины\, системы и сети
-UID:6bd62a7e-bc33-4b87-89dd-27a393fa195c@6bd6.org
+UID:fa585a8b-a074-41c0-9761-20f3cdeba865@fa58.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231207T113000Z
 LOCATION:--каф.
 DTSTART:20231207T100000Z
 SUMMARY:ЛК Военная подготовка
-UID:6bcccaaa-8fcc-4aeb-a5f1-f92b55558325@6bcc.org
+UID:3c85e838-fb2f-4d3b-a8b8-dbf43442b956@3c85.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231005T073000Z
+DTEND:20230907T113000Z
 LOCATION:--каф.
-DTSTART:20231005T060000Z
+DTSTART:20230907T100000Z
 SUMMARY:ЛК Военная подготовка
-UID:51474fd8-f00f-463d-a95c-1f0726a58c78@5147.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231107T131500Z
-LOCATION:24-318А
-DTSTART:20231107T114500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:1b4fc223-0ac7-408b-b700-12c868f64a14@1b4f.org
+UID:2a4fa3cb-3879-45fa-9e0e-fd80b78c16b4@2a4f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231124T091500Z
+DTEND:20230901T091500Z
 LOCATION:24-316Б
-DTSTART:20231124T074500Z
-SUMMARY:ЛР Надежность аэрокосмических систем
-UID:5f28fd08-100e-4812-93bc-8fd4a2e6b034@5f28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20230915T131500Z
-LOCATION:24-316Б
-DTSTART:20230915T114500Z
-SUMMARY:ПЗ Исследование операций в организационно-технических системах
-UID:9a60e952-95e2-47c7-8655-33a0749d5d49@9a60.org
+DTSTART:20230901T074500Z
+SUMMARY:ЛР Технология системного моделирования
+UID:e9f33aa5-799c-4b9e-b59c-7385fe9d1592@e9f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Старков Александр Владимирович
-DTEND:20231127T073000Z
+DTEND:20231030T091500Z
 LOCATION:24-314
-DTSTART:20231127T060000Z
-SUMMARY:ЛК Вычислительные машины\, системы и сети
-UID:d155e268-7db2-48f2-b631-8300536de1f2@d155.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231215T113000Z
-LOCATION:24-316Б
-DTSTART:20231215T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:111c20fd-2db2-4ec1-8e54-33d6d94106d6@111c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231228T073000Z
-LOCATION:--каф.
-DTSTART:20231228T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:8d737bc2-c29c-4894-a87b-99a3ea0cca54@8d73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Старков Александр Владимирович
-DTEND:20230904T091500Z
-LOCATION:24-314
-DTSTART:20230904T074500Z
+DTSTART:20231030T074500Z
 SUMMARY:ПЗ Вычислительные машины\, системы и сети
-UID:a1eef023-5fe3-4223-b7b3-24d0e04201a0@a1ee.org
+UID:eb84f3d3-f134-4447-a545-28d5d2b253de@eb84.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231221T091500Z
+DTEND:20231130T131500Z
 LOCATION:--каф.
-DTSTART:20231221T074500Z
+DTSTART:20231130T114500Z
 SUMMARY:ЛК Военная подготовка
-UID:61c5d511-3f89-4d92-9b46-015052332485@61c5.org
+UID:c559564e-43ec-404a-81bc-4e3b6f2a539e@c559.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231109T131500Z
-LOCATION:--каф.
-DTSTART:20231109T114500Z
-SUMMARY:ЛК Военная подготовка
-UID:f19e4dcc-88d8-4dc9-ac29-ea92e4200ea2@f19e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231019T073000Z
-LOCATION:--каф.
-DTSTART:20231019T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:d1cde517-fbd3-4ad9-8d32-ab907a19c0c4@d1cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231226T091500Z
-LOCATION:24-314
-DTSTART:20231226T074500Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:d993e514-55de-442e-a13b-7a205d16dcb5@d993.org
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20230925T131500Z
+LOCATION:3-413
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Политика командной работы
+UID:492548d5-d5c9-4143-a51e-c8e960e912c5@4925.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231023T091500Z
+DTEND:20231218T091500Z
 LOCATION:24-314
-DTSTART:20231023T074500Z
+DTSTART:20231218T074500Z
 SUMMARY:ЛК Надежность аэрокосмических систем
-UID:dc2f6453-9ed3-4351-af6f-8dca45789c8f@dc2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Федоров Александр Викторович
-DTEND:20231121T091500Z
-LOCATION:24-314
-DTSTART:20231121T074500Z
-SUMMARY:ПЗ Оптимизация организационно-технических систем
-UID:2fe7e2fb-72f9-489d-9695-f97139420830@2fe7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230905T091500Z
-LOCATION:24-314
-DTSTART:20230905T074500Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:c9252ef5-8800-49d4-ab2c-83f53caf214a@c925.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20230915T113000Z
-LOCATION:24-316Б
-DTSTART:20230915T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:75a85b43-a998-4472-8552-fb4bdef2564f@75a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231208T113000Z
-LOCATION:24-316Б
-DTSTART:20231208T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:9c9acb07-0005-4fe3-8c0f-11ab7929f637@9c9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20230925T073000Z
-LOCATION:24-314
-DTSTART:20230925T060000Z
-SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
-UID:ea5d9764-5ea3-40b9-badb-60929f9b289f@ea5d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231207T073000Z
-LOCATION:--каф.
-DTSTART:20231207T060000Z
-SUMMARY:ЛК Военная подготовка
-UID:acf12b19-52bd-4790-8182-b8feb5c36421@acf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дьячук Анна Константиновна
-DTEND:20231006T113000Z
-LOCATION:24-316Б
-DTSTART:20231006T100000Z
-SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:368ac9ff-a28e-43ba-bf1a-879941e30c0f@368a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231026T113000Z
-LOCATION:--каф.
-DTSTART:20231026T100000Z
-SUMMARY:ЛК Военная подготовка
-UID:882f16da-b72d-4043-865b-6e8ca32670e3@882f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пельтихин Александр Васильевич
-DTEND:20231128T073000Z
-LOCATION:24-314
-DTSTART:20231128T060000Z
-SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
-UID:7aa59bcb-0bee-40b0-b254-b7aa2b6fd402@7aa5.org
+UID:b4c2870a-bdc2-4023-aba2-da8187bddef2@b4c2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Федоров Александр Викторович
@@ -2036,22 +75,45 @@ DTEND:20231205T113000Z
 LOCATION:24-318А
 DTSTART:20231205T100000Z
 SUMMARY:ЛК Оптимизация организационно-технических систем
-UID:86b05622-0e7e-4ba5-81a2-db0bce7632ff@86b0.org
+UID:56c07c4c-bf0a-4ac4-b484-b02e366664e2@56c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231031T131500Z
+LOCATION:24-318А
+DTSTART:20231031T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:c14dac2b-9ea9-42c5-9d5b-31e253f82233@c14d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T073000Z
+LOCATION:--каф.
+DTSTART:20231005T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:9fccf1f6-fefd-474e-a8cf-92238ed9405e@9fcc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шмигирилов Сергей Юрьевич
-DTEND:20231106T091500Z
+DTEND:20231204T091500Z
 LOCATION:24-314
-DTSTART:20231106T074500Z
+DTSTART:20231204T074500Z
 SUMMARY:ЛК Надежность аэрокосмических систем
-UID:d674cb03-a8ea-44b2-841c-1e01d01b639f@d674.org
+UID:3a20779a-e9da-4dc4-9952-43dd95f71dc3@3a20.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231012T091500Z
+DTEND:20231221T073000Z
 LOCATION:--каф.
-DTSTART:20231012T074500Z
+DTSTART:20231221T060000Z
 SUMMARY:ЛК Военная подготовка
-UID:ed1a9598-1b24-424b-a54e-c942d6536f9d@ed1a.org
+UID:ad11c512-2558-4ca4-9ed5-ed5ba4ac0fcd@ad11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231208T113000Z
+LOCATION:24-316Б
+DTSTART:20231208T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:9f5abe83-6d02-46c2-9077-40b4e402ff8a@9f5a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Шмигирилов Сергей Юрьевич
@@ -2059,7 +121,830 @@ DTEND:20231225T113000Z
 LOCATION:3-115
 DTSTART:20231225T100000Z
 SUMMARY:ЛК Надежность аэрокосмических систем
-UID:765dedba-9d14-4806-8549-949b5fa08f19@765d.org
+UID:9145680a-4f23-46cf-9d3b-39c9bfb166d5@9145.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231127T073000Z
+LOCATION:24-314
+DTSTART:20231127T060000Z
+SUMMARY:ЛК Вычислительные машины\, системы и сети
+UID:3af23a19-465c-4205-8979-c9a8f317c301@3af2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231103T131500Z
+LOCATION:24-316Б
+DTSTART:20231103T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:861c077b-d36d-423b-b81f-82b72df8de68@861c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231107T113000Z
+LOCATION:24-318А
+DTSTART:20231107T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:0ed1acf5-4aec-45c7-b910-eddfff9deaa3@0ed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231201T131500Z
+LOCATION:24-316Б
+DTSTART:20231201T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:f3eb2b1a-0ebf-4334-b7f8-c27d7ac4460c@f3eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T091500Z
+LOCATION:--каф.
+DTSTART:20231207T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:1c93fa11-8b4d-45a0-8672-dbfeee0ef3fb@1c93.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T091500Z
+LOCATION:--каф.
+DTSTART:20231012T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:76fff391-5108-4f51-bae7-bf3c32b715ce@76ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231106T091500Z
+LOCATION:24-314
+DTSTART:20231106T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:951c40c9-02f2-43c1-aad9-707566b97b8f@951c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231003T073000Z
+LOCATION:24-314
+DTSTART:20231003T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:5a4ca58b-03e1-44f9-841a-a922b16f3f64@5a4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20230929T113000Z
+LOCATION:24-316Б
+DTSTART:20230929T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:8bf7efa7-d7e7-410f-87f5-eef41e222b1b@8bf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230911T091500Z
+LOCATION:24-314
+DTSTART:20230911T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:94727ecd-ba3e-49ae-8cf3-bffc78fa614f@9472.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20230911T131500Z
+LOCATION:3-413
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Политика командной работы
+UID:50eadc85-181a-4247-9f46-b05ba69aef53@50ea.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T113000Z
+LOCATION:--каф.
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:32adb279-cdf4-4062-a1c7-ad17a880847c@32ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20230926T131500Z
+LOCATION:24-318А
+DTSTART:20230926T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:85ebdcb6-2938-4112-acac-28e51e9dbd51@85eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T113000Z
+LOCATION:--каф.
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:3d9ed040-0659-4c26-8555-3cfdbe894287@3d9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T073000Z
+LOCATION:--каф.
+DTSTART:20231012T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:92a211df-5b76-460f-8338-dc24e80a6406@92a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T091500Z
+LOCATION:--каф.
+DTSTART:20231228T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:423d3725-c66d-47fb-a4cd-7811db04f6b5@423d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231211T091500Z
+LOCATION:24-314
+DTSTART:20231211T074500Z
+SUMMARY:ПЗ Вычислительные машины\, системы и сети
+UID:603e1f4e-2bba-486e-8e97-2af17f53e26e@603e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231212T131500Z
+LOCATION:24-318А
+DTSTART:20231212T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:3bf60d11-99fc-4b34-9070-f2da79807799@3bf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231006T091500Z
+LOCATION:24-709
+DTSTART:20231006T074500Z
+SUMMARY:ЛК Технология системного моделирования
+UID:a6bb8207-b4bd-473a-abcb-2d3955d5e6eb@a6bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231002T091500Z
+LOCATION:24-314
+DTSTART:20231002T074500Z
+SUMMARY:ПЗ Вычислительные машины\, системы и сети
+UID:88bd213e-756e-4ee1-915a-e2644fc1d6d3@88bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231110T113000Z
+LOCATION:24-316Б
+DTSTART:20231110T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:4a2c13dd-c177-4300-89eb-4dd6f5572acd@4a2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231113T091500Z
+LOCATION:24-314
+DTSTART:20231113T074500Z
+SUMMARY:ПЗ Вычислительные машины\, системы и сети
+UID:c0816c3e-0322-409a-9b44-e69ee751ce4e@c081.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T131500Z
+LOCATION:--каф.
+DTSTART:20231207T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:64ea77b5-efc2-4d18-ba2c-aedc8c77a39f@64ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231114T131500Z
+LOCATION:24-318А
+DTSTART:20231114T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:ac3153b4-cf46-472e-b8a5-f3da972c129d@ac31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231204T073000Z
+LOCATION:24-314
+DTSTART:20231204T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:652617d4-3f57-4620-878e-c1bce13c1985@6526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231226T131500Z
+LOCATION:24-318А
+DTSTART:20231226T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:e8d07b51-5a90-40d0-8e07-52c73239f1d1@e8d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231031T073000Z
+LOCATION:24-314
+DTSTART:20231031T060000Z
+SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
+UID:c40ef13e-eed3-4a2c-8c24-19b91b29430d@c40e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T131500Z
+LOCATION:--каф.
+DTSTART:20231116T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:90442b4f-0d35-4fca-9f2c-135b362a4534@9044.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T073000Z
+LOCATION:--каф.
+DTSTART:20230921T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:dea86646-50bc-41b7-8778-93fa95c8d23f@dea8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T131500Z
+LOCATION:--каф.
+DTSTART:20231221T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:7b32798b-9eb7-4578-b2bc-9cf53666f36c@7b32.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T131500Z
+LOCATION:--каф.
+DTSTART:20231228T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:3948b18e-b312-47e5-95e3-995efc5253cb@3948.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230926T073000Z
+LOCATION:24-314
+DTSTART:20230926T060000Z
+SUMMARY:ПЗ УИРС
+UID:c3e58d12-3882-44f6-97ce-7d879391a884@c3e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20230929T131500Z
+LOCATION:24-316Б
+DTSTART:20230929T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:9ba714b9-2f22-4258-ae6f-ec4f5e58e7bc@9ba7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230925T073000Z
+LOCATION:24-314
+DTSTART:20230925T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:b68d8b01-6c69-4fca-91ce-ea46f52cd3bc@b68d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231114T113000Z
+LOCATION:24-318А
+DTSTART:20231114T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:1f4ceb1d-8a8e-45d9-90a2-52d1f7536379@1f4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231003T131500Z
+LOCATION:24-318А
+DTSTART:20231003T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:0d8d6859-146f-4045-a5f9-e0b8d7b5640e@0d8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231121T131500Z
+LOCATION:24-318А
+DTSTART:20231121T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:ed84b273-5621-4f35-a0d2-580fbf188343@ed84.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T131500Z
+LOCATION:--каф.
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:b3c58cd0-5211-4e78-b663-e49ff58b101e@b3c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231114T073000Z
+LOCATION:24-314
+DTSTART:20231114T060000Z
+SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
+UID:5c494964-9d8a-4e2e-92c5-5b2eaf9eab06@5c49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20230919T113000Z
+LOCATION:24-318А
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:0ecd792f-3346-40a6-bb9a-53169c0cb058@0ecd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231017T091500Z
+LOCATION:24-314
+DTSTART:20231017T074500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:bc258e72-6916-40e5-a041-26bbaae08cf0@bc25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231212T091500Z
+LOCATION:24-314
+DTSTART:20231212T074500Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:389fd62b-acaa-4a11-b2e8-d5f9702f3074@389f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231106T131500Z
+LOCATION:3-413
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Политика командной работы
+UID:fab48eec-ad01-4469-adb5-c5cab0e68772@fab4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T113000Z
+LOCATION:--каф.
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:e32a552f-68e1-4f99-ab3d-09621ab74a7a@e32a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T091500Z
+LOCATION:--каф.
+DTSTART:20231130T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:ab0fb378-e86d-4ab4-b703-af056644b693@ab0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230905T091500Z
+LOCATION:24-314
+DTSTART:20230905T074500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:ede97f38-8cdb-4b20-ae10-c5cf58c41cc1@ede9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T073000Z
+LOCATION:--каф.
+DTSTART:20231019T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:d61be667-c516-4f77-98e0-eca28edf9358@d61b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231016T113000Z
+LOCATION:3-115
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:83e9fb7e-4d65-49c6-89a6-29fe621b2143@83e9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T073000Z
+LOCATION:--каф.
+DTSTART:20231116T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:cf6cc31d-34fa-4470-a170-cf36da474656@cf6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231117T091500Z
+LOCATION:24-709
+DTSTART:20231117T074500Z
+SUMMARY:ЛК Технология системного моделирования
+UID:8176f715-06bf-4b49-b1b3-1746f36d7f44@8176.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231225T073000Z
+LOCATION:24-314
+DTSTART:20231225T060000Z
+SUMMARY:ЛК Вычислительные машины\, системы и сети
+UID:85de0179-5f90-45ef-9903-c9e8a5dbfef3@85de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231009T091500Z
+LOCATION:24-314
+DTSTART:20231009T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:db2085fc-8048-43e0-ae44-8bbc56ba0e3a@db20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231020T113000Z
+LOCATION:24-316Б
+DTSTART:20231020T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:e1196676-42dc-41a0-a4cd-4be591fdb132@e119.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231114T091500Z
+LOCATION:24-314
+DTSTART:20231114T074500Z
+SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
+UID:b5c0c8d0-4691-4e66-b1f9-921d558ae434@b5c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230904T073000Z
+LOCATION:24-314
+DTSTART:20230904T060000Z
+SUMMARY:ЛК Вычислительные машины\, системы и сети
+UID:cec3981a-c4c9-41f2-8893-3c17bec059a7@cec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231215T113000Z
+LOCATION:24-316Б
+DTSTART:20231215T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:8e5b0278-3cf4-4384-8fc6-1ad4274d0cd6@8e5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T073000Z
+LOCATION:--каф.
+DTSTART:20230928T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:e9643b21-d398-45c5-9d0d-6c70388101b1@e964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20230908T131500Z
+LOCATION:24-316Б
+DTSTART:20230908T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:5a0a0efa-47e3-433f-8253-362cf8c4a285@5a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20230926T113000Z
+LOCATION:24-318А
+DTSTART:20230926T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:0b411013-e87e-4eea-8781-d41736753afb@0b41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230925T091500Z
+LOCATION:24-314
+DTSTART:20230925T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:c0f77e59-e0f7-41f1-8417-48ce5d308be8@c0f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231128T091500Z
+LOCATION:24-314
+DTSTART:20231128T074500Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:3e4ab163-87d6-4d00-a1d0-ac2127e1d6fd@3e4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20230905T113000Z
+LOCATION:24-318А
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:b5e770e5-a5dd-4ed2-841f-2df1f3bb311e@b5e7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T131500Z
+LOCATION:--каф.
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:5faceae8-c3cd-4aa6-9e28-c176d28894fb@5fac.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T113000Z
+LOCATION:--каф.
+DTSTART:20231221T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:ea38b2d1-64a4-4a8d-9924-5e41f056ae87@ea38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231010T073000Z
+LOCATION:24-314
+DTSTART:20231010T060000Z
+SUMMARY:ПЗ УИРС
+UID:239f5c3e-d32a-4f8d-a6e8-509310fa138b@239f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20230922T131500Z
+LOCATION:24-316Б
+DTSTART:20230922T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:66a23b96-74b4-4e9d-99d9-d8eeb9f33e9c@66a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231208T073000Z
+LOCATION:24-316Б
+DTSTART:20231208T060000Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:5d80830d-2839-4f51-8eaa-8eb8bfbac179@5d80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20230912T091500Z
+LOCATION:24-314
+DTSTART:20230912T074500Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:6e5bb000-8b70-4034-b6c3-cd88e0b23e9a@6e5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231110T091500Z
+LOCATION:24-316Б
+DTSTART:20231110T074500Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:5a90127a-da1a-42d2-ad33-2d8a40eb22be@5a90.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T113000Z
+LOCATION:--каф.
+DTSTART:20231123T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:786d7a8b-0563-4c38-88ac-4a7fc95f39c5@786d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T113000Z
+LOCATION:--каф.
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:ed3dd9ec-5179-484d-aac3-216bf9c069c6@ed3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231020T131500Z
+LOCATION:24-316Б
+DTSTART:20231020T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:891cea66-d348-4573-b85b-e7ee2ba799d0@891c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T091500Z
+LOCATION:--каф.
+DTSTART:20231214T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:8b34aa7e-89d4-4fe0-b60f-148976e5746e@8b34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231110T131500Z
+LOCATION:24-316Б
+DTSTART:20231110T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:08b435c4-d265-4415-91a2-b4ef33a53b45@08b4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T091500Z
+LOCATION:--каф.
+DTSTART:20230907T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:124a35d2-8eb2-47ea-a8ef-77dfc2bd6ecc@124a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231006T131500Z
+LOCATION:24-316Б
+DTSTART:20231006T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:7eebfecd-f999-4a13-af22-e594f50e3163@7eeb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T131500Z
+LOCATION:--каф.
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:55177e8d-3905-46ad-9226-00244f038475@5517.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T073000Z
+LOCATION:--каф.
+DTSTART:20231214T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:00e79aa7-6b4f-4438-aca2-24fb6f6ce5da@00e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231009T113000Z
+LOCATION:3-115
+DTSTART:20231009T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:f41da1e2-46bd-4f5a-921e-259af1b8c8ae@f41d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231024T091500Z
+LOCATION:24-314
+DTSTART:20231024T074500Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:a4851218-c370-4d80-8ee7-a5864b29a9ef@a485.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231023T131500Z
+LOCATION:3-413
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Политика командной работы
+UID:879dace5-a171-462c-99f2-2b5248f7a5b2@879d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T113000Z
+LOCATION:--каф.
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:f6d20aaa-9e95-44bb-8f9c-f6274ac43a9f@f6d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231127T131500Z
+LOCATION:3-413
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Политика командной работы
+UID:de355040-cf64-4aad-82f8-ac6a3c536738@de35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231226T091500Z
+LOCATION:24-314
+DTSTART:20231226T074500Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:b3de0ec4-7fab-47e2-a08b-131776e8271c@b3de.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T131500Z
+LOCATION:--каф.
+DTSTART:20231012T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:0da0c94e-2874-422f-86c0-085ccf7a3fde@0da0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T131500Z
+LOCATION:--каф.
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:d6e35a25-fec8-44ee-a4bf-e360a78d447d@d6e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231031T091500Z
+LOCATION:24-314
+DTSTART:20231031T074500Z
+SUMMARY:ПЗ Методы экспериментальных исследований аэрокосмических систем
+UID:827fa963-9da9-4e08-a09d-8b2738ddd61d@827f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231013T113000Z
+LOCATION:24-316Б
+DTSTART:20231013T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:f33e3941-2b94-4fc8-a7a2-904528fd8882@f33e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T131500Z
+LOCATION:--каф.
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:4e4306cc-4b85-4349-a47c-b0914f439cbc@4e43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231128T113000Z
+LOCATION:24-318А
+DTSTART:20231128T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:aa5b73b8-743a-43c1-8c47-3d030cad5ae5@aa5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231225T131500Z
+LOCATION:3-413
+DTSTART:20231225T114500Z
+SUMMARY:ЛК Политика командной работы
+UID:ceeb51d7-4ba3-4c01-818e-0468acd99042@ceeb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T131500Z
+LOCATION:--каф.
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:75b746ea-1fd8-44d9-b5c2-0cb05281bcfc@75b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231128T131500Z
+LOCATION:24-318А
+DTSTART:20231128T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:b8d3ce60-a2e0-47b8-87bf-5d454a85082f@b8d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231013T091500Z
+LOCATION:24-316Б
+DTSTART:20231013T074500Z
+SUMMARY:ЛР Технология системного моделирования
+UID:7e424958-ef0a-4170-a140-cf5fa0b18386@7e42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231121T091500Z
+LOCATION:24-314
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:c1c74a37-3eb9-407e-9c69-e744c915a058@c1c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230919T091500Z
+LOCATION:24-314
+DTSTART:20230919T074500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:efd24ed5-ac94-4260-b7ce-28f4c5fe1b48@efd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231215T131500Z
+LOCATION:24-316Б
+DTSTART:20231215T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:90e16ec2-075a-4082-9c68-d0a6f77a175e@90e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231229T113000Z
+LOCATION:24-316Б
+DTSTART:20231229T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:23211497-dba8-4024-8aff-9eee8c2483ef@2321.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231207T073000Z
+LOCATION:--каф.
+DTSTART:20231207T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:e96cf967-3ec3-4a40-9d89-8ad349f083e6@e96c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231016T073000Z
+LOCATION:24-314
+DTSTART:20231016T060000Z
+SUMMARY:ЛК Вычислительные машины\, системы и сети
+UID:7b19d88e-5520-49ab-9b69-927cd86b4944@7b19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231030T113000Z
+LOCATION:3-115
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:be478e7a-9466-4050-9d78-5dfd9d4c6916@be47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230905T073000Z
+LOCATION:24-314
+DTSTART:20230905T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:6c980017-a9ce-459a-967e-c5284a7c356a@6c98.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231130T073000Z
+LOCATION:--каф.
+DTSTART:20231130T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:3d7e3b9a-d28e-4b88-9531-05cbe14c8bd6@3d7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231012T113000Z
+LOCATION:--каф.
+DTSTART:20231012T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:556cf23a-a7d7-4881-bf9e-e55aac005bf0@556c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230918T073000Z
+LOCATION:24-314
+DTSTART:20230918T060000Z
+SUMMARY:ЛК Вычислительные машины\, системы и сети
+UID:bca68aff-152a-4795-8fc5-853145786b67@bca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230915T091500Z
+LOCATION:24-316Б
+DTSTART:20230915T074500Z
+SUMMARY:ЛР Технология системного моделирования
+UID:5cd6dadb-8408-403b-b8e7-925ba03c2bb0@5cd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230904T091500Z
+LOCATION:24-314
+DTSTART:20230904T074500Z
+SUMMARY:ПЗ Вычислительные машины\, системы и сети
+UID:dfe00b38-87b6-43c5-b8ed-b7e01860d099@dfe0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дьячук Анна Константиновна
@@ -2067,7 +952,475 @@ DTEND:20230908T113000Z
 LOCATION:24-316Б
 DTSTART:20230908T100000Z
 SUMMARY:ЛК Исследование операций в организационно-технических системах
-UID:95d438a5-96f2-4fa2-ba3d-664a653c8da6@95d4.org
+UID:31ea9da6-f3b3-40b5-9022-ea3f23448ae0@31ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230918T091500Z
+LOCATION:24-314
+DTSTART:20230918T074500Z
+SUMMARY:ПЗ Вычислительные машины\, системы и сети
+UID:4ce7428d-7429-4fc9-98bf-47f91f202a3d@4ce7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20230926T091500Z
+LOCATION:24-314
+DTSTART:20230926T074500Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:25092873-8a9e-4885-b3c8-ecddc53a0c5c@2509.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T131500Z
+LOCATION:--каф.
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:5f737e2a-c5ae-4362-9df0-945d84c79d25@5f73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231027T091500Z
+LOCATION:24-316Б
+DTSTART:20231027T074500Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:0598b711-f7d1-4260-bd4e-4b4365de4121@0598.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231218T073000Z
+LOCATION:24-314
+DTSTART:20231218T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:1e5abdd8-5d5d-4613-aecb-e7ccadf9d0df@1e5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20230905T131500Z
+LOCATION:24-318А
+DTSTART:20230905T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:e79e41e5-f942-4350-a69f-d27b741376a8@e79e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T073000Z
+LOCATION:--каф.
+DTSTART:20230914T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:2d5e8bb1-1d5e-40dc-b966-ce4356bd9e35@2d5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231120T073000Z
+LOCATION:24-314
+DTSTART:20231120T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:85ee678b-69ae-4bfa-b694-d0bf332c0df2@85ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231211T073000Z
+LOCATION:24-314
+DTSTART:20231211T060000Z
+SUMMARY:ЛК Вычислительные машины\, системы и сети
+UID:ea71ee8c-a0d2-4e65-8c97-41c7b32ecba0@ea71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231002T113000Z
+LOCATION:3-115
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:8ff0a541-83c6-43c6-ba80-eb55c6f42ce4@8ff0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T073000Z
+LOCATION:--каф.
+DTSTART:20231123T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:7da03b2b-5af3-4ad3-b561-c728099c31b5@7da0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T073000Z
+LOCATION:--каф.
+DTSTART:20231102T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:ba96bd0f-48ed-4cf9-ba1d-0c81e2ebb0db@ba96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231009T131500Z
+LOCATION:3-413
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Политика командной работы
+UID:9970d53c-2a3b-44b2-b3bc-5059c2249987@9970.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231124T091500Z
+LOCATION:24-316Б
+DTSTART:20231124T074500Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:9703eb05-6747-4f37-b1ff-7b7b8537cca6@9703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20230901T131500Z
+LOCATION:24-316Б
+DTSTART:20230901T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:e0e04291-a8ec-48cd-b9f9-3851f19786cd@e0e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231106T113000Z
+LOCATION:3-115
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:4183a9ff-98d8-4c73-a585-ea2cdd8c51e1@4183.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230915T073000Z
+LOCATION:24-316Б
+DTSTART:20230915T060000Z
+SUMMARY:ЛР Технология системного моделирования
+UID:24aa888d-1d3a-4cc9-8a62-819f74e850d1@24aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230929T091500Z
+LOCATION:24-316Б
+DTSTART:20230929T074500Z
+SUMMARY:ЛР Технология системного моделирования
+UID:a14baddf-ed54-476b-b9be-94e5060a254b@a14b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231117T113000Z
+LOCATION:24-316Б
+DTSTART:20231117T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:5c6a6a32-0593-45c7-aec9-48e242312c72@5c6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231205T131500Z
+LOCATION:24-318А
+DTSTART:20231205T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:256ee0a0-bb60-4627-ab48-bb09c420aaa3@256e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231103T073000Z
+LOCATION:24-709
+DTSTART:20231103T060000Z
+SUMMARY:ЛК Технология системного моделирования
+UID:305a75cf-2cfe-4d57-8c20-0b1f5953fb9d@305a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231023T073000Z
+LOCATION:24-314
+DTSTART:20231023T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:245b570e-306d-4cad-aeee-57772a6caeb0@245b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231124T113000Z
+LOCATION:24-316Б
+DTSTART:20231124T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:00ae908d-c509-41c7-b366-d95e449d2da2@00ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T113000Z
+LOCATION:--каф.
+DTSTART:20231228T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:47a0af63-7fa4-43e2-9028-f4ab727d49f1@47a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231121T073000Z
+LOCATION:24-314
+DTSTART:20231121T060000Z
+SUMMARY:ПЗ УИРС
+UID:15838eec-d32f-4370-b93d-3b32cca7cd34@1583.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231002T131500Z
+LOCATION:3-413
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Политика командной работы
+UID:23c2d050-5076-4b4f-9256-82cde40d00a2@23c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20230904T131500Z
+LOCATION:3-413
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Политика командной работы
+UID:eb5bd19e-98ae-4a39-9bbc-331a0dbcf383@eb5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231219T131500Z
+LOCATION:24-318А
+DTSTART:20231219T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:185fe751-61b1-45fb-b914-8bedbbd3d995@185f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T113000Z
+LOCATION:--каф.
+DTSTART:20230914T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:8bdbc78d-4131-4186-b167-c54d63450808@8bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231201T091500Z
+LOCATION:24-709
+DTSTART:20231201T074500Z
+SUMMARY:ЛК Технология системного моделирования
+UID:d3fb7bef-173f-4fa6-8a48-6a38ccf64ba7@d3fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231124T073000Z
+LOCATION:24-316Б
+DTSTART:20231124T060000Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:08bbbc51-2755-474b-9328-7a70e8a77249@08bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231107T131500Z
+LOCATION:24-318А
+DTSTART:20231107T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:44635477-e4f4-4382-ab40-d9434b70b1af@4463.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231208T091500Z
+LOCATION:24-316Б
+DTSTART:20231208T074500Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:811a7eab-028c-4b20-ab16-aec0ecbedead@811a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231010T113000Z
+LOCATION:24-318А
+DTSTART:20231010T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:0409f8b7-0ffd-4049-a7d2-4a6fe59918ce@0409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231205T073000Z
+LOCATION:24-314
+DTSTART:20231205T060000Z
+SUMMARY:ПЗ УИРС
+UID:cf908aeb-1519-4ebb-836b-9be1ae12fbf4@cf90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20230912T131500Z
+LOCATION:24-318А
+DTSTART:20230912T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:b7bfe2e1-4127-48bb-9281-d91cd023ea3b@b7bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231218T113000Z
+LOCATION:3-115
+DTSTART:20231218T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:9f66d407-ce4f-4cc9-9b0b-7773c0838b3e@9f66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231024T073000Z
+LOCATION:24-314
+DTSTART:20231024T060000Z
+SUMMARY:ПЗ УИРС
+UID:fed7d970-794b-4c5a-a427-792455db6e74@fed7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231117T073000Z
+LOCATION:24-709
+DTSTART:20231117T060000Z
+SUMMARY:ЛК Технология системного моделирования
+UID:0fccf874-10c4-4bd3-8db3-569fe2bbcdcf@0fcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20230922T113000Z
+LOCATION:24-316Б
+DTSTART:20230922T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:33814436-6bd8-4ee8-aeff-8e8a1d0a4c33@3381.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T113000Z
+LOCATION:--каф.
+DTSTART:20231109T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:41e1c2a9-aa57-4827-9924-7b8058ad780a@41e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230908T073000Z
+LOCATION:24-709
+DTSTART:20230908T060000Z
+SUMMARY:ЛК Технология системного моделирования
+UID:a608eebe-987e-4a93-99c9-4213d7431331@a608.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20230918T131500Z
+LOCATION:3-413
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Политика командной работы
+UID:ddcbba71-30e1-4e13-b27b-117f20de1e2f@ddcb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T091500Z
+LOCATION:--каф.
+DTSTART:20231123T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:2ca767fa-f492-4dcf-b165-dc79f8b98c99@2ca7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20230919T131500Z
+LOCATION:24-318А
+DTSTART:20230919T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:8ad25c77-ab45-429f-bbf0-d06172ff479b@8ad2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230922T073000Z
+LOCATION:24-709
+DTSTART:20230922T060000Z
+SUMMARY:ЛК Технология системного моделирования
+UID:c143a367-514d-48ea-b399-b4efaa769a52@c143.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T113000Z
+LOCATION:--каф.
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:782b054e-7def-46dc-98b5-6893167ed3ff@782b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231120T091500Z
+LOCATION:24-314
+DTSTART:20231120T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:23cd190a-78a8-4830-a70d-38f1a45f56ab@23cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231003T091500Z
+LOCATION:24-314
+DTSTART:20231003T074500Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:adba6239-c236-407b-98d1-d60f8f379404@adba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231016T131500Z
+LOCATION:3-413
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Политика командной работы
+UID:1cc604f5-23ea-4dd7-98d9-ada03983974a@1cc6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231116T091500Z
+LOCATION:--каф.
+DTSTART:20231116T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:67829ac9-70ac-4d7d-8e93-a047503121e4@6782.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T113000Z
+LOCATION:--каф.
+DTSTART:20231026T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:0308cd07-2c13-4b10-805c-8e3f977c75cf@0308.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231027T073000Z
+LOCATION:24-316Б
+DTSTART:20231027T060000Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:a9d52b4a-81fa-439d-82c0-3f777dfd171f@a9d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231013T073000Z
+LOCATION:24-316Б
+DTSTART:20231013T060000Z
+SUMMARY:ЛР Технология системного моделирования
+UID:ccc7d7cc-2c96-4adb-b28b-a86171482d52@ccc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231013T131500Z
+LOCATION:24-316Б
+DTSTART:20231013T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:5c450c5f-4804-4c93-9dd0-9e13ba6b88bc@5c45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231006T113000Z
+LOCATION:24-316Б
+DTSTART:20231006T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:abfaffce-f44a-4df7-b13b-24953934000c@abfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231016T091500Z
+LOCATION:24-314
+DTSTART:20231016T074500Z
+SUMMARY:ПЗ Вычислительные машины\, системы и сети
+UID:2ce10729-ba96-4893-b0b9-d7875c79de26@2ce1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231017T113000Z
+LOCATION:24-318А
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:b8bcf3fe-a6dc-420e-b22b-cae687cc1a18@b8bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231023T113000Z
+LOCATION:3-115
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:09d636dc-9fe6-4a81-aada-907e689e2bd0@09d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T091500Z
+LOCATION:--каф.
+DTSTART:20231109T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:75d88624-7343-4883-b588-db3391dce55a@75d8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбаков Андрей Вячеславович
@@ -2075,6 +1428,653 @@ DTEND:20231120T131500Z
 LOCATION:3-413
 DTSTART:20231120T114500Z
 SUMMARY:ПЗ Политика командной работы
-UID:266ba076-f3dc-4608-9b83-64d6e78fd530@266b.org
+UID:3345c53d-9d64-4595-8c5d-f4134f63e745@3345.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231117T131500Z
+LOCATION:24-316Б
+DTSTART:20231117T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:4400ea53-bbb1-4ccc-b51e-6316981dc7f4@4400.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231212T073000Z
+LOCATION:24-314
+DTSTART:20231212T060000Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:da3365a7-ccee-4ea3-8bbf-f6e99d7ea4d5@da33.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231019T091500Z
+LOCATION:--каф.
+DTSTART:20231019T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:209d8d8f-ca01-4367-82e8-56d9c7e228b4@209d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230911T073000Z
+LOCATION:24-314
+DTSTART:20230911T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:70b47c9f-88a8-423a-a165-7edc22903b76@70b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230929T073000Z
+LOCATION:24-316Б
+DTSTART:20230929T060000Z
+SUMMARY:ЛР Технология системного моделирования
+UID:fc4384fb-5303-4103-8dbe-c77b422bc796@fc43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231226T113000Z
+LOCATION:24-318А
+DTSTART:20231226T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:eb5fc794-91c4-4a36-a341-2766933ea28a@eb5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231020T073000Z
+LOCATION:24-709
+DTSTART:20231020T060000Z
+SUMMARY:ЛК Технология системного моделирования
+UID:d240e16b-8ff9-4740-924d-fdda61633993@d240.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231219T113000Z
+LOCATION:24-318А
+DTSTART:20231219T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:08639398-426b-4247-b287-b500c604a1f5@0863.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T091500Z
+LOCATION:--каф.
+DTSTART:20230928T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:a78f3d57-2722-4ccf-94c2-7cac8082aa06@a78f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231113T073000Z
+LOCATION:24-314
+DTSTART:20231113T060000Z
+SUMMARY:ЛК Вычислительные машины\, системы и сети
+UID:442101a7-fe75-44b1-8122-c3990c3dd3b9@4421.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231222T131500Z
+LOCATION:24-316Б
+DTSTART:20231222T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:f3351d34-7c73-478d-b103-bae9afffe74e@f335.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230921T091500Z
+LOCATION:--каф.
+DTSTART:20230921T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:9d6d9307-7770-455e-a3b8-368739c9d868@9d6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231017T131500Z
+LOCATION:24-318А
+DTSTART:20231017T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:b886f116-c937-48d5-8e92-ec8e90d513f9@b886.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231214T131500Z
+LOCATION:--каф.
+DTSTART:20231214T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:77147407-3db3-46b4-8a89-bfcdbd8ade92@7714.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231024T113000Z
+LOCATION:24-318А
+DTSTART:20231024T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:08cced5d-fce6-4923-bae1-6f372e0f6d15@08cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20230919T073000Z
+LOCATION:24-314
+DTSTART:20230919T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:19830108-d4e0-4d50-b32e-c38ea84f77ee@1983.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231211T131500Z
+LOCATION:3-413
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Политика командной работы
+UID:aa7e6118-1ff5-4d48-8d19-a39e25d90d50@aa7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231215T073000Z
+LOCATION:24-709
+DTSTART:20231215T060000Z
+SUMMARY:ЛК Технология системного моделирования
+UID:e73a8bf0-fb52-45d7-a7c1-ee1327d64597@e73a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231024T131500Z
+LOCATION:24-318А
+DTSTART:20231024T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:fd2bfb85-da61-424f-8586-6b7b8ebca897@fd2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231106T073000Z
+LOCATION:24-314
+DTSTART:20231106T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:ec9f2c3a-f188-418b-b849-9d062e475c85@ec9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231205T091500Z
+LOCATION:24-314
+DTSTART:20231205T074500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:cbaa46e3-f778-4093-b22a-7b0c583d7cef@cbaa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231221T091500Z
+LOCATION:--каф.
+DTSTART:20231221T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:02605962-9df3-45a2-80ff-feae7c4b9908@0260.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231009T073000Z
+LOCATION:24-314
+DTSTART:20231009T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:23fb835a-079a-40fa-94c5-b2a075fdc609@23fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231107T073000Z
+LOCATION:24-314
+DTSTART:20231107T060000Z
+SUMMARY:ПЗ УИРС
+UID:2f56efa8-44c4-4190-8fb9-a4d241529755@2f56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231215T091500Z
+LOCATION:24-709
+DTSTART:20231215T074500Z
+SUMMARY:ЛК Технология системного моделирования
+UID:a1e7c5f0-3cfd-4303-8e0f-9da5333cf61d@a1e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231020T091500Z
+LOCATION:24-709
+DTSTART:20231020T074500Z
+SUMMARY:ЛК Технология системного моделирования
+UID:7fd992c9-afac-46b6-a9de-38d4aaa9bf89@7fd9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231123T131500Z
+LOCATION:--каф.
+DTSTART:20231123T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:8aa7be6d-0c7a-4173-98c1-b85aa2d69419@8aa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231023T091500Z
+LOCATION:24-314
+DTSTART:20231023T074500Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:452ea83c-f931-4f8a-90e6-984565c99b59@452e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20230912T113000Z
+LOCATION:24-318А
+DTSTART:20230912T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:9816f991-af36-479a-9a1d-c22be0cb0645@9816.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T073000Z
+LOCATION:--каф.
+DTSTART:20231026T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:e7347ef1-f3d8-4862-99ee-d70c35a8711b@e734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231006T073000Z
+LOCATION:24-709
+DTSTART:20231006T060000Z
+SUMMARY:ЛК Технология системного моделирования
+UID:e36e8c1c-b640-48ce-9ca3-0f9fe08574e9@e36e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231017T073000Z
+LOCATION:24-314
+DTSTART:20231017T060000Z
+SUMMARY:ЛК Методы экспериментальных исследований аэрокосмических систем
+UID:4c90ff37-1fd7-43ea-8474-28a59c8d59a0@4c90.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231026T091500Z
+LOCATION:--каф.
+DTSTART:20231026T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:3c789a80-2c87-4799-8e76-724bd5b77e2f@3c78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231211T113000Z
+LOCATION:3-115
+DTSTART:20231211T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:2574b536-6918-4ffa-b69a-e23e51eda23b@2574.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231027T113000Z
+LOCATION:24-316Б
+DTSTART:20231027T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:480e2969-8d41-4d29-bd7a-6216af14beec@480e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231120T113000Z
+LOCATION:3-115
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:aad5d82d-0ed9-4e5d-b004-3999987e6111@aad5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T091500Z
+LOCATION:--каф.
+DTSTART:20231102T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:119ece3e-4efa-4333-b933-d536dbc05f5f@119e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231002T073000Z
+LOCATION:24-314
+DTSTART:20231002T060000Z
+SUMMARY:ЛК Вычислительные машины\, системы и сети
+UID:1cb75d13-69f9-448c-8eef-ca5a1fab7d3f@1cb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230925T113000Z
+LOCATION:3-115
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:3179d7eb-7cf1-4d37-b72e-b4d6e93d0d54@3179.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231113T131500Z
+LOCATION:3-413
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Политика командной работы
+UID:bd2fcdc8-fb01-42a6-9a45-0936c4a093ed@bd2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231218T131500Z
+LOCATION:3-413
+DTSTART:20231218T114500Z
+SUMMARY:ПЗ Политика командной работы
+UID:13f61e40-f996-4ab7-a0f9-09417bc3048f@13f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231201T113000Z
+LOCATION:24-316Б
+DTSTART:20231201T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:bb2ad7d1-b4b4-452b-9824-16cc889a26df@bb2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230922T091500Z
+LOCATION:24-709
+DTSTART:20230922T074500Z
+SUMMARY:ЛК Технология системного моделирования
+UID:a3ea02f6-a652-43da-96b6-1bb3924b3160@a3ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231222T113000Z
+LOCATION:24-316Б
+DTSTART:20231222T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:32969b34-eef5-4e95-8522-b7d2c76c0aa1@3296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231010T131500Z
+LOCATION:24-318А
+DTSTART:20231010T114500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:b06e74ec-f952-4f9b-ba1a-6a6773d688a9@b06e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20230915T131500Z
+LOCATION:24-316Б
+DTSTART:20230915T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:5ccea085-ca52-459a-86b1-c87cecef1428@5cce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231030T131500Z
+LOCATION:3-413
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Политика командной работы
+UID:5ccde7d8-d336-4165-b46d-8e4ef1651e49@5ccd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231113T113000Z
+LOCATION:3-115
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:08149abc-31c8-4480-8146-9ecdab8ab682@0814.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231003T113000Z
+LOCATION:24-318А
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:39bfc3bd-a6b8-4219-8c97-659d639c6840@39bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231010T091500Z
+LOCATION:24-314
+DTSTART:20231010T074500Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:1494fb40-a430-4021-b05c-dc4a9da7e86f@1494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230908T091500Z
+LOCATION:24-709
+DTSTART:20230908T074500Z
+SUMMARY:ЛК Технология системного моделирования
+UID:d7dbba58-c653-4c98-8a11-89b6280944a0@d7db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231103T113000Z
+LOCATION:24-316Б
+DTSTART:20231103T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:c20563f2-3b03-40bc-a9f6-989ad34f3c99@c205.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231208T131500Z
+LOCATION:24-316Б
+DTSTART:20231208T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:bff38384-cf47-4066-860d-5197f2986eb0@bff3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230911T113000Z
+LOCATION:3-115
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:df812b70-a77d-4884-85f9-7e535772af7c@df81.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T073000Z
+LOCATION:--каф.
+DTSTART:20231109T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:79389fed-eadf-4bb4-9b1d-f7c34fffdb92@7938.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбаков Андрей Вячеславович
+DTEND:20231204T131500Z
+LOCATION:3-413
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Политика командной работы
+UID:cdf0ee17-74d6-489e-bba6-11ec226b1523@cdf0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231228T073000Z
+LOCATION:--каф.
+DTSTART:20231228T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:9491cb48-b456-4539-8b3a-304dd74e6c0e@9491.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231204T113000Z
+LOCATION:3-115
+DTSTART:20231204T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:17e732b5-a797-4884-9281-c82b6160ff39@17e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231107T091500Z
+LOCATION:24-314
+DTSTART:20231107T074500Z
+SUMMARY:ПЗ Оптимизация организационно-технических систем
+UID:c2d47a02-1120-4a9b-babc-90f8977ff31d@c2d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20230915T113000Z
+LOCATION:24-316Б
+DTSTART:20230915T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:80b5bde8-8dad-4cb2-bb62-f3ead42b284a@80b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230904T113000Z
+LOCATION:3-115
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:30cbb4e2-5aa5-49fa-87f9-dd74afb41c84@30cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231005T091500Z
+LOCATION:--каф.
+DTSTART:20231005T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:f2d48437-414e-468d-8145-f4c3def4df1b@f2d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20230918T113000Z
+LOCATION:3-115
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:ceb4c36b-e861-4a2d-b94a-2c7facff78ad@ceb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231031T113000Z
+LOCATION:24-318А
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:1baf62af-49cf-4144-8465-ca1b576894fc@1baf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230914T091500Z
+LOCATION:--каф.
+DTSTART:20230914T074500Z
+SUMMARY:ЛК Военная подготовка
+UID:06517b0d-b42f-4811-a26b-73ee9c640b03@0651.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231109T131500Z
+LOCATION:--каф.
+DTSTART:20231109T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:ab7016ee-3e74-46c3-8167-eb5d9a24230a@ab70.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230907T073000Z
+LOCATION:--каф.
+DTSTART:20230907T060000Z
+SUMMARY:ЛК Военная подготовка
+UID:bc9239a4-ca6c-4774-aeb6-b1067a5438bd@bc92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231110T073000Z
+LOCATION:24-316Б
+DTSTART:20231110T060000Z
+SUMMARY:ЛР Надежность аэрокосмических систем
+UID:47b9f190-37a2-4175-a836-ed155e6898d9@47b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231127T113000Z
+LOCATION:3-115
+DTSTART:20231127T100000Z
+SUMMARY:ЛК Надежность аэрокосмических систем
+UID:7bfc66a0-4f0c-4b50-9f43-6ea8a3d1257c@7bfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231128T073000Z
+LOCATION:24-314
+DTSTART:20231128T060000Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:2811ac1e-09d4-49a7-9c19-a2f6c19b1a8f@2811.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20230912T073000Z
+LOCATION:24-314
+DTSTART:20230912T060000Z
+SUMMARY:ПЗ УИРС
+UID:2855df70-3036-42b2-b5a8-d900480d150e@2855.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231030T073000Z
+LOCATION:24-314
+DTSTART:20231030T060000Z
+SUMMARY:ЛК Вычислительные машины\, системы и сети
+UID:a05b5067-16ec-481f-acfb-e7c1e702829e@a05b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231027T131500Z
+LOCATION:24-316Б
+DTSTART:20231027T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:5ba87098-8447-4fb9-8aed-5a23eaec8aa4@5ba8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231103T091500Z
+LOCATION:24-709
+DTSTART:20231103T074500Z
+SUMMARY:ЛК Технология системного моделирования
+UID:85669f82-0886-4954-b695-2672ab45dca4@8566.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пельтихин Александр Васильевич
+DTEND:20231226T073000Z
+LOCATION:24-314
+DTSTART:20231226T060000Z
+SUMMARY:ЛР Методы экспериментальных исследований аэрокосмических систем
+UID:540ed66a-5f2b-4b35-98b3-a2dc205a7414@540e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20230901T113000Z
+LOCATION:24-316Б
+DTSTART:20230901T100000Z
+SUMMARY:ЛК Исследование операций в организационно-технических системах
+UID:d227fbda-6d5d-4180-8f7b-5b2f2ff2b4aa@d227.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шмигирилов Сергей Юрьевич
+DTEND:20231201T073000Z
+LOCATION:24-709
+DTSTART:20231201T060000Z
+SUMMARY:ЛК Технология системного моделирования
+UID:eaf01191-1d35-4c08-aa93-8289028b5350@eaf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231121T113000Z
+LOCATION:24-318А
+DTSTART:20231121T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:bd234583-df0c-4625-9f4a-bf6fd405b98c@bd23.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230928T131500Z
+LOCATION:--каф.
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Военная подготовка
+UID:9f315e32-9f54-4553-836c-720b1d239fc5@9f31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Старков Александр Владимирович
+DTEND:20231127T091500Z
+LOCATION:24-314
+DTSTART:20231127T074500Z
+SUMMARY:ПЗ Вычислительные машины\, системы и сети
+UID:90ff87e0-6edb-4bc1-a357-388cb05d2487@90ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дьячук Анна Константиновна
+DTEND:20231124T131500Z
+LOCATION:24-316Б
+DTSTART:20231124T114500Z
+SUMMARY:ПЗ Исследование операций в организационно-технических системах
+UID:7cce5874-afe7-4e8b-8894-b93fc13f400a@7cce.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231102T113000Z
+LOCATION:--каф.
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Военная подготовка
+UID:46edcdf4-045f-49d1-b69e-8e4f4b8f4bf8@46ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Федоров Александр Викторович
+DTEND:20231212T113000Z
+LOCATION:24-318А
+DTSTART:20231212T100000Z
+SUMMARY:ЛК Оптимизация организационно-технических систем
+UID:870b083e-ccc8-4cd2-b1e2-8c7e82d33995@870b.org
 END:VEVENT
 END:VCALENDAR

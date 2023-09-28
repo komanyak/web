@@ -2,284 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231026T183000Z
-LOCATION:24-715
-DTSTART:20231026T170000Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:4fde6b89-c957-4244-8b2b-7a114d3e3fea@4fde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20230911T183000Z
-LOCATION:24-715
-DTSTART:20230911T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:44acff74-a41f-49ae-912d-f82ce3e9a5e0@44ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231108T183000Z
-LOCATION:24-713
-DTSTART:20231108T170000Z
-SUMMARY:ПЗ Системный анализ
-UID:99846c52-2d8a-40a2-84e5-8613c580317a@9984.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231012T183000Z
-LOCATION:24-715
-DTSTART:20231012T170000Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:dc7a2d9c-2f8d-4b18-9acb-6bd956ace6e0@dc7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231107T150000Z
-LOCATION:24-715
-DTSTART:20231107T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:1f577c95-7ba1-4c36-8a03-fb4067f35f60@1f57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231204T164500Z
-LOCATION:24-715
-DTSTART:20231204T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:6aa66d1d-1dac-46b2-8478-dbd6105ad15c@6aa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231101T164500Z
-LOCATION:3-429
-DTSTART:20231101T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:7571d17f-bdca-433a-8b7e-10cf25c04a79@7571.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20230925T183000Z
-LOCATION:24-715
-DTSTART:20230925T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:aa883e9b-ae9e-4115-b9cd-420b8d8703b6@aa88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231212T150000Z
-LOCATION:24-715
-DTSTART:20231212T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:f6d5e26d-9200-4efd-941c-2bddfbd57797@f6d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231016T183000Z
-LOCATION:24-715
-DTSTART:20231016T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:c664030d-e4b0-4813-bc33-a8c70a9f66ee@c664.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20230919T164500Z
-LOCATION:24-502
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Системный анализ
-UID:c01866cb-9ebd-4f3c-b067-ae8ab44fc976@c018.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231220T150000Z
-LOCATION:24-419
-DTSTART:20231220T133000Z
-SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
-UID:697d012e-99ed-4683-aa28-d3c8db954382@697d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20230913T183000Z
-LOCATION:24-713
-DTSTART:20230913T170000Z
-SUMMARY:ПЗ Системный анализ
-UID:f8a95f57-0e73-4420-ab7c-b021c31f1246@f8a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231220T164500Z
-LOCATION:24-713
-DTSTART:20231220T151500Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:3b3361ec-005e-4a1b-a5ce-5226955ad539@3b33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231023T164500Z
-LOCATION:24-715
-DTSTART:20231023T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:a7a750ff-61b5-4ce0-ad74-45f098a1789b@a7a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231024T164500Z
-LOCATION:24-715
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:dd2a2873-dac9-4392-b030-4143718b2dfe@dd2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231003T150000Z
-LOCATION:24-715
-DTSTART:20231003T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:c399b4cb-a021-44b8-84d0-c7caedd471af@c399.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231025T150000Z
-LOCATION:24-419
-DTSTART:20231025T133000Z
-SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
-UID:e937cf13-5641-4f29-abb4-285aad678529@e937.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231129T164500Z
-LOCATION:3-429
-DTSTART:20231129T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:404ed98b-40c0-4f0b-9bd9-4b542753a1e0@404e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231101T150000Z
-LOCATION:24-419
-DTSTART:20231101T133000Z
-SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
-UID:3f5ec932-ffbc-42a9-943f-dd6ea7421a77@3f5e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Тепцов Вадим Антонович
 DTEND:20231220T183000Z
 LOCATION:24-713
 DTSTART:20231220T170000Z
 SUMMARY:ПЗ Системный анализ
-UID:57853088-b680-4ce5-abfd-7cc60ed45c45@5785.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231130T164500Z
-LOCATION:24-600а
-DTSTART:20231130T151500Z
-SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
-UID:6ca6ec1f-4bc4-4076-a99d-b35981f209b5@6ca6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20230905T150000Z
-LOCATION:24-715
-DTSTART:20230905T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:d4e6cd95-8a13-4936-9095-9023fe49ccaa@d4e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231218T164500Z
-LOCATION:24-715
-DTSTART:20231218T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:3d568b71-fc35-4a77-88ac-7c7f26d27f16@3d56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231228T164500Z
-LOCATION:24-600а
-DTSTART:20231228T151500Z
-SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
-UID:855409da-9c64-4d1b-9606-df0117e3dea3@8554.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231005T183000Z
-LOCATION:24-715
-DTSTART:20231005T170000Z
-SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
-UID:4d9b56bc-953f-4b9c-beb2-cf2aaada2d6e@4d9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231009T183000Z
-LOCATION:24-715
-DTSTART:20231009T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:a1da6118-5755-4d64-8580-4a674e8b5de0@a1da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231109T164500Z
-LOCATION:24-715
-DTSTART:20231109T151500Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:88ff2ab4-b403-4bae-98aa-5b60c4d1044a@88ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20230928T183000Z
-LOCATION:24-715
-DTSTART:20230928T170000Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:a6acc306-2090-45bc-91b6-7ef27f6467f1@a6ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231106T183000Z
-LOCATION:24-715
-DTSTART:20231106T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:242f2793-8d60-44d5-bad3-3efbbce47b28@242f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231108T164500Z
-LOCATION:24-713
-DTSTART:20231108T151500Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:8b40cfb4-7a91-43a7-83b0-02153d9dd3aa@8b40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231108T150000Z
-LOCATION:24-419
-DTSTART:20231108T133000Z
-SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
-UID:bf7f8296-5402-45e8-a0b7-747cc705f9b0@bf7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20230907T164500Z
-LOCATION:24-715
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
-UID:ab6fa00c-10f7-468d-aa92-0d7ef708464c@ab6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231003T164500Z
-LOCATION:24-502
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Системный анализ
-UID:79a4e365-6475-42de-8e01-4fbc87df1fa7@79a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231031T164500Z
-LOCATION:24-502
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Системный анализ
-UID:1fdad3ae-7353-490e-b428-c6181c11cde8@1fda.org
+UID:599d3a96-aba8-4e3e-a394-64b6e3f13c4e@599d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вельможко Ирина Николаевна
@@ -287,751 +15,7 @@ DTEND:20230906T164500Z
 LOCATION:3-429
 DTSTART:20230906T151500Z
 SUMMARY:ЛК Межкультурные коммуникации
-UID:9e955811-733e-429d-8119-5177d3ef8dc8@9e95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231130T183000Z
-LOCATION:24-600а
-DTSTART:20231130T170000Z
-SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
-UID:067024d5-1271-4f81-ab98-8b4433d2b4a5@0670.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231226T150000Z
-LOCATION:24-715
-DTSTART:20231226T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:441c46e0-0e5b-47db-b6c5-8555c4209210@441c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20230919T150000Z
-LOCATION:24-715
-DTSTART:20230919T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:730289b6-2ddd-4e77-9f02-56edea7fb0f3@7302.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231115T150000Z
-LOCATION:24-419
-DTSTART:20231115T133000Z
-SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
-UID:462af89d-cb9f-4e0d-9894-a19754797b77@462a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231115T164500Z
-LOCATION:3-429
-DTSTART:20231115T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:d7778bfd-0832-4a24-b690-3e3bb19512cc@d777.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231205T164500Z
-LOCATION:24-715
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:ec4079a5-a884-49d9-9a1d-8a29a3bf6e3a@ec40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231019T183000Z
-LOCATION:24-715
-DTSTART:20231019T170000Z
-SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
-UID:6834f4d9-aee5-42ed-989d-59cc71eb4d3a@6834.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20230918T183000Z
-LOCATION:24-715
-DTSTART:20230918T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:f26b3c88-b705-4b9d-af23-3b02da1f377f@f26b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231128T164500Z
-LOCATION:24-502
-DTSTART:20231128T151500Z
-SUMMARY:ЛК Системный анализ
-UID:f2c008ce-9f0f-4857-b19b-bf9675a03b41@f2c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231012T164500Z
-LOCATION:24-715
-DTSTART:20231012T151500Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:78ca00b6-6e62-468e-a98a-c4128c27ff19@78ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231018T150000Z
-LOCATION:24-419
-DTSTART:20231018T133000Z
-SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
-UID:ec8c292b-94ee-49de-8627-3e79b3a4359d@ec8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231113T183000Z
-LOCATION:24-715
-DTSTART:20231113T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:0d30bda9-0b42-4f05-b31e-de02a6661a64@0d30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231018T164500Z
-LOCATION:3-429
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:c485cf36-332e-4c7e-95e3-b2edf006559c@c485.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20230920T164500Z
-LOCATION:3-429
-DTSTART:20230920T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:cd5d4a31-82fb-463b-864a-1284429078d0@cd5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231005T164500Z
-LOCATION:24-715
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
-UID:7c14cefa-f32b-434c-8d4a-d9ace28e921b@7c14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231221T183000Z
-LOCATION:24-715
-DTSTART:20231221T170000Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:9d19d155-0fea-4078-b065-c54307fc67f3@9d19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231122T150000Z
-LOCATION:24-419
-DTSTART:20231122T133000Z
-SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
-UID:2329cf51-b511-4a5e-a098-675907cd030f@2329.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231213T164500Z
-LOCATION:3-429
-DTSTART:20231213T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:847ce0ff-db92-4389-b096-2ab66cafec66@847c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231030T183000Z
-LOCATION:24-715
-DTSTART:20231030T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:24228716-0788-459f-99ae-bf8b1caf1850@2422.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231011T164500Z
-LOCATION:24-713
-DTSTART:20231011T151500Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:7c628aa7-5610-4367-bc9f-29348e09bed8@7c62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231106T164500Z
-LOCATION:24-715
-DTSTART:20231106T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:533832c5-0a78-4b8a-95c4-449cddcd1d8a@5338.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231214T183000Z
-LOCATION:24-600а
-DTSTART:20231214T170000Z
-SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
-UID:423388d2-f5ff-4e43-81f4-b9d49f5d7d7e@4233.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231127T183000Z
-LOCATION:24-715
-DTSTART:20231127T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:f32b60bd-d043-48ba-997c-37a2b0410118@f32b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20230911T164500Z
-LOCATION:24-715
-DTSTART:20230911T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:e85421a9-6db4-4c0a-ad71-58213f475515@e854.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231004T150000Z
-LOCATION:24-419
-DTSTART:20231004T133000Z
-SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
-UID:a9ca5264-9c43-4b2b-aa9a-cfd5bf7bf841@a9ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231116T183000Z
-LOCATION:24-600а
-DTSTART:20231116T170000Z
-SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
-UID:4fd035a7-3f2d-4a3c-8f5b-a251535f6cca@4fd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20230905T164500Z
-LOCATION:24-502
-DTSTART:20230905T151500Z
-SUMMARY:ЛК Системный анализ
-UID:2cbb2d15-4dad-4a32-ab2c-950044ad41e1@2cbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231011T150000Z
-LOCATION:24-419
-DTSTART:20231011T133000Z
-SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
-UID:9a1ad9a6-22d8-4cb4-998a-c29b5d5588b2@9a1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231120T164500Z
-LOCATION:24-715
-DTSTART:20231120T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:8d2dd1b2-864c-4483-9fc7-03856b1c6e3d@8d2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231207T164500Z
-LOCATION:24-715
-DTSTART:20231207T151500Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:f6c514cb-d23f-4ffc-ad97-e84fecc6e25d@f6c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231017T164500Z
-LOCATION:24-502
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Системный анализ
-UID:9ee5df8d-404e-4c47-8be0-8c9bb97a6157@9ee5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20230927T183000Z
-LOCATION:24-713
-DTSTART:20230927T170000Z
-SUMMARY:ПЗ Системный анализ
-UID:54f0cb47-b863-4507-9a17-0caa6f42dff2@54f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231017T150000Z
-LOCATION:24-715
-DTSTART:20231017T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:954f2fec-b4c5-480d-a533-412014d84238@954f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231127T164500Z
-LOCATION:24-715
-DTSTART:20231127T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:b56b1d2d-e3f4-4613-89a9-c6a0333ff15b@b56b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231214T164500Z
-LOCATION:24-600а
-DTSTART:20231214T151500Z
-SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
-UID:c075f230-2133-44d4-b77c-a0e72fa6f6d5@c075.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231121T150000Z
-LOCATION:24-715
-DTSTART:20231121T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:0a928791-5fab-463c-8983-20d62f1cd4d2@0a92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231129T150000Z
-LOCATION:24-419
-DTSTART:20231129T133000Z
-SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
-UID:86ad6151-ebba-4a25-bb41-d9fe38dc5f25@86ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20230906T150000Z
-LOCATION:24-419
-DTSTART:20230906T133000Z
-SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
-UID:e7378411-0272-46fd-9345-d08d5c40e7e0@e737.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231011T183000Z
-LOCATION:24-713
-DTSTART:20231011T170000Z
-SUMMARY:ПЗ Системный анализ
-UID:ea704212-2e10-4a32-b8e3-ea22a25b6f03@ea70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231205T150000Z
-LOCATION:24-715
-DTSTART:20231205T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:53ca1f15-51e1-4040-b5e5-ebd3912ee454@53ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231128T150000Z
-LOCATION:24-715
-DTSTART:20231128T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:ff24201e-13e5-447c-9611-148c2b12ed5e@ff24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231019T164500Z
-LOCATION:24-715
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
-UID:5a09a306-3c5b-4774-b900-58a21f9c7f3e@5a09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231206T150000Z
-LOCATION:24-419
-DTSTART:20231206T133000Z
-SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
-UID:8facd813-1855-444d-b04a-94ed644109ad@8fac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20230913T164500Z
-LOCATION:24-713
-DTSTART:20230913T151500Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:ba463bb1-4b06-4621-85d0-3db5ba07be48@ba46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20230925T164500Z
-LOCATION:24-715
-DTSTART:20230925T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:433546c2-fe7c-4895-bdc9-7b73a818bc49@4335.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231009T164500Z
-LOCATION:24-715
-DTSTART:20231009T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:0a5382e6-af69-406c-b2cc-91db1f28fd85@0a53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231206T183000Z
-LOCATION:24-713
-DTSTART:20231206T170000Z
-SUMMARY:ПЗ Системный анализ
-UID:ef59eaeb-38c0-46f0-8fab-a234f5d74bd9@ef59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20230918T164500Z
-LOCATION:24-715
-DTSTART:20230918T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:200b843b-77e9-496e-a2b8-66e4e34f5bcc@200b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231116T164500Z
-LOCATION:24-600а
-DTSTART:20231116T151500Z
-SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
-UID:f996f968-c720-4b88-95a3-c687bc35c879@f996.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231227T150000Z
-LOCATION:24-419
-DTSTART:20231227T133000Z
-SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
-UID:47ffe24b-d6f3-497c-a334-94931dd54541@47ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231213T150000Z
-LOCATION:24-419
-DTSTART:20231213T133000Z
-SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
-UID:4246a0ad-bf43-4dd9-b589-8ed57796e2a9@4246.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231114T164500Z
-LOCATION:24-502
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Системный анализ
-UID:eccff9db-d6fd-42b3-952c-be2566c41b53@eccf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20230913T150000Z
-LOCATION:24-419
-DTSTART:20230913T133000Z
-SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
-UID:553e6e45-7826-485f-ac96-c39497784224@553e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20230907T183000Z
-LOCATION:24-715
-DTSTART:20230907T170000Z
-SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
-UID:c2696b69-dc19-4913-a9ed-54dd8bf618c3@c269.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231016T164500Z
-LOCATION:24-715
-DTSTART:20231016T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:be144da9-1759-4bce-9621-925142cf648f@be14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20230904T164500Z
-LOCATION:24-715
-DTSTART:20230904T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:9516adbb-096e-4dec-8f83-6ab628c2ca57@9516.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20230927T164500Z
-LOCATION:24-713
-DTSTART:20230927T151500Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:1f6bbba6-6b41-4fac-aeda-99a9b9e35bfe@1f6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231226T164500Z
-LOCATION:24-502
-DTSTART:20231226T151500Z
-SUMMARY:ЛК Системный анализ
-UID:b5fcd52d-b66b-4b0e-83d6-dac504ca5cc5@b5fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20230914T164500Z
-LOCATION:24-715
-DTSTART:20230914T151500Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:6ef4465c-b28e-4bbf-bb8f-6f376a8cff8c@6ef4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231025T183000Z
-LOCATION:24-713
-DTSTART:20231025T170000Z
-SUMMARY:ПЗ Системный анализ
-UID:33f8a4b6-d730-4055-9478-de073d1063c8@33f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20230921T183000Z
-LOCATION:24-715
-DTSTART:20230921T170000Z
-SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
-UID:ba55b1ed-b72c-4855-b537-edef1e6ca1db@ba55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20230928T164500Z
-LOCATION:24-715
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:ee244ae9-27a6-458d-aede-32c4f704c09a@ee24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231207T183000Z
-LOCATION:24-715
-DTSTART:20231207T170000Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:edbe9ecd-cd6b-49cf-b94d-cb2a0a3f638c@edbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231010T164500Z
-LOCATION:24-715
-DTSTART:20231010T151500Z
-SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:86b7a673-6153-42ed-b1dd-72c4210a3e99@86b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231204T183000Z
-LOCATION:24-715
-DTSTART:20231204T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:03e7aaf6-0024-459a-8dc1-c77dbcf78126@03e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20230914T183000Z
-LOCATION:24-715
-DTSTART:20230914T170000Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:1d7a49dc-ad67-4e8a-beac-34404d211adf@1d7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231211T183000Z
-LOCATION:24-715
-DTSTART:20231211T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:99129d61-b032-4646-99d2-bc2b5774823f@9912.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231023T183000Z
-LOCATION:24-715
-DTSTART:20231023T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:e0d642ab-2916-436f-a362-0281ddbaf36a@e0d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231031T150000Z
-LOCATION:24-715
-DTSTART:20231031T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:01829934-80b6-4c42-b533-f4a51b74e874@0182.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231109T183000Z
-LOCATION:24-715
-DTSTART:20231109T170000Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:dbee0ec1-50ad-4cdc-bff6-72257decbe2d@dbee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20230926T150000Z
-LOCATION:24-715
-DTSTART:20230926T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:c6b2b57d-903d-460c-bd9e-b4bb3ab29f04@c6b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231211T164500Z
-LOCATION:24-715
-DTSTART:20231211T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:44dd0d17-27a8-47bc-95ea-a45e6da26f9e@44dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231227T164500Z
-LOCATION:3-429
-DTSTART:20231227T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:980536ae-9a8a-47a3-9215-af4c735f7a5e@9805.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231123T164500Z
-LOCATION:24-715
-DTSTART:20231123T151500Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:d637f384-148c-49f3-96cf-f91bd60bfca5@d637.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231122T164500Z
-LOCATION:24-713
-DTSTART:20231122T151500Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:c5174671-b764-43a0-9600-8dc14c658f23@c517.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20230926T164500Z
-LOCATION:24-715
-DTSTART:20230926T151500Z
-SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:54b95a89-1dfc-4768-aaa8-b6aec6885328@54b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20230921T164500Z
-LOCATION:24-715
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
-UID:214f1cfa-ce38-4a65-8c13-a57ecd6bb429@214f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231120T183000Z
-LOCATION:24-715
-DTSTART:20231120T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:18d07088-0130-4cc2-8e25-11b1a7b1722e@18d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231206T164500Z
-LOCATION:24-713
-DTSTART:20231206T151500Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:aa6e921b-c408-4df2-982c-c265c32e6bf7@aa6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231114T150000Z
-LOCATION:24-715
-DTSTART:20231114T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:7a59ee63-8b6d-4ddd-9ca8-95a5247d1a29@7a59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20230904T183000Z
-LOCATION:24-715
-DTSTART:20230904T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:e00ad281-33ef-4653-88af-aa78a3155690@e00a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231212T164500Z
-LOCATION:24-502
-DTSTART:20231212T151500Z
-SUMMARY:ЛК Системный анализ
-UID:6c19bbc2-4a12-48e1-8aba-8c33fe455c79@6c19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231030T164500Z
-LOCATION:24-715
-DTSTART:20231030T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:085db8e0-3609-46b1-b45d-4ef103aeb457@085d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231113T164500Z
-LOCATION:24-715
-DTSTART:20231113T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:ae21eb6e-868e-4c5b-b816-06b505c447c6@ae21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231225T183000Z
-LOCATION:24-715
-DTSTART:20231225T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:ca1bb535-7531-49d4-ae02-8b8465ad42ca@ca1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231102T183000Z
-LOCATION:24-600а
-DTSTART:20231102T170000Z
-SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
-UID:2f56bc01-a237-43b5-8e56-e3b230e0d036@2f56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231107T164500Z
-LOCATION:24-715
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:1992717f-00ce-47f6-8327-091155474ded@1992.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231228T183000Z
-LOCATION:24-600а
-DTSTART:20231228T170000Z
-SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
-UID:f5172237-20ec-48f3-9406-8293f6b49083@f517.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231121T164500Z
-LOCATION:24-715
-DTSTART:20231121T151500Z
-SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:74d4cc8e-101a-4d28-8dbe-9fe6a81318c8@74d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тепцов Вадим Антонович
-DTEND:20231122T183000Z
-LOCATION:24-713
-DTSTART:20231122T170000Z
-SUMMARY:ПЗ Системный анализ
-UID:7a6f9d3e-0dda-4eea-8b90-f679b2052933@7a6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231002T183000Z
-LOCATION:24-715
-DTSTART:20231002T170000Z
-SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:dd66a0de-e231-49d9-8ada-f8914eff2012@dd66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231025T164500Z
-LOCATION:24-713
-DTSTART:20231025T151500Z
-SUMMARY:ПЗ Межкультурные коммуникации
-UID:4be1e178-9baf-4385-9672-8e9de25de4fe@4be1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20230920T150000Z
-LOCATION:24-419
-DTSTART:20230920T133000Z
-SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
-UID:443448a7-038a-47be-945b-ea8b47c8a863@4434.org
+UID:17c5b520-55ea-4c03-bf29-d01f4b85a062@17c5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Камалетдинова Гузель Ринатовна
@@ -1039,95 +23,23 @@ DTEND:20231218T183000Z
 LOCATION:24-715
 DTSTART:20231218T170000Z
 SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
-UID:2a558d7f-6f3b-4c47-8180-d4a11bf9d280@2a55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231123T183000Z
-LOCATION:24-715
-DTSTART:20231123T170000Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:09037c06-1f9f-4b28-9d91-85cabf1c176d@0903.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231102T164500Z
-LOCATION:24-600а
-DTSTART:20231102T151500Z
-SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
-UID:dea94f4e-891a-467e-81f4-7fdedd4e51e5@dea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Белозерова Ирина Николаевна
-DTEND:20231221T164500Z
-LOCATION:24-715
-DTSTART:20231221T151500Z
-SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:612dd601-c863-4ac4-97f1-9a261e3274ae@612d.org
+UID:02532c9f-d99d-47f2-8435-a5412b4e466e@0253.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20230927T150000Z
-LOCATION:24-419
-DTSTART:20230927T133000Z
-SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
-UID:b7b88bc6-64a7-462f-b62a-db4be6fd21cc@b7b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231219T150000Z
+DTEND:20230919T150000Z
 LOCATION:24-715
-DTSTART:20231219T133000Z
+DTSTART:20230919T133000Z
 SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:2c3d05ac-0433-4532-b93d-b372eee4ccab@2c3d.org
+UID:77d2c2be-25ef-4ae7-bbfa-5db041fbfa6e@77d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20230912T150000Z
+DTEND:20231205T164500Z
 LOCATION:24-715
-DTSTART:20230912T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:a45e79bf-40a6-46f9-b425-1ad1a1cfe47b@a45e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231024T150000Z
-LOCATION:24-715
-DTSTART:20231024T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:572ff959-7d77-409a-b23c-6c80c963bc21@572f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20231010T150000Z
-LOCATION:24-715
-DTSTART:20231010T133000Z
-SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:92547284-2fb7-4e05-a1c6-10e24635ab0c@9254.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вельможко Ирина Николаевна
-DTEND:20231004T164500Z
-LOCATION:3-429
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Межкультурные коммуникации
-UID:141c0f96-7be3-4346-8900-8fcb63ed14f4@141c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Камалетдинова Гузель Ринатовна
-DTEND:20231002T164500Z
-LOCATION:24-715
-DTSTART:20231002T151500Z
-SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
-UID:efd51f62-6853-4c8f-8426-b8cb6b004291@efd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Васин Юрий Алексеевич
-DTEND:20230912T164500Z
-LOCATION:24-715
-DTSTART:20230912T151500Z
+DTSTART:20231205T151500Z
 SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
-UID:9b9e0805-4015-4ebe-ba2b-bc91b498078e@9b9e.org
+UID:41811fbd-f370-4adc-a65b-0b324a66e9ba@4181.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Белозерова Ирина Николаевна
@@ -1135,6 +47,1094 @@ DTEND:20231026T164500Z
 LOCATION:24-715
 DTSTART:20231026T151500Z
 SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
-UID:8a35e3b5-f341-4a9f-bbcb-d11380cc08f0@8a35.org
+UID:efecb0dd-5e3f-4f98-993b-933e4741a466@efec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231101T164500Z
+LOCATION:3-429
+DTSTART:20231101T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:a1da9d1a-2033-415f-8452-cca4a833c127@a1da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231127T164500Z
+LOCATION:24-715
+DTSTART:20231127T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:6c5ff0d1-6ba8-48bd-9956-1dad6cd7c2e3@6c5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231212T164500Z
+LOCATION:24-502
+DTSTART:20231212T151500Z
+SUMMARY:ЛК Системный анализ
+UID:357f3462-6ca9-4c1b-a8d0-3a1db0c10c95@357f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231011T150000Z
+LOCATION:24-419
+DTSTART:20231011T133000Z
+SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
+UID:fff5f8b7-0358-46cb-a7ec-7fe23e7975c7@fff5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231207T164500Z
+LOCATION:24-715
+DTSTART:20231207T151500Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:ca8da000-61df-402a-b5a2-66b5b480eddd@ca8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231227T164500Z
+LOCATION:3-429
+DTSTART:20231227T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:d03faef4-5846-4d8c-8c1d-77753fc3a4f5@d03f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231225T183000Z
+LOCATION:24-715
+DTSTART:20231225T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:b07f1629-0f16-453e-a09b-d8333d93a9cb@b07f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231017T150000Z
+LOCATION:24-715
+DTSTART:20231017T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:4270800a-c274-4b71-ae3e-1d582412e1c3@4270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231109T164500Z
+LOCATION:24-715
+DTSTART:20231109T151500Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:71641454-a4f6-4ec3-850c-339d3420fd41@7164.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231120T164500Z
+LOCATION:24-715
+DTSTART:20231120T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:b8ce57c8-5f3a-4948-98dd-032105930dd3@b8ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231206T150000Z
+LOCATION:24-419
+DTSTART:20231206T133000Z
+SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
+UID:aba427d2-844d-4d21-8261-d04da7b0f8c9@aba4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231030T183000Z
+LOCATION:24-715
+DTSTART:20231030T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:ccb3fb7d-1850-4bca-8d99-d4d2c0e31b56@ccb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231102T183000Z
+LOCATION:24-600а
+DTSTART:20231102T170000Z
+SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
+UID:3f7d88f7-2c24-4989-b587-8c862b6474b9@3f7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231122T164500Z
+LOCATION:24-713
+DTSTART:20231122T151500Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:81866881-f1bd-4161-8478-449de2b4e219@8186.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231228T164500Z
+LOCATION:24-600а
+DTSTART:20231228T151500Z
+SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
+UID:30698122-8233-4ce0-8e0c-8c2802c1c88d@3069.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20230907T183000Z
+LOCATION:24-715
+DTSTART:20230907T170000Z
+SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
+UID:133a4668-b3a6-404a-a854-7c7bac01c198@133a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231204T183000Z
+LOCATION:24-715
+DTSTART:20231204T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:d1480d17-4b82-46d7-80bf-4cc531b9f2d0@d148.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231024T150000Z
+LOCATION:24-715
+DTSTART:20231024T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:249374dd-49b9-41cd-a6cb-3c5df0916535@2493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231121T164500Z
+LOCATION:24-715
+DTSTART:20231121T151500Z
+SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:93a9d33b-4627-4a07-a5ba-705d6592adca@93a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231010T164500Z
+LOCATION:24-715
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:e35f705b-a20f-4260-9124-9bcffb6e5bc4@e35f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231218T164500Z
+LOCATION:24-715
+DTSTART:20231218T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:25ebd9f4-8f2d-454a-ad0d-421259d07ad8@25eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231009T164500Z
+LOCATION:24-715
+DTSTART:20231009T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:7ce116a5-4af3-4ca3-92f5-4a743663eaca@7ce1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231004T150000Z
+LOCATION:24-419
+DTSTART:20231004T133000Z
+SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
+UID:a4167472-b209-4ebb-9bda-0d43d8d5186b@a416.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231121T150000Z
+LOCATION:24-715
+DTSTART:20231121T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:eaa2d3ef-1c46-47c8-849c-d90868396e05@eaa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20230905T150000Z
+LOCATION:24-715
+DTSTART:20230905T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:660998d0-ddeb-46ed-859f-5e220acc0037@6609.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20230920T150000Z
+LOCATION:24-419
+DTSTART:20230920T133000Z
+SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
+UID:26abe8e3-9f39-41de-8045-3ade403f65a3@26ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231023T183000Z
+LOCATION:24-715
+DTSTART:20231023T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:1e3335f0-15a7-45d4-b89b-4dcd3274486d@1e33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231003T164500Z
+LOCATION:24-502
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Системный анализ
+UID:89b110ab-216b-4cc8-a012-cf5d3d71f79f@89b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231011T164500Z
+LOCATION:24-713
+DTSTART:20231011T151500Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:cc5d567d-309f-41e2-9715-945a366cc537@cc5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231018T164500Z
+LOCATION:3-429
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:5a0ac25a-509a-46b0-a8a0-ee5e5e697316@5a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231017T164500Z
+LOCATION:24-502
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Системный анализ
+UID:1e5c5ba7-25c9-4cc7-a37e-bb78611135e6@1e5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231012T183000Z
+LOCATION:24-715
+DTSTART:20231012T170000Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:5af21d66-adb5-49d9-98ae-fb218b6a2d03@5af2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231025T164500Z
+LOCATION:24-713
+DTSTART:20231025T151500Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:73bbdadd-62a3-4545-a9f4-821d95153dc7@73bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20230927T164500Z
+LOCATION:24-713
+DTSTART:20230927T151500Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:d8ee4316-cf70-4ffd-85c6-17bfc78d32d2@d8ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231115T150000Z
+LOCATION:24-419
+DTSTART:20231115T133000Z
+SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
+UID:d7275a2e-2913-4fa5-a4d3-4161360b682b@d727.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20230905T164500Z
+LOCATION:24-502
+DTSTART:20230905T151500Z
+SUMMARY:ЛК Системный анализ
+UID:489124a7-0547-43ed-83b7-f06b9e3c2056@4891.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231026T183000Z
+LOCATION:24-715
+DTSTART:20231026T170000Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:e60df189-69ee-451b-84d2-4de14275638c@e60d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231221T164500Z
+LOCATION:24-715
+DTSTART:20231221T151500Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:39a8a861-ce25-4950-a634-a7fc1a998f3b@39a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231005T164500Z
+LOCATION:24-715
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
+UID:2911bee1-446f-44a8-8a9a-c6868190a0fd@2911.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231012T164500Z
+LOCATION:24-715
+DTSTART:20231012T151500Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:7cdf5b16-bdbb-4126-8488-e0ac14fb921c@7cdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231123T183000Z
+LOCATION:24-715
+DTSTART:20231123T170000Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:57ff2fb7-dd23-40b5-9189-9fe26412f00d@57ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231031T150000Z
+LOCATION:24-715
+DTSTART:20231031T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:6672fd87-f6bd-4108-a89a-217a328e31f4@6672.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231114T164500Z
+LOCATION:24-502
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Системный анализ
+UID:3f93aa60-b7c5-4ce3-9af1-41798188e71e@3f93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20230914T183000Z
+LOCATION:24-715
+DTSTART:20230914T170000Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:ef7d2562-e056-4d21-a3f8-bc071541ae5e@ef7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231211T183000Z
+LOCATION:24-715
+DTSTART:20231211T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:80e4ec89-bbee-4b3e-a753-bb883d15b31b@80e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231221T183000Z
+LOCATION:24-715
+DTSTART:20231221T170000Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:86230f6e-712e-43d0-9c70-8e854b4ac505@8623.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231031T164500Z
+LOCATION:24-502
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Системный анализ
+UID:659f6b77-86ff-4899-a415-a45ceb9a22eb@659f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20230913T164500Z
+LOCATION:24-713
+DTSTART:20230913T151500Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:e3f0ed05-aa8a-43c9-a5c7-bdf2742fee57@e3f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231128T150000Z
+LOCATION:24-715
+DTSTART:20231128T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:82a95b64-b9ec-4f91-af8c-cca18de82095@82a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231106T183000Z
+LOCATION:24-715
+DTSTART:20231106T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:4b6860c0-5d4e-448b-a608-ed384a2b4866@4b68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231002T164500Z
+LOCATION:24-715
+DTSTART:20231002T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:a9ffb965-816a-476b-acea-0e3e97dd1956@a9ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231113T183000Z
+LOCATION:24-715
+DTSTART:20231113T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:9a0ae904-7877-468f-a7b3-4af640338a51@9a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231102T164500Z
+LOCATION:24-600а
+DTSTART:20231102T151500Z
+SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
+UID:992ec1bf-60f3-4581-a103-233de67b85ce@992e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231116T183000Z
+LOCATION:24-600а
+DTSTART:20231116T170000Z
+SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
+UID:787fba81-7f82-4180-9fc3-719aa30c6a29@787f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231127T183000Z
+LOCATION:24-715
+DTSTART:20231127T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:8d0618d4-b85e-40c5-8ead-5021bc69a977@8d06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231120T183000Z
+LOCATION:24-715
+DTSTART:20231120T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:36896a9c-a48c-457c-836b-6a20a93eccda@3689.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231220T150000Z
+LOCATION:24-419
+DTSTART:20231220T133000Z
+SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
+UID:d4bff017-cf34-4230-8e88-629141cdaa87@d4bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20230914T164500Z
+LOCATION:24-715
+DTSTART:20230914T151500Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:704518b9-ef8d-4575-b98b-38e7a79fa854@7045.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231214T164500Z
+LOCATION:24-600а
+DTSTART:20231214T151500Z
+SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
+UID:e520c4df-0120-45c4-9338-9660e5ab2daf@e520.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231107T164500Z
+LOCATION:24-715
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:39ab11ee-4156-48ac-9a5a-081378a1ebb7@39ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20230907T164500Z
+LOCATION:24-715
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
+UID:2f0a3fe0-6b42-439a-85cf-5f905183f399@2f0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20230926T150000Z
+LOCATION:24-715
+DTSTART:20230926T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:3a92e48d-0aa5-4b59-bbf2-deacd960796f@3a92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20230925T164500Z
+LOCATION:24-715
+DTSTART:20230925T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:1a6fd0ae-a6d3-4287-af72-38f7a51356b7@1a6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231025T183000Z
+LOCATION:24-713
+DTSTART:20231025T170000Z
+SUMMARY:ПЗ Системный анализ
+UID:f6e76c5d-4389-4f82-a053-49abff73cbae@f6e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231023T164500Z
+LOCATION:24-715
+DTSTART:20231023T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:e33654fc-111e-4e1f-bb18-e8b9dcf53a53@e336.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20230913T150000Z
+LOCATION:24-419
+DTSTART:20230913T133000Z
+SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
+UID:ec08174b-aed4-41dd-b5c5-ad936ab5ee33@ec08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231018T150000Z
+LOCATION:24-419
+DTSTART:20231018T133000Z
+SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
+UID:32f27951-248c-4ed8-809b-a805efc68359@32f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231107T150000Z
+LOCATION:24-715
+DTSTART:20231107T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:1e153ba3-0665-4519-83d6-99f5631578ba@1e15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231227T150000Z
+LOCATION:24-419
+DTSTART:20231227T133000Z
+SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
+UID:12ac5bbb-4ba1-4486-91ea-a2457e571d07@12ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20230904T164500Z
+LOCATION:24-715
+DTSTART:20230904T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:984338c3-2384-48df-a5a2-951178a8d0db@9843.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231108T150000Z
+LOCATION:24-419
+DTSTART:20231108T133000Z
+SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
+UID:cd950ff8-94d3-455d-8715-111eb502c8ff@cd95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20230904T183000Z
+LOCATION:24-715
+DTSTART:20230904T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:8a1b191d-e8f4-4d23-b948-95e77579854e@8a1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20230927T183000Z
+LOCATION:24-713
+DTSTART:20230927T170000Z
+SUMMARY:ПЗ Системный анализ
+UID:d6e9b23c-64ad-48ed-aedc-b9d7b9014838@d6e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231130T164500Z
+LOCATION:24-600а
+DTSTART:20231130T151500Z
+SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
+UID:fa6bdcdc-d599-4a22-9d38-08591fa30542@fa6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231025T150000Z
+LOCATION:24-419
+DTSTART:20231025T133000Z
+SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
+UID:2f860ccd-8127-4dd9-ace6-3aaea1664d91@2f86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231226T150000Z
+LOCATION:24-715
+DTSTART:20231226T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:a2c7ddec-626e-4f54-a6d7-3e00146557da@a2c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231226T164500Z
+LOCATION:24-502
+DTSTART:20231226T151500Z
+SUMMARY:ЛК Системный анализ
+UID:f0eb92ca-acee-48cb-9ea9-478209a50bfe@f0eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20230919T164500Z
+LOCATION:24-502
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Системный анализ
+UID:3d103c6e-9a5a-4cdb-9edd-3c35872d69ba@3d10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231101T150000Z
+LOCATION:24-419
+DTSTART:20231101T133000Z
+SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
+UID:02dba4b4-482f-4f82-aafb-05b5e5c6d3ee@02db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20230927T150000Z
+LOCATION:24-419
+DTSTART:20230927T133000Z
+SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
+UID:3d67ba11-1597-404d-b402-8551bf19fd44@3d67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231003T150000Z
+LOCATION:24-715
+DTSTART:20231003T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:7b0fa827-8566-45d9-bd37-0986731891b5@7b0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231108T183000Z
+LOCATION:24-713
+DTSTART:20231108T170000Z
+SUMMARY:ПЗ Системный анализ
+UID:51a7d0a4-18a0-4ee2-9726-76641e191e03@51a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231204T164500Z
+LOCATION:24-715
+DTSTART:20231204T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:370c6769-4868-486b-a7b4-ab4381c60d74@370c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231024T164500Z
+LOCATION:24-715
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:0ff17b50-41d1-4b79-803b-5153ec2bab25@0ff1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231228T183000Z
+LOCATION:24-600а
+DTSTART:20231228T170000Z
+SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
+UID:52eeabec-7a7e-4c1c-bd5a-3bb8d47340ac@52ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20230918T183000Z
+LOCATION:24-715
+DTSTART:20230918T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:3b2ca1e0-2f1a-4f6e-ade3-c42dc1a80100@3b2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231205T150000Z
+LOCATION:24-715
+DTSTART:20231205T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:1bd39af9-aa93-468a-ae8f-69b3db0af907@1bd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20230921T164500Z
+LOCATION:24-715
+DTSTART:20230921T151500Z
+SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
+UID:49078468-d942-4349-a8c8-ecdcb2dc77ae@4907.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231113T164500Z
+LOCATION:24-715
+DTSTART:20231113T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:88217469-b7a0-4ab8-9390-99b120857981@8821.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231009T183000Z
+LOCATION:24-715
+DTSTART:20231009T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:241ecde9-11c1-488e-a8c5-3798baa146bc@241e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231114T150000Z
+LOCATION:24-715
+DTSTART:20231114T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:d5c0ff8f-c4b1-4f34-bd34-41714b3f45ee@d5c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231122T150000Z
+LOCATION:24-419
+DTSTART:20231122T133000Z
+SUMMARY:ПЗ Безопасность и надежность систем медицинского обеспечения
+UID:8d33d922-e429-45a5-9242-7d62f5d29f78@8d33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231206T164500Z
+LOCATION:24-713
+DTSTART:20231206T151500Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:11faf255-fc5d-40b6-aa07-081609907317@11fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231206T183000Z
+LOCATION:24-713
+DTSTART:20231206T170000Z
+SUMMARY:ПЗ Системный анализ
+UID:54e50b99-3a9d-407e-bf89-7cf74db96794@54e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231129T150000Z
+LOCATION:24-419
+DTSTART:20231129T133000Z
+SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
+UID:cb18fb76-3aed-491d-b962-7f589979ab7c@cb18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20230926T164500Z
+LOCATION:24-715
+DTSTART:20230926T151500Z
+SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:856e176d-af23-4d66-aeab-7e4004b705c3@856e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231011T183000Z
+LOCATION:24-713
+DTSTART:20231011T170000Z
+SUMMARY:ПЗ Системный анализ
+UID:ca26fd2e-38c3-4482-97aa-949e719b0663@ca26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231128T164500Z
+LOCATION:24-502
+DTSTART:20231128T151500Z
+SUMMARY:ЛК Системный анализ
+UID:b2352d80-b556-490f-8302-35c5935fd80c@b235.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231030T164500Z
+LOCATION:24-715
+DTSTART:20231030T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:c2154dec-3eea-4fff-a9bf-17049f2201f7@c215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231010T150000Z
+LOCATION:24-715
+DTSTART:20231010T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:3b82baab-b879-48ae-a8b2-52785b900c54@3b82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20230928T164500Z
+LOCATION:24-715
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:30f6a19c-2f83-4618-918e-d02e2322fdc9@30f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231207T183000Z
+LOCATION:24-715
+DTSTART:20231207T170000Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:106326b0-26e7-4a8a-a837-7d32b0220fe7@1063.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20230911T183000Z
+LOCATION:24-715
+DTSTART:20230911T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:61735a6e-9a3a-414c-b468-8ca42ec0a626@6173.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231019T164500Z
+LOCATION:24-715
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
+UID:de7a015f-ad4a-40e6-8464-d6bf87c083c5@de7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20230911T164500Z
+LOCATION:24-715
+DTSTART:20230911T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:a63792a9-aeb0-448f-93b6-1958026d454b@a637.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231002T183000Z
+LOCATION:24-715
+DTSTART:20231002T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:5bb50e1e-e6af-4b51-af92-c74837ef77db@5bb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20230912T164500Z
+LOCATION:24-715
+DTSTART:20230912T151500Z
+SUMMARY:ПЗ Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:7b645d00-c0e2-4893-8621-83d4fd6ee44e@7b64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20230928T183000Z
+LOCATION:24-715
+DTSTART:20230928T170000Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:39d7d49c-b66c-473b-9505-3394f88d2167@39d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20230920T164500Z
+LOCATION:3-429
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:c1792ee4-aaed-4426-873b-c5bf5fb37aef@c179.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231106T164500Z
+LOCATION:24-715
+DTSTART:20231106T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:17924a87-f25d-45ce-8dfa-986a56cae478@1792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20230906T150000Z
+LOCATION:24-419
+DTSTART:20230906T133000Z
+SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
+UID:37eb8647-5fc8-45fb-ae1f-1e6f439a6a10@37eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231116T164500Z
+LOCATION:24-600а
+DTSTART:20231116T151500Z
+SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
+UID:bf471b47-48d6-4659-83e3-e5636e54c9d3@bf47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231219T150000Z
+LOCATION:24-715
+DTSTART:20231219T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:1547f173-9495-4a14-9a2f-7387074a3a78@1547.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231123T164500Z
+LOCATION:24-715
+DTSTART:20231123T151500Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:6d05d997-3e5d-4a16-8f72-4c5aa6dadd9a@6d05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231211T164500Z
+LOCATION:24-715
+DTSTART:20231211T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:f71b5325-d6de-40dc-934b-97fe31790fc8@f71b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231213T164500Z
+LOCATION:3-429
+DTSTART:20231213T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:f3d8fe74-de90-49bb-8484-2d0c8fe81540@f3d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231016T183000Z
+LOCATION:24-715
+DTSTART:20231016T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:c627a284-4436-48f0-9fef-39e0258d189b@c627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20231016T164500Z
+LOCATION:24-715
+DTSTART:20231016T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:8cdcd39d-f09a-4033-946e-29600f11d5da@8cdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231213T150000Z
+LOCATION:24-419
+DTSTART:20231213T133000Z
+SUMMARY:ЛК Безопасность и надежность систем медицинского обеспечения
+UID:d09c68ba-6d5e-4f9e-9ecd-1df61dbd796c@d09c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231019T183000Z
+LOCATION:24-715
+DTSTART:20231019T170000Z
+SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
+UID:67bfeff7-cba8-46cb-b700-f9073e4d1948@67bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20230912T150000Z
+LOCATION:24-715
+DTSTART:20230912T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:8c0a0044-4746-4d33-b76b-097120297cba@8c0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20230925T183000Z
+LOCATION:24-715
+DTSTART:20230925T170000Z
+SUMMARY:ПЗ Прикладные методы расчета и програмные комплексы
+UID:8bb8f999-d840-4903-9adf-7ccd76acedbd@8bb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20230913T183000Z
+LOCATION:24-713
+DTSTART:20230913T170000Z
+SUMMARY:ПЗ Системный анализ
+UID:7470dc73-d42f-4476-8dff-97eaac11de92@7470.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231108T164500Z
+LOCATION:24-713
+DTSTART:20231108T151500Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:2db681c4-d444-4162-8873-b455f88b0961@2db6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231109T183000Z
+LOCATION:24-715
+DTSTART:20231109T170000Z
+SUMMARY:ЛК Системы медицинского обеспечения космических аппаратов
+UID:151e645b-f71f-4b3b-bba8-4a54682c761b@151e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231220T164500Z
+LOCATION:24-713
+DTSTART:20231220T151500Z
+SUMMARY:ПЗ Межкультурные коммуникации
+UID:95f5f763-caa5-4f43-881b-de4546bf4027@95f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231115T164500Z
+LOCATION:3-429
+DTSTART:20231115T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:897c8006-be90-4deb-91eb-658ae9636612@897c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тепцов Вадим Антонович
+DTEND:20231122T183000Z
+LOCATION:24-713
+DTSTART:20231122T170000Z
+SUMMARY:ПЗ Системный анализ
+UID:42631867-10c3-489f-b211-bc24dc169db5@4263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231214T183000Z
+LOCATION:24-600а
+DTSTART:20231214T170000Z
+SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
+UID:3a9b98f0-21ab-4712-ac15-393ec4735771@3a9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231005T183000Z
+LOCATION:24-715
+DTSTART:20231005T170000Z
+SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
+UID:703924a7-bb07-41a0-9b45-e7ef52d9fe44@7039.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Васин Юрий Алексеевич
+DTEND:20231212T150000Z
+LOCATION:24-715
+DTSTART:20231212T133000Z
+SUMMARY:ЛК Системы обеспечения жизнедеятельности\, защиты и спасения экипажей КА
+UID:3c9c783b-dd5e-4f2d-8e27-2e0830c5af98@3c9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20230921T183000Z
+LOCATION:24-715
+DTSTART:20230921T170000Z
+SUMMARY:ПЗ Системы медицинского обеспечения космических аппаратов
+UID:c3ac3133-ac85-4cbb-906b-fc8af13b6c90@c3ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231129T164500Z
+LOCATION:3-429
+DTSTART:20231129T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:6f098ea2-6b2f-4684-9d69-41e010ceb68a@6f09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вельможко Ирина Николаевна
+DTEND:20231004T164500Z
+LOCATION:3-429
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Межкультурные коммуникации
+UID:c5eccfd8-7f00-4d0b-90a8-bb6ce7453d7d@c5ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Белозерова Ирина Николаевна
+DTEND:20231130T183000Z
+LOCATION:24-600а
+DTSTART:20231130T170000Z
+SUMMARY:ЛР Системы медицинского обеспечения космических аппаратов
+UID:3131e6d8-a301-46c8-89d3-489e98c1cf3e@3131.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Камалетдинова Гузель Ринатовна
+DTEND:20230918T164500Z
+LOCATION:24-715
+DTSTART:20230918T151500Z
+SUMMARY:ЛК Прикладные методы расчета и програмные комплексы
+UID:314ec192-1f51-4711-bbe1-3734c3b58516@314e.org
 END:VEVENT
 END:VCALENDAR

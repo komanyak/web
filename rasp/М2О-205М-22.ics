@@ -3,59 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231215T131500Z
-LOCATION:2-301(2В)
-DTSTART:20231215T114500Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:7a2fd5ef-dfc1-4355-849c-acffb82f05bf@7a2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20230920T150000Z
-LOCATION:2-101(2В)
-DTSTART:20230920T133000Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:57fbca47-0565-46e5-95ff-05aa0b7e080e@57fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231218T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231218T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:e26dd3cd-cb66-42b4-9375-b6ca2da25824@e26d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20230921T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20230921T133000Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:b5c8228a-27dd-459a-b4e0-cade34f64f04@b5c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231204T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231204T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:1b72a59f-fafd-4007-9702-d22ce9139fd7@1b72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231110T131500Z
+DTEND:20230929T131500Z
 LOCATION:2-211(2А)
-DTSTART:20231110T114500Z
+DTSTART:20230929T114500Z
 SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
-UID:c8dff117-3b50-48a4-b72f-fd8b340bf013@c8df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231229T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231229T100000Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:2711b59a-35f8-4612-8872-0e5e95e63b7a@2711.org
+UID:6aac01af-fa77-432a-93b8-8f8d1471df73@6aac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Монахова Вероника Павловна
@@ -63,1039 +15,7 @@ DTEND:20231117T131500Z
 LOCATION:2-301(2В)
 DTSTART:20231117T114500Z
 SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:cf5309a6-161a-44e0-9ee9-054f46a21adc@cf53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231207T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231207T114500Z
-SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:17a381ff-9456-4722-8e75-8626858004cd@17a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20230913T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20230913T133000Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:c029bbb4-8d82-4cd7-b328-87726d2b79bd@c029.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231020T150000Z
-LOCATION:3-137
-DTSTART:20231020T133000Z
-SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
-UID:89917a73-6476-4e78-9a80-391f21a90e03@8991.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231027T150000Z
-LOCATION:3-137
-DTSTART:20231027T133000Z
-SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
-UID:ab449649-2840-435c-9fbf-b012c25f5e24@ab44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231023T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231023T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:0e008850-e01c-42a6-8b4d-394a9e5b4b43@0e00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231113T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231113T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:4752a741-c87e-4d97-9017-38712af4b6e3@4752.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231108T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20231108T133000Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:4b7f3120-864b-4b02-ba32-11e24c75fb5c@4b7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231218T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231218T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:f5c2bc77-eb52-4e7c-bfea-6b5cc2f45adc@f5c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231103T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231103T100000Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:9674d3dc-d55f-49e2-8c6c-095de377b0c0@9674.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20230918T131500Z
-LOCATION:2-101(2В)
-DTSTART:20230918T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:a24c82e9-90b2-4f3c-aaed-e37b30a3c9b0@a24c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231213T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231213T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:e145078b-6fce-4633-bfa0-1f7e76985363@e145.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231109T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231109T100000Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:34b70f67-6045-4c63-bd78-cc9fccd42e2b@34b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231116T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231116T114500Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:5d920acc-6188-4760-9b48-74104bd5badb@5d92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231109T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231109T114500Z
-SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:7ae5ade5-5ed6-4394-a493-856636b4fdac@7ae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231012T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231012T100000Z
-SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:aa64c78e-0cd6-45fb-9133-362842f14760@aa64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231016T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231016T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:580afcf0-5f43-430e-9275-b5e34d90d8dd@580a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231009T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231009T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:d29b7d1f-e810-45ac-b07a-9b6bfd6d2630@d29b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231005T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231005T114500Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:19c04584-bc8d-4d55-ad50-dfc346131c1d@19c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20230928T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:7931371c-f1b7-4b3c-ade4-d7f16c72c9d0@7931.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20230911T131500Z
-LOCATION:2-101(2В)
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:714aaed8-04f5-4617-b01a-0f1aa9a8b680@714a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231006T150000Z
-LOCATION:3-137
-DTSTART:20231006T133000Z
-SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
-UID:0a1d27fe-e0f6-45f0-9961-cbfeb3a451a8@0a1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20230906T150000Z
-LOCATION:2-101(2В)
-DTSTART:20230906T133000Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:448eca59-a8ac-4eb5-a1c5-ce9c1a633d91@448e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231013T113000Z
-LOCATION:2-211(2А)
-DTSTART:20231013T100000Z
-SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:1918d7f4-efbf-4044-98d1-9cb4d1e32b78@1918.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231023T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:4479ddf8-d3d4-48e0-ba50-d8b92b71b26b@4479.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231130T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231130T133000Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:4e749886-7d83-4c4b-81a1-0138120c470e@4e74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231027T131500Z
-LOCATION:2-211(2А)
-DTSTART:20231027T114500Z
-SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
-UID:4b8b6874-ae90-4a90-b8df-bd16f8ebfa5f@4b8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231006T131500Z
-LOCATION:2-301(2В)
-DTSTART:20231006T114500Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:5b063bb3-53a9-4d55-90bd-72ef6ac36e77@5b06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231228T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231228T100000Z
-SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:40cc0240-2360-4eb3-9cb3-4664d5806248@40cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20230925T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20230925T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:385aafb8-110a-453b-8a18-803a4e7639f8@385a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231124T113000Z
-LOCATION:2-211(2А)
-DTSTART:20231124T100000Z
-SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:c42f9ec7-676d-4780-8ab8-a0f6efc9b025@c42f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231018T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:544b7359-a473-4f80-a196-0625ae607aa8@544b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231127T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231127T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:fd0f7e53-ecad-41b0-b73e-30b557b51e65@fd0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20230929T113000Z
-LOCATION:2-211(2А)
-DTSTART:20230929T100000Z
-SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:d05584fd-f1fe-4b47-8d3c-412b55a04be9@d055.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20230928T113000Z
-LOCATION:2-301(2В)
-DTSTART:20230928T100000Z
-SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:71ae2fef-42b1-41ce-8c02-0fbd447f1618@71ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231012T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231012T114500Z
-SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:ed2c98f0-5c5a-437c-8c70-81f3bbdd1a5b@ed2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231225T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231225T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:ab7a6028-64aa-481a-bfa1-ae0fd344f63c@ab7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231122T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20231122T133000Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:64fdde5c-7c57-442f-aa98-52390b337173@64fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231019T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231019T133000Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:d0ae719c-3a7b-497c-a955-cb85b718331d@d0ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231026T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231026T100000Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:c568a1d3-ed51-4b4a-bf82-a2d4598f5826@c568.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231228T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231228T133000Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:aee4502a-eb9d-43ea-95ab-e78962828454@aee4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231106T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231106T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:b527994f-121d-4a7a-b236-16cf4a106e0f@b527.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231102T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231102T100000Z
-SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:e16c8a49-8939-48db-bf01-c289147d94b3@e16c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20230921T113000Z
-LOCATION:2-301(2В)
-DTSTART:20230921T100000Z
-SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:5f14a805-9815-4753-bd74-598bec56a068@5f14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231002T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231002T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:fb3f04fb-d211-4725-95aa-9d7d747a87a8@fb3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231115T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:22acbaf5-b51f-4ff7-98b4-537234076ed5@22ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231006T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231006T100000Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:da8627f8-e416-4302-ab7b-328047a5d3d9@da86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20230929T131500Z
-LOCATION:2-211(2А)
-DTSTART:20230929T114500Z
-SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
-UID:d3bb7ce6-8827-4bca-8c85-06155478a27b@d3bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231102T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231102T114500Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:ea986666-c537-49d9-9eea-7daf77d561a6@ea98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231225T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231225T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:a604b219-dbb8-4029-a176-0cb069c9849f@a604.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231214T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231214T133000Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:c055c937-2b10-44a8-b68e-e7799fd4e3d2@c055.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20230922T113000Z
-LOCATION:2-301(2В)
-DTSTART:20230922T100000Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:57601898-66f4-4604-bcb0-2494da9ceac3@5760.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231101T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231101T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:597e5352-cf9c-41a8-ac89-fc6c0e1deeb8@597e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231117T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231117T100000Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:2e466def-ea82-4b96-9840-40bcbceca06f@2e46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231115T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231115T133000Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:0b6c2cf7-735e-457d-9658-da771eb5566e@0b6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231123T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231123T100000Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:34d20728-e22c-4bc5-8e2c-10e2e9b2f8e9@34d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231026T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Интегрированные системы менеджмента
-UID:de30f30f-686c-464c-928c-77bc3b075346@de30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231030T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:a11a930f-4768-4235-8533-e90d4651f654@a11a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20230920T131500Z
-LOCATION:2-101(2В)
-DTSTART:20230920T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:c5396b48-969b-41c8-88db-ca78ca0b1b32@c539.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20230915T150000Z
-LOCATION:3-137
-DTSTART:20230915T133000Z
-SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
-UID:f7cabb55-0f0a-4ddd-b217-baf8fcf3a85c@f7ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231101T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231101T133000Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:084689f9-425c-4ab0-b60f-33342802e89b@0846.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231011T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231011T114500Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:6b5e099f-1bc8-4158-9b58-03419fd7635f@6b5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231020T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231020T100000Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:98009ce0-2bbc-4da3-bddb-f86cd81b4103@9800.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231120T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231120T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:e332a169-ffb4-45a4-8941-37c64a44b6fd@e332.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231206T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20231206T133000Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:784bfdbb-2bdc-44ca-856e-87b1bd28cc0d@784b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231123T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Интегрированные системы менеджмента
-UID:958c5acb-c500-44a2-9d05-f702e033a3d2@958c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231130T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231130T100000Z
-SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:fd1903eb-31fc-4920-aedc-a72796227217@fd19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231208T113000Z
-LOCATION:2-211(2А)
-DTSTART:20231208T100000Z
-SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:f64cac56-21d9-47b1-a073-6348ac3eae98@f64c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231110T150000Z
-LOCATION:3-137
-DTSTART:20231110T133000Z
-SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
-UID:12507084-1795-4bb0-a64f-384c7d4647e7@1250.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231130T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231130T114500Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:d12e1047-12d6-44a1-9c72-6bbe76b36ee5@d12e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231110T113000Z
-LOCATION:2-211(2А)
-DTSTART:20231110T100000Z
-SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:aad9e79f-c963-4c90-b071-fb067723e04e@aad9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231214T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231214T114500Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:4ea4f6bd-6082-49e4-8524-1515a80c3723@4ea4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231221T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231221T133000Z
-SUMMARY:ЛК Интегрированные системы менеджмента
-UID:078d6c40-b3f5-4f34-aca1-4f46857d21ee@078d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231227T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231227T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:57d8587a-70ec-4e7b-a4e2-a8baf22fc892@57d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231009T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:f212061e-3f69-43d1-958a-7a8bf2ab9016@f212.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20230927T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20230927T133000Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:b48518d9-3c9b-436f-a9c6-e513b0e42159@b485.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231123T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231123T114500Z
-SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:a9fcabf3-6e51-4ae4-b71c-c352056248b7@a9fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231019T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231019T100000Z
-SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:e1eafcb8-2dfe-4ffa-bd43-fa6ae62f95d5@e1ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231109T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Интегрированные системы менеджмента
-UID:539010ba-4320-46e2-8eb3-b2590cce073b@5390.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231201T131500Z
-LOCATION:2-301(2В)
-DTSTART:20231201T114500Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:6d504cba-be40-4fa7-9fdc-9816f7ee8a86@6d50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231012T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Интегрированные системы менеджмента
-UID:ff431030-1a0f-4653-b2fe-c7b8eb9f6aa2@ff43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231027T113000Z
-LOCATION:2-211(2А)
-DTSTART:20231027T100000Z
-SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:3134c21c-0d93-404f-97f0-4f1ec26869d4@3134.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231106T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:8fcff2a5-1cec-45db-bdc9-c7de73a58f64@8fcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231206T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231206T114500Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:8cfc95b1-f150-4709-93b5-08ed176e57a5@8cfc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231220T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20231220T133000Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:b7191214-72df-4f9a-8a56-39385586eb42@b719.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231019T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231019T114500Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:317fcb11-ac91-432c-a873-b8543be91d1f@317f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20230914T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:c7d162dc-699e-46ed-91ea-73b2ba588025@c7d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231005T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231005T133000Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:33758086-6449-4326-812d-9bde681016a0@3375.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231016T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231016T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:62c00767-f1d0-43a3-91b3-7d8cd1378331@62c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231102T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231102T133000Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:77c4e85e-af87-47f9-b77c-5a651a8bb758@77c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231214T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231214T100000Z
-SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:387d6672-7bbd-42b6-a73e-b29091352eae@387d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231013T150000Z
-LOCATION:3-137
-DTSTART:20231013T133000Z
-SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
-UID:d7ebd26a-4894-4aef-8675-46b5c77885ad@d7eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231227T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231227T133000Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:170e0693-15aa-47ea-82d1-36d6a18429fb@170e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231116T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231116T100000Z
-SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:476a9353-5555-47bf-b115-a16d34a1399e@476a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20230913T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20230913T114500Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:b8a48472-dff6-4173-a8bc-eee1f3c908ee@b8a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231229T131500Z
-LOCATION:2-301(2В)
-DTSTART:20231229T114500Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:053bfc2c-5a2e-4926-b0ac-2fe5f95d9f28@053b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231129T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231129T133000Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:4d718cae-bbec-48a9-a94d-a8cf1540a4b3@4d71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231211T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231211T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:98182a41-08ef-4cfc-a36b-55399ab9a381@9818.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231004T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231004T133000Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:2d818b08-0971-4ec7-8cc8-430c887ac542@2d81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20230906T131500Z
-LOCATION:2-101(2В)
-DTSTART:20230906T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:2790cccd-327c-40de-9d70-0b7f463acc9a@2790.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231122T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:edb25b5d-2cda-4b1e-9544-9dc79f42e50e@edb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231103T131500Z
-LOCATION:2-301(2В)
-DTSTART:20231103T114500Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:9dd80315-191d-4f4e-9ac4-7a309d0b1b12@9dd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20230928T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Интегрированные системы менеджмента
-UID:831da6e2-f79e-4bb0-ac19-c0fcc0b92cc2@831d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231020T131500Z
-LOCATION:2-301(2В)
-DTSTART:20231020T114500Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:94f66d17-6dc5-464f-a9da-bcf6d05846cc@94f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231013T131500Z
-LOCATION:2-211(2А)
-DTSTART:20231013T114500Z
-SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
-UID:eb103c04-78d0-43d3-a826-6399c9730743@eb10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20230907T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20230907T114500Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:7abbb1f2-c31f-4af3-be8f-7436592fff4f@7abb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20230922T150000Z
-LOCATION:3-137
-DTSTART:20230922T133000Z
-SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
-UID:e5cfac54-1a83-44ee-b294-03f4c9d4a696@e5cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231129T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231129T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:f650f0b3-cf87-4c52-ad6d-68235d0179fb@f650.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20230911T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20230911T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:27f624ab-eec6-4eff-913d-04a1aff66f3d@27f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20230927T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20230927T114500Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:dbf5d525-fa08-44b1-b2a9-fb5bbb4ece49@dbf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231011T150000Z
-LOCATION:ГУК Б-550
-DTSTART:20231011T133000Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:b353cc00-822a-4abc-a2e2-b3d4acc0583e@b353.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231222T131500Z
-LOCATION:2-211(2А)
-DTSTART:20231222T114500Z
-SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
-UID:b95d5fc2-b670-4620-a248-48a9d9ece3f1@b95d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20230914T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Интегрированные системы менеджмента
-UID:c7101ae1-58aa-4df1-b1f9-36c5ae1bcc9c@c710.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231113T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:544f7b73-6d80-4426-bb67-f6dc57de2c19@544f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231207T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Интегрированные системы менеджмента
-UID:2dce46ab-1a35-423a-b949-554a1506b84d@2dce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20230915T113000Z
-LOCATION:2-211(2А)
-DTSTART:20230915T100000Z
-SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:db6ed0a3-432c-4540-b440-3720d97e31c2@db6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20230929T150000Z
-LOCATION:3-137
-DTSTART:20230929T133000Z
-SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
-UID:82a6f57d-011b-4a38-9e7b-24b7d58132f3@82a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20230907T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20230907T133000Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:23af34ad-8127-4e17-9946-6a59303ac96e@23af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231201T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231201T100000Z
-SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:e963c685-365d-458a-988c-8a04eee75762@e963.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231030T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231030T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:5d25919b-dcd6-4d31-a4e4-0a3d684efd08@5d25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231220T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231220T114500Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:d4d45dcb-60b1-4051-828f-78a5c58d8aa9@d4d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231222T113000Z
-LOCATION:2-211(2А)
-DTSTART:20231222T100000Z
-SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:eeb613be-5ce7-4ca7-9751-6bede7d647a0@eeb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231004T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231004T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:e1d203a4-9a8c-4dc5-86a1-e81dcd029ecc@e1d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20230915T131500Z
-LOCATION:2-211(2А)
-DTSTART:20230915T114500Z
-SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
-UID:8f3ec636-7b14-40dd-8ce6-b89a85c1305f@8f3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231127T131500Z
-LOCATION:2-101(2В)
-DTSTART:20231127T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:9cc05d6c-90f7-4f1b-bf9e-7b623d75866a@9cc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231005T113000Z
-LOCATION:2-301(2В)
-DTSTART:20231005T100000Z
-SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
-UID:c2d6f8aa-4b05-481f-bc81-654bc209994f@c2d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231221T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231221T114500Z
-SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:e8762305-81fd-410f-8251-8c43f5868151@e876.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20230925T131500Z
-LOCATION:2-101(2В)
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:9e810686-8824-422b-8e4e-c6c21f728cbe@9e81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20230904T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20230904T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:b63accc9-ba18-4c6c-9ea2-845f63687900@b63a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231026T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:81018892-0939-405f-8f37-95354304786a@8101.org
+UID:e86a5b0c-c983-4a49-b434-d4d4bdcb0943@e86a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карепин Петр Алексеевич
@@ -1103,127 +23,39 @@ DTEND:20230921T131500Z
 LOCATION:ГУК Б-652
 DTSTART:20230921T114500Z
 SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:e8cc49f9-4ae4-4452-942d-0fb9caf7ec8e@e8cc.org
+UID:ca2df812-7031-4e68-9046-ac9b4c24583b@ca2d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231208T131500Z
-LOCATION:2-211(2А)
-DTSTART:20231208T114500Z
-SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
-UID:93d57d30-eabc-4695-8471-99c97ccb4321@93d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231204T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231204T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:b887e595-18f2-4cd3-a6e5-4e5a0bf2eafb@b887.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20230904T131500Z
-LOCATION:2-101(2В)
-DTSTART:20230904T114500Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:b5d0ce5b-f3e2-4176-82bc-bd46bd39a77f@b5d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231116T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231116T133000Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:dea8f518-7556-4e38-9d14-1a644e1770de@dea8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231213T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231213T133000Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:e4f06a4c-4d37-4177-b7dc-a68347969175@e4f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231018T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231018T133000Z
-SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:9fd7bda0-17cc-4476-afb2-84c30c866a75@9fd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231228T131500Z
-LOCATION:ГУК Б-652
-DTSTART:20231228T114500Z
-SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
-UID:3ae5366e-f9c8-4ec0-84db-501294e77c38@3ae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231215T113000Z
+DTEND:20231006T113000Z
 LOCATION:2-301(2В)
-DTSTART:20231215T100000Z
+DTSTART:20231006T100000Z
 SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:a879ad7a-a0b7-4913-bfde-d3dbbab8161b@a879.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20230908T150000Z
-LOCATION:3-137
-DTSTART:20230908T133000Z
-SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
-UID:b1153a87-3f41-428e-ae57-d5b9dacd1153@b115.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20230918T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20230918T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:2af672a9-b066-4c6e-a5b4-20827c38c75c@2af6.org
+UID:77ebbd54-972c-4d74-8b04-f9e6df90a976@77eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ежов Алексей Дмитриевич
-DTEND:20231002T131500Z
+DTEND:20231115T150000Z
 LOCATION:2-101(2В)
-DTSTART:20231002T114500Z
+DTSTART:20231115T133000Z
 SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:a9863e03-e7dc-4b08-abb9-e440f93f2d59@a986.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231108T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231108T114500Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:8f3ca200-d2fd-48a1-9005-b54116f8c79e@8f3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карепин Петр Алексеевич
-DTEND:20231025T131500Z
-LOCATION:ГУК Б-550
-DTSTART:20231025T114500Z
-SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:5efeb4c3-ac76-4b65-b765-2e0a113ab6e6@5efe.org
+UID:88d0a6af-2edc-4d21-8581-256a974cb879@88d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Монахова Вероника Павловна
-DTEND:20231124T131500Z
+DTEND:20230915T131500Z
 LOCATION:2-211(2А)
-DTSTART:20231124T114500Z
+DTSTART:20230915T114500Z
 SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
-UID:0d1baaaa-6e07-4088-8114-cb177fee0505@0d1b.org
+UID:e81ebeda-dcac-4d1c-b560-b11cac51f3e5@e81e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Мирзоян Ирина Николаевна
-DTEND:20231211T150000Z
-LOCATION:ГУК Б-552
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
-UID:e0fcb062-66cf-40dc-b810-b0fa3a780bce@e0fc.org
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231005T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231005T114500Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:8b3f4f97-0881-4933-837f-7836fa537d23@8b3f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карепин Петр Алексеевич
@@ -1231,7 +63,151 @@ DTEND:20231025T150000Z
 LOCATION:ГУК Б-550
 DTSTART:20231025T133000Z
 SUMMARY:ПЗ Интегрированные системы менеджмента
-UID:cb31041c-9fca-478a-a5e2-d7788a3112f1@cb31.org
+UID:7ba1a01e-5002-4a36-bd16-4b78d988a3b0@7ba1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231206T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20231206T133000Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:0493e7b8-8858-4ac9-876c-51df58ee41ee@0493.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20230922T150000Z
+LOCATION:3-137
+DTSTART:20230922T133000Z
+SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
+UID:6f2b7a98-3c64-471f-9014-0123b01c88fa@6f2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20230914T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Интегрированные системы менеджмента
+UID:05b03fa4-99ed-4c31-95dc-2f2f5b410133@05b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20230911T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20230911T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:d47ea735-6551-412c-aada-74addb27a9aa@d47e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231228T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231228T100000Z
+SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:13b18f80-0f86-495d-96ca-e3a60b21700d@13b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231106T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231106T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:2d6099da-396e-492d-a574-ac94ef3eb24d@2d60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20230928T113000Z
+LOCATION:2-301(2В)
+DTSTART:20230928T100000Z
+SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:2920e508-d000-4af3-b52a-3bb68aab00b5@2920.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231207T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231207T133000Z
+SUMMARY:ЛК Интегрированные системы менеджмента
+UID:d514a496-e140-47cc-81fe-2eb5511d3ac1@d514.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231101T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231101T133000Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:6fe85003-b1dd-4de6-9193-2af0ad8bc000@6fe8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231030T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:ae65a9b1-0689-4610-b6a7-16e683924e7d@ae65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231009T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231009T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:cd3ed3d6-81ad-48be-a335-c81d14bf8f1a@cd3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231013T113000Z
+LOCATION:2-211(2А)
+DTSTART:20231013T100000Z
+SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:a07efb84-fe7b-4bbc-8122-dcb69a97ef2f@a07e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231229T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231229T100000Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:ce2bbc16-c724-4d02-9b6d-7505591e3e7d@ce2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231016T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:0251456e-acd7-48c1-9f98-a31333882741@0251.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231117T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231117T100000Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:97bac08e-c4d9-46d2-a387-7655a7536d9e@97ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231225T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231225T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:19134639-a65f-450f-8c2e-91dc07605e16@1913.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231229T131500Z
+LOCATION:2-301(2В)
+DTSTART:20231229T114500Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:475ba159-7a8d-460a-86ae-80d3bcda8eed@475b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231025T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:9b9c1137-b670-4967-ab2a-c94282d1097b@9b9c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Монахова Вероника Павловна
@@ -1239,7 +215,15 @@ DTEND:20230922T131500Z
 LOCATION:2-301(2В)
 DTSTART:20230922T114500Z
 SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
-UID:9b28311c-8742-415b-ab49-8a48dc3b87f0@9b28.org
+UID:66fd4eb4-b192-4d7d-bf4d-8a93b9531284@66fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20230928T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:4ccd0ee9-614f-4e79-964b-7adbacb4f854@4ccd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ежов Алексей Дмитриевич
@@ -1247,6 +231,1022 @@ DTEND:20231120T131500Z
 LOCATION:2-101(2В)
 DTSTART:20231120T114500Z
 SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
-UID:846f36f3-e855-43d8-b628-61051f5ebfcd@846f.org
+UID:0c9860e5-abdd-429a-a654-26bde02a82f5@0c98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231227T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231227T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:3f0640ff-0d28-4a15-a205-60e89b2f33c4@3f06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231206T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:a398e638-b867-4bb0-bc9d-68aa5263bd47@a398.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20230929T113000Z
+LOCATION:2-211(2А)
+DTSTART:20230929T100000Z
+SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:ef282e84-aa73-4350-844b-6e49d6365bd5@ef28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20230927T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20230927T114500Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:857030ac-b0ed-4b4e-a3f8-a60f5bbf49d9@8570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20230915T150000Z
+LOCATION:3-137
+DTSTART:20230915T133000Z
+SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
+UID:6d447834-c777-4cdb-96f4-83cbbdc6e55d@6d44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231108T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20231108T133000Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:c5a6f768-1e90-4d8d-816a-16e033be4c10@c5a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231123T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231123T114500Z
+SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:368acf8b-5710-4206-b6d7-f7741c26bd2d@368a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231214T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231214T133000Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:f87a8faa-ece6-446d-b2f0-61e65d366b2c@f87a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231023T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231023T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:7ed35d8e-fb8d-4e67-813c-13d2e177189d@7ed3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20230921T113000Z
+LOCATION:2-301(2В)
+DTSTART:20230921T100000Z
+SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:06eaf05c-3784-4543-a873-27233a4f6de6@06ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20230907T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20230907T133000Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:e09ca79d-6b3c-437e-97be-55187357446f@e09c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20230911T131500Z
+LOCATION:2-101(2В)
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:9af7c4dc-ef58-476c-9516-676092f7c179@9af7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20230908T150000Z
+LOCATION:3-137
+DTSTART:20230908T133000Z
+SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
+UID:b3864076-aefd-4db5-aaab-b3c5e5ea75f3@b386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231218T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231218T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:0908208a-e4db-498f-9eb7-7430b8f4ed67@0908.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20230914T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:c1a930d8-3149-4d56-9a1d-a8bb0f6bd7e2@c1a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20230904T131500Z
+LOCATION:2-101(2В)
+DTSTART:20230904T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:60bf85f5-9a70-41ff-a32b-2b3d234c00b4@60bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20230920T131500Z
+LOCATION:2-101(2В)
+DTSTART:20230920T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:47f64874-c14e-4b0a-8847-bb62f4fdcdc4@47f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20230928T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Интегрированные системы менеджмента
+UID:ac5226c0-12ce-463c-ac06-da5ebfa2e552@ac52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231004T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231004T133000Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:7ff348a7-799b-408f-8986-b4154caeae58@7ff3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231019T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231019T114500Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:b61cb1fa-bb21-4ae4-8570-b9b73e927bd4@b61c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231220T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20231220T133000Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:7eefcc44-a3cf-452e-87ce-9858d6daf3f3@7eef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231208T113000Z
+LOCATION:2-211(2А)
+DTSTART:20231208T100000Z
+SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:976b1d0f-e6d1-4685-8b1e-1158a0bc8ca1@976b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20230918T131500Z
+LOCATION:2-101(2В)
+DTSTART:20230918T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:a1920b4b-e135-423c-94d2-fd668974c3fe@a192.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231005T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231005T100000Z
+SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:f932d066-6c8c-404b-8aff-78555ac12dfb@f932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231020T131500Z
+LOCATION:2-301(2В)
+DTSTART:20231020T114500Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:44ddba95-8ae7-4953-9d1b-2de77bc20e1b@44dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231214T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231214T114500Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:a3b7a3b8-4278-43ae-a612-b6ed04745d6e@a3b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231213T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:b03984c9-bc70-4cee-8fde-70dd0748801e@b039.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20230925T131500Z
+LOCATION:2-101(2В)
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:2ff2d685-89da-47aa-847c-3dd1a3296dd5@2ff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231012T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231012T100000Z
+SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:9444d640-db23-4601-962b-18832b8391fd@9444.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231108T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:9ca1ba16-89cd-4257-8266-ee0a5e38171d@9ca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231109T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231109T114500Z
+SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:e08cddb6-fc5d-49a6-8007-ac6a4ac67189@e08c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231123T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231123T100000Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:c40babd3-44cb-4cbf-a8d6-0f80d2b66907@c40b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231019T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231019T133000Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:c1756b1c-5c35-47d9-b40f-153c382c82d5@c175.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231123T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Интегрированные системы менеджмента
+UID:d7b40386-d961-4028-b60b-17ad4e02a2d8@d7b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231130T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231130T100000Z
+SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:8b84a56d-2d6f-48e4-993c-22517089820e@8b84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20230907T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20230907T114500Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:ce1d5b10-c3f6-42f4-af5d-a198ad823077@ce1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231110T131500Z
+LOCATION:2-211(2А)
+DTSTART:20231110T114500Z
+SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
+UID:4820e8ba-7676-4697-931c-851b1ed71ab1@4820.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20230927T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20230927T133000Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:c152624c-1344-4705-98af-cbfb028997c0@c152.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231222T131500Z
+LOCATION:2-211(2А)
+DTSTART:20231222T114500Z
+SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
+UID:c3c96bc5-89c2-400a-99a7-3f261f4a3f85@c3c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231113T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231113T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:b57d4b8b-381d-439d-b779-a9b24ff73bcb@b57d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231207T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231207T114500Z
+SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:86e03d93-be9d-471f-9eac-03414fea6a4b@86e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231026T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231026T100000Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:c9c73c9f-37cb-46bf-88da-333d2b31a0ec@c9c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231214T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231214T100000Z
+SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:1cf972c8-8d44-4b99-a311-a03f3b292389@1cf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231116T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231116T100000Z
+SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:f12ac0ea-4b8b-4b44-949f-f7f020c96742@f12a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231129T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231129T133000Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:f09091ac-56a4-4940-88f1-05d85d31d366@f090.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231124T131500Z
+LOCATION:2-211(2А)
+DTSTART:20231124T114500Z
+SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
+UID:43ba795c-1c2c-4a7f-bcd9-271979ae3910@43ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231110T150000Z
+LOCATION:3-137
+DTSTART:20231110T133000Z
+SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
+UID:f8a750b6-b5c4-4a9b-96ca-0890c006614b@f8a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231020T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231020T100000Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:1a6064e3-f04a-4fd9-9f53-4427a8360ede@1a60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231018T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:5af410be-daec-4e97-a6ab-4d15be4db1a7@5af4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231012T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Интегрированные системы менеджмента
+UID:f2456bb4-f9fb-46d4-84e1-3108c80d63a7@f245.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231220T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:4d3ada69-7ba5-49ae-9a6b-28de9fa3889f@4d3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231225T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231225T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:96628684-eb51-4e87-9476-79958f1bd069@9662.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20230918T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:7bb92040-3d67-42ec-aa1f-72cf14fbb745@7bb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231215T131500Z
+LOCATION:2-301(2В)
+DTSTART:20231215T114500Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:46cef565-ea76-4e60-81a1-08620b13d150@46ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231124T113000Z
+LOCATION:2-211(2А)
+DTSTART:20231124T100000Z
+SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:9b5048cb-922c-42d5-b0f1-c451d14ad1d4@9b50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231023T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:091cf2de-34e7-49e4-9745-89a36a093cf3@091c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231013T131500Z
+LOCATION:2-211(2А)
+DTSTART:20231013T114500Z
+SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
+UID:428c36b7-5382-4e62-af49-c315e262f1b6@428c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231009T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:c57ce55a-5b45-4dc3-ae40-8cb153456d78@c57c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20230920T150000Z
+LOCATION:2-101(2В)
+DTSTART:20230920T133000Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:e9646c5a-a902-421a-9c3d-9e6e75af0377@e964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231027T150000Z
+LOCATION:3-137
+DTSTART:20231027T133000Z
+SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
+UID:b34034e3-bb8b-4830-b9cd-352a031532f0@b340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20230915T113000Z
+LOCATION:2-211(2А)
+DTSTART:20230915T100000Z
+SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:a732bfb7-e7be-40c4-8391-805e8c26571d@a732.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231211T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231211T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:46111128-67cf-41ca-996e-659d986fe738@4611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231006T131500Z
+LOCATION:2-301(2В)
+DTSTART:20231006T114500Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:0d597c17-db4a-4061-8003-8f6339b45ada@0d59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231019T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231019T100000Z
+SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:a767fe52-ca30-4b4a-9c86-a1803432f7ad@a767.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231215T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231215T100000Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:96f13960-33bc-4e3b-b6a8-e152d4dea8af@96f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231130T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231130T133000Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:66c35510-28d7-4633-aa74-771b5ee7b2c2@66c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231130T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231130T114500Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:53d845bc-5464-45c4-9fbc-8e54fd3476ec@53d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231201T131500Z
+LOCATION:2-301(2В)
+DTSTART:20231201T114500Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:6182c9a3-44c5-49d2-95f8-3af17c0a4738@6182.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231228T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231228T133000Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:5e70021a-ff60-4107-bb65-1ca8adde9f36@5e70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231016T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:94ed3ab6-7f98-4fa9-8522-c348ed7fa9e4@94ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231030T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231030T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:19d01f34-981b-473d-8107-838851eab74a@19d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231002T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:00cac10e-96a5-4a2b-8860-00a9f416ae61@00ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20230904T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20230904T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:409ac014-fdcc-47f1-b57b-3eca7392e792@409a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20230925T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20230925T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:f20ae4e6-6ade-4ce1-99b6-4c6dca5a26bb@f20a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231228T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231228T114500Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:9c59c6f0-d0ea-47bc-b2af-89d4107515dd@9c59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231221T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231221T133000Z
+SUMMARY:ЛК Интегрированные системы менеджмента
+UID:ee4dfa29-daee-40b9-b535-66d4492778c9@ee4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231011T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231011T114500Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:dec88e68-7224-4c9b-8477-bdb4571ffb9c@dec8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231102T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231102T100000Z
+SUMMARY:ПЗ Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:cc2fba6d-ac8b-4346-8564-31658892e5ed@cc2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231222T113000Z
+LOCATION:2-211(2А)
+DTSTART:20231222T100000Z
+SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:6a15b718-616a-4e37-a8e0-7f9b8c0ea4d1@6a15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20230921T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20230921T133000Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:b45e23a6-b74a-4e77-9ad0-5a43e56ec48b@b45e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231120T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231120T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:f9488e1a-514a-4304-9936-14f4dbdde9ed@f948.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231227T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231227T133000Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:aa29a88b-e43c-4749-bf21-a50315028316@aa29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231204T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231204T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:76497499-52a7-4427-b1da-f3953ac42c79@7649.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20230913T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:6bee1c9f-88c9-4463-a3f5-d2e6fea1117c@6bee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231011T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20231011T133000Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:c31bfa86-f8bd-406f-a2e5-29a75dda328a@c31b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231110T113000Z
+LOCATION:2-211(2А)
+DTSTART:20231110T100000Z
+SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:bbb58cf5-77b5-45a1-ba0d-a5b32a088baa@bbb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231102T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231102T114500Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:80b6253f-ea97-4a08-a545-2ed53b4ef866@80b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20230922T113000Z
+LOCATION:2-301(2В)
+DTSTART:20230922T100000Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:45d559bc-41a7-4bd6-b62e-d64b8e01e010@45d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231129T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:dd280bab-0641-478e-9d35-10ebb2431d94@dd28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ерикова Анастасия Михайловна
+DTEND:20231027T113000Z
+LOCATION:2-211(2А)
+DTSTART:20231027T100000Z
+SUMMARY:ЛК Учебно-методический семинар по проблемам стандартизации и метрологии
+UID:353bbc1b-b14e-4f14-8b16-af7537452381@353b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231027T131500Z
+LOCATION:2-211(2А)
+DTSTART:20231027T114500Z
+SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
+UID:e456c687-5dda-4b3a-b6f7-fa4fd744e4f6@e456.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231218T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231218T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:1f82fb22-b20d-472b-8d84-8f6626adcd61@1f82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231113T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:d747750e-db85-4f6e-bb5a-429e8a42071a@d747.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231006T150000Z
+LOCATION:3-137
+DTSTART:20231006T133000Z
+SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
+UID:0e7f3bd4-f4d7-431d-a24e-f3f041eb44dc@0e7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231106T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:0363ae9a-f02b-45c1-912a-be29f8a4bc3e@0363.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231026T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:ddc1e427-b349-4559-9e96-6fdecd25c865@ddc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231127T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231127T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:c66c03f5-d1ab-471b-b33b-2bbd717a749b@c66c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231013T150000Z
+LOCATION:3-137
+DTSTART:20231013T133000Z
+SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
+UID:e7f3139c-b84d-4ef6-9317-b7cf8c346b8e@e7f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231115T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:69dcb703-e6e9-463f-8602-0a70fe5f3dfa@69dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231018T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231018T133000Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:761c8ca8-3c4a-41ab-9c9a-1a60cc7ef8b3@761c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231002T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:70618d7b-5fbb-4f05-9973-120ef61b7916@7061.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231020T150000Z
+LOCATION:3-137
+DTSTART:20231020T133000Z
+SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
+UID:9618b775-14a6-4192-8f2a-5084880aa498@9618.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231204T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:7ab6fd68-01f8-45b3-9bf0-36fbf204b0c5@7ab6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231208T131500Z
+LOCATION:2-211(2А)
+DTSTART:20231208T114500Z
+SUMMARY:ЛК Методы оценки эффективности работ в области стандартизации и метрологии
+UID:7ae845bf-7ae2-46ba-93de-e93ad827103a@7ae8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20230906T131500Z
+LOCATION:2-101(2В)
+DTSTART:20230906T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:777008df-a374-4529-962f-7d15daa0de30@7770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231102T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231102T133000Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:bedc1b1f-9306-4d2b-b594-1cc3fd7af9a3@bedc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20230913T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20230913T133000Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:67eb0c54-4c97-44e2-9204-5cff15e113c6@67eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20231211T150000Z
+LOCATION:ГУК Б-552
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Защита интеллектуальной собственности и патентоведение
+UID:d3c28ffd-0829-4b8c-b10f-84a849d7c3cd@d3c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231213T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231213T133000Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:c468bebe-cb97-4e35-b19e-a45d5df758cf@c468.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231005T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231005T133000Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:3f68f868-0e64-4a69-b920-05febeff9c15@3f68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231201T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231201T100000Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:57f4affb-2902-4382-adda-1edfb47ac83a@57f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231004T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231004T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:28b5dd68-ce02-4160-a99e-ef38419009bf@28b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231116T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231116T133000Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:e3317461-ed38-42f8-bd7b-da4f08b44490@e331.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231026T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Интегрированные системы менеджмента
+UID:74100360-2432-4945-a78b-b62430ac453e@7410.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231127T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231127T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:f593898c-d972-466a-8f87-93ffc87d609d@f593.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231116T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231116T114500Z
+SUMMARY:ПЗ Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:da0d6b76-47e9-4887-b82a-ffdfd943bdf2@da0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231012T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231012T114500Z
+SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:d482d338-525f-4a47-8ad9-9f601eaac255@d482.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231109T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Интегрированные системы менеджмента
+UID:b2c15524-7a0b-4765-90dc-836d32da6f47@b2c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231122T131500Z
+LOCATION:ГУК Б-550
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:0dac94e9-70c9-41a3-81ca-f668d23c8b9a@0dac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20231101T131500Z
+LOCATION:2-101(2В)
+DTSTART:20231101T114500Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:d6327286-b9e3-49ab-88aa-aabcc00a9918@d632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ежов Алексей Дмитриевич
+DTEND:20230906T150000Z
+LOCATION:2-101(2В)
+DTSTART:20230906T133000Z
+SUMMARY:ПЗ Информационные технологии и средства программирования элементов измерительных систем
+UID:285f1ab5-bfac-4203-abc5-747c74d0f0fa@285f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мирзоян Ирина Николаевна
+DTEND:20230929T150000Z
+LOCATION:3-137
+DTSTART:20230929T133000Z
+SUMMARY:ПЗ Защита интеллектуальной собственности и патентоведение
+UID:31c000bb-a236-4663-a71a-ae68dc5d15db@31c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231109T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231109T100000Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:fc5f2369-bcb9-497d-a268-e4f6f2a1709c@fc5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231221T131500Z
+LOCATION:ГУК Б-652
+DTSTART:20231221T114500Z
+SUMMARY:ЛК Система отраслевых стандартов менеджмента качества в аэрокосмической промышленности
+UID:4df0c5a7-a2d0-4b24-be1a-4b33f9779af5@4df0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231103T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231103T100000Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:b0992738-cc6d-44ef-8f71-4f96aaff28b9@b099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Монахова Вероника Павловна
+DTEND:20231103T131500Z
+LOCATION:2-301(2В)
+DTSTART:20231103T114500Z
+SUMMARY:ПЗ Методы оценки эффективности работ в области стандартизации и метрологии
+UID:513eb80c-f283-4890-8c7a-6840c296c530@513e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карепин Петр Алексеевич
+DTEND:20231122T150000Z
+LOCATION:ГУК Б-550
+DTSTART:20231122T133000Z
+SUMMARY:ПЗ Интегрированные системы менеджмента
+UID:716f6020-2988-4dcf-9860-d54ec4828b9a@716f.org
 END:VEVENT
 END:VCALENDAR

@@ -2,232 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20230915T164500Z
-LOCATION:1-201
-DTSTART:20230915T151500Z
-SUMMARY:ЛК Методы вычислительной механики
-UID:fc9022f5-0687-45b2-914e-bc597e94f526@fc90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231117T164500Z
-LOCATION:1-201
-DTSTART:20231117T151500Z
-SUMMARY:ЛК Методы вычислительной механики
-UID:b07dff2d-573f-4720-8539-e6e8cd981ed6@b07d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
+DTEND:20230925T164500Z
 LOCATION:--каф.
-DTSTART:20231009T133000Z
+DTSTART:20230925T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e61227c8-9f9f-4c11-96c2-760a51a30d3b@e612.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ff593035-a1ff-4991-a1e0-2428feae0fd1@ff59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231201T164500Z
-LOCATION:1-201
-DTSTART:20231201T151500Z
-SUMMARY:ЛК Методы вычислительной механики
-UID:03cae509-717b-4f4e-9cd8-c246a938ece5@03ca.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1824abb5-38d4-472d-9ff6-55b472cb47ea@1824.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:ae29e13a-b035-4d74-9a5e-4f50957499e1@ae29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231124T164500Z
-LOCATION:1-201
-DTSTART:20231124T151500Z
-SUMMARY:ЛК Методы вычислительной механики
-UID:4899cf6b-bdce-48da-bd75-4ba7dd4e1f95@4899.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8ff4d1f6-9e74-49b3-b13e-0f8c0c7d6330@8ff4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:08dde65a-cecf-4938-a9e6-3f42094c453e@08dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231117T183000Z
-LOCATION:1-201
-DTSTART:20231117T170000Z
-SUMMARY:ПЗ Методы вычислительной механики
-UID:d15ae094-5c71-4bc1-ac40-6c280661671f@d15a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:38c45f41-a78e-4148-8e7f-4e9c7637de54@38c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20230915T183000Z
-LOCATION:1-201
-DTSTART:20230915T170000Z
-SUMMARY:ПЗ Методы вычислительной механики
-UID:a0f46833-de1d-420f-860b-a679d95017a4@a0f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231013T183000Z
-LOCATION:1-201
-DTSTART:20231013T170000Z
-SUMMARY:ПЗ Методы вычислительной механики
-UID:79b80f8b-ac20-4be4-a584-45c17e743363@79b8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:59f0fd2f-b6bc-44c1-9ff2-c84993e508fa@59f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c5fc25f9-9acb-4207-89ad-be80f50dc5e0@c5fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20230908T164500Z
-LOCATION:1-201
-DTSTART:20230908T151500Z
-SUMMARY:ЛК Методы вычислительной механики
-UID:80d32d83-0c70-4e29-b148-25f71a3926f6@80d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231205T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231205T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:28d291db-1b24-41ea-a27b-66de3e987b36@28d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20230922T164500Z
-LOCATION:1-201
-DTSTART:20230922T151500Z
-SUMMARY:ЛК Методы вычислительной механики
-UID:eabf148c-9f0c-4329-8be5-9b269a400ddb@eabf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2d088fc7-201f-409a-becb-749ed6ee76ee@2d08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:c6f569ce-cd29-4c1e-adaf-3da4f3c690d0@c6f5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T164500Z
-LOCATION:--каф.
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:37809a28-aeeb-4b98-8be8-898fe2475f25@3780.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a905c1a4-79f1-450b-aa2b-93fcca511b05@a905.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231124T183000Z
-LOCATION:1-201
-DTSTART:20231124T170000Z
-SUMMARY:ПЗ Методы вычислительной механики
-UID:6abcb0ac-aa15-4ca7-b446-660af4a0d905@6abc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231208T164500Z
-LOCATION:1-201
-DTSTART:20231208T151500Z
-SUMMARY:ЛК Методы вычислительной механики
-UID:0dfaf699-9ead-47b0-97a1-048dde3faf0a@0dfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:9cdd1139-0079-4d98-b2cc-b72135dfd657@9cdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231006T164500Z
-LOCATION:1-201
-DTSTART:20231006T151500Z
-SUMMARY:ЛК Методы вычислительной механики
-UID:6aba12cd-ab51-46f7-ad73-88ddf7408d8a@6aba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20230922T183000Z
-LOCATION:1-201
-DTSTART:20230922T170000Z
-SUMMARY:ПЗ Методы вычислительной механики
-UID:d690398a-c2fc-4330-82de-2030e84cb528@d690.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c73e2368-bee7-4584-88dc-b12f12ea48e8@c73e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:fa9ddbc4-7b16-4639-ae69-656dde93d73d@fa9d.org
+UID:cc2178c7-1607-4c44-b145-52bbf402979f@cc21.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Григорьев Валерий Георгиевич
@@ -235,113 +14,15 @@ DTEND:20231110T164500Z
 LOCATION:1-201
 DTSTART:20231110T151500Z
 SUMMARY:ЛК Методы вычислительной механики
-UID:e426cac4-5ded-4688-ab2e-9c1ddf10f324@e426.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b630cdb5-2383-46c9-8d9b-35c1b416a4f6@b630.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:71135686-c944-404f-b3f8-21a52ab5e43a@7113.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c57fd86c-751f-40c8-baa0-84404fb20465@c57f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:66e7f2b6-f516-4523-aa15-eff0effae7b9@66e7.org
+UID:3a3b4465-df19-4ea2-9ebf-c3f09d3ff50e@3a3b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20230908T183000Z
+DTEND:20231124T164500Z
 LOCATION:1-201
-DTSTART:20230908T170000Z
-SUMMARY:ПЗ Методы вычислительной механики
-UID:4a5a7e6e-7684-49f4-bc68-5e0954d6e4e2@4a5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231020T164500Z
-LOCATION:1-201
-DTSTART:20231020T151500Z
+DTSTART:20231124T151500Z
 SUMMARY:ЛК Методы вычислительной механики
-UID:529bd65b-39e2-4ccc-b406-b9798ac5990d@529b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231219T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231219T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:1fb50e4a-2fb8-445c-a4d2-5ff6687bce72@1fb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231110T183000Z
-LOCATION:1-201
-DTSTART:20231110T170000Z
-SUMMARY:ПЗ Методы вычислительной механики
-UID:62074a12-38dd-4665-a549-9494d543985c@6207.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:31bca932-2a5c-49f0-a96b-e0735d16f7cd@31bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231219T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:4321fba1-fd40-4f6a-b2c4-8759daee8f9b@4321.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231006T183000Z
-LOCATION:1-201
-DTSTART:20231006T170000Z
-SUMMARY:ПЗ Методы вычислительной механики
-UID:313679a4-9eb2-4a0b-9cbd-cfbd8524ae4e@3136.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:0f3cbc8c-cfe6-4019-aa0e-5f6984a2594a@0f3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231027T164500Z
-LOCATION:1-201
-DTSTART:20231027T151500Z
-SUMMARY:ЛК Методы вычислительной механики
-UID:115fcc81-a412-4351-93c7-a87d25910e72@115f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231215T164500Z
-LOCATION:1-201
-DTSTART:20231215T151500Z
-SUMMARY:ЛК Методы вычислительной механики
-UID:1f36fe83-12eb-4d86-8ad4-864f2b8d3a13@1f36.org
+UID:41bed221-6452-41ba-8182-a6dda39226d7@41be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -349,129 +30,7 @@ DTEND:20230919T164500Z
 LOCATION:ГУК В-228
 DTSTART:20230919T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:09c14131-778d-48d5-8bee-77b3eb74d841@09c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231027T183000Z
-LOCATION:1-201
-DTSTART:20231027T170000Z
-SUMMARY:ПЗ Методы вычислительной механики
-UID:fcdb8698-f21a-4d6b-8ea6-fe89e8609fbb@fcdb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:cd5eea57-e9ac-45c5-917a-b57ab1ac0e87@cd5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231020T183000Z
-LOCATION:1-201
-DTSTART:20231020T170000Z
-SUMMARY:ПЗ Методы вычислительной механики
-UID:029c7a0d-8fb3-48eb-aef5-98948bb4cddc@029c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:ab87164c-b33e-416b-9fa1-8b46abdfa969@ab87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20230929T183000Z
-LOCATION:1-201
-DTSTART:20230929T170000Z
-SUMMARY:ПЗ Методы вычислительной механики
-UID:91157895-2626-47e2-a977-ec97acb08c54@9115.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231205T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:11b9b5ae-7a16-45e8-967e-97e301be1257@11b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:d4c2f32e-e751-4c45-875a-82c28db9dc6a@d4c2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8c96a96e-6ce6-4a6a-9965-8247d50089f1@8c96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:ffe480a7-cda3-4b97-9dea-29f3616f9faa@ffe4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:de8b4a55-367c-46a6-afe9-132e8ff2005e@de8b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:9fc6bd2c-d9e6-41d2-b889-2f5e18de21ca@9fc6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6fbbd1ba-93e2-4416-8a6c-a1c4847bbf2c@6fbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Григорьев Валерий Георгиевич
-DTEND:20231013T164500Z
-LOCATION:1-201
-DTSTART:20231013T151500Z
-SUMMARY:ЛК Методы вычислительной механики
-UID:c0724ad8-ed8c-4e8b-bcbd-8b656ea582b2@c072.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:e8bb762a-e7a0-4c2f-9d83-f8ad664bdf82@e8bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:69ee171e-f3c0-43f3-b7e5-25c79b7ae084@69ee.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:42105e44-445e-43fa-b8d5-496c3cca1095@4210.org
+UID:0e960602-7ba4-4a9a-9189-4b612fc4c08a@0e96.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Григорьев Валерий Георгиевич
@@ -479,13 +38,454 @@ DTEND:20230929T164500Z
 LOCATION:1-201
 DTSTART:20230929T151500Z
 SUMMARY:ЛК Методы вычислительной механики
-UID:af913d2b-eed1-47d1-904c-8c3626435ed1@af91.org
+UID:581dc5a4-0dec-48b3-9eaa-2eb8ab01ab11@581d.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230925T164500Z
+DTEND:20231009T164500Z
 LOCATION:--каф.
-DTSTART:20230925T151500Z
+DTSTART:20231009T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:318e94be-a3c3-4e64-8785-6af4dcfbb187@318e.org
+UID:4d61b8c5-3d1a-4fb5-9a8c-0a5cb449577c@4d61.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b3418d54-b144-4d8e-afaa-eb24a5891b74@b341.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231020T183000Z
+LOCATION:1-201
+DTSTART:20231020T170000Z
+SUMMARY:ПЗ Методы вычислительной механики
+UID:fbac9997-e3d4-4f1a-8e8f-da200f99c3f0@fbac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20230922T164500Z
+LOCATION:1-201
+DTSTART:20230922T151500Z
+SUMMARY:ЛК Методы вычислительной механики
+UID:93eb226b-4dda-485c-af15-328bc7b4cf5a@93eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231110T183000Z
+LOCATION:1-201
+DTSTART:20231110T170000Z
+SUMMARY:ПЗ Методы вычислительной механики
+UID:df03385c-638d-4054-afb7-30adb4ed468a@df03.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5117ae49-999c-4e9b-818f-0cc81529f0e8@5117.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20230908T183000Z
+LOCATION:1-201
+DTSTART:20230908T170000Z
+SUMMARY:ПЗ Методы вычислительной механики
+UID:7b3d9288-e648-4aaa-88a2-979e5f8bab88@7b3d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a0e49bb1-5728-4106-b219-08fe6acccbcb@a0e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:41b70a6b-9837-43a3-b40f-c923130b3dcc@41b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231208T164500Z
+LOCATION:1-201
+DTSTART:20231208T151500Z
+SUMMARY:ЛК Методы вычислительной механики
+UID:4f50a282-77ba-4393-90e7-9f56711dad4f@4f50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231027T164500Z
+LOCATION:1-201
+DTSTART:20231027T151500Z
+SUMMARY:ЛК Методы вычислительной механики
+UID:8eb015e8-9b4c-40c9-a52c-e5e6357d502d@8eb0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d6f795a1-9f7c-4838-85eb-eb1ec117e1bd@d6f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231124T183000Z
+LOCATION:1-201
+DTSTART:20231124T170000Z
+SUMMARY:ПЗ Методы вычислительной механики
+UID:357061af-0e73-4996-ab9b-db10ff101d38@3570.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:756a33f2-78ea-461d-bb5e-003dfbe2de77@756a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20230929T183000Z
+LOCATION:1-201
+DTSTART:20230929T170000Z
+SUMMARY:ПЗ Методы вычислительной механики
+UID:01ca4543-4f3a-48ff-b830-f34eb30ef74c@01ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231006T164500Z
+LOCATION:1-201
+DTSTART:20231006T151500Z
+SUMMARY:ЛК Методы вычислительной механики
+UID:8547a61e-3f1f-4aff-a1ab-f77c1ff027da@8547.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:eba7ceb4-0889-421a-8ba6-97db12e6161d@eba7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3354d85c-d7cd-42d2-9af6-a7052d4cdb3b@3354.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T164500Z
+LOCATION:--каф.
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0003035b-7128-450e-84e2-880f11d5e619@0003.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231013T183000Z
+LOCATION:1-201
+DTSTART:20231013T170000Z
+SUMMARY:ПЗ Методы вычислительной механики
+UID:4eccc15e-365c-49ba-866b-d5f8ebad8c73@4ecc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231117T164500Z
+LOCATION:1-201
+DTSTART:20231117T151500Z
+SUMMARY:ЛК Методы вычислительной механики
+UID:b5867566-d8dd-4ed1-b45d-0c735a1ad8bb@b586.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:694a968d-169e-4381-b284-322ebfdeb58e@694a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231205T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231205T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:113dc000-64fe-4856-b1a5-c8513b007741@113d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231215T164500Z
+LOCATION:1-201
+DTSTART:20231215T151500Z
+SUMMARY:ЛК Методы вычислительной механики
+UID:a771044b-e5c1-40ea-826b-263d1f2a8a6e@a771.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231219T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:3f21b4d5-02c9-4a28-a9cf-a5dd687593c3@3f21.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:15d36513-15da-44ff-b33d-7659c318e27f@15d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:0a3c4155-4db4-4300-9262-93309a03586b@0a3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c6657221-1757-44e5-929d-88e41d57bedb@c665.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:95a89da4-a28e-4151-876e-25b1ccc2ea2b@95a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:604dacb5-3d25-4349-ba31-400919a3ddd3@604d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:dc9a85c1-d541-4e46-a6ac-cf0bbceacba4@dc9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231027T183000Z
+LOCATION:1-201
+DTSTART:20231027T170000Z
+SUMMARY:ПЗ Методы вычислительной механики
+UID:30ee8081-6bc6-4b38-8207-d2853a0d27b0@30ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b9e3ab2c-3943-46db-8cac-72c57236e6fa@b9e3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3eafec9b-7831-49c6-a394-e745da4c8d1f@3eaf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:bf238591-3e8c-448c-b840-a72a18f18ce0@bf23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231117T183000Z
+LOCATION:1-201
+DTSTART:20231117T170000Z
+SUMMARY:ПЗ Методы вычислительной механики
+UID:57cb90ed-a9e6-46a3-a176-326031539711@57cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231020T164500Z
+LOCATION:1-201
+DTSTART:20231020T151500Z
+SUMMARY:ЛК Методы вычислительной механики
+UID:d85e7efb-7d66-419c-9433-3d810e73414d@d85e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9cb1ed46-76e0-4568-9ed4-e17f81a0be68@9cb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231201T164500Z
+LOCATION:1-201
+DTSTART:20231201T151500Z
+SUMMARY:ЛК Методы вычислительной механики
+UID:17a11618-71d8-4d1e-8fff-d328d9bb55e3@17a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ffd55fee-eff6-4793-9e8c-666043bd1013@ffd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20230908T164500Z
+LOCATION:1-201
+DTSTART:20230908T151500Z
+SUMMARY:ЛК Методы вычислительной механики
+UID:1c810bb2-0ea8-483f-aa2f-d945b7d018c3@1c81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:b082e122-867a-46e1-931d-d84d8bf2b55d@b082.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:987a184c-3c87-485f-8eed-e4ff60af8e5d@987a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7cc42535-4341-4037-9ed4-0f0acd1c5868@7cc4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6fa0828c-5dc0-4bed-b020-d47a5d8547d6@6fa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231013T164500Z
+LOCATION:1-201
+DTSTART:20231013T151500Z
+SUMMARY:ЛК Методы вычислительной механики
+UID:c5c82294-1c15-4926-80e0-2c155fe5ec14@c5c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231219T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231219T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:2876a3c4-e7f1-4da6-84d0-e88b507bfa2f@2876.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:176e7df5-6499-4f3c-92f4-279a1d935cf7@176e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20230922T183000Z
+LOCATION:1-201
+DTSTART:20230922T170000Z
+SUMMARY:ПЗ Методы вычислительной механики
+UID:bf374b74-243a-464e-8079-f22e672b901f@bf37.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:77c5fca1-8eee-4a62-95a2-4e863471bc6f@77c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231205T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:14307e9a-493e-49da-91e9-7154b555e4ec@1430.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20230915T164500Z
+LOCATION:1-201
+DTSTART:20230915T151500Z
+SUMMARY:ЛК Методы вычислительной механики
+UID:91b5c05a-b312-4340-a14e-cfc5c917f45c@91b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20230915T183000Z
+LOCATION:1-201
+DTSTART:20230915T170000Z
+SUMMARY:ПЗ Методы вычислительной механики
+UID:52148784-d6be-458a-b146-3a5f9dce322a@5214.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Григорьев Валерий Георгиевич
+DTEND:20231006T183000Z
+LOCATION:1-201
+DTSTART:20231006T170000Z
+SUMMARY:ПЗ Методы вычислительной механики
+UID:8c6c0669-623e-4a66-b3f6-819ee1b25323@8c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:330b7884-a8cc-44ca-8499-6fad73f8bade@330b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d351ef54-e365-4b2e-b8e0-00d739436d98@d351.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:a06380b0-ac95-40c7-8450-0cdfd44f11b8@a063.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9ace3939-0c5b-4835-b9a7-99e4b2d44efa@9ace.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:7a62376d-a9dc-4668-b811-b44708b05d6a@7a62.org
 END:VEVENT
 END:VCALENDAR

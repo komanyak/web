@@ -2,1844 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20231120T091500Z
-LOCATION:3-307
-DTSTART:20231120T074500Z
-SUMMARY:ПЗ Спецтехнология
-UID:b4209367-17e5-44c2-9816-0efc23e33ad8@b420.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231206T091500Z
-LOCATION:3-253
-DTSTART:20231206T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:8a01cdb7-d54f-4cc1-b196-c49ef5870036@8a01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231116T113000Z
-LOCATION:3-269
-DTSTART:20231116T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:0755d05d-cd61-438c-845d-4c57d1447c73@0755.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20230913T113000Z
-LOCATION:3-253
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:e3fc49c4-3e12-4679-8fa9-1ce3f5fb0e77@e3fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231226T113000Z
-LOCATION:3-261
-DTSTART:20231226T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:e4ba4467-d38f-4552-b615-5c496a5581c6@e4ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231221T073000Z
-LOCATION:3-269
-DTSTART:20231221T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:675c82e3-a7f2-49da-81ca-15da9af28d9c@675c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20230912T131500Z
-LOCATION:3-237
-DTSTART:20230912T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:d617f9cd-ef58-4187-bb5e-ef47e34b2434@d617.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231031T150000Z
-LOCATION:3-237
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
-UID:082a846e-26fb-4771-b1e4-16d1eb587cc4@082a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231003T150000Z
-LOCATION:3-237
-DTSTART:20231003T133000Z
-SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
-UID:4f28d0c2-3ac1-4098-9daf-d88a37d77681@4f28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231211T131500Z
-LOCATION:5-401
-DTSTART:20231211T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:68d75a6f-bbe4-45f6-bb14-f21fff9dd084@68d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кадочников Александр Александрович
-DTEND:20231027T073000Z
-LOCATION:3-311
-DTSTART:20231027T060000Z
-SUMMARY:ЛР Спецтехнология
-UID:4ee1f793-40c3-40ef-9a9b-776e1b0373ed@4ee1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231012T091500Z
-LOCATION:3-269
-DTSTART:20231012T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:39a2b396-c71c-4229-a1a3-45e5ff88cea9@39a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Исаев Владимир Владимирович
-DTEND:20230918T113000Z
-LOCATION:3-307
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Спецтехнология
-UID:f9e81926-545c-4af0-b666-b18665d5aa1c@f9e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231024T131500Z
-LOCATION:3-237
-DTSTART:20231024T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:dff1381c-1ebb-4eb2-8ea6-5de3e47ccb79@dff1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231005T091500Z
-LOCATION:3-269
-DTSTART:20231005T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:5af3a322-a70a-4ed1-83ec-2410138306cf@5af3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20231004T113000Z
-LOCATION:3-253
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:f09427c3-734f-4f79-9ed8-746c4c509745@f094.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231028T091500Z
-LOCATION:3-412
-DTSTART:20231028T074500Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:df3166bd-1db3-43ac-8de1-13fd1f5bb1b4@df31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231211T150000Z
-LOCATION:3-406
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:f63f5386-43e7-4faa-ac7f-b18d3a434c26@f63f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231220T091500Z
-LOCATION:3-253
-DTSTART:20231220T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:1752e50a-f97c-46e5-9b88-e775dc72ee17@1752.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231117T113000Z
-LOCATION:5-117
-DTSTART:20231117T100000Z
-SUMMARY:ЛР Экология
-UID:e44c2d1c-e462-49e5-947e-64549295cbbe@e44c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20230907T113000Z
-LOCATION:3-269
-DTSTART:20230907T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:d73f9944-d2c8-4eae-9573-c63ef5c58a6b@d73f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231019T091500Z
-LOCATION:3-269
-DTSTART:20231019T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:ce902b59-5544-49e0-b801-f0cacf1b80f9@ce90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20231204T091500Z
-LOCATION:3-307
-DTSTART:20231204T074500Z
-SUMMARY:ПЗ Спецтехнология
-UID:c00553a6-2435-4973-a43c-7c2e0d7b1e42@c005.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231228T113000Z
-LOCATION:3-269
-DTSTART:20231228T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:f6af0fd3-fc3b-43c5-9806-180fe25052da@f6af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231005T113000Z
-LOCATION:3-269
-DTSTART:20231005T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:29d09d47-9dd9-4c25-a5e0-ded13dfc2227@29d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231007T113000Z
-LOCATION:3-412
-DTSTART:20231007T100000Z
-SUMMARY:ЛР Электромагнитная совместимость и защита бортовой кабельной сети
-UID:50bfbb8c-f326-4d17-9cd2-e7aefcf3d135@50bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231017T131500Z
-LOCATION:3-237
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:5f4c039a-117f-4a96-a956-e1f3f7750bdc@5f4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231226T131500Z
-LOCATION:3-237
-DTSTART:20231226T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:3dc76fc8-049a-4959-81cb-45378bf3881e@3dc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20231011T113000Z
-LOCATION:3-253
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:e2a7e0f2-124b-42bf-b419-53d2c48b66c1@e2a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231018T091500Z
-LOCATION:3-253
-DTSTART:20231018T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:63c8fb5e-5c74-4bf2-8c98-5cd760b3d05a@63c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231009T150000Z
-LOCATION:3-406
-DTSTART:20231009T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:b459e608-202d-4313-b432-0245399398cd@b459.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231002T131500Z
-LOCATION:5-401
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:9b68cdf4-fd62-459f-92f0-34ee04c4e81a@9b68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231123T073000Z
-LOCATION:3-269
-DTSTART:20231123T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:1e7d0fb2-df36-4e2b-9ec7-d15b4f837384@1e7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20231018T113000Z
-LOCATION:3-253
-DTSTART:20231018T100000Z
-SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:4b9d41bd-caac-49e7-93da-7108b0f70917@4b9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231228T073000Z
-LOCATION:3-269
-DTSTART:20231228T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:12a55736-1111-4d91-b7bd-471a27eaeef3@12a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231204T150000Z
-LOCATION:3-406
-DTSTART:20231204T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:5d1e71b0-1bee-4f5d-8cd4-070e6827dc7c@5d1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Огородникова Светлана Владиславовна
-DTEND:20231208T073000Z
-LOCATION:5-122
-DTSTART:20231208T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:a93991d7-2b2c-4dda-a4e9-4757c2d0f6cd@a939.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231005T073000Z
-LOCATION:3-269
-DTSTART:20231005T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:c0f05ab1-fb25-4220-8e19-74bde33c3205@c0f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20231129T113000Z
-LOCATION:3-253
-DTSTART:20231129T100000Z
-SUMMARY:ПЗ Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:12659a54-b60c-4bef-ab20-24a2ef4bc3df@1265.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231218T150000Z
-LOCATION:3-406
-DTSTART:20231218T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:9e560cb5-1535-4778-a2f6-241a6f8f02ca@9e56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231025T091500Z
-LOCATION:3-253
-DTSTART:20231025T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:da5eaa84-9052-4412-9e06-1205ea47804a@da5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231109T131500Z
-LOCATION:3-269
-DTSTART:20231109T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:03df7153-5b11-499b-b3cf-51b0896f5a0a@03df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Огородникова Светлана Владиславовна
-DTEND:20231124T073000Z
-LOCATION:5-122
-DTSTART:20231124T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:1931323c-8df8-4b72-a3ae-265ba00d05ce@1931.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231023T113000Z
-LOCATION:3-301
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Экология
-UID:a116b5fd-f848-4521-a10d-6a86a033ebc1@a116.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231114T113000Z
-LOCATION:3-261
-DTSTART:20231114T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:ec0f1484-2839-4e88-874a-8dc655df82d9@ec0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20230912T150000Z
-LOCATION:3-237
-DTSTART:20230912T133000Z
-SUMMARY:ПЗ Защита информации бортовых комплексов
-UID:69ae8245-b450-4f26-8010-e628951b07b9@69ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231107T091500Z
-LOCATION:3-261
-DTSTART:20231107T074500Z
-SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:0ab1e55c-b8b4-4800-b37e-978e4b4de187@0ab1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231114T150000Z
-LOCATION:3-237
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
-UID:50c6da72-02f7-4ab1-9b51-b48637deefe0@50c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230905T113000Z
-LOCATION:3-261
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:e3f8afcd-a53b-4c94-8bf5-f2b03d4d81fa@e3f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230911T131500Z
-LOCATION:5-401
-DTSTART:20230911T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:daf742c4-8340-48dc-a3d9-f1b9567bef56@daf7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231102T073000Z
-LOCATION:3-269
-DTSTART:20231102T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:3e6320f7-f581-4f00-a87b-ebfce8ed6ffd@3e63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231204T113000Z
-LOCATION:3-301
-DTSTART:20231204T100000Z
-SUMMARY:ЛК Экология
-UID:a5b6fbcd-50a1-4bf4-b0b7-786ddbaedcbc@a5b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231019T073000Z
-LOCATION:3-269
-DTSTART:20231019T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:a626d43d-bc00-46f6-9f70-c13513b6f58f@a626.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231118T113000Z
-LOCATION:3-412
-DTSTART:20231118T100000Z
-SUMMARY:ЛР Электромагнитная совместимость и защита бортовой кабельной сети
-UID:6f5cc00b-6de9-4d03-922e-bc1de8c1302e@6f5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231003T113000Z
-LOCATION:3-261
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:1a5cfab4-2480-4998-9e7f-faad4deaf99d@1a5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20230904T150000Z
-LOCATION:3-406
-DTSTART:20230904T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:626998d2-0db5-4bdd-a4ed-f3b692b5468c@6269.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Огородникова Светлана Владиславовна
-DTEND:20231208T091500Z
-LOCATION:5-122
-DTSTART:20231208T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:e37bf163-9948-4b9a-8d41-009dc454d165@e37b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231205T113000Z
-LOCATION:3-261
-DTSTART:20231205T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:c4c8b939-e082-4e5b-854f-d31d41cbc2d1@c4c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231213T091500Z
-LOCATION:3-253
-DTSTART:20231213T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:5c814269-c31e-49e8-bbe4-8ac1aee01993@5c81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20230926T150000Z
-LOCATION:3-237
-DTSTART:20230926T133000Z
-SUMMARY:ПЗ Защита информации бортовых комплексов
-UID:67bcf711-5d41-4551-afcf-d89006809777@67bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231026T113000Z
-LOCATION:3-269
-DTSTART:20231026T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:6581e0f0-5d75-48b6-a7a6-a856405720f1@6581.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231106T150000Z
-LOCATION:3-406
-DTSTART:20231106T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:030007dc-09eb-40b2-920b-4ae95dc2bab8@0300.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231024T150000Z
-LOCATION:3-237
-DTSTART:20231024T133000Z
-SUMMARY:ПЗ Защита информации бортовых комплексов
-UID:08d2053d-6a09-4efc-8f75-9905e4b309dc@08d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20231213T113000Z
-LOCATION:3-253
-DTSTART:20231213T100000Z
-SUMMARY:ПЗ Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:3f5874a2-6fba-413b-9ed9-5da02c9c050e@3f58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231106T113000Z
-LOCATION:3-301
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Экология
-UID:1efe1ffe-16d4-4025-80dc-7ad26709e69b@1efe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231101T091500Z
-LOCATION:3-253
-DTSTART:20231101T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:a77261db-a824-4f27-88fb-6933bb202d9a@a772.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231007T131500Z
-LOCATION:3-412
-DTSTART:20231007T114500Z
-SUMMARY:ЛР Электромагнитная совместимость и защита бортовой кабельной сети
-UID:353697b0-a0c5-4f41-a52a-48d7438d3195@3536.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231109T091500Z
-LOCATION:3-269
-DTSTART:20231109T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:bea59a8e-3a4b-494c-a8b8-558da2df567d@bea5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20231206T113000Z
-LOCATION:3-253
-DTSTART:20231206T100000Z
-SUMMARY:ПЗ Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:df351137-0409-4590-8f46-0f3495a6a992@df35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230927T091500Z
-LOCATION:3-253
-DTSTART:20230927T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:f7fb751b-2983-454c-a0fa-573936ef0a67@f7fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231202T091500Z
-LOCATION:3-412
-DTSTART:20231202T074500Z
-SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:14201951-3de0-4145-8edb-e377494dcd7c@1420.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20230907T091500Z
-LOCATION:3-269
-DTSTART:20230907T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:5a3bdd8f-0743-4233-9053-9cb7a5273352@5a3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20230905T150000Z
-LOCATION:3-237
-DTSTART:20230905T133000Z
-SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
-UID:3684478d-175b-4348-a856-e948f3a11ca4@3684.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20230911T150000Z
-LOCATION:3-406
-DTSTART:20230911T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:0b80e95b-3fdd-44c2-a5d4-e39cd955c74b@0b80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231202T073000Z
-LOCATION:3-412
-DTSTART:20231202T060000Z
-SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:8f02c46f-70cc-4f3d-8d40-507c7f2aba8d@8f02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231221T113000Z
-LOCATION:3-269
-DTSTART:20231221T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:933b10ec-e3e7-45ab-a9a4-4b71daf76c61@933b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231019T131500Z
-LOCATION:3-269
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:103ba0d9-8ae5-4267-9c69-1c35d0e98285@103b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231010T131500Z
-LOCATION:3-237
-DTSTART:20231010T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:c074bf20-ff01-4621-b738-1bcd9e94a19e@c074.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20230914T073000Z
-LOCATION:3-269
-DTSTART:20230914T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:a16eceb2-536c-4925-bc62-e4d10371ddfb@a16e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231014T091500Z
-LOCATION:3-412
-DTSTART:20231014T074500Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:501a4359-6a1c-4ede-b672-4fe11f655d39@501a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231127T150000Z
-LOCATION:3-406
-DTSTART:20231127T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:a6943d15-ccdd-4e78-a963-a52100c0b71f@a694.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20230921T113000Z
-LOCATION:3-269
-DTSTART:20230921T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:b6791374-1440-4d2c-aa28-1a8595f5f80c@b679.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231107T131500Z
-LOCATION:3-237
-DTSTART:20231107T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:0a27166a-77f3-458d-bbbd-4459f0d65ecb@0a27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230912T113000Z
-LOCATION:3-261
-DTSTART:20230912T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:269fc946-1488-460e-b989-4cac195e5c7c@269f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20230911T113000Z
-LOCATION:3-301
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Экология
-UID:c6437dff-4495-4154-81ce-4775b35a6d15@c643.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Огородникова Светлана Владиславовна
-DTEND:20231117T073000Z
-LOCATION:5-122
-DTSTART:20231117T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:cf2c9897-23b4-44fa-970b-b9ca714fa0a2@cf2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231130T131500Z
-LOCATION:3-269
-DTSTART:20231130T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:81d4713c-aee0-4c0f-aa5c-1feb6323728b@81d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231214T131500Z
-LOCATION:3-269
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:6b61526f-ac00-4b97-b710-4d5cced3eee0@6b61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20230919T131500Z
-LOCATION:3-237
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:f62b1808-e669-466c-b766-3f0d540e3033@f62b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231121T091500Z
-LOCATION:3-261
-DTSTART:20231121T074500Z
-SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:321f773d-54a7-4330-82d7-822a38581f82@321f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230913T091500Z
-LOCATION:3-253
-DTSTART:20230913T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:2978c649-e92a-463e-8ae5-0c296a63f9a6@2978.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20230921T131500Z
-LOCATION:3-269
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:e54ad1e9-799c-4715-9efa-89ee6723a561@e54a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231004T073000Z
-LOCATION:3-253
-DTSTART:20231004T060000Z
-SUMMARY:ПЗ Электромагнитная совместимость и защита бортовой кабельной сети
-UID:13b81835-10bf-4ca9-9bae-8e1d397e6a38@13b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231019T113000Z
-LOCATION:3-269
-DTSTART:20231019T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:12ec5a9d-fc7c-4490-836e-4cb98ae20581@12ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231130T073000Z
-LOCATION:3-269
-DTSTART:20231130T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:30108297-bd61-428b-b7e1-4c7d995ea037@3010.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231207T073000Z
-LOCATION:3-269
-DTSTART:20231207T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:8a0ed58f-be4d-440d-a1e6-f5a4273d75b7@8a0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231026T131500Z
-LOCATION:3-269
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:852b2367-b03b-4a93-a598-64adb6f62ddc@852b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Огородникова Светлана Владиславовна
-DTEND:20231215T091500Z
-LOCATION:5-122
-DTSTART:20231215T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:7189c664-4f29-45c0-9b6d-f3c4fd748648@7189.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231005T131500Z
-LOCATION:3-269
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:6f2dd2ab-c29d-4f6c-a6c6-2c4b4c97c972@6f2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231009T113000Z
-LOCATION:3-301
-DTSTART:20231009T100000Z
-SUMMARY:ЛК Экология
-UID:8354b02b-1ab0-4793-8635-c2ac8815c9a8@8354.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231016T131500Z
-LOCATION:5-401
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:84af309e-365f-4164-83f0-1067cc458b33@84af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231214T091500Z
-LOCATION:3-269
-DTSTART:20231214T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:d1b6c242-f8a2-4789-8d87-8af2bece3874@d1b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Огородникова Светлана Владиславовна
-DTEND:20231215T073000Z
-LOCATION:5-122
-DTSTART:20231215T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:0cff1a95-884b-47f9-a1eb-268d277d6426@0cff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231121T113000Z
-LOCATION:3-261
-DTSTART:20231121T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:c15e7eaa-84b1-48c9-a844-a481be14774e@c15e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231225T150000Z
-LOCATION:3-406
-DTSTART:20231225T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:ce648902-401d-4757-ace4-4845941cb4ae@ce64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231012T073000Z
-LOCATION:3-269
-DTSTART:20231012T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:6d32b45e-99c9-42dd-a609-67c2ddfc15a7@6d32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20230905T131500Z
-LOCATION:3-237
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:d55054b6-1693-41c0-8980-23640e269d77@d550.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231107T150000Z
-LOCATION:3-237
-DTSTART:20231107T133000Z
-SUMMARY:ПЗ Защита информации бортовых комплексов
-UID:b2ed41c0-57e3-4243-89cf-fff5734b9c9a@b2ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231026T091500Z
-LOCATION:3-269
-DTSTART:20231026T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:246d7cfc-9fd7-48c9-be27-327d71bdd677@246d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231204T131500Z
-LOCATION:5-401
-DTSTART:20231204T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:a082841f-36f7-44ad-ac15-a948f47eb9ef@a082.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231028T073000Z
-LOCATION:3-412
-DTSTART:20231028T060000Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:c7515b9f-b084-4a97-b19f-787733cbec02@c751.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231031T113000Z
-LOCATION:3-261
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:85aeb691-ad67-449e-b3ae-8d563c44db54@85ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20230928T091500Z
-LOCATION:3-269
-DTSTART:20230928T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:44ae5383-6043-4148-b13a-f8583fbd0195@44ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231212T150000Z
-LOCATION:3-237
-DTSTART:20231212T133000Z
-SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
-UID:7fe063c1-9689-4189-8bbb-138211bcdc43@7fe0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231227T091500Z
-LOCATION:3-253
-DTSTART:20231227T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:fc62a416-8288-4a3a-a3cd-61ba24682635@fc62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Исаев Владимир Владимирович
-DTEND:20231127T113000Z
-LOCATION:3-307
-DTSTART:20231127T100000Z
-SUMMARY:ЛК Спецтехнология
-UID:4de4a71c-c2ca-4731-be7f-5d4276afafc8@4de4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231123T113000Z
-LOCATION:3-269
-DTSTART:20231123T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:d182890e-13fb-4942-bea2-88e70a1c023b@d182.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231114T091500Z
-LOCATION:5-002
-DTSTART:20231114T074500Z
-SUMMARY:ПЗ Экология
-UID:24d75dcb-696f-4d5c-8cdd-af236f29ca43@24d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230925T131500Z
-LOCATION:5-401
-DTSTART:20230925T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:ef09f979-6149-4778-b95c-d3bd0c076d24@ef09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231116T131500Z
-LOCATION:3-269
-DTSTART:20231116T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:ba804484-747a-4bc2-b2a9-e20660750fb0@ba80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231207T113000Z
-LOCATION:3-269
-DTSTART:20231207T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:f4a7bb11-5e65-4df4-bb0a-488cace42af4@f4a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230918T131500Z
-LOCATION:5-401
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:2bb5d9af-5808-4902-adc7-be7a5be4d228@2bb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231205T131500Z
-LOCATION:3-237
-DTSTART:20231205T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:681611ba-d575-4503-ac54-c0d776e7ed7a@6816.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231109T073000Z
-LOCATION:3-269
-DTSTART:20231109T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:78b19c22-7198-4597-9033-98ed5c849abe@78b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231201T113000Z
-LOCATION:5-117
-DTSTART:20231201T100000Z
-SUMMARY:ЛР Экология
-UID:aef54262-f6e1-491e-a8b7-f07c14a03319@aef5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20230920T113000Z
-LOCATION:3-253
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:2ebf938c-8714-4b3d-ba38-a2c851c0b363@2ebf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231010T113000Z
-LOCATION:3-261
-DTSTART:20231010T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:7ec8edff-bd38-4384-a6e2-a13daa3a5a2b@7ec8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20230919T150000Z
-LOCATION:3-237
-DTSTART:20230919T133000Z
-SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
-UID:90d86c75-f73c-495d-a23c-9a97afcf6678@90d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231228T091500Z
-LOCATION:3-269
-DTSTART:20231228T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:9c88fc99-483b-43db-8dd5-9656d6ec8303@9c88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231116T091500Z
-LOCATION:3-269
-DTSTART:20231116T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:b98a35dd-94de-4bae-87a1-de893fc9068a@b98a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231207T131500Z
-LOCATION:3-269
-DTSTART:20231207T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:111be8ec-47d4-4a10-a8a2-3c2cc11050b0@111b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231218T131500Z
-LOCATION:5-401
-DTSTART:20231218T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:ddd4cabf-7911-48ca-8868-1d4c1dffb777@ddd4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231021T073000Z
-LOCATION:3-412
-DTSTART:20231021T060000Z
-SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:ccbbfd6d-c9a8-4ca5-b328-12aad81d8bc6@ccbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Исаев Владимир Владимирович
-DTEND:20231030T113000Z
-LOCATION:3-307
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Спецтехнология
-UID:2579877e-f47e-458b-aa32-7d2ec2d0c286@2579.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231214T113000Z
-LOCATION:3-269
-DTSTART:20231214T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:48e65fe0-5664-4b12-aa3f-f5b8b98e5a40@48e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20230904T131500Z
-LOCATION:5-401
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:8b7ead6e-537d-47de-98b3-e71757e82745@8b7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231024T091500Z
-LOCATION:3-261
-DTSTART:20231024T074500Z
-SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:f8f52d8b-362c-400f-8e18-12793c70ecbe@f8f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231116T073000Z
-LOCATION:3-269
-DTSTART:20231116T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:ba2a2b82-d83d-4e7e-be49-97690acd4738@ba2a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Кириллов Владимир Юрьевич
 DTEND:20231130T091500Z
 LOCATION:3-269
 DTSTART:20231130T074500Z
 SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:b5351765-b816-40f4-bbde-c5703e97ff68@b535.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231226T150000Z
-LOCATION:3-237
-DTSTART:20231226T133000Z
-SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
-UID:fa3f8cd7-d23b-41db-998c-f1891d98ceda@fa3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231228T131500Z
-LOCATION:3-269
-DTSTART:20231228T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:17095573-22b4-440c-a9a5-3487d51b58e4@1709.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Исаев Владимир Владимирович
-DTEND:20230904T113000Z
-LOCATION:3-307
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Спецтехнология
-UID:58fb07ae-65be-4e20-9c31-eb3a297df1bd@58fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231017T091500Z
-LOCATION:5-002
-DTSTART:20231017T074500Z
-SUMMARY:ПЗ Экология
-UID:96d34270-c50c-4fd0-9143-88248dd9c2e6@96d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231219T113000Z
-LOCATION:3-261
-DTSTART:20231219T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:48bbdb7f-7cc8-42b8-8a2b-f6e564d2a1c3@48bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231221T131500Z
-LOCATION:3-269
-DTSTART:20231221T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:468845ee-3d06-4f36-ade6-656c62fe0486@4688.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20230921T091500Z
-LOCATION:3-269
-DTSTART:20230921T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:bae52fce-d2da-4037-b28d-58b3d2fcb5c6@bae5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231004T091500Z
-LOCATION:3-253
-DTSTART:20231004T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:6a5ee8ec-6b99-4d4f-ae7e-1232395e44ac@6a5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231115T091500Z
-LOCATION:3-253
-DTSTART:20231115T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:af9783ca-b1ab-4da3-b665-404b7037ff96@af97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20230914T131500Z
-LOCATION:3-269
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:27402a76-8c68-4067-b50a-2f76fd23c081@2740.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20230918T150000Z
-LOCATION:3-406
-DTSTART:20230918T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:ca74873a-34a3-422d-b1a2-bcab7560b6bc@ca74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231128T150000Z
-LOCATION:3-237
-DTSTART:20231128T133000Z
-SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
-UID:597c1e00-36ec-46ea-8012-587ee94c61fd@597c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231125T091500Z
-LOCATION:3-412
-DTSTART:20231125T074500Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:57a488f5-f078-4644-897b-0d5191c44dd8@57a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Исаев Владимир Владимирович
-DTEND:20231016T113000Z
-LOCATION:3-307
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Спецтехнология
-UID:2cb33468-a43f-4a4c-8db6-7e2bbd5f58ff@2cb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231012T113000Z
-LOCATION:3-269
-DTSTART:20231012T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:e603ff52-8464-478e-9819-189037535d86@e603.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231118T091500Z
-LOCATION:3-412
-DTSTART:20231118T074500Z
-SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:585e59d8-ae94-45fa-9a6d-cac954808504@585e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кадочников Александр Александрович
-DTEND:20231027T091500Z
-LOCATION:3-311
-DTSTART:20231027T074500Z
-SUMMARY:ЛР Спецтехнология
-UID:b425e2d6-2c8c-4cd5-8802-ac375cf70650@b425.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231106T131500Z
-LOCATION:5-401
-DTSTART:20231106T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:4b01e033-1913-4333-bfc3-c19819acbb99@4b01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230919T113000Z
-LOCATION:3-261
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:0c9567ce-bdc4-4318-812d-da1fef7e475d@0c95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230920T073000Z
-LOCATION:3-253
-DTSTART:20230920T060000Z
-SUMMARY:ПЗ Электромагнитная совместимость и защита бортовой кабельной сети
-UID:5b7a8aaa-7716-46f4-afec-ce1e480c106b@5b7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Огородникова Светлана Владиславовна
-DTEND:20231201T091500Z
-LOCATION:5-122
-DTSTART:20231201T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:497d7470-c5d6-40e0-aa0c-24e3195e8c21@497d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20230925T150000Z
-LOCATION:3-406
-DTSTART:20230925T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:bbd11761-4917-44ae-b464-fe0d3b46b5dc@bbd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230930T073000Z
-LOCATION:3-412
-DTSTART:20230930T060000Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:767abbd6-dca4-4e47-a4ba-e731b3945ad7@767a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231117T131500Z
-LOCATION:5-117
-DTSTART:20231117T114500Z
-SUMMARY:ЛР Экология
-UID:1c81b421-677f-484b-ab8b-036c47a31af4@1c81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231010T091500Z
-LOCATION:3-261
-DTSTART:20231010T074500Z
-SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:0b221132-bd3c-4923-8735-0b21c1fb23a0@0b22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231111T091500Z
-LOCATION:3-412
-DTSTART:20231111T074500Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:2c05d432-5901-4fbe-b10d-c1fa5eeb56d7@2c05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231003T131500Z
-LOCATION:3-237
-DTSTART:20231003T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:f7f28bb0-2bba-4e12-ae8e-f2676ab9174f@f7f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231121T131500Z
-LOCATION:3-237
-DTSTART:20231121T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:bce80158-0a41-46b8-9a0c-7efd8e1492e7@bce8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Исаев Владимир Владимирович
-DTEND:20231113T113000Z
-LOCATION:3-307
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Спецтехнология
-UID:09116896-5c61-4c47-822f-55b779994a95@0911.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231114T131500Z
-LOCATION:3-237
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:7cbaa289-d1e7-44c7-909c-3ae89393c59f@7cba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231024T113000Z
-LOCATION:3-261
-DTSTART:20231024T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:ec4b9eba-2b9b-4119-b656-a34e307e127c@ec4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231219T150000Z
-LOCATION:3-237
-DTSTART:20231219T133000Z
-SUMMARY:ПЗ Защита информации бортовых комплексов
-UID:60aecb7f-a78b-4137-940c-ee23dd0a79f4@60ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20231108T113000Z
-LOCATION:3-253
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:dc73bad3-4f31-4ea1-9259-c028a61e3a5f@dc73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20230919T091500Z
-LOCATION:5-002
-DTSTART:20230919T074500Z
-SUMMARY:ПЗ Экология
-UID:562f5fff-2ffe-4e32-a6f3-8fb53ca61162@562f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231122T091500Z
-LOCATION:3-253
-DTSTART:20231122T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:52945a23-7a76-4495-9798-0b109d49ae4d@5294.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231219T131500Z
-LOCATION:3-237
-DTSTART:20231219T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:1391e916-27f3-4fe4-98e6-105539bfcee8@1391.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231113T131500Z
-LOCATION:5-401
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:cafefb1c-94f6-4da9-a498-cb75493f93d6@cafe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230912T091500Z
-LOCATION:3-261
-DTSTART:20230912T074500Z
-SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:11cbc47a-f1ed-4e9c-a1bc-d64c6338dc11@11cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20231106T091500Z
-LOCATION:3-307
-DTSTART:20231106T074500Z
-SUMMARY:ПЗ Спецтехнология
-UID:6fbd0299-3e13-4909-a735-4a942a77fa40@6fbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кадочников Александр Александрович
-DTEND:20231110T091500Z
-LOCATION:3-311
-DTSTART:20231110T074500Z
-SUMMARY:ЛР Спецтехнология
-UID:2a083478-3089-4034-8535-1763cba377e0@2a08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231017T113000Z
-LOCATION:3-261
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:1e854ee7-8306-426a-8756-50d9e7be893f@1e85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231009T131500Z
-LOCATION:5-401
-DTSTART:20231009T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:5a05e4e9-0b7b-4603-96e9-ddd866146387@5a05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231113T150000Z
-LOCATION:3-406
-DTSTART:20231113T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:66583ba0-2f04-4183-a8a0-0590df8d934c@6658.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231121T150000Z
-LOCATION:3-237
-DTSTART:20231121T133000Z
-SUMMARY:ПЗ Защита информации бортовых комплексов
-UID:ed7a63cb-daad-4815-984f-39b9cdd945ca@ed7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231014T073000Z
-LOCATION:3-412
-DTSTART:20231014T060000Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:104e63e2-1bf9-4191-93d3-04a00c86a26e@104e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231030T150000Z
-LOCATION:3-406
-DTSTART:20231030T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:1221e3d9-4427-451a-a642-11e8e6daf18e@1221.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231023T131500Z
-LOCATION:5-401
-DTSTART:20231023T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:cf3864e1-29b8-4d59-b8ed-30994396ddc3@cf38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231031T131500Z
-LOCATION:3-237
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:b4f15156-17da-4377-9ebb-4ff2137642a8@b4f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231129T091500Z
-LOCATION:3-253
-DTSTART:20231129T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:7ef0d5d8-a060-49cd-a5c3-9eb473072330@7ef0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231120T150000Z
-LOCATION:3-406
-DTSTART:20231120T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:e86ef099-82ab-471a-9ceb-ee9571eadc6b@e86e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20230911T091500Z
-LOCATION:3-307
-DTSTART:20230911T074500Z
-SUMMARY:ПЗ Спецтехнология
-UID:5fc4034a-b5c2-4bdd-9b76-d0178c36f282@5fc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231120T131500Z
-LOCATION:5-401
-DTSTART:20231120T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:1ac59c98-57b7-413d-a1e5-b147cea64ed1@1ac5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20230925T113000Z
-LOCATION:3-301
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Экология
-UID:e3724085-6f8b-4776-9ff6-134d6d7ad10f@e372.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231118T073000Z
-LOCATION:3-412
-DTSTART:20231118T060000Z
-SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:99ebd4ea-e4d8-48d9-a380-f8c3bf71a1ff@99eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231109T113000Z
-LOCATION:3-269
-DTSTART:20231109T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:c97811c3-0228-4cff-8395-329809b5d51f@c978.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231007T091500Z
-LOCATION:3-412
-DTSTART:20231007T074500Z
-SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:9dfbe5b8-8a61-4a6c-84e2-e83fca9d346f@9dfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231102T091500Z
-LOCATION:3-269
-DTSTART:20231102T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:bf22be93-6af7-4a12-a3e3-3d65f179f99e@bf22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231123T131500Z
-LOCATION:3-269
-DTSTART:20231123T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:3ddf79c3-f34a-46af-862f-e62220d6d439@3ddf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230930T091500Z
-LOCATION:3-412
-DTSTART:20230930T074500Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:de0afb49-09e0-4c56-b5b6-8d051fbae2f2@de0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231002T150000Z
-LOCATION:3-406
-DTSTART:20231002T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:28da4f9d-3565-462b-8a93-e149b7efa85f@28da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231201T131500Z
-LOCATION:5-117
-DTSTART:20231201T114500Z
-SUMMARY:ЛР Экология
-UID:dac9c669-792a-4c69-9f04-9c57f8f59e62@dac9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230920T091500Z
-LOCATION:3-253
-DTSTART:20230920T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:ad4dafe3-5d7e-4b59-933e-1c8242ae02fd@ad4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231016T150000Z
-LOCATION:3-406
-DTSTART:20231016T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:e35569f2-af07-4c3c-9c61-ef1410ba010a@e355.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230906T091500Z
-LOCATION:3-253
-DTSTART:20230906T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:82613431-6dd8-4051-b206-6fba962bd880@8261.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231205T091500Z
-LOCATION:3-261
-DTSTART:20231205T074500Z
-SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:09256326-779c-4e15-abcc-e422989321f7@0925.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Огородникова Светлана Владиславовна
-DTEND:20231201T073000Z
-LOCATION:5-122
-DTSTART:20231201T060000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:a45c88c9-a950-43fd-917e-5e504df66535@a45c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кадочников Александр Александрович
-DTEND:20231110T073000Z
-LOCATION:3-311
-DTSTART:20231110T060000Z
-SUMMARY:ЛР Спецтехнология
-UID:3cb5d2cb-1677-4bc2-944b-87435d141b1d@3cb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20231122T113000Z
-LOCATION:3-253
-DTSTART:20231122T100000Z
-SUMMARY:ПЗ Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:e5968e61-8269-4e59-b0e0-ea505f5dd432@e596.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231130T113000Z
-LOCATION:3-269
-DTSTART:20231130T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:8b085ab3-3194-4e4e-a431-b4a4e57ad3a4@8b08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231212T131500Z
-LOCATION:3-237
-DTSTART:20231212T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:68c95cdf-09e0-4004-ac2c-7bff31c3429b@68c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20230906T113000Z
-LOCATION:3-253
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:bac81a04-ad49-4dd0-abd5-81044fa3f0b5@bac8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231214T073000Z
-LOCATION:3-269
-DTSTART:20231214T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:89f7bf79-808d-4c38-8f48-e9c5e36d71e1@89f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231018T073000Z
-LOCATION:3-253
-DTSTART:20231018T060000Z
-SUMMARY:ПЗ Электромагнитная совместимость и защита бортовой кабельной сети
-UID:76d1c155-d793-45f2-be44-18f0219b7a26@76d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231010T150000Z
-LOCATION:3-237
-DTSTART:20231010T133000Z
-SUMMARY:ПЗ Защита информации бортовых комплексов
-UID:891187a6-f5ad-469a-baea-585f2f295ab6@8911.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231021T113000Z
-LOCATION:3-412
-DTSTART:20231021T100000Z
-SUMMARY:ЛР Электромагнитная совместимость и защита бортовой кабельной сети
-UID:e2257366-72b5-4e5d-9a82-12f7ccdb88cb@e225.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231120T113000Z
-LOCATION:3-301
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Экология
-UID:f5289690-0a45-4936-a214-2a1d59e2b7de@f528.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231030T131500Z
-LOCATION:5-401
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:783bdf0e-cb75-451d-94bc-9f3af25959b4@783b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231125T073000Z
-LOCATION:3-412
-DTSTART:20231125T060000Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:b531c292-358e-4846-9a5c-1a451602b8e2@b531.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231128T131500Z
-LOCATION:3-237
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:b87d2a52-fdf2-4bb4-8b05-90f722a71fd4@b87d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231215T113000Z
-LOCATION:5-117
-DTSTART:20231215T100000Z
-SUMMARY:ЛР Экология
-UID:d488376c-bc79-41ec-83b2-14fa1e6ae90f@d488.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20231101T113000Z
-LOCATION:3-253
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:4272d534-c66e-4be8-af5c-09c43b419526@4272.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231118T131500Z
-LOCATION:3-412
-DTSTART:20231118T114500Z
-SUMMARY:ЛР Электромагнитная совместимость и защита бортовой кабельной сети
-UID:d030ca51-84a5-49af-a059-f9bc133e5438@d030.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231212T113000Z
-LOCATION:3-261
-DTSTART:20231212T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:3ec930f1-2910-48f9-b94a-e8dec9fc7a40@3ec9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231215T131500Z
-LOCATION:5-117
-DTSTART:20231215T114500Z
-SUMMARY:ЛР Экология
-UID:8566d34e-2a3a-453f-a114-170875f16a80@8566.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231007T073000Z
-LOCATION:3-412
-DTSTART:20231007T060000Z
-SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:9ffd3fd1-d785-4686-ba2b-cb5832932930@9ffd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20230907T131500Z
-LOCATION:3-269
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:81e7e70e-094d-4713-87d6-5720b9861fc3@81e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231102T113000Z
-LOCATION:3-269
-DTSTART:20231102T100000Z
-SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:886aa563-2ad2-4323-9296-3ae894807c33@886a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231128T113000Z
-LOCATION:3-261
-DTSTART:20231128T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:64962091-8a0d-4b57-99ec-99dd43383d76@6496.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230926T113000Z
-LOCATION:3-261
-DTSTART:20230926T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:bc5ea276-e90d-4c8d-93af-e0c637832eae@bc5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231023T150000Z
-LOCATION:3-406
-DTSTART:20231023T133000Z
-SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
-UID:691d5967-9b30-472e-9422-69555d0c898f@691d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20230926T131500Z
-LOCATION:3-237
-DTSTART:20230926T114500Z
-SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
-UID:c054abe2-d871-4f5e-ae71-d2d316128d94@c054.org
+UID:3505ff36-5e55-4496-b734-88d9527ebef1@3505.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кириллов Владимир Юрьевич
@@ -1847,63 +15,79 @@ DTEND:20230914T113000Z
 LOCATION:3-269
 DTSTART:20230914T100000Z
 SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:6b35ba0c-1cb8-4f6b-b9ae-80f8763057b3@6b35.org
+UID:9cb694e5-f986-467d-af44-f588120e3bad@9cb6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20231025T113000Z
-LOCATION:3-253
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:16e6d7f2-ba17-463a-8ab6-dc0708e1167e@16e6.org
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20230907T131500Z
+LOCATION:3-269
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:9094aede-e6c1-44c7-ad5a-fe5fafdaf13c@9094.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231031T091500Z
-LOCATION:5-002
-DTSTART:20231031T074500Z
-SUMMARY:ПЗ Экология
-UID:72eaa92f-65f9-4fd6-a996-f642be0eff5a@72ea.org
+DTEND:20231009T113000Z
+LOCATION:3-301
+DTSTART:20231009T100000Z
+SUMMARY:ЛК Экология
+UID:e33b71e9-f98a-4dc6-b89a-98392e8a8f6e@e33b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20230907T073000Z
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231109T091500Z
 LOCATION:3-269
-DTSTART:20230907T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:1087b06b-4ced-4f61-b38b-3bfb8e48964b@1087.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231026T073000Z
-LOCATION:3-269
-DTSTART:20231026T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:cf3dad5c-a0b7-44b2-8876-f5ce9da160c8@cf3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20231023T091500Z
-LOCATION:3-307
-DTSTART:20231023T074500Z
-SUMMARY:ПЗ Спецтехнология
-UID:bfe17311-afc7-4829-ac02-0d3662a9674a@bfe1.org
+DTSTART:20231109T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:812eec53-c380-4439-aed3-d49c86599d57@812e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Томилин Максим Михайлович
-DTEND:20230926T091500Z
-LOCATION:3-261
-DTSTART:20230926T074500Z
-SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:0a1b0c0f-54ba-4bf5-b2ab-409d78ed453b@0a1b.org
+DTEND:20231004T091500Z
+LOCATION:3-253
+DTSTART:20231004T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:e29e8466-ab9e-4db3-a975-51f4c2afcd9f@e29e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Огородникова Светлана Владиславовна
-DTEND:20231117T091500Z
-LOCATION:5-122
-DTSTART:20231117T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:c49dc1c5-c642-4222-8574-19197fc1f595@c49d.org
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231116T073000Z
+LOCATION:3-269
+DTSTART:20231116T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:6d6807e7-0928-4d94-90f1-3eca6e5e1dfc@6d68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231010T113000Z
+LOCATION:3-261
+DTSTART:20231010T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:13850a51-2fe4-40a0-9293-1ba7db96e1e8@1385.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231021T073000Z
+LOCATION:3-412
+DTSTART:20231021T060000Z
+SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:1b920e17-c1d5-4f3c-b869-efb13abad02d@1b92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231214T073000Z
+LOCATION:3-269
+DTSTART:20231214T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:4fe651cf-e883-4fb1-a7ad-bf28434c4710@4fe6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231204T131500Z
+LOCATION:5-401
+DTSTART:20231204T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:67270629-ebe3-4200-b66a-eb6b8fd4a86f@6727.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кириллов Владимир Юрьевич
@@ -1911,207 +95,31 @@ DTEND:20231207T091500Z
 LOCATION:3-269
 DTSTART:20231207T074500Z
 SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:45ae2b1a-99c3-49f0-895e-80997f60f042@45ae.org
+UID:aa1f8ce8-5848-4441-9ad9-02d1f46ff7fb@aa1f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231209T073000Z
-LOCATION:3-412
-DTSTART:20231209T060000Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:467cbd48-e7a7-46ac-9187-f702c4fdf0ed@467c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231209T091500Z
-LOCATION:3-412
-DTSTART:20231209T074500Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:a0269dfe-3e5f-4dec-9808-8bda0290b958@a026.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20230928T131500Z
-LOCATION:3-269
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:daa45af1-da12-4eea-81b1-bc313bcce72d@daa4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Горбачев Сергей Игоревич
-DTEND:20231127T131500Z
-LOCATION:5-401
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:4046951d-1fd7-456d-8de1-98311ad7bed9@4046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20230921T073000Z
-LOCATION:3-269
-DTSTART:20230921T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:321e3bd4-8f44-4b05-998f-a0a8919e8c74@321e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20230928T073000Z
-LOCATION:3-269
-DTSTART:20230928T060000Z
-SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:eb79883c-6880-4aea-9dee-d639f7751939@eb79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Корнилов Александр Борисович
-DTEND:20231021T091500Z
-LOCATION:3-412
-DTSTART:20231021T074500Z
-SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
-UID:9752ae4f-819b-472e-a5a2-d6d37e0ab342@9752.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231012T131500Z
-LOCATION:3-269
-DTSTART:20231012T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:30bf8d2f-c7bd-4e5b-bd14-391b38eaa389@30bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231107T113000Z
+DTEND:20231107T091500Z
 LOCATION:3-261
-DTSTART:20231107T100000Z
-SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:e6615311-589f-439a-93f0-1504050abb88@e661.org
+DTSTART:20231107T074500Z
+SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:62bb9280-80f5-46b8-8f4e-ab74498f41b1@62bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231108T091500Z
-LOCATION:3-253
-DTSTART:20231108T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:d3f543b7-e8d1-488e-9f14-fa9594ab8735@d3f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231021T131500Z
+DTEND:20231118T131500Z
 LOCATION:3-412
-DTSTART:20231021T114500Z
+DTSTART:20231118T114500Z
 SUMMARY:ЛР Электромагнитная совместимость и защита бортовой кабельной сети
-UID:fd9c7556-eefa-4a9b-a5ca-a7226f382e8f@fd9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20231115T113000Z
-LOCATION:3-253
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:752a18ec-559f-4fc4-b68f-58f7b4448f72@752a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20231009T091500Z
-LOCATION:3-307
-DTSTART:20231009T074500Z
-SUMMARY:ПЗ Спецтехнология
-UID:915fcd95-2b89-45bd-a9e0-71a7f31a60f6@915f.org
+UID:81c4931c-cd21-49a9-bd45-daf6bd3d2698@81c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231205T150000Z
+DTEND:20231024T150000Z
 LOCATION:3-237
-DTSTART:20231205T133000Z
+DTSTART:20231024T133000Z
 SUMMARY:ПЗ Защита информации бортовых комплексов
-UID:9832a49b-8c4b-48c2-a72a-bf371f2f7830@9832.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Шапошников Андрей Степанович
-DTEND:20230927T113000Z
-LOCATION:3-253
-DTSTART:20230927T100000Z
-SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
-UID:77a92736-8ffa-462f-a49f-ecdafcf1d424@77a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Огородникова Светлана Владиславовна
-DTEND:20231124T091500Z
-LOCATION:5-122
-DTSTART:20231124T074500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:53875902-e574-4834-a953-08747b6dc2c2@5387.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вышков Юрий Дмитриевич
-DTEND:20231102T131500Z
-LOCATION:3-269
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Защита информации бортовых комплексов
-UID:b1de9ea4-3185-44d0-b999-3c6cdbcee7ca@b1de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231123T091500Z
-LOCATION:3-269
-DTSTART:20231123T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:dabf4bac-e12d-4355-8eb1-140e545513bf@dabf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231111T073000Z
-LOCATION:3-412
-DTSTART:20231111T060000Z
-SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
-UID:0b8c564d-6d80-4300-86aa-40ae1dfcff18@0b8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сотникова Елена Васильевна
-DTEND:20231003T091500Z
-LOCATION:5-002
-DTSTART:20231003T074500Z
-SUMMARY:ПЗ Экология
-UID:7575b1e0-a416-4d2e-b5a4-99c6b6856994@7575.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Томилин Максим Михайлович
-DTEND:20231011T091500Z
-LOCATION:3-253
-DTSTART:20231011T074500Z
-SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
-UID:c9a29d51-03c6-428a-8543-75fdbcb2131a@c9a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пчельникова-гротова Ольга Николаевна
-DTEND:20230925T091500Z
-LOCATION:3-307
-DTSTART:20230925T074500Z
-SUMMARY:ПЗ Спецтехнология
-UID:63914f0f-14ac-46c7-8d25-6df5233a1662@6391.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харченко Игорь Александрович
-DTEND:20231017T150000Z
-LOCATION:3-237
-DTSTART:20231017T133000Z
-SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
-UID:801126ea-545f-477a-9e28-b8396cb92a64@8011.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20231221T091500Z
-LOCATION:3-269
-DTSTART:20231221T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:e49e1d54-fdbd-4d7d-82d3-c8046640c094@e49e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кириллов Владимир Юрьевич
-DTEND:20230914T091500Z
-LOCATION:3-269
-DTSTART:20230914T074500Z
-SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
-UID:c5263b02-4cbf-4a9f-9148-fc9ca6be2c27@c526.org
+UID:a834e3bf-1c3b-49cf-8f93-7d7640eae6e8@a834.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Исаев Владимир Владимирович
@@ -2119,7 +127,87 @@ DTEND:20231002T113000Z
 LOCATION:3-307
 DTSTART:20231002T100000Z
 SUMMARY:ЛК Спецтехнология
-UID:5042ebd7-59e6-4055-9d0b-96992a84df16@5042.org
+UID:9f1f993b-55c5-4478-b20a-e2e3b24bf63c@9f1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231125T091500Z
+LOCATION:3-412
+DTSTART:20231125T074500Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:f23f5722-4228-4119-adb5-87af1a4d002e@f23f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231215T131500Z
+LOCATION:5-117
+DTSTART:20231215T114500Z
+SUMMARY:ЛР Экология
+UID:d433727d-78b7-4dbd-a4c4-80f1106c7a7a@d433.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20231108T113000Z
+LOCATION:3-253
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:78e0bb39-0f87-4f9e-9372-54c73b3c8c03@78e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231209T091500Z
+LOCATION:3-412
+DTSTART:20231209T074500Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:90d23f1e-0689-4495-b5d3-38c50e265fd8@90d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231014T091500Z
+LOCATION:3-412
+DTSTART:20231014T074500Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:4b5ea67d-33e5-480b-ad2d-782fad321315@4b5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20230919T150000Z
+LOCATION:3-237
+DTSTART:20230919T133000Z
+SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
+UID:ddbda0e1-b2d7-4fe0-82dd-823bf048894f@ddbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230920T091500Z
+LOCATION:3-253
+DTSTART:20230920T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:795047b4-8391-4f8e-9dc5-2493eb497288@7950.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20230906T113000Z
+LOCATION:3-253
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:2fbb1e04-3ed4-4596-b3be-cce6b48e8382@2fbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231016T150000Z
+LOCATION:3-406
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:70a5aa21-aa97-4588-abe6-acb5d167df0c@70a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231113T150000Z
+LOCATION:3-406
+DTSTART:20231113T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:b7ec97a4-ae47-4ed1-aef5-832ebf3cd4bc@b7ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кириллов Владимир Юрьевич
@@ -2127,6 +215,1918 @@ DTEND:20230928T113000Z
 LOCATION:3-269
 DTSTART:20230928T100000Z
 SUMMARY:ПЗ Основы научных исследований проблем ЭМС
-UID:4cb78e4b-7880-4887-b5a2-77ca8b78cc5c@4cb7.org
+UID:34a3762c-53e7-4364-9586-770cfa32b736@34a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231113T131500Z
+LOCATION:5-401
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:177e2da5-20cb-4738-8dd6-43e50e6522de@177e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231128T150000Z
+LOCATION:3-237
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
+UID:64c0531a-c87c-45a1-8166-99b6021b5520@64c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231115T091500Z
+LOCATION:3-253
+DTSTART:20231115T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:13e7a05f-a1ad-4e94-81f5-fc4f4c2e6a96@13e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231226T113000Z
+LOCATION:3-261
+DTSTART:20231226T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:0f6d9274-ef60-419b-83e9-0895ae348b0a@0f6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20230913T113000Z
+LOCATION:3-253
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:ef7ae7ef-651c-465c-85f3-c84b7625163b@ef7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231106T131500Z
+LOCATION:5-401
+DTSTART:20231106T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:1323e2f2-6ccd-4dd4-8959-15bf1125c021@1323.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231111T091500Z
+LOCATION:3-412
+DTSTART:20231111T074500Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:f5e54a49-8e96-401c-8e8b-00ad95b8646f@f5e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231127T131500Z
+LOCATION:5-401
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:9caecd84-e7d5-49b6-ac8e-87bffe036f9f@9cae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20231115T113000Z
+LOCATION:3-253
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:1fed01a3-f67f-4ba5-abb4-c18e179baf18@1fed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231130T113000Z
+LOCATION:3-269
+DTSTART:20231130T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:c34fa0ba-5a75-41f7-9c85-d46cb5d10053@c34f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231019T091500Z
+LOCATION:3-269
+DTSTART:20231019T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:cf04c3bc-5044-4f0b-a136-68277cb84053@cf04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231012T073000Z
+LOCATION:3-269
+DTSTART:20231012T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:8d16a5d4-713d-4e98-866f-be6684087e0b@8d16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231120T131500Z
+LOCATION:5-401
+DTSTART:20231120T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:45b87d98-ad2b-4172-a448-cc887a38cc28@45b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231219T113000Z
+LOCATION:3-261
+DTSTART:20231219T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:2684d183-6897-4981-8479-8e001e9d246e@2684.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231108T091500Z
+LOCATION:3-253
+DTSTART:20231108T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:428b0a0e-a3c3-42ba-a200-078e4eb7de8d@428b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Огородникова Светлана Владиславовна
+DTEND:20231117T091500Z
+LOCATION:5-122
+DTSTART:20231117T074500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:f56aa39a-cec3-422a-9eaf-19028979c3a5@f56a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231018T073000Z
+LOCATION:3-253
+DTSTART:20231018T060000Z
+SUMMARY:ПЗ Электромагнитная совместимость и защита бортовой кабельной сети
+UID:6904dabe-b99f-4708-a54a-45b2a3cc3cca@6904.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20230926T150000Z
+LOCATION:3-237
+DTSTART:20230926T133000Z
+SUMMARY:ПЗ Защита информации бортовых комплексов
+UID:4847f9fd-aaff-405c-90e5-15db47e87153@4847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231026T113000Z
+LOCATION:3-269
+DTSTART:20231026T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:a7a834bb-fd57-48e3-822b-530876eaf250@a7a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231202T073000Z
+LOCATION:3-412
+DTSTART:20231202T060000Z
+SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:7d5bde53-064a-4bf5-8654-927e91394264@7d5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231215T113000Z
+LOCATION:5-117
+DTSTART:20231215T100000Z
+SUMMARY:ЛР Экология
+UID:e5e87226-e88d-4d3e-82dc-a6d129a03bbb@e5e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231109T073000Z
+LOCATION:3-269
+DTSTART:20231109T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:aff97e1f-3ccc-461a-b780-6ce06f4bf333@aff9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231206T091500Z
+LOCATION:3-253
+DTSTART:20231206T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:5861d3b0-d97e-45de-b0a0-f9d7ff24f4b2@5861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231023T150000Z
+LOCATION:3-406
+DTSTART:20231023T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:a79e85f1-51f5-4d37-b1b5-df1b809dd458@a79e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231117T113000Z
+LOCATION:5-117
+DTSTART:20231117T100000Z
+SUMMARY:ЛР Экология
+UID:36402d48-1774-430a-b99f-4485f06c4573@3640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20231120T091500Z
+LOCATION:3-307
+DTSTART:20231120T074500Z
+SUMMARY:ПЗ Спецтехнология
+UID:f91b4e52-0ca1-4176-8d2e-b893d3c1f450@f91b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231106T150000Z
+LOCATION:3-406
+DTSTART:20231106T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:b8d8aaa8-c5b5-4afc-a5e4-50d2dec3bc1b@b8d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231012T131500Z
+LOCATION:3-269
+DTSTART:20231012T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:8ad8c39c-5e8a-4ad0-8aff-a269191f9f76@8ad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231121T113000Z
+LOCATION:3-261
+DTSTART:20231121T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:1c5c0745-3fa1-4d77-b6d7-5350e67bb5b6@1c5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231026T073000Z
+LOCATION:3-269
+DTSTART:20231026T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:164cf5d1-f004-4088-b6c8-a61ccd11f2e5@164c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20231011T113000Z
+LOCATION:3-253
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:15a82072-adae-4760-9c88-dbcec7b151d1@15a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20230928T091500Z
+LOCATION:3-269
+DTSTART:20230928T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:e56b1c39-5835-42f9-9d39-7a781662b247@e56b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231004T073000Z
+LOCATION:3-253
+DTSTART:20231004T060000Z
+SUMMARY:ПЗ Электромагнитная совместимость и защита бортовой кабельной сети
+UID:c3195cfa-6a97-4c99-a282-b30d806108fc@c319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231220T091500Z
+LOCATION:3-253
+DTSTART:20231220T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:f940ab89-7082-4404-a2cf-b692df12ce65@f940.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231118T073000Z
+LOCATION:3-412
+DTSTART:20231118T060000Z
+SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:b06dd744-df0f-40ce-98ae-c5131dcdb838@b06d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231021T131500Z
+LOCATION:3-412
+DTSTART:20231021T114500Z
+SUMMARY:ЛР Электромагнитная совместимость и защита бортовой кабельной сети
+UID:aa2f9532-28c2-4f13-a98d-e9ae41a19e03@aa2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20230912T131500Z
+LOCATION:3-237
+DTSTART:20230912T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:25353a7f-16cd-4aec-afe2-b263a3d0c7a6@2535.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231007T131500Z
+LOCATION:3-412
+DTSTART:20231007T114500Z
+SUMMARY:ЛР Электромагнитная совместимость и защита бортовой кабельной сети
+UID:1fb35364-e0af-45af-ab91-988e8d474c7f@1fb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Исаев Владимир Владимирович
+DTEND:20230918T113000Z
+LOCATION:3-307
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Спецтехнология
+UID:1325f903-863b-4ea0-bc81-1cd67ce816e8@1325.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230906T091500Z
+LOCATION:3-253
+DTSTART:20230906T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:867bf05a-2a20-4a03-82c3-ed72cfaa45a1@867b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20230926T131500Z
+LOCATION:3-237
+DTSTART:20230926T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:f2d5e416-8d6e-4037-b72d-66e5dcbabca3@f2d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230925T131500Z
+LOCATION:5-401
+DTSTART:20230925T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:b1040bab-740c-4d60-ae05-1ef9a7cf3887@b104.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20230914T131500Z
+LOCATION:3-269
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:4827143b-7164-428b-a3fa-ba90e4e032b8@4827.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231005T131500Z
+LOCATION:3-269
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:b5b55cd4-9144-4192-940f-56199dbb4b29@b5b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231017T091500Z
+LOCATION:5-002
+DTSTART:20231017T074500Z
+SUMMARY:ПЗ Экология
+UID:33a5efe8-07de-47ab-a87b-02a61e99b015@33a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231116T091500Z
+LOCATION:3-269
+DTSTART:20231116T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:710ec8b3-d5c4-4b06-aa55-99440ed50de0@710e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231014T073000Z
+LOCATION:3-412
+DTSTART:20231014T060000Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:c5b40a9a-879a-4d62-9f2a-bf1fd633b38f@c5b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20230912T150000Z
+LOCATION:3-237
+DTSTART:20230912T133000Z
+SUMMARY:ПЗ Защита информации бортовых комплексов
+UID:d272c4c4-2635-4810-9f3a-c981cae0f17d@d272.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20231023T091500Z
+LOCATION:3-307
+DTSTART:20231023T074500Z
+SUMMARY:ПЗ Спецтехнология
+UID:1c38a54b-7926-4d4a-9a9b-f5df2c07fee9@1c38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Огородникова Светлана Владиславовна
+DTEND:20231117T073000Z
+LOCATION:5-122
+DTSTART:20231117T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:7a7f5b2f-3ee5-466b-a965-9318708a49b1@7a7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20230907T091500Z
+LOCATION:3-269
+DTSTART:20230907T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:a6985b0c-fd43-4680-ae60-26ccf3280d7b@a698.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230911T131500Z
+LOCATION:5-401
+DTSTART:20230911T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:8e38bcdd-0d6f-4880-b595-f20886248546@8e38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231205T091500Z
+LOCATION:3-261
+DTSTART:20231205T074500Z
+SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:b9eee8c3-44b0-4a01-b976-1b270dd130ae@b9ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231226T131500Z
+LOCATION:3-237
+DTSTART:20231226T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:508e3ac2-2c7f-45af-9c5e-247fe9e361fe@508e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231031T113000Z
+LOCATION:3-261
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:c0c43d1f-1eb2-4c44-9825-aba932ebdb97@c0c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20230911T113000Z
+LOCATION:3-301
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Экология
+UID:fe5f867a-c7bf-4b8a-90b8-1e5f6e8d9745@fe5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Огородникова Светлана Владиславовна
+DTEND:20231201T091500Z
+LOCATION:5-122
+DTSTART:20231201T074500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:508233b7-3894-46cb-9c2d-2ae03abfd505@5082.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231227T091500Z
+LOCATION:3-253
+DTSTART:20231227T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:1a0d3640-328f-4413-96a9-e8de6fb83dc6@1a0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231019T131500Z
+LOCATION:3-269
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:92beb52c-505a-4e67-a067-1b547af7e986@92be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20231106T091500Z
+LOCATION:3-307
+DTSTART:20231106T074500Z
+SUMMARY:ПЗ Спецтехнология
+UID:4c53481f-a6d7-4bb2-b36e-6efc2d18b2c2@4c53.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231028T091500Z
+LOCATION:3-412
+DTSTART:20231028T074500Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:4b8b3a58-a0c9-4930-bcb5-a1c7f3e3fa06@4b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230920T073000Z
+LOCATION:3-253
+DTSTART:20230920T060000Z
+SUMMARY:ПЗ Электромагнитная совместимость и защита бортовой кабельной сети
+UID:3517332b-a56f-4504-aa3d-13e36b0b631d@3517.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231121T131500Z
+LOCATION:3-237
+DTSTART:20231121T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:9319837d-cbc0-4d9c-be5d-81b0172d234b@9319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231009T131500Z
+LOCATION:5-401
+DTSTART:20231009T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:b8856667-e543-44be-a619-9d0d9084ddd7@b885.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231023T113000Z
+LOCATION:3-301
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Экология
+UID:999b86f6-7b1b-46cd-863a-2ecff11ae230@999b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231130T131500Z
+LOCATION:3-269
+DTSTART:20231130T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:3f1045dc-c829-4643-8dd8-843a1dce1536@3f10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Огородникова Светлана Владиславовна
+DTEND:20231124T073000Z
+LOCATION:5-122
+DTSTART:20231124T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:2c647c73-7f15-4e2f-8bda-1204c4a8c2a5@2c64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230926T113000Z
+LOCATION:3-261
+DTSTART:20230926T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:866da6aa-1c6a-428c-9bac-02fab820dcf5@866d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20231004T113000Z
+LOCATION:3-253
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:099064e7-ca75-406a-8cff-a3bda3b628af@0990.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231204T150000Z
+LOCATION:3-406
+DTSTART:20231204T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:ab6e0691-a19d-448f-822e-66f47d59e041@ab6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231205T113000Z
+LOCATION:3-261
+DTSTART:20231205T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:eb46f6ea-b248-4da4-992d-0068a5f6fa0a@eb46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230912T113000Z
+LOCATION:3-261
+DTSTART:20230912T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:4eb4d6c7-d1b5-49c3-a57c-f40ffbb0fd5e@4eb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20230905T131500Z
+LOCATION:3-237
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:45274bf5-ed1b-445e-902a-abee60b1f8c5@4527.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20230907T113000Z
+LOCATION:3-269
+DTSTART:20230907T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:233c744f-208a-47b2-a16a-c681855d0a32@233c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20231018T113000Z
+LOCATION:3-253
+DTSTART:20231018T100000Z
+SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:c785b20c-df01-4b4a-99af-1405022979ff@c785.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231107T131500Z
+LOCATION:3-237
+DTSTART:20231107T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:a979c091-1ce5-47cf-b6a7-18cb30536791@a979.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231003T131500Z
+LOCATION:3-237
+DTSTART:20231003T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:10f8ecea-5359-42ea-a2b4-290d54f9e0e6@10f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231120T150000Z
+LOCATION:3-406
+DTSTART:20231120T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:eac1e8f0-45c0-4361-b38c-900e08b007ed@eac1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20231122T113000Z
+LOCATION:3-253
+DTSTART:20231122T100000Z
+SUMMARY:ПЗ Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:a7ce0bf4-9304-45b3-8ccf-ef6a0258eaff@a7ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Огородникова Светлана Владиславовна
+DTEND:20231208T073000Z
+LOCATION:5-122
+DTSTART:20231208T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:33157cfe-ea9e-4d38-b749-c818b95a6cfe@3315.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20230921T073000Z
+LOCATION:3-269
+DTSTART:20230921T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:11a36086-6e11-48ef-90f4-ea6c2deb4ca6@11a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231003T113000Z
+LOCATION:3-261
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:9d683fae-955c-4d3e-a4ef-1dac24928a9c@9d68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231017T150000Z
+LOCATION:3-237
+DTSTART:20231017T133000Z
+SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
+UID:48626bda-52df-4d0a-9297-0e7f29f7efcf@4862.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20231129T113000Z
+LOCATION:3-253
+DTSTART:20231129T100000Z
+SUMMARY:ПЗ Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:3adde907-cdd4-418a-900e-7312d13cdf6e@3add.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230913T091500Z
+LOCATION:3-253
+DTSTART:20230913T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:4237a284-8592-472c-b20c-c8c9419e2b45@4237.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231017T131500Z
+LOCATION:3-237
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:af645d26-4b28-41b9-a2c8-e7fb811cbaff@af64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20230925T113000Z
+LOCATION:3-301
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Экология
+UID:16b2e849-500b-4634-a12b-c6685c23257c@16b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231201T131500Z
+LOCATION:5-117
+DTSTART:20231201T114500Z
+SUMMARY:ЛР Экология
+UID:5dca06dd-e715-4911-81c6-db62325f53b4@5dca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20230925T091500Z
+LOCATION:3-307
+DTSTART:20230925T074500Z
+SUMMARY:ПЗ Спецтехнология
+UID:5aa4d78c-fd9f-40d0-babc-491888faa427@5aa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20230921T131500Z
+LOCATION:3-269
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:732e4779-09a8-41cf-bc19-76ec8106425b@732e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231123T131500Z
+LOCATION:3-269
+DTSTART:20231123T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:55ee4c9e-64d7-44dd-836a-faf52a54b1f0@55ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20230928T131500Z
+LOCATION:3-269
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:69466f8f-005b-485e-b878-dc3fcf58d6b2@6946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231028T073000Z
+LOCATION:3-412
+DTSTART:20231028T060000Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:ee935d40-ed96-4153-99b2-69d498e22523@ee93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231207T073000Z
+LOCATION:3-269
+DTSTART:20231207T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:0f762e57-107b-43f5-8704-09cbad3e130c@0f76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231031T150000Z
+LOCATION:3-237
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
+UID:538605c8-5003-48e4-a738-bd93d806d959@5386.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231219T131500Z
+LOCATION:3-237
+DTSTART:20231219T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:f65b6ee3-e07c-4f16-9492-851583889c15@f65b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231030T131500Z
+LOCATION:5-401
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:7c7217d3-12d6-4b56-9d4d-aeaf4b5895c5@7c72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231201T113000Z
+LOCATION:5-117
+DTSTART:20231201T100000Z
+SUMMARY:ЛР Экология
+UID:39305fa3-a8b6-40dc-8f99-6ebd3b306174@3930.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231030T150000Z
+LOCATION:3-406
+DTSTART:20231030T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:1af0c511-bbe2-4f2e-9950-43991862613b@1af0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231102T113000Z
+LOCATION:3-269
+DTSTART:20231102T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:92015531-6274-41b5-b8c2-03b458db1d12@9201.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231219T150000Z
+LOCATION:3-237
+DTSTART:20231219T133000Z
+SUMMARY:ПЗ Защита информации бортовых комплексов
+UID:6c8dd0e0-9a92-4b7e-8569-99103c30557d@6c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231005T113000Z
+LOCATION:3-269
+DTSTART:20231005T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:e8d951fd-5c3f-4333-90bb-727d20537425@e8d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231204T113000Z
+LOCATION:3-301
+DTSTART:20231204T100000Z
+SUMMARY:ЛК Экология
+UID:5a0405bb-6095-4161-a1f6-26eddf0c2599@5a04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Исаев Владимир Владимирович
+DTEND:20231030T113000Z
+LOCATION:3-307
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Спецтехнология
+UID:3e58170d-383b-44e8-98a6-09622fd4829e@3e58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231120T113000Z
+LOCATION:3-301
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Экология
+UID:10264e2c-f81e-45f9-bf27-50e8541248b6@1026.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20230911T150000Z
+LOCATION:3-406
+DTSTART:20230911T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:4622e86f-458a-4318-93d6-d09bf2c44ca7@4622.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231012T091500Z
+LOCATION:3-269
+DTSTART:20231012T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:7a76edb0-b282-4f6a-a4ef-e9cbe5945719@7a76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231129T091500Z
+LOCATION:3-253
+DTSTART:20231129T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:2dbc0a5e-8f2f-4414-9b65-6d4c7312a82f@2dbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Огородникова Светлана Владиславовна
+DTEND:20231201T073000Z
+LOCATION:5-122
+DTSTART:20231201T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:7d354c8b-d0d7-489c-8606-89fdbc3c7865@7d35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231026T131500Z
+LOCATION:3-269
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:2a7bc136-e3e7-4733-af8f-6909a21cee06@2a7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231228T073000Z
+LOCATION:3-269
+DTSTART:20231228T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:64ea47b0-77f7-4fe3-a550-c5c8365c62ca@64ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231121T150000Z
+LOCATION:3-237
+DTSTART:20231121T133000Z
+SUMMARY:ПЗ Защита информации бортовых комплексов
+UID:0665e4c8-46be-4d3e-ad5b-3564b53ee323@0665.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Исаев Владимир Владимирович
+DTEND:20231113T113000Z
+LOCATION:3-307
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Спецтехнология
+UID:f310f33b-8b27-4cff-ac89-6d1b585f96bb@f310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20230911T091500Z
+LOCATION:3-307
+DTSTART:20230911T074500Z
+SUMMARY:ПЗ Спецтехнология
+UID:05b191bc-b620-4eff-9bd4-77b6d27193ef@05b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231123T073000Z
+LOCATION:3-269
+DTSTART:20231123T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:2a7af6b7-c0eb-4879-ab5d-8d1db3d890df@2a7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231209T073000Z
+LOCATION:3-412
+DTSTART:20231209T060000Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:471221a1-a582-494a-8471-1ab31da87993@4712.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230912T091500Z
+LOCATION:3-261
+DTSTART:20230912T074500Z
+SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:49618c46-9859-4ff4-b089-76fe83544866@4961.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231024T113000Z
+LOCATION:3-261
+DTSTART:20231024T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:840eb3b0-864b-4fe9-af70-3904b735c460@840e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20230918T150000Z
+LOCATION:3-406
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:14fea224-d512-4e2a-9f43-fabd6c11ae10@14fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231212T150000Z
+LOCATION:3-237
+DTSTART:20231212T133000Z
+SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
+UID:d7ab6ef8-a4f6-4fbb-ad2d-47348d97e8b0@d7ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231221T091500Z
+LOCATION:3-269
+DTSTART:20231221T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:d08fbca1-9fb8-45fa-85e4-e931f2868a44@d08f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20230919T131500Z
+LOCATION:3-237
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:e242c29a-0887-4a1f-9ba8-5f52cedebc68@e242.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кадочников Александр Александрович
+DTEND:20231110T091500Z
+LOCATION:3-311
+DTSTART:20231110T074500Z
+SUMMARY:ЛР Спецтехнология
+UID:3c684899-7e4c-4dc6-b4e7-bd34e752a84b@3c68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231128T113000Z
+LOCATION:3-261
+DTSTART:20231128T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:54f67f8a-65d9-4b84-8e19-f3752e0537a1@54f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231114T091500Z
+LOCATION:5-002
+DTSTART:20231114T074500Z
+SUMMARY:ПЗ Экология
+UID:666472b5-720a-4c23-a594-e5486df5e98f@6664.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231207T131500Z
+LOCATION:3-269
+DTSTART:20231207T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:6ad0df8c-a264-477a-925f-8aabc5048d89@6ad0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230918T131500Z
+LOCATION:5-401
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:a3a0194e-81bb-42ac-9e0b-2cc2ee7900ce@a3a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231021T113000Z
+LOCATION:3-412
+DTSTART:20231021T100000Z
+SUMMARY:ЛР Электромагнитная совместимость и защита бортовой кабельной сети
+UID:054cc45b-4542-478e-8874-6550fb8bbe57@054c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231128T131500Z
+LOCATION:3-237
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:f35c1d02-f125-464f-82b3-2626f2510377@f35c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20230905T150000Z
+LOCATION:3-237
+DTSTART:20230905T133000Z
+SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
+UID:1be0d8d9-06d0-46a4-9fc9-b041ab01b9eb@1be0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20230920T113000Z
+LOCATION:3-253
+DTSTART:20230920T100000Z
+SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:061c576e-098a-4107-b5d7-63ce57a58494@061c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20230921T091500Z
+LOCATION:3-269
+DTSTART:20230921T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:7cf18757-8374-4f0a-8984-f1ee39ecbbf3@7cf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231116T131500Z
+LOCATION:3-269
+DTSTART:20231116T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:33476d72-9f65-4c70-b0e6-b674c7637bd2@3347.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231123T113000Z
+LOCATION:3-269
+DTSTART:20231123T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:8b40c333-ba92-489e-8a10-460705b329bb@8b40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20230907T073000Z
+LOCATION:3-269
+DTSTART:20230907T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:d268d17d-6b21-40db-bfec-3bc249246d84@d268.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231005T073000Z
+LOCATION:3-269
+DTSTART:20231005T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:578ca76c-c8c4-4050-8eef-504a30ff1e49@578c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231117T131500Z
+LOCATION:5-117
+DTSTART:20231117T114500Z
+SUMMARY:ЛР Экология
+UID:c3bfe49e-ac0f-4fb8-924e-8894b3b70812@c3bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231031T091500Z
+LOCATION:5-002
+DTSTART:20231031T074500Z
+SUMMARY:ПЗ Экология
+UID:0778d1b6-46e1-4d15-8683-8d0d87d1f573@0778.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кадочников Александр Александрович
+DTEND:20231027T091500Z
+LOCATION:3-311
+DTSTART:20231027T074500Z
+SUMMARY:ЛР Спецтехнология
+UID:f88eade9-8e6a-4b83-b737-e05e59295185@f88e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231205T150000Z
+LOCATION:3-237
+DTSTART:20231205T133000Z
+SUMMARY:ПЗ Защита информации бортовых комплексов
+UID:48136cec-3b46-4c86-8e77-86c87a254b02@4813.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231010T131500Z
+LOCATION:3-237
+DTSTART:20231010T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:3298abbf-8926-4b63-9dad-9fe309f5ee82@3298.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Огородникова Светлана Владиславовна
+DTEND:20231208T091500Z
+LOCATION:5-122
+DTSTART:20231208T074500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:e8382588-ca3e-4e94-a647-fb9778ab951d@e838.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231114T150000Z
+LOCATION:3-237
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
+UID:d650c26e-25ef-480d-ad58-c080d64fcd11@d650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231211T150000Z
+LOCATION:3-406
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:4b3c73a1-0eb3-478f-8c58-e7b2d9b52d64@4b3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231121T091500Z
+LOCATION:3-261
+DTSTART:20231121T074500Z
+SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:f63c3e97-b778-44e4-8046-a82116a01857@f63c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231107T113000Z
+LOCATION:3-261
+DTSTART:20231107T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:3d13ad11-4710-4491-8a03-aeb8f7f7436e@3d13.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231118T091500Z
+LOCATION:3-412
+DTSTART:20231118T074500Z
+SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:cf276b9d-ea41-433e-a192-c429b3c629e5@cf27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231111T073000Z
+LOCATION:3-412
+DTSTART:20231111T060000Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:d46cc40e-c775-4b8f-8e03-0dadd03ee47e@d46c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231102T091500Z
+LOCATION:3-269
+DTSTART:20231102T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:2c2e6f7b-840e-4c0a-8524-535941c7afc5@2c2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231214T113000Z
+LOCATION:3-269
+DTSTART:20231214T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:75a0fece-ba3e-48e7-8648-3f21c030b210@75a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231226T150000Z
+LOCATION:3-237
+DTSTART:20231226T133000Z
+SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
+UID:ac91387b-16c4-4e56-853a-8459ad09d8db@ac91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231218T150000Z
+LOCATION:3-406
+DTSTART:20231218T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:3a76d9be-1869-45cb-bc97-590dd38559ce@3a76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231026T091500Z
+LOCATION:3-269
+DTSTART:20231026T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:0634b73c-8db9-4fca-b9a4-9c29b843ad4e@0634.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кадочников Александр Александрович
+DTEND:20231110T073000Z
+LOCATION:3-311
+DTSTART:20231110T060000Z
+SUMMARY:ЛР Спецтехнология
+UID:864f9de8-30d7-4f50-8fde-795618e9a59e@864f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20230904T150000Z
+LOCATION:3-406
+DTSTART:20230904T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:a24bf35e-4254-4f1e-8345-4160578d98fc@a24b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231118T113000Z
+LOCATION:3-412
+DTSTART:20231118T100000Z
+SUMMARY:ЛР Электромагнитная совместимость и защита бортовой кабельной сети
+UID:cb29c5cf-45f1-476b-9ea0-fdbf2e147bd0@cb29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Исаев Владимир Владимирович
+DTEND:20231127T113000Z
+LOCATION:3-307
+DTSTART:20231127T100000Z
+SUMMARY:ЛК Спецтехнология
+UID:fb731bd8-9ad3-4228-8c77-debb51b08fbb@fb73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20230914T073000Z
+LOCATION:3-269
+DTSTART:20230914T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:220e9b66-1471-4bf1-8568-86b4db881dc8@220e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20230927T113000Z
+LOCATION:3-253
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:62e4b62b-3fcc-4cd4-a52f-304987030af7@62e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20231101T113000Z
+LOCATION:3-253
+DTSTART:20231101T100000Z
+SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:5846aa37-1e8d-42f1-a77a-eb4013c24ef5@5846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230930T073000Z
+LOCATION:3-412
+DTSTART:20230930T060000Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:511a4e2e-1b52-4fc8-b74f-3eb1882b0386@511a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231018T091500Z
+LOCATION:3-253
+DTSTART:20231018T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:8484e4a6-2904-4052-a4f0-cfba563b7fd6@8484.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231101T091500Z
+LOCATION:3-253
+DTSTART:20231101T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:c34b05cc-62a2-4c7e-aaf7-b228ac6726e5@c34b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Исаев Владимир Владимирович
+DTEND:20230904T113000Z
+LOCATION:3-307
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Спецтехнология
+UID:8eaad435-4853-4ea9-8bde-8f89bead56e2@8eaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Исаев Владимир Владимирович
+DTEND:20231016T113000Z
+LOCATION:3-307
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Спецтехнология
+UID:044dbabe-9547-4c84-b755-fdd3478b3fc7@044d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231102T131500Z
+LOCATION:3-269
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:3dcb1f26-6a5d-49f6-a841-f0885c561298@3dcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231218T131500Z
+LOCATION:5-401
+DTSTART:20231218T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:8a635fe0-bda7-4633-b31a-539203f43eef@8a63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231012T113000Z
+LOCATION:3-269
+DTSTART:20231012T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:193b51e0-d71b-42ff-842c-9ca4e86d57a8@193b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230919T113000Z
+LOCATION:3-261
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:454cd76c-6070-406f-ae9c-9394cc4e4099@454c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231016T131500Z
+LOCATION:5-401
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:f4d96601-f562-4571-ab21-48a92129dd90@f4d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231024T091500Z
+LOCATION:3-261
+DTSTART:20231024T074500Z
+SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:ebcb570f-704e-4638-8532-5668b1efbd02@ebcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231010T091500Z
+LOCATION:3-261
+DTSTART:20231010T074500Z
+SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:5818a136-9eac-4478-b649-edabbe2c23b6@5818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231116T113000Z
+LOCATION:3-269
+DTSTART:20231116T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:a685f5fc-6ed7-4c2d-a1f7-66f1863ed9bf@a685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231019T113000Z
+LOCATION:3-269
+DTSTART:20231019T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:2b0897c4-6d72-43e3-ba52-0efbfc79c931@2b08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231228T091500Z
+LOCATION:3-269
+DTSTART:20231228T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:dff64922-f842-4150-b52b-0050e227a055@dff6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Огородникова Светлана Владиславовна
+DTEND:20231124T091500Z
+LOCATION:5-122
+DTSTART:20231124T074500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:a8fc1d98-bbcd-49c5-9896-59b26ccff371@a8fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231212T131500Z
+LOCATION:3-237
+DTSTART:20231212T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:c8e97250-7302-48e6-9faf-3e064dbf1ca9@c8e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231228T113000Z
+LOCATION:3-269
+DTSTART:20231228T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:085d218d-90e1-4984-86c0-db38074ecffe@085d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231212T113000Z
+LOCATION:3-261
+DTSTART:20231212T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:3ffc6b0f-d083-467b-806b-1e140d43e428@3ffc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231228T131500Z
+LOCATION:3-269
+DTSTART:20231228T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:5084613e-9c2f-4bd8-a3a8-477b19dba3f1@5084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231122T091500Z
+LOCATION:3-253
+DTSTART:20231122T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:92f657e5-19b1-4538-b656-970bee2cd4f3@92f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230930T091500Z
+LOCATION:3-412
+DTSTART:20230930T074500Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:dbd109e1-0f5c-4e13-abcc-b8e2399fe4dd@dbd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231123T091500Z
+LOCATION:3-269
+DTSTART:20231123T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:0de56bca-dd0e-486a-91fe-01323be8e21f@0de5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231130T073000Z
+LOCATION:3-269
+DTSTART:20231130T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:764b5a84-c60f-4041-85cc-a8b22765b633@764b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231221T073000Z
+LOCATION:3-269
+DTSTART:20231221T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:062fc14a-f804-4fae-a3c5-c7392d282e45@062f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231007T073000Z
+LOCATION:3-412
+DTSTART:20231007T060000Z
+SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:09f582d6-bab0-4ceb-b156-96efe6c5cb9b@09f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231211T131500Z
+LOCATION:5-401
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:4f009f9c-690c-41b0-a0ef-98e80e36e2d7@4f00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20230925T150000Z
+LOCATION:3-406
+DTSTART:20230925T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:812760ed-d5a5-4428-9d0c-46d78b75d743@8127.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231011T091500Z
+LOCATION:3-253
+DTSTART:20231011T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:594edcfb-5364-43f8-a722-5f5f347c6891@594e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231214T091500Z
+LOCATION:3-269
+DTSTART:20231214T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:9b2dcc04-8e80-4108-9291-e2c906068c49@9b2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231107T150000Z
+LOCATION:3-237
+DTSTART:20231107T133000Z
+SUMMARY:ПЗ Защита информации бортовых комплексов
+UID:807c2824-6b01-4d8e-bbe4-0bd5f03d60ef@807c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231106T113000Z
+LOCATION:3-301
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Экология
+UID:9558784f-d381-4028-a2f1-f2678b2fa5cc@9558.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20231206T113000Z
+LOCATION:3-253
+DTSTART:20231206T100000Z
+SUMMARY:ПЗ Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:244cb0bb-f636-4f64-ac80-29a6087cda0d@244c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231109T131500Z
+LOCATION:3-269
+DTSTART:20231109T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:133a65e1-80af-4717-afe0-1c2ffddfba8e@133a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231109T113000Z
+LOCATION:3-269
+DTSTART:20231109T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:57df0c8d-bca3-46b7-9c1b-63c3133a90f5@57df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231007T113000Z
+LOCATION:3-412
+DTSTART:20231007T100000Z
+SUMMARY:ЛР Электромагнитная совместимость и защита бортовой кабельной сети
+UID:01292412-4460-426e-aa26-a802314c677e@0129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Огородникова Светлана Владиславовна
+DTEND:20231215T073000Z
+LOCATION:5-122
+DTSTART:20231215T060000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:848de518-0f69-4d48-8b0b-4208467b1d6e@848d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231221T113000Z
+LOCATION:3-269
+DTSTART:20231221T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:95d45342-66e0-4e69-ab7c-aaf772f47192@95d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230905T113000Z
+LOCATION:3-261
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:e5fd0d0e-f93a-4c14-8d41-e3af5248fd38@e5fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20230919T091500Z
+LOCATION:5-002
+DTSTART:20230919T074500Z
+SUMMARY:ПЗ Экология
+UID:10d28881-4f31-4754-922f-e69aa0870f1f@10d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231202T091500Z
+LOCATION:3-412
+DTSTART:20231202T074500Z
+SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:c81775ea-837e-4229-9ad6-aed57ced1acd@c817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230927T091500Z
+LOCATION:3-253
+DTSTART:20230927T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:33de04e5-edc3-44d4-9e66-828fda0ddc99@33de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20231213T113000Z
+LOCATION:3-253
+DTSTART:20231213T100000Z
+SUMMARY:ПЗ Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:f5a77d83-1a2b-405b-b862-32c0538871f4@f5a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231005T091500Z
+LOCATION:3-269
+DTSTART:20231005T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:587f8600-9b5f-4067-86a9-71eed319203d@587f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20230928T073000Z
+LOCATION:3-269
+DTSTART:20230928T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:de4cd5a4-78d6-45be-964f-6100719c8376@de4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сотникова Елена Васильевна
+DTEND:20231003T091500Z
+LOCATION:5-002
+DTSTART:20231003T074500Z
+SUMMARY:ПЗ Экология
+UID:45804b6d-06c1-4231-ae14-c5dfda503106@4580.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231114T131500Z
+LOCATION:3-237
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:5eb55d0c-2f43-47db-9c82-3b7186564ac5@5eb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231221T131500Z
+LOCATION:3-269
+DTSTART:20231221T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:2fd9e269-d2d6-4dcd-996c-0f5928309836@2fd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231003T150000Z
+LOCATION:3-237
+DTSTART:20231003T133000Z
+SUMMARY:ПЗ Основы конструирования приборов с учетом ЭМС
+UID:9e211007-f6ff-4485-a157-aa84f4b20c8b@9e21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231102T073000Z
+LOCATION:3-269
+DTSTART:20231102T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:60f87555-62c8-4262-a355-96bae315e677@60f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231225T150000Z
+LOCATION:3-406
+DTSTART:20231225T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:71598696-cdab-4bb7-80cf-1fd938ff3377@7159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231021T091500Z
+LOCATION:3-412
+DTSTART:20231021T074500Z
+SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:59ad0a8c-fd67-40c6-9443-7520adc184d5@59ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кадочников Александр Александрович
+DTEND:20231027T073000Z
+LOCATION:3-311
+DTSTART:20231027T060000Z
+SUMMARY:ЛР Спецтехнология
+UID:96079fff-284a-4cce-bf29-81c48ad727b1@9607.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231207T113000Z
+LOCATION:3-269
+DTSTART:20231207T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:44c6a6b0-676b-4a2f-b9ae-4bb5d77fb3b2@44c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231007T091500Z
+LOCATION:3-412
+DTSTART:20231007T074500Z
+SUMMARY:ЛР Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:58ffa4a6-2aaf-48b8-a62b-f22f8c0416d5@58ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20231204T091500Z
+LOCATION:3-307
+DTSTART:20231204T074500Z
+SUMMARY:ПЗ Спецтехнология
+UID:f2f965ce-0f71-43b2-b209-fa8b713ff5be@f2f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231214T131500Z
+LOCATION:3-269
+DTSTART:20231214T114500Z
+SUMMARY:ЛК Защита информации бортовых комплексов
+UID:97348f24-1118-4ce8-8c86-405123f132f2@9734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231114T113000Z
+LOCATION:3-261
+DTSTART:20231114T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:ae329f78-1c02-430e-abd1-5fd9a904d052@ae32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пчельникова-гротова Ольга Николаевна
+DTEND:20231009T091500Z
+LOCATION:3-307
+DTSTART:20231009T074500Z
+SUMMARY:ПЗ Спецтехнология
+UID:4e4587f1-35f0-407a-b7b2-18091aa65c32@4e45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231125T073000Z
+LOCATION:3-412
+DTSTART:20231125T060000Z
+SUMMARY:ЛР Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:dfacfc71-55ad-4ea5-98d0-444fd0be80b4@dfac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Огородникова Светлана Владиславовна
+DTEND:20231215T091500Z
+LOCATION:5-122
+DTSTART:20231215T074500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:6f23b0cc-04ae-4c66-8884-361688bb2bf3@6f23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231205T131500Z
+LOCATION:3-237
+DTSTART:20231205T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:387898d6-ce60-4673-a6b8-22bc8e7578b9@3878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20230926T091500Z
+LOCATION:3-261
+DTSTART:20230926T074500Z
+SUMMARY:ПЗ Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:4d15c1ce-4687-48ae-8c5a-63697cd65f38@4d15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231017T113000Z
+LOCATION:3-261
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Методы компьютерного моделирования электромагнитной совместимости бортовых комплексов
+UID:6ebc8ea9-6acb-4aaf-95d5-5a019cf18a9b@6ebc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231025T091500Z
+LOCATION:3-253
+DTSTART:20231025T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:2200a142-0c10-4b6f-b109-27f6ffa49cb3@2200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вышков Юрий Дмитриевич
+DTEND:20231010T150000Z
+LOCATION:3-237
+DTSTART:20231010T133000Z
+SUMMARY:ПЗ Защита информации бортовых комплексов
+UID:043dffd4-2e26-4b8b-82ee-e953a1abcd9b@043d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шапошников Андрей Степанович
+DTEND:20231025T113000Z
+LOCATION:3-253
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Компьютерные технологии расчета электрических цепей и электромагнитных полей
+UID:ec854130-30f8-49b1-9d51-92c20ea02525@ec85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Корнилов Александр Борисович
+DTEND:20231019T073000Z
+LOCATION:3-269
+DTSTART:20231019T060000Z
+SUMMARY:ЛК Автоматизированное проектирование электротехнических сетей бортовых комплексов
+UID:250b7c9e-0bf7-4f73-9f4d-1204cd443eda@250b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231002T131500Z
+LOCATION:5-401
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:38822dc8-be21-4c21-92c9-9ba986997015@3882.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231031T131500Z
+LOCATION:3-237
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:26c28150-d7ed-4108-8959-a98070fa6f7a@26c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20230904T131500Z
+LOCATION:5-401
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:f175f5ec-055c-4dcb-83d7-f993106f0deb@f175.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Горбачев Сергей Игоревич
+DTEND:20231023T131500Z
+LOCATION:5-401
+DTSTART:20231023T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:599199bf-ac80-4a09-a55b-d0a66e06d172@5991.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231127T150000Z
+LOCATION:3-406
+DTSTART:20231127T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:2442cae4-8ab1-4093-8b32-ae0a3444a6dc@2442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Томилин Максим Михайлович
+DTEND:20231213T091500Z
+LOCATION:3-253
+DTSTART:20231213T074500Z
+SUMMARY:ЛК Электромагнитная совместимость и защита бортовой кабельной сети
+UID:78b3e914-eefc-43d2-ac90-7be9a57d9e34@78b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231009T150000Z
+LOCATION:3-406
+DTSTART:20231009T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:e640423a-7e32-485c-bf14-a59f30b5458d@e640.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харченко Игорь Александрович
+DTEND:20231024T131500Z
+LOCATION:3-237
+DTSTART:20231024T114500Z
+SUMMARY:ЛК Основы конструирования приборов с учетом ЭМС
+UID:5317bab2-4eaf-448b-9f1b-376c742f124f@5317.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20230921T113000Z
+LOCATION:3-269
+DTSTART:20230921T100000Z
+SUMMARY:ПЗ Основы научных исследований проблем ЭМС
+UID:151a53ec-abdb-402e-85fc-9c4617a81a44@151a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20230914T091500Z
+LOCATION:3-269
+DTSTART:20230914T074500Z
+SUMMARY:ЛК Методы и технические средства испытаний ЭМС ЛА
+UID:bcd9f293-a595-4dd5-8ddd-882c36fddd90@bcd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кириллов Владимир Юрьевич
+DTEND:20231002T150000Z
+LOCATION:3-406
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Электромагнитная совместимость комплексов ЛА
+UID:fd8b9dcf-3e88-4c5f-903a-b2441d85c899@fd8b.org
 END:VEVENT
 END:VCALENDAR

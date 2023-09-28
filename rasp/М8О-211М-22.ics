@@ -2,508 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231207T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20231207T133000Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:449eb5cf-0e58-4d18-a23a-0ad559d6e5b9@449e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231219T150000Z
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231214T164500Z
 LOCATION:ГУК Б-325
-DTSTART:20231219T133000Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:5018e6ab-553c-48a9-a0c4-a2518757787d@5018.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231115T164500Z
-LOCATION:3-301
-DTSTART:20231115T151500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:7abff5f8-09e5-4903-8088-ed5e081a833f@7abf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231113T164500Z
-LOCATION:ГАК-320
-DTSTART:20231113T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:1d006034-675f-448b-83f0-488a826301b8@1d00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231106T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231106T133000Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:12b36404-e7d6-4f2e-8c78-722acc92c197@12b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20230905T150000Z
-LOCATION:3-301
-DTSTART:20230905T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:d2472800-5858-4246-9e28-6bf44dd55ac6@d247.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231221T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231221T114500Z
-SUMMARY:ЛК Проектирование и функционирование нейронных сетей
-UID:a5f23be3-81d3-49c9-a434-411ee4e4a7ee@a5f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230927T150000Z
-LOCATION:ГУК А-626
-DTSTART:20230927T133000Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:841118c4-6efe-497c-aee8-1c7855ee9cd9@8411.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231026T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Проектирование и функционирование нейронных сетей
-UID:44dfb1c2-d1a3-44e0-8898-5ff403a37bfe@44df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20230911T131500Z
-LOCATION:ГУК А-626
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:d2de32ab-0d48-4e7c-ac91-400617a76d94@d2de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20230907T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20230907T133000Z
+DTSTART:20231214T151500Z
 SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:fbb07a97-fc65-4730-81f8-5d5a7cbf8b29@fbb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231024T131500Z
-LOCATION:ГУК Б-325
-DTSTART:20231024T114500Z
-SUMMARY:ЛК Оптимизация гибридных систем управления
-UID:684414b2-f8b1-4dd4-a05e-d5c6969c08af@6844.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231011T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231011T133000Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:efe50f13-9220-4336-9257-674fc34b9e47@efe5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231101T164500Z
-LOCATION:3-301
-DTSTART:20231101T151500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:225f4d61-f9a4-462e-aaac-6ab9b02e6cb2@225f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231114T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231114T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:0b0d92ea-ca8c-4801-ae56-6cb48f9ada15@0b0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231010T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231010T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:b52fde8c-e766-49e3-8a8f-86b0039e0b37@b52f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231003T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231003T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:0dbe891c-a1ab-4161-ba08-8c87a448ed91@0dbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231228T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231228T151500Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:d03b5de7-8caf-4262-b3cd-f3662f543ecc@d03b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20230927T164500Z
-LOCATION:3-435
-DTSTART:20230927T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:af94227f-fb52-49c3-abdb-180c36c29f22@af94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20230907T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:db4933eb-e8fd-456d-986c-a5894520172c@db49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20230914T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20230914T133000Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:47ab3381-c296-4eb4-99e4-9173709f12ba@47ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20230926T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20230926T133000Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:542d0017-c068-4152-8f45-c47934e3ab7c@542d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20230928T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20230928T151500Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:8f9e4faf-6cc9-47a8-9170-884081f4becc@8f9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231221T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20231221T151500Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:881b488c-b03c-4532-ad08-e144f616f13b@881b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231026T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20231026T151500Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:b1de3a89-fb04-4939-b070-d207fc106622@b1de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231023T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231023T151500Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:a044a2ea-db9c-4e9e-92b8-26f57a58f2b3@a044.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231019T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231019T151500Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:899563a8-78b0-468c-b38f-3cd7b30df4f9@8995.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231010T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231010T133000Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:0ab84a98-7aec-46c6-b249-ebc0c8159e22@0ab8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231011T131500Z
-LOCATION:ГУК А-626
-DTSTART:20231011T114500Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:09057df3-56f9-4c16-ab30-1847a351a042@0905.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20230925T164500Z
-LOCATION:ГУК А-626
-DTSTART:20230925T151500Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:4ba0fb86-40b5-4865-9c06-11875e387d43@4ba0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231031T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231031T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:87282a2f-ca74-4edc-949f-0dfeb13ae1e1@8728.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231009T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231009T133000Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:1abc2cd6-ba08-48fb-ac70-909b6f85ffd1@1abc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231023T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231023T133000Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:c3c65828-cba4-4254-831c-72663d26dc39@c3c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231018T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231018T133000Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:e1b760dd-58dc-4bd0-9b06-1aa18ca7f60f@e1b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231122T164500Z
-LOCATION:3-435
-DTSTART:20231122T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:4fe743b3-5685-46ce-af62-e4b49eefc7e3@4fe7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231012T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231012T114500Z
-SUMMARY:ЛК Проектирование и функционирование нейронных сетей
-UID:372a5e84-8d3b-4d97-9366-256b4c74aa51@372a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231011T164500Z
-LOCATION:3-435
-DTSTART:20231011T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:5880971d-9ca9-48ff-b562-e4a2a7b2a0cf@5880.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231002T164500Z
-LOCATION:ГАК-320
-DTSTART:20231002T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:eb920951-3ef8-493e-ae5a-4629e23357fb@eb92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231212T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231212T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:cb8ef98b-a345-452a-920b-99b1c0daf1f7@cb8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20230918T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20230918T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:19d9e3ed-bc99-420b-93e1-5d16399a00cb@19d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231012T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20231012T151500Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:ea0862af-f8f5-4ffd-aae0-7a7638a2e8cd@ea08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20230918T164500Z
-LOCATION:ГАК-320
-DTSTART:20230918T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:e6541c5d-d8e8-4391-80fe-5e1624bdc831@e654.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231023T131500Z
-LOCATION:ГУК А-626
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:f84dd28f-68d7-405f-8663-359102e704b9@f84d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231121T131500Z
-LOCATION:ГУК Б-325
-DTSTART:20231121T114500Z
-SUMMARY:ЛК Оптимизация гибридных систем управления
-UID:b0590171-116c-4589-843f-6794a7877168@b059.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231219T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:5be47535-9f0d-46d7-9d43-be543961addb@5be4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231127T164500Z
-LOCATION:ГАК-320
-DTSTART:20231127T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:6421b714-8a82-4bf3-91a8-e15e38a41a77@6421.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231116T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231116T133000Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:a3c81ab8-13b6-4505-9da1-f5d10cbddd30@a3c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20230919T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20230919T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:041b14ac-f109-4cc4-908b-d82cf2ec3cee@041b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231031T150000Z
-LOCATION:3-301
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:888881a8-ed51-4f1f-9b3f-ea558838f346@8888.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20230912T131500Z
-LOCATION:ГУК Б-325
-DTSTART:20230912T114500Z
-SUMMARY:ЛК Оптимизация гибридных систем управления
-UID:b4096f02-6236-473c-b70b-c2c94df0ee35@b409.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231025T164500Z
-LOCATION:3-435
-DTSTART:20231025T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:2076e010-ef80-4c75-b06f-a2f822a5335b@2076.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231128T150000Z
-LOCATION:3-301
-DTSTART:20231128T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:01913051-dabe-4976-bdb9-6e0fcd1fd7fd@0191.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231009T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231009T151500Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:e3e1f6cc-5cd6-4b7a-84f9-6978260c0df3@e3e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231005T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231005T151500Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:aa8563bf-d0d5-4806-a18f-f52c8cf8da5c@aa85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231226T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231226T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:c444ffe3-cfb4-4d7f-9ca5-2f7b8443466f@c444.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231116T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231116T151500Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:be37c0d0-e007-4300-beae-bec0349ed3c5@be37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231129T164500Z
-LOCATION:3-301
-DTSTART:20231129T151500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:0d96c9d6-6083-400e-9e72-6d759b930b62@0d96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231009T131500Z
-LOCATION:ГУК А-626
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:35f03fe9-db4a-4a3f-9175-f201d72d35f3@35f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20230905T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20230905T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:046fbc83-d841-4d78-b48d-011574d87106@046f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20230926T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20230926T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:4184e2d1-27c2-4936-a36e-ba586add3777@4184.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231120T131500Z
-LOCATION:ГУК А-626
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:4beb1409-1d4c-4d0e-8343-e203f9419aa4@4beb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231024T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:b92546f4-547f-412a-b6bf-840e2d826425@b925.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20230919T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20230919T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:fb8bca90-c151-4f34-b8e3-e7374fb3bf22@fb8b.org
+UID:b76373a1-c03a-46e2-80e5-75c270b0b780@b763.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Виноградов Владимир Иванович
@@ -511,727 +15,7 @@ DTEND:20230928T150000Z
 LOCATION:ГУК Б-326
 DTSTART:20230928T133000Z
 SUMMARY:ЛР Криптографические методы защиты информации
-UID:7e54915c-ff28-4ed1-8506-3628f549c3bd@7e54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230906T150000Z
-LOCATION:ГУК А-626
-DTSTART:20230906T133000Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:d3c2415b-b3e2-4ef9-865e-bcad17593128@d3c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231003T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231003T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:2edc9d34-7829-4905-b805-9ec26db4c626@2edc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231211T164500Z
-LOCATION:ГАК-320
-DTSTART:20231211T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:4175be23-bb3c-41f5-9415-98a1c236dde4@4175.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231213T164500Z
-LOCATION:3-301
-DTSTART:20231213T151500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:4433a24f-f289-423e-86ad-16f861c55b82@4433.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20230912T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20230912T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:3a536bf9-281e-4993-9434-4fb0601d36ff@3a53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231109T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231109T114500Z
-SUMMARY:ЛК Проектирование и функционирование нейронных сетей
-UID:e02cccbb-fa85-427c-b279-a18f71baae02@e02c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231114T150000Z
-LOCATION:3-301
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:6f5c8404-4498-41b7-9863-663b4fbb0a89@6f5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20230913T164500Z
-LOCATION:3-435
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:2ef043f6-6833-4d00-a1fe-59404d37d06a@2ef0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20230907T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20230907T151500Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:5d454242-59f1-4791-941a-af0807a65d80@5d45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231213T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231213T133000Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:95b060f7-2f6f-4d77-9083-ef0832997b82@95b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231016T164500Z
-LOCATION:ГАК-320
-DTSTART:20231016T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:59eebefa-c615-493f-9505-1d03b6c230c5@59ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231228T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231228T114500Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:693fc06d-20d5-40b1-946d-0ea8075c7344@693f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231026T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20231026T133000Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:46453c0c-56a4-498b-9295-2d0ba37d16c8@4645.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231031T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231031T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:a2e8527e-4cde-464b-adb2-91b7c3a33fd4@a2e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20230911T164500Z
-LOCATION:ГУК А-626
-DTSTART:20230911T151500Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:baaa5243-5045-45a8-a6ac-65af4bfd7dd8@baaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20230912T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20230912T133000Z
-SUMMARY:ЛК Оптимизация гибридных систем управления
-UID:7211af44-233a-46d9-9cec-041101578b8f@7211.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231220T164500Z
-LOCATION:3-435
-DTSTART:20231220T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:1faf79d6-d898-4bcf-8701-360927eb0155@1faf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231024T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231024T133000Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:bd1b5205-6294-43c6-bdf1-625ed0990a76@bd1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20230921T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20230921T151500Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:4b5416aa-f6ca-4921-a8c5-6d34ac3ab3e7@4b54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231025T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231025T133000Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:a9564e23-90f1-4eec-9ee8-727f9831b03b@a956.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231226T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231226T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:51bd9ffd-1e20-4d3a-af85-e350c3c24a99@51bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231004T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231004T133000Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:aa869929-73a5-46d7-91c2-0a933c63fd3a@aa86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231205T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231205T133000Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:7a35c949-cd9b-42b0-99f9-ad0090deddb1@7a35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231130T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231130T151500Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:b851a1bd-12a0-47cb-8da0-706a2287ab33@b851.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231114T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231114T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:8a7e4696-ae6c-4807-9543-4b5ed9934acf@8a7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230920T150000Z
-LOCATION:ГУК А-626
-DTSTART:20230920T133000Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:d5fcb366-1bc1-44cb-ad11-cebc9a201bb8@d5fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20230921T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20230921T133000Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:fd316f12-74fc-4b4c-90e5-8fcdfe3d77a7@fd31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230913T131500Z
-LOCATION:ГУК А-626
-DTSTART:20230913T114500Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:1f3ca419-ab84-4c6d-bbe9-58fe590fa033@1f3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20230904T164500Z
-LOCATION:ГАК-320
-DTSTART:20230904T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:affa39f1-19f2-47b9-b932-b41caf4f3b8c@affa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231219T131500Z
-LOCATION:ГУК Б-325
-DTSTART:20231219T114500Z
-SUMMARY:ЛК Оптимизация гибридных систем управления
-UID:49c141d8-cd65-4a2f-bab4-511a7c1e294a@49c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231109T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20231109T133000Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:c81c8099-0ec5-42a0-9f72-6b523310889d@c81c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231004T164500Z
-LOCATION:3-301
-DTSTART:20231004T151500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:62e1e6bd-8a05-4b0a-81c9-e571f80b954c@62e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20230921T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:c1b1d8e6-2a31-4208-93e9-141313e63b6c@c1b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231206T164500Z
-LOCATION:3-435
-DTSTART:20231206T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:66c6a627-e895-4bab-af2d-3d5df7016688@66c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20231211T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:622ae9cb-919f-4885-af8b-cacb9add0331@622a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231107T131500Z
-LOCATION:ГУК Б-325
-DTSTART:20231107T114500Z
-SUMMARY:ЛК Оптимизация гибридных систем управления
-UID:801c79d5-1bc6-40ae-8e15-0c977c1791ab@801c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231212T150000Z
-LOCATION:3-301
-DTSTART:20231212T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:28e05ac3-d623-419d-b402-d76c01ea11bd@28e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20230928T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Проектирование и функционирование нейронных сетей
-UID:53fdd5c0-d719-4aa6-ab08-9833698a0c14@53fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231003T150000Z
-LOCATION:3-301
-DTSTART:20231003T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:5c3c1746-d2f0-46a9-89bd-3871263ebfa7@5c3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231106T131500Z
-LOCATION:ГУК А-626
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:bc297b94-63de-4f47-9280-66453099dfc3@bc29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231106T164500Z
-LOCATION:ГУК А-626
-DTSTART:20231106T151500Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:ec5622ff-d877-4e02-a7c1-563bb612b52c@ec56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231102T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231102T133000Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:537a67bc-5123-40a1-8067-b31dc32f9d86@537a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20230911T150000Z
-LOCATION:ГУК А-626
-DTSTART:20230911T133000Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:4f6e4579-000b-4095-9e7e-9782789cf876@4f6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20230914T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Проектирование и функционирование нейронных сетей
-UID:92bcfaf0-f3d6-454c-8a17-f865d4804295@92bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231207T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231207T114500Z
-SUMMARY:ЛК Проектирование и функционирование нейронных сетей
-UID:015fd491-c264-424f-a111-b7a262657285@015f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231123T150000Z
-LOCATION:ГУК Б-326
-DTSTART:20231123T133000Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:65b19f3c-b4fc-4106-bb08-db01a0aafb67@65b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231019T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:e65f9b51-542b-45d5-b59a-5be0b6c7e110@e65f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231018T164500Z
-LOCATION:3-301
-DTSTART:20231018T151500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:21eedcbf-bd84-41a5-8391-9ac65f84eb43@21ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231017T150000Z
-LOCATION:3-301
-DTSTART:20231017T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:79f5dde5-48a8-4603-9038-11414444a9b5@79f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231128T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231128T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:a24a5db0-31af-44c4-a320-df3bcdbc62b5@a24a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231227T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231227T133000Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:32249e6c-6268-4697-b436-cabe4c974cb5@3224.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230913T150000Z
-LOCATION:ГУК А-626
-DTSTART:20230913T133000Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:12b2d8b3-2cad-4682-a40d-57ef86bd99e2@12b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20230906T164500Z
-LOCATION:3-301
-DTSTART:20230906T151500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:732b0c99-cd96-4a96-9fd4-b8609957d9c7@732b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231019T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231019T133000Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:8e3455ee-159a-4fee-9114-df1bf15dab6e@8e34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20230905T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20230905T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:1415231a-90cc-4a4b-8744-bf6bcdccb3cd@1415.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231204T131500Z
-LOCATION:ГУК А-626
-DTSTART:20231204T114500Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:6bf8ffe2-9080-4421-a2cf-b570c3ecebe2@6bf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231102T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231102T151500Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:4c15fc7f-8e45-4214-94d8-e8ea3f54faa1@4c15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231005T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:ffe75429-0d30-4c9d-bebc-8d310865fc66@ffe7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231214T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231214T133000Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:4f17cf85-18bb-46a1-b779-34375db7706a@4f17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231225T164500Z
-LOCATION:ГАК-320
-DTSTART:20231225T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:4e350387-e5e6-4015-a938-15deb47fa875@4e35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231212T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231212T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:5b7eaab2-6de2-42e6-94c1-7ad267a6ee9d@5b7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231025T131500Z
-LOCATION:ГУК А-626
-DTSTART:20231025T114500Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:252b39dd-e993-4fa2-99f2-e8d103e78fbd@252b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231228T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231228T133000Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:627ab573-fe92-4a62-95f9-b6549fd81a00@627a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20231002T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231002T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:657940c6-ee52-46e3-a2d2-e2ce14b1ea0d@6579.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20231016T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231016T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:1b3a6f9a-d1ca-4f46-902b-9018355a83d7@1b3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231115T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231115T133000Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:8219ef7e-55f6-4c2c-abfd-b4d8a29bd52a@8219.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20230926T131500Z
-LOCATION:ГУК Б-325
-DTSTART:20230926T114500Z
-SUMMARY:ЛК Оптимизация гибридных систем управления
-UID:1a7f6ee5-889f-4df6-8f5b-a1c2634885ec@1a7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231005T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231005T133000Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:83686868-bbfe-4ee7-ae8c-d4235ed12785@8368.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20231108T164500Z
-LOCATION:3-435
-DTSTART:20231108T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:870ee98b-b45a-499c-b635-35b67e761877@870e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231214T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:e523e74b-6664-4bdc-ac69-50d205e54aa6@e523.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231121T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231121T133000Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:0a8f04c9-f631-496e-9f20-5c859c5558e3@0a8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231102T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:eb1b8c71-0b1e-4ca3-87b2-0c9274673da6@eb1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231123T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231123T114500Z
-SUMMARY:ЛК Проектирование и функционирование нейронных сетей
-UID:dd07f273-52f1-4e4d-9350-87e5952904a1@dd07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231107T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231107T133000Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:61cd4b2c-b3e2-4c04-8a6c-02f83982c424@61cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20230914T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20230914T151500Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:cf34d04d-adc1-4a31-898f-6a955dc520e5@cf34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231017T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231017T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:7e348013-4b54-4ae8-89db-7c2ffd5b127b@7e34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20230927T131500Z
-LOCATION:ГУК А-626
-DTSTART:20230927T114500Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:6a8049a9-93a9-4fa5-95c5-79f29b852d68@6a80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231130T150000Z
-LOCATION:ГУК Б-325
-DTSTART:20231130T133000Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:58c5ea27-40bc-4d45-97a3-0709d5d30105@58c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231123T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20231123T151500Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:c52c7645-8380-4df0-8909-0718b6460352@c52c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Гриб Елена Витальевна
-DTEND:20230920T164500Z
-LOCATION:3-301
-DTSTART:20230920T151500Z
-SUMMARY:ПЗ Психология и педагогика
-UID:fdfb0038-4ec5-484b-a8e3-5dc31f365712@fdfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20230904T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20230904T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:9c99f071-808f-40ba-a867-d919fdeceb4c@9c99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231030T164500Z
-LOCATION:ГАК-320
-DTSTART:20231030T151500Z
-SUMMARY:ЛК Математические модели безопасности информационных систем
-UID:c222dd8b-7bae-4382-9634-6baee326bff4@c222.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231121T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231121T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:a2930ac2-1637-4907-8bfb-c0c351817814@a293.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231109T164500Z
-LOCATION:ГУК Б-326
-DTSTART:20231109T151500Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:bb6bad92-caca-42f4-8ce2-592808ec3db2@bb6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20231218T131500Z
-LOCATION:ГУК А-626
-DTSTART:20231218T114500Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:3a4efcb8-e20a-4522-be6a-1328ac55411e@3a4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231129T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231129T133000Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:974f0dac-4889-48be-a34d-6373430be774@974f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231128T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231128T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:c709593b-835b-46dd-a70a-f7155cab7a24@c709.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20230919T150000Z
-LOCATION:3-301
-DTSTART:20230919T133000Z
-SUMMARY:ПЗ Современная философия и методология науки
-UID:b23526fc-3e42-424d-a483-54ec7db1b7f6@b235.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231116T131500Z
-LOCATION:ГУК Б-326
-DTSTART:20231116T114500Z
-SUMMARY:ЛК Криптографические методы защиты информации
-UID:d2b9c633-91c1-438b-82f8-e1c867c72ee1@d2b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231205T131500Z
-LOCATION:ГУК Б-325
-DTSTART:20231205T114500Z
-SUMMARY:ЛК Оптимизация гибридных систем управления
-UID:c1ae9f14-9f53-44c0-abc2-f11f08561632@c1ae.org
+UID:1ecc5d80-f12a-4e16-b825-1e09a811a80e@1ecc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Виноградов Владимир Иванович
@@ -1239,119 +23,31 @@ DTEND:20231012T150000Z
 LOCATION:ГУК Б-326
 DTSTART:20231012T133000Z
 SUMMARY:ЛР Криптографические методы защиты информации
-UID:250ed60a-01e2-46ab-a658-cf3eb5a3c124@250e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Цвык Ирина Вячеславовна
-DTEND:20231017T131500Z
-LOCATION:ГУК Б-649
-DTSTART:20231017T114500Z
-SUMMARY:ЛК Современная философия и методология науки
-UID:4a9aeb75-041e-4b30-9a7f-92cba824ff4c@4a9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20230925T150000Z
-LOCATION:ГУК А-626
-DTSTART:20230925T133000Z
-SUMMARY:ЛР Математические модели безопасности информационных систем
-UID:b332b81b-d1cb-4fce-8e67-04a1714eaa3a@b332.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20231113T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231113T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:c2fd72ca-81e6-4782-a0af-2533c185bfe5@c2fd.org
+UID:2e7c9c28-6bd7-4ba3-87cd-150e31dd0103@2e7c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231205T164500Z
+DTEND:20230926T164500Z
 LOCATION:ГУК Б-325
-DTSTART:20231205T151500Z
+DTSTART:20230926T151500Z
 SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:e201cc32-b8db-458e-8077-f30297cf690d@e201.org
+UID:5e7237d2-86a3-45bb-a4f9-85718b8e0fdf@5e72.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231101T150000Z
+DTEND:20231025T131500Z
 LOCATION:ГУК А-626
-DTSTART:20231101T133000Z
-SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
-UID:d2845f89-b2de-4434-992a-909a1e046a85@d284.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231107T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Оптимизация гибридных систем управления
-UID:23318cd8-f10c-40df-884b-220796eb8f26@2331.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексейчук Андрей Сергеевич
-DTEND:20231214T164500Z
-LOCATION:ГУК Б-325
-DTSTART:20231214T151500Z
-SUMMARY:ЛР Проектирование и функционирование нейронных сетей
-UID:fa688e2b-961a-4a62-8a97-c15845f74be1@fa68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231108T150000Z
-LOCATION:ГУК А-626
-DTSTART:20231108T133000Z
+DTSTART:20231025T114500Z
 SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:107f588e-33bd-46e6-a989-946bba5cc395@107f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20231030T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231030T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:1939b3ba-648d-46f4-9c93-f185b2b7e250@1939.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Синицин Игорь Николаевич
-DTEND:20230925T131500Z
-LOCATION:ГУК А-626
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Математические модели безопасности информационных систем
-UID:4653195e-8e4c-43ae-a0a8-b12dcd13e3b3@4653.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бортаковский Александр Сергеевич
-DTEND:20231010T131500Z
-LOCATION:ГУК Б-325
-DTSTART:20231010T114500Z
-SUMMARY:ЛК Оптимизация гибридных систем управления
-UID:2269d072-bbae-4546-921e-f4f9430d16a1@2269.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Косенко Иван Иванович
-DTEND:20231127T150000Z
-LOCATION:ГУК Б-444
-DTSTART:20231127T133000Z
-SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
-UID:79eb5608-e4d0-4d14-adcc-40520df20116@79eb.org
+UID:a7c64243-7690-4510-bb83-552a5b8297d5@a7c6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Виноградов Владимир Иванович
-DTEND:20231207T164500Z
+DTEND:20231116T131500Z
 LOCATION:ГУК Б-326
-DTSTART:20231207T151500Z
-SUMMARY:ЛР Криптографические методы защиты информации
-UID:8e92261c-8098-47fc-98d7-8c671be467d8@8e92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Беличенко Михаил Валериевич
-DTEND:20231108T131500Z
-LOCATION:ГУК А-626
-DTSTART:20231108T114500Z
-SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
-UID:d85deaf3-e1b6-46de-abc7-6db9e80efee1@d85d.org
+DTSTART:20231116T114500Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:045ccaa2-f680-45c4-ac93-ab73c48def6a@045c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Виноградов Владимир Иванович
@@ -1359,7 +55,487 @@ DTEND:20231221T150000Z
 LOCATION:ГУК Б-326
 DTSTART:20231221T133000Z
 SUMMARY:ЛР Криптографические методы защиты информации
-UID:27ad3245-fef1-4008-9f00-6d868ab2e843@27ad.org
+UID:2564eacc-140e-414d-ad1c-4d5f43053143@2564.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231004T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231004T133000Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:040c03ee-4a5b-4727-b49f-7e6cb6b4fe87@040c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231011T164500Z
+LOCATION:3-435
+DTSTART:20231011T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:4c9db9db-3443-4419-8460-58d400ea3cef@4c9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231026T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20231026T133000Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:00be23c0-339a-4b23-83db-a6ea884e69a4@00be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230921T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20230921T151500Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:e8501461-3e13-42b2-b9f1-08d2ade4beb9@e850.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231025T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231025T133000Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:efa1cf9b-8b8a-4210-ac6a-7c30d5025d5d@efa1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20230919T150000Z
+LOCATION:3-301
+DTSTART:20230919T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:918788ed-c92c-41ab-a57a-4159789f7e83@9187.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20230927T164500Z
+LOCATION:3-435
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:a30025e6-1242-44e2-aab8-c55cca585c38@a300.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20230911T150000Z
+LOCATION:ГУК А-626
+DTSTART:20230911T133000Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:68c8957d-482a-45d6-98a9-7cccdab9978e@68c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231130T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231130T133000Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:24a5a858-e3de-4328-b127-c3bdcde20445@24a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231228T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231228T151500Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:b71792a7-f7d0-434d-b9dd-164831f00e4d@b717.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20230925T150000Z
+LOCATION:ГУК А-626
+DTSTART:20230925T133000Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:3345eaa2-0a28-43bf-8721-a4df58d4876d@3345.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20230912T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20230912T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:fec1a0eb-ae2d-4f07-ac94-6d6ecc3b4d19@fec1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20230905T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20230905T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:55c5930a-a379-4409-bcc8-4c5192411895@55c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231101T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231101T133000Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:e04d980d-1cc8-41a1-88cd-d0a6e83e8acc@e04d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231221T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20231221T114500Z
+SUMMARY:ЛК Проектирование и функционирование нейронных сетей
+UID:09dd4e45-fad7-415f-add6-e2ecfdc13aaf@09dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231204T131500Z
+LOCATION:ГУК А-626
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:18c28c7c-b530-417e-aa06-e0d140b3f00e@18c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231123T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20231123T133000Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:ceefcc35-f695-491f-a47c-d3a24e19e8a7@ceef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231220T164500Z
+LOCATION:3-435
+DTSTART:20231220T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:b8bb1218-c110-4878-8289-97966a34ad23@b8bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231121T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231121T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:4aba1674-4d89-4fcd-8d11-9b2ff0b2e7b7@4aba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231023T131500Z
+LOCATION:ГУК А-626
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:bc18b670-e163-4df1-b981-4c4fc714d2b1@bc18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20230914T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20230914T151500Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:a2a10c7f-129d-4122-b033-f6142b5b6b9c@a2a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231228T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231228T133000Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:207c2364-9fe3-49ce-bf49-ac78c870ba80@207c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231207T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20231207T151500Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:f6f081cc-f277-4345-97af-47cb574612d3@f6f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231031T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231031T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:27783f8c-c84c-4066-8adf-b9bb424abf06@2778.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231207T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20231207T133000Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:67ef7261-6f7c-459b-b677-d725b794d9b6@67ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231228T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20231228T114500Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:1408f39b-d231-4aa6-9df8-10f9c90d438b@1408.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231018T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231018T133000Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:f53c4c21-982d-4305-bdf5-2a37df8732f7@f53c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20230913T164500Z
+LOCATION:3-435
+DTSTART:20230913T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:0799366a-5c83-40e3-b5b5-27488a8afb04@0799.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20230905T150000Z
+LOCATION:3-301
+DTSTART:20230905T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:3954fea0-ba73-4bc3-975c-83ce67bf9110@3954.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231030T164500Z
+LOCATION:ГАК-320
+DTSTART:20231030T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:772ddedb-92df-4f66-8d86-27014dacd66c@772d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231012T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20231012T114500Z
+SUMMARY:ЛК Проектирование и функционирование нейронных сетей
+UID:d11b3019-eca2-41d2-a569-98a1b6196782@d11b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231009T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231009T151500Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:6f5b74fa-99a8-4721-a817-20eeb82f5aec@6f5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231026T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Проектирование и функционирование нейронных сетей
+UID:8818edd4-a362-40f5-a452-e05296518802@8818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20231211T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:b8ec0f53-925c-4c9a-bdce-3355594c731a@b8ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231121T131500Z
+LOCATION:ГУК Б-325
+DTSTART:20231121T114500Z
+SUMMARY:ЛК Оптимизация гибридных систем управления
+UID:63ec595f-a2f1-4bdd-82db-58719406f35f@63ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230928T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Проектирование и функционирование нейронных сетей
+UID:90e19efa-1f81-424f-99df-f3470c59e1d3@90e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231106T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231106T151500Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:2861ee1a-b061-4f8b-a840-15c1c5545108@2861.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231109T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20231109T114500Z
+SUMMARY:ЛК Проектирование и функционирование нейронных сетей
+UID:a7dc9dc0-80ba-420f-b352-eafb52a8ca62@a7dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231116T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231116T133000Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:710dbc69-baf4-4ef0-887d-e00fc7de150e@710d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231009T131500Z
+LOCATION:ГУК А-626
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:671a619b-abb7-4d89-92e5-823b3d68049b@671a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20230918T164500Z
+LOCATION:ГАК-320
+DTSTART:20230918T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:7594a139-e372-408d-8fc1-1b5399ba960d@7594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231025T164500Z
+LOCATION:3-435
+DTSTART:20231025T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:3f1fd460-0909-4691-8711-c0ce8dda860d@3f1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20230919T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20230919T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:47e540ed-7653-48a7-ac2c-e8635bea4f0d@47e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231005T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231005T151500Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:97960692-b6be-4fe8-9fce-13a6cee32a87@9796.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20230926T131500Z
+LOCATION:ГУК Б-325
+DTSTART:20230926T114500Z
+SUMMARY:ЛК Оптимизация гибридных систем управления
+UID:0ffa6870-10a5-4338-8f7d-2918897e4713@0ffa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231009T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231009T133000Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:9aa6b9fb-3bb7-45e8-983f-0eae50b4d29a@9aa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231113T164500Z
+LOCATION:ГАК-320
+DTSTART:20231113T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:e0c5cb3b-a90d-4acd-873c-1cdcc5f0c966@e0c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231019T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:d163a919-4070-48d7-8259-280b49643e9c@d163.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231002T164500Z
+LOCATION:ГАК-320
+DTSTART:20231002T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:d5613c14-5b11-4a9e-ad6a-bc74b6c801c9@d561.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20230911T164500Z
+LOCATION:ГУК А-626
+DTSTART:20230911T151500Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:a9c8363b-f9f2-40c8-a6b6-ef0f033e4a39@a9c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231115T164500Z
+LOCATION:3-301
+DTSTART:20231115T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:abaa8681-8a50-479f-b3d7-9aa234c433d5@abaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231206T164500Z
+LOCATION:3-435
+DTSTART:20231206T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:7fdfac35-2fe8-4754-8157-379f68aebc02@7fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231024T131500Z
+LOCATION:ГУК Б-325
+DTSTART:20231024T114500Z
+SUMMARY:ЛК Оптимизация гибридных систем управления
+UID:88edf218-0d7f-46cb-a7e7-7ba06f1a0a38@88ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231102T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:5acfa62d-4ba3-4115-a653-fb7c3d2f0295@5acf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231106T131500Z
+LOCATION:ГУК А-626
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:0041c695-6f88-4a3c-a904-519f2b263b6c@0041.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231212T150000Z
+LOCATION:3-301
+DTSTART:20231212T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:65432687-7bcf-41f0-a58c-506e2c72b94b@6543.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231227T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231227T133000Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:9c3e554f-808b-4ffd-b49e-47886313f3fa@9c3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231017T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231017T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:9a029dbc-685c-4ad5-aa28-68e97c55befd@9a02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231003T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231003T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:10478abc-2f4c-4094-8ebf-d481b97a691b@1047.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20230925T164500Z
+LOCATION:ГУК А-626
+DTSTART:20230925T151500Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:432517f9-71a9-461f-9952-036c14f83039@4325.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Виноградов Владимир Иванович
@@ -1367,6 +543,830 @@ DTEND:20231130T131500Z
 LOCATION:ГУК Б-326
 DTSTART:20231130T114500Z
 SUMMARY:ЛК Криптографические методы защиты информации
-UID:4c99c37a-baff-4d70-9c56-f187dd1af7cc@4c99.org
+UID:5b5c14f8-7d50-41ee-862a-cb416c9b5bdb@5b5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231024T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231024T133000Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:3a79e720-e81b-4a43-9958-00aca7baedf0@3a79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231005T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231005T133000Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:89521fc0-6f2f-4ea0-b6f8-e799cbb593d0@8952.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230907T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20230907T133000Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:13116054-c60d-463a-82c9-73be808e1efa@1311.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231010T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231010T133000Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:82391d79-f7ed-412e-8c59-e2e2a31aa230@8239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231016T164500Z
+LOCATION:ГАК-320
+DTSTART:20231016T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:83d689b8-0245-4758-9448-e73022431634@83d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230913T150000Z
+LOCATION:ГУК А-626
+DTSTART:20230913T133000Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:960fc5b8-dbbe-4850-a78f-5ef385b89cb1@960f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231026T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20231026T151500Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:19165489-e1c5-45ec-bfba-025778a00563@1916.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231012T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20231012T151500Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:803b4317-1d3e-4f18-9a18-ad1aeb4a651f@803b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231003T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231003T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:2eb60152-9efe-4af7-a866-cfad3d7d48af@2eb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231129T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231129T133000Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:8eebab9f-bfd5-43e9-a93b-b8028a1dd043@8eeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231130T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231130T151500Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:8a1aabdc-14d8-4351-8b58-920666b8e6cf@8a1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231218T131500Z
+LOCATION:ГУК А-626
+DTSTART:20231218T114500Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:37aa53ec-adc8-4a2e-bf7e-58ba33634776@37aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20230905T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20230905T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:d7d3e24f-b522-4457-8198-38c91abcf0e5@d7d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231019T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231019T133000Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:c2fdaa65-bd3e-4f58-b93c-f2cd770c0ec7@c2fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20231127T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231127T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:32d60822-d1f3-4caa-b521-e9a61fe7aa65@32d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20230925T131500Z
+LOCATION:ГУК А-626
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:e4fca00c-194d-4bee-86a1-79e779da0ab5@e4fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231213T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231213T133000Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:9a00057f-ffd7-4080-bd99-59f576933f8d@9a00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231011T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231011T133000Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:6926a284-6296-41c0-a1de-645ad62b4649@6926.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231023T164500Z
+LOCATION:ГУК А-626
+DTSTART:20231023T151500Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:e654b5d6-6a57-4047-bd69-d01f1eddcdc9@e654.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231225T164500Z
+LOCATION:ГАК-320
+DTSTART:20231225T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:948ccd1a-f313-4a73-86fe-e913f8c7325c@948c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231114T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231114T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:dcb1e14e-ffdb-471e-9575-fc231927bfba@dcb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20230911T131500Z
+LOCATION:ГУК А-626
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:59d24905-45f9-4b24-8f55-2f8d90135993@59d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231129T164500Z
+LOCATION:3-301
+DTSTART:20231129T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:177be331-6a4a-4cea-98d0-3b7e1a51dc41@177b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230927T150000Z
+LOCATION:ГУК А-626
+DTSTART:20230927T133000Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:2bad7832-5575-4744-9569-942de14206f8@2bad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20230912T131500Z
+LOCATION:ГУК Б-325
+DTSTART:20230912T114500Z
+SUMMARY:ЛК Оптимизация гибридных систем управления
+UID:30087eb2-5364-4c89-a684-d67ce857a626@3008.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20230904T164500Z
+LOCATION:ГАК-320
+DTSTART:20230904T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:f5e8b56d-7b31-4a66-aa12-c68642bbc7f4@f5e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20230906T164500Z
+LOCATION:3-301
+DTSTART:20230906T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:c4576a69-2e2e-4458-a666-7b041b43f7bf@c457.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231018T164500Z
+LOCATION:3-301
+DTSTART:20231018T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:83242371-863b-46d4-bf6e-cc0855d7f7eb@8324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20231030T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231030T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:2cb8b005-7d92-4396-81b4-249dee5cf07a@2cb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231023T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231023T133000Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:b1b9b95a-c526-434f-9d39-f17fe73c8b74@b1b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20230920T164500Z
+LOCATION:3-301
+DTSTART:20230920T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:ff5ac196-3088-401a-9894-4b7a074cd60f@ff5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20230914T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20230914T133000Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:c92c2274-0d4a-4686-93d7-37e1c97be848@c92c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231128T150000Z
+LOCATION:3-301
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:33f16780-1c85-4d3f-86c9-c11aac943ac5@33f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231221T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20231221T151500Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:a5f9d1b6-90dd-45b3-8a41-30825786f856@a5f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20230912T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20230912T133000Z
+SUMMARY:ЛК Оптимизация гибридных систем управления
+UID:745cb703-3262-45ac-875f-3392a31e51b5@745c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231128T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231128T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:ea5f2b9b-bfd1-478a-8713-bf62b9205a2c@ea5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231019T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231019T151500Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:70801fb5-690d-4b99-a15c-5bfc7b6e2b0f@7080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231114T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231114T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:f28350f1-f0a2-4a00-9bcd-8f6caf59a8e3@f283.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231017T150000Z
+LOCATION:3-301
+DTSTART:20231017T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:580a963f-21bc-41ca-b739-8dfc7b60aeca@580a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231120T131500Z
+LOCATION:ГУК А-626
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Математические модели безопасности информационных систем
+UID:6f3df6d7-d63a-47af-b7e4-e950ff3e559e@6f3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231226T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231226T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:8274528b-42cb-4f8a-a0b7-92faccb3377f@8274.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231107T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231107T133000Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:8be0b301-b953-4ace-adcf-25a848fb7ac8@8be0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231207T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20231207T114500Z
+SUMMARY:ЛК Проектирование и функционирование нейронных сетей
+UID:6d65c2de-4a2e-4808-9386-cce09626b8e6@6d65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231219T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:6559b86e-7a15-4a44-8b41-4d23e4f47454@6559.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20230921T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:ba488fb9-a95e-4942-b5ef-58a04c42605b@ba48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231122T164500Z
+LOCATION:3-435
+DTSTART:20231122T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:01e006ea-75f2-49be-b198-e5fd8a3859ef@01e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231214T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231214T133000Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:07e6c22e-a115-4cb9-b943-3092eeeec4b3@07e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230907T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20230907T151500Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:178ce280-761b-493e-a357-33c6291a36cc@178c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231010T131500Z
+LOCATION:ГУК Б-325
+DTSTART:20231010T114500Z
+SUMMARY:ЛК Оптимизация гибридных систем управления
+UID:78992d2c-6f51-43ee-812c-40a7ae2e759d@7899.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231101T164500Z
+LOCATION:3-301
+DTSTART:20231101T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:d59f23d4-91fa-4558-a53c-05ce301f4cef@d59f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231114T150000Z
+LOCATION:3-301
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:280daa17-a49e-4ca9-9c14-b60ad5c3c765@280d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231219T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231219T133000Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:e3e1f19c-2938-4391-94ef-db76f563be3a@e3e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231024T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:0923184b-741c-474d-9214-1edbdf8afece@0923.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231010T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:7cd75d6f-b314-4cda-86e0-305e11bf9f26@7cd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231214T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20231214T114500Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:684cb7df-8fa5-44a9-98dd-3607665ab1a0@684c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20230926T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20230926T133000Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:f1fef05b-1df5-4936-8b3e-4eb618af6df4@f1fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230927T131500Z
+LOCATION:ГУК А-626
+DTSTART:20230927T114500Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:5f173a84-a109-48df-8ac9-1fab7da81009@5f17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231011T131500Z
+LOCATION:ГУК А-626
+DTSTART:20231011T114500Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:f9fa6519-4b96-4ed6-88be-68bdc4246da2@f9fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231108T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231108T133000Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:92b11a62-d4ae-44c4-a33f-8f45d0e2d46b@92b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231107T131500Z
+LOCATION:ГУК Б-325
+DTSTART:20231107T114500Z
+SUMMARY:ЛК Оптимизация гибридных систем управления
+UID:50997dd9-53e7-4c43-8d7e-4fb4cfe3f310@5099.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231004T164500Z
+LOCATION:3-301
+DTSTART:20231004T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:16b8e968-089e-4a72-9c44-0a6b18cd38df@16b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231212T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231212T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:b36d4d3d-4d50-4fa0-a22f-0b618ccc2a65@b36d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231115T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231115T133000Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:eb15b90c-dabb-447a-be11-872cdb1d9b8f@eb15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231123T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20231123T151500Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:dd04176c-64f0-46d3-840b-0eaf4ed459ac@dd04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231107T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:4291fefc-a476-421c-8289-da91bd9df57a@4291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231017T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231017T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:8e9b611f-39ba-4658-8e58-6af945c6d3a8@8e9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231123T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20231123T114500Z
+SUMMARY:ЛК Проектирование и функционирование нейронных сетей
+UID:277791a3-d56f-415f-8398-36fd961a83c7@2777.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20231002T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:2d83fff3-6801-4002-8a74-184bbc4a1bbe@2d83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230906T150000Z
+LOCATION:ГУК А-626
+DTSTART:20230906T133000Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:6cf47baf-fe94-42b4-8593-da5dea064772@6cf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230914T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Проектирование и функционирование нейронных сетей
+UID:2d47f6f7-8935-4eef-8228-e272e00f9322@2d47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231031T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231031T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:56bcf48c-002b-4941-b21a-074dc140e02c@56bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231102T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231102T151500Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:839c4cb5-77a7-4e8d-a5e4-b0c67f5b7cd5@839c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20231016T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:8bd5191b-aa81-48df-9a3d-0d638c4c0148@8bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231121T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231121T133000Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:9b24979a-6527-488e-b250-e92dec01a567@9b24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231031T150000Z
+LOCATION:3-301
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:449d9f59-d8c7-44dc-b7d0-6862d50f4d18@449d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231212T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231212T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:4dfb71c6-6dc2-4f8c-a188-60bf7ead0df0@4dfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231219T131500Z
+LOCATION:ГУК Б-325
+DTSTART:20231219T114500Z
+SUMMARY:ЛК Оптимизация гибридных систем управления
+UID:815da881-4fac-401e-ad1e-250fc2a46298@815d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231127T164500Z
+LOCATION:ГАК-320
+DTSTART:20231127T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:78fef6f7-6bc1-4d92-8f1f-162251b193ea@78fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231108T164500Z
+LOCATION:3-435
+DTSTART:20231108T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:14ef9e59-3aff-4277-8851-c5567fe867d8@14ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231226T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20231226T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:d69a6e61-495d-43ce-ad23-4f0423ce75d9@d69a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231211T164500Z
+LOCATION:ГАК-320
+DTSTART:20231211T151500Z
+SUMMARY:ЛК Математические модели безопасности информационных систем
+UID:86503c53-2eea-4fa5-ace9-0f3d995f0fc6@8650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20231003T150000Z
+LOCATION:3-301
+DTSTART:20231003T133000Z
+SUMMARY:ПЗ Современная философия и методология науки
+UID:e2f26c72-fbaa-4e2c-b311-b853449581c7@e2f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20230907T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:27c9e7ae-761a-40b6-bfb6-c1ebdff0a2b5@27c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20230921T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20230921T133000Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:92e585d9-0374-4eb6-b40d-6aeadedda293@92e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231205T131500Z
+LOCATION:ГУК Б-325
+DTSTART:20231205T114500Z
+SUMMARY:ЛК Оптимизация гибридных систем управления
+UID:a29d5325-0661-4ab1-a5fe-29efe4c22102@a29d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231205T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:76b939f1-7f3e-4abb-836e-fd23c21eaaa0@76b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20231113T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20231113T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:cb7e11a6-7ab2-4c21-892b-ab59e35bc09d@cb7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20230904T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20230904T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:d89cc0d5-3d27-47ff-9a14-9efd7f44b062@d89c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20231108T131500Z
+LOCATION:ГУК А-626
+DTSTART:20231108T114500Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:cbe6e7da-10fd-435a-aac4-3e0c9e1656aa@cbe6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231128T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231128T151500Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:0b65909f-c3b4-43a3-9d10-3efb0dad7dc0@0b65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Цвык Ирина Вячеславовна
+DTEND:20230919T131500Z
+LOCATION:ГУК Б-649
+DTSTART:20230919T114500Z
+SUMMARY:ЛК Современная философия и методология науки
+UID:f0d3bc4b-2b8e-46b1-80df-8aa309785398@f0d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20230928T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20230928T151500Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:2b721082-25c3-44d4-a83b-1a14bbafcb96@2b72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230920T150000Z
+LOCATION:ГУК А-626
+DTSTART:20230920T133000Z
+SUMMARY:ПЗ Виртуальные динамические модели и цифровые двойники
+UID:f459d93a-f269-4b31-8981-8c2683aa4438@f459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231109T164500Z
+LOCATION:ГУК Б-326
+DTSTART:20231109T151500Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:6d3c94b8-17a5-4a31-bd11-fda7176e68ce@6d3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Беличенко Михаил Валериевич
+DTEND:20230913T131500Z
+LOCATION:ГУК А-626
+DTSTART:20230913T114500Z
+SUMMARY:ЛР Виртуальные динамические модели и цифровые двойники
+UID:d1f7d0d1-05ba-45d2-9586-4a8e405863c5@d1f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231109T150000Z
+LOCATION:ГУК Б-326
+DTSTART:20231109T133000Z
+SUMMARY:ЛР Криптографические методы защиты информации
+UID:c0c18be5-32a7-4e68-99e7-838e61d1ad3f@c0c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231102T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231102T133000Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:c9b74b2a-0a81-4d87-84bf-5fa39936fd8a@c9b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексейчук Андрей Сергеевич
+DTEND:20231116T164500Z
+LOCATION:ГУК Б-325
+DTSTART:20231116T151500Z
+SUMMARY:ЛР Проектирование и функционирование нейронных сетей
+UID:37fe98d4-371b-4cf7-981b-00091e66cbf6@37fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бортаковский Александр Сергеевич
+DTEND:20231205T150000Z
+LOCATION:ГУК Б-325
+DTSTART:20231205T133000Z
+SUMMARY:ПЗ Оптимизация гибридных систем управления
+UID:82af4b62-c810-4902-b405-7f94c9105198@82af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Синицин Игорь Николаевич
+DTEND:20231106T150000Z
+LOCATION:ГУК А-626
+DTSTART:20231106T133000Z
+SUMMARY:ЛР Математические модели безопасности информационных систем
+UID:2c89fb92-5516-4366-810f-12ac1afa3aed@2c89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Владимир Иванович
+DTEND:20231005T131500Z
+LOCATION:ГУК Б-326
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Криптографические методы защиты информации
+UID:c8f1e03b-8c13-4727-8f01-b74b6d548e3a@c8f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Косенко Иван Иванович
+DTEND:20230918T150000Z
+LOCATION:ГУК Б-444
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Виртуальные динамические модели и цифровые двойники
+UID:1a27ea18-b54d-4458-94a3-f984443c73d2@1a27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гриб Елена Витальевна
+DTEND:20231213T164500Z
+LOCATION:3-301
+DTSTART:20231213T151500Z
+SUMMARY:ПЗ Психология и педагогика
+UID:f5c09060-8676-48eb-9721-558719b9d73b@f5c0.org
 END:VEVENT
 END:VCALENDAR

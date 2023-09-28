@@ -3,723 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20230929T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20230929T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:4439d329-d289-4f27-838d-3dbda3f24ee6@4439.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231018T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231018T151500Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:8de8fc7e-7dbb-44a4-8173-26752af34b22@8de8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231206T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231206T151500Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:792cb573-d433-4f58-b61d-f382e0eff1c6@792c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231207T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231207T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:e8abe09c-57cc-49cc-97c8-3754d0c31e0f@e8ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231003T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:b58b0d4a-b704-450a-a96d-5141bda9b1e0@b58b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231114T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:02194109-9093-4f88-b35c-7ff8ce885881@0219.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231003T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231003T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:fdbae1bf-fbb9-4a76-9f4f-4f045bfa52f4@fdba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20230908T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20230908T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:9739a7c8-bcca-4b54-a063-30c15420559f@9739.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231019T150000Z
-LOCATION:3-421
-DTSTART:20231019T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:f8e7eed0-4ef0-4e96-bf33-d15f5c568493@f8e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231214T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231214T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:117ef6e2-6b42-4e13-adca-87e9f8a0bfc9@117e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231019T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231019T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:1cb7f92d-f0b5-4a20-83a0-98ccfd72a544@1cb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231205T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231205T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:035ac80f-82ca-48fa-920b-aa50bdb46489@035a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231207T150000Z
-LOCATION:3-421
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:2eb7b36d-795f-49f6-8ceb-230a842e7b09@2eb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20230915T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20230915T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:60584385-ec1c-45a8-83c3-e84713c3fa66@6058.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231005T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:4bcd8a69-4353-4039-a66a-1a714b9b8644@4bcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231130T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231130T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:eecb8a23-f967-4768-b256-2643e393f070@eecb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231018T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231018T133000Z
-SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
-UID:4ed01d85-21a7-4031-99e3-99b0e1cb8faf@4ed0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230920T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20230920T133000Z
-SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
-UID:fe5230b1-4c13-4a92-a01b-053f89695976@fe52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231129T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231129T151500Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:aefd3964-a5cd-4274-b044-1b42a5507154@aefd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20230919T150000Z
-LOCATION:Орш. В-212
-DTSTART:20230919T133000Z
-SUMMARY:ЛК Прочность конструкций
-UID:98229ab8-24cb-426a-840f-5063780bf71d@9822.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231207T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231207T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:1d03eff4-d3f2-4f0e-a98c-f93307eff3a5@1d03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231219T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231219T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:986096a7-182a-4106-ad0a-41575f26a4df@9860.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231221T150000Z
-LOCATION:3-421
-DTSTART:20231221T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:eadef936-97e7-4ae0-a580-335f07b38a13@eade.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231116T150000Z
-LOCATION:3-421
-DTSTART:20231116T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:501e5ed4-88ba-40a9-81e9-345585098c77@501e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231107T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231107T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:def68dca-2415-4176-86f1-ec78e0e32e91@def6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231110T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20231110T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:5b4f289d-3e23-47cf-8d0e-1832e96cfb47@5b4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231026T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231026T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:ce3917e7-61ca-4aed-90c2-2034fee71a42@ce39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231215T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231215T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:cc5ad4de-c502-4fc2-bf43-9a286b3d6a85@cc5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231110T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231110T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:06ae95e9-5e4c-43ad-80fd-fdc3492689d2@06ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20230929T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20230929T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:0832d83b-f201-4b0c-8270-f4110e923b7c@0832.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231208T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20231208T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:81d55fab-f6a8-49a3-8c88-c5b364a119ef@81d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231012T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231012T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:bb88ca9a-c115-4722-b737-7fbd295d140e@bb88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231101T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231101T133000Z
-SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
-UID:606a2ab8-214b-4997-baf5-8b94c26e0026@606a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231004T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231004T170000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:28449ce6-f9de-431f-8c2a-1365b375d886@2844.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20230905T164500Z
-LOCATION:Орш. В-212
-DTSTART:20230905T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:e2aa4b28-244e-4d82-86fd-f58dd9ddd7fc@e2aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231025T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231025T133000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:dba29c6f-d01f-4b30-8d94-bb5e724f37ef@dba2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231123T150000Z
-LOCATION:3-421
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:ed03370f-c339-444c-a8e1-bde3b03a287e@ed03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231017T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231017T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:5b7a774d-8df2-4291-a8e0-c6b5942b00e6@5b7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231025T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231025T170000Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:82d3ee44-862f-4502-9708-af5ddc196248@82d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230927T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20230927T170000Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:f8c90f08-e9d9-4a70-b33e-871ee8e3f973@f8c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231129T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231129T170000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:f23325f4-fba7-4af7-a9d1-f36ca6682684@f233.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231010T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231010T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:92f7edfe-e740-4ad0-9b38-13ffdd0b268f@92f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231027T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231027T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:a11dee87-f0dc-463a-b7a9-90799a5b8e5d@a11d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231206T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231206T170000Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:7666aaea-6131-4b50-bf3b-828374b2935f@7666.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231212T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231212T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:01964b88-714c-4aa1-828e-487920c00693@0196.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231117T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231117T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:b5c996e0-0c14-49fb-a957-851f28ba9503@b5c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231222T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231222T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:b7843b68-f415-4371-9cf4-b1d36c33a6cf@b784.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20230914T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20230914T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:94370233-a6e5-489c-b5cb-1ae61c3e6977@9437.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20230912T183000Z
-LOCATION:Орш. В-212
-DTSTART:20230912T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:285cc26f-88bc-436f-a70f-7695051b7ff2@285c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20230929T113000Z
-LOCATION:ГУК Б-346
-DTSTART:20230929T100000Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:039a7f8a-e3a4-4688-9f90-342d973a1918@039a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231124T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231124T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:04696495-724f-4d6d-8517-7f63c7e85690@0469.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231020T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20231020T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:93732440-e3af-47c1-87c0-4bc58cfa51b0@9373.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231208T113000Z
-LOCATION:ГУК Б-346
-DTSTART:20231208T100000Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:f99efa20-340e-468f-9133-30c8cff18c20@f99e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231215T113000Z
-LOCATION:ГУК Б-346
-DTSTART:20231215T100000Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:1709a7b6-42cf-40b0-8e78-c0f2af008d81@1709.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231130T150000Z
-LOCATION:3-421
-DTSTART:20231130T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:b60e1de0-de68-4321-b4ae-8aec3315e379@b60e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230913T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20230913T170000Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:a1826193-c1dd-495b-9928-dcdd970c3681@a182.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20230919T183000Z
-LOCATION:Орш. В-212
-DTSTART:20230919T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:87406065-a5f0-4fd4-a072-0e029419c235@8740.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231012T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231012T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:c2061ee1-ef0c-4450-8197-d4b2c83dc7e7@c206.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20230905T183000Z
-LOCATION:Орш. В-212
-DTSTART:20230905T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:a4abbd7e-eba0-41c0-8a37-dcb248136975@a4ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230920T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20230920T170000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:34520802-a02c-4615-8eec-c75b362909fc@3452.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231212T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231212T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:2b80bcfa-3775-444d-a450-6f68a9ab367c@2b80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231108T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231108T133000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:6899d4d0-0cb6-4db0-b4fb-a170d3d09f50@6899.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231213T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231213T151500Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:60a6bd08-2ac0-42dc-a75a-9820ec86d71e@60a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231011T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231011T170000Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:be4ae327-3e28-4687-ba9e-37c7f6a7e5d4@be4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231208T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231208T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:c0f1f7c8-01c7-430a-b580-6cf43535a251@c0f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231213T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231213T170000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:fcfb47e3-c97e-4d34-a9b7-4452bc41d22f@fcfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231214T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231214T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:f82a9564-b0a6-4f6d-8ba6-fd8fc18a48df@f82a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230927T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20230927T151500Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:a33ad144-5c0c-4e84-9b9b-1cc40a402c12@a33a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231128T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231128T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:b3568379-16a9-4228-8525-877cd1a2ba55@b356.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231228T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231228T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:0eebbf5a-8887-408c-b42b-993def941cda@0eeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20230921T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20230921T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:15cd70a0-3e66-424c-a4d0-b316d8cfb8c2@15cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231101T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231101T151500Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:72a818fc-742b-400a-8681-6a0b666207c6@72a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231226T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231226T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:32bde896-40ad-482a-b6fa-af7bae4defe8@32bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231011T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231011T133000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:de04b412-86fe-43bb-97b5-f885f56952a9@de04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231012T150000Z
-LOCATION:3-421
-DTSTART:20231012T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:2db34b54-b1b1-46e7-b3d9-4e3904121bc1@2db3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230913T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20230913T151500Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:cc31ca69-8d34-44b6-b7c0-6209662a8f42@cc31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231019T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231019T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:e788ab06-b780-4fde-9bcd-7db88d110127@e788.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231031T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231031T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:8d5dce67-f62a-4c7a-991c-1cda234f7e45@8d5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
 DTEND:20231103T131500Z
 LOCATION:ГУК Б-346
 DTSTART:20231103T114500Z
 SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:a2700ff9-6d53-47c6-8b92-0847be8bd111@a270.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231128T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231128T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:dcbd6042-61d2-498e-aba7-6b8018315872@dcbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20230926T183000Z
-LOCATION:Орш. В-212
-DTSTART:20230926T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:2247d875-529c-4833-b77f-08cd6f5a9a70@2247.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231201T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231201T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:2d9506a1-6da5-40a9-80fc-f39986981bbe@2d95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230913T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20230913T133000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:b03f5314-7faa-4787-bd30-603eafa87f87@b03f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231017T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:aa7ab4b3-bfa7-4437-8b5d-96317015e60d@aa7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231103T113000Z
-LOCATION:ГУК Б-346
-DTSTART:20231103T100000Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:c2bc7cca-bff6-42b8-92da-037e3c7be84b@c2bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231205T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231205T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:0bf641b0-a121-469c-89b1-5fc9ed83e2be@0bf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231109T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231109T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:13a1fb06-e194-424c-b1ac-2b06a993f149@13a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231221T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231221T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:edf4ebda-9cd7-4c3d-88f8-1eea42d6a450@edf4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231018T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231018T170000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:7d61fa96-e2b3-4376-a36e-a2b29fe4e62a@7d61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231128T150000Z
-LOCATION:Орш. В-212
-DTSTART:20231128T133000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:0b151505-2283-41f0-a834-32613e9f31e0@0b15.org
+UID:0cb4c06c-7e78-43b8-9860-7f193beef281@0cb4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оконечников Анатолий Сергеевич
@@ -727,111 +15,7 @@ DTEND:20231124T113000Z
 LOCATION:ГУК Б-346
 DTSTART:20231124T100000Z
 SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:334cd7d1-a524-4b39-96ec-9e1b47510025@334c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231227T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231227T151500Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:f196d161-d118-4de5-ab81-a928fb565737@f196.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231011T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231011T151500Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:504ec35a-ae9a-48c7-9641-673e1498606f@504e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20230928T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20230928T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:45fbd391-96d0-4c74-bce1-84f131f4d636@45fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231220T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231220T170000Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:c1c2b9b7-49c2-45de-a275-1406373d50e2@c1c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231129T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231129T133000Z
-SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
-UID:67078797-22f5-42fe-9eb9-9e34711ecb23@6707.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231006T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231006T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:81f66145-9489-4065-b0a2-67bbaa511dbe@81f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231013T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20231013T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:5ca8a10f-6d73-48eb-b916-64ff85ebc05f@5ca8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231123T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231123T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:16a01619-376c-4e9c-8845-0d696d46d32c@16a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231013T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231013T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:028bdf43-10fe-4901-9a55-304725172e8c@028b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231031T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:6c2a8390-e25f-4f16-8011-ad5050effd91@6c2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231006T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20231006T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:31af39ed-55b3-43e6-89a6-43f9e3365057@31af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231109T150000Z
-LOCATION:3-421
-DTSTART:20231109T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:0df57198-df13-41e0-8689-514358edf356@0df5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231024T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231024T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:450fd4f3-5d86-4531-b9f6-913bddf6174f@450f.org
+UID:73126f3e-fe3f-43ef-91bb-fec9cfe7fbf4@7312.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зинин Александр Владимирович
@@ -839,535 +23,15 @@ DTEND:20231010T183000Z
 LOCATION:Орш. В-212
 DTSTART:20231010T170000Z
 SUMMARY:ПЗ Прочность конструкций
-UID:cfed447a-4dd7-4337-8bf9-4c15253a40c0@cfed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231003T150000Z
-LOCATION:Орш. В-212
-DTSTART:20231003T133000Z
-SUMMARY:ЛК Прочность конструкций
-UID:b2f9c71e-5e8f-4424-8d4b-c6a14d30dd64@b2f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231110T113000Z
-LOCATION:ГУК Б-346
-DTSTART:20231110T100000Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:86a5d31d-76a1-4fc4-8ab9-61c934a2bca6@86a5.org
+UID:d432cec4-9b5e-4b7a-ae68-4344a948f529@d432.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20230907T183000Z
+DTEND:20231214T183000Z
 LOCATION:ГУК Б-646
-DTSTART:20230907T170000Z
+DTSTART:20231214T170000Z
 SUMMARY:ПЗ Статистическая динамика
-UID:a1de499f-1194-41d0-875d-f60636d627ba@a1de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20230901T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20230901T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:4330983a-cfc8-4873-b364-a4b943acfbc7@4330.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231115T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231115T151500Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:83abe9e4-65f0-4931-bc55-5368d0ab0f6b@83ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231229T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231229T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:fd2623f5-b40e-4a5d-b823-b0a96a4ff959@fd26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231024T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231024T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:47d20d61-9676-4da8-9408-596e8ea1243f@47d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20230914T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20230914T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:516b62fe-7dd8-47ae-b47f-6e441733a3d1@516b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231220T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231220T151500Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:2684f3dd-4dca-444d-89b8-56a92ab3c150@2684.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231226T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231226T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:938abda0-1e86-4cc9-a55f-784784a88af1@938a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231026T150000Z
-LOCATION:3-421
-DTSTART:20231026T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:f2ba3998-85b8-4064-8bed-95c367b89ad4@f2ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231228T150000Z
-LOCATION:3-421
-DTSTART:20231228T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:a602facd-5d3f-4aca-a558-5d79fb40b65d@a602.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230906T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20230906T170000Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:02ef3200-ad0f-4509-8917-a44a9d1b005f@02ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231109T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231109T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:e61c6ded-81fe-44b9-80c3-ecc0e52fd7f2@e61c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231124T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20231124T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:2cd13ac8-f5bd-4fa4-b283-28602e48fcc5@2cd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231114T150000Z
-LOCATION:Орш. В-212
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:ed162385-6d6c-47ae-9a20-5263b823dda7@ed16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231122T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231122T133000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:2f63da35-b1d9-4075-91ca-a7b551576ea7@2f63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231219T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231219T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:ae18afcf-7f30-4f40-87c6-a7ba52ebebbb@ae18.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231228T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231228T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:f683ff35-8dc4-4342-98b9-185f063098c6@f683.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20230921T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:20fed979-43d5-42da-8b2c-267494419a76@20fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230927T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20230927T133000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:faa2f7b8-db1f-431b-be9c-01940e1b97d9@faa2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231114T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231114T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:bd6704d5-799a-47d8-8581-24cbcba590c4@bd67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230906T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20230906T133000Z
-SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
-UID:29ef7674-0872-49b3-b747-3fbb0d7d4efb@29ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231026T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231026T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:819a84d5-3e75-461d-af68-6e4baf317159@819a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231227T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231227T170000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:3436e36b-23db-4f4b-bb3b-a34462306e9b@3436.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231213T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231213T133000Z
-SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
-UID:eb324fd6-d95d-406e-ab17-c5ebeb1b030a@eb32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231221T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231221T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:ff0c628c-e33d-4fde-a2ff-680d12b13170@ff0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231025T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231025T151500Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:978f1afe-3fe5-4da8-922a-315cbc16f895@978f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231121T183000Z
-LOCATION:Орш. В-212
-DTSTART:20231121T170000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:4717076a-f3a0-4550-8573-2ae54143dfc3@4717.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231201T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20231201T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:fef5c1ef-69ce-4923-86f5-90a6bba1e791@fef5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231123T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231123T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:7ce04b37-3fdb-4b8a-b390-dfd91683d310@7ce0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231020T113000Z
-LOCATION:ГУК Б-346
-DTSTART:20231020T100000Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:9bb0efde-a160-4b5a-925b-f51c1fee069a@9bb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231102T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231102T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:e5d57944-dc78-44c7-a779-7247fad250a9@e5d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20230926T164500Z
-LOCATION:Орш. В-212
-DTSTART:20230926T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:2ba88315-1f35-4adf-8016-972a99f981a8@2ba8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231215T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20231215T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:9bf66d1d-5d20-4f00-b4b3-fbbb774b7b6f@9bf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231027T113000Z
-LOCATION:ГУК Б-346
-DTSTART:20231027T100000Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:c997dfdb-9495-4e9d-825b-d483c7c720bb@c997.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231017T150000Z
-LOCATION:Орш. В-212
-DTSTART:20231017T133000Z
-SUMMARY:ЛК Прочность конструкций
-UID:ea7d6326-5949-4591-aa04-330715719a28@ea7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231108T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231108T151500Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:6afb861d-6b8f-44fa-901f-3dbea3109b0d@6afb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231117T113000Z
-LOCATION:ГУК Б-346
-DTSTART:20231117T100000Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:46368713-2070-4a24-8f60-a55e91160e2b@4636.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231115T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231115T170000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:988def08-5cb3-45da-8e7f-3b6abadc7e29@988d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20230922T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20230922T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:3fba6711-6982-4d4e-863f-b3ae30b8a2d0@3fba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231027T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20231027T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:3dc9b883-6c83-45ab-9039-0d5d5e6b6fe9@3dc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231013T113000Z
-LOCATION:ГУК Б-346
-DTSTART:20231013T100000Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:fe427aff-5cf4-41c8-8840-1c759b367bcc@fe42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231201T113000Z
-LOCATION:ГУК Б-346
-DTSTART:20231201T100000Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:58587a90-77a9-4aad-8c18-1cf0e0afa9bc@5858.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231117T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20231117T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:02684339-7c01-49f9-ad30-2efc58597f84@0268.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231004T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231004T133000Z
-SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
-UID:14b96d7a-3a72-491c-ae25-cd4ed5f4c739@14b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231214T150000Z
-LOCATION:3-421
-DTSTART:20231214T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:6c5d83e7-68f8-48c8-944e-9cb496c7c9a8@6c5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231115T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231115T133000Z
-SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
-UID:93122084-9fe9-4c09-bad3-512438b50804@9312.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231108T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231108T170000Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:278c9975-7579-49ee-b730-8a667ce46d56@278c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20230928T150000Z
-LOCATION:3-421
-DTSTART:20230928T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:87c86c81-9e93-44a8-a81e-ca2f32dfaef4@87c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20230922T131500Z
-LOCATION:ГУК Б-346
-DTSTART:20230922T114500Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:48ac785c-ac32-4d1f-9859-c1224109300c@48ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231020T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231020T133000Z
-SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
-UID:1c5fde36-44f0-4149-a5a1-27cc1891a415@1c5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231031T150000Z
-LOCATION:Орш. В-212
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:b3a7cfee-c932-4395-9ac3-8554083c0b86@b3a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20230907T150000Z
-LOCATION:3-421
-DTSTART:20230907T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:df0a0563-aeea-4271-adf5-ddfbeb26f8f3@df0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231107T164500Z
-LOCATION:Орш. В-212
-DTSTART:20231107T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:29439474-e26a-4c91-825f-d92eef0af24d@2943.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Оконечников Анатолий Сергеевич
-DTEND:20231006T113000Z
-LOCATION:ГУК Б-346
-DTSTART:20231006T100000Z
-SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:e0c9ffb2-1449-400f-9024-a81e8a331772@e0c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20230921T150000Z
-LOCATION:3-421
-DTSTART:20230921T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:f7321476-ccd0-484d-af66-0e2431f66526@f732.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230906T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20230906T151500Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:5ebea81c-4de5-4c94-a1b7-813ab754cc92@5ebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231226T150000Z
-LOCATION:Орш. В-212
-DTSTART:20231226T133000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:91582058-cd68-4367-9fe1-323e5396ae93@9158.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231122T164500Z
-LOCATION:ГУК Б-346
-DTSTART:20231122T151500Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:10bb2bab-1316-4766-82bf-545d6430b845@10bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20230905T150000Z
-LOCATION:Орш. В-212
-DTSTART:20230905T133000Z
-SUMMARY:ЛК Прочность конструкций
-UID:82c9a6c2-1a96-4ef9-bbb9-00ac22b1df62@82c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20230928T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:e45de199-93df-43e4-b998-1537492717cb@e45d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231122T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231122T170000Z
-SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
-UID:8960d3f9-3530-4981-b76f-8538bf00f1e4@8960.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231116T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231116T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:4c8f7e0e-3435-4e34-b872-ebe8ccad8d4f@4c8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231130T183000Z
-LOCATION:ГУК Б-646
-DTSTART:20231130T170000Z
-SUMMARY:ПЗ Статистическая динамика
-UID:2fcff1d6-4a2e-4ece-b72e-bf31b463ac3a@2fcf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20230914T150000Z
-LOCATION:3-421
-DTSTART:20230914T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:a409ff87-887b-4ff0-b49d-3120b23ff56b@a409.org
+UID:13830de9-87d1-4370-b7f7-3241752e807a@1383.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сердюк Дмитрий Олегович
@@ -1375,31 +39,71 @@ DTEND:20231004T164500Z
 LOCATION:ГУК Б-346
 DTSTART:20231004T151500Z
 SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:1149c29b-392f-43cc-bedd-ba88bf844929@1149.org
+UID:01573553-86ac-43ef-864c-ed08fd041d44@0157.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231220T150000Z
+DTEND:20230906T150000Z
 LOCATION:ГУК Б-346
-DTSTART:20231220T133000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:57d312e5-24f6-4268-a153-c2e3e673a8ec@57d3.org
+DTSTART:20230906T133000Z
+SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
+UID:9860be9d-479f-421c-8ce0-fa6c1ad2e4e3@9860.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зинин Александр Владимирович
-DTEND:20230912T164500Z
-LOCATION:Орш. В-212
-DTSTART:20230912T151500Z
-SUMMARY:ЛК Прочность конструкций
-UID:432df377-346a-48d8-80a7-e4b08c462ebc@432d.org
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231108T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231108T170000Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:199bc6ba-3cfa-4280-a89a-dd39025043b6@199b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231005T183000Z
+DTEND:20231221T164500Z
 LOCATION:ГУК Б-646
-DTSTART:20231005T170000Z
+DTSTART:20231221T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:a55ed082-51a8-411f-808b-86ba092fa3a4@a55e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20230927T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20230927T170000Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:9dff56fa-9ef3-43ed-83f7-ba15fa88f7e1@9dff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231212T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231212T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:21e2ecfd-0404-4da1-9c36-9f1b93d8a211@21e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231101T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231101T151500Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:3d10f32f-13fa-42d5-889e-ed31a660eba9@3d10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231221T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231221T170000Z
 SUMMARY:ПЗ Статистическая динамика
-UID:dd588e7d-4cc0-4fdc-bcb8-ed4ec16ebd06@dd58.org
+UID:d1c539af-1c23-4091-8af4-32099015379e@d1c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231206T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231206T151500Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:38dc0174-b94a-4881-9ded-9a34deb13ac5@38dc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сидоренко Александр Сергеевич
@@ -1407,31 +111,95 @@ DTEND:20230907T164500Z
 LOCATION:ГУК Б-646
 DTSTART:20230907T151500Z
 SUMMARY:ЛК Статистическая динамика
-UID:31b79e15-e556-4d2f-b06d-c97757e51683@31b7.org
+UID:ee956614-662d-4f2c-a0ba-b04879007c4c@ee95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20230922T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20230922T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:0ca2ff32-78a5-4539-b196-521b2348e225@0ca2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231121T164500Z
+DTEND:20231003T150000Z
 LOCATION:Орш. В-212
-DTSTART:20231121T151500Z
+DTSTART:20231003T133000Z
 SUMMARY:ЛК Прочность конструкций
-UID:75508f60-bfbb-4018-8a45-50dce08f67c6@7550.org
+UID:9b6fc951-6526-45e0-aa97-74d62f4fc6c2@9b6f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Коновалова Светлана Владимировна
-DTEND:20231005T150000Z
-LOCATION:3-421
-DTSTART:20231005T133000Z
-SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:87697352-ca7d-46fb-b42c-7945b3c416a1@8769.org
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231024T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231024T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:799dc1b2-32a2-4ffc-932a-969351e6de94@799d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231124T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231124T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:698d0cd5-05ea-4fe1-bdbc-ff748caa70ce@698d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20230920T164500Z
+DTEND:20231227T183000Z
 LOCATION:ГУК Б-346
-DTSTART:20230920T151500Z
+DTSTART:20231227T170000Z
 SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:518f48b6-ba44-4620-ad6b-699db5fe7127@518f.org
+UID:833fabe1-b863-41d6-a4c2-3b2d574db94b@833f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20230915T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20230915T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:43cc224a-a001-4e0c-ba06-bfa0e359aa52@43cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231213T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231213T133000Z
+SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
+UID:e471eb5e-7a3b-4fe9-9dc1-8e9437d9259f@e471.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231114T150000Z
+LOCATION:Орш. В-212
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:909a5470-d797-48bb-b97e-af13af05e086@909a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20230914T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20230914T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:cbebb56c-5547-4725-8b1c-fe4f03bef897@cbeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231018T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231018T151500Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:2be87c7c-5b0b-4d65-a51f-0bbd0ea841d1@2be8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231020T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231020T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:ea6958de-4a61-499b-b443-0844391dae09@ea69.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зинин Александр Владимирович
@@ -1439,7 +207,39 @@ DTEND:20230919T164500Z
 LOCATION:Орш. В-212
 DTSTART:20230919T151500Z
 SUMMARY:ЛК Прочность конструкций
-UID:d649ca0e-ffd5-480e-9e2e-51b8303a4aac@d649.org
+UID:bc710f62-ff36-4033-853e-21b7628f097f@bc71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231108T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231108T133000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:a6afa755-d886-4b0c-aff5-08844ab776d4@a6af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231215T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20231215T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:a1ed234b-4fa0-4f83-b49c-ae2bdb0818b5@a1ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20230913T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20230913T151500Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:9a42ca07-93e3-4163-aea1-ffaf940aa0c9@9a42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231130T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231130T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:3b39c946-0e65-4abf-8455-deb7e556875f@3b39.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Оконечников Анатолий Сергеевич
@@ -1447,31 +247,31 @@ DTEND:20230922T113000Z
 LOCATION:ГУК Б-346
 DTSTART:20230922T100000Z
 SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
-UID:9bcd3e3f-6ed2-437f-a43d-c3f375705ad6@9bcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231101T183000Z
-LOCATION:ГУК Б-346
-DTSTART:20231101T170000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:e72cad70-81ef-45c9-8c19-57c5e743fd5d@e72c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сердюк Дмитрий Олегович
-DTEND:20231206T150000Z
-LOCATION:ГУК Б-346
-DTSTART:20231206T133000Z
-SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
-UID:3d3d341b-181c-40d5-9170-7dd89a13ceb4@3d3d.org
+UID:155b3b50-e96b-4d6e-8874-9cf95bd309d5@155b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зинин Александр Владимирович
-DTEND:20231212T150000Z
+DTEND:20231003T164500Z
 LOCATION:Орш. В-212
-DTSTART:20231212T133000Z
-SUMMARY:ПЗ Прочность конструкций
-UID:99ce5a72-10ec-4a80-9435-7402db64566a@99ce.org
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:e41367c6-2960-4cc2-b3ac-bf4afa2925be@e413.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231005T150000Z
+LOCATION:3-421
+DTSTART:20231005T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:d15aa688-bb3d-47fb-b313-54e72ad62493@d15a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231117T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231117T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:1bc6b2cb-1b5d-487d-bcd1-a3fbc0a517f5@1bc6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Коновалова Светлана Владимировна
@@ -1479,15 +279,31 @@ DTEND:20231102T150000Z
 LOCATION:3-421
 DTSTART:20231102T133000Z
 SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
-UID:d6e6c4ce-8a20-4a25-a544-6bee1a32807a@d6e6.org
+UID:b593f7c3-408d-4810-a060-d7d27f6f2803@b593.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Сидоренко Александр Сергеевич
-DTEND:20231102T164500Z
-LOCATION:ГУК Б-646
-DTSTART:20231102T151500Z
-SUMMARY:ЛК Статистическая динамика
-UID:b11d5209-4ad9-4c61-b408-a495b1733c74@b11d.org
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231013T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20231013T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:08bcb527-8c3d-4fbc-9414-342ef8120771@08bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20230928T150000Z
+LOCATION:3-421
+DTSTART:20230928T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:06da196b-7aea-4372-86a8-cfa04e2789d6@06da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20230929T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20230929T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:44d1f25b-f3ba-4a6f-9565-cba5f49595f8@44d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сидоренко Александр Сергеевич
@@ -1495,6 +311,1190 @@ DTEND:20231116T164500Z
 LOCATION:ГУК Б-646
 DTSTART:20231116T151500Z
 SUMMARY:ЛК Статистическая динамика
-UID:ecd99a49-1adf-42a0-aac4-23e980058266@ecd9.org
+UID:45ae66ac-f60c-43f3-a3ce-7600af10a682@45ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231226T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231226T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:3efb692b-23f5-4943-a55a-890bff4276de@3efb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231208T113000Z
+LOCATION:ГУК Б-346
+DTSTART:20231208T100000Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:8f16911d-906c-4a40-a060-13270aeb3950@8f16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20230928T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20230928T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:7a5d1ec1-394d-476f-afd0-5de0fee9e981@7a5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231228T150000Z
+LOCATION:3-421
+DTSTART:20231228T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:0684e8a8-cba0-42d6-8181-e42d58cef4af@0684.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231206T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231206T133000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:e39f8957-1340-4a81-a76c-2dd8fe2bfa3b@e39f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20230905T150000Z
+LOCATION:Орш. В-212
+DTSTART:20230905T133000Z
+SUMMARY:ЛК Прочность конструкций
+UID:94645968-fb04-4782-a021-bc5603deeb7d@9464.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20230912T183000Z
+LOCATION:Орш. В-212
+DTSTART:20230912T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:13f8629e-9624-48e4-98ea-9d4bc4aaba49@13f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231005T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231005T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:a1c164c4-a415-4183-8c58-c490d062b031@a1c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231221T150000Z
+LOCATION:3-421
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:365f0bbb-06a6-41af-b55e-56d453b5e331@365f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231213T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231213T151500Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:5fa92d18-0a52-4393-9eff-4fd60388ee2c@5fa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231222T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231222T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:151afaed-d0c8-4c6c-b8ef-778eaf1b6fef@151a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231006T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231006T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:c44f8263-1db6-4660-b879-28abd4e5c09d@c44f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231116T150000Z
+LOCATION:3-421
+DTSTART:20231116T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:663813b9-cb21-4333-8951-e2e719f1b65e@6638.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231128T150000Z
+LOCATION:Орш. В-212
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:1ecb42b8-138f-4439-ac9f-bf9f350f3f30@1ecb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20230905T183000Z
+LOCATION:Орш. В-212
+DTSTART:20230905T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:1233c18d-7960-42ae-9eea-2904c94dbd5f@1233.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231018T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231018T133000Z
+SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
+UID:93a54b05-4bf5-4215-ae69-45ad893a3f6c@93a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231031T150000Z
+LOCATION:Орш. В-212
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:e940a1f6-ed21-409b-9c66-39c0ae78d18a@e940.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231219T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231219T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:ef36f68f-6785-4a72-8133-8575e106b721@ef36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231101T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231101T133000Z
+SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
+UID:29adffad-a3af-4ec6-9ab6-d696cc85a1f2@29ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231226T150000Z
+LOCATION:Орш. В-212
+DTSTART:20231226T133000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:fb34e9d2-f312-4c43-8e24-4ad0663a6266@fb34.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231026T150000Z
+LOCATION:3-421
+DTSTART:20231026T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:7c06e4e8-d2a4-444b-ae1b-17841a0d4a56@7c06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231228T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20231228T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:5c81f28d-bf92-4dec-84f8-b88582fb303d@5c81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20230914T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20230914T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:9c961ab9-52c2-41ec-bdc3-dfebf921ca37@9c96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231012T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20231012T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:20f3c985-80a0-401e-903c-14e2f71b869f@20f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231018T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231018T170000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:2f933901-a792-4d14-be9d-49d3e2f5819f@2f93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231013T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231013T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:0d4ed1ea-c28e-4267-a93a-e2a120ca71c4@0d4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231229T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231229T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:3af41baa-4a08-4c12-929d-7063fe4c32f3@3af4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20230907T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20230907T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:0e581be4-fa68-4b37-ab2c-ef2fe4b0032a@0e58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231031T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:69fc0690-4d2b-4ead-a8df-bbfa09b19c6e@69fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20230913T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20230913T133000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:290cc9f6-e756-4ea1-8e96-e10ad5b991f9@290c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20230926T183000Z
+LOCATION:Орш. В-212
+DTSTART:20230926T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:a3ef1ef0-cf2a-475a-8194-eac1eaf213e4@a3ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231011T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231011T133000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:cd465761-7aeb-4c4c-b19f-5e6f84ae6399@cd46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231227T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231227T151500Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:7210f06d-c14a-47c2-9073-4f5981622a82@7210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20230921T150000Z
+LOCATION:3-421
+DTSTART:20230921T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:892b3b27-de7b-4a34-b833-a7ceac026b89@892b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20230913T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20230913T170000Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:23125325-3b07-41c7-ad3f-e479b47df47c@2312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231019T150000Z
+LOCATION:3-421
+DTSTART:20231019T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:124bba99-c094-49c6-9d99-549df05781de@124b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231107T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231107T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:e441288f-ebfc-480d-8c97-ab71edc985f3@e441.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231220T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231220T170000Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:b0839b9f-f427-4d44-a987-d3ad77ebcec7@b083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20230927T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20230927T133000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:107c3c6d-349a-4be3-8dfc-65fa6df0f91a@107c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20230921T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20230921T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:6359df8e-184d-41b7-8b48-94a3c73018ea@6359.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231114T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231114T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:39caac59-a79f-405f-88f1-8b6c736ff00f@39ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20230920T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20230920T133000Z
+SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
+UID:e5931f23-d2ac-4b6d-8746-9fb825f8c4e3@e593.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231109T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20231109T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:9f7d2c29-150b-4a73-9e4c-2046afdbc8e3@9f7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231122T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231122T151500Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:fe960a03-8b91-4479-bebc-e197eefcd3b7@fe96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231107T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231107T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:d8f1c437-fdff-417b-aeec-cd4e0b3c4bfd@d8f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231017T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231017T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:04ab33e9-cda2-4ea3-ae88-56de09cc41d4@04ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231013T113000Z
+LOCATION:ГУК Б-346
+DTSTART:20231013T100000Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:44a2200b-e49e-4bcd-acae-d2b6ae55617e@44a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231027T113000Z
+LOCATION:ГУК Б-346
+DTSTART:20231027T100000Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:a563d716-c9a9-4c57-97a1-39d0925b2f3a@a563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231109T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231109T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:8efeb3bf-9cf9-46ca-8dad-bddeb8c0aade@8efe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231129T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231129T133000Z
+SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
+UID:be2195f1-4d48-452f-84a1-736bc4cd52fe@be21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20230919T150000Z
+LOCATION:Орш. В-212
+DTSTART:20230919T133000Z
+SUMMARY:ЛК Прочность конструкций
+UID:e9c23582-e365-49f6-afac-1bd87cf9f4ca@e9c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231020T113000Z
+LOCATION:ГУК Б-346
+DTSTART:20231020T100000Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:ec954111-370f-4ee9-9089-6236745f725e@ec95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20230929T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20230929T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:b91d8c25-6216-4951-a5d1-427f11dbf3be@b91d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231025T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231025T170000Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:f4aa4480-c08d-4456-8fbc-e37c1ff16762@f4aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231123T150000Z
+LOCATION:3-421
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:40d7b6e0-91ca-4aea-b8ad-5937d8eae472@40d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231208T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231208T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:5f741a9b-15b4-48ae-b139-2264fc41c24e@5f74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231212T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231212T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:8ec0586d-2788-4ef1-8096-0ca86f0e27cf@8ec0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231129T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231129T151500Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:640b67db-44b0-4ce1-9ed2-947fa5d86f3e@640b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231201T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231201T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:56b6db68-ad4c-4917-a652-10527d1b720c@56b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20230914T150000Z
+LOCATION:3-421
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:fe374759-0265-4d9d-964c-7813f048a35b@fe37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231115T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231115T170000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:96b674ee-8bb6-42d9-b8d1-2f26923c82b1@96b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231121T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231121T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:6eff9bff-c876-4801-aafc-dfa47b0b3287@6eff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231207T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231207T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:5f4c0433-4a8d-424d-b752-113b57b55995@5f4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231205T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231205T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:5cc2fc6c-7115-4216-8885-5adbd36a6e39@5cc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231011T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231011T151500Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:c0ebff89-5ddd-497b-bfe5-a562ce8547a0@c0eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231017T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:ced9e85c-9739-4282-9a58-f580fcfe071a@ced9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231128T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231128T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:5ffbc7f8-de17-4f95-8561-d90e6c7afdc2@5ffb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231206T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231206T170000Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:f2dbbd72-8f7a-429b-97ed-56befdcc72de@f2db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231026T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231026T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:daaf6f77-4759-4eab-a8b6-b69fd27f4026@daaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231207T150000Z
+LOCATION:3-421
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:2c64e6c8-d701-4fa5-9cd8-0aed36c4ac87@2c64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20230906T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20230906T151500Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:a199982f-381a-4e81-8594-daf5cd90a67e@a199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231110T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20231110T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:3ed84dd5-da55-49b4-96f6-6b6aff35e455@3ed8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231026T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20231026T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:2bcb0e84-8dd9-4e0c-8f1a-026d5a6dc101@2bcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231027T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231027T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:e26e44fe-193b-4dbf-8ea4-e54cd529c4c9@e26e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20230919T183000Z
+LOCATION:Орш. В-212
+DTSTART:20230919T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:d7b98fca-5ec9-49d1-91b0-df888b565322@d7b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231212T150000Z
+LOCATION:Орш. В-212
+DTSTART:20231212T133000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:2780e187-ab5a-4052-acfe-4b9263806703@2780.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20230927T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20230927T151500Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:0627b291-3ae3-4665-a97f-c5c494cec014@0627.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231011T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231011T170000Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:963a5162-e37f-4e7a-82f2-5cdb3b432676@963a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20230906T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20230906T170000Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:d88c7551-9af4-44fd-a52a-2b1529e7d797@d88c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231208T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20231208T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:5801a7b6-3785-4afd-af53-877f410beb89@5801.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231220T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231220T151500Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:0d6ae363-2e3d-41b0-9a66-9e50d5ff5dd5@0d6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231017T150000Z
+LOCATION:Орш. В-212
+DTSTART:20231017T133000Z
+SUMMARY:ЛК Прочность конструкций
+UID:838caa18-2611-4870-8765-4aa4f2a13908@838c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231128T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231128T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:c4084ebf-035f-4532-b4b9-ac8276719c7f@c408.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231108T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231108T151500Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:70753d6e-eebb-4c92-af84-ba3ae8f9c58b@7075.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231102T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20231102T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:991ca482-b28f-4fd7-ac24-84a6b558420f@991c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231012T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231012T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:8414cfce-b070-4228-b845-893854107d1f@8414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20230920T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20230920T170000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:44f80728-b927-4520-8332-7a0d558b31a8@44f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20230926T164500Z
+LOCATION:Орш. В-212
+DTSTART:20230926T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:76f3ecdd-07db-49d0-9883-abdadf1d727e@76f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231004T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231004T170000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:d401083a-3f18-4acd-9387-ae041cf16381@d401.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231019T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20231019T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:00b17aa7-aee7-49a9-ac57-73c5ccd8bc97@00b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231110T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231110T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:6b73df3f-14d0-4d87-ab9c-0abfe75ca65a@6b73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20230922T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20230922T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:ebde2893-4bc4-462b-915d-90ef79a10b28@ebde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231027T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20231027T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:d7324a95-e542-4e62-bfe0-3c9853406cb7@d732.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231123T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231123T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:7cf5d582-395a-409f-9a7a-2e8c6e1e05c9@7cf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231213T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231213T170000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:6ed76d41-f95a-4b0d-ba29-2c23f026cfce@6ed7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20230901T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20230901T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:56298ae4-a124-4864-b899-49cea7c786d6@5629.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231103T113000Z
+LOCATION:ГУК Б-346
+DTSTART:20231103T100000Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:e0ab06f9-1c76-433b-91fa-cadd0a00731d@e0ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231115T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231115T151500Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:6ea6e235-3ae5-49fe-9623-1a8845c9730b@6ea6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231207T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20231207T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:0dc75e94-ed8f-46c1-b6f8-6183306de1db@0dc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20230905T164500Z
+LOCATION:Орш. В-212
+DTSTART:20230905T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:217027b3-c51f-493e-bdc7-5fab3a14b335@2170.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20230921T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20230921T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:1ae12023-4405-4ab2-9cc3-d7a8bae2cefe@1ae1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20230929T113000Z
+LOCATION:ГУК Б-346
+DTSTART:20230929T100000Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:2f143cb7-baec-4477-a417-85a1aa5ad583@2f14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231006T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20231006T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:4dcc851e-72fe-40bd-8377-3fb08cd2849b@4dcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231102T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231102T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:dc8aa4b4-7b9b-4af0-925a-59018adf2250@dc8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231115T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231115T133000Z
+SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
+UID:ff555f48-947c-47ca-b6d8-6f1e158c60ad@ff55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231003T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231003T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:8bacb678-803e-4eae-aeac-fd7991943814@8bac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231031T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231031T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:85c46bab-c0c6-4963-aae1-64c67b6da59f@85c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231122T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231122T170000Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:2b835450-aadb-460c-ba25-481bcf3abc75@2b83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231214T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20231214T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:9c15e633-ecf6-4fa6-bc6d-020955d8b3f8@9c15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231110T113000Z
+LOCATION:ГУК Б-346
+DTSTART:20231110T100000Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:c9549809-c889-4bc9-a972-4c589937fce0@c954.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231124T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20231124T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:b3fbf43d-3a3d-4c35-b7d6-4df90df3132b@b3fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20230920T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20230920T151500Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:1c47d52b-f085-4fba-8e41-e902b852a761@1c47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231130T150000Z
+LOCATION:3-421
+DTSTART:20231130T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:d535d2e2-10b9-4576-8838-f62e2053a976@d535.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231116T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231116T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:80f5f18c-84d2-4041-aa96-a646063c1643@80f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231004T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231004T133000Z
+SUMMARY:ЛК Пакеты прикладных программ в прикладной механике
+UID:dc5ed996-c594-4082-9c63-42dd662c2f07@dc5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231121T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231121T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:ba14d79c-9513-435c-b214-7506614a2d94@ba14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231101T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231101T170000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:b0883501-3655-4539-a1bc-81869d1cb70e@b088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231130T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20231130T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:75cf62e6-9b43-47ab-ac51-2b54a8fdcc43@75cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20230907T150000Z
+LOCATION:3-421
+DTSTART:20230907T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:a97080fe-daf4-4361-8857-692a7a2e87c7@a970.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231006T113000Z
+LOCATION:ГУК Б-346
+DTSTART:20231006T100000Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:ce96dc21-a535-474a-8c21-63963a1e775f@ce96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231122T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231122T133000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:731dc9aa-e99d-4d6d-b9e7-36790d8424dd@731d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231114T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:1ad6e82e-70a9-4d34-9698-baf3dc2c6b9c@1ad6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231220T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231220T133000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:a29a7ae4-9ae2-4f6c-b6eb-033a1779e7ac@a29a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231025T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231025T133000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:febf12d3-2579-406e-ac01-5a0f77d79dac@febf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231024T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231024T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:df8957bb-7b98-4d44-b9bb-d4311dea880a@df89.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231020T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20231020T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:000592e3-8c75-46b8-9be1-99c7ee420ea4@0005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231201T113000Z
+LOCATION:ГУК Б-346
+DTSTART:20231201T100000Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:e332dcee-71be-4328-b051-94edf8942da9@e332.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231205T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231205T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:b84b636b-ca66-4ec4-b96f-1289a71fd241@b84b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231025T164500Z
+LOCATION:ГУК Б-346
+DTSTART:20231025T151500Z
+SUMMARY:ЛР Пакеты прикладных программ в прикладной механике
+UID:5cc1a685-22cc-49d1-9c07-1ab3849b46ed@5cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231123T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20231123T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:971e3f8a-904e-47ad-ad06-80f9e8382138@971e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сердюк Дмитрий Олегович
+DTEND:20231129T183000Z
+LOCATION:ГУК Б-346
+DTSTART:20231129T170000Z
+SUMMARY:ПЗ Пакеты прикладных программ в прикладной механике
+UID:cf069ec8-c962-4676-9d2d-336061e26a3c@cf06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231109T150000Z
+LOCATION:3-421
+DTSTART:20231109T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:8ce9c70f-01fa-43ee-a67e-a06d8c875cc5@8ce9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231117T113000Z
+LOCATION:ГУК Б-346
+DTSTART:20231117T100000Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:0cc1952a-8f28-45bf-9f92-3473b740403d@0cc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20230908T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20230908T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:2f4fd9d2-543a-49b0-a146-92946421c335@2f4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231012T150000Z
+LOCATION:3-421
+DTSTART:20231012T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:e28cc352-2386-45d1-b2db-31d505cfd64f@e28c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231019T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231019T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:700fde9f-17e5-415f-b326-9052e7a77df0@700f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231201T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20231201T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:8c7b63d3-8ec4-4f41-9d01-3041dd663e20@8c7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Коновалова Светлана Владимировна
+DTEND:20231214T150000Z
+LOCATION:3-421
+DTSTART:20231214T133000Z
+SUMMARY:ПЗ Семинар по специальной литературе на иностранном языке
+UID:134ccd15-38d9-4131-8d92-636045b92001@134c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231215T113000Z
+LOCATION:ГУК Б-346
+DTSTART:20231215T100000Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:ad968b62-868e-4092-9df7-7aff4a33d063@ad96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20230928T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:8fb13449-70cb-4d52-b467-e321d0c3dd51@8fb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231005T164500Z
+LOCATION:ГУК Б-646
+DTSTART:20231005T151500Z
+SUMMARY:ЛК Статистическая динамика
+UID:6235faff-0843-4ff5-9a22-e0fddc637715@6235.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231226T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231226T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:ea168571-4e75-4884-9d0a-272b7784485c@ea16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231215T150000Z
+LOCATION:ГУК Б-346
+DTSTART:20231215T133000Z
+SUMMARY:ЛК Вычислительная механика с элементами искусственного интеллекта
+UID:8626403d-2b58-47f8-8ea9-05bf41003581@8626.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20230912T164500Z
+LOCATION:Орш. В-212
+DTSTART:20230912T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:20587240-7b45-47d2-bf02-74b65728a4a2@2058.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231219T183000Z
+LOCATION:Орш. В-212
+DTSTART:20231219T170000Z
+SUMMARY:ПЗ Прочность конструкций
+UID:85a35db1-e135-4803-b94d-7517e9bfe376@85a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сидоренко Александр Сергеевич
+DTEND:20231228T183000Z
+LOCATION:ГУК Б-646
+DTSTART:20231228T170000Z
+SUMMARY:ПЗ Статистическая динамика
+UID:2b411de4-7e11-4a5b-97cd-987034a7c83c@2b41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зинин Александр Владимирович
+DTEND:20231010T164500Z
+LOCATION:Орш. В-212
+DTSTART:20231010T151500Z
+SUMMARY:ЛК Прочность конструкций
+UID:e2503971-e41f-4828-a551-b2d6925a2810@e250.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Оконечников Анатолий Сергеевич
+DTEND:20231117T131500Z
+LOCATION:ГУК Б-346
+DTSTART:20231117T114500Z
+SUMMARY:ЛР Вычислительная механика с элементами искусственного интеллекта
+UID:8d05d168-ace2-41be-9024-76950cc9d07f@8d05.org
 END:VEVENT
 END:VCALENDAR

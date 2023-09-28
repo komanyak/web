@@ -2,271 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a20bd85f-af0b-45dd-bf64-613402b757cc@a20b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:11d63ec1-6e27-412b-921a-ea536db427d8@11d6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
 DTEND:20231003T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231003T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:6433d4ef-48c4-4ea3-b63d-43417526277b@6433.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231026T183000Z
-LOCATION:ГУК А-721
-DTSTART:20231026T170000Z
-SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:fc3570f7-91ff-492c-9fa9-47d1b548a9ed@fc35.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ef069de7-232e-4486-85c0-1575bb8ce136@ef06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20230928T164500Z
-LOCATION:ГУК А-721
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:723f4be4-8caf-44d1-9187-a1c174ed42d3@723f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231005T183000Z
-LOCATION:ГУК А-721
-DTSTART:20231005T170000Z
-SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:c40918a2-996c-47fe-9bd7-dd6b7cb7b950@c409.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231109T164500Z
-LOCATION:ГУК А-721
-DTSTART:20231109T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:17b592dd-3697-436b-aed5-55ea70c13f23@17b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:50c8b24c-86f1-4c9c-b7ed-d14d7d7327aa@50c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231214T164500Z
-LOCATION:ГУК А-721
-DTSTART:20231214T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:52665880-e733-446a-b175-2615228abe9c@5266.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231123T164500Z
-LOCATION:ГУК А-721
-DTSTART:20231123T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:8e933221-69c9-4039-9bc9-ec2c391213e2@8e93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231109T183000Z
-LOCATION:ГУК А-721
-DTSTART:20231109T170000Z
-SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:4abfbcaa-345e-47db-aba1-9bd638e43032@4abf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d1ddfd35-8dd7-4285-9193-8d0e313af3b7@d1dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d68ae554-5929-4b23-90ec-d9b7cc60d30d@d68a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:91670ae6-fbbe-4340-9446-b31ca07dddad@9167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231207T164500Z
-LOCATION:ГУК А-721
-DTSTART:20231207T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:94f6d329-0c3c-47d5-adda-4b7760db9712@94f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:85ec508f-673d-41d5-85b9-7c9c7117faec@85ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:4e889994-dbc3-49b5-bdd6-8ff688072c18@4e88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231102T164500Z
-LOCATION:ГУК А-721
-DTSTART:20231102T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:45d4bf5b-6e64-4cfe-a08e-8ae78fd8f90f@45d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231130T164500Z
-LOCATION:ГУК А-721
-DTSTART:20231130T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:1571f72e-7e03-4e73-b17a-cbc8dde9960e@1571.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:f08c3271-8f52-4775-ab1e-c053259d7ab6@f08c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231019T183000Z
-LOCATION:ГУК А-721
-DTSTART:20231019T170000Z
-SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:4881d66c-aef2-4a0e-b1cc-199d9497abf0@4881.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20230921T164500Z
-LOCATION:ГУК А-721
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:ab4b6e05-9d8b-49a2-965a-517779513754@ab4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231005T164500Z
-LOCATION:ГУК А-721
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:37004af6-ae9b-42f7-84d9-afbb11a56b9b@3700.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231116T183000Z
-LOCATION:ГУК А-721
-DTSTART:20231116T170000Z
-SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:42477233-e7f7-429f-973a-5084b51e8e1b@4247.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b8efdd00-e79b-439f-b376-806c7eafb603@b8ef.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2c882f98-3089-44ea-8e90-5f09d5bbd9a5@2c88.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:cda196e9-60fb-4363-8d3d-76a42ee5251e@cda1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:36e6ed40-bf67-47ad-bd2e-937e99309108@36e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231123T183000Z
-LOCATION:ГУК А-721
-DTSTART:20231123T170000Z
-SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:a8bd5c89-f32e-4958-9dcd-90fec0c61ce1@a8bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c9c7a0b3-5042-4284-bdf9-ea0feed20d7f@c9c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20230914T164500Z
-LOCATION:ГУК А-721
-DTSTART:20230914T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:db04e976-b437-417c-94be-513776bce441@db04.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:49eb9170-e443-45e3-b1f4-59bd4ee52303@49eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:869dc02d-6b12-43e8-b294-0d5332aad2ae@869d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20230921T183000Z
-LOCATION:ГУК А-721
-DTSTART:20230921T170000Z
-SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:463c70b0-eaa5-4d7e-b155-7ed02d46595c@463c.org
+UID:50f83bfc-3607-4752-9267-d664bb93b566@50f8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -274,7 +15,14 @@ DTEND:20231003T164500Z
 LOCATION:ГУК В-228
 DTSTART:20231003T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:e62cbb30-069b-42f1-9631-e8b0e7d1359e@e62c.org
+UID:6527a405-23d6-43d2-9a75-9e76194ebba8@6527.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:dd9d2ba1-5564-4ed0-937c-b39992150f88@dd9d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Куприков Михаил Юрьевич
@@ -282,23 +30,23 @@ DTEND:20231012T164500Z
 LOCATION:ГУК А-721
 DTSTART:20231012T151500Z
 SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:59c66dfd-7d53-419c-85d3-093df7a1d3e9@59c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:135733e4-96fa-49ac-89eb-50e6b2675c33@1357.org
+UID:e2eac7ab-8bc1-4e6e-9a6d-46440b25267e@e2ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20230928T183000Z
+DTEND:20231207T164500Z
 LOCATION:ГУК А-721
-DTSTART:20230928T170000Z
+DTSTART:20231207T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:3235182e-1969-4899-a354-b012249c1337@3235.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231005T183000Z
+LOCATION:ГУК А-721
+DTSTART:20231005T170000Z
 SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:7ac63f15-d5e6-45d8-8f40-df8ac850f397@7ac6.org
+UID:2486279f-73b1-467d-8be7-60a30897e551@2486.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Куприков Михаил Юрьевич
@@ -306,118 +54,44 @@ DTEND:20230914T183000Z
 LOCATION:ГУК А-721
 DTSTART:20230914T170000Z
 SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:cb1179ee-9968-4bd7-84b7-28ee5d870c43@cb11.org
+UID:81af718a-ff66-48bc-a62e-8b99e926fb64@81af.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231102T183000Z
+DTEND:20230921T164500Z
 LOCATION:ГУК А-721
-DTSTART:20231102T170000Z
-SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:596a9a05-9b4c-48dd-87cf-5997a80b353d@596a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:262ece85-74a2-4d83-98bc-9511f322c20d@262e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:55a3f66b-dcc3-4000-8615-12a7f59d9d5b@55a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:1e216fc2-0a68-43e3-aad9-89a064a7ed6b@1e21.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:65893c88-cea4-42fc-9603-72ef3260c7df@6589.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d0570538-3dae-4587-8391-0cd9304de5cc@d057.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:19c4fa1d-ddda-4df1-b7e2-3864854f0b42@19c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2d18d95d-7fdd-4fff-abfd-5329cc67b844@2d18.org
+DTSTART:20230921T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:0c3e264d-e838-4e10-80c8-34b48c94ecb8@0c3e.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231002T164500Z
 LOCATION:--каф.
 DTSTART:20231002T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:9d7876f2-b237-406c-bdbe-e051df2179bc@9d78.org
+UID:d4a6454e-c6a1-47a7-829a-c28f93b60a68@d4a6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231116T164500Z
-LOCATION:ГУК А-721
-DTSTART:20231116T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:3c76936f-be27-4a17-ac5d-ff9df42b0377@3c76.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T164500Z
+DTEND:20230904T164500Z
 LOCATION:--каф.
-DTSTART:20230918T151500Z
+DTSTART:20230904T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:62b2a799-00b9-4fae-9411-198f46e1b816@62b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231024T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:828cdf5a-c12c-4728-8019-51e868031f23@828c.org
+UID:e0269c66-5886-4e82-aff7-7f56bda5d981@e026.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231012T183000Z
+DTEND:20231026T183000Z
 LOCATION:ГУК А-721
-DTSTART:20231012T170000Z
+DTSTART:20231026T170000Z
 SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:4be17ce8-2a96-465c-8a2d-9299b892e22f@4be1.org
+UID:8c37cda1-25b5-40f5-ac61-c2acb9fd82f7@8c37.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231010T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231010T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:a240ee78-2f74-4a26-86bc-dccdcdc55e6d@a240.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
+DTEND:20230911T150000Z
 LOCATION:--каф.
-DTSTART:20230904T133000Z
+DTSTART:20230911T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:441ad539-4628-46f0-aada-bdf7437d6cd0@441a.org
+UID:91932eaa-9f2f-4b34-bd1f-7dd80c91999c@9193.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -425,30 +99,68 @@ DTEND:20231024T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231024T170000Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:1254ecf7-4169-4ae7-b22a-8b07ac13977d@1254.org
+UID:286f405a-567d-4054-a588-61feecca289d@286f.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231106T150000Z
+DTEND:20231002T150000Z
 LOCATION:--каф.
-DTSTART:20231106T133000Z
+DTSTART:20231002T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:84dfc58d-b36e-4b97-a95b-c2ab3b3e8eb5@84df.org
+UID:04003c1c-d828-4b01-a6c7-e43ec7328ddf@0400.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
+DTEND:20231114T183000Z
 LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
+DTSTART:20231114T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:753fc0d2-ec3a-4b62-8283-6351b2d9a690@753f.org
+UID:318a1276-ce21-49d4-9d64-54d5b1caac19@318a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
+DTEND:20231024T164500Z
 LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:973d2d7e-d23b-4536-a019-b1fc04a98248@973d.org
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:1e2639df-560a-4c08-b348-676ba75679ce@1e26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20230914T164500Z
+LOCATION:ГУК А-721
+DTSTART:20230914T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:4da04ac8-301a-48e9-b97d-af3b06e59839@4da0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231123T183000Z
+LOCATION:ГУК А-721
+DTSTART:20231123T170000Z
+SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
+UID:ab49bf07-e984-40ab-a2ed-8875ed34b2f5@ab49.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7f6c2834-c928-4d1c-a5cd-544b5c373f92@7f6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231214T164500Z
+LOCATION:ГУК А-721
+DTSTART:20231214T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:c56dff87-7579-4db5-81bd-35a86405da14@c56d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:be87b49d-0656-4951-b676-9eb33d304fda@be87.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Куприков Михаил Юрьевич
@@ -456,37 +168,66 @@ DTEND:20230907T183000Z
 LOCATION:ГУК А-721
 DTSTART:20230907T170000Z
 SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
-UID:97a9a53d-a065-42d1-bd3f-d3e48e7f2f3b@97a9.org
+UID:ad4f7d42-4c17-4981-950f-39efcbbf3486@ad4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5b86ad2f-306e-4c21-940d-6ab520e35ca5@5b86.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:de64ed08-8014-49c8-b6d5-09ddd0c67da9@de64.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:38a2cad5-9aeb-400e-be56-3caaed759a91@38a2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231010T164500Z
+DTEND:20231017T183000Z
 LOCATION:ГУК В-228
-DTSTART:20231010T151500Z
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:fc6fd288-2f33-4cf1-91bc-abd20d22d743@fc6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:7df32cc6-3fd0-418a-8ce8-92e771f3db86@7df3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e94007e2-37d4-4223-a995-e3f6fd7d95bf@e940.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:618f5056-050d-4541-b68c-eacea151ef5a@618f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231010T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231010T170000Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:e2d2aab2-2d87-490d-9e95-edee23c7b802@e2d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприков Михаил Юрьевич
-DTEND:20231019T164500Z
-LOCATION:ГУК А-721
-DTSTART:20231019T151500Z
-SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:7e45ab3d-d936-444e-ab34-d226508eea72@7e45.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5d90235b-2f3b-4b9f-a467-313c9aee881f@5d90.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:9d61c1dc-2682-4e76-83e2-cf11f8cc4694@9d61.org
+UID:a404fbb4-b72b-4b12-9e0b-850d5cc90c2f@a404.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Куприков Михаил Юрьевич
@@ -494,7 +235,99 @@ DTEND:20230907T164500Z
 LOCATION:ГУК А-721
 DTSTART:20230907T151500Z
 SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:3a452971-fd8e-48a2-b712-37a52ec48668@3a45.org
+UID:d992cba7-0b33-4576-ac25-5261586e2e5c@d992.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:43b1a4c5-c581-4aa8-b9cf-58e451cdbe42@43b1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:58161b3a-0c33-4e96-ba50-8ea6399c3f99@5816.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:50f9d745-cf49-4fd7-ac5c-9b57adf30483@50f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231005T164500Z
+LOCATION:ГУК А-721
+DTSTART:20231005T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:277381cb-273e-40b3-b667-d489cc07865d@2773.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231116T183000Z
+LOCATION:ГУК А-721
+DTSTART:20231116T170000Z
+SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
+UID:364796dd-e666-4ecd-9ad7-57b6d1f97542@3647.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231123T164500Z
+LOCATION:ГУК А-721
+DTSTART:20231123T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:33d97124-9e7e-4188-932b-1a13d1686c1b@33d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:da706aa1-1932-4482-8e44-fb396ed73423@da70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231116T164500Z
+LOCATION:ГУК А-721
+DTSTART:20231116T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:3d4d1d5c-e8ba-49a8-b1da-e596d86e1928@3d4d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7da25697-eeb3-4a3c-8dfe-c09e756e231d@7da2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231102T183000Z
+LOCATION:ГУК А-721
+DTSTART:20231102T170000Z
+SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
+UID:c85ea047-d0ee-47fc-ba14-fa40f5394731@c85e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:323add17-bdfd-4c58-9d8a-caf0079d9daa@323a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231019T164500Z
+LOCATION:ГУК А-721
+DTSTART:20231019T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:a7d519fc-5071-4473-8916-7be6309b5764@a7d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Куприков Михаил Юрьевич
@@ -502,6 +335,173 @@ DTEND:20231026T164500Z
 LOCATION:ГУК А-721
 DTSTART:20231026T151500Z
 SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
-UID:7108592f-26d5-4e80-9942-eea0960c618b@7108.org
+UID:b4590fc6-d486-4a44-bf98-f068a669bda1@b459.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231109T164500Z
+LOCATION:ГУК А-721
+DTSTART:20231109T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:fa554895-1e2c-4b44-a166-9cd5665f129b@fa55.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f84dcb09-2bad-4f6e-a07e-e1bf073b129b@f84d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:bf5f168e-c9c7-4fec-a2e3-ad959187200a@bf5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:2f5cf427-3984-4941-9b80-f06027d42ba7@2f5c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:10d240d0-4bb1-4d90-8594-fc1881900796@10d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231010T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:6fb93ef0-9058-4a03-9b06-212872af7348@6fb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231019T183000Z
+LOCATION:ГУК А-721
+DTSTART:20231019T170000Z
+SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
+UID:ce03d241-cc0f-43f8-8ad8-a498d417d997@ce03.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f0bdbda5-4d5b-4007-8131-d163c2b8cd45@f0bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:faa9e3d9-88b8-495e-811b-e8d8389d2746@faa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20230928T183000Z
+LOCATION:ГУК А-721
+DTSTART:20230928T170000Z
+SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
+UID:60845ae4-e3e0-4bcc-aef0-050f9c0cd582@6084.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0dd47d79-3614-461d-ade8-da10e3295fbd@0dd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231109T183000Z
+LOCATION:ГУК А-721
+DTSTART:20231109T170000Z
+SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
+UID:649c1f30-9b43-4e4e-a5c3-d08a48a68f01@649c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20230928T164500Z
+LOCATION:ГУК А-721
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:032b1b52-9085-4cb0-9a38-4a02cfb3f270@032b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:2c1f6403-a266-4762-b83e-1ca50c589ba3@2c1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:fa03129f-6979-471a-a8d3-60514656f97e@fa03.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:975ba38f-9d82-4ced-9541-fb88c33bdc80@975b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231130T164500Z
+LOCATION:ГУК А-721
+DTSTART:20231130T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:bd17c638-96ac-4b27-b0da-bfc47846e74b@bd17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231102T164500Z
+LOCATION:ГУК А-721
+DTSTART:20231102T151500Z
+SUMMARY:ЛК Твердотельное\, поверхностное и гибридное моделирование
+UID:590fc6a1-ec1b-4401-9ad0-77a05993889e@590f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20231012T183000Z
+LOCATION:ГУК А-721
+DTSTART:20231012T170000Z
+SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
+UID:83600404-05ff-41fb-9e45-0141b0c78089@8360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:98065718-7649-4b2e-af5e-ff026f2e361d@9806.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6bfb529f-07e7-40ad-99f1-d3ac71dc6534@6bfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприков Михаил Юрьевич
+DTEND:20230921T183000Z
+LOCATION:ГУК А-721
+DTSTART:20230921T170000Z
+SUMMARY:ПЗ Твердотельное\, поверхностное и гибридное моделирование
+UID:078b9f47-4b88-4b8e-af7c-c4cf9541f605@078b.org
 END:VEVENT
 END:VCALENDAR

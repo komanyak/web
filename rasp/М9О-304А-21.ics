@@ -3,11 +3,19 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231122T164500Z
+LOCATION:--каф.
+DTSTART:20231122T151500Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:91f69dd2-9b9f-45ab-8231-6d8c7710bc39@91f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
 DTEND:20231220T164500Z
 LOCATION:--каф.
 DTSTART:20231220T151500Z
 SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:1ef42086-15c6-4ddb-b04f-6ef587056008@1ef4.org
+UID:05ffeac2-33c9-4c5e-bf99-ab6396f831a4@05ff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
@@ -15,87 +23,7 @@ DTEND:20231108T150000Z
 LOCATION:--каф.
 DTSTART:20231108T133000Z
 SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:00c5ec1e-0746-4951-b1c2-f50826f30768@00c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231115T164500Z
-LOCATION:--каф.
-DTSTART:20231115T151500Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:1138d27b-79e5-4d89-8a06-3c81681f1e18@1138.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231129T164500Z
-LOCATION:--каф.
-DTSTART:20231129T151500Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:1922010d-cff1-4760-a4f5-d14f50489045@1922.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231122T150000Z
-LOCATION:--каф.
-DTSTART:20231122T133000Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:f07c1aec-a234-483b-b2ed-c22310fc5a41@f07c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231101T150000Z
-LOCATION:--каф.
-DTSTART:20231101T133000Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:910ada75-08e4-4532-a263-7f5af8006776@910a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231018T150000Z
-LOCATION:--каф.
-DTSTART:20231018T133000Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:0e4a2f4b-b0bf-487d-adaa-6db4d45d4a81@0e4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20230920T164500Z
-LOCATION:--каф.
-DTSTART:20230920T151500Z
-SUMMARY:ПЗ Механика деформируемого твёрдого тела
-UID:19a3dbb4-30a1-4bcd-b3fb-1fa60999b621@19a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231213T164500Z
-LOCATION:--каф.
-DTSTART:20231213T151500Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:2b918e41-6332-484b-b5dc-521d52658536@2b91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231227T164500Z
-LOCATION:--каф.
-DTSTART:20231227T151500Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:8b3d8ea3-fcd5-45fb-b2f4-ef93b8eaaf4a@8b3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20230920T150000Z
-LOCATION:--каф.
-DTSTART:20230920T133000Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:11050171-2f91-4984-960b-d1a82c4762bf@1105.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231129T150000Z
-LOCATION:--каф.
-DTSTART:20231129T133000Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:3be0f7d0-b588-43ce-bd2c-4891cd507081@3be0.org
+UID:1530d62c-056e-4159-b909-f0177fa74c62@1530.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
@@ -103,63 +31,23 @@ DTEND:20230906T164500Z
 LOCATION:--каф.
 DTSTART:20230906T151500Z
 SUMMARY:ПЗ Механика деформируемого твёрдого тела
-UID:9841e2f0-0f03-41cc-87d6-3c7f88325051@9841.org
+UID:cfc3f958-865e-4bb5-8b17-673f17d2b990@cfc3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20230906T150000Z
+DTEND:20231129T150000Z
 LOCATION:--каф.
-DTSTART:20230906T133000Z
+DTSTART:20231129T133000Z
 SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:8ca983bd-0fd3-4343-bee1-ec1dd70db87c@8ca9.org
+UID:f342132e-72eb-4d0d-90e3-7400c3bdd7f8@f342.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231220T150000Z
+DTEND:20230920T164500Z
 LOCATION:--каф.
-DTSTART:20231220T133000Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:518bfb01-1786-4d50-8137-aeec198e95df@518b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231227T150000Z
-LOCATION:--каф.
-DTSTART:20231227T133000Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:fb915d2e-ccfa-449e-aba0-01b19df0217a@fb91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231108T164500Z
-LOCATION:--каф.
-DTSTART:20231108T151500Z
+DTSTART:20230920T151500Z
 SUMMARY:ПЗ Механика деформируемого твёрдого тела
-UID:2636d808-c8ca-44f8-a584-bc1645a609f5@2636.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20230913T164500Z
-LOCATION:--каф.
-DTSTART:20230913T151500Z
-SUMMARY:ПЗ Механика деформируемого твёрдого тела
-UID:ece0603b-17bf-49b2-a02e-cbae89891950@ece0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231011T150000Z
-LOCATION:--каф.
-DTSTART:20231011T133000Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:20506a7b-220d-45ac-bef9-5bb61d772c46@2050.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231025T164500Z
-LOCATION:--каф.
-DTSTART:20231025T151500Z
-SUMMARY:ПЗ Механика деформируемого твёрдого тела
-UID:d1a1d4be-1607-4277-8afd-0ba91743ed85@d1a1.org
+UID:bb06d3db-01f5-490c-8c32-da400ea6e2f4@bb06.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
@@ -167,7 +55,7 @@ DTEND:20231213T150000Z
 LOCATION:--каф.
 DTSTART:20231213T133000Z
 SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:afe5f46e-3464-448c-a29a-53b7cdb89af1@afe5.org
+UID:7f3dd519-4923-4099-b7c7-107d74e49aa0@7f3d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
@@ -175,23 +63,15 @@ DTEND:20231101T164500Z
 LOCATION:--каф.
 DTSTART:20231101T151500Z
 SUMMARY:ПЗ Механика деформируемого твёрдого тела
-UID:09592fe9-5377-4891-ac94-9ec2c8f05d51@0959.org
+UID:9f00d5a3-2e12-419b-9ab4-3f607e0fca66@9f00.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231025T150000Z
+DTEND:20231101T150000Z
 LOCATION:--каф.
-DTSTART:20231025T133000Z
+DTSTART:20231101T133000Z
 SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:131d6b5f-201b-44ca-9fc0-28b2084bdedf@131d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231004T150000Z
-LOCATION:--каф.
-DTSTART:20231004T133000Z
-SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:7f1fecd5-3102-41c5-bfa8-ce1a2d942a3a@7f1f.org
+UID:3e049fcd-c19d-466d-9ef8-bfc53424bca5@3e04.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
@@ -199,23 +79,55 @@ DTEND:20231206T164500Z
 LOCATION:--каф.
 DTSTART:20231206T151500Z
 SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:a26dcace-46c1-473c-beae-9fc8544ae029@a26d.org
+UID:c4ee3103-749e-4735-89a2-f1ffa45cb09a@c4ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231018T164500Z
+DTEND:20230913T164500Z
 LOCATION:--каф.
-DTSTART:20231018T151500Z
+DTSTART:20230913T151500Z
 SUMMARY:ПЗ Механика деформируемого твёрдого тела
-UID:bf46bc23-1cf5-47bc-b7e7-c7fb317991d4@bf46.org
+UID:ed7d76df-5b6f-4b22-9bbc-fe5888c310e7@ed7d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231206T150000Z
+DTEND:20231108T164500Z
 LOCATION:--каф.
-DTSTART:20231206T133000Z
+DTSTART:20231108T151500Z
+SUMMARY:ПЗ Механика деформируемого твёрдого тела
+UID:a1fbf930-2af3-4b83-9ba0-7ed98da46e1c@a1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231213T164500Z
+LOCATION:--каф.
+DTSTART:20231213T151500Z
 SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:c98e4bdf-012c-44a6-b5c5-4976f5619ca4@c98e.org
+UID:895ccf03-0efe-40ae-badb-a1b0be909558@895c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231227T150000Z
+LOCATION:--каф.
+DTSTART:20231227T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:d6fedd8e-6304-4127-8531-f8987b383e2c@d6fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231004T150000Z
+LOCATION:--каф.
+DTSTART:20231004T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:4e833023-22eb-4017-8a0e-4e33d946a0ba@4e83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20230906T150000Z
+LOCATION:--каф.
+DTSTART:20230906T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:3bb821e4-0b09-4ad2-a10b-fb30715da53f@3bb8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
@@ -223,15 +135,31 @@ DTEND:20231004T164500Z
 LOCATION:--каф.
 DTSTART:20231004T151500Z
 SUMMARY:ПЗ Механика деформируемого твёрдого тела
-UID:28e79893-b364-4ada-8128-1311365edd83@28e7.org
+UID:42ab41a7-0ca1-420e-9de6-cd8216a1b175@42ab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20230913T150000Z
+DTEND:20231129T164500Z
 LOCATION:--каф.
-DTSTART:20230913T133000Z
+DTSTART:20231129T151500Z
 SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:30400dc8-25ec-4c23-b61f-9a0c56a2f7b5@3040.org
+UID:4d69e068-ae11-4394-a2f6-f559218d87e2@4d69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231018T150000Z
+LOCATION:--каф.
+DTSTART:20231018T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:fb9a2627-60b3-4a91-b446-763df7791b59@fb9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231018T164500Z
+LOCATION:--каф.
+DTSTART:20231018T151500Z
+SUMMARY:ПЗ Механика деформируемого твёрдого тела
+UID:09ece8c7-2efb-4006-83b9-7e9e8ae5402a@09ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
@@ -239,23 +167,31 @@ DTEND:20230927T150000Z
 LOCATION:--каф.
 DTSTART:20230927T133000Z
 SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:b7993604-b49a-4d62-9288-528b40b2c8ee@b799.org
+UID:ec92f829-3074-4448-ae61-54c6b03db4be@ec92.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231115T150000Z
+DTEND:20231115T164500Z
 LOCATION:--каф.
-DTSTART:20231115T133000Z
+DTSTART:20231115T151500Z
 SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:983c1eed-14ee-4a6e-af52-e579c34974ea@983c.org
+UID:69574959-d190-4e55-a8a8-e122b3bcf251@6957.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
-DTEND:20231122T164500Z
+DTEND:20231227T164500Z
 LOCATION:--каф.
-DTSTART:20231122T151500Z
+DTSTART:20231227T151500Z
 SUMMARY:ЛК Механика деформируемого твёрдого тела
-UID:a4bd4942-29d2-4ea1-9b91-a98489bb4918@a4bd.org
+UID:2f306025-b828-44e5-9490-98ec4a777619@2f30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231206T150000Z
+LOCATION:--каф.
+DTSTART:20231206T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:5d6eb839-e425-4ad3-9139-88a8d2c4c5b2@5d6e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
@@ -263,7 +199,23 @@ DTEND:20231011T164500Z
 LOCATION:--каф.
 DTSTART:20231011T151500Z
 SUMMARY:ПЗ Механика деформируемого твёрдого тела
-UID:ed355d70-316b-4250-97a2-dfcb953aec5c@ed35.org
+UID:9f6bffb0-e752-44c2-87c6-20bec79e6ee9@9f6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231115T150000Z
+LOCATION:--каф.
+DTSTART:20231115T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:52b9ffa7-10f9-45b0-b8e1-81b7f43e58f2@52b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231025T164500Z
+LOCATION:--каф.
+DTSTART:20231025T151500Z
+SUMMARY:ПЗ Механика деформируемого твёрдого тела
+UID:4590ce1a-7613-4497-92dd-2f2d873705da@4590.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Курдюмов Николай Николаевич
@@ -271,6 +223,54 @@ DTEND:20230927T164500Z
 LOCATION:--каф.
 DTSTART:20230927T151500Z
 SUMMARY:ПЗ Механика деформируемого твёрдого тела
-UID:4f45e237-7ef9-4657-821e-b831374a334e@4f45.org
+UID:c29bc18f-e0ed-479e-9f5e-9e9ada2dce5d@c29b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231122T150000Z
+LOCATION:--каф.
+DTSTART:20231122T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:683cce67-d370-404b-9c4f-a1b8037b332b@683c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20230913T150000Z
+LOCATION:--каф.
+DTSTART:20230913T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:45e178e4-a2c7-48b4-a848-e9aece33a4c4@45e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231025T150000Z
+LOCATION:--каф.
+DTSTART:20231025T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:7e8b45a7-9d2f-454a-b014-a95319f51663@7e8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231011T150000Z
+LOCATION:--каф.
+DTSTART:20231011T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:1ae74b39-83a1-400b-ba92-069346b4558c@1ae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20230920T150000Z
+LOCATION:--каф.
+DTSTART:20230920T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:afc9cff7-e78f-4113-b6af-962e7f0b3f24@afc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Курдюмов Николай Николаевич
+DTEND:20231220T150000Z
+LOCATION:--каф.
+DTSTART:20231220T133000Z
+SUMMARY:ЛК Механика деформируемого твёрдого тела
+UID:c3016f2d-9517-4792-bde3-ae77313e63a7@c301.org
 END:VEVENT
 END:VCALENDAR

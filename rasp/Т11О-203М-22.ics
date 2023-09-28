@@ -2,596 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231106T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231106T133000Z
-SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:624a5dab-5133-4a2b-8baa-f953df3e58e4@624a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231127T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231127T151500Z
-SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
-UID:d0df3c32-fbf8-41d9-b83c-b64c28ca5877@d0df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20231012T164500Z
-LOCATION:Орш. А-218
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:94df2c43-6f38-4d96-a6d7-9b727f935885@94df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231114T164500Z
-LOCATION:Орш. А-432
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:42ff4391-11a5-48eb-86b2-8dfb99469055@42ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231106T131500Z
-LOCATION:Орш. А-432
-DTSTART:20231106T114500Z
-SUMMARY:ЛР Обработка результатов научных исследований
-UID:ec5a93a5-2d09-46a3-b1a8-85af05d041c4@ec5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
-DTEND:20231016T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231016T133000Z
-SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
-UID:da3a328e-56cb-4705-b861-3088e837c4d2@da3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20231109T164500Z
-LOCATION:Орш. А-218
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:0b2a5455-7a24-41c6-92e2-e92c843e2a8a@0b2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231206T073000Z
-LOCATION:Орш. А-220
-DTSTART:20231206T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:059b2165-441f-4b15-977a-60331e79c501@059b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231009T131500Z
-LOCATION:Орш. А-432
-DTSTART:20231009T114500Z
-SUMMARY:ЛР Обработка результатов научных исследований
-UID:a43e52c3-1be3-4dfa-9084-748a5b6d7ebe@a43e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
-DTEND:20231127T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231127T133000Z
-SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
-UID:ad97d3a0-8970-451d-a69d-6351225866cd@ad97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231120T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231120T151500Z
-SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:808d5ee3-f0f8-4e70-b757-51e318b49618@808d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
-DTEND:20230904T150000Z
-LOCATION:Орш. А-220
-DTSTART:20230904T133000Z
-SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
-UID:b9ed98c2-af17-477c-a98c-e715b2e1d5d6@b9ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20230911T131500Z
-LOCATION:Орш. А-432
-DTSTART:20230911T114500Z
-SUMMARY:ЛР Обработка результатов научных исследований
-UID:6e636ea2-edbb-40cb-aae2-025922cb813c@6e63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20231012T150000Z
-LOCATION:Орш. А-218
-DTSTART:20231012T133000Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:f0b0eba6-69db-4234-8f42-6a5ec060668a@f0b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20230913T073000Z
-LOCATION:Орш. А-220
-DTSTART:20230913T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:27baef6b-bc92-43ca-81d7-29815dbac467@27ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231009T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231009T133000Z
-SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:e3f2f0bb-2741-43ad-84cb-a4789a673f3d@e3f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20230918T131500Z
-LOCATION:Орш. А-432
-DTSTART:20230918T114500Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:37dc03ef-670d-4d34-9599-3f55cec65910@37dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20231221T150000Z
-LOCATION:Орш. А-218
-DTSTART:20231221T133000Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:f0eb6bbf-07d6-4e8c-80b4-fdea6f80d1dd@f0eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
-DTEND:20231116T164500Z
-LOCATION:Орш. А-218
-DTSTART:20231116T151500Z
-SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:d2d532e4-f29d-4721-a100-ab0aa049e20c@d2d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231011T091500Z
-LOCATION:Орш. А-220
-DTSTART:20231011T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:09cd2cb2-a1f9-4706-8a0e-b174f91b723e@09cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231106T113000Z
-LOCATION:Орш. А-432
-DTSTART:20231106T100000Z
-SUMMARY:ЛР Обработка результатов научных исследований
-UID:a5f78f6e-e835-4318-93ff-d6dd7771a1e4@a5f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231128T150000Z
-LOCATION:Орш. А-432
-DTSTART:20231128T133000Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:0ef8fc47-2e6a-47bb-93b9-3671ba6a973f@0ef8.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20230926T164500Z
+DTEND:20231121T150000Z
 LOCATION:Орш. А-220
-DTSTART:20230926T151500Z
-SUMMARY:ЛК Специальные виды термической обработки
-UID:67be65b4-ec03-4357-89f0-69ae48d0cad3@67be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231108T073000Z
-LOCATION:Орш. А-220
-DTSTART:20231108T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:d30e850d-1e93-455b-84d9-c73206389061@d30e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231204T131500Z
-LOCATION:Орш. А-432
-DTSTART:20231204T114500Z
-SUMMARY:ЛР Обработка результатов научных исследований
-UID:d818ccc9-d02a-4969-8ccf-2c0432dfd33c@d818.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231011T073000Z
-LOCATION:Орш. А-220
-DTSTART:20231011T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:4f05d15e-1ba7-4f53-b337-619ca5e03574@4f05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231030T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
-UID:a394e49d-24fe-4dd2-a39a-0e537b8dfa59@a394.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20230919T164500Z
-LOCATION:Орш. А-432
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:4fc9b3a0-c824-48c9-bf8c-32a135415302@4fc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231017T150000Z
-LOCATION:Орш. А-432
-DTSTART:20231017T133000Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:e253e7e6-7953-4b7c-abbb-d43af5901e14@e253.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231120T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231120T133000Z
-SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:453d11a4-5dc0-4c6e-988c-1b31c7fe7eec@453d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231003T164500Z
-LOCATION:Орш. А-432
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:d874275b-e86c-4810-9320-7786b66caf00@d874.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231002T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
-UID:b17778e3-96f1-428b-8fc7-7336203e7e0f@b177.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231220T091500Z
-LOCATION:Орш. А-220
-DTSTART:20231220T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:5af46147-a19c-4011-910e-8996ddea2ef2@5af4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231018T073000Z
-LOCATION:Орш. А-220
-DTSTART:20231018T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:75204d89-a4f3-4714-9190-e32eed7ac381@7520.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20230904T113000Z
-LOCATION:Орш. А-432
-DTSTART:20230904T100000Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:8e659d1a-30a7-435a-b750-8bb3bb56d759@8e65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231122T091500Z
-LOCATION:Орш. А-220
-DTSTART:20231122T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:4c5a122f-5947-4559-a560-53e850ce1d4d@4c5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
-DTEND:20231130T164500Z
-LOCATION:Орш. А-218
-DTSTART:20231130T151500Z
-SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:3f011da2-4dae-45b7-aefe-8c6c185300b4@3f01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20231205T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231205T151500Z
+DTSTART:20231121T133000Z
 SUMMARY:ЛР Специальные виды термической обработки
-UID:ad80c40a-41ec-4876-9c9e-1f795af9f8af@ad80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231002T131500Z
-LOCATION:Орш. А-432
-DTSTART:20231002T114500Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:fc82578d-8161-4895-9b55-dc6275be6356@fc82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20230911T150000Z
-LOCATION:Орш. А-220
-DTSTART:20230911T133000Z
-SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:744f1de4-dc6e-48f3-9a42-24df491b88a9@744f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20230925T150000Z
-LOCATION:Орш. А-220
-DTSTART:20230925T133000Z
-SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:11c854b7-cfe5-43a2-9dd0-b37701502b52@11c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20230927T091500Z
-LOCATION:Орш. А-220
-DTSTART:20230927T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:e1c338f2-5a42-4af2-8308-b94ed2d48e9c@e1c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
-DTEND:20231214T164500Z
-LOCATION:Орш. А-218
-DTSTART:20231214T151500Z
-SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:4142c150-6c99-4ce0-abb5-930ed4f61ff4@4142.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20230926T150000Z
-LOCATION:Орш. А-220
-DTSTART:20230926T133000Z
-SUMMARY:ЛК Специальные виды термической обработки
-UID:71bd268f-9cfb-45f2-830a-99b3de64ba4c@71bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20230928T150000Z
-LOCATION:Орш. А-218
-DTSTART:20230928T133000Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:146f05d7-723b-4de4-a4ba-872e1cb8081c@146f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231211T131500Z
-LOCATION:Орш. А-432
-DTSTART:20231211T114500Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:0e9ce1e9-2823-4ccd-a403-16f627f1833c@0e9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20230905T164500Z
-LOCATION:Орш. А-432
-DTSTART:20230905T151500Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:d11587ca-4a6e-4309-847c-7768e61f2d28@d115.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20231010T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231010T151500Z
-SUMMARY:ПЗ Специальные виды термической обработки
-UID:2900eda9-04b5-4526-b8f0-88c9b6d370a3@2900.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20231026T150000Z
-LOCATION:Орш. А-218
-DTSTART:20231026T133000Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:61aed51e-0c39-4ad8-89f6-496578c5bf28@61ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20230906T091500Z
-LOCATION:Орш. А-220
-DTSTART:20230906T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:e3200792-89b2-4dc4-b2c8-4351153e0a19@e320.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20230914T150000Z
-LOCATION:Орш. А-218
-DTSTART:20230914T133000Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:4600189e-4aea-4a5e-b005-3adad066b7b6@4600.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231213T073000Z
-LOCATION:Орш. А-220
-DTSTART:20231213T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:28cb956b-b749-4846-9cf2-c826390b48d6@28cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231101T073000Z
-LOCATION:Орш. А-220
-DTSTART:20231101T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:96ed97b4-c747-4017-8dc2-28dc576db749@96ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20230914T164500Z
-LOCATION:Орш. А-218
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:2037276a-a12e-41f9-98dc-cfa6df6dc2ac@2037.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20230925T164500Z
-LOCATION:Орш. А-220
-DTSTART:20230925T151500Z
-SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:94c42e64-e06c-4925-a7f5-b2b07209a0a6@94c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20230904T131500Z
-LOCATION:Орш. А-432
-DTSTART:20230904T114500Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:fb9f6997-d49b-4c05-8a1f-73b902203dcd@fb9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231122T073000Z
-LOCATION:Орш. А-220
-DTSTART:20231122T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:55f7cd9b-2d11-48cb-a4ad-132ee3c8909c@55f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231009T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231009T151500Z
-SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:a91e7b92-fa67-4d87-8a41-d9aeaa15a0e8@a91e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231106T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231106T151500Z
-SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:3e0ad8e7-15d7-466c-b693-520788a30d8e@3e0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20231207T164500Z
-LOCATION:Орш. А-218
-DTSTART:20231207T151500Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:7981b298-2cdf-42c7-ac16-8a2a6a2421f1@7981.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231004T073000Z
-LOCATION:Орш. А-220
-DTSTART:20231004T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:8f7dc4dd-beb7-4070-8a1c-1442bc4be352@8f7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231023T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231023T151500Z
-SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:a50c2ffb-dfea-4350-a550-aabe74e8b81e@a50c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
-DTEND:20231102T164500Z
-LOCATION:Орш. А-218
-DTSTART:20231102T151500Z
-SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:de3b2d77-76da-425d-b340-d51372a0b8b2@de3b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
-DTEND:20230918T150000Z
-LOCATION:Орш. А-220
-DTSTART:20230918T133000Z
-SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
-UID:e0e0808c-ee95-4c3c-bb2b-2738db889f0a@e0e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20230920T091500Z
-LOCATION:Орш. А-220
-DTSTART:20230920T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:7b398cd5-9439-40ae-bcbc-d602e358e48a@7b39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231115T091500Z
-LOCATION:Орш. А-220
-DTSTART:20231115T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:dae4be92-33c0-4b03-a5ce-9a2dabeaac22@dae4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20230913T091500Z
-LOCATION:Орш. А-220
-DTSTART:20230913T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:b6215402-0380-4677-96f7-4f315b8c11a7@b621.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20230918T113000Z
-LOCATION:Орш. А-432
-DTSTART:20230918T100000Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:0701df75-ded2-4e60-8140-8e02739b12c1@0701.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231115T073000Z
-LOCATION:Орш. А-220
-DTSTART:20231115T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:d28f65ef-f76b-4877-a6fd-4bcc004e7385@d28f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20230918T164500Z
-LOCATION:Орш. А-220
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
-UID:b0f02767-3e82-4cf6-9cad-805f9bf0623d@b0f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20230906T073000Z
-LOCATION:Орш. А-220
-DTSTART:20230906T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:e9157c34-7ef2-4ea7-9d83-bc11bd733ad7@e915.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20230927T073000Z
-LOCATION:Орш. А-220
-DTSTART:20230927T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:523525b1-c747-4040-bd0a-25df45b6c029@5235.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231030T131500Z
-LOCATION:Орш. А-432
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:f003453d-050c-4c3d-83a4-46ab91b0d4c9@f003.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20231205T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231205T133000Z
-SUMMARY:ЛР Специальные виды термической обработки
-UID:0fa05ab3-08e9-479a-8ef8-982b4b20c1b6@0fa0.org
+UID:d6c77e1e-7c47-4d65-ae37-0b6fe31bae83@d6c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
@@ -599,223 +15,7 @@ DTEND:20231107T150000Z
 LOCATION:Орш. А-220
 DTSTART:20231107T133000Z
 SUMMARY:ПЗ Специальные виды термической обработки
-UID:a2d21082-f826-46d0-87dd-ada91118c438@a2d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231016T131500Z
-LOCATION:Орш. А-432
-DTSTART:20231016T114500Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:219108e1-c396-4a53-b60a-c251dd15e382@2191.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20231207T150000Z
-LOCATION:Орш. А-218
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:a0f27924-9bbb-46d5-9f2e-8ee23d6c9a9e@a0f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
-DTEND:20231030T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231030T133000Z
-SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
-UID:1e832eaa-97bf-478f-81a9-9166fea2f8e6@1e83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20231010T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231010T133000Z
-SUMMARY:ПЗ Специальные виды термической обработки
-UID:3fe34ba4-1313-47f0-ad14-96fe42117d92@3fe3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20231107T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Специальные виды термической обработки
-UID:c3ae3f5a-d8d5-47b1-86cb-0f1346e05b7e@c3ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
-DTEND:20231214T150000Z
-LOCATION:Орш. А-218
-DTSTART:20231214T133000Z
-SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:f47dbfab-cb18-41b6-b542-1d62c20423bb@f47d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231213T091500Z
-LOCATION:Орш. А-220
-DTSTART:20231213T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:38d81394-74aa-4ca9-9997-0041862f34b1@38d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231211T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231211T151500Z
-SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
-UID:0b924f42-aa95-4375-9029-7a789044c5d5@0b92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231114T150000Z
-LOCATION:Орш. А-432
-DTSTART:20231114T133000Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:fbdc546d-1938-47db-bcf6-a96a18c41537@fbdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231129T091500Z
-LOCATION:Орш. А-220
-DTSTART:20231129T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:6b8b992a-3fa7-43c8-8d1a-2d080936b256@6b8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231002T113000Z
-LOCATION:Орш. А-432
-DTSTART:20231002T100000Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:fdffbc9a-093f-4e91-8fcc-9a5e5c74ec11@fdff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231113T131500Z
-LOCATION:Орш. А-432
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:a2c41218-7814-4f3c-9b48-8003516e21ee@a2c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20231024T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231024T133000Z
-SUMMARY:ПЗ Специальные виды термической обработки
-UID:b6d72fff-2298-44dc-bd92-ffc8fae9fc9c@b6d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20230920T073000Z
-LOCATION:Орш. А-220
-DTSTART:20230920T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:0af0fbe3-4d4a-4d26-97c2-0d747b70bf22@0af0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20231123T150000Z
-LOCATION:Орш. А-218
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:9c975915-141b-4e7e-ba39-456e64a6ac74@9c97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20230928T164500Z
-LOCATION:Орш. А-218
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:b3c50046-7196-4ae3-9ebf-b3f783cf9688@b3c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231108T091500Z
-LOCATION:Орш. А-220
-DTSTART:20231108T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:21d99fc4-6e79-4572-aaa7-34164f5626d9@21d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20230905T150000Z
-LOCATION:Орш. А-432
-DTSTART:20230905T133000Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:30354d53-1646-409e-8cdc-8dd2cec6bd56@3035.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231101T091500Z
-LOCATION:Орш. А-220
-DTSTART:20231101T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:9a3ce035-a8d3-4301-b0aa-c5807e995802@9a3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20230912T150000Z
-LOCATION:Орш. А-220
-DTSTART:20230912T133000Z
-SUMMARY:ЛК Специальные виды термической обработки
-UID:cda2305d-6743-4acd-b389-b392e685ecd7@cda2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
-DTEND:20231002T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231002T133000Z
-SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
-UID:8041314c-8d6b-429a-aca0-b6b7985845e3@8041.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231113T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
-UID:c3f4232c-2e10-44a6-95d3-f4a1cf668e1e@c3f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
-DTEND:20231116T150000Z
-LOCATION:Орш. А-218
-DTSTART:20231116T133000Z
-SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:c018bc0c-5c9b-4265-9f1b-9a392b4bcaa6@c018.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
-DTEND:20231225T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231225T133000Z
-SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
-UID:bce15e8d-4cf8-4492-bb9c-d2e52916f8d7@bce1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231016T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
-UID:a7e57f74-a41e-4a5e-85d5-11ad62e78556@a7e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20230911T113000Z
-LOCATION:Орш. А-432
-DTSTART:20230911T100000Z
-SUMMARY:ЛР Обработка результатов научных исследований
-UID:69c27f5b-40ba-4db9-b557-7747b7b588fc@69c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20231121T164500Z
-LOCATION:Орш. А-220
-DTSTART:20231121T151500Z
-SUMMARY:ЛР Специальные виды термической обработки
-UID:43d6c3e2-aac1-449d-8ce9-4d4c57fdc16c@43d6.org
+UID:a6277878-68f4-4ea4-8be5-064eb748178e@a627.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
@@ -823,39 +23,15 @@ DTEND:20231113T150000Z
 LOCATION:Орш. А-220
 DTSTART:20231113T133000Z
 SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
-UID:0aba02c4-939e-4dda-9375-614c2f84e42a@0aba.org
+UID:0af0e46a-152f-454f-b13b-0f326ec19cc5@0af0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231129T073000Z
+DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
+DTEND:20230926T164500Z
 LOCATION:Орш. А-220
-DTSTART:20231129T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:03534960-2691-4ab0-af27-1dbf40f8aaf0@0353.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231127T113000Z
-LOCATION:Орш. А-432
-DTSTART:20231127T100000Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:504e68e7-9974-43d8-84a8-657afe3119bd@504e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
-DTEND:20231211T150000Z
-LOCATION:Орш. А-220
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
-UID:ea09008a-e6ea-461c-8b3f-b506c23be539@ea09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20230919T150000Z
-LOCATION:Орш. А-432
-DTSTART:20230919T133000Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:e276ca8d-260b-49ee-b1fd-bacbd55fd28f@e276.org
+DTSTART:20230926T151500Z
+SUMMARY:ЛК Специальные виды термической обработки
+UID:1579daa2-8f14-4285-a370-025d02ed9f9d@1579.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
@@ -863,103 +39,79 @@ DTEND:20231003T150000Z
 LOCATION:Орш. А-432
 DTSTART:20231003T133000Z
 SUMMARY:ЛК Обработка результатов научных исследований
-UID:bf7bd4bd-72c5-4569-8052-e23055c63936@bf7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231128T164500Z
-LOCATION:Орш. А-432
-DTSTART:20231128T151500Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:2738a04b-6260-486b-800f-cf14abddfa11@2738.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20230911T164500Z
-LOCATION:Орш. А-220
-DTSTART:20230911T151500Z
-SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:c1bb5380-595e-4199-96d6-5cf774e5d454@c1bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231225T113000Z
-LOCATION:Орш. А-432
-DTSTART:20231225T100000Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:1cfdc604-0e8e-4f2b-9df5-55570e09a166@1cfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231204T113000Z
-LOCATION:Орш. А-432
-DTSTART:20231204T100000Z
-SUMMARY:ЛР Обработка результатов научных исследований
-UID:4ba49229-1754-4ab7-b3d5-b9bab8cbbc12@4ba4.org
+UID:80ef60d0-e7f0-4328-8a61-ef54b443985b@80ef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231220T073000Z
+DTEND:20230906T091500Z
 LOCATION:Орш. А-220
-DTSTART:20231220T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:9b4a5286-6a76-4ba3-a484-51bb3e371321@9b4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231206T091500Z
-LOCATION:Орш. А-220
-DTSTART:20231206T074500Z
+DTSTART:20230906T074500Z
 SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:387f0604-4b1b-4de8-b551-444a1e24c95c@387f.org
+UID:772f12f1-ee2a-49e4-9fe9-4873b8d914ae@772f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20231024T164500Z
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231122T091500Z
 LOCATION:Орш. А-220
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Специальные виды термической обработки
-UID:3942024b-3445-4431-aa05-4e33afbf3c33@3942.org
+DTSTART:20231122T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:14ca1316-3ff0-46d1-8d06-9d8570ad4358@14ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231122T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231122T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:4931c21b-6643-482d-adbd-2d059967db0a@4931.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231101T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231101T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:f27663f8-7c36-4019-be15-7c62821524d6@f276.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20231221T164500Z
+DTEND:20231026T150000Z
 LOCATION:Орш. А-218
-DTSTART:20231221T151500Z
+DTSTART:20231026T133000Z
 SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:019d3034-7e6c-4d54-bcb0-3ee2bffc2c80@019d.org
+UID:08c0e8eb-038d-4cfb-8d3d-88c761e1eb80@08c0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231031T164500Z
-LOCATION:Орш. А-432
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:195481e5-13c0-4db2-9005-80a935bf89d0@1954.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20230904T164500Z
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231108T091500Z
 LOCATION:Орш. А-220
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
-UID:018a1535-6d7c-4097-9421-8bb3cb86f786@018a.org
+DTSTART:20231108T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:1a5cc6c5-d6ea-4504-8b7c-5beefd7c239d@1a5c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
-DTEND:20231130T150000Z
-LOCATION:Орш. А-218
-DTSTART:20231130T133000Z
-SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:4bca8fb3-0891-4f6f-b3bc-d743e18af795@4bca.org
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231011T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231011T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:f7999b52-82bf-46ce-8a0e-d16de842c761@f799.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231212T150000Z
+DTEND:20230904T131500Z
 LOCATION:Орш. А-432
-DTSTART:20231212T133000Z
+DTSTART:20230904T114500Z
 SUMMARY:ПЗ Обработка результатов научных исследований
-UID:9c753ad6-d4e9-4636-bed0-631f5880cae7@9c75.org
+UID:90b6474f-288d-4fca-90bf-2347e351e3b4@90b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20231012T164500Z
+LOCATION:Орш. А-218
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:d46d35c1-101e-4945-bb95-746acfe0a22b@d46d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
@@ -967,15 +119,71 @@ DTEND:20231018T091500Z
 LOCATION:Орш. А-220
 DTSTART:20231018T074500Z
 SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:050f71ef-292b-4317-b4f1-e2717265a0e4@050f.org
+UID:1f24c943-3bdf-4aa1-a9cc-c876af5aa733@1f24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231128T150000Z
+LOCATION:Орш. А-432
+DTSTART:20231128T133000Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:5c5abb1e-5de8-4550-924f-a603f6cf9f9c@5c5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231009T131500Z
+LOCATION:Орш. А-432
+DTSTART:20231009T114500Z
+SUMMARY:ЛР Обработка результатов научных исследований
+UID:54de5f00-6334-4d92-afc0-7774e9ac42a4@54de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
+DTEND:20231116T164500Z
+LOCATION:Орш. А-218
+DTSTART:20231116T151500Z
+SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:455aceea-1735-429a-8921-4ef2cd883b09@455a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
-DTEND:20231121T150000Z
+DTEND:20231024T150000Z
 LOCATION:Орш. А-220
-DTSTART:20231121T133000Z
+DTSTART:20231024T133000Z
+SUMMARY:ПЗ Специальные виды термической обработки
+UID:0ab6d746-cd57-464b-8e73-2cc9d296f1e5@0ab6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20230904T164500Z
+LOCATION:Орш. А-220
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
+UID:d28ed2b3-49dc-44c4-9d86-a356c8871c8d@d28e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
+DTEND:20231205T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231205T151500Z
 SUMMARY:ЛР Специальные виды термической обработки
-UID:e3acccc3-0df1-4051-876b-dbfd191cdf27@e3ac.org
+UID:729fb712-7a57-428e-890f-2fac8cce57b0@729f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231002T113000Z
+LOCATION:Орш. А-432
+DTSTART:20231002T100000Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:ea90bc99-f521-4c26-a32c-311de0b71d47@ea90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
+DTEND:20231024T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Специальные виды термической обработки
+UID:6035ef1b-50f2-4274-920b-eb35e7383c8b@6035.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
@@ -983,63 +191,87 @@ DTEND:20231026T164500Z
 LOCATION:Орш. А-218
 DTSTART:20231026T151500Z
 SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:8bd2bb55-1f0d-4e50-9846-135511cc4153@8bd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231113T113000Z
-LOCATION:Орш. А-432
-DTSTART:20231113T100000Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:0503fe47-db32-4190-a5db-afaed9220f2e@0503.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231212T164500Z
-LOCATION:Орш. А-432
-DTSTART:20231212T151500Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:5f23ff69-9a81-4522-b308-1d9c83511282@5f23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231030T113000Z
-LOCATION:Орш. А-432
-DTSTART:20231030T100000Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:44ec6130-02f6-4025-a01a-0ee0f9ea5c2c@44ec.org
+UID:acf74dbe-3e91-4225-98d4-daa5e6ada275@acf7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
-DTEND:20231225T164500Z
+DTEND:20230918T164500Z
 LOCATION:Орш. А-220
-DTSTART:20231225T151500Z
+DTSTART:20230918T151500Z
 SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
-UID:c600ea18-b3fd-4f21-8919-34a3f8dbce9e@c600.org
+UID:7360cb05-b5e1-4f9a-a2b2-bdd0543534dc@7360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231127T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231127T151500Z
+SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
+UID:2738b154-e296-4db2-bb31-c199681035ae@2738.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231009T113000Z
+DTEND:20231204T131500Z
 LOCATION:Орш. А-432
-DTSTART:20231009T100000Z
+DTSTART:20231204T114500Z
 SUMMARY:ЛР Обработка результатов научных исследований
-UID:c9e5a61e-fae0-47de-a956-4a712219f98a@c9e5.org
+UID:c78ba135-276d-437e-9177-f9b62236a995@c78b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231017T164500Z
+DTEND:20231113T131500Z
 LOCATION:Орш. А-432
-DTSTART:20231017T151500Z
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:fb57b146-1dfb-4c82-9f1a-4413aa55b8b4@fb57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231127T113000Z
+LOCATION:Орш. А-432
+DTSTART:20231127T100000Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:73b83912-19b9-4077-89ff-b9d31a7d35dd@73b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
+DTEND:20231214T164500Z
+LOCATION:Орш. А-218
+DTSTART:20231214T151500Z
+SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:db2d061d-4ed6-4c21-b36c-28f21cffb03d@db2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231211T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231211T151500Z
+SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
+UID:12393291-ee29-44da-af5b-bcc6bb2438e4@1239.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20230905T164500Z
+LOCATION:Орш. А-432
+DTSTART:20230905T151500Z
 SUMMARY:ЛК Обработка результатов научных исследований
-UID:00d915c0-506b-48f2-ac5e-3b2d6f48f3bc@00d9.org
+UID:fb6c4ee4-066b-4a3e-9ec0-f3529a6a6b5d@fb6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231106T150000Z
+LOCATION:Орш. А-220
+DTSTART:20231106T133000Z
+SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
+UID:f07a4de9-c4e0-4c7a-a342-403e316cd039@f07a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231025T073000Z
+DTEND:20231213T091500Z
 LOCATION:Орш. А-220
-DTSTART:20231025T060000Z
-SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
-UID:f09232cf-d2c4-477d-906f-c77a661b05f7@f092.org
+DTSTART:20231213T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:b89d92f4-ccd2-4432-b9c4-b642b1b12b0c@b89d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
@@ -1047,31 +279,15 @@ DTEND:20231211T113000Z
 LOCATION:Орш. А-432
 DTSTART:20231211T100000Z
 SUMMARY:ПЗ Обработка результатов научных исследований
-UID:e185c06c-7c58-417b-be2a-600923c74600@e185.org
+UID:0194ce22-94c5-45b5-9200-605e82635fbe@0194.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231031T150000Z
-LOCATION:Орш. А-432
-DTSTART:20231031T133000Z
-SUMMARY:ЛК Обработка результатов научных исследований
-UID:d42c8856-a325-442e-8a6d-dc5589324612@d42c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231004T091500Z
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231030T164500Z
 LOCATION:Орш. А-220
-DTSTART:20231004T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:4cb1a0a1-52e3-48d6-9cb7-0d27aa92d662@4cb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231225T131500Z
-LOCATION:Орш. А-432
-DTSTART:20231225T114500Z
-SUMMARY:ПЗ Обработка результатов научных исследований
-UID:28d96327-193f-498b-8e75-432bfea80962@28d9.org
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
+UID:02c8a453-33b7-4fef-a8f7-a1e8e895a7d3@02c8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
@@ -1079,23 +295,151 @@ DTEND:20231016T113000Z
 LOCATION:Орш. А-432
 DTSTART:20231016T100000Z
 SUMMARY:ПЗ Обработка результатов научных исследований
-UID:b1094ad9-2ca0-4119-8810-91857c187572@b109.org
+UID:5af35457-b04a-4b13-bc58-67b0a96ccda6@5af3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20231123T164500Z
-LOCATION:Орш. А-218
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:d8509bc5-68ae-4dc5-b61d-78c7fdd741ed@d850.org
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231101T091500Z
+LOCATION:Орш. А-220
+DTSTART:20231101T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:c85a0394-c62f-4ad1-b518-5808187cae44@c85a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231106T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231106T151500Z
+SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
+UID:24330e79-4a1c-44e9-820e-62f348ccad60@2433.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20230927T091500Z
+LOCATION:Орш. А-220
+DTSTART:20230927T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:088d7cd2-751e-4ef7-8db9-8309a46bb41a@088d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231004T091500Z
+LOCATION:Орш. А-220
+DTSTART:20231004T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:17e4558b-e2f1-461b-84ea-ad5c56f6e8ba@17e4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
-DTEND:20231127T131500Z
+DTEND:20231003T164500Z
 LOCATION:Орш. А-432
-DTSTART:20231127T114500Z
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:ca180c28-e4e4-4d90-9cec-23d93fa0c4e8@ca18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231017T150000Z
+LOCATION:Орш. А-432
+DTSTART:20231017T133000Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:682080ed-39f0-47f3-a4ac-dbdec329cb05@6820.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231212T164500Z
+LOCATION:Орш. А-432
+DTSTART:20231212T151500Z
 SUMMARY:ПЗ Обработка результатов научных исследований
-UID:4a3528f9-17d8-48ec-a76c-4f1dedfa54ac@4a35.org
+UID:2797e1a9-177f-474a-9344-e8f6b60d96d0@2797.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231009T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231009T151500Z
+SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
+UID:01ba053d-5758-4244-aae8-dadcd9398202@01ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20230919T164500Z
+LOCATION:Орш. А-432
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:879afdc1-acd6-42c2-b28d-dc895c1c7c26@879a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231212T150000Z
+LOCATION:Орш. А-432
+DTSTART:20231212T133000Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:bcb6b8ba-2957-4a24-9a23-f5e10e36d8a0@bcb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20230905T150000Z
+LOCATION:Орш. А-432
+DTSTART:20230905T133000Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:d6004767-03d3-43f8-adef-83b242c0f372@d600.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231129T091500Z
+LOCATION:Орш. А-220
+DTSTART:20231129T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:22c21f2e-6a27-46fa-a533-15eab6377cf8@22c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231011T091500Z
+LOCATION:Орш. А-220
+DTSTART:20231011T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:842046a5-1124-49c7-8d84-fc34013a078f@8420.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231113T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
+UID:7e1d2825-5a82-47ee-bdb4-3a312250a21d@7e1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
+DTEND:20231214T150000Z
+LOCATION:Орш. А-218
+DTSTART:20231214T133000Z
+SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:694bc8fb-78cf-47d5-99cd-831d841a772f@694b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231120T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231120T151500Z
+SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
+UID:d7475324-ddeb-4163-85bd-c6557d65dba1@d747.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231023T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231023T151500Z
+SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
+UID:b32b67f4-dfcc-4a36-8df1-c6fabdc29cb9@b32b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
+DTEND:20231211T150000Z
+LOCATION:Орш. А-220
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
+UID:e7738d1f-a2dc-4da9-a2db-0dd90ed57f5b@e773.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
@@ -1103,23 +447,15 @@ DTEND:20230912T164500Z
 LOCATION:Орш. А-220
 DTSTART:20230912T151500Z
 SUMMARY:ЛК Специальные виды термической обработки
-UID:c93b17c2-1bf1-4832-ac27-913ef6f97ada@c93b.org
+UID:1803ec86-bc3b-4d83-b15b-f0c1f69905e7@1803.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
-DTEND:20231109T150000Z
-LOCATION:Орш. А-218
-DTSTART:20231109T133000Z
-SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:20853d3b-92f6-497f-9992-7e86608ae154@2085.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
-DTEND:20231025T091500Z
+DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
+DTEND:20231127T150000Z
 LOCATION:Орш. А-220
-DTSTART:20231025T074500Z
-SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
-UID:e842ec3e-9e37-4cfa-a2e7-b0633d760998@e842.org
+DTSTART:20231127T133000Z
+SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
+UID:1d364c7b-f3a6-4297-a2c7-7faed1129391@1d36.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
@@ -1127,7 +463,471 @@ DTEND:20231023T150000Z
 LOCATION:Орш. А-220
 DTSTART:20231023T133000Z
 SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
-UID:27485414-7b1c-4738-908e-0fb1818a35ab@2748.org
+UID:309542ca-8e16-42cf-a431-25cfda4cf855@3095.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231108T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231108T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:cf1ba123-f9bc-49ce-86ad-3fb263e79efa@cf1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231030T113000Z
+LOCATION:Орш. А-432
+DTSTART:20231030T100000Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:2a11dd4a-8c4b-451b-a15b-579dfba76a43@2a11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20230911T131500Z
+LOCATION:Орш. А-432
+DTSTART:20230911T114500Z
+SUMMARY:ЛР Обработка результатов научных исследований
+UID:24d81b3a-2f32-4795-bfb5-0da3796de88d@24d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231025T091500Z
+LOCATION:Орш. А-220
+DTSTART:20231025T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:ed754a69-f21d-48ff-be29-f024793702e0@ed75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
+DTEND:20230918T150000Z
+LOCATION:Орш. А-220
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
+UID:d94d5d5d-fdeb-4ef8-80aa-75f70ae0962b@d94d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231025T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231025T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:6ffcb000-d322-4a7b-a723-40295f271ad1@6ffc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231127T131500Z
+LOCATION:Орш. А-432
+DTSTART:20231127T114500Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:13d22e75-b5e2-4e3a-a509-8cdf8a7c3b57@13d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
+DTEND:20231030T150000Z
+LOCATION:Орш. А-220
+DTSTART:20231030T133000Z
+SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
+UID:5bdb0062-3ae4-49ae-8b63-6c30ddd71c40@5bdb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231114T164500Z
+LOCATION:Орш. А-432
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:72a5ab1d-a799-4c19-a0a7-ac7d99e621c4@72a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231220T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231220T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:5fcf982d-232d-4d51-9afe-2487b195bdec@5fcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231031T164500Z
+LOCATION:Орш. А-432
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:1af731fa-48c4-465c-b054-76483e234fde@1af7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231113T113000Z
+LOCATION:Орш. А-432
+DTSTART:20231113T100000Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:36772d34-1027-4b75-94d4-e1ac9b9deccd@3677.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
+DTEND:20231130T164500Z
+LOCATION:Орш. А-218
+DTSTART:20231130T151500Z
+SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:d4550a33-e200-41f5-9249-54110b34cdf0@d455.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20230920T091500Z
+LOCATION:Орш. А-220
+DTSTART:20230920T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:f7c7b61d-acb3-49df-b6c3-450341020d2f@f7c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20231109T164500Z
+LOCATION:Орш. А-218
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:888fdf70-ccfd-418f-8bab-089886b32d64@888f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20230918T131500Z
+LOCATION:Орш. А-432
+DTSTART:20230918T114500Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:85807c67-2194-44c4-824e-e3c4c9eef82a@8580.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
+DTEND:20231102T164500Z
+LOCATION:Орш. А-218
+DTSTART:20231102T151500Z
+SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:37d679dd-d195-45fc-9f0a-2d816a4b6764@37d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231206T091500Z
+LOCATION:Орш. А-220
+DTSTART:20231206T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:99538f57-097a-4dc2-9efb-a047156795fb@9953.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20231221T164500Z
+LOCATION:Орш. А-218
+DTSTART:20231221T151500Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:a5f6abca-4524-4440-8b8b-840911a034ab@a5f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231129T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231129T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:839b990a-07ec-4a78-a651-dc74ee1fdae9@839b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
+DTEND:20230912T150000Z
+LOCATION:Орш. А-220
+DTSTART:20230912T133000Z
+SUMMARY:ЛК Специальные виды термической обработки
+UID:f95e3e04-640d-4cc2-a338-bbdc8ffb714b@f95e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20231221T150000Z
+LOCATION:Орш. А-218
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:dfa26663-e298-423d-84ab-eafe1fe6acb4@dfa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231106T131500Z
+LOCATION:Орш. А-432
+DTSTART:20231106T114500Z
+SUMMARY:ЛР Обработка результатов научных исследований
+UID:ae3fb670-6d72-41f6-b3f4-ea281465f895@ae3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231017T164500Z
+LOCATION:Орш. А-432
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:9fa4ca46-f8e9-4b62-9f09-7a4268b2c14b@9fa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20230919T150000Z
+LOCATION:Орш. А-432
+DTSTART:20230919T133000Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:afc071a3-a0c9-4247-b201-82e35097f56d@afc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231220T091500Z
+LOCATION:Орш. А-220
+DTSTART:20231220T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:7f38d982-e36b-41a5-b041-ce2dba56cf11@7f38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20230914T164500Z
+LOCATION:Орш. А-218
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:64cee016-43b1-4d51-a221-6f6e03db395a@64ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20231207T150000Z
+LOCATION:Орш. А-218
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:747ced95-6255-497e-a77f-de0d3fe6a254@747c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231225T131500Z
+LOCATION:Орш. А-432
+DTSTART:20231225T114500Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:3ba7af5b-a862-48f8-a437-e45efbf70424@3ba7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20230906T073000Z
+LOCATION:Орш. А-220
+DTSTART:20230906T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:3bc899f4-f7b8-4f32-a15f-e3ab05950fce@3bc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231016T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
+UID:73a5fa2b-fc96-4b93-b4b2-612b2eef7ed4@73a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231009T113000Z
+LOCATION:Орш. А-432
+DTSTART:20231009T100000Z
+SUMMARY:ЛР Обработка результатов научных исследований
+UID:bd289848-bb59-4e8e-8c02-6e6ad5c12665@bd28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231018T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231018T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:11359da6-af54-449c-b7e4-39fd86358082@1135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231115T091500Z
+LOCATION:Орш. А-220
+DTSTART:20231115T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:4b47e25a-1a0a-4497-88b2-73e0414424c0@4b47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231213T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231213T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:6c9b0f0c-889a-4858-9789-74132b0b105a@6c9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20231123T164500Z
+LOCATION:Орш. А-218
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:4c561c86-30c0-4978-9ada-a58284e09f58@4c56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20230913T073000Z
+LOCATION:Орш. А-220
+DTSTART:20230913T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:38bf2a20-0d87-48d0-8891-d31ca5f96315@38bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231115T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231115T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:df35a00e-6408-494d-9613-c908ce89e440@df35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231225T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231225T151500Z
+SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
+UID:44c8be99-800d-4fbe-a5d0-1a5cd6340f82@44c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20230925T150000Z
+LOCATION:Орш. А-220
+DTSTART:20230925T133000Z
+SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
+UID:b99d683e-8259-4d64-b8db-b5fa3de5f548@b99d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231128T164500Z
+LOCATION:Орш. А-432
+DTSTART:20231128T151500Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:4c14f059-bfb0-4c22-a8cf-8673c8313429@4c14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231031T150000Z
+LOCATION:Орш. А-432
+DTSTART:20231031T133000Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:62ba304c-fb89-4a5e-b4d1-d4a8b40c4cc8@62ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20230911T164500Z
+LOCATION:Орш. А-220
+DTSTART:20230911T151500Z
+SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
+UID:c3e9daf4-2a2a-44f5-8204-7829c43889e5@c3e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
+DTEND:20231010T150000Z
+LOCATION:Орш. А-220
+DTSTART:20231010T133000Z
+SUMMARY:ПЗ Специальные виды термической обработки
+UID:81da1a17-c372-4a36-a070-50fd6fafc832@81da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231106T113000Z
+LOCATION:Орш. А-432
+DTSTART:20231106T100000Z
+SUMMARY:ЛР Обработка результатов научных исследований
+UID:b34856e8-fbdf-4985-aa66-2079c95d0a13@b348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20230913T091500Z
+LOCATION:Орш. А-220
+DTSTART:20230913T074500Z
+SUMMARY:ПЗ Сертификация и маркетинг в области новых материалов и технологий
+UID:4b9dd430-6c7f-4c67-a579-a8b3f500acee@4b9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
+DTEND:20231107T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Специальные виды термической обработки
+UID:8be532b2-61c5-4ec8-8dbf-e024567a88bc@8be5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231114T150000Z
+LOCATION:Орш. А-432
+DTSTART:20231114T133000Z
+SUMMARY:ЛК Обработка результатов научных исследований
+UID:cb43a669-e72e-4678-978c-6ccdb2f5121d@cb43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
+DTEND:20231010T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Специальные виды термической обработки
+UID:c78e99e4-1d9b-47ff-83e0-f756196be561@c78e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
+DTEND:20230926T150000Z
+LOCATION:Орш. А-220
+DTSTART:20230926T133000Z
+SUMMARY:ЛК Специальные виды термической обработки
+UID:1212320b-fecb-4fa8-a033-188d4617b00a@1212.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231211T131500Z
+LOCATION:Орш. А-432
+DTSTART:20231211T114500Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:ecf478e8-fe58-40ca-991a-96fafc5b47a0@ecf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
+DTEND:20230904T150000Z
+LOCATION:Орш. А-220
+DTSTART:20230904T133000Z
+SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
+UID:8f848a35-e1e9-4975-8bd4-f4e85954a133@8f84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231204T113000Z
+LOCATION:Орш. А-432
+DTSTART:20231204T100000Z
+SUMMARY:ЛР Обработка результатов научных исследований
+UID:13b27728-229d-42ea-9dc8-296d738da23d@13b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
+DTEND:20231205T150000Z
+LOCATION:Орш. А-220
+DTSTART:20231205T133000Z
+SUMMARY:ЛР Специальные виды термической обработки
+UID:94b94654-9777-465b-b94e-dc5b470817fb@94b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231004T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231004T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:9fc401d3-68f4-453d-9415-e9a88f2528d2@9fc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231002T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Материаловедение и технологии современных и перспективных материалов
+UID:821beaa1-95d3-4299-a353-5f9fb9a4e910@821b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20231207T164500Z
+LOCATION:Орш. А-218
+DTSTART:20231207T151500Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:59495fe8-3db4-4d7b-9d0d-8bacabd17e9a@5949.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
+DTEND:20231116T150000Z
+LOCATION:Орш. А-218
+DTSTART:20231116T133000Z
+SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:91335f94-a92e-4ef7-8e84-d675d682fc53@9133.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
@@ -1135,6 +935,206 @@ DTEND:20231102T150000Z
 LOCATION:Орш. А-218
 DTSTART:20231102T133000Z
 SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
-UID:7d9b5caf-2563-4ceb-811d-e2804a36c4ff@7d9b.org
+UID:120e411f-1385-4cde-8c37-1a711300648f@120e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231002T131500Z
+LOCATION:Орш. А-432
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:00b0644a-f696-4b36-9a63-ed049793d858@00b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20231012T150000Z
+LOCATION:Орш. А-218
+DTSTART:20231012T133000Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:ef63d035-3865-45ce-be51-e712d12315b4@ef63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20230927T073000Z
+LOCATION:Орш. А-220
+DTSTART:20230927T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:69075331-5b4e-4f07-a1bb-a49fdb9b2428@6907.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20231206T073000Z
+LOCATION:Орш. А-220
+DTSTART:20231206T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:ac26c162-ec86-491c-b3ed-f600101fdf0c@ac26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
+DTEND:20231016T150000Z
+LOCATION:Орш. А-220
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
+UID:b429590c-01f2-4cf8-a534-2acc7cfb1b4c@b429.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20230928T164500Z
+LOCATION:Орш. А-218
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:46257e91-f248-4962-b646-4eecf741cd1d@4625.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20230918T113000Z
+LOCATION:Орш. А-432
+DTSTART:20230918T100000Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:1c6ae7d0-efab-4eee-a2b6-ee704986dfb7@1c6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20230911T150000Z
+LOCATION:Орш. А-220
+DTSTART:20230911T133000Z
+SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
+UID:fbedf8be-78ac-4e49-aa8d-1d007bf3a232@fbed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231016T131500Z
+LOCATION:Орш. А-432
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:8330792e-c2cd-48d4-9890-454a6a9644fd@8330.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20231109T150000Z
+LOCATION:Орш. А-218
+DTSTART:20231109T133000Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:225d8455-0dca-40d2-85f1-a30aff960daf@225d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20231123T150000Z
+LOCATION:Орш. А-218
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:558b51d9-a2ae-4428-9829-e9ec00b42f82@558b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20230904T113000Z
+LOCATION:Орш. А-432
+DTSTART:20230904T100000Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:a7ccd5ab-9a36-4846-8ee5-8523a841b1fb@a7cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
+DTEND:20231002T150000Z
+LOCATION:Орш. А-220
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
+UID:d8266b2f-e90b-4892-a389-1f33c7e80b46@d826.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МАМОНОВ АНДРЕЙ МИХАЙЛОВИЧ
+DTEND:20231121T164500Z
+LOCATION:Орш. А-220
+DTSTART:20231121T151500Z
+SUMMARY:ЛР Специальные виды термической обработки
+UID:0dc8a5b4-0517-46fc-a315-728fc8e028c7@0dc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231120T150000Z
+LOCATION:Орш. А-220
+DTSTART:20231120T133000Z
+SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
+UID:844fb343-1fd5-4150-8186-355b8c267ee3@844f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20230928T150000Z
+LOCATION:Орш. А-218
+DTSTART:20230928T133000Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:b52b3356-a592-4b08-821d-2e72cf4d7cd4@b52b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20230911T113000Z
+LOCATION:Орш. А-432
+DTSTART:20230911T100000Z
+SUMMARY:ЛР Обработка результатов научных исследований
+UID:c479fcfa-84cf-4e9f-b05c-b1be427f8273@c479.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231225T113000Z
+LOCATION:Орш. А-432
+DTSTART:20231225T100000Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:1d0c2945-d120-4dac-8bd2-b182c88de45d@1d0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СПЕКТОР ВИКТОР СЕМЕНОВИЧ
+DTEND:20230914T150000Z
+LOCATION:Орш. А-218
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:febd3c23-0ea0-435c-a2c2-fc356929c491@febd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КУСАКИНА ЮЛИЯ НИКОЛАЕВНА
+DTEND:20230920T073000Z
+LOCATION:Орш. А-220
+DTSTART:20230920T060000Z
+SUMMARY:ЛК Сертификация и маркетинг в области новых материалов и технологий
+UID:e66e9317-2969-4df7-90d2-70fe37dd0b99@e66e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КОЛЛЕРОВ МИХАИЛ ЮРЬЕВИЧ
+DTEND:20231225T150000Z
+LOCATION:Орш. А-220
+DTSTART:20231225T133000Z
+SUMMARY:ЛК Материаловедение и технологии современных и перспективных материалов
+UID:9dfdc107-384c-49c3-b151-9472445cebeb@9dfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20231009T150000Z
+LOCATION:Орш. А-220
+DTSTART:20231009T133000Z
+SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
+UID:6319d054-a98b-47cd-bbd2-ad626d9c59a4@6319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:РЕЗНИЧЕНКО ГЕННАДИЙ МИХАЙЛОВИЧ
+DTEND:20231030T131500Z
+LOCATION:Орш. А-432
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Обработка результатов научных исследований
+UID:1a028ee3-5489-4ce6-9d82-17d6bb248744@1a02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:САРЫЧЕВ СЕРГЕЙ МИХАЙЛОВИЧ
+DTEND:20231130T150000Z
+LOCATION:Орш. А-218
+DTSTART:20231130T133000Z
+SUMMARY:ЛР Изменение физико-химических свойств материалов модифицированием и нанесением покрытий
+UID:7f44666b-07bb-4266-84bf-3e2c4edbdf02@7f44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ИВАНОВ ДМИТРИЙ АЛЕКСЕЕВИЧ
+DTEND:20230925T164500Z
+LOCATION:Орш. А-220
+DTSTART:20230925T151500Z
+SUMMARY:ЛР Материаловедение и технологии современных и перспективных материалов
+UID:ac2c65b8-ea76-4ac5-83a7-376dfeced694@ac2c.org
 END:VEVENT
 END:VCALENDAR

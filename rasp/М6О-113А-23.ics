@@ -2,361 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231106T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:6b16597a-fa31-4c2d-be21-6f899e928315@6b16.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231025T113000Z
+DTEND:20231018T113000Z
 LOCATION:ГУК А-507а
-DTSTART:20231025T100000Z
+DTSTART:20231018T100000Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:a7c5125f-f01c-432d-8e26-35085f79729a@a7c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231113T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:88cfe5d2-4110-494d-a795-3cfee6e41f98@88cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T131500Z
-LOCATION:24-210.1
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:95a09670-1170-4b45-84a8-949aca578ebc@95a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231009T183000Z
-LOCATION:3-Зал А
-DTSTART:20231009T170000Z
-SUMMARY:ЛК История и философия науки
-UID:dd88847e-3195-49f5-98c6-f53d28c559be@dd88.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:24-210.1
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b1e9b31c-c5f1-4b7e-8cba-ec97219e7b1a@b1e9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:24-210.1
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b2674c45-e6e4-4b2a-b5ac-26ce10f383ec@b267.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T131500Z
-LOCATION:24-210.1
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b7ba8027-0baa-42c9-9258-e0d3720cecce@b7ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231206T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231206T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:c583cd1c-fb05-40fd-ba32-6c60ea358e55@c583.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T131500Z
-LOCATION:24-210.1
-DTSTART:20231002T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d3991c54-3460-4a4a-be15-b340c7381ed6@d399.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:24-210.1
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:937ef12e-e116-44a5-964f-0f9cdc61c5e2@937e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231115T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231115T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:64c43823-5be5-4166-91c6-59399a8c9b82@64c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T131500Z
-LOCATION:24-210.1
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6b902748-2c65-4f18-90f8-931d9fbddb2e@6b90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231225T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231225T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:60d7c3d2-f293-4a3a-8383-bee9721259f1@60d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20240124T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20240124T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:a3a3e219-b55a-4d1e-bd53-0b963d4bd68e@a3a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240122T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240122T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:d6d39c12-eb2f-463d-bdbd-b60651e9aad6@d6d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230911T183000Z
-LOCATION:3-Зал А
-DTSTART:20230911T170000Z
-SUMMARY:ЛК История и философия науки
-UID:02f357e7-465b-4782-8bce-c37217554863@02f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20240110T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20240110T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:78fc90fd-710c-46b6-8fc5-60fcc7ac446a@78fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231016T164500Z
-LOCATION:3-Зал А
-DTSTART:20231016T151500Z
-SUMMARY:ЛК История и философия науки
-UID:1bc5e324-ecf2-40fe-acdc-87bd521ea3c4@1bc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231204T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231204T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:335af897-0841-4c84-abf8-55dab5a50c63@335a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20230913T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20230913T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:8bc9debc-a0ba-40e8-acfa-b9c9488e722d@8bc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240115T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240115T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:653e83e5-72f2-4824-b5c3-32cdde0454d9@653e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230904T183000Z
-LOCATION:3-Зал А
-DTSTART:20230904T170000Z
-SUMMARY:ЛК История и философия науки
-UID:25736523-7694-49f0-a2d1-99766f3d5962@2573.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231206T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231206T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:f88e5529-3d77-4f9c-869c-10962004e338@f88e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231023T164500Z
-LOCATION:3-Зал А
-DTSTART:20231023T151500Z
-SUMMARY:ЛК История и философия науки
-UID:6bdd8ddf-9bd1-49ff-a075-dd75d8d04101@6bdd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T131500Z
-LOCATION:24-210.1
-DTSTART:20230904T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2281692f-e1d9-4679-baa2-4172f9aed35f@2281.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231227T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231227T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:098e9a7c-a4a7-47b4-9bd4-66654a0e7d92@098e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20230906T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230906T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:317c81ff-2ed1-4d2f-aa24-e2a73cee81d4@317c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230918T164500Z
-LOCATION:3-Зал А
-DTSTART:20230918T151500Z
-SUMMARY:ЛК История и философия науки
-UID:a738683b-5bc6-4775-bb9c-8b266a9e8d51@a738.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:24-210.1
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b4d554df-c6b6-4b9e-9a19-e70c0fc3b9c5@b4d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231122T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231122T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4b40a5b0-4e1e-40a4-ab64-2b5782e9ebcc@4b40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231002T164500Z
-LOCATION:3-Зал А
-DTSTART:20231002T151500Z
-SUMMARY:ЛК История и философия науки
-UID:30e61b31-32fc-453d-9619-f3077f143276@30e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231025T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231025T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:11e62c02-c0b4-48c1-b3d1-c789a6e5f0b9@11e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240108T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240108T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:19e938dc-75da-4b19-bf69-4a50a952293a@19e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231127T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231127T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:c3584638-73dd-4acc-baf6-cdcb307f6f48@c358.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20240124T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20240124T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:05d97ea9-59f7-48e9-b193-707382aef260@05d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240129T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240129T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:cff8e53c-bb96-40f9-aa3c-d257e3fa9a18@cff8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231115T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4756c0b4-08fb-4305-8a9a-aa16539d158a@4756.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T131500Z
-LOCATION:24-210.1
-DTSTART:20230918T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c73e70b1-06e5-495d-9422-4b9e7321540c@c73e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231120T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231120T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:9ea9a899-9be7-412c-994e-c390219f5805@9ea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231009T164500Z
-LOCATION:3-Зал А
-DTSTART:20231009T151500Z
-SUMMARY:ЛК История и философия науки
-UID:0cad89b3-cbe7-429e-87d0-3ef1698a8d8c@0cad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231122T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4252ea15-9480-4535-b148-043051823317@4252.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:24-210.1
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:42767727-93c3-458b-b84d-4a2cfaadb583@4276.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20230927T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230927T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:51974296-043d-47de-a273-fdf34436cad1@5197.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231211T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231211T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:3973c4dd-37ad-491c-864a-3c4a5cc14b34@3973.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230911T164500Z
-LOCATION:3-Зал А
-DTSTART:20230911T151500Z
-SUMMARY:ЛК История и философия науки
-UID:86e13e4f-efd4-4fbb-bb9d-cfac5a5010a6@86e1.org
+UID:842e1731-f51a-4d17-ae82-ff0865ba6772@842e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сусленникова Елена Эдуардовна
@@ -364,458 +15,7 @@ DTEND:20230920T131500Z
 LOCATION:ГУК А-507а
 DTSTART:20230920T114500Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:cba0f727-4b66-4927-a390-e32fc45ce38a@cba0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20240110T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20240110T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:59db4974-addc-4abf-8c9e-64d839408d5b@59db.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:24-210.1
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4f9f0e8a-d61c-4090-8f02-de49e1d3c3ea@4f9f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T131500Z
-LOCATION:24-210.1
-DTSTART:20231016T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ec5e2e92-6705-47cc-bb10-a01e334abd79@ec5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231108T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231108T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:343463be-24ba-436d-8936-1344c1bb9979@3434.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230925T164500Z
-LOCATION:3-Зал А
-DTSTART:20230925T151500Z
-SUMMARY:ЛК История и философия науки
-UID:1bf69dbe-7d34-4146-aa22-0dd9ac893e3b@1bf6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:24-210.1
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f2d80993-a751-4098-b71f-ef7e711e1070@f2d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231018T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231018T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:424e71fd-cb4f-4e0f-8e92-a7ba2d609282@424e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231018T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:a6ed8bcc-7395-44dc-8ea2-455d571095f6@a6ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231011T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231011T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:89db5dfa-cb67-4945-8207-61095f96ed08@89db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231127T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231127T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:3e41c5ef-736f-4126-b2ed-5600ded263a2@3e41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231101T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231101T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:20ad229e-3552-45d7-b8fd-f7d432e909b1@20ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231129T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231129T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:36be8891-dc1a-4ed9-8fdd-43794456c5e7@36be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20240117T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20240117T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:c911f917-acf1-4b41-8c1f-a4933bffcda6@c911.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231023T183000Z
-LOCATION:3-Зал А
-DTSTART:20231023T170000Z
-SUMMARY:ЛК История и философия науки
-UID:aba07123-73e6-4f09-84fd-015a87c22b41@aba0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231129T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231129T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:12beff09-3da5-4b68-9f8a-5a036b654675@12be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230918T183000Z
-LOCATION:3-Зал А
-DTSTART:20230918T170000Z
-SUMMARY:ЛК История и философия науки
-UID:f4762e93-afa4-4317-8280-719033476ace@f476.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T131500Z
-LOCATION:24-210.1
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a79f3033-682a-489d-90cb-df86d39de097@a79f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231225T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231225T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:8322b09b-246a-47ce-b3fa-78a2ec7988c5@8322.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231002T183000Z
-LOCATION:3-Зал А
-DTSTART:20231002T170000Z
-SUMMARY:ЛК История и философия науки
-UID:47f0667a-dff7-4c7c-9760-1e977aa7ff25@47f0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:24-210.1
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d393f20f-bf84-4b5d-8357-5f93e2f4a18a@d393.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231101T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231101T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:12a0cf27-2c05-4ada-b70b-8db03abf1eaf@12a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231120T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:70bb5e0a-3b16-49cf-87db-74d589e47cdc@70bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231004T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231004T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:b9336b32-6ab9-47bf-9c7a-3d4787dc7f43@b933.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231220T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231220T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:20456c57-b9f0-4031-a0df-f8db0e7c962c@2045.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20230927T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20230927T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:405d8247-b8d7-4aff-9f3b-d04219ce2b11@405d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231218T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231218T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:72940bde-ae90-4bac-81c2-45ae6c1d69b9@7294.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:24-210.1
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:275897b6-4d8c-4f57-a615-3d4a0303caf4@2758.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231106T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231106T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:62fdb9a2-04a6-44ed-8a17-0fc73ff560c7@62fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T131500Z
-LOCATION:24-210.1
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ba16e5fa-27c7-48c7-aee7-033b79c4ff75@ba16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231211T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231211T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:50b7bad9-d7e7-4d00-9c4a-263d7ea5a8e3@50b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20230920T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20230920T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:95e32a3e-3149-43a0-a125-3473e5eea43e@95e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231227T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231227T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:c07c72b4-2235-438f-b851-74a545e0b1a6@c07c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20240131T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20240131T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:49bb6ba8-dea8-4d0a-a6b4-76162a2b427e@49bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240129T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240129T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:05cd417f-a2ae-41ee-8788-438a32757a33@05cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231108T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231108T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:a5b5491f-7871-4149-98c7-b2ac05cb537c@a5b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231204T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231204T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:60844940-3c7f-4fe6-babb-68c4cfcc8317@6084.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230925T183000Z
-LOCATION:3-Зал А
-DTSTART:20230925T170000Z
-SUMMARY:ЛК История и философия науки
-UID:f85125c4-685f-4879-ab7a-b1f53dc93563@f851.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T131500Z
-LOCATION:24-210.1
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:59f88dc9-b3c8-4cfa-8748-83146dca5a35@59f8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:24-210.1
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7cd18998-8257-440a-a024-a582be98af81@7cd1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T131500Z
-LOCATION:24-210.1
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:0627ba6c-00fe-44f8-af9e-f20dac1bf09f@0627.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20230906T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20230906T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:eb95f3a4-a971-4fe1-930b-949d8588c899@eb95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20230913T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230913T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:1cb7c9d3-5d35-4d88-bf64-fef54503fa4f@1cb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231213T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231213T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:6e2d0cc3-a8a4-4cc8-bb76-ed33ab353c3c@6e2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231113T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231113T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:ab746461-b6b2-41b8-a531-8b61537a1f01@ab74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240108T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240108T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:c1163463-5bd1-4e28-96c0-d702e5d285ce@c116.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20240131T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20240131T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:0f5bf821-8622-4785-802a-e5f1cee468d5@0f5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231213T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231213T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:fbc14e27-4857-485f-a61c-2e6582ab91c1@fbc1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20240117T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20240117T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:1cc46f0e-db3a-4cce-8b4f-8209d256ba54@1cc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231016T183000Z
-LOCATION:3-Зал А
-DTSTART:20231016T170000Z
-SUMMARY:ЛК История и философия науки
-UID:49dc8a7a-d322-4095-9faf-274a3fd62e2d@49dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240122T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240122T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:57b241ec-0b4e-4d97-94ea-074ff9f82d3e@57b2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:24-210.1
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:753c53f4-aa0e-4908-9f8f-88dd09577387@753c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230904T164500Z
-LOCATION:3-Зал А
-DTSTART:20230904T151500Z
-SUMMARY:ЛК История и философия науки
-UID:9b47f477-0660-41e5-aa38-13ffb2a52e7b@9b47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231004T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231004T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:d693608b-b32c-4d68-a424-b7ff43a5de8f@d693.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231030T164500Z
-LOCATION:3-Зал А
-DTSTART:20231030T151500Z
-SUMMARY:ЛК История и философия науки
-UID:84fe847d-a9a3-4b98-974d-dc7529dc180a@84fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:24-210.1
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:23e1e47b-489b-4cb2-8070-f295a3014df4@23e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сусленникова Елена Эдуардовна
-DTEND:20231011T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231011T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:2c40967d-4e79-44fb-8f06-ed5b2593a52a@2c40.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T131500Z
-LOCATION:24-210.1
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d28db1ca-42fa-4a9b-8e80-0ebfca468200@d28d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240115T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240115T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:a9b0dc54-8427-43b2-be4c-16c2b6d81562@a9b0.org
+UID:5c16bb5e-7724-4080-bf39-12492b750c4b@5c16.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сусленникова Елена Эдуардовна
@@ -823,7 +23,466 @@ DTEND:20231220T113000Z
 LOCATION:ГУК А-507а
 DTSTART:20231220T100000Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:ce87a7f8-d010-4770-834d-470f37f73fd0@ce87.org
+UID:2f45b77b-f963-4e88-a045-ff2e6e5cbcaa@2f45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231220T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:bf199951-5b48-4294-a034-e742a4c4a7e4@bf19.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T131500Z
+LOCATION:24-210.1
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5e572902-1246-4e21-b5fb-b4bb9bb5bb51@5e57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240129T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240129T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:8f9c04af-21b5-424e-8ff2-c19d2fecbf06@8f9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231011T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231011T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:b983fe67-0fa9-4d9c-a185-4f4b4e2469dd@b983.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231225T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231225T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:19a00c8d-8510-4821-9702-7813156769ff@19a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:24-210.1
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3d036475-c41c-4160-b5ed-faad6581aaa3@3d03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231204T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231204T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:6c6d86dd-477b-4ebd-9976-b677d0d4f196@6c6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231009T164500Z
+LOCATION:3-Зал А
+DTSTART:20231009T151500Z
+SUMMARY:ЛК История и философия науки
+UID:92349535-3b4c-4a59-b3c2-eab53477e1bc@9234.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231227T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231227T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:94944560-d706-49bf-a32b-1ae994d86299@9494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231018T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:c40fe8f7-6be8-4b3c-9f0e-3b1ef9c7ff49@c40f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:24-210.1
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1063de7d-b807-43c9-bc2b-ff5998b09c06@1063.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T131500Z
+LOCATION:24-210.1
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7c2c2cbe-de08-4415-a34e-0e6dc95d3f99@7c2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231120T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231120T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:5d83a5d8-88ee-43a2-bbc7-061c120fac72@5d83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240108T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240108T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:904a6386-c056-44c3-ad30-4f0bf9e61987@904a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240122T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240122T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:e8fc1576-d4f4-4b8c-afef-1e366cebc832@e8fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20230927T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20230927T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:a718a63c-b7bf-4d9c-9e3b-5fd3e5b332b2@a718.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231204T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231204T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:df59be64-e5c8-4107-80ee-1a3dcf3d9d00@df59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231106T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:57d795f6-a2be-4188-a27e-29c1bcfdb3d6@57d7.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T131500Z
+LOCATION:24-210.1
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:67455534-c8eb-4caf-b6ce-79a74d7261bf@6745.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240115T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240115T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:6c3c1cd6-a0ef-48d7-a653-6a71abe46972@6c3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231011T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231011T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:6074b53c-06d8-4b5f-8589-edc7b475625d@6074.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20240124T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20240124T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:e5692a7a-aa54-484a-9580-2f852fb2da74@e569.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20240110T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20240110T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:07db01ff-266c-4276-8554-8c6f6440aa42@07db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20230906T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20230906T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:7ac166d5-5d97-4958-ad5e-00b0abfc4692@7ac1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230918T164500Z
+LOCATION:3-Зал А
+DTSTART:20230918T151500Z
+SUMMARY:ЛК История и философия науки
+UID:69fd9e85-c04b-4428-b1c7-b54978d971df@69fd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:24-210.1
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e44673b7-3904-408e-b886-6ed677028ff1@e446.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240115T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240115T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:0b2022cc-e05b-4619-8c9b-8e8b91edfb02@0b20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20230913T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20230913T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2128aadc-23f2-46dc-81c7-16bd69746798@2128.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230925T164500Z
+LOCATION:3-Зал А
+DTSTART:20230925T151500Z
+SUMMARY:ЛК История и философия науки
+UID:25c4ba39-6f68-4b8a-a3b5-8a703d034dce@25c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231101T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231101T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:90d7118a-6662-4af1-9793-757697a1a111@90d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20240131T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20240131T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:040227bd-0c1c-4646-98f8-91c38f2d4e26@0402.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T131500Z
+LOCATION:24-210.1
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:47291502-cacc-4c55-b5a1-bc7082f01c2f@4729.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231120T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:a68f07fd-86f8-49c7-b49b-f3fbf25c4850@a68f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:24-210.1
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:edb7cdbb-37db-4570-87b5-df9b5482194e@edb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231023T164500Z
+LOCATION:3-Зал А
+DTSTART:20231023T151500Z
+SUMMARY:ЛК История и философия науки
+UID:6256fd36-94e4-4f35-8b5c-d56c32c93a93@6256.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231023T183000Z
+LOCATION:3-Зал А
+DTSTART:20231023T170000Z
+SUMMARY:ЛК История и философия науки
+UID:86d17b9c-c701-464d-b5ec-111c38161097@86d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231227T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231227T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:b94c0a1c-2819-45d6-b8ea-6666b41251d3@b94c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230904T183000Z
+LOCATION:3-Зал А
+DTSTART:20230904T170000Z
+SUMMARY:ЛК История и философия науки
+UID:f414f190-8e4b-4c8d-abbf-1df5bec72a4a@f414.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231113T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:07d70571-ac95-4da3-a6dd-5b35fbe53f22@07d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231108T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231108T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:c875825b-56b5-47fe-99fc-88c71f81502d@c875.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231002T183000Z
+LOCATION:3-Зал А
+DTSTART:20231002T170000Z
+SUMMARY:ЛК История и философия науки
+UID:b3e73fe9-7a3b-4f5d-8943-55dd82c44b56@b3e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231206T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f40b0f24-03e6-495f-91f4-1938659ed218@f40b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230925T183000Z
+LOCATION:3-Зал А
+DTSTART:20230925T170000Z
+SUMMARY:ЛК История и философия науки
+UID:fe684860-b85a-467f-8bc6-54887beb2f80@fe68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231127T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231127T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:dfc95e38-0ab0-4ac5-9528-a6e2d132fdcb@dfc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231127T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231127T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:6c68cd28-f04d-4ac1-bc32-02b305ad82c1@6c68.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231213T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231213T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2593630c-d3dd-4f0a-9288-db1df095f293@2593.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:24-210.1
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:bf934aae-11c9-44e4-a3ee-2547aa2529db@bf93.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:24-210.1
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9a8b143d-31cb-4952-8a68-361743f2ec79@9a8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231122T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:7ce07ced-8018-4f80-89d3-68b9bf44b7b5@7ce0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T131500Z
+LOCATION:24-210.1
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:157f62b2-f5c9-4801-9245-197aff7a2aea@157f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231030T164500Z
+LOCATION:3-Зал А
+DTSTART:20231030T151500Z
+SUMMARY:ЛК История и философия науки
+UID:91dbc040-80de-4f44-aae5-825df5edc335@91db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231101T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231101T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2c17a4dd-f32f-439e-b801-00bdd4acc697@2c17.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:24-210.1
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3c40beaf-f474-4b7d-a6e4-2e6731de594b@3c40.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:24-210.1
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5b9f28a4-26a1-429f-b5a3-4404f61622bb@5b9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20240124T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20240124T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:b8df26ef-bab7-4816-a74b-86009d6bc3fe@b8df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231016T183000Z
+LOCATION:3-Зал А
+DTSTART:20231016T170000Z
+SUMMARY:ЛК История и философия науки
+UID:6c0123d4-5a42-4cf5-aba5-23d1caf1e6d8@6c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240129T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240129T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:5c4ac5e3-9ce8-4bd9-8960-0412619840e4@5c4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231211T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231211T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:8f187580-fc69-496b-89cb-c1905353165b@8f18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231129T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231129T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:98be7f66-9422-4827-8835-abce7e4bf250@98be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
@@ -831,7 +490,15 @@ DTEND:20231218T164500Z
 LOCATION:ГУК А-512
 DTSTART:20231218T151500Z
 SUMMARY:ПЗ История и философия науки
-UID:91331033-f90e-41a7-96a6-05477c0aee56@9133.org
+UID:4cafe924-f7d9-401f-9f70-92ec4a212688@4caf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231106T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231106T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:af669d89-5b29-4c10-b942-eeb5047ceae5@af66.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
@@ -839,13 +506,346 @@ DTEND:20231030T183000Z
 LOCATION:3-Зал А
 DTSTART:20231030T170000Z
 SUMMARY:ЛК История и философия науки
-UID:57e3f269-976f-41b1-b6d9-cd1213ba8d7d@57e3.org
+UID:0e7b92c4-e41e-4217-b8c8-e4e41c4f9aa6@0e7b.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230918T150000Z
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20230927T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230927T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:4dc54626-c0e4-48bf-a7b9-0bf0df40c85d@4dc5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T131500Z
 LOCATION:24-210.1
-DTSTART:20230918T133000Z
+DTSTART:20230918T114500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:63d6e7c5-fc9a-4f1d-af16-1562331ea125@63d6.org
+UID:2875fbd4-bc3f-4f67-972c-6ae15dc0ce2b@2875.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:24-210.1
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e1c4408f-03ab-4eab-859c-a671b61480be@e1c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T131500Z
+LOCATION:24-210.1
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e8331159-07a1-4f6f-92ee-5ab35c7bc368@e833.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231004T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231004T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:cc812813-a8b9-4615-bc5a-3239dee75898@cc81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20230913T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:c64f6ee5-9b8f-4a8a-9385-bf69a89154cc@c64f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:24-210.1
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ee6b308e-32ec-4d00-a1f2-89c1c9b66351@ee6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231211T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231211T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:82451465-f10a-45bb-a987-7fc759c0c004@8245.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T131500Z
+LOCATION:24-210.1
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:31950b92-de36-41dd-9c8d-240306a28eb9@3195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231025T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:c10733c3-b636-43f9-8616-bfc42118fe54@c107.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231009T183000Z
+LOCATION:3-Зал А
+DTSTART:20231009T170000Z
+SUMMARY:ЛК История и философия науки
+UID:126254c2-140c-4f19-92f0-8331cdafd027@1262.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20240110T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20240110T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:1e7b25ae-cee7-4870-bb0e-8504b78f11bd@1e7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231115T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:4b82b42c-f9a7-4549-8511-d2e899865b51@4b82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231002T164500Z
+LOCATION:3-Зал А
+DTSTART:20231002T151500Z
+SUMMARY:ЛК История и философия науки
+UID:4ef343eb-ba76-4cb1-a77f-dd6a0618b260@4ef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231129T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:a6f28786-3ca9-4dbf-8f01-544a6b802ae8@a6f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231225T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231225T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:9635ebc0-0bbe-4b99-bc5f-2dc38df46127@9635.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230918T183000Z
+LOCATION:3-Зал А
+DTSTART:20230918T170000Z
+SUMMARY:ЛК История и философия науки
+UID:deb55c98-13b8-4142-a67c-5ea219b4d4a0@deb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20230920T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20230920T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2709c544-2e38-4e63-a4a4-e5d43ebb58c3@2709.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230911T164500Z
+LOCATION:3-Зал А
+DTSTART:20230911T151500Z
+SUMMARY:ЛК История и философия науки
+UID:3423e20c-5f3e-43e3-8688-12412b839864@3423.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T131500Z
+LOCATION:24-210.1
+DTSTART:20230904T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:eca66246-3eb7-462f-aabb-a82f1a9035fd@eca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231025T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231025T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:75d62760-bc46-43bb-b8dc-602d0160efc5@75d6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:24-210.1
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5305061e-c120-4325-9f24-a2db2b186d08@5305.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20240117T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20240117T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:4e058da4-8d8a-4c61-99e6-762da52aab3a@4e05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231016T164500Z
+LOCATION:3-Зал А
+DTSTART:20231016T151500Z
+SUMMARY:ЛК История и философия науки
+UID:3d7d894b-1aff-4392-9eac-ced98299b770@3d7d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:24-210.1
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:80c2c40d-a556-43d2-9798-94c4279d7078@80c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230904T164500Z
+LOCATION:3-Зал А
+DTSTART:20230904T151500Z
+SUMMARY:ЛК История и философия науки
+UID:2b01cc75-fa1a-4d75-b0a1-b95686ec5eba@2b01.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T131500Z
+LOCATION:24-210.1
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:4e15bfc9-b2b3-4050-b378-8cbbb48cf351@4e15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231115T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231115T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:8ac64431-bcea-453f-83c1-d8f868907d2f@8ac6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230911T183000Z
+LOCATION:3-Зал А
+DTSTART:20230911T170000Z
+SUMMARY:ЛК История и философия науки
+UID:157ce1c2-021f-40e9-9d88-71109279ddfc@157c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231113T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231113T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:788e7283-a173-4634-a8cd-cdcf3044363b@788e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231206T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231206T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:581841b9-e196-44fb-9efb-4bc007cfe0b7@5818.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231004T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231004T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:fee02dd7-f5b6-4e7c-b7c6-030f3cfa882d@fee0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231108T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2185c951-111c-4d4f-ab35-35faf2d45197@2185.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231218T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231218T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:e3e90500-40ab-432f-a4b7-5520babf11aa@e3e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240108T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240108T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:607f054f-e688-4b5a-ad5b-d1f1c240ec1e@607f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:24-210.1
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:402b01a8-ecc4-4abb-9d4d-0c94e894e2ba@402b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20230906T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230906T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:8004cef2-f78b-4cbc-b9c2-2b699fd9cd43@8004.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231213T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:6644ce81-1b36-4b2d-b739-c877e3d96b78@6644.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20240131T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20240131T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:00820f79-eb0f-4594-854d-3c6e4ede4e84@0082.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20240117T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20240117T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:82cb8510-a76a-4b62-8b68-b61634add5bf@82cb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T131500Z
+LOCATION:24-210.1
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d3e46f09-606d-4492-9636-6beb09e349c8@d3e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240122T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240122T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:0770437f-d7d7-4a2b-929e-cbb58fc8fbc6@0770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сусленникова Елена Эдуардовна
+DTEND:20231122T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231122T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:d8f0e9d4-a5c7-427e-944d-da47eb304ed0@d8f0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T131500Z
+LOCATION:24-210.1
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:94b64261-ef75-4648-b728-a7c7849176a6@94b6.org
 END:VEVENT
 END:VCALENDAR

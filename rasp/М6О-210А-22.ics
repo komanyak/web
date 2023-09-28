@@ -2,65 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20230907T164500Z
-LOCATION:24-208
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:c4451398-a2bf-401d-a172-d58e5f0947c7@c445.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
+DTEND:20231023T164500Z
 LOCATION:--каф.
-DTSTART:20231030T133000Z
+DTSTART:20231023T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e672f8d5-3ef4-4fa8-b123-3e7037d32be1@e672.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231207T150000Z
-LOCATION:24-208
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:24af35fa-95ef-4686-b30d-42e8904dc62b@24af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231219T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231219T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:3e2e6a0d-ed59-4697-9673-c64c8ceb774e@3e2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:92e845c0-cbe6-4e44-8ab8-169c78a47bc4@92e8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:61d5b6d5-e0b9-4588-a582-0b11ab029a0b@61d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e737ecba-0340-4138-a609-4ff52de76d37@e737.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20230921T150000Z
-LOCATION:24-208
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:4d7245a0-2d2e-4ff1-b4f9-c44f8a214e38@4d72.org
+UID:24b30e66-7df7-470a-a176-5b48a57e2872@24b3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родченко Владимир Викторович
@@ -68,303 +14,29 @@ DTEND:20231102T150000Z
 LOCATION:24-208
 DTSTART:20231102T133000Z
 SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:d7787ebb-7a0b-4f0c-a7e0-1abb4d529445@d778.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c9bededb-5c40-4cba-a655-06c33c12e6da@c9be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:caa6cf75-1eea-448a-8575-219e56b088a5@caa6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2e5fb10d-18de-4858-92bc-d9ebfecd9a6b@2e5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231026T164500Z
-LOCATION:24-208
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:7fa44dcf-90a2-4ca5-8774-9fc13d8a566f@7fa4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7d65fe7d-372b-4482-bbcf-a8c2d8fb52de@7d65.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d36a2fba-7556-4c7f-9e41-533c340a78b0@d36a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231205T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:b8b1ce42-bcfe-4d1f-b451-e49654c9c10b@b8b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231123T150000Z
-LOCATION:24-208
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:e6b634ce-f02e-42f8-bd61-8be3b56d9691@e6b6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:44dc2025-a84a-44b0-949a-617cecc81fc5@44dc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1d82214e-87f2-4295-bef2-4ff4c83df207@1d82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231109T150000Z
-LOCATION:24-208
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:9ee127dc-4e6f-4adf-bbb4-2ce98e933f41@9ee1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231116T150000Z
-LOCATION:24-208
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:39865d66-6319-4c57-a706-5c7002d17ce0@3986.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f946a42c-0b41-4f53-b0a7-72493275bc8b@f946.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231102T164500Z
-LOCATION:24-208
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:6936f56d-e09a-408e-8a37-8594f482f5d7@6936.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:5b271689-173a-45f3-9a9e-1c2037bc2133@5b27.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d0b97427-cd92-4d40-bcbd-89ac6d7ffbc4@d0b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:d0311b44-b217-44e1-8b9b-1cd1aa490ab1@d031.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231109T164500Z
-LOCATION:24-208
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:71c95ee3-470c-4773-919d-b4ad1178a175@71c9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:35eac390-8c53-4765-9854-f26a06003ed3@35ea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7c049d3c-0381-4e94-967d-a4a05d7e3e58@7c04.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:42c3da5f-8d40-46e8-8ff3-5bf83b454edf@42c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231005T164500Z
-LOCATION:24-208
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:704ec059-6c25-4428-ac4d-8764ac49d6d6@704e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:2cb2622d-ed97-4c31-933a-fa4935ce1624@2cb2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:896ea781-5450-44f6-b815-18dc5f8c4d49@896e.org
+UID:20189111-dc92-41b3-baed-79e83faf107e@2018.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230904T164500Z
 LOCATION:--каф.
 DTSTART:20230904T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3f3da3dd-ba45-4c0e-974e-0daa48dba1b9@3f3d.org
+UID:472d45a8-f620-4bbd-a8ec-abea073a07dc@472d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:445b2e0b-c2a7-4d13-a58d-95710efe8099@445b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231005T150000Z
-LOCATION:24-208
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:00cde83c-f842-433f-b545-bc5144564713@00cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231019T150000Z
-LOCATION:24-208
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:64a96098-e92c-4d16-8f07-7c1888917323@64a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20230914T150000Z
-LOCATION:24-208
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:9bc93f53-16e3-4d6c-be6c-7b3274012d66@9bc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
+DTEND:20230925T150000Z
 LOCATION:--каф.
-DTSTART:20231016T133000Z
+DTSTART:20230925T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8f934a56-4f5b-466f-87b9-a47bb5a89145@8f93.org
+UID:ab8e7c47-b782-4cac-ab3d-ad16e9baca31@ab8e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231116T164500Z
+DTEND:20230907T164500Z
 LOCATION:24-208
-DTSTART:20231116T151500Z
+DTSTART:20230907T151500Z
 SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:e4d78584-ecdc-457d-bab7-55a364724bbe@e4d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231130T150000Z
-LOCATION:24-208
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:0e0a4b38-2f04-4d6c-bcf9-6f527a679dbe@0e0a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:234a9727-df0d-4482-b550-6cd32ed7c042@234a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231012T150000Z
-LOCATION:24-208
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:c91389e3-6d4a-4857-afb4-773a127c651b@c913.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:166382a6-ef3c-4e36-bdbb-18a94dc37754@1663.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2fd529a1-e0de-451d-af49-063de11d6562@2fd5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20230928T150000Z
-LOCATION:24-208
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:a078cf9b-95e5-4292-9a88-0192f8dfbab2@a078.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231026T150000Z
-LOCATION:24-208
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:74a567f2-a0a4-406d-96f1-aef6d259f19b@74a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:c73dc456-c10b-49b0-b5a5-6b388bc8f566@c73d.org
+UID:bac83e61-bc3d-47c9-bc2c-8d4f0f923d36@bac8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родченко Владимир Викторович
@@ -372,98 +44,36 @@ DTEND:20231019T164500Z
 LOCATION:24-208
 DTSTART:20231019T151500Z
 SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:c2933ac2-21fd-4810-91e7-9068719a36a4@c293.org
+UID:ec229971-7140-48e3-bb92-d303b4b693c5@ec22.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231120T150000Z
+DTEND:20231106T164500Z
 LOCATION:--каф.
-DTSTART:20231120T133000Z
+DTSTART:20231106T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e7c4e232-171c-4573-8c60-03bece4229fa@e7c4.org
+UID:84967549-2d6d-43ad-b7bb-c6d8a0d0bc21@8496.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231012T164500Z
-LOCATION:24-208
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:83cf8ee6-ab24-4b79-aa18-8e14f26c73cc@83cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231219T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:0cf12597-3b33-4391-b389-005b1ab9217b@0cf1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:2ad8f165-fc66-4318-ab91-74cdaf1ce4da@2ad8.org
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e3478ac7-4b12-40e4-a158-f58dbb5480a9@e347.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231009T150000Z
 LOCATION:--каф.
 DTSTART:20231009T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c6a62779-f613-4bef-82df-ad6c5c5c7edb@c6a6.org
+UID:e3e1452f-e16c-4aea-a60a-2fc931ba8755@e3e1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родченко Владимир Викторович
-DTEND:20230921T164500Z
+DTEND:20230928T150000Z
 LOCATION:24-208
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:71b17d20-868a-48a4-a781-732a735bcc49@71b1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T164500Z
-LOCATION:--каф.
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2bce3223-0a7f-48c7-bc44-38fb2a084b84@2bce.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:74249d17-0aa3-4068-89fa-2aa86949ba39@7424.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ac1a8c9d-f812-4585-a8ae-2ccaf21db88b@ac1a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231214T150000Z
-LOCATION:24-208
-DTSTART:20231214T133000Z
+DTSTART:20230928T133000Z
 SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:a5d59b0b-45f6-413e-9d7c-cda2759d71fe@a5d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20230928T164500Z
-LOCATION:24-208
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:23523e72-ccb2-4f2b-b803-38421f9948ad@2352.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Родченко Владимир Викторович
-DTEND:20230914T164500Z
-LOCATION:24-208
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:e5b8a1c9-c10e-472d-8f1c-0c1e8fb6ead8@e5b8.org
+UID:9e783b67-7745-4054-8351-60c90f627f1f@9e78.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родченко Владимир Викторович
@@ -471,23 +81,75 @@ DTEND:20230907T150000Z
 LOCATION:24-208
 DTSTART:20230907T133000Z
 SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:575bd699-13d6-4278-8d40-475d268fc088@575b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:ca9feaa6-668e-4f3b-92cd-5ec6329c6a57@ca9f.org
+UID:47fb7804-5d7b-4e1d-a4bf-928f15bafb69@47fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Родченко Владимир Викторович
-DTEND:20231123T164500Z
+DTEND:20231102T164500Z
 LOCATION:24-208
-DTSTART:20231123T151500Z
+DTSTART:20231102T151500Z
 SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
-UID:8e6d8813-607a-4d1b-9c8d-d10844cb89b7@8e6d.org
+UID:8e158a2d-55da-48bb-943f-c92915d706d5@8e15.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:48af75c5-113a-42d0-8348-c8d7300f3c0b@48af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:fa2ff672-ce70-42f0-a4ea-e34d78c18d15@fa2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:ddf1352c-9eb2-4a36-a392-bfcc9429c54f@ddf1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:820a7db4-16d8-4c1e-801d-19ed9169a676@820a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231130T150000Z
+LOCATION:24-208
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:6ee5d3f0-8d08-4ce3-9fe3-6dff5197f166@6ee5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231026T150000Z
+LOCATION:24-208
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:7391cf95-2bff-4a8a-89ea-e5f4f02d534a@7391.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:12f4fb7a-7ea7-477e-b109-62867066ba42@12f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231012T150000Z
+LOCATION:24-208
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:8a8c80b9-0df8-4e3f-87c6-0bda42a9b36c@8a8c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -495,13 +157,351 @@ DTEND:20231205T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231205T170000Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:cd984345-5b0c-41be-8c7e-3ee6cbfcb2bc@cd98.org
+UID:e6c4e8eb-07af-4186-abe2-7808b271658a@e6c4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5e425d14-d371-4ef7-9d38-6c4173afa12c@5e42.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:241fe482-6b52-4e44-aa9d-6891efda8d56@241f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231019T150000Z
+LOCATION:24-208
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:216e1c1c-3b4f-443d-9c88-c13e4219bad3@216e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231026T164500Z
+LOCATION:24-208
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:171574f0-9bd6-4323-9f75-94c69259ba41@1715.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231205T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:727dad85-615a-454b-98f4-0bb4559e1c6c@727d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20230921T164500Z
+LOCATION:24-208
+DTSTART:20230921T151500Z
+SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:eb528f67-4c56-4c02-9910-105c93324072@eb52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231207T150000Z
+LOCATION:24-208
+DTSTART:20231207T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:c01f234c-d460-41a9-88c3-e8a1a26b6305@c01f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a6ff42c2-48fc-4c3f-8a88-dc2340f7f414@a6ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:cfe11020-f276-4fb3-8b3b-fd1c3a182f4c@cfe1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7497f2ab-57eb-4948-b11d-b8ee692dc698@7497.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231219T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:7664a31c-ba92-4ade-bf74-6daaa7963cdd@7664.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:48384b2a-3391-4d00-a3a1-3869c682e65b@4838.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230911T150000Z
 LOCATION:--каф.
 DTSTART:20230911T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:00733aee-b1bb-4962-87f2-14b95acdc0d1@0073.org
+UID:0d04d998-2e6b-465a-a683-5117b4b8a563@0d04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:3c046997-e1c1-456d-baa4-565fca3abd39@3c04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20230914T150000Z
+LOCATION:24-208
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:d840313b-a5e9-4c8c-ba7a-be16cb3401be@d840.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231116T150000Z
+LOCATION:24-208
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:737d66e9-b5bf-4e43-966a-d0d01952b63b@737d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231109T150000Z
+LOCATION:24-208
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:6bd6e0cf-1ad7-4e6c-8cfb-eda736b0a407@6bd6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:580bdf8d-5ba0-4720-852e-1a7904a2b4e0@580b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ac2da9a8-624b-455b-b979-a16312b165d7@ac2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20230921T150000Z
+LOCATION:24-208
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:f05fbdd1-76a6-4798-b21c-a89c8d2d4b97@f05f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231109T164500Z
+LOCATION:24-208
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:6a74d001-8979-47cb-8cc2-5ffbb8dc4e50@6a74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231116T164500Z
+LOCATION:24-208
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:5e22c0ee-d6b6-4788-bad3-39ff096694bd@5e22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231123T150000Z
+LOCATION:24-208
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:132a8325-3f87-436f-bb50-9315a78cc354@132a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:51c20bc4-fe02-470b-845c-c2b62acb0513@51c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231123T164500Z
+LOCATION:24-208
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:f0bea1f8-8838-4267-a2a9-2da591d5f99e@f0be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20230928T164500Z
+LOCATION:24-208
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:af6e9a9b-a945-4c55-a520-c0affd0bbc97@af6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20230914T164500Z
+LOCATION:24-208
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:a567f353-0edf-4839-80f1-f28918a2f6f8@a567.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:122808cb-c6fb-4a41-97b1-9798274d0ff0@1228.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231005T150000Z
+LOCATION:24-208
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:57177703-f357-4731-bbc2-4a3f94ed4f9e@5717.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231214T150000Z
+LOCATION:24-208
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:46deb077-9c4d-4eb1-8c79-76d990d14e8e@46de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231005T164500Z
+LOCATION:24-208
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:88c91363-0913-47cf-a5e8-ef4dd914ef5f@88c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b0559e26-decc-4886-8d91-558015ed62ca@b055.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:04010b19-9f94-42c1-93e0-04920216fd8c@0401.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:dd476d09-347f-4c46-adc9-440937369b45@dd47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:d260d551-d79f-4d2e-aa14-3368d8506c02@d260.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1511ba22-ed7f-4f64-b66a-198ce1cbcdac@1511.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:60f960f1-c6ad-4fe9-8e0e-c895a9479995@60f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:2274f480-dcf5-4eee-98c3-9355000c41a1@2274.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231219T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231219T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:445fc01b-dc4c-4dd5-93d7-59bd0c27eeb1@445f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:ee2405a1-5ad7-47b0-8c6b-38880ab93e1b@ee24.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:f93290fd-0a52-4f9e-b04e-f9a5d8e46ad3@f932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:f8e4bcdd-c786-4d0c-bb39-170808273379@f8e4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3c3df22f-6d85-475a-9002-5d8725418132@3c3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Родченко Владимир Викторович
+DTEND:20231012T164500Z
+LOCATION:24-208
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Проектирование технологических процессов для отработки и эксплуатации комплексов ЛА и их систем
+UID:3d866235-b837-4318-9cca-74e0ac89b4f3@3d86.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:8b6e81db-f550-42f3-8d0d-7f5a502fd126@8b6e.org
 END:VEVENT
 END:VCALENDAR

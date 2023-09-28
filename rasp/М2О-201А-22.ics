@@ -2,201 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:a8309058-8979-4b38-94f5-27d7d216bcf9@a830.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20230928T150000Z
-LOCATION:2-101(2В)
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:1d42e14c-bf2a-43c7-8c56-4704df7d1f47@1d42.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T164500Z
+DTEND:20231002T164500Z
 LOCATION:--каф.
-DTSTART:20230925T151500Z
+DTSTART:20231002T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:161d7ce8-2eac-41e2-93a7-7f4c801fee8c@161d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:66731004-6cc9-4bfd-8c17-b2ca4bf866a1@6673.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231116T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:0daae3ee-0389-4718-9011-79e12d4d487e@0daa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T164500Z
-LOCATION:--каф.
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e7428230-2fc8-4f91-8c03-816f0481e674@e742.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231116T164500Z
-LOCATION:2-101(2В)
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:0eb6b67f-b7e6-4cb7-8f6c-ddaf554fc73c@0eb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:d863628f-a805-46b1-baf3-b98179f125b7@d863.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5627bbc6-d84d-403c-b8e8-654cf518b19b@5627.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20230921T150000Z
-LOCATION:2-101(2В)
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:2bc9a805-dd25-46bc-92ee-561321d81d2c@2bc9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:efb2ac13-1e52-440b-8164-83333b67cb6c@efb2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1eb7a4dc-3aec-4e08-a69b-925892c8b84a@1eb7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:24d475f0-5dfc-42b7-8c41-fa13c75345dd@24d4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:30d0dd2a-579a-45ed-9819-03d9eddc2fb1@30d0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d27ba03c-07a8-49c6-886d-bd34757a33d9@d27b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231012T164500Z
-LOCATION:2-101(2В)
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:7ea0765a-867c-4f1d-9db9-83edf2a50310@7ea0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5166364c-a162-4389-ab57-9fe5bede0fb8@5166.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231005T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:71308acf-036a-4569-a0a7-515b737abb64@7130.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231026T164500Z
-LOCATION:2-101(2В)
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:1159af28-aa24-4db7-8aa4-39841feb0092@1159.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4c72b7c3-312a-475b-8759-7088b066138a@4c72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20230914T150000Z
-LOCATION:2-101(2В)
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:f6d41e9c-c2fc-453c-9162-9c245f20dad5@f6d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:d4afed9c-2a96-4081-b873-b98960e40f09@d4af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231005T164500Z
-LOCATION:2-101(2В)
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:9ef46a1f-f64a-4264-831c-f29946e490ca@9ef4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20230907T150000Z
-LOCATION:2-101(2В)
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:45629418-3e81-42c4-b096-e5df4f312653@4562.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231109T164500Z
-LOCATION:2-101(2В)
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:91ba7ed4-4284-43cd-a3f2-e27c8963e08c@91ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20230928T164500Z
-LOCATION:2-101(2В)
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:45e111b4-d701-4e41-8010-9d8151f97f15@45e1.org
+UID:5a407a41-5c32-49c8-a470-9ad22b7409d7@5a40.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Молчанов Александр Михайлович
@@ -204,108 +14,7 @@ DTEND:20231123T150000Z
 LOCATION:2-101(2В)
 DTSTART:20231123T133000Z
 SUMMARY:ЛК Специальные главы термогазодинамики
-UID:824cc9be-be67-4084-8b96-4f8d0f3169a3@824c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:be210d9c-034b-4544-8b0e-1d7e514492e4@be21.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:091c5ab1-c875-43e5-9ebe-9ecd16d12890@091c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231130T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:122f6297-946f-42ab-88f6-6dbbc8193dd4@122f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231214T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:ee3ced02-286a-4371-b5a6-fced0c5389df@ee3c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f7c11f17-737d-425b-a02a-39dc45299cfb@f7c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231102T164500Z
-LOCATION:2-101(2В)
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:54ba95c0-92e1-41ff-a8cc-960535e027f8@54ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:4ebe02e0-14e7-4472-a05c-5e4c112c94c3@4ebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231019T164500Z
-LOCATION:2-101(2В)
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:cd52cda1-09aa-4296-8887-68096a17335a@cd52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231102T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:6dcde736-d103-4d12-9b88-13955a7ee064@6dcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20230907T164500Z
-LOCATION:2-101(2В)
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:7f6198c6-eeb5-40d9-beb6-a163907e0110@7f61.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:78a74b62-d875-4a25-81d2-844d846831ec@78a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231024T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231024T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:2a156d42-7fe5-438c-87cf-ca2be474e535@2a15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231207T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:12d8f8ff-8b71-45ca-8b5f-45f9a0085afe@12d8.org
+UID:fb2f5c73-b9dd-460e-8f8a-de3d47d61933@fb2f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -313,159 +22,89 @@ DTEND:20231017T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231017T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:19bb44d2-711b-4c05-8e34-3c0d4780c874@19bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20230914T164500Z
-LOCATION:2-101(2В)
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:3583a820-a515-4adf-aa0b-354b43b9826c@3583.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20230921T164500Z
-LOCATION:2-101(2В)
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:f3115272-1cc8-4f78-88f7-db5508d5b995@f311.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:71089527-461c-4502-bb5c-295b7b8801c0@7108.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231024T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:c0ddfb77-66cb-4999-9363-0ab06bf43cf4@c0dd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8260dd71-9ed1-488f-aff4-fc3d5903daed@8260.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231012T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:3a2c3dd8-3f26-4b4f-8a29-7e5921bfb690@3a2c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:08a2a524-cf92-4e77-ac6f-29d10bbbf3e0@08a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8a0b98bb-df2d-40fa-ad27-86513c4f5aed@8a0b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3f86af08-9c8a-4a6d-9db3-9b22e31f97f2@3f86.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:bb5d7585-36dc-4777-bc34-c4aa4ed4a0d8@bb5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231123T164500Z
-LOCATION:2-101(2В)
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Специальные главы термогазодинамики
-UID:f3bf7cc4-ca1b-40b7-a473-e24ca1a4d74b@f3bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231109T150000Z
-LOCATION:2-101(2В)
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Специальные главы термогазодинамики
-UID:10923035-1830-4684-a6e7-52e16440ffed@1092.org
+UID:88e00a5c-e364-4894-99ab-788e13f42d18@88e0.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231030T164500Z
 LOCATION:--каф.
 DTSTART:20231030T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c83b446c-d30d-4e6e-b85a-342d8ae9f529@c83b.org
+UID:9c1a9b56-c674-4258-875f-372bf2bc3910@9c1a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231010T183000Z
+DTEND:20231031T164500Z
 LOCATION:ГУК В-228
-DTSTART:20231010T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:895c695a-077b-419b-b1bf-7b5242d75995@895c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
+DTSTART:20231031T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:5c9673e2-2932-4c9b-87da-fd0fa8f5bbb8@5c96.org
+UID:371ba4ac-2f59-413e-83ac-bdae74b6f1e3@371b.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231127T150000Z
+DTEND:20231113T164500Z
 LOCATION:--каф.
-DTSTART:20231127T133000Z
+DTSTART:20231113T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6a908f13-b032-487d-a60b-078a62e2ca74@6a90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:30f36363-78ee-4a7a-9b97-f5a5049cb341@30f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:37abfa24-8236-46a4-8f54-49799b1130a0@37ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:61df1db1-a9f1-4618-b001-3986001d2cdf@61df.org
+UID:9b72dd36-4c51-42e9-9360-ec2ef5a351d7@9b72.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Молчанов Александр Михайлович
-DTEND:20231026T150000Z
+DTEND:20230928T150000Z
 LOCATION:2-101(2В)
-DTSTART:20231026T133000Z
+DTSTART:20230928T133000Z
 SUMMARY:ЛК Специальные главы термогазодинамики
-UID:7ce2b458-8bbc-4201-8332-a100ae4c9f52@7ce2.org
+UID:bdb1f3b4-f072-4316-8a36-14cc0b047454@bdb1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e0cc44d1-3424-4ed0-9eb4-693cbb687a5d@e0cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20230914T150000Z
+LOCATION:2-101(2В)
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:cf51e31f-96e7-475f-80dc-11cf2cd503c7@cf51.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0efcceec-fff8-41ff-bb25-7a1d83bf28ef@0efc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231005T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:00bb17cd-09d3-4b2f-b16f-cad7980d768a@00bb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e1f4c395-6b9f-45b4-b0a0-3ba8c53cecf6@e1f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:41db989d-719c-4031-823c-a68770adb1a8@41db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231130T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:0bb4e355-6807-4f5f-8451-64b1bca9c52a@0bb4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -473,28 +112,345 @@ DTEND:20231010T164500Z
 LOCATION:ГУК В-228
 DTSTART:20231010T151500Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:8b4c05bd-e6f2-4055-9690-a26912d22c00@8b4c.org
+UID:872a0503-c87f-47b6-b5b0-d4eeb8ab39ff@872a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231012T164500Z
+LOCATION:2-101(2В)
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:5cc7da66-1fe9-4fa3-b956-7b2c4985afeb@5cc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20230907T164500Z
+LOCATION:2-101(2В)
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:16064d36-9a48-4069-9d84-c516fb442b54@1606.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231005T164500Z
+LOCATION:2-101(2В)
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:836e4ad7-421a-445b-bd74-4c01ecf6c4dc@836e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231024T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:4bbe2c38-c810-40e0-85c8-803183bc049c@4bbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:39ef8c3e-62a6-4e15-84a3-8e661ef10179@39ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:61b1663c-4e03-4962-be3e-76f22a4b797d@61b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:d2a8be17-4bb4-46f2-8392-7fc777b080b5@d2a8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:43d5510e-5c26-4040-8c7d-34e0e4092cd5@43d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231207T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231207T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:33d3a43a-d83d-4cb4-a7ad-e96fdbd45665@33d3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:51cd2eee-153a-430f-b4d2-1ff319e7cade@51cd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a3f3c09d-3c23-4bdc-9ce4-4eaa1c9929a8@a3f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231214T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:f3d2588a-8e2b-44ad-be73-18ee8e87bf38@f3d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231012T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:15569ab1-6cf1-4c9e-a5ff-0ab3addf515a@1556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231019T164500Z
+LOCATION:2-101(2В)
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:a5f430be-78d4-44ae-81a2-f5648bebeac2@a5f4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7a365f8b-831d-4705-8008-a3d342b46857@7a36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:0b6f7ad8-29e0-4b6d-be47-b68bbbe24439@0b6f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:8136743a-75bb-4c14-99c0-7f91d768c590@8136.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231026T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:41f48038-fa25-4b11-86ea-ae0a8178d820@41f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231116T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:55784175-3c5c-4cdc-8785-616911f49853@5578.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231123T164500Z
+LOCATION:2-101(2В)
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:12131449-c60b-4f05-8964-579987f525e4@1213.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b5734d8e-3c46-4dd3-9df1-4989eb40ad89@b573.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:e1fdfb4f-731e-4f2d-95a8-b9059d4cc0bd@e1fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20230907T150000Z
+LOCATION:2-101(2В)
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:594f020c-4005-4ca1-b05c-573a23020d91@594f.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230904T164500Z
 LOCATION:--каф.
 DTSTART:20230904T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c27ed8fe-a0e6-4171-b1fc-8a5b166b46b5@c27e.org
+UID:3803afa9-2952-4a2c-8111-6c515304d79e@3803.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231009T164500Z
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:0bdca104-fa50-4d55-98ec-d0f358280aaf@0bdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231109T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:b367fc19-d7c2-4af5-a61c-8aee681070ab@b367.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20230921T150000Z
+LOCATION:2-101(2В)
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:efdaa8f8-ac19-480e-a867-4b8622511c02@efda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:7cbaeab3-712f-47db-9021-b70227279b87@7cba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
 LOCATION:--каф.
-DTSTART:20231009T151500Z
+DTSTART:20231106T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:070ed084-f728-4fe5-90a2-26f5c6bfe5fb@070e.org
+UID:e3cf0903-6445-46ba-a1b5-30b1332d2fec@e3cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231102T150000Z
+LOCATION:2-101(2В)
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Специальные главы термогазодинамики
+UID:a1e501a3-4599-4095-919b-ad520ab814e1@a1e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231010T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231010T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:8a435a48-619f-4c77-8573-56ebf8c7bf91@8a43.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6166d64e-58b2-4c8c-9c58-77aa8ba0e6d9@6166.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231026T164500Z
+LOCATION:2-101(2В)
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:afef66a0-9ea9-4615-b889-e4945a32d6b7@afef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:d5c9c3ea-c588-493f-b237-b7a44b0fea39@d5c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0f6d4f04-af59-4c81-b86e-80bbac25360b@0f6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20230928T164500Z
+LOCATION:2-101(2В)
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:6ce38c3b-1b33-4934-85a1-ef8c5b1959a8@6ce3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1abf64bd-4c15-45b7-bfcb-5f06fdf791e0@1abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20230921T164500Z
+LOCATION:2-101(2В)
+DTSTART:20230921T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:a999bf8c-8b79-4f6e-9b35-c223bc61073c@a999.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231024T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231024T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:1328b592-5b95-4fc2-98be-c4b452293a1c@1328.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231109T164500Z
+LOCATION:2-101(2В)
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:0a66cda8-928b-47a6-8f1f-43f9f4c99e23@0a66.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:28a2589d-7491-45a9-b0e4-4d0c6a9bd526@28a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231116T164500Z
+LOCATION:2-101(2В)
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:8509604b-43d3-49ba-a03f-3cb3bd7bc5eb@8509.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231009T150000Z
 LOCATION:--каф.
 DTSTART:20231009T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2a43c01e-1e82-4849-ab29-3118714bd715@2a43.org
+UID:4eb6505d-9ba3-4ff6-b810-2f09df79a8b9@4eb6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5fb447fc-02a9-411d-a6b6-e85e44826d8c@5fb4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Молчанов Александр Михайлович
@@ -502,6 +458,50 @@ DTEND:20231019T150000Z
 LOCATION:2-101(2В)
 DTSTART:20231019T133000Z
 SUMMARY:ЛК Специальные главы термогазодинамики
-UID:bd316833-8236-4ccb-88ff-02745c259255@bd31.org
+UID:2055938f-7b56-43c1-9c43-17fc1dc5ff39@2055.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1a35713c-c377-4d25-a36c-5ddacea97d0d@1a35.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T164500Z
+LOCATION:--каф.
+DTSTART:20230911T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6a272206-6ccd-4078-a821-46219703f6c1@6a27.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c8051236-3690-4c78-bec1-8651bd9afdca@c805.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a326de51-c9ee-4a3d-8e90-dfa7eb6c579c@a326.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20231102T164500Z
+LOCATION:2-101(2В)
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:1d05e910-45ee-4054-a536-67d28afd566f@1d05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Молчанов Александр Михайлович
+DTEND:20230914T164500Z
+LOCATION:2-101(2В)
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Специальные главы термогазодинамики
+UID:c9852b79-d4cc-4fa7-8ce3-ed0a27dc68c2@c985.org
 END:VEVENT
 END:VCALENDAR

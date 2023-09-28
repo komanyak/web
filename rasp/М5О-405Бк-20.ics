@@ -2,420 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230920T131500Z
-LOCATION:5-322
-DTSTART:20230920T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:52884ca9-0534-4f88-b63f-b73195822601@5288.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20230914T164500Z
-LOCATION:5-425
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Управление человеческими ресурсами
-UID:033a03a3-ea22-498a-870a-9704f1a415a9@033a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231115T113000Z
-LOCATION:5-322
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Бизнес-планирование
-UID:5e97373c-142b-4a99-9219-bc376222cf93@5e97.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231013T113000Z
+DTEND:20231117T113000Z
 LOCATION:5-321
-DTSTART:20231013T100000Z
+DTSTART:20231117T100000Z
 SUMMARY:ЛК Системная оценка эффективности проектов
-UID:4577cbf9-8317-4b70-9580-4b0773290701@4577.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231215T150000Z
-LOCATION:5-321
-DTSTART:20231215T133000Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:511cac82-2e83-41cf-9a1b-c28bfba88c7d@511c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230906T150000Z
-LOCATION:5-322
-DTSTART:20230906T133000Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:6c150d19-5fce-4657-96ee-83195910129d@6c15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231130T150000Z
-LOCATION:5-111
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:6d6d07f4-75f5-45a9-a5f0-8a483ff2a3fe@6d6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231020T131500Z
-LOCATION:5-321
-DTSTART:20231020T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:8d5b0fa1-8a12-4718-b808-19ada22e5dc2@8d5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231018T131500Z
-LOCATION:5-322
-DTSTART:20231018T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:a03cdb24-e6c2-4aec-afae-3d2583c99a98@a03c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
-DTEND:20230919T164500Z
-LOCATION:1-514Б
-DTSTART:20230919T151500Z
-SUMMARY:ЛР Управление человеческими ресурсами
-UID:66be6d3d-c7cb-42a7-baa7-d13b775899c4@66be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231110T113000Z
-LOCATION:5-321
-DTSTART:20231110T100000Z
-SUMMARY:ЛК Системная оценка эффективности проектов
-UID:bd677342-e60e-4550-a8d9-9c0e837a3d6d@bd67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20230907T131500Z
-LOCATION:5-321
-DTSTART:20230907T114500Z
-SUMMARY:ПЗ Управление командой проекта
-UID:4de3b7b2-a20a-48bf-9bd9-c88c191b510c@4de3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231012T131500Z
-LOCATION:5-321
-DTSTART:20231012T114500Z
-SUMMARY:ПЗ Управление командой проекта
-UID:4d6cb748-14e3-4c7d-82e1-3a4978809881@4d6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231005T150000Z
-LOCATION:5-111
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:7a3d3f9f-26ad-428e-9443-fec125a87153@7a3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231103T131500Z
-LOCATION:5-321
-DTSTART:20231103T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:38a658b1-bd65-4c5f-9b3a-9edfb81647c1@38a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20230911T091500Z
-LOCATION:5-321
-DTSTART:20230911T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:d86f8164-b5e1-42b5-a14f-29bc707c2f2d@d86f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231019T113000Z
-LOCATION:5-321
-DTSTART:20231019T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:56aa6aa1-1ade-4f7b-802f-29e2b518e728@56aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20230907T113000Z
-LOCATION:5-321
-DTSTART:20230907T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:c043302f-8c92-499c-803b-22c099301c06@c043.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231024T073000Z
-LOCATION:5-309
-DTSTART:20231024T060000Z
-SUMMARY:ЛР Моделирование экономических процессов
-UID:fdeb5747-39a4-4efe-aee8-30a053537a8d@fdeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230920T150000Z
-LOCATION:5-322
-DTSTART:20230920T133000Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:8a34df60-c8fd-42fc-9bed-1a44da3f50b2@8a34.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231123T150000Z
-LOCATION:5-111
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:766bf794-04ce-493e-8b2c-b5ee341a5cf9@766b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231010T113000Z
-LOCATION:5-309
-DTSTART:20231010T100000Z
-SUMMARY:ЛК Моделирование экономических процессов
-UID:706ad6e8-5dd5-4b4b-9c32-8da5a49b725f@706a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231009T073000Z
-LOCATION:5-321
-DTSTART:20231009T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:eaf576c5-d3e4-4de9-8416-743c3b8f7e6d@eaf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
-DTEND:20231017T164500Z
-LOCATION:1-514Б
-DTSTART:20231017T151500Z
-SUMMARY:ЛР Управление человеческими ресурсами
-UID:dd67dde6-2995-46d9-b0dd-57ccbac39544@dd67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231213T113000Z
-LOCATION:5-322
-DTSTART:20231213T100000Z
-SUMMARY:ЛК Бизнес-планирование
-UID:5f37580c-0f52-4ea1-a021-7da65cc2abd3@5f37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231227T131500Z
-LOCATION:5-322
-DTSTART:20231227T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:9a6d5a0f-343d-40ae-9a6a-970ffc384480@9a6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20230929T131500Z
-LOCATION:5-321
-DTSTART:20230929T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:2086d59f-cabf-4678-a411-64e8bb8ebc12@2086.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231011T113000Z
-LOCATION:5-322
-DTSTART:20231011T100000Z
-SUMMARY:ПЗ Бизнес-планирование
-UID:66e8a610-9b3a-48d5-bb42-44fbf60beb1b@66e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
-DTEND:20230905T164500Z
-LOCATION:1-514Б
-DTSTART:20230905T151500Z
-SUMMARY:ЛР Управление человеческими ресурсами
-UID:e55001a4-be75-4128-bbc0-3e00682b2a2c@e550.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231020T150000Z
-LOCATION:5-321
-DTSTART:20231020T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:1107790f-e11f-46b6-a97c-bca22e0ff8fd@1107.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20230908T113000Z
-LOCATION:5-321
-DTSTART:20230908T100000Z
-SUMMARY:ЛК Системная оценка эффективности проектов
-UID:64388ade-7650-41a5-b925-e1012d14f59f@6438.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231222T150000Z
-LOCATION:5-321
-DTSTART:20231222T133000Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:cec704dd-d070-4eb8-8173-325c1aadf502@cec7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231006T150000Z
-LOCATION:5-321
-DTSTART:20231006T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:7749345e-c86e-4adc-ab73-fccfa7f295d0@7749.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231115T131500Z
-LOCATION:5-322
-DTSTART:20231115T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:13ece3b9-a432-4878-883b-af1793548821@13ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231124T131500Z
-LOCATION:5-321
-DTSTART:20231124T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:1b95317f-9a46-43b7-9c17-0a316ca58ef9@1b95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231129T131500Z
-LOCATION:5-322
-DTSTART:20231129T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:222a36a3-e214-45de-a735-d334d30d300b@222a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231101T131500Z
-LOCATION:5-322
-DTSTART:20231101T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:a29b034d-4db0-46f8-9565-32f7dc956822@a29b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231211T113000Z
-LOCATION:5-321
-DTSTART:20231211T100000Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:0638f1d6-0ade-4d48-b7db-9d7ee4701da4@0638.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231225T113000Z
-LOCATION:5-321
-DTSTART:20231225T100000Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:3fb4c430-db0f-459a-b6b5-42c61b9df82b@3fb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231106T091500Z
-LOCATION:5-321
-DTSTART:20231106T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:3b2f53a3-6bd3-436a-9eae-c5a423598c8f@3b2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20230901T131500Z
-LOCATION:5-321
-DTSTART:20230901T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:329caa87-bc31-4098-b2cc-19d74c1f5a83@329c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231101T113000Z
-LOCATION:5-322
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Бизнес-планирование
-UID:a27857e2-d2e7-4ac2-88e1-2d663d0c97b0@a278.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231211T131500Z
-LOCATION:5-321
-DTSTART:20231211T114500Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:b7112439-7e27-43cb-a549-216f90b31b63@b711.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231026T150000Z
-LOCATION:5-111
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:2ce3eb4f-ee17-4c2a-903d-f08e97a49130@2ce3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230926T091500Z
-LOCATION:5-309
-DTSTART:20230926T074500Z
-SUMMARY:ЛР Моделирование экономических процессов
-UID:19e3a68d-49b1-4484-8d79-47c43cb2f2a0@19e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231117T131500Z
-LOCATION:5-321
-DTSTART:20231117T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:15f48e42-df65-4cf5-a718-327c6879bdfb@15f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230906T131500Z
-LOCATION:5-322
-DTSTART:20230906T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:657a47f3-28b6-4249-ac9d-b2d208b7f59e@657a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20230918T091500Z
-LOCATION:5-321
-DTSTART:20230918T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:95f798d8-a8ec-4278-a365-b4ef52c3142c@95f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231012T150000Z
-LOCATION:5-111
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:ac616fe9-31b4-420a-9041-3074ce0851cd@ac61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231016T091500Z
-LOCATION:5-321
-DTSTART:20231016T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:92887b02-0c48-4830-b03c-c1da274759de@9288.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231018T150000Z
-LOCATION:5-322
-DTSTART:20231018T133000Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:a0b19d8d-4c22-4cb6-b83a-5d59b917dea9@a0b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231206T113000Z
-LOCATION:5-322
-DTSTART:20231206T100000Z
-SUMMARY:ПЗ Бизнес-планирование
-UID:83408562-1977-4811-95cd-f49e32bd8b82@8340.org
+UID:d3c4672c-5af5-403f-866d-95588986bce8@d3c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Андреев Сергей Алексеевич
@@ -423,1247 +15,15 @@ DTEND:20231030T091500Z
 LOCATION:5-321
 DTSTART:20231030T074500Z
 SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:b78c896d-40c0-42a6-94e5-63ffef0b835e@b78c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231010T131500Z
-LOCATION:5-309
-DTSTART:20231010T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:090b432a-15b8-42f0-8033-c5eff6e3d113@090b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231023T091500Z
-LOCATION:5-321
-DTSTART:20231023T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:fa6eaa3d-69d6-4475-8eab-c8ff9be29ab0@fa6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230912T113000Z
-LOCATION:5-309
-DTSTART:20230912T100000Z
-SUMMARY:ЛК Моделирование экономических процессов
-UID:305ff85e-ea4e-4065-977d-7dd9c3437036@305f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231024T113000Z
-LOCATION:5-309
-DTSTART:20231024T100000Z
-SUMMARY:ЛК Моделирование экономических процессов
-UID:0db02469-f7ff-4f8f-b134-f01af80d3ebf@0db0.org
+UID:483a9127-b376-4e0e-a651-ed6a6cdc2156@483a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231006T113000Z
+DTEND:20231110T113000Z
 LOCATION:5-321
-DTSTART:20231006T100000Z
+DTSTART:20231110T100000Z
 SUMMARY:ЛК Системная оценка эффективности проектов
-UID:cd2c20a2-37b0-41a4-9201-d87680286b8c@cd2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231211T091500Z
-LOCATION:5-321
-DTSTART:20231211T074500Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:5af082d4-07cc-4a66-9333-51b5d7bcc1d3@5af0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230920T113000Z
-LOCATION:5-322
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Бизнес-планирование
-UID:5f4c8649-79e5-4abe-bf7c-8f4a6a07b0ca@5f4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231003T131500Z
-LOCATION:5-309
-DTSTART:20231003T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:3fe74fde-1ccc-4c18-8ccd-c023254e6ffb@3fe7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231128T131500Z
-LOCATION:5-309
-DTSTART:20231128T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:e3283a37-ebbf-41b6-84ce-e244f2b4d45a@e328.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20230928T164500Z
-LOCATION:5-425
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Управление человеческими ресурсами
-UID:09c3e20b-48ac-491c-8dc9-9741891b9d5f@09c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231004T150000Z
-LOCATION:5-322
-DTSTART:20231004T133000Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:f3b72a6d-c807-407b-988f-81924bca5ef7@f3b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230926T113000Z
-LOCATION:5-309
-DTSTART:20230926T100000Z
-SUMMARY:ЛК Моделирование экономических процессов
-UID:0e12b73c-4ff5-42ad-ad22-0510660ce1de@0e12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230926T131500Z
-LOCATION:5-309
-DTSTART:20230926T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:df45896e-33a7-4131-8d18-d0a06b67b9a6@df45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
-DTEND:20231003T164500Z
-LOCATION:1-514Б
-DTSTART:20231003T151500Z
-SUMMARY:ЛР Управление человеческими ресурсами
-UID:2a01cc46-3a4f-4ea2-818f-99c8ad0b1355@2a01.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231205T131500Z
-LOCATION:5-309
-DTSTART:20231205T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:6753afa6-82e1-4086-910f-ad7d259a515f@6753.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231005T131500Z
-LOCATION:5-321
-DTSTART:20231005T114500Z
-SUMMARY:ПЗ Управление командой проекта
-UID:47046143-cef1-4b59-9884-172419304798@4704.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231127T073000Z
-LOCATION:5-321
-DTSTART:20231127T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:e00bf598-bb74-4f41-97e3-9840c4c71acd@e00b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231127T091500Z
-LOCATION:5-321
-DTSTART:20231127T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:32eb49db-e726-4b54-aa21-585a0a48034a@32eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231207T113000Z
-LOCATION:5-321
-DTSTART:20231207T100000Z
-SUMMARY:ЛР Управление командой проекта
-UID:9f5f471f-d38d-434d-a9f5-45f96a4742fc@9f5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231114T113000Z
-LOCATION:5-309
-DTSTART:20231114T100000Z
-SUMMARY:ЛК Моделирование экономических процессов
-UID:4090023c-4017-4375-829a-e51227ef23ef@4090.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231116T113000Z
-LOCATION:5-321
-DTSTART:20231116T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:8cb7c447-bcef-401d-8778-2e6403428742@8cb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231120T091500Z
-LOCATION:5-321
-DTSTART:20231120T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:aabe0acd-16d8-4b34-ba92-114980fef5d3@aabe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231122T131500Z
-LOCATION:5-322
-DTSTART:20231122T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:ce483a23-ed61-4c88-b7d8-48e97fda2b7d@ce48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231124T113000Z
-LOCATION:5-321
-DTSTART:20231124T100000Z
-SUMMARY:ЛК Системная оценка эффективности проектов
-UID:cf5d300b-b271-488b-9155-4e7ca7e6ef1a@cf5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230906T113000Z
-LOCATION:5-322
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Бизнес-планирование
-UID:fd8edeb3-af37-45d3-b35d-39c1aa382dfe@fd8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20230911T073000Z
-LOCATION:5-321
-DTSTART:20230911T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:f7fa4bf9-445f-4dd9-b13a-457a99bc49a6@f7fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231212T131500Z
-LOCATION:5-309
-DTSTART:20231212T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:4df3f91c-5609-43ab-aeaf-152c9eac0901@4df3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231116T150000Z
-LOCATION:5-111
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:c9ecd117-6105-47dd-bad7-002e1af89186@c9ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231005T113000Z
-LOCATION:5-321
-DTSTART:20231005T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:c62c3ba4-03f5-4b04-b51d-745508fc68ce@c62c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231018T113000Z
-LOCATION:5-322
-DTSTART:20231018T100000Z
-SUMMARY:ЛК Бизнес-планирование
-UID:05917533-8456-419a-8e22-072f84bfa3dc@0591.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231011T150000Z
-LOCATION:5-322
-DTSTART:20231011T133000Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:10fdaad0-4875-4ce5-a0fb-c6d31f2a3413@10fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231102T150000Z
-LOCATION:5-111
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:c958513d-e3fb-46e9-815c-74ee101c6f3a@c958.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231004T113000Z
-LOCATION:5-322
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Бизнес-планирование
-UID:a39d2bcf-76b8-4320-9f8e-d432420148aa@a39d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231017T131500Z
-LOCATION:5-309
-DTSTART:20231017T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:847daa5c-140c-4318-9177-316242011314@847d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231026T131500Z
-LOCATION:5-321
-DTSTART:20231026T114500Z
-SUMMARY:ПЗ Управление командой проекта
-UID:935dc13e-d4bd-4458-98d9-70a6b2355ee2@935d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231220T113000Z
-LOCATION:5-322
-DTSTART:20231220T100000Z
-SUMMARY:ПЗ Бизнес-планирование
-UID:318ba730-1024-4830-9e3a-337b9e581872@318b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231218T113000Z
-LOCATION:5-321
-DTSTART:20231218T100000Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:149567fb-cffe-44d6-b358-2535804f8616@1495.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231108T113000Z
-LOCATION:5-322
-DTSTART:20231108T100000Z
-SUMMARY:ПЗ Бизнес-планирование
-UID:0355f20d-b3c4-435b-bd2f-f8fcdbfab9ef@0355.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231024T091500Z
-LOCATION:5-309
-DTSTART:20231024T074500Z
-SUMMARY:ЛР Моделирование экономических процессов
-UID:f39520fa-32e1-42c6-a506-feeeb63b183a@f395.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231214T131500Z
-LOCATION:5-321
-DTSTART:20231214T114500Z
-SUMMARY:ЛР Управление командой проекта
-UID:c75ea14b-b829-498f-8161-b702bdaf20dc@c75e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20230907T150000Z
-LOCATION:5-111
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:e7545881-f5ea-4904-9a83-2d6eff9d8d92@e754.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230927T131500Z
-LOCATION:5-322
-DTSTART:20230927T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:917fffa2-20fa-4b92-8ded-62f62046cf2f@917f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231024T131500Z
-LOCATION:5-309
-DTSTART:20231024T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:3dba27b1-8708-4ae1-913f-07873266eefd@3dba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20230921T150000Z
-LOCATION:5-111
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:851cbf7f-34ad-40f7-9096-ffd948da94c8@851c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230913T131500Z
-LOCATION:5-322
-DTSTART:20230913T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:0a1dfd4b-a7b2-4dca-acd8-a54546d6c8b0@0a1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230927T150000Z
-LOCATION:5-322
-DTSTART:20230927T133000Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:2eec7c11-c1ab-4783-801e-c5539a058be4@2eec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230913T150000Z
-LOCATION:5-322
-DTSTART:20230913T133000Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:91270b77-fbf3-4d75-8090-c4c743be950f@9127.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20230904T073000Z
-LOCATION:5-321
-DTSTART:20230904T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:6767ab7d-2e72-40db-a067-9da7669bc536@6767.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231109T131500Z
-LOCATION:5-321
-DTSTART:20231109T114500Z
-SUMMARY:ПЗ Управление командой проекта
-UID:6acf6d26-fd55-4164-81d9-05c1b8cfa7f2@6acf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231011T131500Z
-LOCATION:5-322
-DTSTART:20231011T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:aadb1597-51aa-4a2d-be4b-e15d85793628@aadb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231130T113000Z
-LOCATION:5-321
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:cc2c0047-046d-4d91-a9ba-25787f5581ec@cc2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231017T113000Z
-LOCATION:5-309
-DTSTART:20231017T100000Z
-SUMMARY:ЛК Моделирование экономических процессов
-UID:79157c1b-ac86-4db2-a193-3e02421263ec@7915.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231109T150000Z
-LOCATION:5-111
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:dcf8efeb-59fb-469d-960c-b4469aa6cb0b@dcf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20230914T131500Z
-LOCATION:5-321
-DTSTART:20230914T114500Z
-SUMMARY:ПЗ Управление командой проекта
-UID:bd876157-a81e-4a74-8962-696062d25e7f@bd87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231010T073000Z
-LOCATION:5-309
-DTSTART:20231010T060000Z
-SUMMARY:ЛР Моделирование экономических процессов
-UID:42c724a6-4812-4405-a190-6741e7fbd38c@42c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20230922T113000Z
-LOCATION:5-321
-DTSTART:20230922T100000Z
-SUMMARY:ЛК Системная оценка эффективности проектов
-UID:3e2b7773-ca88-4946-b77b-3f82180cbf11@3e2b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230919T113000Z
-LOCATION:5-309
-DTSTART:20230919T100000Z
-SUMMARY:ЛК Моделирование экономических процессов
-UID:31fccb9e-c3f6-4df1-ba1d-d2b64639c0cb@31fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231102T113000Z
-LOCATION:5-321
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:6b002a98-bb4e-44c3-97f7-475523bc6be3@6b00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20230915T131500Z
-LOCATION:5-321
-DTSTART:20230915T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:495c0f4e-d210-4376-9155-8258a37b0eee@495c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20230914T113000Z
-LOCATION:5-321
-DTSTART:20230914T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:9fa71654-867e-4a42-9de8-9ac15b73b2b1@9fa7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231226T131500Z
-LOCATION:5-309
-DTSTART:20231226T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:d2630ba7-e2cf-43a7-a22e-36744cfc839c@d263.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231102T131500Z
-LOCATION:5-321
-DTSTART:20231102T114500Z
-SUMMARY:ПЗ Управление командой проекта
-UID:809b5472-b5af-40d1-8e8f-b237042af0d7@809b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231120T073000Z
-LOCATION:5-321
-DTSTART:20231120T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:63d08ebe-99dc-4b3b-a108-48298c28bbb8@63d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231109T113000Z
-LOCATION:5-321
-DTSTART:20231109T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:71f9a13f-e2fb-45bf-a5e4-b7e3378c5df7@71f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231206T131500Z
-LOCATION:5-322
-DTSTART:20231206T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:30f2e515-0e7b-49e9-bdb6-f8997c3594c4@30f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20230908T150000Z
-LOCATION:5-321
-DTSTART:20230908T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:a63677a1-7295-4cee-a5f6-65b430255fea@a636.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231122T113000Z
-LOCATION:5-322
-DTSTART:20231122T100000Z
-SUMMARY:ПЗ Бизнес-планирование
-UID:42a18181-9e35-4efc-a8bb-b79d9c96e41f@42a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231009T091500Z
-LOCATION:5-321
-DTSTART:20231009T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:38306ac7-8a15-4b4c-8138-6588cc1f8bb7@3830.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231012T113000Z
-LOCATION:5-321
-DTSTART:20231012T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:46232a8a-6f19-4676-8e70-0b2bc9d5b894@4623.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231204T113000Z
-LOCATION:5-321
-DTSTART:20231204T100000Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:44403f18-cf1b-41bc-927a-024a06a72174@4440.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231220T131500Z
-LOCATION:5-322
-DTSTART:20231220T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:89557b33-9a18-4b8c-9b9f-176893eb3e84@8955.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231108T131500Z
-LOCATION:5-322
-DTSTART:20231108T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:35dc3da9-0e0a-492a-a0ff-3f47f7af75f6@35dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230905T113000Z
-LOCATION:5-309
-DTSTART:20230905T100000Z
-SUMMARY:ЛК Моделирование экономических процессов
-UID:da91c154-0802-4ad8-b78e-a5e92846040a@da91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20230929T113000Z
-LOCATION:5-321
-DTSTART:20230929T100000Z
-SUMMARY:ЛК Системная оценка эффективности проектов
-UID:983a7e3c-a12f-456c-9489-db1f8a89cdad@983a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231110T131500Z
-LOCATION:5-321
-DTSTART:20231110T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:d20d50e2-a254-49f4-aabf-1c050211dcc7@d20d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231023T073000Z
-LOCATION:5-321
-DTSTART:20231023T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:5c27fd17-022c-4dbc-a7d7-b548cd47c13f@5c27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230912T091500Z
-LOCATION:5-309
-DTSTART:20230912T074500Z
-SUMMARY:ЛР Моделирование экономических процессов
-UID:03498852-208e-491b-9de2-60327f075643@0349.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231019T131500Z
-LOCATION:5-321
-DTSTART:20231019T114500Z
-SUMMARY:ПЗ Управление командой проекта
-UID:1b430617-ed8e-4b5c-b0af-2316be5e430d@1b43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231030T073000Z
-LOCATION:5-321
-DTSTART:20231030T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:339fb0f8-9607-4b4d-af43-9c8dba72bb82@339f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231110T150000Z
-LOCATION:5-321
-DTSTART:20231110T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:f2312689-8c0e-4431-8ff6-ff0bf858009b@f231.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231013T131500Z
-LOCATION:5-321
-DTSTART:20231013T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:3301eb58-8622-47b9-8dd6-d2c3252d3ed1@3301.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231207T131500Z
-LOCATION:5-321
-DTSTART:20231207T114500Z
-SUMMARY:ЛР Управление командой проекта
-UID:7b40f51a-9fd6-4624-9127-eafa6d74e7fb@7b40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231020T113000Z
-LOCATION:5-321
-DTSTART:20231020T100000Z
-SUMMARY:ЛК Системная оценка эффективности проектов
-UID:cdb41e21-3dcc-4b25-a053-5ad9a0b3527a@cdb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20230928T131500Z
-LOCATION:5-321
-DTSTART:20230928T114500Z
-SUMMARY:ПЗ Управление командой проекта
-UID:73df627c-7e0a-4e92-b0fe-6c1a02657c42@73df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231006T131500Z
-LOCATION:5-321
-DTSTART:20231006T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:acd73453-6341-4a0e-be4c-285cafab1e57@acd7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231225T091500Z
-LOCATION:5-321
-DTSTART:20231225T074500Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:43c7bffa-85e7-4449-8afc-c9626ae02ade@43c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230913T113000Z
-LOCATION:5-322
-DTSTART:20230913T100000Z
-SUMMARY:ПЗ Бизнес-планирование
-UID:2b63ea44-4ebc-433c-a558-27e07468c3d6@2b63.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230919T131500Z
-LOCATION:5-309
-DTSTART:20230919T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:aad1ca34-e7c8-4ee1-9c21-3ad7c76f6490@aad1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231003T113000Z
-LOCATION:5-309
-DTSTART:20231003T100000Z
-SUMMARY:ЛК Моделирование экономических процессов
-UID:f4ab1bc9-8ec9-4ac6-b705-d49d90421791@f4ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231129T113000Z
-LOCATION:5-322
-DTSTART:20231129T100000Z
-SUMMARY:ЛК Бизнес-планирование
-UID:dd8c902f-e99b-4d99-b725-84ee6896e9dd@dd8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20230921T131500Z
-LOCATION:5-321
-DTSTART:20230921T114500Z
-SUMMARY:ПЗ Управление командой проекта
-UID:f6f2196b-8ec1-49aa-b784-05f37b0e6190@f6f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231101T150000Z
-LOCATION:5-322
-DTSTART:20231101T133000Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:090f7a1c-5cad-4d81-8a76-4b8778c58716@090f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231227T113000Z
-LOCATION:5-322
-DTSTART:20231227T100000Z
-SUMMARY:ЛК Бизнес-планирование
-UID:72be1681-7e04-4bf9-ac58-c7a1d85489f0@72be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231027T150000Z
-LOCATION:5-321
-DTSTART:20231027T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:d2d99a6e-b603-4c64-83bf-c9a5372e0ac4@d2d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231123T113000Z
-LOCATION:5-321
-DTSTART:20231123T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:4e10bf30-097b-48ac-a3ca-bcecc61cfd38@4e10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231204T091500Z
-LOCATION:5-321
-DTSTART:20231204T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:e6b6fd29-5f08-481b-b820-b51dd8a59164@e6b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20230918T073000Z
-LOCATION:5-321
-DTSTART:20230918T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:d57d689a-4b6d-4abe-bbb9-b9a5e6426595@d57d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20230904T091500Z
-LOCATION:5-321
-DTSTART:20230904T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:7bde1608-ed45-49c1-9d5f-de6f185e3f45@7bde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20230915T113000Z
-LOCATION:5-321
-DTSTART:20230915T100000Z
-SUMMARY:ЛК Системная оценка эффективности проектов
-UID:f87e7ce6-f67d-4abd-b6ea-42b5926c00bf@f87e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231219T131500Z
-LOCATION:5-309
-DTSTART:20231219T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:a25252e1-ff9f-4257-86d2-8b76e602c81a@a252.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231201T150000Z
-LOCATION:5-321
-DTSTART:20231201T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:d85b8653-794f-468b-b10e-fdd7c0a58f75@d85b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231016T073000Z
-LOCATION:5-321
-DTSTART:20231016T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:ad84fe56-bf20-4f13-b646-74a3e12d911d@ad84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
-DTEND:20230905T150000Z
-LOCATION:1-514Б
-DTSTART:20230905T133000Z
-SUMMARY:ЛР Управление человеческими ресурсами
-UID:8fa3d13b-b79c-494c-b3b8-9b56fdce7981@8fa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231107T113000Z
-LOCATION:5-309
-DTSTART:20231107T100000Z
-SUMMARY:ЛК Моделирование экономических процессов
-UID:9de35714-ff05-4dd2-8022-0cf05e8c44a2@9de3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231117T150000Z
-LOCATION:5-321
-DTSTART:20231117T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:648b56ca-e74f-455d-8aec-7ad7b72ecd72@648b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231123T164500Z
-LOCATION:5-425
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Управление человеческими ресурсами
-UID:cc203354-71e1-40da-8eff-5e34e1a584ba@cc20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231225T131500Z
-LOCATION:5-321
-DTSTART:20231225T114500Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:d07bed08-e08f-4a56-8e4d-13e910cb55fd@d07b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231113T073000Z
-LOCATION:5-321
-DTSTART:20231113T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:3d86a393-907e-4a65-ab37-014fffce4363@3d86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230912T073000Z
-LOCATION:5-309
-DTSTART:20230912T060000Z
-SUMMARY:ЛР Моделирование экономических процессов
-UID:bfacbb69-bd33-4c20-8e6c-c0545de7c71a@bfac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
-DTEND:20230919T150000Z
-LOCATION:1-514Б
-DTSTART:20230919T133000Z
-SUMMARY:ЛР Управление человеческими ресурсами
-UID:b54fb883-4dd2-4fa4-98cd-9c5b59018ec6@b54f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231010T091500Z
-LOCATION:5-309
-DTSTART:20231010T074500Z
-SUMMARY:ЛР Моделирование экономических процессов
-UID:ec47cf61-e41c-4a0f-906c-a47e33f25f15@ec47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231025T150000Z
-LOCATION:5-322
-DTSTART:20231025T133000Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:456f404c-bcbe-43ab-b05c-f77e255fce20@456f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20230928T113000Z
-LOCATION:5-321
-DTSTART:20230928T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:a588dc8b-1e22-4cde-8895-be4b436c8b46@a588.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231201T131500Z
-LOCATION:5-321
-DTSTART:20231201T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:de1e0462-551b-4c43-b093-94cc922a141a@de1e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20230914T150000Z
-LOCATION:5-111
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:f471cd85-ca62-47e4-82d1-772377e0589c@f471.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231108T150000Z
-LOCATION:5-322
-DTSTART:20231108T133000Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:19207f41-b062-449d-8449-beb6a87b0694@1920.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20230922T131500Z
-LOCATION:5-321
-DTSTART:20230922T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:9a5f8b73-6386-41c8-ae37-1a2d9dbb0c72@9a5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
-DTEND:20231003T150000Z
-LOCATION:1-514Б
-DTSTART:20231003T133000Z
-SUMMARY:ЛР Управление человеческими ресурсами
-UID:8016eb71-f14a-495b-bb92-9df8c2ef2cde@8016.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231027T113000Z
-LOCATION:5-321
-DTSTART:20231027T100000Z
-SUMMARY:ЛК Системная оценка эффективности проектов
-UID:5e1792ba-74bb-4547-b0f2-3d582db5abf1@5e17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231012T164500Z
-LOCATION:5-425
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Управление человеческими ресурсами
-UID:6730d98d-11dd-47bd-9b90-cc14cc458f59@6730.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20230925T073000Z
-LOCATION:5-321
-DTSTART:20230925T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:8961bee2-0e7a-431b-8459-58f5379599ad@8961.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231002T073000Z
-LOCATION:5-321
-DTSTART:20231002T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:df7c118f-699a-459b-88ce-06521bbcd79f@df7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231218T131500Z
-LOCATION:5-321
-DTSTART:20231218T114500Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:e6fc457e-91da-4a01-b23f-39e4e5d05814@e6fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231113T091500Z
-LOCATION:5-321
-DTSTART:20231113T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:711ea3e6-66b2-47b0-bedc-e41902715ee1@711e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231204T131500Z
-LOCATION:5-321
-DTSTART:20231204T114500Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:9586740f-cf30-4180-bea4-0b3b3fcb1b4d@9586.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231213T131500Z
-LOCATION:5-322
-DTSTART:20231213T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:c029b3d2-8d5c-4821-be68-7751450798d7@c029.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231208T150000Z
-LOCATION:5-321
-DTSTART:20231208T133000Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:89ecb5e9-217d-4d68-bbc2-3c0a86ab00d8@89ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231117T113000Z
-LOCATION:5-321
-DTSTART:20231117T100000Z
-SUMMARY:ЛК Системная оценка эффективности проектов
-UID:b823e317-eb91-4575-85c4-201d6be920e1@b823.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230926T073000Z
-LOCATION:5-309
-DTSTART:20230926T060000Z
-SUMMARY:ЛР Моделирование экономических процессов
-UID:77441edd-e634-439b-a75c-fb7268496541@7744.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20230925T091500Z
-LOCATION:5-321
-DTSTART:20230925T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:ba415303-6555-47ec-8456-7a94b4fa23a9@ba41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231229T150000Z
-LOCATION:5-321
-DTSTART:20231229T133000Z
-SUMMARY:ПЗ Риск - менеджмент проектов
-UID:f7248387-b767-463c-993a-ff8eed20fe5e@f724.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231026T113000Z
-LOCATION:5-321
-DTSTART:20231026T100000Z
-SUMMARY:ЛК Управление командой проекта
-UID:581ded96-6712-4bc3-b832-7ea8c43f7cae@581d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231114T131500Z
-LOCATION:5-309
-DTSTART:20231114T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:31b8f1b1-6ca2-46f2-8531-5866fff90dd7@31b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20230928T150000Z
-LOCATION:5-111
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:f5a53d45-1313-44b6-80be-c6f4f4b09810@f5a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230912T131500Z
-LOCATION:5-309
-DTSTART:20230912T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:b529957b-168c-44f0-9759-0138de40006b@b529.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231025T131500Z
-LOCATION:5-322
-DTSTART:20231025T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:24f6bace-efd3-471d-8c41-dd14688717fd@24f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231103T113000Z
-LOCATION:5-321
-DTSTART:20231103T100000Z
-SUMMARY:ЛК Системная оценка эффективности проектов
-UID:b94af77f-8677-485c-8c50-b844ae22397f@b94a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20230901T113000Z
-LOCATION:5-321
-DTSTART:20230901T100000Z
-SUMMARY:ЛК Системная оценка эффективности проектов
-UID:da5b4bf2-cdc5-4300-9c93-6d0248acbf7a@da5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фролов Юрий Николаевич
-DTEND:20231214T113000Z
-LOCATION:5-321
-DTSTART:20231214T100000Z
-SUMMARY:ЛР Управление командой проекта
-UID:ab363151-5f6e-4c72-9da5-66801e01c860@ab36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20230908T131500Z
-LOCATION:5-321
-DTSTART:20230908T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:214e012d-6719-41ae-81d5-3e2b2870cbcb@214e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231026T164500Z
-LOCATION:5-425
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Управление человеческими ресурсами
-UID:60953d67-229f-4a49-b251-7608fb04a80f@6095.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231013T150000Z
-LOCATION:5-321
-DTSTART:20231013T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:fd70b239-5243-4b64-8eaa-34ef5e1e04fd@fd70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20230929T150000Z
-LOCATION:5-321
-DTSTART:20230929T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:e19cf808-f40b-4624-b593-7b40ed6d18c0@e19c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20230927T113000Z
-LOCATION:5-322
-DTSTART:20230927T100000Z
-SUMMARY:ПЗ Бизнес-планирование
-UID:17a88562-2c08-4929-9ffe-f2d3b9abf475@17a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20231124T150000Z
-LOCATION:5-321
-DTSTART:20231124T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:602cd72d-4892-4e6c-b06f-9b53f7d444b4@602c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермакова Ольга Викторовна
-DTEND:20231027T131500Z
-LOCATION:5-321
-DTSTART:20231027T114500Z
-SUMMARY:ПЗ Системная оценка эффективности проектов
-UID:a74099a9-c3ad-403b-b9b4-4d263501630b@a740.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231031T131500Z
-LOCATION:5-309
-DTSTART:20231031T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:8ea022b9-7b11-41c5-bfdd-7ae601333f90@8ea0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231106T073000Z
-LOCATION:5-321
-DTSTART:20231106T060000Z
-SUMMARY:ЛК Управление интеллектуальными активами компаний
-UID:e6c12e92-490c-465a-a569-8dedbe92d0c4@e6c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Дианова Екатерина Владимировна
-DTEND:20231004T131500Z
-LOCATION:5-322
-DTSTART:20231004T114500Z
-SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
-UID:5e848342-73ff-49d3-a530-3ca0e241f191@5e84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231031T113000Z
-LOCATION:5-309
-DTSTART:20231031T100000Z
-SUMMARY:ЛК Моделирование экономических процессов
-UID:bff3c225-3c28-4fe0-9da8-e3b6b5c8d455@bff3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231107T131500Z
-LOCATION:5-309
-DTSTART:20231107T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:46e6949a-249b-4aa9-ab4f-906c7f65e24f@46e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Андреев Сергей Алексеевич
-DTEND:20231002T091500Z
-LOCATION:5-321
-DTSTART:20231002T074500Z
-SUMMARY:ПЗ Управление интеллектуальными активами компаний
-UID:6955c57a-57dd-437e-86b0-80b553b45c85@6955.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
-DTEND:20231019T150000Z
-LOCATION:5-111
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Управление человеческими ресурсами
-UID:d1b0838e-e533-497a-800e-7d6fd25d5e2d@d1b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20231121T131500Z
-LOCATION:5-309
-DTSTART:20231121T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:520c76f3-2564-4b79-9937-e9a1a836a9cf@520c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Давыдов Алексей Дмитриевич
-DTEND:20230905T131500Z
-LOCATION:5-309
-DTSTART:20230905T114500Z
-SUMMARY:ПЗ Моделирование экономических процессов
-UID:44669037-67b8-4c74-b257-f123c583eb18@4466.org
+UID:4ecc64c7-34c6-4718-bea2-ad27867f2ffc@4ecc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
@@ -1671,31 +31,39 @@ DTEND:20231109T164500Z
 LOCATION:5-425
 DTSTART:20231109T151500Z
 SUMMARY:ПЗ Управление человеческими ресурсами
-UID:13fce633-8d5d-44a1-ac5b-10e8572202c3@13fc.org
+UID:201de9dc-fa0b-4400-88a2-2e9745340c31@201d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20230915T150000Z
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231122T131500Z
+LOCATION:5-322
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:a5c4940d-ecbd-4d52-bc29-fbc5af29c8ba@a5c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231108T131500Z
+LOCATION:5-322
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:375f3025-b255-4319-8187-fd4b0e1f0c08@375f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20230922T131500Z
 LOCATION:5-321
-DTSTART:20230915T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:ee387750-1f71-4922-ac4b-5a693c9f6c60@ee38.org
+DTSTART:20230922T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:79343c42-4311-4657-a8b7-64bec11666a6@7934.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
-DTEND:20231017T150000Z
-LOCATION:1-514Б
-DTSTART:20231017T133000Z
-SUMMARY:ЛР Управление человеческими ресурсами
-UID:0712ab60-2636-42ba-9079-34e64b677508@0712.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Зуева Татьяна Игоревна
-DTEND:20230901T150000Z
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20230921T131500Z
 LOCATION:5-321
-DTSTART:20230901T133000Z
-SUMMARY:ЛК Риск - менеджмент проектов
-UID:2118efbf-d9fb-4b85-8992-3b3f59ac3cb1@2118.org
+DTSTART:20230921T114500Z
+SUMMARY:ПЗ Управление командой проекта
+UID:f54614a2-0ce6-44c1-a8ef-015a06d1498e@f546.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Зуева Татьяна Игоревна
@@ -1703,7 +71,831 @@ DTEND:20230922T150000Z
 LOCATION:5-321
 DTSTART:20230922T133000Z
 SUMMARY:ЛК Риск - менеджмент проектов
-UID:8f086ad4-4817-4f8d-a349-c47995e9d832@8f08.org
+UID:90380cad-7c87-4b1b-8737-45630683324e@9038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231017T113000Z
+LOCATION:5-309
+DTSTART:20231017T100000Z
+SUMMARY:ЛК Моделирование экономических процессов
+UID:9a4b7bd9-b665-4304-81da-e09c83c5bbfa@9a4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231124T131500Z
+LOCATION:5-321
+DTSTART:20231124T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:391e9dc3-17f6-40ec-a26d-66c369f1d693@391e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231004T113000Z
+LOCATION:5-322
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Бизнес-планирование
+UID:c8f1d456-9c2a-4df7-9f25-0db04e2fac3f@c8f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231101T113000Z
+LOCATION:5-322
+DTSTART:20231101T100000Z
+SUMMARY:ЛК Бизнес-планирование
+UID:72c5de44-3ba1-4ecf-91cf-1390ddeeecf6@72c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230912T113000Z
+LOCATION:5-309
+DTSTART:20230912T100000Z
+SUMMARY:ЛК Моделирование экономических процессов
+UID:322b32dc-9a27-4e71-a1ca-3e323320e28a@322b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231114T113000Z
+LOCATION:5-309
+DTSTART:20231114T100000Z
+SUMMARY:ЛК Моделирование экономических процессов
+UID:4f0f3c99-8306-479c-834b-ce1f7ec460e6@4f0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20230918T091500Z
+LOCATION:5-321
+DTSTART:20230918T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:3e8bcf1d-2514-41ab-af3a-a1e99f9da7d4@3e8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20230929T113000Z
+LOCATION:5-321
+DTSTART:20230929T100000Z
+SUMMARY:ЛК Системная оценка эффективности проектов
+UID:377047fe-9f96-4b3b-9a1d-992ea535562b@3770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231227T131500Z
+LOCATION:5-322
+DTSTART:20231227T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:dc8b5806-572b-4367-9e00-4aca2be207b2@dc8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231012T164500Z
+LOCATION:5-425
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:adf0c466-5482-4976-9779-b1d32150b975@adf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231113T091500Z
+LOCATION:5-321
+DTSTART:20231113T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:f122e85a-52c0-4b4d-8d57-54f934115c95@f122.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231109T131500Z
+LOCATION:5-321
+DTSTART:20231109T114500Z
+SUMMARY:ПЗ Управление командой проекта
+UID:d1c20f18-a300-4961-ad8e-b2a075410795@d1c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231124T113000Z
+LOCATION:5-321
+DTSTART:20231124T100000Z
+SUMMARY:ЛК Системная оценка эффективности проектов
+UID:7cafe4c5-8b7b-4b3f-9234-6b495d9d4960@7caf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231129T113000Z
+LOCATION:5-322
+DTSTART:20231129T100000Z
+SUMMARY:ЛК Бизнес-планирование
+UID:6db8fc39-5f9f-4590-b615-31c4121d9b7c@6db8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231220T113000Z
+LOCATION:5-322
+DTSTART:20231220T100000Z
+SUMMARY:ПЗ Бизнес-планирование
+UID:b03e36ba-31db-4228-b051-9ba2d8b21e91@b03e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231212T131500Z
+LOCATION:5-309
+DTSTART:20231212T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:443d19d9-1a08-494b-9086-de91c7eb6674@443d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231103T113000Z
+LOCATION:5-321
+DTSTART:20231103T100000Z
+SUMMARY:ЛК Системная оценка эффективности проектов
+UID:2cf5949f-51f4-425e-a37f-9e77d5567533@2cf5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231026T164500Z
+LOCATION:5-425
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:3a5da668-65a2-430f-84d3-ffa838d4f613@3a5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20230918T073000Z
+LOCATION:5-321
+DTSTART:20230918T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:75a20145-ed68-4f84-b83e-15037462a1bb@75a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20231003T150000Z
+LOCATION:1-514Б
+DTSTART:20231003T133000Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:7bb370bb-f306-4022-9f45-9cc77a99a529@7bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231009T091500Z
+LOCATION:5-321
+DTSTART:20231009T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:a31e48e3-92a5-41d1-a566-60ea43dbd703@a31e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230912T091500Z
+LOCATION:5-309
+DTSTART:20230912T074500Z
+SUMMARY:ЛР Моделирование экономических процессов
+UID:0992ce4b-0ed7-4d24-8b17-df1a1b42fe3f@0992.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231026T150000Z
+LOCATION:5-111
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:939e915d-cd0f-40ce-b6cc-b54dd2214118@939e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20230929T150000Z
+LOCATION:5-321
+DTSTART:20230929T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:b3b8cb79-4185-4bae-9af1-74cd833f524c@b3b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231213T113000Z
+LOCATION:5-322
+DTSTART:20231213T100000Z
+SUMMARY:ЛК Бизнес-планирование
+UID:25d45c85-dec1-4eb5-afd4-b5636b5abb16@25d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231218T131500Z
+LOCATION:5-321
+DTSTART:20231218T114500Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:1acee0f6-cbec-45f6-9bea-69f22e0dd134@1ace.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231012T131500Z
+LOCATION:5-321
+DTSTART:20231012T114500Z
+SUMMARY:ПЗ Управление командой проекта
+UID:749fea55-b05f-4eb4-9e5d-3a036e0e9d44@749f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231102T113000Z
+LOCATION:5-321
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:1c7f4bff-2d07-4d8b-b2ad-b27cddbc3c5e@1c7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231010T073000Z
+LOCATION:5-309
+DTSTART:20231010T060000Z
+SUMMARY:ЛР Моделирование экономических процессов
+UID:5fd8cbf1-7e7d-4d6f-923d-6e91e2fc958a@5fd8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231115T113000Z
+LOCATION:5-322
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Бизнес-планирование
+UID:6a6d0aee-47ae-4368-8f4d-b36df492ae9c@6a6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20230914T113000Z
+LOCATION:5-321
+DTSTART:20230914T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:9888d9a5-92b6-4b19-b6e2-e9ee06e78bc1@9888.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230905T131500Z
+LOCATION:5-309
+DTSTART:20230905T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:72609a90-ce91-486a-ae52-e757ebc312b7@7260.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230920T131500Z
+LOCATION:5-322
+DTSTART:20230920T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:6b5f2a99-6f65-44a6-9621-d1056bb1a457@6b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231003T131500Z
+LOCATION:5-309
+DTSTART:20231003T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:bbf40fff-debc-47e0-bc50-7ff67e23b435@bbf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231027T150000Z
+LOCATION:5-321
+DTSTART:20231027T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:0e2cd1fc-aa32-4ce3-8d10-5e1c14813033@0e2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231218T113000Z
+LOCATION:5-321
+DTSTART:20231218T100000Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:c6dd7ed7-29cf-4654-a770-9ecfe02d26ca@c6dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20230928T113000Z
+LOCATION:5-321
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:896b99a3-1f94-41ff-8a72-a80667583987@896b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20230922T113000Z
+LOCATION:5-321
+DTSTART:20230922T100000Z
+SUMMARY:ЛК Системная оценка эффективности проектов
+UID:0b473426-bddd-4067-ac52-6398cf213a31@0b47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231004T150000Z
+LOCATION:5-322
+DTSTART:20231004T133000Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:6ae0362f-6f36-42a3-8d0c-a2f99dde6350@6ae0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230926T091500Z
+LOCATION:5-309
+DTSTART:20230926T074500Z
+SUMMARY:ЛР Моделирование экономических процессов
+UID:d05ec46b-2750-47c4-b75a-2286f10cd01a@d05e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231031T113000Z
+LOCATION:5-309
+DTSTART:20231031T100000Z
+SUMMARY:ЛК Моделирование экономических процессов
+UID:368ebe7f-7d02-4926-8973-4c4dc4196351@368e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20230919T150000Z
+LOCATION:1-514Б
+DTSTART:20230919T133000Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:65930915-e740-4eaf-901f-4158145a1b5c@6593.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231206T113000Z
+LOCATION:5-322
+DTSTART:20231206T100000Z
+SUMMARY:ПЗ Бизнес-планирование
+UID:7a700cb3-3779-4f40-b5d0-590d537e4186@7a70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231226T131500Z
+LOCATION:5-309
+DTSTART:20231226T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:050cf410-a636-4acc-a3a8-d91a3dfc9c02@050c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231024T113000Z
+LOCATION:5-309
+DTSTART:20231024T100000Z
+SUMMARY:ЛК Моделирование экономических процессов
+UID:adc20d0f-d951-4571-a23d-72637a41d1ae@adc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231005T150000Z
+LOCATION:5-111
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:d62eb19e-edf2-4824-a8f3-8701f9ba470d@d62e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231115T131500Z
+LOCATION:5-322
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:e9a6b385-9751-4846-b111-cf5c9a5c96c0@e9a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231130T150000Z
+LOCATION:5-111
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:2b834a81-56c6-4e7c-827f-2b27957d99b3@2b83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20230921T150000Z
+LOCATION:5-111
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:39105641-4894-4e3b-8f4c-f8dc83f0e3ec@3910.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231225T113000Z
+LOCATION:5-321
+DTSTART:20231225T100000Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:693e6acd-e04c-4958-b9b2-6fe82c88a75e@693e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230920T113000Z
+LOCATION:5-322
+DTSTART:20230920T100000Z
+SUMMARY:ЛК Бизнес-планирование
+UID:72c03af3-1d9b-49fd-bd00-fd45fd9eb406@72c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231103T131500Z
+LOCATION:5-321
+DTSTART:20231103T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:b59364d9-d843-40ce-8e78-54a8c94a8d1e@b593.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231128T131500Z
+LOCATION:5-309
+DTSTART:20231128T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:a7d9d83a-8411-4306-a8c7-6be7c1b33e74@a7d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231213T131500Z
+LOCATION:5-322
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:cc784d35-fa13-429b-8421-d5dc2591a487@cc78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20230908T131500Z
+LOCATION:5-321
+DTSTART:20230908T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:dea92b30-f498-48fe-a5d9-8110e01aff50@dea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231109T150000Z
+LOCATION:5-111
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:3084523b-abb9-4efc-9918-8cb855f55b4c@3084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231004T131500Z
+LOCATION:5-322
+DTSTART:20231004T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:be08991c-a40b-408b-8d23-ea1431583ee1@be08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231002T073000Z
+LOCATION:5-321
+DTSTART:20231002T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:79bbd484-0f24-46cd-b094-871e835a752e@79bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231227T113000Z
+LOCATION:5-322
+DTSTART:20231227T100000Z
+SUMMARY:ЛК Бизнес-планирование
+UID:190fa3ad-606a-47da-9294-de9914b593b6@190f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231207T131500Z
+LOCATION:5-321
+DTSTART:20231207T114500Z
+SUMMARY:ЛР Управление командой проекта
+UID:e73ecd35-357e-4d5b-a6a5-650c91e40d13@e73e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231211T113000Z
+LOCATION:5-321
+DTSTART:20231211T100000Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:f3bbd4ea-7467-4501-b047-5088ba0b1597@f3bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231206T131500Z
+LOCATION:5-322
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:afcfab15-7f4a-4839-bab6-b2dc2b257f3f@afcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231106T073000Z
+LOCATION:5-321
+DTSTART:20231106T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:7dee3a4d-b12d-4f26-b9cb-6a5df9285536@7dee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231016T073000Z
+LOCATION:5-321
+DTSTART:20231016T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:5cceebd4-2b8d-4d15-9a36-d8f51c014a14@5cce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231220T131500Z
+LOCATION:5-322
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:df8393f9-89a9-465b-849d-e05f9208bbaa@df83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230912T073000Z
+LOCATION:5-309
+DTSTART:20230912T060000Z
+SUMMARY:ЛР Моделирование экономических процессов
+UID:87cab8d7-308e-4e3b-abca-83ee57486218@87ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230912T131500Z
+LOCATION:5-309
+DTSTART:20230912T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:adc10231-7230-4bb1-a146-644cf6800ecb@adc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230927T131500Z
+LOCATION:5-322
+DTSTART:20230927T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:832b4234-6bfb-4a7e-84c2-9380a0c7b3e0@832b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231222T150000Z
+LOCATION:5-321
+DTSTART:20231222T133000Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:843452e3-3589-4bfd-9c80-02bf67dfe2d5@8434.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231012T113000Z
+LOCATION:5-321
+DTSTART:20231012T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:ca9529d9-9eaf-4b4b-ba8c-42ad6ca49c8a@ca95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20230915T150000Z
+LOCATION:5-321
+DTSTART:20230915T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:82c92d63-d25b-449e-af24-3af59f71dea2@82c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231108T150000Z
+LOCATION:5-322
+DTSTART:20231108T133000Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:2707252f-3c93-4ddc-9ec6-340ea4b3f32e@2707.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231006T150000Z
+LOCATION:5-321
+DTSTART:20231006T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:6f2804a9-7342-49cd-93db-3465c76fcbf6@6f28.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231123T150000Z
+LOCATION:5-111
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:429be5d9-b227-4f7f-b850-66afc0f159fa@429b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231025T150000Z
+LOCATION:5-322
+DTSTART:20231025T133000Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:98b549b1-78fc-4efe-b25d-ebe61e26bef7@98b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20230905T164500Z
+LOCATION:1-514Б
+DTSTART:20230905T151500Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:8585625a-1352-4908-af1b-a29caa417db2@8585.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20230907T113000Z
+LOCATION:5-321
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:b972c17c-623e-40c3-9280-d96d558798c1@b972.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231123T164500Z
+LOCATION:5-425
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:725a9fa7-d7e3-489b-8157-3cd07768160e@725a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231201T150000Z
+LOCATION:5-321
+DTSTART:20231201T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:3cb50f31-f648-47b7-a586-2c04ca060615@3cb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231024T131500Z
+LOCATION:5-309
+DTSTART:20231024T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:c2b02d0f-1896-4b56-b1f4-62339b755c32@c2b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231116T150000Z
+LOCATION:5-111
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:1db580ce-4e44-4b3b-bd6a-38c9880d86c1@1db5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231102T150000Z
+LOCATION:5-111
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:0ac06d77-969e-4532-aed2-d7614ca0defc@0ac0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230919T113000Z
+LOCATION:5-309
+DTSTART:20230919T100000Z
+SUMMARY:ЛК Моделирование экономических процессов
+UID:9e632615-e04e-4f92-a90a-d0242eedb7c0@9e63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231107T131500Z
+LOCATION:5-309
+DTSTART:20231107T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:27f402b6-bf85-4b90-91b7-76ed22f58e57@27f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231204T113000Z
+LOCATION:5-321
+DTSTART:20231204T100000Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:4efda799-50fd-4c99-a867-7860b7c2b800@4efd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20230928T164500Z
+LOCATION:5-425
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:d4da4fe9-279f-4f0f-b267-b3d525d79957@d4da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231201T131500Z
+LOCATION:5-321
+DTSTART:20231201T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:d337163a-16d2-4560-a767-5d5ec9d0f27a@d337.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231127T073000Z
+LOCATION:5-321
+DTSTART:20231127T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:b2cf2e54-696a-41a3-8b7a-54616913666d@b2cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230926T073000Z
+LOCATION:5-309
+DTSTART:20230926T060000Z
+SUMMARY:ЛР Моделирование экономических процессов
+UID:6278b1cd-078f-414b-9f99-3cef185f25ab@6278.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231214T131500Z
+LOCATION:5-321
+DTSTART:20231214T114500Z
+SUMMARY:ЛР Управление командой проекта
+UID:fc58ca57-0492-40c9-9aa1-6bb63658a964@fc58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20230925T091500Z
+LOCATION:5-321
+DTSTART:20230925T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:9f576e6d-08e6-4324-ba49-69d8f810cf1f@9f57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231101T150000Z
+LOCATION:5-322
+DTSTART:20231101T133000Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:c0ffad98-ce8e-4ae3-b86b-976b03250b87@c0ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20230905T150000Z
+LOCATION:1-514Б
+DTSTART:20230905T133000Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:41a9cf07-f988-4563-a3cb-bf71d68d36d9@41a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231011T131500Z
+LOCATION:5-322
+DTSTART:20231011T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:a3c9c90e-371d-4697-983d-ccb5a84ee0c7@a3c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231116T113000Z
+LOCATION:5-321
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:1194cd9f-d458-4452-ab24-d9c016dbf0d6@1194.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230919T131500Z
+LOCATION:5-309
+DTSTART:20230919T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:160ab498-649c-419f-b2fc-62f83a2559a0@160a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20230914T164500Z
+LOCATION:5-425
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Управление человеческими ресурсами
+UID:0cd4325e-c257-4969-9c5e-d2508b2a06fc@0cd4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231026T131500Z
+LOCATION:5-321
+DTSTART:20231026T114500Z
+SUMMARY:ПЗ Управление командой проекта
+UID:cc72e69a-6864-4617-9418-42fa9ccdab25@cc72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231109T113000Z
+LOCATION:5-321
+DTSTART:20231109T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:e2007b93-1ce5-402b-8122-9e69ca792baa@e200.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230906T131500Z
+LOCATION:5-322
+DTSTART:20230906T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:fafc110c-c1ce-45eb-a86c-554ce8362521@fafc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231005T131500Z
+LOCATION:5-321
+DTSTART:20231005T114500Z
+SUMMARY:ПЗ Управление командой проекта
+UID:a9c631ce-fd37-4fa7-b512-b9c50b3d36aa@a9c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231012T150000Z
+LOCATION:5-111
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:796ee137-b070-447d-bc30-67dba7ae7930@796e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231101T131500Z
+LOCATION:5-322
+DTSTART:20231101T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:74644ef7-7090-48d1-82a6-69a9a23b488c@7464.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фролов Юрий Николаевич
@@ -1711,7 +903,431 @@ DTEND:20230921T113000Z
 LOCATION:5-321
 DTSTART:20230921T100000Z
 SUMMARY:ЛК Управление командой проекта
-UID:44270eaf-192c-47ea-84a8-cffa53ee0cb5@4427.org
+UID:d775aa0c-d657-4766-8d4e-19aaf83bf27e@d775.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20231003T164500Z
+LOCATION:1-514Б
+DTSTART:20231003T151500Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:0c841a77-e8fd-466b-8189-383c8e749679@0c84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20230915T131500Z
+LOCATION:5-321
+DTSTART:20230915T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:085fc851-3162-4ff6-8e61-212c219d268e@085f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231211T091500Z
+LOCATION:5-321
+DTSTART:20231211T074500Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:f8c0ffbe-97e4-4ec5-a2cb-9283d9b68590@f8c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231107T113000Z
+LOCATION:5-309
+DTSTART:20231107T100000Z
+SUMMARY:ЛК Моделирование экономических процессов
+UID:7dbf4fcd-7b60-4da9-9b79-eeb2bf0e70d7@7dbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231026T113000Z
+LOCATION:5-321
+DTSTART:20231026T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:18178735-6fb0-42fd-a7a9-646cba2b5639@1817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231108T113000Z
+LOCATION:5-322
+DTSTART:20231108T100000Z
+SUMMARY:ПЗ Бизнес-планирование
+UID:00e708a1-09da-48a3-9a84-008e0b24bd10@00e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231016T091500Z
+LOCATION:5-321
+DTSTART:20231016T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:5b5f0ef7-415e-45ae-91d4-06df725c372b@5b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231229T150000Z
+LOCATION:5-321
+DTSTART:20231229T133000Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:c9f18f11-fe14-4f34-9102-3a9e0d628d10@c9f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231013T113000Z
+LOCATION:5-321
+DTSTART:20231013T100000Z
+SUMMARY:ЛК Системная оценка эффективности проектов
+UID:40d37d1a-2427-454a-b637-eefbe294dc87@40d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231110T150000Z
+LOCATION:5-321
+DTSTART:20231110T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:f7765aba-809b-4c15-8724-1b79f4563d6f@f776.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230905T113000Z
+LOCATION:5-309
+DTSTART:20230905T100000Z
+SUMMARY:ЛК Моделирование экономических процессов
+UID:cd47ecf3-3f4e-4446-be3b-e9a28acf3b87@cd47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20231017T164500Z
+LOCATION:1-514Б
+DTSTART:20231017T151500Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:672857fa-1f22-49fc-ae08-16d8d13396bc@6728.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20230915T113000Z
+LOCATION:5-321
+DTSTART:20230915T100000Z
+SUMMARY:ЛК Системная оценка эффективности проектов
+UID:373f3f67-1a80-4770-bff8-7d52cabe9488@373f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230920T150000Z
+LOCATION:5-322
+DTSTART:20230920T133000Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:25aa73a3-664e-4950-a51b-f1f02a0e204e@25aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231130T113000Z
+LOCATION:5-321
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:31749460-231b-4348-8d87-4f0b43d6c6ba@3174.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20230925T073000Z
+LOCATION:5-321
+DTSTART:20230925T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:5a9053ab-a072-41b3-9bb1-93d26ebe4a59@5a90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231123T113000Z
+LOCATION:5-321
+DTSTART:20231123T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:ff694ce2-651d-4749-9bdc-f9e6665d5a79@ff69.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230906T113000Z
+LOCATION:5-322
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Бизнес-планирование
+UID:d9d6c6aa-bccf-407f-8a72-877c1692038a@d9d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231102T131500Z
+LOCATION:5-321
+DTSTART:20231102T114500Z
+SUMMARY:ПЗ Управление командой проекта
+UID:e74cabc4-e365-4da7-8c02-11a967a91fd1@e74c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20230914T131500Z
+LOCATION:5-321
+DTSTART:20230914T114500Z
+SUMMARY:ПЗ Управление командой проекта
+UID:80963d11-66dc-47d0-ade2-d16442f302e1@8096.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231009T073000Z
+LOCATION:5-321
+DTSTART:20231009T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:14546ed0-1951-4e2f-bf0a-ce2bdb09f985@1454.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20230908T113000Z
+LOCATION:5-321
+DTSTART:20230908T100000Z
+SUMMARY:ЛК Системная оценка эффективности проектов
+UID:3e6d3db9-1612-4375-9954-5b7b664b4298@3e6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231018T150000Z
+LOCATION:5-322
+DTSTART:20231018T133000Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:6621c4f3-5fd9-4525-8b0e-11f2f8943244@6621.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230913T113000Z
+LOCATION:5-322
+DTSTART:20230913T100000Z
+SUMMARY:ПЗ Бизнес-планирование
+UID:89dcf0eb-6f60-435d-bda8-cf50004f5cc2@89dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231011T113000Z
+LOCATION:5-322
+DTSTART:20231011T100000Z
+SUMMARY:ПЗ Бизнес-планирование
+UID:049419c6-6ba9-46cf-a70c-913e995784ba@0494.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20231019T150000Z
+LOCATION:5-111
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:30133144-babc-4aba-b4f0-c59a1c1426ff@3013.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231023T073000Z
+LOCATION:5-321
+DTSTART:20231023T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:68e181c2-a2eb-4312-95c1-220cd90d6bb3@68e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231122T113000Z
+LOCATION:5-322
+DTSTART:20231122T100000Z
+SUMMARY:ПЗ Бизнес-планирование
+UID:724241f5-5b8b-4fad-aa96-af7549648229@7242.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231208T150000Z
+LOCATION:5-321
+DTSTART:20231208T133000Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:4b047540-f2c3-4cc2-90ac-337b3d73d45f@4b04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231006T131500Z
+LOCATION:5-321
+DTSTART:20231006T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:002187dc-9454-4b61-83b8-5f3c47083350@0021.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231003T113000Z
+LOCATION:5-309
+DTSTART:20231003T100000Z
+SUMMARY:ЛК Моделирование экономических процессов
+UID:028f962a-a14f-4c02-ba57-9b5bbbdf0062@028f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231013T131500Z
+LOCATION:5-321
+DTSTART:20231013T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:fda1adf6-46b9-49e3-99cb-100a3939bbbc@fda1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231204T131500Z
+LOCATION:5-321
+DTSTART:20231204T114500Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:09592d93-d7aa-4595-a662-fcaf05b8fdaf@0959.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231120T073000Z
+LOCATION:5-321
+DTSTART:20231120T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:43e716fb-ce8e-43db-983a-98900f6371da@43e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20230908T150000Z
+LOCATION:5-321
+DTSTART:20230908T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:d03f4fff-b1c4-4a7f-a754-391089a03f8a@d03f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231106T091500Z
+LOCATION:5-321
+DTSTART:20231106T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:2de9fa91-b463-43f5-a513-07369b800dab@2de9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231031T131500Z
+LOCATION:5-309
+DTSTART:20231031T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:e82f8f5b-e131-4974-8f20-62f305a5198b@e82f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231129T131500Z
+LOCATION:5-322
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:b69dc05d-cd6b-46e7-9b78-b9099010f5b5@b69d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231025T131500Z
+LOCATION:5-322
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:6e974afc-ab9a-4180-8df8-6428894eeb98@6e97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20230907T150000Z
+LOCATION:5-111
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:d6417b9f-66ee-4d85-8deb-09230f65301f@d641.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231215T150000Z
+LOCATION:5-321
+DTSTART:20231215T133000Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:dd2feea8-9c65-4a15-851c-abc65d860cc6@dd2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20230928T150000Z
+LOCATION:5-111
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:9c937b49-62f2-43af-a7bd-5c1148a79dfa@9c93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231120T091500Z
+LOCATION:5-321
+DTSTART:20231120T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:10c8e41e-fd7d-44f9-a7f4-89fd2dadc4aa@10c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231013T150000Z
+LOCATION:5-321
+DTSTART:20231013T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:4c737cde-c650-46f0-929c-a6226dda2d85@4c73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230913T150000Z
+LOCATION:5-322
+DTSTART:20230913T133000Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:785bf88a-d8d8-408e-a63f-f146baab575c@785b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231018T113000Z
+LOCATION:5-322
+DTSTART:20231018T100000Z
+SUMMARY:ЛК Бизнес-планирование
+UID:71ea6c61-b58f-4064-9bcf-81a76b699bb2@71ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231010T131500Z
+LOCATION:5-309
+DTSTART:20231010T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:1eb80fb0-a3af-4bef-a420-7d4f3839a5ef@1eb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231127T091500Z
+LOCATION:5-321
+DTSTART:20231127T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:c2c5d458-0015-4115-a6e5-82f054733145@c2c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231214T113000Z
+LOCATION:5-321
+DTSTART:20231214T100000Z
+SUMMARY:ЛР Управление командой проекта
+UID:277bdd64-6a21-4a77-a5b0-7ca28ccd5035@277b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20230911T091500Z
+LOCATION:5-321
+DTSTART:20230911T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:9270394e-c6cb-4503-820c-99b138820597@9270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20230901T113000Z
+LOCATION:5-321
+DTSTART:20230901T100000Z
+SUMMARY:ЛК Системная оценка эффективности проектов
+UID:5b955ee9-9170-4b80-8e30-a0d23bc9de39@5b95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231219T131500Z
+LOCATION:5-309
+DTSTART:20231219T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:38fb287c-52dc-44a8-a29d-ef4348f8b323@38fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231204T091500Z
+LOCATION:5-321
+DTSTART:20231204T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:4ccd9c03-3453-4280-961f-9d5026b9a3f9@4ccd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Дианова Екатерина Владимировна
@@ -1719,6 +1335,390 @@ DTEND:20231025T113000Z
 LOCATION:5-322
 DTSTART:20231025T100000Z
 SUMMARY:ПЗ Бизнес-планирование
-UID:d99a18d7-7074-4053-9998-9cb62566dbdd@d99a.org
+UID:478961ca-37da-4fce-9b83-1f131a7b988f@4789.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231113T073000Z
+LOCATION:5-321
+DTSTART:20231113T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:d1478683-c1e6-4aee-88cf-5f0802efc79d@d147.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231019T113000Z
+LOCATION:5-321
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:12291a72-b63a-48d7-a329-4dfaba8e8067@1229.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231211T131500Z
+LOCATION:5-321
+DTSTART:20231211T114500Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:92dff9d3-7b2e-4890-ac72-c592f0f009d7@92df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230926T131500Z
+LOCATION:5-309
+DTSTART:20230926T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:360a5997-d11e-461e-9ebc-cbe4f7c6bfda@360a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231005T113000Z
+LOCATION:5-321
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Управление командой проекта
+UID:48aacaed-c250-4238-99a4-94f6a2452c21@48aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231020T113000Z
+LOCATION:5-321
+DTSTART:20231020T100000Z
+SUMMARY:ЛК Системная оценка эффективности проектов
+UID:6c86a43b-724a-4827-a096-a110b8d47db0@6c86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МИХАЙЛОВ АДРИАН АЛЕКСЕЕВИЧ
+DTEND:20230914T150000Z
+LOCATION:5-111
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Управление человеческими ресурсами
+UID:a95bde8d-a300-4a9f-92b5-a17b65f58248@a95b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20230929T131500Z
+LOCATION:5-321
+DTSTART:20230929T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:52ee51d7-7636-4f4c-b5f9-393dbdb245db@52ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20230904T091500Z
+LOCATION:5-321
+DTSTART:20230904T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:3ae79396-5b40-42b3-b2f2-a7f16e6ca16c@3ae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20230919T164500Z
+LOCATION:1-514Б
+DTSTART:20230919T151500Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:b1e2ee9e-f3df-49db-96d4-c3da0abecc0d@b1e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231018T131500Z
+LOCATION:5-322
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:6b3d5f66-7986-4100-b321-2303bf28e307@6b3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231114T131500Z
+LOCATION:5-309
+DTSTART:20231114T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:42ec026c-bb94-4f5a-9954-a716825bb049@42ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231117T131500Z
+LOCATION:5-321
+DTSTART:20231117T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:2abfe52c-b56c-404c-82a6-5622f7418153@2abf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231121T131500Z
+LOCATION:5-309
+DTSTART:20231121T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:072aea50-2594-425a-8a2e-3593df064735@072a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231124T150000Z
+LOCATION:5-321
+DTSTART:20231124T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:6cb8d308-8201-4bd2-8884-1a3c6f5af863@6cb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230906T150000Z
+LOCATION:5-322
+DTSTART:20230906T133000Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:d0ab733c-01ab-404c-98b4-e9e63d367b22@d0ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20230907T131500Z
+LOCATION:5-321
+DTSTART:20230907T114500Z
+SUMMARY:ПЗ Управление командой проекта
+UID:ae3513c5-2914-4889-bec1-9932768337f0@ae35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231207T113000Z
+LOCATION:5-321
+DTSTART:20231207T100000Z
+SUMMARY:ЛР Управление командой проекта
+UID:dacf6871-590f-4ad5-a9f7-abdbb60f7e01@dacf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20230904T073000Z
+LOCATION:5-321
+DTSTART:20230904T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:08d589f7-7758-4e4a-878e-9d4290b15749@08d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20230901T150000Z
+LOCATION:5-321
+DTSTART:20230901T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:e9171250-c45b-49ba-a692-8fa1bc649e4b@e917.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231010T091500Z
+LOCATION:5-309
+DTSTART:20231010T074500Z
+SUMMARY:ЛР Моделирование экономических процессов
+UID:0fbb6f0e-6caf-467e-98cc-c8873e7c6e8d@0fbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231017T131500Z
+LOCATION:5-309
+DTSTART:20231017T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:0cc54ba9-b850-4af7-9a0a-b587e680a2f2@0cc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231020T131500Z
+LOCATION:5-321
+DTSTART:20231020T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:0e07acbc-7d6c-46e0-a2fb-a5992790de68@0e07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ФЕДУЛОВ ВЛАДИМИР ИВАНОВИЧ
+DTEND:20231017T150000Z
+LOCATION:1-514Б
+DTSTART:20231017T133000Z
+SUMMARY:ЛР Управление человеческими ресурсами
+UID:5a39ad79-2d9d-4d6e-b05a-c01be13b4817@5a39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231225T091500Z
+LOCATION:5-321
+DTSTART:20231225T074500Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:a6860439-a05b-44d7-9b4e-37c8b83b7f84@a686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230927T113000Z
+LOCATION:5-322
+DTSTART:20230927T100000Z
+SUMMARY:ПЗ Бизнес-планирование
+UID:1485fbc7-121f-48e4-a5b2-dec3e051b05e@1485.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230927T150000Z
+LOCATION:5-322
+DTSTART:20230927T133000Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:2e94c495-6db9-4bf3-a510-c5429beb5084@2e94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231205T131500Z
+LOCATION:5-309
+DTSTART:20231205T114500Z
+SUMMARY:ПЗ Моделирование экономических процессов
+UID:8f326470-d8e4-43c2-af05-de49ed071ab9@8f32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231027T131500Z
+LOCATION:5-321
+DTSTART:20231027T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:61465b8d-2df8-4834-907b-b6f9bef8e138@6146.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231110T131500Z
+LOCATION:5-321
+DTSTART:20231110T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:efd5d90d-004e-431e-bb54-83a5beb4df3f@efd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231020T150000Z
+LOCATION:5-321
+DTSTART:20231020T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:a732d3c5-0721-4367-95b6-339496a62205@a732.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231117T150000Z
+LOCATION:5-321
+DTSTART:20231117T133000Z
+SUMMARY:ЛК Риск - менеджмент проектов
+UID:de031c7d-db4f-4213-809b-58ffbbe268b5@de03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20230913T131500Z
+LOCATION:5-322
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:cde3dfdd-a0e5-46fa-aea1-81a105b64fb2@cde3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231024T091500Z
+LOCATION:5-309
+DTSTART:20231024T074500Z
+SUMMARY:ЛР Моделирование экономических процессов
+UID:e4f7d8d2-7bad-475e-9d42-d57226621f15@e4f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231023T091500Z
+LOCATION:5-321
+DTSTART:20231023T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:3243e164-9f97-4be0-95ba-4a8c913ed300@3243.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231002T091500Z
+LOCATION:5-321
+DTSTART:20231002T074500Z
+SUMMARY:ПЗ Управление интеллектуальными активами компаний
+UID:ca3206a7-85ab-45cf-b1f0-fca810fb8e9d@ca32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20230911T073000Z
+LOCATION:5-321
+DTSTART:20230911T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:97243519-3c3e-4c7d-bec5-be274a626f99@9724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20230901T131500Z
+LOCATION:5-321
+DTSTART:20230901T114500Z
+SUMMARY:ПЗ Системная оценка эффективности проектов
+UID:76de5c4f-b96d-44c8-a270-547c96ab3c82@76de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Дианова Екатерина Владимировна
+DTEND:20231011T150000Z
+LOCATION:5-322
+DTSTART:20231011T133000Z
+SUMMARY:ПЗ Практикум по планированию и анализу эффективности инновационных проектов
+UID:296b40e9-b348-4755-af06-2d0bcb4d5fc7@296b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Зуева Татьяна Игоревна
+DTEND:20231225T131500Z
+LOCATION:5-321
+DTSTART:20231225T114500Z
+SUMMARY:ПЗ Риск - менеджмент проектов
+UID:c00a4241-893e-42fe-b926-4802fb74efdd@c00a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231010T113000Z
+LOCATION:5-309
+DTSTART:20231010T100000Z
+SUMMARY:ЛК Моделирование экономических процессов
+UID:befe3bbc-c768-40ad-b30c-8156f3e15d3b@befe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20231019T131500Z
+LOCATION:5-321
+DTSTART:20231019T114500Z
+SUMMARY:ПЗ Управление командой проекта
+UID:1c5cd4bf-e29f-47cc-bcec-77749df44c37@1c5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20230926T113000Z
+LOCATION:5-309
+DTSTART:20230926T100000Z
+SUMMARY:ЛК Моделирование экономических процессов
+UID:4007db26-a046-49f9-8a9c-d0e6ec4b3119@4007.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Давыдов Алексей Дмитриевич
+DTEND:20231024T073000Z
+LOCATION:5-309
+DTSTART:20231024T060000Z
+SUMMARY:ЛР Моделирование экономических процессов
+UID:1b30cfe5-7cb9-4e18-beae-433bff08d8e0@1b30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231027T113000Z
+LOCATION:5-321
+DTSTART:20231027T100000Z
+SUMMARY:ЛК Системная оценка эффективности проектов
+UID:ead613a2-c824-4ed7-b195-324ff65b5196@ead6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермакова Ольга Викторовна
+DTEND:20231006T113000Z
+LOCATION:5-321
+DTSTART:20231006T100000Z
+SUMMARY:ЛК Системная оценка эффективности проектов
+UID:afbdf499-5ef4-4a1b-849b-98bc8ffaab8e@afbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Андреев Сергей Алексеевич
+DTEND:20231030T073000Z
+LOCATION:5-321
+DTSTART:20231030T060000Z
+SUMMARY:ЛК Управление интеллектуальными активами компаний
+UID:392701b8-cf03-4013-bd85-e47a7ef1742d@3927.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фролов Юрий Николаевич
+DTEND:20230928T131500Z
+LOCATION:5-321
+DTSTART:20230928T114500Z
+SUMMARY:ПЗ Управление командой проекта
+UID:aa91102a-fef1-4304-81ed-44037d42b8ad@aa91.org
 END:VEVENT
 END:VCALENDAR

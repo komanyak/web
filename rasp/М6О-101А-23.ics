@@ -2,292 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231012T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231012T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:3f4ade80-6aae-4e9d-9836-bd4c1b883ea7@3f4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20230928T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20230928T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:aea956ae-6d8d-4b7a-b58b-5815d0c00ea6@aea9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231130T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231130T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:f41a924c-e2d4-4c9c-8ea8-e46bda260bd9@f41a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231228T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231228T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:41cb94e6-a357-44fa-9034-81f2dd73138a@41cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T131500Z
-LOCATION:24-312
-DTSTART:20230904T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ff868810-b82a-4163-b13b-7cb63d9c1e36@ff86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20240118T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20240118T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:15d5c999-8e5e-49a9-99e0-a14c433263e1@15d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:24-312
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2311e94a-6d80-4e3d-8d35-31eb1a129fad@2311.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T131500Z
-LOCATION:24-312
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:52f9b8b3-4751-4aae-b85a-3c5d89b72510@52f9.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231113T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231113T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:a4070e55-2924-4902-8072-f6e8ede7d283@a407.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230904T183000Z
+DTEND:20231023T164500Z
 LOCATION:3-Зал А
-DTSTART:20230904T170000Z
+DTSTART:20231023T151500Z
 SUMMARY:ЛК История и философия науки
-UID:57449122-54b9-4054-9416-857698b8d3c6@5744.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231030T164500Z
-LOCATION:3-Зал А
-DTSTART:20231030T151500Z
-SUMMARY:ЛК История и философия науки
-UID:e55dff0e-7223-4250-a9c0-1396ae07698a@e55d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T131500Z
-LOCATION:24-312
-DTSTART:20231106T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e5f730c9-9e5d-42c1-84b9-61c69fab67c0@e5f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231211T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231211T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:e0f3e42b-117a-4505-8d1a-ddf8374f12f3@e0f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231214T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231214T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:447862fe-7235-4127-9388-25f6a37c8aab@4478.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231109T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231109T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:23672c26-84d9-4368-84b0-e3d4913aeda7@2367.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240108T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240108T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:84c6b6f7-3bd4-48eb-a372-fc0350e54a49@84c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231207T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231207T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:8d494a0f-0036-462c-a015-90d6520aa21b@8d49.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:24-312
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a4692756-b2eb-40eb-b1e6-62ca72f2f25c@a469.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T131500Z
-LOCATION:24-312
-DTSTART:20231002T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:25b4cff1-274c-497f-92f3-342a531e3dc0@25b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231016T183000Z
-LOCATION:3-Зал А
-DTSTART:20231016T170000Z
-SUMMARY:ЛК История и философия науки
-UID:67ea83b6-f623-4622-b9e3-21c78b1d8529@67ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231120T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:5491c3f2-698a-4d1a-a844-30af263002c7@5491.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231207T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:7df813cd-f90c-44fa-b3e7-8b38e6e908e6@7df8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:24-312
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6886e9e4-b849-4b7e-9226-bfa865f9e014@6886.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240129T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240129T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:b9552c9f-c7d3-4629-bdf2-8849307ecb4c@b955.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231030T183000Z
-LOCATION:3-Зал А
-DTSTART:20231030T170000Z
-SUMMARY:ЛК История и философия науки
-UID:969ed16c-3d49-4905-bcdd-75047d9584bb@969e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20230928T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:250957e8-1a64-468c-990d-3617a9f20698@2509.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231116T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231116T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4753e714-a81b-49e5-b92f-5159140ebf26@4753.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231211T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231211T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:9859b8ca-4feb-484f-9328-2e26585c3bc6@9859.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231026T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:b6efc925-a4a7-483c-a7d1-6b6e23cc0b6f@b6ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231005T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:01676a58-c8ad-4355-8c64-678463e41768@0167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231009T164500Z
-LOCATION:3-Зал А
-DTSTART:20231009T151500Z
-SUMMARY:ЛК История и философия науки
-UID:923183bf-356a-4cfb-8ddc-d71966c7e6e0@9231.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T131500Z
-LOCATION:24-312
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:cb82cf42-79f4-4c29-92b2-915fa41d1278@cb82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20240201T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20240201T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:d17607bb-52ab-4ee8-a088-83b368059c24@d176.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20230921T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:40ae676d-e32b-4d09-bc95-ef0da3a874bf@40ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230925T183000Z
-LOCATION:3-Зал А
-DTSTART:20230925T170000Z
-SUMMARY:ЛК История и философия науки
-UID:e8f39ab8-cfbf-4505-be77-38263a834c4e@e8f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231204T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231204T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:41ae73c3-e3aa-4c9e-94f5-98d2d4e3cd4a@41ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231228T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231228T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:136b60a4-aafe-4add-8201-a58147a23603@136b.org
+UID:647f7ef0-d297-4ccc-b85b-5612a36e3c67@647f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Абрамова Ольга Владимировна
@@ -295,293 +15,21 @@ DTEND:20230907T150000Z
 LOCATION:ГУК А-507а
 DTSTART:20230907T133000Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:887528a7-e84c-4a2e-9ede-3191cc92e994@8875.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231218T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231218T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:da2e295a-33bb-4901-aacb-2247136193a9@da2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231023T183000Z
-LOCATION:3-Зал А
-DTSTART:20231023T170000Z
-SUMMARY:ЛК История и философия науки
-UID:0d02035c-d0f6-4c8f-bdd9-8f8581243734@0d02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231026T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231026T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:3b874c7b-21bb-45ae-9b95-6fd1bdbb81ae@3b87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20240125T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20240125T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:7e13c5f2-b334-43fd-84f4-13bdd4b78207@7e13.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:24-312
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:0097118c-eee4-42be-baac-01947887da59@0097.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20240201T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20240201T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:dc596b9b-49ac-4d31-b5f1-60c206aedd1c@dc59.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:24-312
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a84e76e6-061a-43e4-847b-932bf270d35f@a84e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20230907T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:6edeb52a-7f2d-46ef-a923-7da08027ef96@6ede.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231019T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231019T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:283216ec-29bb-4a0f-9468-02e3b5136dfd@2832.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T131500Z
-LOCATION:24-312
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d7635c09-56e1-4050-81b6-afd2cf54d957@d763.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:24-312
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e44c6f5a-8e26-48bc-bd3e-e05b0b83aa3c@e44c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240115T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240115T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:ea146b74-63d6-47bb-8776-6980c25b72e6@ea14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231116T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:1250a4a0-61c2-45fc-9939-4741e1e891b9@1250.org
+UID:09ce9e95-7750-423b-b23b-f1b5122b8f34@09ce.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231002T150000Z
 LOCATION:24-312
 DTSTART:20231002T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7721dbde-dc51-4ca3-8de3-8866ae5d2c3a@7721.org
+UID:bc75d6f3-da21-42d9-9411-01be54985267@bc75.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231123T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:7ad105ca-0ce8-46c1-86bc-f005b5dd4050@7ad1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231102T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231102T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:083ca142-0c07-4d99-a3ce-23cf019092bb@083c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231106T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:28bed3ea-79ab-449d-8f3b-4f5ea3741412@28be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231214T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231214T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:708d8439-7360-4c99-8117-ae5c0f193f74@708d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230904T164500Z
-LOCATION:3-Зал А
-DTSTART:20230904T151500Z
-SUMMARY:ЛК История и философия науки
-UID:892d563d-f26d-40b4-b4a9-23607a2f881f@892d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240122T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240122T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:58281a20-5d0a-42b1-ad11-140bb3a715e8@5828.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230918T183000Z
-LOCATION:3-Зал А
-DTSTART:20230918T170000Z
-SUMMARY:ЛК История и философия науки
-UID:b2c38433-6a21-4d40-b236-99c808611759@b2c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T131500Z
+DTEND:20230925T150000Z
 LOCATION:24-312
-DTSTART:20230911T114500Z
+DTSTART:20230925T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a0b9886f-25e8-4be0-a76a-d5b111146f3c@a0b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:24-312
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f8df76a6-fde4-469d-a566-9febb9ee6e6f@f8df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231204T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231204T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:81363256-c324-49a6-8ce8-0e67ef12a4c3@8136.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231012T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:35bc8b15-a83c-4658-b507-552606d675bd@35bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240115T183000Z
-LOCATION:ГУК А-512
-DTSTART:20240115T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:b212b0cb-fada-4f10-8fb0-035d72ef257c@b212.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20240118T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20240118T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:671b2a68-f6f4-410d-bbe6-52a2730a0e0c@671b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:24-312
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:61a061fc-b9d3-488f-94c4-a5ed0e58e12c@61a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240108T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240108T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:f8c43397-d204-4c99-b65e-0b2a6d804dde@f8c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20240125T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20240125T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:34cc043d-c82a-4551-8d9c-c06f6c6bc4a8@34cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231005T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231005T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:5ee5f739-bd2b-4a26-98d6-dbc06b22ea9c@5ee5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20240111T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20240111T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4ab69427-48c4-4985-a445-feeb1257bf3a@4ab6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:24-312
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:c5d42fa4-72c8-4b8c-9bde-69727ec993ea@c5d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231106T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231106T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:a76d3057-1d07-4bae-9975-1d8366d085d5@a76d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T131500Z
-LOCATION:24-312
-DTSTART:20231016T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:699f256a-8915-40ad-a6c5-534f9f998d66@699f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240129T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240129T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:a3110cf7-667f-4875-b4dc-9702d53d362b@a311.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231019T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:68da52c9-8ca6-488e-848a-bc415a080a0b@68da.org
+UID:70d2201e-ca31-4e31-99af-b1d9514dc6c7@70d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
@@ -589,15 +37,7 @@ DTEND:20231225T164500Z
 LOCATION:ГУК А-512
 DTSTART:20231225T151500Z
 SUMMARY:ПЗ История и философия науки
-UID:b67f07b1-dca3-4db5-96ca-3c5538ff9db3@b67f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231120T183000Z
-LOCATION:ГУК А-512
-DTSTART:20231120T170000Z
-SUMMARY:ПЗ История и философия науки
-UID:73f74c74-5ebe-4a97-a425-fe78ee692597@73f7.org
+UID:3825af09-5990-4be7-9236-81b0f79cf49c@3825.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
@@ -605,62 +45,77 @@ DTEND:20231218T164500Z
 LOCATION:ГУК А-512
 DTSTART:20231218T151500Z
 SUMMARY:ПЗ История и философия науки
-UID:e4e7af7d-2f20-4fc7-944c-43fd351b28d5@e4e7.org
+UID:1898e863-c4c0-4662-8789-b6dbf7422d38@1898.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20240122T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240122T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:5d0b6e14-b13b-463e-b95a-1f8f6f4fbc93@5d0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20230921T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20230921T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:7f372510-1729-448a-b596-63b9dd4f955d@7f37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231127T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231127T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:ee2783bb-e4c5-4056-be84-310a9b6fcdd1@ee27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230925T164500Z
+DTEND:20231030T183000Z
 LOCATION:3-Зал А
-DTSTART:20230925T151500Z
+DTSTART:20231030T170000Z
 SUMMARY:ЛК История и философия науки
-UID:c58f6761-16d4-4970-98c4-0325ccd698c8@c58f.org
+UID:63c42c56-6a72-416e-88ae-993c58500616@63c4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230918T164500Z
-LOCATION:3-Зал А
-DTSTART:20230918T151500Z
-SUMMARY:ЛК История и философия науки
-UID:3c2c9085-a026-470a-aa80-5a71d6a0bbe5@3c2c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
+DTEND:20231120T150000Z
 LOCATION:24-312
-DTSTART:20231023T133000Z
+DTSTART:20231120T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:52661b26-d49e-4a66-b2d7-1cf3d766df0b@5266.org
+UID:f8e7a171-6b20-4303-9be9-47e58d3e980f@f8e7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20230914T164500Z
+DTEND:20231019T164500Z
 LOCATION:ГУК А-507а
-DTSTART:20230914T151500Z
+DTSTART:20231019T151500Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:c92e2a6e-a944-4ace-abde-b99722920d6d@c92e.org
+UID:622048ad-0e55-407b-875f-f802bf882796@6220.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230925T183000Z
+LOCATION:3-Зал А
+DTSTART:20230925T170000Z
+SUMMARY:ЛК История и философия науки
+UID:112dea34-419b-49b1-825a-8da0cddba0e1@112d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231016T183000Z
+LOCATION:3-Зал А
+DTSTART:20231016T170000Z
+SUMMARY:ЛК История и философия науки
+UID:3e498faf-a53d-4d9e-a02b-4252e4ed459e@3e49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240108T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240108T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:978bbc71-d9a7-4f90-8e3b-7740a3ca820c@978b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20240118T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20240118T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:3697b270-bfa1-4763-ac4e-b17e5409cd3c@3697.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T131500Z
+LOCATION:24-312
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c6a55cb4-7877-445b-8ffb-f61875eace52@c6a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231012T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231012T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:e840f445-1c9e-4c1e-b622-507d14f02cca@e840.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
@@ -668,15 +123,62 @@ DTEND:20231113T164500Z
 LOCATION:ГУК А-512
 DTSTART:20231113T151500Z
 SUMMARY:ПЗ История и философия науки
-UID:0a253a0c-687e-4b64-94d2-8d3922043989@0a25.org
+UID:3f3b64dc-caf9-4b99-95ac-031dbd283919@3f3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20230921T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20230921T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:246c4212-2f13-4370-987d-5e0fa74db4de@246c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231228T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231228T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:fe9e2648-55e8-494f-b1ce-1beb95a9f93c@fe9e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231225T183000Z
+DTEND:20230918T183000Z
+LOCATION:3-Зал А
+DTSTART:20230918T170000Z
+SUMMARY:ЛК История и философия науки
+UID:d730148d-decf-4462-aa92-02ee50010abb@d730.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230904T183000Z
+LOCATION:3-Зал А
+DTSTART:20230904T170000Z
+SUMMARY:ЛК История и философия науки
+UID:d7950c74-d19e-48bb-bc74-a5dd8882c0cf@d795.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240122T164500Z
 LOCATION:ГУК А-512
-DTSTART:20231225T170000Z
+DTSTART:20240122T151500Z
 SUMMARY:ПЗ История и философия науки
-UID:3f768976-e00d-4d5a-806d-cbf83ac74ff3@3f76.org
+UID:358da6e9-94c4-4119-b081-fbff28517496@358d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:24-312
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:8cd94ee1-89ca-4e37-8c79-7564d8b53da3@8cd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20230928T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20230928T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:8e0521fa-9c2d-4a9e-8d25-243e3113b6a3@8e05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
@@ -684,75 +186,86 @@ DTEND:20231127T183000Z
 LOCATION:ГУК А-512
 DTSTART:20231127T170000Z
 SUMMARY:ПЗ История и философия науки
-UID:f61adce3-3ea8-4a0b-a6af-ec4e5e9a77a5@f61a.org
+UID:059e4071-1fd6-4f91-81a3-d8fdad78633a@059e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231109T164500Z
+DTEND:20230921T164500Z
 LOCATION:ГУК А-507а
-DTSTART:20231109T151500Z
+DTSTART:20230921T151500Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:124a2091-4b2c-48ac-8d81-ceffaf76355c@124a.org
+UID:8850349b-0e9f-46d0-a67f-dcbb39b5a92c@8850.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231120T131500Z
-LOCATION:24-312
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:eb1c9cec-6286-4d2c-bb81-ee10589c8c6e@eb1c.org
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231026T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231026T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:88928b90-de1b-476a-b6d6-c248e9721432@8892.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230918T131500Z
-LOCATION:24-312
-DTSTART:20230918T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1ad0257e-3ed3-461b-884d-21ae771a83ca@1ad0.org
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20240125T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20240125T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f82351a4-8727-46a7-8cfb-229be577f8ed@f823.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230925T131500Z
-LOCATION:24-312
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f4be09c1-be06-409b-a488-ed6fa1105470@f4be.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:24-312
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4176f743-3a5e-43c4-b1de-7f8fe34ea08f@4176.org
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231116T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:7223cc11-439e-487a-b4b1-3eaa3453b307@7223.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231016T164500Z
-LOCATION:3-Зал А
-DTSTART:20231016T151500Z
-SUMMARY:ЛК История и философия науки
-UID:9394f4bc-9239-453f-abf4-1d21a3a0ef63@9394.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231130T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231130T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:b7871ebd-8868-4ca1-9eb5-ab7f94e0a73e@b787.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20230914T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20230914T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:5eeb3171-f3af-49fb-b564-d2198919feda@5eeb.org
+DTEND:20231106T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:9442b241-0318-4ae2-98da-633fb5955528@9442.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231023T164500Z
-LOCATION:3-Зал А
-DTSTART:20231023T151500Z
-SUMMARY:ЛК История и философия науки
-UID:fe57211b-d7db-42c1-9be0-3caa97017210@fe57.org
+DTEND:20240115T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240115T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:71af1df3-35d6-4311-9c68-f700bcfdfd07@71af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231204T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231204T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:9cfe988d-d577-4cda-a17d-80bb1ed0c359@9cfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T131500Z
+LOCATION:24-312
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:43ba26f2-481b-45af-a0fa-57c5c1a8ce92@43ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231127T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231127T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:b8ec2045-940a-48f5-bb1d-9a66181a1509@b8ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231214T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231214T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:924a3848-65e5-4524-8974-f7b9834cce29@924a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
@@ -760,85 +273,66 @@ DTEND:20230911T183000Z
 LOCATION:3-Зал А
 DTSTART:20230911T170000Z
 SUMMARY:ЛК История и философия науки
-UID:ae2d6cf6-f092-4e09-9287-65b642efe6de@ae2d.org
+UID:0fd0a004-07d4-4508-843c-cee7fdefdba7@0fd0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231002T183000Z
-LOCATION:3-Зал А
-DTSTART:20231002T170000Z
-SUMMARY:ЛК История и философия науки
-UID:bfe65264-f0fc-4798-9414-c47d43439df0@bfe6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231221T150000Z
-LOCATION:ГУК А-507а
-DTSTART:20231221T133000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:e8b97e0a-ca6b-4344-9d50-20e883ade376@e8b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231009T183000Z
-LOCATION:3-Зал А
-DTSTART:20231009T170000Z
-SUMMARY:ЛК История и философия науки
-UID:341c734e-52e1-4f6f-a4cd-eb6ced62b915@341c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231002T164500Z
-LOCATION:3-Зал А
-DTSTART:20231002T151500Z
-SUMMARY:ЛК История и философия науки
-UID:aa86031b-b18e-4595-9a18-ba40a5af6154@aa86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231123T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:e4cfe643-6593-40e2-a14d-efb2333776d5@e4cf.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
+DTEND:20230925T131500Z
 LOCATION:24-312
-DTSTART:20231016T133000Z
+DTSTART:20230925T114500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8a1adb1d-036e-4e6e-ad3d-4b8010f412bc@8a1a.org
+UID:a8576678-2ad1-4577-b188-e6acbd9851de@a857.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:24-312
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:71dd045d-6ffc-434e-a62d-36d613ebe7c2@71dd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231102T164500Z
+DTEND:20231207T150000Z
 LOCATION:ГУК А-507а
-DTSTART:20231102T151500Z
+DTSTART:20231207T133000Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:524fea27-7335-4589-8f60-a01277fef529@524f.org
+UID:d0e0075a-fb7e-4312-8498-16bcf2386985@d0e0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20231221T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20231221T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:d77cad4c-6e74-4ad5-ab1b-30b15e54b483@d77c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Абрамова Ольга Владимировна
-DTEND:20240111T164500Z
-LOCATION:ГУК А-507а
-DTSTART:20240111T151500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:f7c7cdd8-60e9-4be3-a032-4a0b8383da6f@f7c7.org
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230904T164500Z
+LOCATION:3-Зал А
+DTSTART:20230904T151500Z
+SUMMARY:ЛК История и философия науки
+UID:c9690c30-50c2-45f8-bda4-9297562dcc68@c969.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231113T131500Z
 LOCATION:24-312
 DTSTART:20231113T114500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:89a39b79-a47b-43ae-bbdf-4f5ef828f6ab@89a3.org
+UID:55286137-b405-46ec-ba27-fe0b0ba20fcd@5528.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T131500Z
+LOCATION:24-312
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9e45a644-f553-4c68-bf67-8ffaa52441bc@9e45.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:24-312
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:93a4147a-95d1-48ce-8f49-bdd363171baa@93a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231106T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231106T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:aa151dc6-fb8b-4447-bced-f5a4076c771a@aa15.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
@@ -846,6 +340,512 @@ DTEND:20230911T164500Z
 LOCATION:3-Зал А
 DTSTART:20230911T151500Z
 SUMMARY:ЛК История и философия науки
-UID:e1fb832f-fb42-47ed-b98e-d80639135868@e1fb.org
+UID:240ff679-d84d-4020-92cb-f1702862f550@240f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240115T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240115T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:4b850b26-47b4-4f7f-a24a-9934058aa56d@4b85.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:24-312
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:757ab127-87c3-44a8-91a9-ba58b764fe5c@757a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20240201T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20240201T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:cb7c4c01-b20c-44e3-a476-0f463b91e287@cb7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231211T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231211T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:969fa68e-7ead-4897-b5b0-5b75fa38783c@969f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20230928T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:0556b6a9-46bd-4a82-a57c-8005b1c5bc1d@0556.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20230907T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:75b46a7a-0b9b-4986-9a35-dff4c8db87a7@75b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231016T164500Z
+LOCATION:3-Зал А
+DTSTART:20231016T151500Z
+SUMMARY:ЛК История и философия науки
+UID:0605e316-5968-4465-83d0-c3e216b43829@0605.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T131500Z
+LOCATION:24-312
+DTSTART:20230918T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:985cb9fa-b99e-42cb-89a3-6d2431143262@985c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:24-312
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e0c5da33-fb05-4351-b6f2-6b57c307395f@e0c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231123T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:a4d12bb4-c9b5-4650-a434-4ea1f0d15ef9@a4d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20230914T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:a7aeb2bc-02de-47e0-bf36-18c6808c4c81@a7ae.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T131500Z
+LOCATION:24-312
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6b26cf0c-936a-4516-b753-94bd80d7cd85@6b26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231221T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231221T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:a7f0310d-9c05-4b91-b895-0256546cde6c@a7f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231207T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231207T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f062e782-1511-49a2-8ddf-d12b7e23ac27@f062.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240129T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240129T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:b67342e2-aee5-4076-ad35-396b5279547d@b673.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T131500Z
+LOCATION:24-312
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7311ec06-7b7e-46c1-85c9-2ce4ea7ebcba@7311.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230918T164500Z
+LOCATION:3-Зал А
+DTSTART:20230918T151500Z
+SUMMARY:ЛК История и философия науки
+UID:3988093f-68ab-41cb-a173-cda70364cbb4@3988.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231130T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231130T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f3aeebea-36a3-4136-bb04-6abfc6aeb8c4@f3ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20240118T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20240118T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:bec8df70-fe49-438b-b67f-5582058457a3@bec8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231120T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:b6cb1faf-f00c-4dc3-9fc3-55bf6707fc76@b6cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231130T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231130T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:b02d42b4-2c87-4b88-a2c1-89eb027d1323@b02d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240129T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240129T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:0df5a2c1-c191-4930-9294-cda84e886cc7@0df5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:24-312
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:faba28dd-9bd6-4bf8-8ab7-3ceea2b65cb8@faba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231023T183000Z
+LOCATION:3-Зал А
+DTSTART:20231023T170000Z
+SUMMARY:ЛК История и философия науки
+UID:fb0bbddf-484f-4e05-9da6-fed82101ee89@fb0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231030T164500Z
+LOCATION:3-Зал А
+DTSTART:20231030T151500Z
+SUMMARY:ЛК История и философия науки
+UID:140a456d-54ca-4374-b4fd-3e405fc9439b@140a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20230914T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:ab509248-7f86-47bb-a5e5-f2757e457b64@ab50.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T131500Z
+LOCATION:24-312
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e4c68088-8537-4c92-ad4e-73a79f67fb51@e4c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231211T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231211T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:555e2576-f3ce-4a1f-b04b-cb8c48b4d7a0@555e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231009T183000Z
+LOCATION:3-Зал А
+DTSTART:20231009T170000Z
+SUMMARY:ЛК История и философия науки
+UID:4324c80c-edfb-434d-b268-a211e54b1014@4324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231218T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231218T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:c4487434-c3bb-4262-81d0-cd7066dcfb43@c448.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230925T164500Z
+LOCATION:3-Зал А
+DTSTART:20230925T151500Z
+SUMMARY:ЛК История и философия науки
+UID:e910de71-f2a5-4717-9053-2191e0c76d75@e910.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231102T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:8416881d-cdc7-4bac-a79d-b5a3f7efff2f@8416.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T131500Z
+LOCATION:24-312
+DTSTART:20230904T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3deb15ae-d45d-47c0-8c60-72f912634ed3@3deb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231109T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231109T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2d7fa419-4898-4bea-91ba-5109a3ef348b@2d7f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:24-312
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e082c298-93e4-48f9-b55b-64b07353a2d8@e082.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231009T164500Z
+LOCATION:3-Зал А
+DTSTART:20231009T151500Z
+SUMMARY:ЛК История и философия науки
+UID:260f174e-8eb8-4c6f-bdf5-549a009e5318@260f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231214T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231214T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:af8812e5-1cdc-4c13-9eaa-ee1192fc4964@af88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231204T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231204T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:00c67a68-4dea-4c7e-98ad-ce265dca66b0@00c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231002T183000Z
+LOCATION:3-Зал А
+DTSTART:20231002T170000Z
+SUMMARY:ЛК История и философия науки
+UID:1944b4b9-6d83-44df-b6d1-ceac08f6f3db@1944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231225T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231225T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:1b1bcdbd-8d5b-4ff9-9117-6f227db4a1af@1b1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231120T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231120T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:84e6593c-36fb-45f7-b4e1-ab2d250926f4@84e6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T131500Z
+LOCATION:24-312
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:13f3d11e-5dd1-4267-9fc7-7196bffc81c1@13f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231123T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:1010ec9f-f377-4678-8c01-03d293ed08b9@1010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231002T164500Z
+LOCATION:3-Зал А
+DTSTART:20231002T151500Z
+SUMMARY:ЛК История и философия науки
+UID:6a6c485c-8902-41c0-a8b1-a98a1b52b9a9@6a6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20240111T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20240111T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:ac583f6f-df58-44dc-8e97-83a93f61449e@ac58.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20240111T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20240111T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:ce6b3de8-50fd-438a-b134-decf4f1766e2@ce6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231019T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231019T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:a829f06d-3208-4370-aff3-e30d75f20b3b@a829.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231109T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:6130b6f0-6145-4789-b692-902fa12a6d59@6130.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20240125T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20240125T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:d1258234-abf0-470a-8596-3adfc108f53b@d125.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240108T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240108T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:df291b79-8b8f-456e-88b5-00de6d4f1060@df29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231005T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231005T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:105d77a2-3275-4e9b-83bb-a439c3c51ae8@105d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231005T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:e20066bc-5dd6-412d-8a49-68d3a8ee453e@e200.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:24-312
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0e8ce247-91fe-4086-a927-043d88a3f0ac@0e8c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:24-312
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:2a05da27-7df2-42e3-b67d-272dc58a00cc@2a05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20240122T183000Z
+LOCATION:ГУК А-512
+DTSTART:20240122T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:ed5d8bc4-1e89-44a8-b2a1-4d4befc459e5@ed5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231228T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231228T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:cfd006ac-bde3-431d-9785-779b2a972869@cfd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231116T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231116T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:9ef210b5-6310-4be0-b63c-bbc3b4369208@9ef2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231221T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:8b2caf13-6539-4562-8731-a00fa8f58270@8b2c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T131500Z
+LOCATION:24-312
+DTSTART:20230911T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5164cf24-f399-4fe0-a996-2d8297104ee6@5164.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231102T150000Z
+LOCATION:ГУК А-507а
+DTSTART:20231102T133000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:d0314e5b-b3ee-4d77-8787-4bfca0c32c9a@d031.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231113T183000Z
+LOCATION:ГУК А-512
+DTSTART:20231113T170000Z
+SUMMARY:ПЗ История и философия науки
+UID:0c207f31-a767-4959-a25c-1fe4ec5651c6@0c20.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:24-312
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7ab6c550-992e-4111-a2c1-0a7958bddb64@7ab6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20240201T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20240201T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f9559dc3-fb57-49c3-9197-e45e1c9a7acc@f955.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231012T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:9927f946-6be7-4199-bef7-e1fa07a150d8@9927.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Абрамова Ольга Владимировна
+DTEND:20231026T164500Z
+LOCATION:ГУК А-507а
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:c58c1d3e-4739-4f5e-9bff-8d2bb747b057@c58c.org
 END:VEVENT
 END:VCALENDAR

@@ -2,59 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231012T164500Z
-LOCATION:24-312
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:89224fee-5374-41d5-ad26-53ebc160b84a@8922.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:34a77c95-81c0-489e-b17b-8a7bbe097798@34a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231019T164500Z
-LOCATION:24-312
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:da25a271-8ab6-40c6-87c0-f391c9a77fc2@da25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:ec9aa320-71d7-4e79-bf96-0c64f16ee63e@ec9a.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20231127T150000Z
 LOCATION:--каф.
 DTSTART:20231127T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1af961aa-f193-4d09-a360-92f3ffbf1f49@1af9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:3a6e1605-79e0-4847-b505-1eb0477ebd7d@3a6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20230907T164500Z
-LOCATION:24-312
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:ae89283e-3120-46be-a54c-8390af378b70@ae89.org
+UID:e759539e-cd76-477f-af1b-2c4c306b249a@e759.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матюшин Максим Михайлович
@@ -62,50 +14,14 @@ DTEND:20231026T164500Z
 LOCATION:24-312
 DTSTART:20231026T151500Z
 SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:cadb097f-9687-4105-b41b-ea13176eeb0c@cadb.org
+UID:f6cbc2e1-ac31-4c13-abf6-bd9882d06966@f6cb.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20230911T150000Z
+DTEND:20231120T150000Z
 LOCATION:--каф.
-DTSTART:20230911T133000Z
+DTSTART:20231120T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a475d798-1c64-431d-9a0e-a20b4116c6a2@a475.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20230928T150000Z
-LOCATION:24-312
-DTSTART:20230928T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:db1ab91b-3851-4e18-8a07-f02df38bcc35@db1a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T164500Z
-LOCATION:--каф.
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:aff64485-6fe2-4cad-b0b4-bb50ee61a38d@aff6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:b2a7a414-b6ef-4c36-b841-0148cb9237d9@b2a7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8471e766-9417-4a05-8bbd-663b86691375@8471.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:655c7898-3d4c-4517-bd9b-44ccb6e65f3e@655c.org
+UID:f8d14b9a-f98c-48fd-84c8-fb0f8eec08e1@f8d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -113,327 +29,14 @@ DTEND:20231114T183000Z
 LOCATION:ГУК В-228
 DTSTART:20231114T170000Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:9ae564f9-dc1a-4a1c-866b-9c3e90ec3f03@9ae5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T164500Z
-LOCATION:--каф.
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2335b35a-e896-4391-ac67-1634dadafa41@2335.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231219T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:556ff74f-2a1e-4fc7-b17d-6dbb2a2ad28f@556f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231130T150000Z
-LOCATION:24-312
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:204c7807-2557-426c-8dba-69c94ce4f5dd@204c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T164500Z
-LOCATION:--каф.
-DTSTART:20230911T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:22f9acdb-642d-4c8c-98bd-2e0766f95230@22f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231012T150000Z
-LOCATION:24-312
-DTSTART:20231012T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:6fc6d126-8ba3-451b-a508-f30fe4bc5929@6fc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231116T150000Z
-LOCATION:24-312
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:1a17ad41-e7f9-4192-abea-30e48bc90cbc@1a17.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:017e52f2-7571-481d-8ef1-be911d943c87@017e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:8ac4068c-2fa1-46ac-ad76-ac9e5d0a5719@8ac4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3c8cb89e-d371-495a-862d-165efaa4f0f1@3c8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20230921T150000Z
-LOCATION:24-312
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:15f903fe-1c3c-440e-a6a3-e777948920a5@15f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:2376d274-8b49-4da4-88ef-055176eb5a82@2376.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:29ae3a53-8b2d-4150-a44e-9b63886fcf0f@29ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231214T150000Z
-LOCATION:24-312
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:dd916aa0-08a8-4ae6-9c41-f297b33c721b@dd91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20230907T150000Z
-LOCATION:24-312
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:97c31082-6ac9-4fc9-9606-11da58cae114@97c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:70b429db-09d4-4c6d-b653-9e12a3045e2d@70b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231123T150000Z
-LOCATION:24-312
-DTSTART:20231123T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:7e245871-8763-4849-b7a0-0b64a76a6e29@7e24.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f58c0c01-0757-49e5-9b5a-f3bff2049dd9@f58c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231102T150000Z
-LOCATION:24-312
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:7562822b-a1a3-4af7-b6fd-b2e2016e367a@7562.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:59e75dfb-4f1a-4be7-8ede-89efcfb38ac9@59e7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1c5fd419-5190-41e4-a8dc-3adc795a1efa@1c5f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3b6225ba-a2bd-4206-bbde-ca03ab66dae7@3b62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:141daec8-472b-4158-b7eb-e800fb829e3c@141d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231109T164500Z
-LOCATION:24-312
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:a514c425-c111-412e-a144-971dd8a09569@a514.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T164500Z
-LOCATION:--каф.
-DTSTART:20230904T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:fd1f0b23-120a-4e88-b190-e636bb8b3211@fd1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231219T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231219T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:e7acd7e4-487b-498e-9a07-a1257aa35ac1@e7ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231005T150000Z
-LOCATION:24-312
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:106c7aff-7c19-49a3-9560-4caf1e17c57f@106c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20230928T164500Z
-LOCATION:24-312
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:2c477490-c6ee-48f9-8809-93e0bd220376@2c47.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:fe335647-e956-48ca-bc65-31be7b4c19ac@fe33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231109T150000Z
-LOCATION:24-312
-DTSTART:20231109T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:6d29cc40-1924-40a2-8f9e-455c0c5d73a0@6d29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T164500Z
-LOCATION:ГУК В-228
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:7a96c206-a54c-4dc0-bd51-7c3d104ebec8@7a96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231116T164500Z
-LOCATION:24-312
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:0ea3accb-9162-4da3-aadc-8c7f16a84be8@0ea3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20230921T164500Z
-LOCATION:24-312
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:dcc5d947-2841-4ae7-a3f3-6932334d81a6@dcc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231207T150000Z
-LOCATION:24-312
-DTSTART:20231207T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:f3e103cb-88cc-4333-b55f-9afbb1592f58@f3e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:cb9f0fb2-8b98-4482-9b53-ec121e63cc68@cb9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20230914T150000Z
-LOCATION:24-312
-DTSTART:20230914T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:a9c69a20-0889-4c8d-806e-408556a2bdd5@a9c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231205T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231205T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:ca9e882f-52a6-48eb-ab98-2f16e3b770b6@ca9e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231019T150000Z
-LOCATION:24-312
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:cf3e0aee-7906-4ba0-90fc-224340ddd587@cf3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231026T150000Z
-LOCATION:24-312
-DTSTART:20231026T133000Z
-SUMMARY:ЛК Оптимальное управление движением АКС
-UID:837319da-1f2a-44ae-984c-19363677fa42@8373.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e4303324-c176-4a38-87bd-b63fe25a27cb@e430.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8b0b8e0a-b560-4725-92c1-e1f5d1edd5ae@8b0b.org
+UID:ed68dd65-f8d2-4b58-bd97-08236c5c9489@ed68.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230925T164500Z
 LOCATION:--каф.
 DTSTART:20230925T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:86734aba-4315-427a-bd7a-a33b42397475@8673.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f329bb64-2488-48d4-b29f-252d7f251b41@f329.org
+UID:10dc7141-e510-401f-8b3e-62fa5fec914c@10dc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матюшин Максим Михайлович
@@ -441,38 +44,98 @@ DTEND:20231123T164500Z
 LOCATION:24-312
 DTSTART:20231123T151500Z
 SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:54758747-01de-4f5e-b0df-8cb704334720@5475.org
+UID:b29e773e-d38a-4783-bd2a-ba54e7a328b3@b29e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20230914T164500Z
-LOCATION:24-312
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:48da9d03-25fd-47cd-9b0e-cb83070130cf@48da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231005T164500Z
-LOCATION:24-312
-DTSTART:20231005T151500Z
-SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:5fb010c9-8d3c-4140-adfa-66dca1e4ce29@5fb0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
+DTEND:20231106T150000Z
 LOCATION:--каф.
-DTSTART:20231106T151500Z
+DTSTART:20231106T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6f44f2bf-5462-4d69-a99e-eaa87ea32baf@6f44.org
+UID:b50e7055-2e70-4ef2-92a4-ffa4abe28ea9@b50e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c77bbddb-a8f2-4905-b79b-898348723da6@c77b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:47b447b9-5856-4f76-8a4b-08dbb1fc0427@47b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231219T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:c0c37193-9119-4baa-a902-b813040c9b33@c0c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матюшин Максим Михайлович
-DTEND:20231102T164500Z
+DTEND:20230921T164500Z
 LOCATION:24-312
-DTSTART:20231102T151500Z
+DTSTART:20230921T151500Z
 SUMMARY:ПЗ Оптимальное управление движением АКС
-UID:e1e142b0-9375-42ee-a5a4-2930596bc839@e1e1.org
+UID:a3bc8a65-9f32-4221-b390-7a0954f8d5f7@a3bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231214T150000Z
+LOCATION:24-312
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:a89a25e4-0a23-4508-84f1-ea3cd57cbc02@a89a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231116T150000Z
+LOCATION:24-312
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:9f5070e6-2c20-4a0c-8637-c2bf287f420d@9f50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20230907T150000Z
+LOCATION:24-312
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:b8d74728-d966-438c-822b-fcdb86f11174@b8d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231130T150000Z
+LOCATION:24-312
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:0a96ac51-cb6e-43e1-8d2e-562fd1ab6315@0a96.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:11ddc4b5-b9de-4763-82aa-3b3a95cb976f@11dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:ac06e5e7-c137-43fc-aea2-12ee9bfce494@ac06.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:2cdce91e-8291-4696-a9fe-e630ea72ec61@2cdc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -480,14 +143,104 @@ DTEND:20231205T164500Z
 LOCATION:ГУК В-228
 DTSTART:20231205T151500Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:853ab80e-9cc2-4e77-80bc-118d40fa285b@853a.org
+UID:67a5b873-02a8-4d4f-98bc-6fea1edf476e@67a5.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231002T164500Z
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231207T150000Z
+LOCATION:24-312
+DTSTART:20231207T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:dcd8d575-d092-4bf2-a5b3-43e4bbc54d6b@dcd8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T164500Z
 LOCATION:--каф.
-DTSTART:20231002T151500Z
+DTSTART:20230911T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:0d710df8-2da7-4c53-bf48-59c610574564@0d71.org
+UID:6beff18d-acee-45e9-af05-a8e7482afb40@6bef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231012T150000Z
+LOCATION:24-312
+DTSTART:20231012T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:7f89f686-32a2-4fe5-b841-d3a4c551ba73@7f89.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:--каф.
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1256addd-8432-4664-b36a-54346dbbbdfb@1256.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:bf749339-296f-41cb-b6ab-dc573d8dcc6c@bf74.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:44c2af4c-4cf7-48a5-bde5-cae6f8463339@44c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231102T164500Z
+LOCATION:24-312
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Оптимальное управление движением АКС
+UID:64d139b4-b6b9-4a9d-84ae-60ec2cfa349e@64d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:03cd63ee-59ea-4d95-909d-ebc94c229a10@03cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231205T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231205T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:7c9d0eca-7612-4cb7-8399-c8eb00a754d6@7c9d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T164500Z
+LOCATION:--каф.
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:af4eef1b-4671-470f-a972-ebacf3603693@af4e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T164500Z
+LOCATION:--каф.
+DTSTART:20230904T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:196bfd72-7e2b-445c-8608-dac23a925ee0@196b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:--каф.
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:4376e36c-4747-4b7e-bc3b-0431d5ebb91f@4376.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:c819a4f0-0fcf-467d-beba-a871adc20f3c@c819.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -495,13 +248,260 @@ DTEND:20231017T164500Z
 LOCATION:ГУК В-228
 DTSTART:20231017T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:e8f89400-5efc-4695-a026-139889e58bfc@e8f8.org
+UID:07b11c02-dec0-48f8-a5b6-28a6b10e5988@07b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20230914T164500Z
+LOCATION:24-312
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Оптимальное управление движением АКС
+UID:eb640f53-1dc7-4750-a574-8e7e1dacbad9@eb64.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:0edda6d8-6f12-4e7c-b01c-936f45abb657@0edd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:501f4660-c829-4b2f-acd2-226f1466c74c@501f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231109T164500Z
+LOCATION:24-312
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Оптимальное управление движением АКС
+UID:a31f6e12-a245-43b5-859b-424e4fe07cee@a31f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231219T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231219T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:4078cf28-36fa-49ff-b227-d54d20214169@4078.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7314b5eb-7949-461a-b746-a42db91a7156@7314.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6127d068-7495-464f-bcbe-078f70de8e28@6127.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:7307bc96-15c1-4482-82ee-e2271d5633aa@7307.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231019T164500Z
+LOCATION:24-312
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Оптимальное управление движением АКС
+UID:3bf9cabc-d715-4c03-9e3a-6ab5cc183bab@3bf9.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231023T164500Z
 LOCATION:--каф.
 DTSTART:20231023T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:fbd43b5d-acbc-4b4d-8e43-343ae0c817bd@fbd4.org
+UID:d739ca64-69b3-4d6e-9a2d-16b79ef67751@d739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T164500Z
+LOCATION:ГУК В-228
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:4dd354e6-958b-4e39-9b25-4a299ea9ee13@4dd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20230921T150000Z
+LOCATION:24-312
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:28470ce8-52bf-41a8-affd-95ffb1762df1@2847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231026T150000Z
+LOCATION:24-312
+DTSTART:20231026T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:0007bf4e-2a2b-48d7-b385-dfd17e26bf71@0007.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:--каф.
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:90fefe1f-ec8f-4c88-90a6-30543f90cd56@90fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20230914T150000Z
+LOCATION:24-312
+DTSTART:20230914T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:4f16a192-58bb-4800-beee-161754b2e1d5@4f16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:242415cf-ac50-4c83-af84-c1c362b9db62@2424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:4f9cc6b2-c297-4fde-8deb-5e01d75366ac@4f9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231102T150000Z
+LOCATION:24-312
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:c4ec9d41-a57b-4877-bbfb-704ad4cb6a99@c4ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231116T164500Z
+LOCATION:24-312
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Оптимальное управление движением АКС
+UID:c5a14680-1d67-481b-9a00-8bca9c705ae6@c5a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231005T164500Z
+LOCATION:24-312
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Оптимальное управление движением АКС
+UID:75ebfe57-b1d1-44b9-b24d-7011eda67c79@75eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231109T150000Z
+LOCATION:24-312
+DTSTART:20231109T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:09611756-2043-413d-a2a1-4a6c99697307@0961.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231005T150000Z
+LOCATION:24-312
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:ca8d6f13-b142-44ee-b234-824828055c34@ca8d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:c568abdf-663c-48c6-a439-753c30f202f4@c568.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20230907T164500Z
+LOCATION:24-312
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Оптимальное управление движением АКС
+UID:2fc08222-13f8-4051-8818-15a27f38ab37@2fc0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:63683ba4-bd3a-4595-9b42-66784e5997d5@6368.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5757ec62-8749-4144-90df-eaf19142a276@5757.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231019T150000Z
+LOCATION:24-312
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:14110180-40e4-422a-a393-bc45ba9646a5@1411.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:c31e7763-92f6-48b6-be89-74a27f3cbbbe@c31e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ecd0be64-3fdc-4b2f-b259-5dbd1d0d1a77@ecd0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20230928T150000Z
+LOCATION:24-312
+DTSTART:20230928T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:ddbaaedf-8634-4b33-ae38-43df96b51574@ddba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231012T164500Z
+LOCATION:24-312
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Оптимальное управление движением АКС
+UID:91782b6f-d11f-43d4-b901-6b5c8a3ce47e@9178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20230928T164500Z
+LOCATION:24-312
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Оптимальное управление движением АКС
+UID:d03d81c1-1b81-4491-a769-88228ade4be1@d03d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матюшин Максим Михайлович
+DTEND:20231123T150000Z
+LOCATION:24-312
+DTSTART:20231123T133000Z
+SUMMARY:ЛК Оптимальное управление движением АКС
+UID:e558d7de-50b0-4815-8c03-40529d5978c6@e558.org
 END:VEVENT
 END:VCALENDAR

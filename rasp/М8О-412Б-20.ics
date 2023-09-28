@@ -2,244 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20230927T113000Z
-LOCATION:ГАК-320
-DTSTART:20230927T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:59411b7c-97b0-45e4-a006-1986ed43eebb@5941.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231030T131500Z
-LOCATION:9-404
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:61791525-aac8-4a68-b717-827faaaa7070@6179.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231204T131500Z
-LOCATION:9-404
-DTSTART:20231204T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:cf997471-4524-4e71-a66d-941cca680ab0@cf99.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20230925T113000Z
+DTEND:20231211T113000Z
 LOCATION:ГУК Б-460
-DTSTART:20230925T100000Z
+DTSTART:20231211T100000Z
 SUMMARY:ЛК Математическое моделирование
-UID:2e00d2eb-40a3-4aca-90b1-5c9eb9bd9d98@2e00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231113T131500Z
-LOCATION:9-404
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:3bd31fbf-ce91-455e-b835-fa033242381b@3bd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231220T091500Z
-LOCATION:ГУК В-221
-DTSTART:20231220T074500Z
-SUMMARY:ЛК Теория управления
-UID:30620032-c0de-4edc-8123-e273e04af093@3062.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231106T131500Z
-LOCATION:9-404
-DTSTART:20231106T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:c1df90f9-792c-46f9-af88-a5340902aa93@c1df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231016T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:3024f7ca-3ef1-4376-b50c-42bf22966e7d@3024.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20231009T091500Z
-LOCATION:ГУК В-228
-DTSTART:20231009T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:ae1c9d8a-8cb5-4d2d-a7f0-11a2a4e7e808@ae1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231009T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231009T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:7cc0282d-6dad-45fc-8130-8b0a1ca09ef9@7cc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231120T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:b0c01a01-b3f5-41eb-8159-9ac81f14c18b@b0c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20231023T091500Z
-LOCATION:ГУК В-228
-DTSTART:20231023T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:0048f826-d2d0-4d39-8220-c9ca3b1e9d1a@0048.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20231218T091500Z
-LOCATION:ГУК В-228
-DTSTART:20231218T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:74dbeed9-f83d-4040-8ab9-cff0676e3d4b@74db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20230913T113000Z
-LOCATION:ГАК-320
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:e5024910-de86-4600-ac41-79c0060f2d31@e502.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231011T091500Z
-LOCATION:ГУК В-221
-DTSTART:20231011T074500Z
-SUMMARY:ЛК Теория управления
-UID:4cd97117-9450-49cd-9db7-006f1b7c8038@4cd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20230925T131500Z
-LOCATION:9-404
-DTSTART:20230925T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:1a6ec64b-7503-489a-aa49-c5b88b3ee981@1a6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20230904T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:cecc2c88-ba83-4946-bf85-92ea533f0bbb@cecc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20230920T113000Z
-LOCATION:ГАК-320
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:ded49dc8-9b01-4050-b3e4-0109e4dd4282@ded4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231113T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:ee83bb02-7615-4953-8897-a5bfbca622fc@ee83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231127T131500Z
-LOCATION:9-404
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:d6f525ec-b01a-4394-8868-0a4ab154f2d5@d6f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231122T091500Z
-LOCATION:ГУК В-221
-DTSTART:20231122T074500Z
-SUMMARY:ЛК Теория управления
-UID:abdf24b8-aaf4-43e6-9134-963602315131@abdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20231129T113000Z
-LOCATION:ГАК-320
-DTSTART:20231129T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:d30cdd56-05dc-47e2-ad46-b2349395c917@d30c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20230920T091500Z
-LOCATION:ГУК В-221
-DTSTART:20230920T074500Z
-SUMMARY:ЛК Теория управления
-UID:1f339586-9895-43c1-8ebe-a3faeb1b2be9@1f33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231025T091500Z
-LOCATION:ГУК В-221
-DTSTART:20231025T074500Z
-SUMMARY:ЛК Теория управления
-UID:b6bd23bb-2156-43fd-8f6d-a79731d20bc4@b6bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20230918T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:358819e3-16c5-47d8-bef6-984d38ae91ac@3588.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231004T091500Z
-LOCATION:ГУК В-221
-DTSTART:20231004T074500Z
-SUMMARY:ЛК Теория управления
-UID:25ef97df-362f-417a-9b0f-2245f2f8e23d@25ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20230918T091500Z
-LOCATION:ГУК В-228
-DTSTART:20230918T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:71130308-cc9c-4cae-bc43-b18df0c0bbe1@7113.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20231113T091500Z
-LOCATION:ГУК В-228
-DTSTART:20231113T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:a81c1e5b-018b-43a6-ac3c-3196ce2ae652@a81c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231206T091500Z
-LOCATION:ГУК В-221
-DTSTART:20231206T074500Z
-SUMMARY:ЛК Теория управления
-UID:58d3c234-3a18-49f0-bc78-e1bb5d4ee6fd@58d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20231101T113000Z
-LOCATION:ГАК-320
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:74d25f63-56c2-4ef7-aae1-1182948ab4cd@74d2.org
+UID:9ea8e2dc-daac-4628-88aa-e5dcc3a226ad@9ea8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Платонов Евгений Николаевич
@@ -247,167 +15,23 @@ DTEND:20231004T113000Z
 LOCATION:ГАК-320
 DTSTART:20231004T100000Z
 SUMMARY:ЛК Математические методы в экономике
-UID:b680665f-bd9e-4cc9-aaff-5aa9545a8d89@b680.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20231225T091500Z
-LOCATION:ГУК В-228
-DTSTART:20231225T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:61b8e268-5aa6-41cd-b3f4-9089e0d534c5@61b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231018T091500Z
-LOCATION:ГУК В-221
-DTSTART:20231018T074500Z
-SUMMARY:ЛК Теория управления
-UID:994b6840-d0d0-4dd2-95a0-1e3293999644@994b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20231120T091500Z
-LOCATION:ГУК В-228
-DTSTART:20231120T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:be07c2f1-5841-4627-bf49-18cb06553df1@be07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20231018T113000Z
-LOCATION:ГАК-320
-DTSTART:20231018T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:7260c63d-6810-42d6-b61b-f6438f3e715d@7260.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20231211T091500Z
-LOCATION:ГУК В-228
-DTSTART:20231211T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:24a92e43-f048-489f-b4f6-f725a03d1e4f@24a9.org
+UID:34d59a39-872f-4e91-8c81-71449fe0cd92@34d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231023T131500Z
-LOCATION:9-404
-DTSTART:20231023T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:4600e428-a8a3-4f0d-a70e-77424e26d3f9@4600.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231227T091500Z
+DTEND:20230925T131500Z
 LOCATION:ГУК В-221
-DTSTART:20231227T074500Z
-SUMMARY:ЛК Теория управления
-UID:c1c6d0a2-4e1e-4c3d-993f-8336f668a21a@c1c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231218T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231218T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:7f63111d-939d-4ccd-9236-57fb5acb710c@7f63.org
+DTSTART:20230925T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:9e7261a8-31ab-453e-8ec9-0eb56ae0f39d@9e72.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20231122T113000Z
+DTEND:20231101T113000Z
 LOCATION:ГАК-320
-DTSTART:20231122T100000Z
+DTSTART:20231101T100000Z
 SUMMARY:ЛК Математические методы в экономике
-UID:6d11937e-0e04-4451-b74d-3fc192bc2810@6d11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20230927T091500Z
-LOCATION:ГУК В-221
-DTSTART:20230927T074500Z
-SUMMARY:ЛК Теория управления
-UID:22325c60-6ae6-4552-8a8b-7d9abfe66d30@2232.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231016T131500Z
-LOCATION:9-404
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:e1023405-0946-4c5b-912d-dd0626f09449@e102.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20231220T113000Z
-LOCATION:ГАК-320
-DTSTART:20231220T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:72a63800-6b74-4f3a-bea1-7c5e1713f29f@72a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231129T091500Z
-LOCATION:ГУК В-221
-DTSTART:20231129T074500Z
-SUMMARY:ЛК Теория управления
-UID:a51af750-932e-484b-bb51-e66f33100a2f@a51a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231213T091500Z
-LOCATION:ГУК В-221
-DTSTART:20231213T074500Z
-SUMMARY:ЛК Теория управления
-UID:efe78b74-8196-42c3-86a1-32c9b110a57f@efe7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20231011T113000Z
-LOCATION:ГАК-320
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:35fd8965-4f2c-463f-92da-3c7a0f335dba@35fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20230918T131500Z
-LOCATION:9-404
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:3cdc52fd-6359-46e7-9cc9-a33561d3d7a9@3cdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231002T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:827a0004-2fae-4197-a8e7-c87454cc48de@827a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231108T091500Z
-LOCATION:ГУК В-221
-DTSTART:20231108T074500Z
-SUMMARY:ЛК Теория управления
-UID:91fe432c-74b7-4893-a477-23b32364a410@91fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231211T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231211T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:49fa75da-6586-476b-8110-9ba30ff3810f@49fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231002T131500Z
-LOCATION:9-404
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:dff6293c-03aa-45bb-a000-e24b3b7f93af@dff6.org
+UID:4bd4e4db-ea41-4690-8f69-e185d7677677@4bd4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пантелеев Андрей Владимирович
@@ -415,135 +39,47 @@ DTEND:20231115T091500Z
 LOCATION:ГУК В-221
 DTSTART:20231115T074500Z
 SUMMARY:ЛК Теория управления
-UID:709c299a-3766-4378-96b1-62032e620a19@709c.org
+UID:290f8b25-68e0-45a1-950b-5636d43b6ac1@290f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20230911T113000Z
+DTEND:20230925T113000Z
 LOCATION:ГУК Б-460
-DTSTART:20230911T100000Z
+DTSTART:20230925T100000Z
 SUMMARY:ЛК Математическое моделирование
-UID:f55c32c0-4e5d-41f8-8921-da1a572144b1@f55c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231127T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231127T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:95b816c0-b2e4-4fce-9abd-cbd2bfa630c5@95b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20230904T131500Z
-LOCATION:9-404
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:1a45e423-2e02-4d3a-8b46-6de018bb9ecb@1a45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231030T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:be4ccb11-fd26-4b9c-97ad-437d2afbb8dc@be4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20230911T131500Z
-LOCATION:9-404
-DTSTART:20230911T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:8df500ed-0506-4ce6-b389-3dfcec71a8c0@8df5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20231213T113000Z
-LOCATION:ГАК-320
-DTSTART:20231213T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:766f8db2-51d8-4926-b830-8ef270f275ca@766f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20230911T091500Z
-LOCATION:ГУК В-228
-DTSTART:20230911T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:50d8b2b0-9a97-4125-8f01-cbf1773cf05a@50d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20231030T091500Z
-LOCATION:ГУК В-228
-DTSTART:20231030T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:7a3e8c97-f9e5-40ac-805a-6559ada807c7@7a3e.org
+UID:8e5590c8-afcb-4a9f-8439-edbe112b3ab4@8e55.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20231101T091500Z
+DTEND:20231108T091500Z
 LOCATION:ГУК В-221
-DTSTART:20231101T074500Z
+DTSTART:20231108T074500Z
 SUMMARY:ЛК Теория управления
-UID:48c8a01e-04b1-4209-96f0-3d9de57013f8@48c8.org
+UID:24f0e72c-2f74-4258-9577-ec7904b972c6@24f0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231120T131500Z
-LOCATION:9-404
-DTSTART:20231120T114500Z
+DTEND:20231204T131500Z
+LOCATION:ГУК В-221
+DTSTART:20231204T114500Z
 SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:a5d3558d-9bf6-48b3-9e7c-95ca96940c20@a5d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20231025T113000Z
-LOCATION:ГАК-320
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:de543d80-5beb-4c95-8d23-5b90ccf4a501@de54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20231227T113000Z
-LOCATION:ГАК-320
-DTSTART:20231227T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:6a917218-5d31-43a3-86a2-cdd500562ee1@6a91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231023T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:bbeaf8d8-48aa-412c-a8d5-bddfa627f7f7@bbea.org
+UID:8effa515-2cea-403f-a4f3-e9ad48c94ab5@8eff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231211T131500Z
+DTEND:20230918T131500Z
 LOCATION:9-404
-DTSTART:20231211T114500Z
+DTSTART:20230918T114500Z
 SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:adc9bf5b-58f3-4e03-a37b-9b2a39a2c419@adc9.org
+UID:f3ee30f4-28ae-4bb8-8567-657cb0ace543@f3ee.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20231108T113000Z
-LOCATION:ГАК-320
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:83555bb6-0267-4315-882c-05297ec0fc97@8355.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231204T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231204T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:405d7844-47d4-4800-b746-2eb72be8be7c@405d.org
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20231025T091500Z
+LOCATION:ГУК В-221
+DTSTART:20231025T074500Z
+SUMMARY:ЛК Теория управления
+UID:940df91a-bca7-42ad-9f92-e49d07ed3985@940d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Антон Витальевич
@@ -551,15 +87,31 @@ DTEND:20231016T091500Z
 LOCATION:ГУК В-228
 DTSTART:20231016T074500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:f0eecd5a-f9c8-4a5f-904f-3e850a5f7883@f0ee.org
+UID:1deeb3db-4703-4aaa-b205-7103dda83e3d@1dee.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20230913T091500Z
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20231120T131500Z
 LOCATION:ГУК В-221
-DTSTART:20230913T074500Z
-SUMMARY:ЛК Теория управления
-UID:4e31bcd5-2c01-40de-95c5-e76c7f55a3fd@4e31.org
+DTSTART:20231120T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:30a8b341-fbe5-4447-95ab-c5c54da7f974@30a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20231218T091500Z
+LOCATION:ГУК В-228
+DTSTART:20231218T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:da92b520-fc97-4e79-8a5f-9401671746fe@da92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20230918T091500Z
+LOCATION:ГУК В-228
+DTSTART:20230918T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:f9a30576-bf07-42e6-a94c-48eb4ae32cef@f9a3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Платонов Евгений Николаевич
@@ -567,31 +119,63 @@ DTEND:20231206T113000Z
 LOCATION:ГАК-320
 DTSTART:20231206T100000Z
 SUMMARY:ЛК Математические методы в экономике
-UID:b90b1e7f-4774-4845-959c-15015afe4fd9@b90b.org
+UID:8b6ada8e-8a75-4eaf-a6db-b3528a5b0ca1@8b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20231211T091500Z
+LOCATION:ГУК В-228
+DTSTART:20231211T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:8134279c-9fea-451d-83cc-c08adb143b44@8134.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231225T113000Z
+DTEND:20231016T113000Z
 LOCATION:ГУК Б-460
-DTSTART:20231225T100000Z
+DTSTART:20231016T100000Z
 SUMMARY:ЛК Математическое моделирование
-UID:815c15ef-72f5-43bf-9860-6009d3ecd2b2@815c.org
+UID:e8de4e6d-eb20-4f9b-858d-ee844ba4824d@e8de.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20231127T091500Z
-LOCATION:ГУК В-228
-DTSTART:20231127T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:900357a5-0d08-4649-8b0a-d61818d76bfd@9003.org
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20231113T131500Z
+LOCATION:ГУК В-221
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:4949f3a8-9f43-4b30-b3b2-dfd0774b9db3@4949.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Егоров Антон Витальевич
-DTEND:20231002T091500Z
-LOCATION:ГУК В-228
-DTSTART:20231002T074500Z
-SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:1a894987-3a19-40e5-90cb-e15234040cb7@1a89.org
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20231011T091500Z
+LOCATION:ГУК В-221
+DTSTART:20231011T074500Z
+SUMMARY:ЛК Теория управления
+UID:9360f1f6-d8f0-42fe-9fc4-24b40ea2d3de@9360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20231030T131500Z
+LOCATION:ГУК В-221
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:6bb367ad-c572-4148-bbd1-c783014838bc@6bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20231004T091500Z
+LOCATION:ГУК В-221
+DTSTART:20231004T074500Z
+SUMMARY:ЛК Теория управления
+UID:f7cc11f3-1574-4eea-88f0-7591a35d8c89@f7cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20231211T131500Z
+LOCATION:ГУК В-221
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:41a57175-e1b3-4418-88d3-82a28341612a@41a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Антон Витальевич
@@ -599,15 +183,95 @@ DTEND:20230925T091500Z
 LOCATION:ГУК В-228
 DTSTART:20230925T074500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:a8814ba1-323e-406e-9f1b-2a685af5a1c1@a881.org
+UID:8d154bb1-cbcb-4dee-b750-af78fa23c74d@8d15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231122T113000Z
+LOCATION:ГАК-320
+DTSTART:20231122T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:4fae43ac-2330-401b-9354-76e8a8190fef@4fae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20231225T131500Z
+LOCATION:ГУК В-221
+DTSTART:20231225T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:5809dc66-43f1-4e66-8eb4-eb3f4cca9df4@5809.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20231030T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:ff57cd60-146d-4901-b15b-c26c18189077@ff57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20231106T131500Z
+LOCATION:ГУК В-221
+DTSTART:20231106T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:14a3a2ed-27c7-43ce-a5ff-0cfe964a29de@14a3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Антон Витальевич
-DTEND:20231204T091500Z
+DTEND:20231023T091500Z
 LOCATION:ГУК В-228
-DTSTART:20231204T074500Z
+DTSTART:20231023T074500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:ee16c11a-7e25-4985-b429-b8f90fa15ae9@ee16.org
+UID:841faa74-81fd-4fb3-8700-a94e1400f584@841f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20231220T091500Z
+LOCATION:ГУК В-221
+DTSTART:20231220T074500Z
+SUMMARY:ЛК Теория управления
+UID:b3a93977-6d65-4213-85ff-8438985c08a4@b3a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231011T113000Z
+LOCATION:ГАК-320
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:6ea0ab43-6fed-46e2-b89e-185331c3d89f@6ea0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20231127T131500Z
+LOCATION:ГУК В-221
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:f23c4d5b-410e-4ad1-b883-55e7c1301722@f23c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231213T113000Z
+LOCATION:ГАК-320
+DTSTART:20231213T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:43d75115-c133-4a38-83f0-4cb4cfaa9a10@43d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20230918T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:520d0769-b123-45ac-9e66-5f0608364e33@520d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20231009T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20231009T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:53ecd3bf-941c-4b3d-a6dc-8e0f8d659ee1@53ec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Платонов Евгений Николаевич
@@ -615,39 +279,7 @@ DTEND:20230906T113000Z
 LOCATION:ГАК-320
 DTSTART:20230906T100000Z
 SUMMARY:ЛК Математические методы в экономике
-UID:71d5df23-62d6-4ace-9a6e-baa31e3185e7@71d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Платонов Евгений Николаевич
-DTEND:20231115T113000Z
-LOCATION:ГАК-320
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Математические методы в экономике
-UID:bdc52e9f-cf27-4a34-a3af-bec730fe5d9f@bdc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Красильников Павел Сергеевич
-DTEND:20231106T113000Z
-LOCATION:ГУК Б-460
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Математическое моделирование
-UID:70ca7386-b953-4e19-acac-001e597a8e92@70ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231009T131500Z
-LOCATION:9-404
-DTSTART:20231009T114500Z
-SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:58a68801-5b82-4425-a652-8779f3ff197b@58a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пантелеев Андрей Владимирович
-DTEND:20230906T091500Z
-LOCATION:ГУК В-221
-DTSTART:20230906T074500Z
-SUMMARY:ЛК Теория управления
-UID:ec4a6dc6-1e95-495b-b32e-aa88a0114ece@ec4a.org
+UID:6670ee1f-1e85-4150-b093-fc7910d9225a@6670.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Антон Витальевич
@@ -655,7 +287,159 @@ DTEND:20231106T091500Z
 LOCATION:ГУК В-228
 DTSTART:20231106T074500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:2a053a0a-b0c7-442a-a0b5-68131866da8f@2a05.org
+UID:56a75f34-259a-4ae3-b6bd-92c813f41462@56a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20231129T091500Z
+LOCATION:ГУК В-221
+DTSTART:20231129T074500Z
+SUMMARY:ЛК Теория управления
+UID:36be8ee7-e4db-4bf2-bf67-f24b36e67f4c@36be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20231122T091500Z
+LOCATION:ГУК В-221
+DTSTART:20231122T074500Z
+SUMMARY:ЛК Теория управления
+UID:21f90451-d310-4509-bdc9-ffbe3b1714ce@21f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231108T113000Z
+LOCATION:ГАК-320
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:5a2e0440-ed50-4452-9667-8238c3686853@5a2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20230911T091500Z
+LOCATION:ГУК В-228
+DTSTART:20230911T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:b4079f02-ee23-4e1a-963f-55908368440e@b407.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20231204T091500Z
+LOCATION:ГУК В-228
+DTSTART:20231204T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:fe548210-fb61-4394-ba34-8c9e043e2ba8@fe54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20230904T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:fcee7a48-d236-4125-ab00-658baed5b54d@fcee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20231023T131500Z
+LOCATION:ГУК В-221
+DTSTART:20231023T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:790fe9fe-1e06-41be-b0cf-8f18acf80e58@790f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20231018T091500Z
+LOCATION:ГУК В-221
+DTSTART:20231018T074500Z
+SUMMARY:ЛК Теория управления
+UID:f92789e6-1f33-4137-8877-a1dc40950d12@f927.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20231113T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:237c3f9c-4766-42a7-8986-b1e71101dcc0@237c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20230913T091500Z
+LOCATION:ГУК В-221
+DTSTART:20230913T074500Z
+SUMMARY:ЛК Теория управления
+UID:fb02927f-2ee9-4123-a6fb-105afa4f62f8@fb02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20231127T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20231127T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:7ba3946e-92be-4b5b-9aee-a1f2ac5db067@7ba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20230927T113000Z
+LOCATION:ГАК-320
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:dc5600b1-7fec-42da-bec2-56a6afd08a05@dc56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20231225T091500Z
+LOCATION:ГУК В-228
+DTSTART:20231225T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:f5d15855-b65b-4d81-b40a-94e8cb24b4be@f5d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20231213T091500Z
+LOCATION:ГУК В-221
+DTSTART:20231213T074500Z
+SUMMARY:ЛК Теория управления
+UID:0e2204ea-3564-45cc-b00f-00b932ff5147@0e22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20230911T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:fea21116-e30a-4150-96de-600cb7991e0c@fea2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20231227T091500Z
+LOCATION:ГУК В-221
+DTSTART:20231227T074500Z
+SUMMARY:ЛК Теория управления
+UID:1447ac36-f182-42a2-9a01-5a0445573c57@1447.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20230913T113000Z
+LOCATION:ГАК-320
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:8d0e5498-6261-4732-8a66-277b2d6f45e3@8d0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20230906T091500Z
+LOCATION:ГУК В-221
+DTSTART:20230906T074500Z
+SUMMARY:ЛК Теория управления
+UID:79ca32bf-f5fc-4fc7-b86c-9b3caba8f105@79ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231129T113000Z
+LOCATION:ГАК-320
+DTSTART:20231129T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:48a8a6f0-52fe-47e8-ad43-0b93c57a0eda@48a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Егоров Антон Витальевич
@@ -663,22 +447,238 @@ DTEND:20230904T091500Z
 LOCATION:ГУК В-228
 DTSTART:20230904T074500Z
 SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
-UID:83f9cb6b-eaac-490d-ba62-803b58681b92@83f9.org
+UID:ef07dfc8-6506-4cfa-9ac4-e44945dbc4c2@ef07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20231127T091500Z
+LOCATION:ГУК В-228
+DTSTART:20231127T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:c4a53f4d-164b-4ce6-8de8-337e40acbc5a@c4a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231227T113000Z
+LOCATION:ГАК-320
+DTSTART:20231227T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:8f1e4129-aa86-4b48-ab7d-f1a32f119256@8f1e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пегачкова Елена Александровна
-DTEND:20231225T131500Z
-LOCATION:9-404
-DTSTART:20231225T114500Z
+DTEND:20231002T131500Z
+LOCATION:ГУК В-221
+DTSTART:20231002T114500Z
 SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:c6273c68-c159-4220-8aac-5f120f585124@c627.org
+UID:bfadf2fb-24d2-4577-8a76-db5c137684b3@bfad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20231009T131500Z
+LOCATION:ГУК В-221
+DTSTART:20231009T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:6da00dc0-5128-4e7e-a6c4-08a73bf9f613@6da0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20231113T091500Z
+LOCATION:ГУК В-228
+DTSTART:20231113T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:4929b608-81d4-4a52-b29f-1532f53987ee@4929.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20231023T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:654d594e-ea25-41bf-85d2-5d7ec16ae358@654d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20231106T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:cab9b728-b399-459d-8563-51b006de1358@cab9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231018T113000Z
+LOCATION:ГАК-320
+DTSTART:20231018T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:bce7fc08-d5fd-4f97-bc40-a3e36697162d@bce7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20231206T091500Z
+LOCATION:ГУК В-221
+DTSTART:20231206T074500Z
+SUMMARY:ЛК Теория управления
+UID:e00fc806-1ff2-45dc-a48d-a4d40cd1ebae@e00f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231025T113000Z
+LOCATION:ГАК-320
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:4fe4462b-bd42-4200-bcb2-ca0eb63afbed@4fe4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20231009T091500Z
+LOCATION:ГУК В-228
+DTSTART:20231009T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:16c85fc6-b77f-4674-a058-f935c90c32c8@16c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20231204T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20231204T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:c11ffe67-21b8-42af-8f90-91f8ee338bdc@c11f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20230920T091500Z
+LOCATION:ГУК В-221
+DTSTART:20230920T074500Z
+SUMMARY:ЛК Теория управления
+UID:22e9566c-a0ad-40f7-84f1-9344b841bfe2@22e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20230920T113000Z
+LOCATION:ГАК-320
+DTSTART:20230920T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:054e1cc0-1331-4c8e-abfb-9fa190785117@054e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231115T113000Z
+LOCATION:ГАК-320
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:a483093c-88c1-469d-ad59-06beaf163759@a483.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20231120T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:373b5d32-7ae2-460c-aa0e-637da1f465d2@373b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20231016T131500Z
+LOCATION:ГУК В-221
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:4c849855-7150-43c4-9e71-9187b88554c5@4c84.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пегачкова Елена Александровна
 DTEND:20231218T131500Z
-LOCATION:9-404
+LOCATION:ГУК В-221
 DTSTART:20231218T114500Z
 SUMMARY:ЛК Искусственный интеллект и системный анализ
-UID:34e84f1d-26ee-43a4-a048-022f50612642@34e8.org
+UID:edc4d45d-8a96-473e-9ae0-a9493ba87b62@edc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20231030T091500Z
+LOCATION:ГУК В-228
+DTSTART:20231030T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:90c63389-8d92-4a38-87ae-3048ebd7d414@90c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Платонов Евгений Николаевич
+DTEND:20231220T113000Z
+LOCATION:ГАК-320
+DTSTART:20231220T100000Z
+SUMMARY:ЛК Математические методы в экономике
+UID:4e2f2e51-3206-4c61-89cd-6b8fa28e775d@4e2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20231225T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20231225T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:b615a371-e77f-44a2-bf28-51599aae1b2d@b615.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20230927T091500Z
+LOCATION:ГУК В-221
+DTSTART:20230927T074500Z
+SUMMARY:ЛК Теория управления
+UID:50ad0905-4363-4634-92ce-101baf196d18@50ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20231002T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:5ee901d1-b58d-472d-87f4-1cc80911e303@5ee9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20231002T091500Z
+LOCATION:ГУК В-228
+DTSTART:20231002T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:ee2b06bd-a341-495b-98dd-5065946bfc1d@ee2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пантелеев Андрей Владимирович
+DTEND:20231101T091500Z
+LOCATION:ГУК В-221
+DTSTART:20231101T074500Z
+SUMMARY:ЛК Теория управления
+UID:b19f8bcb-fb49-4af2-bd0f-35307dc8d343@b19f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20230904T131500Z
+LOCATION:9-404
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:08876f97-499e-4994-adae-a587b34bb50c@0887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Красильников Павел Сергеевич
+DTEND:20231218T113000Z
+LOCATION:ГУК Б-460
+DTSTART:20231218T100000Z
+SUMMARY:ЛК Математическое моделирование
+UID:c374805a-535d-4795-a62b-6fc3710fcb49@c374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пегачкова Елена Александровна
+DTEND:20230911T131500Z
+LOCATION:9-404
+DTSTART:20230911T114500Z
+SUMMARY:ЛК Искусственный интеллект и системный анализ
+UID:e86383e4-6906-4b8f-a86d-1d713e81bfba@e863.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Егоров Антон Витальевич
+DTEND:20231120T091500Z
+LOCATION:ГУК В-228
+DTSTART:20231120T074500Z
+SUMMARY:ЛК Введение в авиационную и ракетно-космическую технику
+UID:bdb4f4fd-ec76-45b6-bcef-5e6c2234cfd2@bdb4.org
 END:VEVENT
 END:VCALENDAR

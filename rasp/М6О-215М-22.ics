@@ -2,924 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20231109T164500Z
-LOCATION:5-117
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Прикладные экологические расчеты
-UID:726f8418-18ad-4c5e-a558-74d53858b17e@726f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:5346bda5-ca16-43e8-bf14-2cc848537003@5346.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231107T164500Z
-LOCATION:24-744
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Анализ и управление экологическим риском
-UID:35372d3d-5e61-4aa0-9db1-d90fc3e98e60@3537.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231127T164500Z
-LOCATION:5-117
-DTSTART:20231127T151500Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:1036b926-c3de-431d-a484-385372469330@1036.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20230905T164500Z
-LOCATION:24-744
-DTSTART:20230905T151500Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:a930bbd8-008e-4105-b8fd-054db7077674@a930.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231024T150000Z
-LOCATION:24-744
-DTSTART:20231024T133000Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:22b75af7-2f80-4c6c-a76c-7e09f6644505@22b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20231004T164500Z
-LOCATION:7-412
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:46c28e91-c40f-408a-b58c-908a5dcd2302@46c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20231207T164500Z
-LOCATION:5-117
-DTSTART:20231207T151500Z
-SUMMARY:ПЗ Прикладные экологические расчеты
-UID:4ed32d23-d35a-41a3-8fa2-659ce9cfe07a@4ed3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230902T091500Z
-LOCATION:5-001
-DTSTART:20230902T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:c4b5cbc9-d7a5-4754-8c4d-f0c148aa510a@c4b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231228T164500Z
-LOCATION:5-117
-DTSTART:20231228T151500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:871b9eb2-da53-49cc-8fc7-78e8d0948b6e@871b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231005T183000Z
-LOCATION:5-117
-DTSTART:20231005T170000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:8d5207d7-cd2d-41dd-9563-5cac54499bb0@8d52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20230921T164500Z
-LOCATION:5-117
-DTSTART:20230921T151500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:8dd25b44-594a-4a60-9a38-82752eef3700@8dd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20231108T164500Z
-LOCATION:7-412
-DTSTART:20231108T151500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:603ccfbd-5323-40e8-a4e4-01fc1462ae30@603c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231116T183000Z
-LOCATION:5-117
-DTSTART:20231116T170000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:70248042-3480-4df1-8f35-d63077d0add9@7024.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231016T150000Z
-LOCATION:5-117
-DTSTART:20231016T133000Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:6bc348dd-4a79-46c7-b548-f9d93eab77c7@6bc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231128T150000Z
-LOCATION:24-744
-DTSTART:20231128T133000Z
-SUMMARY:ПЗ Анализ и управление экологическим риском
-UID:d6c3c854-191e-48ef-b63c-80e06d2e8126@d6c3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:be8b04cf-a437-4499-99ff-e119df825de3@be8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231102T164500Z
-LOCATION:5-117
-DTSTART:20231102T151500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:5a08bcbb-4ca1-4bbe-9b12-0c0abd8f7640@5a08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231107T150000Z
-LOCATION:24-744
-DTSTART:20231107T133000Z
-SUMMARY:ПЗ Анализ и управление экологическим риском
-UID:964d0ae2-27dc-430b-abe2-339e6c166ea0@964d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231114T164500Z
-LOCATION:24-744
-DTSTART:20231114T151500Z
-SUMMARY:ПЗ Анализ и управление экологическим риском
-UID:e4a21d98-3102-46f1-b2d5-09573b1e40d2@e4a2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:d1c76852-7809-4fdf-ba54-6b15adc46805@d1c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231030T164500Z
-LOCATION:5-117
-DTSTART:20231030T151500Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:214a7c53-660d-4bd5-8ba9-0304c891b533@214a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231016T164500Z
-LOCATION:5-117
-DTSTART:20231016T151500Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:02bc4433-ae4d-47a7-b301-d8616f678af3@02bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калугин Алексей Владимирович
-DTEND:20231115T183000Z
-LOCATION:7-412
-DTSTART:20231115T170000Z
-SUMMARY:ПЗ Сертификация авиационной техники
-UID:09b4625f-0add-48b6-a512-b0f7da5e2b61@09b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231002T164500Z
-LOCATION:5-117
-DTSTART:20231002T151500Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:980bd7d0-2448-440a-9eb0-fdff8571b998@980b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:c82a4add-3c02-437c-92c9-f0ed08165aeb@c82a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231202T091500Z
-LOCATION:5-001
-DTSTART:20231202T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:1699fc51-1c7a-4a65-bb81-b5a53502965f@1699.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230916T073000Z
-LOCATION:5-001
-DTSTART:20230916T060000Z
-SUMMARY:ЛК Управление экологической безопасностью
-UID:68bcfab1-4a4b-4869-82e1-82aded580f6b@68bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231228T183000Z
-LOCATION:5-117
-DTSTART:20231228T170000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:5b0a1d7e-0963-4073-889f-d2b5405bd0c5@5b0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20231012T183000Z
-LOCATION:5-117
-DTSTART:20231012T170000Z
-SUMMARY:ЛК Прикладные экологические расчеты
-UID:c3b5a2e2-9037-4143-a00a-3df27dee811a@c3b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20230921T183000Z
-LOCATION:5-117
-DTSTART:20230921T170000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:b770d6db-8747-425c-8238-f554c70d6564@b770.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231030T150000Z
-LOCATION:5-117
-DTSTART:20231030T133000Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:ebb7ac5d-5579-4cbf-a244-a511a1828a79@ebb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231121T150000Z
-LOCATION:24-744
-DTSTART:20231121T133000Z
-SUMMARY:ПЗ Анализ и управление экологическим риском
-UID:82f01eb5-8abe-4ffd-8120-b49fff80338a@82f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20231221T164500Z
-LOCATION:5-117
-DTSTART:20231221T151500Z
-SUMMARY:ПЗ Прикладные экологические расчеты
-UID:2f3f14b0-1c35-4b36-bd3e-b04432c129a1@2f3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231019T164500Z
-LOCATION:5-117
-DTSTART:20231019T151500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:73695ec5-eeeb-46bb-84d9-e7db0a87d11d@7369.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231127T150000Z
-LOCATION:5-117
-DTSTART:20231127T133000Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:cb469561-6d2a-4ce2-9d27-42131b0347f4@cb46.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T164500Z
-LOCATION:--каф.
-DTSTART:20231009T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:16b84f1e-36d8-4f40-8bb2-200347d3e7c4@16b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20230919T150000Z
-LOCATION:24-744
-DTSTART:20230919T133000Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:24347ac6-c4c5-409a-99d7-2b8824d553ac@2434.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20230928T164500Z
-LOCATION:5-117
-DTSTART:20230928T151500Z
-SUMMARY:ЛК Прикладные экологические расчеты
-UID:6112bc9e-ee0d-4c7b-8433-406963b05a2e@6112.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20230905T150000Z
-LOCATION:24-744
-DTSTART:20230905T133000Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:5ef90509-9383-4178-9a8b-afeef2321e72@5ef9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231019T183000Z
-LOCATION:5-117
-DTSTART:20231019T170000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:e9b886c0-a3d3-4a30-bf68-e0f9cd6c2d06@e9b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231007T073000Z
-LOCATION:5-001
-DTSTART:20231007T060000Z
-SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
-UID:d803222e-d650-49e8-bf30-5bc7fe9c56b4@d803.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20230907T164500Z
-LOCATION:5-117
-DTSTART:20230907T151500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:a3cffcbf-b4db-4bab-a1f2-1f3c7fdb7f15@a3cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231021T073000Z
-LOCATION:5-001
-DTSTART:20231021T060000Z
-SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
-UID:37782562-d0aa-466c-9643-6fe54b698ed2@3778.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калугин Алексей Владимирович
-DTEND:20230913T183000Z
-LOCATION:7-412
-DTSTART:20230913T170000Z
-SUMMARY:ПЗ Сертификация авиационной техники
-UID:909acade-d61c-49a8-80cc-63551258bf50@909a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230909T091500Z
-LOCATION:5-001
-DTSTART:20230909T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:86c00ff2-6fa0-470e-b2d0-eb4691ba8e5f@86c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231102T183000Z
-LOCATION:5-117
-DTSTART:20231102T170000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:542e8b48-8662-4625-b881-5368d6f5130f@542e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыченков Денис Борисович
-DTEND:20230907T150000Z
-LOCATION:ГАК-320
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Информационная поддержка жизненного цикла изделия
-UID:579cbd1f-3e73-43ea-8f59-c3c26cc13112@579c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20231221T183000Z
-LOCATION:5-117
-DTSTART:20231221T170000Z
-SUMMARY:ПЗ Прикладные экологические расчеты
-UID:7c311115-fe4e-4805-ab51-5981c60dcc3f@7c31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230902T073000Z
-LOCATION:5-001
-DTSTART:20230902T060000Z
-SUMMARY:ЛК Управление экологической безопасностью
-UID:7a49974e-f5c1-48e1-b608-fffd7847a722@7a49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20230912T164500Z
-LOCATION:24-744
-DTSTART:20230912T151500Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:6d50b410-544a-4f39-83a7-21b46732f2e4@6d50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калугин Алексей Владимирович
-DTEND:20231025T183000Z
-LOCATION:7-412
-DTSTART:20231025T170000Z
-SUMMARY:ПЗ Сертификация авиационной техники
-UID:8ac6644f-f7d7-4102-988e-8cb152504240@8ac6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231230T073000Z
-LOCATION:5-001
-DTSTART:20231230T060000Z
-SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
-UID:4a6079fc-ee70-467e-b1f0-7aefce04eb15@4a60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20230926T150000Z
-LOCATION:24-744
-DTSTART:20230926T133000Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:ce07a0ca-0a8c-4c3f-aaee-e1851e4e0d2a@ce07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231125T091500Z
-LOCATION:5-001
-DTSTART:20231125T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:373ffbe2-4fff-4c9c-a80b-3e2d4ce5b3a3@373f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калугин Алексей Владимирович
-DTEND:20230927T183000Z
-LOCATION:7-412
-DTSTART:20230927T170000Z
-SUMMARY:ПЗ Сертификация авиационной техники
-UID:45e080c9-7324-44c1-8837-73891f4f955a@45e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231114T150000Z
-LOCATION:24-744
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Анализ и управление экологическим риском
-UID:b54b6217-922c-4b9d-b2d0-499597eb54d5@b54b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230923T091500Z
-LOCATION:5-001
-DTSTART:20230923T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:187ec441-a1f3-4b3d-b9f0-7f841016de9c@187e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20230926T164500Z
-LOCATION:24-744
-DTSTART:20230926T151500Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:20e56c58-30c8-40fc-967d-e4dd8473441d@20e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231216T091500Z
-LOCATION:5-001
-DTSTART:20231216T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:cc5ee1a3-ddbc-4898-a100-309e02e2427d@cc5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231125T073000Z
-LOCATION:5-001
-DTSTART:20231125T060000Z
-SUMMARY:ЛК Управление экологической безопасностью
-UID:2088c582-7fb9-4707-90bc-bf3cfad4f08b@2088.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231111T091500Z
-LOCATION:5-001
-DTSTART:20231111T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:53a3cd4f-e8a4-4169-be0b-0c68d97237be@53a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231014T073000Z
-LOCATION:5-001
-DTSTART:20231014T060000Z
-SUMMARY:ЛК Управление экологической безопасностью
-UID:52ac02c0-4811-4da0-9d2e-da0643b4f224@52ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230916T091500Z
-LOCATION:5-001
-DTSTART:20230916T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:4f4382ef-3b4a-48b9-b08e-185458bfcddc@4f43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20231123T183000Z
-LOCATION:5-117
-DTSTART:20231123T170000Z
-SUMMARY:ПЗ Прикладные экологические расчеты
-UID:05b87853-3f18-4779-a459-c9e16ff1ee99@05b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20230927T164500Z
-LOCATION:7-412
-DTSTART:20230927T151500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:041be3e1-fa18-4fd6-abcf-50d03c66f0e6@041b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231118T091500Z
-LOCATION:5-001
-DTSTART:20231118T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:b5415b2d-2945-471b-85f4-d3b69721faa3@b541.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231223T073000Z
-LOCATION:5-001
-DTSTART:20231223T060000Z
-SUMMARY:ЛК Управление экологической безопасностью
-UID:c18901f0-ba88-46c4-a7f4-4247d5514740@c189.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231209T073000Z
-LOCATION:5-001
-DTSTART:20231209T060000Z
-SUMMARY:ЛК Управление экологической безопасностью
-UID:0091514b-47ce-4f36-bb9a-6f6fdff711dc@0091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20230913T164500Z
-LOCATION:7-412
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:e1a15591-0ff5-441e-9acb-6f44ef5d1f11@e1a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231111T073000Z
-LOCATION:5-001
-DTSTART:20231111T060000Z
-SUMMARY:ЛК Управление экологической безопасностью
-UID:1dd83813-4a05-4613-9ec4-f6de1d7702e4@1dd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231130T164500Z
-LOCATION:5-117
-DTSTART:20231130T151500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:e529b355-68f3-4311-b574-2129bc25dee5@e529.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20230919T164500Z
-LOCATION:24-744
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:d9cbe598-911d-42cc-89e7-89437de36406@d9cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230930T073000Z
-LOCATION:5-001
-DTSTART:20230930T060000Z
-SUMMARY:ЛК Управление экологической безопасностью
-UID:4633a782-6681-403a-b22d-bc0fa78d357b@4633.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231028T091500Z
-LOCATION:5-001
-DTSTART:20231028T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:766a19fa-46f2-4abb-a833-352a3fab45c4@766a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231230T091500Z
-LOCATION:5-001
-DTSTART:20231230T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:446f868e-be02-4159-ba49-d4d82502a167@446f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230918T164500Z
-LOCATION:5-117
-DTSTART:20230918T151500Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:9517a612-8651-4766-86ff-604144579160@9517.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231116T164500Z
-LOCATION:5-117
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:d4ddb8e1-e818-4ba5-bd24-459b5223d62b@d4dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231202T073000Z
-LOCATION:5-001
-DTSTART:20231202T060000Z
-SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
-UID:aa6e2a57-45c0-4f40-b480-b82864e8f562@aa6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калугин Алексей Владимирович
-DTEND:20231004T183000Z
-LOCATION:7-412
-DTSTART:20231004T170000Z
-SUMMARY:ПЗ Сертификация авиационной техники
-UID:29582be3-c54e-4b6c-9e33-24664392322e@2958.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калугин Алексей Владимирович
-DTEND:20231011T183000Z
-LOCATION:7-412
-DTSTART:20231011T170000Z
-SUMMARY:ПЗ Сертификация авиационной техники
-UID:7ed9ec27-2103-4ed2-876d-041a80eedbd5@7ed9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231209T091500Z
-LOCATION:5-001
-DTSTART:20231209T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:c403e7c9-8eca-4012-be16-8d9ea94d8abd@c403.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231017T150000Z
-LOCATION:24-744
-DTSTART:20231017T133000Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:3bcc9aa1-201a-4ea3-8001-cdb95b3d1b59@3bcc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20230912T150000Z
-LOCATION:24-744
-DTSTART:20230912T133000Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:186e8fae-2f1c-4600-9e31-a52d420af1b7@186e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231225T150000Z
-LOCATION:5-117
-DTSTART:20231225T133000Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:d446c008-8e83-4298-b3c2-c532d58ea01d@d446.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231128T164500Z
-LOCATION:24-744
-DTSTART:20231128T151500Z
-SUMMARY:ПЗ Анализ и управление экологическим риском
-UID:d8d12d5a-119b-40df-ad6b-567a55ac9990@d8d1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Галкина Елена Евгеньевна
 DTEND:20231007T091500Z
 LOCATION:5-001
 DTSTART:20231007T074500Z
 SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:b8941e76-8556-40d1-b4a8-0663147e0d31@b894.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20231101T164500Z
-LOCATION:7-412
-DTSTART:20231101T151500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:40cbaac4-d7cb-47f6-aae0-c8f2c01007e0@40cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231031T150000Z
-LOCATION:24-744
-DTSTART:20231031T133000Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:3fae30c3-3472-4de3-b96a-ea9093f6df56@3fae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калугин Алексей Владимирович
-DTEND:20231018T183000Z
-LOCATION:7-412
-DTSTART:20231018T170000Z
-SUMMARY:ПЗ Сертификация авиационной техники
-UID:e1ee5b89-287b-4bc6-b309-5adfefb10eb7@e1ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20231018T164500Z
-LOCATION:7-412
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:12a2b9c1-c1c9-4231-a98a-53960102970c@12a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20231109T183000Z
-LOCATION:5-117
-DTSTART:20231109T170000Z
-SUMMARY:ПЗ Прикладные экологические расчеты
-UID:aceb4368-94cd-4ed9-8468-3dbab71cc9d7@aceb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231205T150000Z
-LOCATION:24-744
-DTSTART:20231205T133000Z
-SUMMARY:ПЗ Анализ и управление экологическим риском
-UID:d1649419-8c9c-4f01-a755-1dcacf5afa16@d164.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231214T183000Z
-LOCATION:5-117
-DTSTART:20231214T170000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:87f1db14-be4e-4533-8a0a-78d3959dbfb2@87f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231113T164500Z
-LOCATION:5-117
-DTSTART:20231113T151500Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:860f2609-fc8f-41eb-b2a6-598f956acc94@860f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20231026T164500Z
-LOCATION:5-117
-DTSTART:20231026T151500Z
-SUMMARY:ЛК Прикладные экологические расчеты
-UID:dd903122-2eba-473b-9fe5-e1888ad304f7@dd90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231031T164500Z
-LOCATION:24-744
-DTSTART:20231031T151500Z
-SUMMARY:ПЗ Анализ и управление экологическим риском
-UID:e15050a0-44a8-43f9-a493-87c7d4591195@e150.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231214T164500Z
-LOCATION:5-117
-DTSTART:20231214T151500Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:d2bf425e-3292-41b7-a511-d034033b9677@d2bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231118T073000Z
-LOCATION:5-001
-DTSTART:20231118T060000Z
-SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
-UID:86fe71bd-ad20-462c-b3ee-8be923f9907e@86fe.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:0987069e-7821-4b62-968e-55a8923cdd2f@0987.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20230906T164500Z
-LOCATION:7-412
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:b36f1f1f-061f-4e5d-a79a-0e7f40c3a2ae@b36f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20231115T164500Z
-LOCATION:7-412
-DTSTART:20231115T151500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:057e7e9e-7138-45dc-a3ff-814931f0ae52@057e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231014T091500Z
-LOCATION:5-001
-DTSTART:20231014T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:f8a69cba-a147-43a8-be6a-bd3202958e02@f8a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231003T150000Z
-LOCATION:24-744
-DTSTART:20231003T133000Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:6d58294b-b7c1-440d-b3e4-3b0be7f18f89@6d58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231223T091500Z
-LOCATION:5-001
-DTSTART:20231223T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:b4283a85-f637-4f83-821f-1708469cf6ca@b428.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231021T091500Z
-LOCATION:5-001
-DTSTART:20231021T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:0da6bf58-3c62-498f-8af4-8b4090050a32@0da6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231130T183000Z
-LOCATION:5-117
-DTSTART:20231130T170000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:ffbdd3b2-781a-46d5-8cd7-fc9eddf7e4b8@ffbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20230907T183000Z
-LOCATION:5-117
-DTSTART:20230907T170000Z
-SUMMARY:ПЗ Научный семинар по авиастроению
-UID:e554a136-e741-4108-aae8-86d049fe70da@e554.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20230928T183000Z
-LOCATION:5-117
-DTSTART:20230928T170000Z
-SUMMARY:ЛК Прикладные экологические расчеты
-UID:1f48868c-dbac-4977-bf06-b32da4b50e55@1f48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231003T164500Z
-LOCATION:24-744
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:f21d183c-7d41-4250-8964-205561181f76@f21d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калугин Алексей Владимирович
-DTEND:20231108T183000Z
-LOCATION:7-412
-DTSTART:20231108T170000Z
-SUMMARY:ПЗ Сертификация авиационной техники
-UID:b45fb1ee-5138-4776-9e38-705c8b2a2515@b45f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T164500Z
-LOCATION:--каф.
-DTSTART:20231204T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:c36f68a7-520e-4deb-ac35-173111b3b4bd@c36f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Калугин Алексей Владимирович
-DTEND:20230920T183000Z
-LOCATION:7-412
-DTSTART:20230920T170000Z
-SUMMARY:ПЗ Сертификация авиационной техники
-UID:de7bf752-775a-45b1-8864-c39a59e2be1a@de7b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231204T150000Z
-LOCATION:--каф.
-DTSTART:20231204T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:adb321fd-88d4-4dff-ad7d-3e76ef3966b9@adb3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231211T164500Z
-LOCATION:5-117
-DTSTART:20231211T151500Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:2a684069-a289-4ced-a446-8400d3d09f5c@2a68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231216T073000Z
-LOCATION:5-001
-DTSTART:20231216T060000Z
-SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
-UID:eb931801-bb5b-4a71-91f1-1e90785f9735@eb93.org
+UID:200e22b2-d05a-4fa3-956d-df77816af19b@200e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Метечко Людмила Борисовна
@@ -927,131 +15,63 @@ DTEND:20231123T164500Z
 LOCATION:5-117
 DTSTART:20231123T151500Z
 SUMMARY:ПЗ Прикладные экологические расчеты
-UID:b3e14816-9131-425a-8e66-62bfac889e07@b3e1.org
+UID:7a812961-12ee-4414-a8e8-2809fc0ccf96@7a81.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230923T073000Z
+DTEND:20231216T073000Z
 LOCATION:5-001
-DTSTART:20230923T060000Z
+DTSTART:20231216T060000Z
 SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
-UID:087c4e31-479d-4903-b2a8-8e306a90e787@087c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230918T150000Z
-LOCATION:5-117
-DTSTART:20230918T133000Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:207072fb-c02e-40db-bc43-117e9afb6587@2070.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T164500Z
-LOCATION:--каф.
-DTSTART:20231218T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:4ddc3d29-2922-4bd5-aba0-2317daa2e10e@4ddc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231017T164500Z
-LOCATION:24-744
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:537ff253-4c53-403d-a64a-1b4ee4deb422@537f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20231026T183000Z
-LOCATION:5-117
-DTSTART:20231026T170000Z
-SUMMARY:ЛК Прикладные экологические расчеты
-UID:e5fc531c-8cd0-42d0-8a1b-5a82f0ae935b@e5fc.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231218T150000Z
-LOCATION:--каф.
-DTSTART:20231218T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:81b323a4-2e19-470b-ad75-8c8a4651ce0e@81b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20231011T164500Z
-LOCATION:7-412
-DTSTART:20231011T151500Z
-SUMMARY:ЛК Сертификация авиационной техники
-UID:1db5c8a4-2f8e-4591-b21d-bb41d3814b06@1db5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231024T164500Z
-LOCATION:24-744
-DTSTART:20231024T151500Z
-SUMMARY:ЛК Анализ и управление экологическим риском
-UID:7c6dc992-efbd-4363-a450-5fddee665de8@7c6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230909T073000Z
-LOCATION:5-001
-DTSTART:20230909T060000Z
-SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
-UID:cc0f4908-2d02-41cc-96cc-b934f72c93ea@cc0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кудрявцева Наталья Сергеевна
-DTEND:20231205T164500Z
-LOCATION:24-744
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Анализ и управление экологическим риском
-UID:7b6f8486-581c-4056-bb0b-11fa8f244e34@7b6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20231012T164500Z
-LOCATION:5-117
-DTSTART:20231012T151500Z
-SUMMARY:ЛК Прикладные экологические расчеты
-UID:66777eb6-fccc-4c81-8de6-9b55f92b857c@6677.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:48aeeb29-f435-4681-82e6-f64ce7bcf25b@48ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20230930T091500Z
-LOCATION:5-001
-DTSTART:20230930T074500Z
-SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
-UID:1079b509-b4d3-4a4a-a5f6-e0db48d3093c@1079.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
-UID:51566bdf-c6e5-42fa-b49d-753b3aa7ae2b@5156.org
+UID:eda78523-50d5-4107-96ac-e7bfbb0bb3b8@eda7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сорокин Андрей Евгениевич
-DTEND:20231005T164500Z
+DTEND:20231102T183000Z
 LOCATION:5-117
-DTSTART:20231005T151500Z
+DTSTART:20231102T170000Z
 SUMMARY:ПЗ Научный семинар по авиастроению
-UID:932fd491-8e7d-4ba2-9988-cfa56d98e926@932f.org
+UID:aaa37067-a55d-4947-9de3-0b4061ccbb8b@aaa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20231123T183000Z
+LOCATION:5-117
+DTSTART:20231123T170000Z
+SUMMARY:ПЗ Прикладные экологические расчеты
+UID:605555bb-3d8b-4027-996d-094b9722e7ba@6055.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231225T164500Z
+DTEND:20231223T073000Z
+LOCATION:5-001
+DTSTART:20231223T060000Z
+SUMMARY:ЛК Управление экологической безопасностью
+UID:bf7a258b-cc9c-4de0-ace6-83f880ddf86b@bf7a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калугин Алексей Владимирович
+DTEND:20230913T183000Z
+LOCATION:7-412
+DTSTART:20230913T170000Z
+SUMMARY:ПЗ Сертификация авиационной техники
+UID:3a9ce2e3-621c-4aca-8575-e443c6b66dee@3a9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230923T091500Z
+LOCATION:5-001
+DTSTART:20230923T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:61be8657-4825-4b33-a11e-90c50186e8ff@61be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230918T164500Z
 LOCATION:5-117
-DTSTART:20231225T151500Z
+DTSTART:20230918T151500Z
 SUMMARY:ЛР Управление экологической безопасностью
-UID:2d0950d7-32c7-4b75-bf9e-7ce4f135fb97@2d09.org
+UID:1c00da53-dfa0-44f3-ad01-5ddd6195dace@1c00.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Наталья Сергеевна
@@ -1059,15 +79,119 @@ DTEND:20231010T164500Z
 LOCATION:24-744
 DTSTART:20231010T151500Z
 SUMMARY:ЛК Анализ и управление экологическим риском
-UID:ed91f5fd-789e-4a3a-a028-a32232bddc7d@ed91.org
+UID:25e3e42c-6d1d-42d4-a40d-ea75b4be322e@25e3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калугин Алексей Владимирович
-DTEND:20231101T183000Z
+DTEND:20231004T183000Z
 LOCATION:7-412
-DTSTART:20231101T170000Z
+DTSTART:20231004T170000Z
 SUMMARY:ПЗ Сертификация авиационной техники
-UID:48a0b874-5f48-42d9-9ae3-1d5d88974337@48a0.org
+UID:dbce6b23-99e2-4356-a31d-bf8e96042123@dbce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20231012T183000Z
+LOCATION:5-117
+DTSTART:20231012T170000Z
+SUMMARY:ЛК Прикладные экологические расчеты
+UID:1b497aaf-a071-4357-8c2b-cc8517d70e0f@1b49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20231109T164500Z
+LOCATION:5-117
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Прикладные экологические расчеты
+UID:55706287-8987-45fb-b2e9-d80eabd96f5e@5570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231209T073000Z
+LOCATION:5-001
+DTSTART:20231209T060000Z
+SUMMARY:ЛК Управление экологической безопасностью
+UID:d1ab732d-58ea-42ec-a20e-f33ba9a8ae93@d1ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230916T073000Z
+LOCATION:5-001
+DTSTART:20230916T060000Z
+SUMMARY:ЛК Управление экологической безопасностью
+UID:3150f5ad-c04d-4013-9c41-3b1458a335c0@3150.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231205T164500Z
+LOCATION:24-744
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Анализ и управление экологическим риском
+UID:35a9466c-e8a1-41ad-a2dd-5539c04a869f@35a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230902T073000Z
+LOCATION:5-001
+DTSTART:20230902T060000Z
+SUMMARY:ЛК Управление экологической безопасностью
+UID:64bb2954-e30b-4ddb-bc52-4862f1adde0a@64bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231118T091500Z
+LOCATION:5-001
+DTSTART:20231118T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:2ce54a05-3c83-4145-b37d-92ab1269d4f7@2ce5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231209T091500Z
+LOCATION:5-001
+DTSTART:20231209T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:d3661bbe-3dbd-47c2-9e53-f895f07a1dac@d366.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20231026T164500Z
+LOCATION:5-117
+DTSTART:20231026T151500Z
+SUMMARY:ЛК Прикладные экологические расчеты
+UID:9b330ad1-b55b-4955-b84b-22fe48199c2f@9b33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20230905T164500Z
+LOCATION:24-744
+DTSTART:20230905T151500Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:9d9ebaa4-5e87-4818-a94d-565bcd601669@9d9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калугин Алексей Владимирович
+DTEND:20231018T183000Z
+LOCATION:7-412
+DTSTART:20231018T170000Z
+SUMMARY:ПЗ Сертификация авиационной техники
+UID:2108e71f-543e-44f9-84bf-3f5b92c5a7e0@2108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20230926T164500Z
+LOCATION:24-744
+DTSTART:20230926T151500Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:d3dea04e-6dd0-41b7-9d48-45e8b87a576b@d3de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231125T091500Z
+LOCATION:5-001
+DTSTART:20231125T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:22470448-8ef4-40c5-bf5c-d5274fe33299@2247.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Галкина Елена Евгеньевна
@@ -1075,23 +199,158 @@ DTEND:20231002T150000Z
 LOCATION:5-117
 DTSTART:20231002T133000Z
 SUMMARY:ЛР Управление экологической безопасностью
-UID:e60d4664-cfa4-43ff-95ca-794b5f66962c@e60d.org
+UID:bec01485-ddb7-4782-acc0-cc7bf3535669@bec0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Метечко Людмила Борисовна
-DTEND:20231207T183000Z
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231102T164500Z
 LOCATION:5-117
-DTSTART:20231207T170000Z
-SUMMARY:ПЗ Прикладные экологические расчеты
-UID:a23528c0-664d-4dce-a1fe-3108fb4d4f48@a235.org
+DTSTART:20231102T151500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:53ab5c32-c865-4844-a7a0-19d8d82078d2@53ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20231115T164500Z
+LOCATION:7-412
+DTSTART:20231115T151500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:ac914fea-eec6-4895-b7f7-6c46d088b811@ac91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20230919T150000Z
+LOCATION:24-744
+DTSTART:20230919T133000Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:01c18310-1884-4e59-b65a-f00293947955@01c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231028T073000Z
+DTEND:20231202T073000Z
 LOCATION:5-001
-DTSTART:20231028T060000Z
+DTSTART:20231202T060000Z
+SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
+UID:4e41549e-94e8-44b5-9557-77a1f26d19b2@4e41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231118T073000Z
+LOCATION:5-001
+DTSTART:20231118T060000Z
+SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
+UID:dde7d198-7c3b-4d2e-b1a8-b700971b6730@dde7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231014T073000Z
+LOCATION:5-001
+DTSTART:20231014T060000Z
 SUMMARY:ЛК Управление экологической безопасностью
-UID:5b38a83f-5376-42c0-85f4-44cf4ef68491@5b38.org
+UID:ff082710-6108-439a-989f-5c8a14f29d6e@ff08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231016T150000Z
+LOCATION:5-117
+DTSTART:20231016T133000Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:27f81461-57da-4230-9e37-ab7f7f20e35b@27f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230923T073000Z
+LOCATION:5-001
+DTSTART:20230923T060000Z
+SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
+UID:39d10081-18a8-4036-83e0-f1035c88c3f7@39d1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T150000Z
+LOCATION:--каф.
+DTSTART:20231204T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:015a65a2-53a0-4885-bf26-1a26f317d2e6@015a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231223T091500Z
+LOCATION:5-001
+DTSTART:20231223T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:5f0af81d-410f-4e86-bad2-687f5bfacbdb@5f0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231005T183000Z
+LOCATION:5-117
+DTSTART:20231005T170000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:4ba9bd80-fd0a-415b-baec-68a7dbcb4970@4ba9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калугин Алексей Владимирович
+DTEND:20231011T183000Z
+LOCATION:7-412
+DTSTART:20231011T170000Z
+SUMMARY:ПЗ Сертификация авиационной техники
+UID:39e237a5-da8e-4d4a-a057-8af5ac77cf88@39e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230909T073000Z
+LOCATION:5-001
+DTSTART:20230909T060000Z
+SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
+UID:c1a78e45-f199-4100-8c03-63b3f4ec164c@c1a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230909T091500Z
+LOCATION:5-001
+DTSTART:20230909T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:50fd3b0d-3acf-4a84-870f-47cdd1b6adee@50fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20230905T150000Z
+LOCATION:24-744
+DTSTART:20230905T133000Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:7c15e00b-23bc-4e34-af66-a4c4b16dacb4@7c15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231214T183000Z
+LOCATION:5-117
+DTSTART:20231214T170000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:c424f6bf-b098-4cfc-95e4-0934200b6fcc@c424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231003T150000Z
+LOCATION:24-744
+DTSTART:20231003T133000Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:37d38373-093b-462e-9c6b-70fa8de8f912@37d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231030T150000Z
+LOCATION:5-117
+DTSTART:20231030T133000Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:84363695-8baa-46c2-8aa9-d5a659449296@8436.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231031T150000Z
+LOCATION:24-744
+DTSTART:20231031T133000Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:d9d3bbab-f6c0-49d0-922e-49351edbcea1@d9d3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Калугин Алексей Владимирович
@@ -1099,15 +358,150 @@ DTEND:20230906T183000Z
 LOCATION:7-412
 DTSTART:20230906T170000Z
 SUMMARY:ПЗ Сертификация авиационной техники
-UID:35096a94-33a5-4bbb-b0c5-a0e610536912@3509.org
+UID:027a2dd5-5ec2-4ca6-8adc-23d0b09c1248@027a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231003T164500Z
+LOCATION:24-744
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:f5d207a2-99e9-46aa-bfcd-620d851bcac7@f5d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230930T091500Z
+LOCATION:5-001
+DTSTART:20230930T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:0357a4f6-781e-4f19-9b4b-7013eb807689@0357.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
-DTEND:20231025T164500Z
+DTEND:20231011T164500Z
 LOCATION:7-412
-DTSTART:20231025T151500Z
+DTSTART:20231011T151500Z
 SUMMARY:ЛК Сертификация авиационной техники
-UID:fd501dcf-aef1-45eb-9dec-45d743f61866@fd50.org
+UID:e1fb5dd1-71f3-45d5-9e31-392be601ad00@e1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231107T164500Z
+LOCATION:24-744
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Анализ и управление экологическим риском
+UID:ce0dc351-ea6b-40dd-9009-88da12610cb8@ce0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231111T073000Z
+LOCATION:5-001
+DTSTART:20231111T060000Z
+SUMMARY:ЛК Управление экологической безопасностью
+UID:843adbc5-6c58-4fd2-bd98-44da4a172ef8@843a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калугин Алексей Владимирович
+DTEND:20230927T183000Z
+LOCATION:7-412
+DTSTART:20230927T170000Z
+SUMMARY:ПЗ Сертификация авиационной техники
+UID:b9de8845-b733-4f72-b605-118f5ed81e86@b9de.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231204T164500Z
+LOCATION:--каф.
+DTSTART:20231204T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:777f7e6b-76d6-43c7-96d0-6f0bee43c473@777f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыченков Денис Борисович
+DTEND:20230907T150000Z
+LOCATION:ГАК-320
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Информационная поддержка жизненного цикла изделия
+UID:759b4b9f-c639-47ec-bd3e-96de6e1f76b1@759b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231024T164500Z
+LOCATION:24-744
+DTSTART:20231024T151500Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:b636a288-f4d3-4a18-8e91-7ca95fb172ab@b636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20230927T164500Z
+LOCATION:7-412
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:702a66ac-8251-4c74-b468-4096537c6698@702a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калугин Алексей Владимирович
+DTEND:20231025T183000Z
+LOCATION:7-412
+DTSTART:20231025T170000Z
+SUMMARY:ПЗ Сертификация авиационной техники
+UID:d5978123-0878-4585-bb1e-cb6614462d2a@d597.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20230907T164500Z
+LOCATION:5-117
+DTSTART:20230907T151500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:96048aa5-f57d-4472-8cbe-321051334f7c@9604.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калугин Алексей Владимирович
+DTEND:20230920T183000Z
+LOCATION:7-412
+DTSTART:20230920T170000Z
+SUMMARY:ПЗ Сертификация авиационной техники
+UID:d28e8231-a722-4144-8d85-0164aee7e9a0@d28e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230916T091500Z
+LOCATION:5-001
+DTSTART:20230916T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:02130cb0-c87b-4a5a-a355-6507e99af055@0213.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231019T183000Z
+LOCATION:5-117
+DTSTART:20231019T170000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:cc1fb31e-01f3-4900-aec3-ddb074f7226a@cc1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231031T164500Z
+LOCATION:24-744
+DTSTART:20231031T151500Z
+SUMMARY:ПЗ Анализ и управление экологическим риском
+UID:6eda0d32-cfd1-4038-8e12-2036d95596c5@6eda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231111T091500Z
+LOCATION:5-001
+DTSTART:20231111T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:7724a93a-8524-426c-bb00-b65abfcdab35@7724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20230919T164500Z
+LOCATION:24-744
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:e8333171-ba7b-464d-9892-2c74c3887c69@e833.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Карапетян Тигран Сергеевич
@@ -1115,7 +509,71 @@ DTEND:20230920T164500Z
 LOCATION:7-412
 DTSTART:20230920T151500Z
 SUMMARY:ЛК Сертификация авиационной техники
-UID:129f920c-4851-4e4f-bc6b-a38dc4edd5c5@129f.org
+UID:d1784e52-1d48-4df5-97a4-4602d490886a@d178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231230T073000Z
+LOCATION:5-001
+DTSTART:20231230T060000Z
+SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
+UID:d91ac923-003e-49c2-abf0-6f382f3c55c5@d91a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20231025T164500Z
+LOCATION:7-412
+DTSTART:20231025T151500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:d1e1d783-832a-4205-b338-9a906ba34f1e@d1e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231121T150000Z
+LOCATION:24-744
+DTSTART:20231121T133000Z
+SUMMARY:ПЗ Анализ и управление экологическим риском
+UID:66d52059-ec73-4d7f-95f3-816e68ed958c@66d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231005T164500Z
+LOCATION:5-117
+DTSTART:20231005T151500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:c8a39754-6a60-4709-81cf-17e3e79cce42@c8a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231017T164500Z
+LOCATION:24-744
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:ff8f1db0-1bad-4451-a2cf-3b544abf783c@ff8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231007T073000Z
+LOCATION:5-001
+DTSTART:20231007T060000Z
+SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
+UID:a5d2f2a1-0145-4e89-8a09-f1792a8cbca9@a5d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20230906T164500Z
+LOCATION:7-412
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:a951b76b-826d-4b95-9b0e-12d876deed4e@a951.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230918T150000Z
+LOCATION:5-117
+DTSTART:20230918T133000Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:99c0af52-1065-42e9-9233-7bf15ce2ca0a@99c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Галкина Елена Евгеньевна
@@ -1123,15 +581,14 @@ DTEND:20231211T150000Z
 LOCATION:5-117
 DTSTART:20231211T133000Z
 SUMMARY:ЛР Управление экологической безопасностью
-UID:8d829309-bb05-4cff-bec6-4600bfe8ba91@8d82.org
+UID:97f482c4-b01d-4da1-b289-fe7f8b26de6c@97f4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Галкина Елена Евгеньевна
-DTEND:20231113T150000Z
-LOCATION:5-117
-DTSTART:20231113T133000Z
-SUMMARY:ЛР Управление экологической безопасностью
-UID:6ebf8842-8710-48ad-9059-ec82994d5cf4@6ebf.org
+DTEND:20231218T164500Z
+LOCATION:--каф.
+DTSTART:20231218T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:aa095409-0762-4748-b0dd-c308af871d7f@aa09.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Наталья Сергеевна
@@ -1139,7 +596,297 @@ DTEND:20231010T150000Z
 LOCATION:24-744
 DTSTART:20231010T133000Z
 SUMMARY:ЛК Анализ и управление экологическим риском
-UID:060cf123-a6e5-421a-ae3d-ff523698e329@060c.org
+UID:91dd9d11-e379-441d-acfa-93996b40516d@91dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231028T073000Z
+LOCATION:5-001
+DTSTART:20231028T060000Z
+SUMMARY:ЛК Управление экологической безопасностью
+UID:8d4079e1-b57c-4e0d-b331-73afd02c1100@8d40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231228T183000Z
+LOCATION:5-117
+DTSTART:20231228T170000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:3854fb53-0514-424a-aaba-a6728b424ef4@3854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231128T150000Z
+LOCATION:24-744
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Анализ и управление экологическим риском
+UID:6b9a4517-bd2b-4a37-92bc-6b20b1e07beb@6b9a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:9f1c1ad8-22eb-4354-a1c1-3a0dfaaaf76f@9f1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231211T164500Z
+LOCATION:5-117
+DTSTART:20231211T151500Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:2b25557b-7093-4f0e-9210-1e7340474d43@2b25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калугин Алексей Владимирович
+DTEND:20231115T183000Z
+LOCATION:7-412
+DTSTART:20231115T170000Z
+SUMMARY:ПЗ Сертификация авиационной техники
+UID:48aa30d2-1f74-488e-a4cc-b4896703ce47@48aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20230928T183000Z
+LOCATION:5-117
+DTSTART:20230928T170000Z
+SUMMARY:ЛК Прикладные экологические расчеты
+UID:a7dd8ae0-d622-4089-a3da-93990c85e579@a7dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20231221T183000Z
+LOCATION:5-117
+DTSTART:20231221T170000Z
+SUMMARY:ПЗ Прикладные экологические расчеты
+UID:4953f49b-df94-4502-bcd9-71301840881c@4953.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231225T164500Z
+LOCATION:5-117
+DTSTART:20231225T151500Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:1766def0-4186-4c49-8fde-ad8a7931184c@1766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231114T164500Z
+LOCATION:24-744
+DTSTART:20231114T151500Z
+SUMMARY:ПЗ Анализ и управление экологическим риском
+UID:d5367399-8716-4d8d-bf3e-bf6b7fc630d9@d536.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231128T164500Z
+LOCATION:24-744
+DTSTART:20231128T151500Z
+SUMMARY:ПЗ Анализ и управление экологическим риском
+UID:3348a36a-cca3-43cf-a578-dbf42c018083@3348.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20231221T164500Z
+LOCATION:5-117
+DTSTART:20231221T151500Z
+SUMMARY:ПЗ Прикладные экологические расчеты
+UID:bdda88f1-cbd5-49da-96de-b6821b8a004a@bdda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231021T091500Z
+LOCATION:5-001
+DTSTART:20231021T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:29e07c41-ab75-443a-8b7d-13a9f9efd01f@29e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231014T091500Z
+LOCATION:5-001
+DTSTART:20231014T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:4b7be4ab-5910-4cdb-9119-de560423c078@4b7b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T164500Z
+LOCATION:--каф.
+DTSTART:20231009T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:9e026eec-12a7-4eaa-99bd-01942ff0b90a@9e02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20231101T164500Z
+LOCATION:7-412
+DTSTART:20231101T151500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:2b47bc89-384a-4dbf-9f6d-389e809d5156@2b47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231230T091500Z
+LOCATION:5-001
+DTSTART:20231230T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:562e741c-9c31-4412-836f-13d3c95ac456@562e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20230912T164500Z
+LOCATION:24-744
+DTSTART:20230912T151500Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:69c1af55-23a1-4bd2-b3db-3207dbbe7c7b@69c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20231004T164500Z
+LOCATION:7-412
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:5b7503f8-e166-4ac6-95e0-5285c19c0cd5@5b75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231024T150000Z
+LOCATION:24-744
+DTSTART:20231024T133000Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:400f5e0f-3e4c-43ad-a316-7cee7b5b0dd9@400f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231218T150000Z
+LOCATION:--каф.
+DTSTART:20231218T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:816ca862-7eb3-49b4-a974-b13358ff6182@816c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231002T164500Z
+LOCATION:5-117
+DTSTART:20231002T151500Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:fae75afa-b117-4778-a502-ac7c3501e226@fae7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231205T150000Z
+LOCATION:24-744
+DTSTART:20231205T133000Z
+SUMMARY:ПЗ Анализ и управление экологическим риском
+UID:8210b72e-d2ce-4a73-8057-0015109d8fb0@8210.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:56c91aa6-730d-48d1-bc4b-b6ee0a198468@56c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230902T091500Z
+LOCATION:5-001
+DTSTART:20230902T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:0b75010f-5666-4bbf-9f4b-726006074ae2@0b75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231127T150000Z
+LOCATION:5-117
+DTSTART:20231127T133000Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:f14aed29-b2ef-4f64-908c-4cd5523f6b1e@f14a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20231026T183000Z
+LOCATION:5-117
+DTSTART:20231026T170000Z
+SUMMARY:ЛК Прикладные экологические расчеты
+UID:884ee70f-e84c-49f2-bf9e-92b28f7389d1@884e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20230921T164500Z
+LOCATION:5-117
+DTSTART:20230921T151500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:893fa0db-773b-465e-896c-6451bc41ef74@893f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231125T073000Z
+LOCATION:5-001
+DTSTART:20231125T060000Z
+SUMMARY:ЛК Управление экологической безопасностью
+UID:e4586ae4-3d5a-45b0-8069-63da37f8a589@e458.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:e5b307b4-427f-42df-a634-5ea64bf2df14@e5b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231019T164500Z
+LOCATION:5-117
+DTSTART:20231019T151500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:c6324fb7-fb0a-4e06-935e-df1e2422d1a2@c632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20231207T183000Z
+LOCATION:5-117
+DTSTART:20231207T170000Z
+SUMMARY:ПЗ Прикладные экологические расчеты
+UID:9be5ac24-b708-4837-ad63-021326b1ebe6@9be5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231225T150000Z
+LOCATION:5-117
+DTSTART:20231225T133000Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:88f3aad7-95e6-4f6b-a016-c7a8fb025c42@88f3.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:aa65272a-fbf7-4713-b7ef-541fcbc29973@aa65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231016T164500Z
+LOCATION:5-117
+DTSTART:20231016T151500Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:f9152798-6bb2-4133-844d-f0d13fc40e3c@f915.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231114T150000Z
+LOCATION:24-744
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Анализ и управление экологическим риском
+UID:a682d531-8d07-49a6-8e27-17336e899d02@a682.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20230930T073000Z
+LOCATION:5-001
+DTSTART:20230930T060000Z
+SUMMARY:ЛК Управление экологической безопасностью
+UID:8ae53b16-f8eb-490a-ad9b-f8749d567260@8ae5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кудрявцева Наталья Сергеевна
@@ -1147,6 +894,259 @@ DTEND:20231121T164500Z
 LOCATION:24-744
 DTSTART:20231121T151500Z
 SUMMARY:ПЗ Анализ и управление экологическим риском
-UID:fc51dd84-6531-41a5-acca-d2391b13b8aa@fc51.org
+UID:88ffcebb-577c-4321-b6fd-658f2268bcf5@88ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20230921T183000Z
+LOCATION:5-117
+DTSTART:20230921T170000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:a8d270e9-13e2-44c0-b700-46f78937fe8c@a8d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231130T164500Z
+LOCATION:5-117
+DTSTART:20231130T151500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:e6241736-b3fc-42e2-9d2a-c2a4b438957b@e624.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231028T091500Z
+LOCATION:5-001
+DTSTART:20231028T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:b9c858d9-85c0-4610-bc29-f9d78129aae9@b9c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231113T150000Z
+LOCATION:5-117
+DTSTART:20231113T133000Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:e266390f-67fd-4a04-998a-923e63ccd42b@e266.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:34b8280b-9ea7-426c-b800-ed1c07d52d6f@34b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231127T164500Z
+LOCATION:5-117
+DTSTART:20231127T151500Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:91024a57-4d77-45ec-ba53-902f3aac93ce@9102.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231030T164500Z
+LOCATION:5-117
+DTSTART:20231030T151500Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:8210cd02-84df-47be-8332-d3cf5a95e5c2@8210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231228T164500Z
+LOCATION:5-117
+DTSTART:20231228T151500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:3632ddc7-afe2-4524-a5f0-a0de3b7b3ba9@3632.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20231109T183000Z
+LOCATION:5-117
+DTSTART:20231109T170000Z
+SUMMARY:ПЗ Прикладные экологические расчеты
+UID:631b1a9f-6dee-4175-a799-4d60cb574d9f@631b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231017T150000Z
+LOCATION:24-744
+DTSTART:20231017T133000Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:8fa67419-5820-4237-811b-6394889cf81c@8fa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20231018T164500Z
+LOCATION:7-412
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:86f3b0ef-3b36-44b4-8c0f-2e447d3cdddb@86f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калугин Алексей Владимирович
+DTEND:20231101T183000Z
+LOCATION:7-412
+DTSTART:20231101T170000Z
+SUMMARY:ПЗ Сертификация авиационной техники
+UID:30e4aa46-0863-416a-9152-3082b32b2d0b@30e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20230907T183000Z
+LOCATION:5-117
+DTSTART:20230907T170000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:a41ea2c3-d03f-4ea9-ac10-dcbdb672b27f@a41e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231130T183000Z
+LOCATION:5-117
+DTSTART:20231130T170000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:a8ffa6d9-52f8-4b8d-b8d2-2e739ea80171@a8ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20230926T150000Z
+LOCATION:24-744
+DTSTART:20230926T133000Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:7c5fda88-4e87-47df-aa2d-5ac23675dc9d@7c5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231113T164500Z
+LOCATION:5-117
+DTSTART:20231113T151500Z
+SUMMARY:ЛР Управление экологической безопасностью
+UID:bb60271f-d746-448f-b8ef-8e4caf7bb950@bb60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20231207T164500Z
+LOCATION:5-117
+DTSTART:20231207T151500Z
+SUMMARY:ПЗ Прикладные экологические расчеты
+UID:707e28ac-bbf8-475f-ac1e-1330cbc4a901@707e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20231012T164500Z
+LOCATION:5-117
+DTSTART:20231012T151500Z
+SUMMARY:ЛК Прикладные экологические расчеты
+UID:d9d4c91c-c7a9-4f12-937e-a1210a257b17@d9d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231021T073000Z
+LOCATION:5-001
+DTSTART:20231021T060000Z
+SUMMARY:ПЗ Экономика природопользования и природоохранной деятельности
+UID:4619f945-4775-4bf3-8d87-edcc2266232c@4619.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:2086a6e0-f629-4793-ba7e-d2e19487e394@2086.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20231107T150000Z
+LOCATION:24-744
+DTSTART:20231107T133000Z
+SUMMARY:ПЗ Анализ и управление экологическим риском
+UID:ea7eb8cb-4324-45a3-b90f-de76199dfef4@ea7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20231108T164500Z
+LOCATION:7-412
+DTSTART:20231108T151500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:a93ea8bb-9591-45cc-83b0-3ce3e02f4793@a93e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кудрявцева Наталья Сергеевна
+DTEND:20230912T150000Z
+LOCATION:24-744
+DTSTART:20230912T133000Z
+SUMMARY:ЛК Анализ и управление экологическим риском
+UID:412cee83-28fb-4a5a-9fbb-ef9acb099773@412c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Метечко Людмила Борисовна
+DTEND:20230928T164500Z
+LOCATION:5-117
+DTSTART:20230928T151500Z
+SUMMARY:ЛК Прикладные экологические расчеты
+UID:b2e10750-60da-446c-b75b-c1a516710326@b2e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Калугин Алексей Владимирович
+DTEND:20231108T183000Z
+LOCATION:7-412
+DTSTART:20231108T170000Z
+SUMMARY:ПЗ Сертификация авиационной техники
+UID:23188a39-a684-4eb7-a0e4-d46ca9af0f78@2318.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231116T183000Z
+LOCATION:5-117
+DTSTART:20231116T170000Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:9322c70e-72e1-4509-ba86-74a56d2273aa@9322.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Карапетян Тигран Сергеевич
+DTEND:20230913T164500Z
+LOCATION:7-412
+DTSTART:20230913T151500Z
+SUMMARY:ЛК Сертификация авиационной техники
+UID:723ea223-dc9b-419f-b954-b4d4f7f68a81@723e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231116T164500Z
+LOCATION:5-117
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:281541b1-09d8-44b4-ae62-b196cbca76b4@2815.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ЛР Информационная поддержка жизненного цикла изделия
+UID:aea1dc4f-49c7-4e3f-92f2-2553ad6d0015@aea1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231216T091500Z
+LOCATION:5-001
+DTSTART:20231216T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:7f2626d1-e1a0-4f85-b100-a41a3ec2eb88@7f26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сорокин Андрей Евгениевич
+DTEND:20231214T164500Z
+LOCATION:5-117
+DTSTART:20231214T151500Z
+SUMMARY:ПЗ Научный семинар по авиастроению
+UID:c3ad2b0c-fdd4-4c92-9b73-df4eaaf75156@c3ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Галкина Елена Евгеньевна
+DTEND:20231202T091500Z
+LOCATION:5-001
+DTSTART:20231202T074500Z
+SUMMARY:ЛК Экономика природопользования и природоохранной деятельности
+UID:ce2bd31f-155a-46d9-9ada-4ff9599ebfb1@ce2b.org
 END:VEVENT
 END:VCALENDAR

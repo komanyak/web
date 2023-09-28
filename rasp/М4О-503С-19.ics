@@ -2,1714 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTEND:20231229T091500Z
-LOCATION:--каф.
-DTSTART:20231229T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8d80cdac-fc06-42c2-9643-32c38701af5c@8d80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20230911T131500Z
-LOCATION:24Б-509
-DTSTART:20230911T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:c07a1e6f-dda6-4191-8486-921a1974f537@c07a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231115T131500Z
-LOCATION:24Б-119
-DTSTART:20231115T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:b4688a2f-f2b5-4420-b6db-4f2086eaa52c@b468.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T073000Z
-LOCATION:--каф.
-DTSTART:20230929T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:7be7fa9b-456f-4a2d-99fe-e35d25056420@7be7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231018T150000Z
-LOCATION:24Б-119
-DTSTART:20231018T133000Z
-SUMMARY:ПЗ Цифровые системы передачи информации
-UID:ab89e371-480b-4b0e-91ab-cffab41c88dc@ab89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231030T150000Z
-LOCATION:24Б-509
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Спутниковые системы связи
-UID:529df66e-a580-4f72-b398-917fd4cd32b8@529d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T113000Z
-LOCATION:--каф.
-DTSTART:20231013T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:fa360aa1-f752-49f6-8a81-2085450ad741@fa36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231108T131500Z
-LOCATION:24Б-119
-DTSTART:20231108T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:78551724-4dea-4027-9542-56f412d215b3@7855.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231010T091500Z
-LOCATION:24Б-322
-DTSTART:20231010T074500Z
-SUMMARY:ЛР Основы теории радиосистем передачи информации
-UID:9e22de54-4570-403b-b8ed-20891ec7f954@9e22.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230923T113000Z
-LOCATION:24Б-329
-DTSTART:20230923T100000Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:a634723b-a04c-4818-8384-8cb95fdbcd4b@a634.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231120T073000Z
-LOCATION:24Б-509
-DTSTART:20231120T060000Z
-SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
-UID:6c835fae-6e67-4dcc-8115-315c022da842@6c83.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T131500Z
-LOCATION:--каф.
-DTSTART:20231013T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c1f93597-1296-4067-ac9c-e847507260da@c1f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231108T113000Z
-LOCATION:24Б-517
-DTSTART:20231108T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:6e41ab79-d282-4d84-828d-bab459205c48@6e41.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T073000Z
-LOCATION:--каф.
-DTSTART:20231110T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:6eba6a55-e3ef-4c03-b29c-1b118a113a54@6eba.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T073000Z
-LOCATION:--каф.
-DTSTART:20230908T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:88c94cd0-0917-45f0-9564-1a84f58a9305@88c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231129T131500Z
-LOCATION:24Б-119
-DTSTART:20231129T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:0817d6c7-df35-4c38-9d18-ad2152830827@0817.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231002T113000Z
-LOCATION:24Б-511
-DTSTART:20231002T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:ddfab0ac-f464-4f09-893b-b9eec16741e3@ddfa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T073000Z
-LOCATION:--каф.
-DTSTART:20231201T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:46645825-08c4-422b-bc98-a0723f6aeec9@4664.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T131500Z
-LOCATION:--каф.
-DTSTART:20230908T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:b7b113dd-7f6c-45bd-8b5f-7923c6b431f5@b7b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231207T150000Z
-LOCATION:24Б-119
-DTSTART:20231207T133000Z
-SUMMARY:ЛР Спутниковые системы связи
-UID:b43a9b7d-dd6b-4c20-8e91-d311d950e4cf@b43a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20230904T131500Z
-LOCATION:24Б-509
-DTSTART:20230904T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:18c1b323-b95e-4cf3-b301-9efc068bfb7b@18c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20231102T113000Z
+DTEND:20230907T091500Z
 LOCATION:24Б-330
-DTSTART:20231102T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:80e3a723-a42f-4f98-8766-e5968c029cf2@80e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231115T113000Z
-LOCATION:24Б-517
-DTSTART:20231115T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:271d871e-2331-489a-9085-89796dcf8562@271d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20230920T131500Z
-LOCATION:24Б-119
-DTSTART:20230920T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:673efa69-293a-41ee-90cb-0644103d21f0@673e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231031T091500Z
-LOCATION:24Б-322
-DTSTART:20231031T074500Z
-SUMMARY:ПЗ Основы теории радиосистем передачи информации
-UID:cb420304-d3de-4f04-87f5-19edf00dd042@cb42.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T131500Z
-LOCATION:--каф.
-DTSTART:20231027T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:881b3c54-bf9c-4344-afe3-e3c68097dd6c@881b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T113000Z
-LOCATION:--каф.
-DTSTART:20230922T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:869c1b50-5a08-4c0f-a179-e4b0513c383e@869c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T073000Z
-LOCATION:--каф.
-DTSTART:20231020T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a0a400df-7af5-41a3-b26f-6d59ba19f96f@a0a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Максим Сергеевич
-DTEND:20231031T131500Z
-LOCATION:24Б-524
-DTSTART:20231031T114500Z
-SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
-UID:def69c97-5258-4245-b3c3-8fc62865ab1b@def6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230930T113000Z
-LOCATION:24Б-329
-DTSTART:20230930T100000Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:dc087eee-d919-451d-8d14-d7fdc99adfc8@dc08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231030T113000Z
-LOCATION:24Б-511
-DTSTART:20231030T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:eaf56c3d-19c4-40b4-828c-1b1558831f0c@eaf5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T113000Z
-LOCATION:--каф.
-DTSTART:20231027T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:0039b873-7901-4e60-964c-6143a60ca6dc@0039.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231004T131500Z
-LOCATION:24Б-119
-DTSTART:20231004T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:cf8d7420-a900-47b0-9a45-28eff700d486@cf8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231213T150000Z
-LOCATION:24Б-119
-DTSTART:20231213T133000Z
-SUMMARY:ПЗ Цифровые системы передачи информации
-UID:ccc3d36b-7145-4c81-8b71-b6bd1209c8cf@ccc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231023T131500Z
-LOCATION:24Б-509
-DTSTART:20231023T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:ca5ca1cb-b543-45d7-af91-10a743c79765@ca5c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T073000Z
-LOCATION:--каф.
-DTSTART:20230901T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:c793e892-e9fd-4efd-b375-f76b16c88f3e@c793.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231024T073000Z
-LOCATION:24Б-322
-DTSTART:20231024T060000Z
-SUMMARY:ЛР Основы теории радиосистем передачи информации
-UID:2ff48c2c-de1d-4ee8-b55e-5fb3aad67ca6@2ff4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231221T131500Z
-LOCATION:24Б-119
-DTSTART:20231221T114500Z
-SUMMARY:ЛР Спутниковые системы связи
-UID:dcf400ae-b3ae-4e91-8f46-a60c2c3d72ea@dcf4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T113000Z
-LOCATION:--каф.
-DTSTART:20230929T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:3c1951a3-9038-468c-8e07-8c6ef56475c8@3c19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231227T150000Z
-LOCATION:24Б-119
-DTSTART:20231227T133000Z
-SUMMARY:ПЗ Цифровые системы передачи информации
-UID:ac2de2ef-80cb-4415-81cf-1aab62d27728@ac2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231120T131500Z
-LOCATION:24Б-509
-DTSTART:20231120T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:c23bb78c-fa89-4cd3-bf05-107f0a60acaa@c23b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231122T091500Z
-LOCATION:24Б-517
-DTSTART:20231122T074500Z
-SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
-UID:a35cadce-0cb4-4e10-bf29-2b47070bd4be@a35c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231218T131500Z
-LOCATION:24Б-509
-DTSTART:20231218T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:75a993bb-649c-46e4-b156-48abda53ffd6@75a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231214T164500Z
-LOCATION:24Б-330
-DTSTART:20231214T151500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:842b8a49-c963-4955-b00a-4858e8c9bcc1@842b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230921T091500Z
-LOCATION:24Б-330
-DTSTART:20230921T074500Z
+DTSTART:20230907T074500Z
 SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:34de233b-c1af-4928-ad21-d2e241f2e853@34de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Максим Сергеевич
-DTEND:20231205T113000Z
-LOCATION:24Б-521
-DTSTART:20231205T100000Z
-SUMMARY:ЛР Основы теории радионавигационных систем и комплексов
-UID:89aab693-9dee-4342-a708-d7d6a4d75bc7@89aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T091500Z
-LOCATION:--каф.
-DTSTART:20230929T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c6c41734-22ed-45b2-b73c-d4e3dfe25ef9@c6c4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T113000Z
-LOCATION:--каф.
-DTSTART:20230915T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:42c01379-8d12-4831-9293-7b06a97309d0@42c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231109T131500Z
-LOCATION:24Б-330
-DTSTART:20231109T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:755ba01e-dc03-45bb-b9f1-dc379b65d3fd@755b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230930T131500Z
-LOCATION:24Б-329
-DTSTART:20230930T114500Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:5b3e2cd7-b1d6-45a8-ba64-449edd7b2f3a@5b3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231207T131500Z
-LOCATION:24Б-119
-DTSTART:20231207T114500Z
-SUMMARY:ЛР Спутниковые системы связи
-UID:6ec5290f-7cac-40fd-90b2-97c3f6a56c2b@6ec5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Максим Сергеевич
-DTEND:20231003T131500Z
-LOCATION:24Б-524
-DTSTART:20231003T114500Z
-SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
-UID:6d1c207b-9056-44c7-8e08-b4759c4da06a@6d1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231120T091500Z
-LOCATION:24Б-509
-DTSTART:20231120T074500Z
-SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
-UID:36b4ce4b-9726-4d3f-8b50-6c473ef2b246@36b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231130T150000Z
-LOCATION:24Б-119
-DTSTART:20231130T133000Z
-SUMMARY:ЛР Спутниковые системы связи
-UID:5a35846d-d1f2-4182-af78-2b436ceb26c0@5a35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230909T131500Z
-LOCATION:24Б-329
-DTSTART:20230909T114500Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:2eeb967d-2a0b-4a58-9071-8415d47b120f@2eeb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231228T164500Z
-LOCATION:24Б-330
-DTSTART:20231228T151500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:54e1a690-3222-41b9-ab36-40ccb5592491@54e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T131500Z
-LOCATION:--каф.
-DTSTART:20231117T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d4225da0-eca5-4af7-a543-2faf411e5bc2@d422.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20230914T131500Z
-LOCATION:24Б-330
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:f3d7da8e-f3df-4d9a-ac71-4c1c333f8ba8@f3d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231010T073000Z
-LOCATION:24Б-322
-DTSTART:20231010T060000Z
-SUMMARY:ЛР Основы теории радиосистем передачи информации
-UID:919a0918-e6ef-402c-9e6d-8aff7019a820@919a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231018T131500Z
-LOCATION:24Б-119
-DTSTART:20231018T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:149be586-8fcc-44fb-9003-e84370a0443d@149b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231002T131500Z
-LOCATION:24Б-509
-DTSTART:20231002T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:2b200a2d-d7bd-4429-ad3a-6ec4512d4ddf@2b20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231014T113000Z
-LOCATION:24Б-329
-DTSTART:20231014T100000Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:77a31c79-20e1-4f5a-acec-81332cf5594b@77a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231002T150000Z
-LOCATION:24Б-509
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Спутниковые системы связи
-UID:df093089-097c-4737-a3c3-f0e56721867d@df09.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230914T091500Z
-LOCATION:24Б-330
-DTSTART:20230914T074500Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:a8887e78-a890-4d10-9c33-644e0675edd0@a888.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231007T131500Z
-LOCATION:24Б-329
-DTSTART:20231007T114500Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:15faa479-5c00-4334-94b3-058ff1810298@15fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231111T131500Z
-LOCATION:24Б-329
-DTSTART:20231111T114500Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:17313a8d-c7ab-4d9e-9444-d377f52f4f8a@1731.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T073000Z
-LOCATION:--каф.
-DTSTART:20231027T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f7169f23-d501-46d0-8cf8-a3e2f302123f@f716.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230928T091500Z
-LOCATION:24Б-330
-DTSTART:20230928T074500Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:b596c326-6d2c-4437-88dc-bb8438551e78@b596.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231018T113000Z
-LOCATION:24Б-517
-DTSTART:20231018T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:a4d0b51f-4e2b-4121-a971-4172fd04c81f@a4d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230919T113000Z
-LOCATION:24Б-510
-DTSTART:20230919T100000Z
-SUMMARY:ПЗ Основы теории радиосистем и комплексов управления
-UID:c4921356-b301-46e7-aaa4-9777ff596acc@c492.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T073000Z
-LOCATION:--каф.
-DTSTART:20231124T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:4e5d6a50-62ed-4cef-9481-5abab6dcf8fe@4e5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20231109T113000Z
-LOCATION:24Б-330
-DTSTART:20231109T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:73ef268a-0b4b-4751-b0a0-74db4bb35781@73ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231024T091500Z
-LOCATION:24Б-322
-DTSTART:20231024T074500Z
-SUMMARY:ЛР Основы теории радиосистем передачи информации
-UID:ab9b68b0-0fde-4ed4-94d0-4a8f515d5873@ab9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20230925T113000Z
-LOCATION:24Б-511
-DTSTART:20230925T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:7d8110ec-062f-4474-abf4-0388d7cdb9ef@7d81.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T073000Z
-LOCATION:--каф.
-DTSTART:20231215T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:14c390c5-1495-479b-a31f-859dbfd4f170@14c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231211T113000Z
-LOCATION:24Б-511
-DTSTART:20231211T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:0dbbf158-79e4-4982-8205-0b5e6529e576@0dbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231218T091500Z
-LOCATION:24Б-509
-DTSTART:20231218T074500Z
-SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
-UID:0862f591-2d04-4da4-bdae-4e2febbb836c@0862.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231220T131500Z
-LOCATION:24Б-119
-DTSTART:20231220T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:0eca0f7a-54b9-493e-a1b2-d8afa604e1ac@0eca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231122T113000Z
-LOCATION:24Б-517
-DTSTART:20231122T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:87ef3210-12aa-48c4-b1a0-5eeea671d5aa@87ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20231005T113000Z
-LOCATION:24Б-330
-DTSTART:20231005T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:e1afa043-b9d9-4a94-9984-ffb2852da9ad@e1af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20230918T131500Z
-LOCATION:24Б-509
-DTSTART:20230918T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:9c167541-daf5-46b2-8795-e9861b023648@9c16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231116T091500Z
-LOCATION:24Б-330
-DTSTART:20231116T074500Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:be82342f-9e26-4f75-8310-48d8c4bdf481@be82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231204T131500Z
-LOCATION:24Б-509
-DTSTART:20231204T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:6e81d5b5-d949-4c66-b66a-d51821f7b2c4@6e81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20230918T150000Z
-LOCATION:24Б-509
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Спутниковые системы связи
-UID:16089582-52be-42fd-8a52-c8f870244a79@1608.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231010T113000Z
-LOCATION:24Б-706
-DTSTART:20231010T100000Z
-SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
-UID:eb6e24e5-e8dd-4a8e-9a32-f9fc5750adc6@eb6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Максим Сергеевич
-DTEND:20230919T131500Z
-LOCATION:24Б-524
-DTSTART:20230919T114500Z
-SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
-UID:124a0e92-976c-44ad-aa9a-a8986f723861@124a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T073000Z
-LOCATION:--каф.
-DTSTART:20231222T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:9a3299e4-d6b4-4167-b37c-503858270f33@9a32.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T091500Z
-LOCATION:--каф.
-DTSTART:20231117T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f72e99ed-49c8-4783-88ce-a3cb22a13764@f72e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231130T131500Z
-LOCATION:24Б-119
-DTSTART:20231130T114500Z
-SUMMARY:ЛР Спутниковые системы связи
-UID:407c297b-72f8-43be-b8bd-a151e98f95ac@407c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231026T091500Z
-LOCATION:24Б-330
-DTSTART:20231026T074500Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:2c43adee-3e6f-4015-ac95-43e0c92e89f9@2c43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20230918T091500Z
-LOCATION:24Б-511
-DTSTART:20230918T074500Z
-SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
-UID:845ed6c5-4f7d-42ca-8c0d-c7d8d2dfd99f@845e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231121T113000Z
-LOCATION:24Б-706
-DTSTART:20231121T100000Z
-SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
-UID:cb97154e-560e-4f0e-87c2-ccd9d4bb06b7@cb97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231228T113000Z
-LOCATION:24Б-330
-DTSTART:20231228T100000Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:d9beeb47-e27d-427d-868c-a7d58911341e@d9be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20231012T113000Z
-LOCATION:24Б-330
-DTSTART:20231012T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:7c5b513a-a17f-4448-8480-db24853d6253@7c5b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T091500Z
-LOCATION:--каф.
-DTSTART:20231020T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:bf17f8f8-83c3-4e27-b9ef-e1a4e7190cc0@bf17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231121T131500Z
-LOCATION:24Б-706
-DTSTART:20231121T114500Z
-SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
-UID:0ff7d298-0f01-465a-b8b9-76e78e3943fe@0ff7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T131500Z
-LOCATION:--каф.
-DTSTART:20230915T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:ba6cf330-7382-4252-99f5-23bd5a0fa62f@ba6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T113000Z
-LOCATION:--каф.
-DTSTART:20231006T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:70acc457-3334-4b87-b112-cad584cb8c08@70ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231025T113000Z
-LOCATION:24Б-517
-DTSTART:20231025T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:87d79edc-c208-4b59-9185-2a546e400f54@87d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231229T073000Z
-LOCATION:--каф.
-DTSTART:20231229T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:8c4dc698-a2f5-4763-be2e-0b836ec6a36e@8c4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231127T091500Z
-LOCATION:24Б-511
-DTSTART:20231127T074500Z
-SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
-UID:2a82ff8d-c788-4cba-b350-1a9ff4ef3f0c@2a82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231206T113000Z
-LOCATION:24Б-517
-DTSTART:20231206T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:c2c8e630-68e1-4fbd-815b-e95a99e71d96@c2c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231207T113000Z
-LOCATION:24Б-330
-DTSTART:20231207T100000Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:f54e0e13-0a7c-4fce-bd2b-2101ae0eb584@f54e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231007T113000Z
-LOCATION:24Б-329
-DTSTART:20231007T100000Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:8f41e89e-3547-48fa-b793-a22a421636a8@8f41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20230914T113000Z
-LOCATION:24Б-330
-DTSTART:20230914T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:57af41a7-e07a-4e9e-9ef0-2254b85cfeed@57af.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T131500Z
-LOCATION:--каф.
-DTSTART:20231110T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:6d64faf3-b4eb-46ab-b6f6-62fe9c59aed3@6d64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231028T131500Z
-LOCATION:24Б-329
-DTSTART:20231028T114500Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:8687cfc7-dbc5-4ef1-89ac-e97d789702eb@8687.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T073000Z
-LOCATION:--каф.
-DTSTART:20231117T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:f2c92250-9fb4-441a-b0ce-dfffcc1d43d6@f2c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231024T113000Z
-LOCATION:24Б-706
-DTSTART:20231024T100000Z
-SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
-UID:ad2bc14d-ec7c-45a0-ab99-748f99d05c8a@ad2b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T091500Z
-LOCATION:--каф.
-DTSTART:20231110T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:cd104a91-eda4-4c2d-91bf-9d7e94f9c37c@cd10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231211T131500Z
-LOCATION:24Б-509
-DTSTART:20231211T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:1af16e6d-a6c1-407d-967d-5c6f58cd1393@1af1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230909T113000Z
-LOCATION:24Б-329
-DTSTART:20230909T100000Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:6f753c04-750d-47f1-ba66-e5f4d6f6f7e3@6f75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231004T113000Z
-LOCATION:24Б-517
-DTSTART:20231004T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:1ae679ed-705b-4add-b40c-b74c9c7acbac@1ae6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пискунов Дмитрий Борисович
-DTEND:20231009T073000Z
-LOCATION:24Б-511
-DTSTART:20231009T060000Z
-SUMMARY:ЛР Теория и проектирование радиосистем передачи информации и управления
-UID:2f03df9f-b687-4ad8-8a5e-c5487aec6df5@2f03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231009T131500Z
-LOCATION:24Б-509
-DTSTART:20231009T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:c87a3df6-03df-4c6e-8f06-bd42d098d4a3@c87a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231229T113000Z
-LOCATION:--каф.
-DTSTART:20231229T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:548642f7-0728-4b51-9159-298f18b3b7b8@5486.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231023T113000Z
-LOCATION:24Б-511
-DTSTART:20231023T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:ac1de163-0206-4841-ab0e-1b2d64ea4d49@ac1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20230913T091500Z
-LOCATION:24Б-517
-DTSTART:20230913T074500Z
-SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
-UID:157a757a-b650-4731-9d1b-4072c2f3b960@157a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231110T113000Z
-LOCATION:--каф.
-DTSTART:20231110T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:a50f3e02-5786-4a15-94ae-d37a5bb0867b@a50f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230902T113000Z
-LOCATION:24Б-329
-DTSTART:20230902T100000Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:77738d67-6822-4b96-af34-ed6e34607ff5@7773.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231106T113000Z
-LOCATION:24Б-511
-DTSTART:20231106T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:ade39322-0eb9-4d6c-8dc4-8a7d30ed2a58@ade3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T113000Z
-LOCATION:--каф.
-DTSTART:20231215T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:81bd69bc-f34e-4fbd-a7d9-3be13cd398f6@81bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230916T113000Z
-LOCATION:24Б-329
-DTSTART:20230916T100000Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:067735dd-93dd-4464-ae35-3000c132e7ff@0677.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230902T131500Z
-LOCATION:24Б-329
-DTSTART:20230902T114500Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:5910dea5-cdaf-4fe8-8685-f700d334f5de@5910.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20230926T091500Z
-LOCATION:24Б-322
-DTSTART:20230926T074500Z
-SUMMARY:ЛР Основы теории радиосистем передачи информации
-UID:ac5ba630-56e8-43f0-954a-ef2c91229edc@ac5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231005T091500Z
-LOCATION:24Б-330
-DTSTART:20231005T074500Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:c757e9b1-197a-4e98-84d1-ddd4e4a75424@c757.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231011T091500Z
-LOCATION:24Б-517
-DTSTART:20231011T074500Z
-SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
-UID:3237e0ea-654e-43a0-be55-04ac5b4b1394@3237.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231003T113000Z
-LOCATION:24Б-510
-DTSTART:20231003T100000Z
-SUMMARY:ПЗ Основы теории радиосистем и комплексов управления
-UID:f1e2dcc3-32a3-47b9-9785-319b89a43228@f1e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231123T131500Z
-LOCATION:24Б-330
-DTSTART:20231123T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:cb47c4f8-c758-4680-8ec9-9cc2b93ec0df@cb47.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T091500Z
-LOCATION:--каф.
-DTSTART:20231222T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:8eface9b-978f-462d-8392-76943814ca13@8efa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20230913T073000Z
-LOCATION:24Б-322
-DTSTART:20230913T060000Z
-SUMMARY:ПЗ УИРС
-UID:8eeaa3e9-632b-4e06-a804-183453dc1d1e@8eea.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T091500Z
-LOCATION:--каф.
-DTSTART:20231103T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f463dd92-1b27-45bb-b24e-5e1ce9b41210@f463.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T091500Z
-LOCATION:--каф.
-DTSTART:20231201T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:46d16318-6dfd-45f3-9740-b1991110826e@46d1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T091500Z
-LOCATION:--каф.
-DTSTART:20231215T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e6818055-7c44-4890-a48e-0f7c5fea03a8@e681.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231213T091500Z
-LOCATION:24Б-517
-DTSTART:20231213T074500Z
-SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
-UID:44d18549-aa6d-4cf2-8582-a2ce74c3035e@44d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20230927T113000Z
-LOCATION:24Б-517
-DTSTART:20230927T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:e3830e48-7ab6-4165-8764-4b702e1b5863@e383.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T073000Z
-LOCATION:--каф.
-DTSTART:20231013T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:90cc23e5-9b1c-4e71-8986-cb6c7ab0aad4@90cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231227T113000Z
-LOCATION:24Б-517
-DTSTART:20231227T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:96ec937b-5e9f-42ab-88a4-97f1269d5539@96ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231011T113000Z
-LOCATION:24Б-517
-DTSTART:20231011T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:d8d93807-da19-4943-93bd-7d42ec31338b@d8d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20230907T113000Z
-LOCATION:24Б-330
-DTSTART:20230907T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:bf75bbc7-7bd0-46e2-abe4-c315b50efa66@bf75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20230904T113000Z
-LOCATION:24Б-511
-DTSTART:20230904T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:574239f7-2085-43ee-a972-f08ba0a701f8@5742.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231113T113000Z
-LOCATION:24Б-511
-DTSTART:20231113T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:4d72221f-42ba-4dda-9ebc-ebbeb233f314@4d72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пискунов Дмитрий Борисович
-DTEND:20231205T073000Z
-LOCATION:24Б-510
-DTSTART:20231205T060000Z
-SUMMARY:ЛР Основы теории радиосистем и комплексов управления
-UID:6d32c6ff-2a2b-4435-a515-1ca534c1ec5d@6d32.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T131500Z
-LOCATION:--каф.
-DTSTART:20231006T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:13332d01-2719-4613-a654-7e14b74dce6b@1333.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T091500Z
-LOCATION:--каф.
-DTSTART:20230922T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:695469d4-1dbc-4e0c-b7ad-88dcb54474a5@6954.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231129T091500Z
-LOCATION:24Б-517
-DTSTART:20231129T074500Z
-SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
-UID:62dc9001-82fc-41c6-bab5-e09d139eb431@62dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пискунов Дмитрий Борисович
-DTEND:20231205T091500Z
-LOCATION:24Б-510
-DTSTART:20231205T074500Z
-SUMMARY:ЛР Основы теории радиосистем и комплексов управления
-UID:726574c4-0764-41cf-88c0-5dbf88b397db@7265.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231229T131500Z
-LOCATION:--каф.
-DTSTART:20231229T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:cae55aab-78cd-4984-8004-3cbcc97bf560@cae5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T091500Z
-LOCATION:--каф.
-DTSTART:20230908T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:3b63a277-72b6-4063-825f-c9f4d4b6d417@3b63.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T131500Z
-LOCATION:--каф.
-DTSTART:20231124T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:0cfb3ff2-e26f-43b5-bcf8-117240eaba56@0cfb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T091500Z
-LOCATION:--каф.
-DTSTART:20230901T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:d477bfeb-5fe2-4f2f-9ad4-2f5cf047857a@d477.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231017T091500Z
-LOCATION:24Б-322
-DTSTART:20231017T074500Z
-SUMMARY:ПЗ Основы теории радиосистем передачи информации
-UID:4eb9a4f7-f07d-4baa-a878-a38c91f8f535@4eb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20231026T113000Z
-LOCATION:24Б-330
-DTSTART:20231026T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:44199598-2b47-43ef-902d-c3435f5ba90d@4419.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20230906T150000Z
-LOCATION:24Б-119
-DTSTART:20230906T133000Z
-SUMMARY:ПЗ Цифровые системы передачи информации
-UID:65c9f124-d10f-4e02-9e87-4770effd7724@65c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231011T131500Z
-LOCATION:24Б-119
-DTSTART:20231011T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:dd728382-eb45-4ce4-878d-d4af7c6a7332@dd72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231102T131500Z
-LOCATION:24Б-330
-DTSTART:20231102T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:6b712bed-c84c-4a78-b451-274397fa2a2f@6b71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231221T113000Z
-LOCATION:24Б-330
-DTSTART:20231221T100000Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:bfef5c6f-5b00-47fe-a945-bd0654cc602d@bfef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231122T073000Z
-LOCATION:24Б-322
-DTSTART:20231122T060000Z
-SUMMARY:ПЗ УИРС
-UID:73ff8fb9-5a05-4940-b2b7-93f320c6b207@73ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T091500Z
-LOCATION:--каф.
-DTSTART:20231006T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:9a9f0123-0745-4ff7-9eb7-09d6cd4b243a@9a9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231019T091500Z
-LOCATION:24Б-330
-DTSTART:20231019T074500Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:fa44b70d-94a6-403c-9796-f4d8ff25a8a4@fa44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231106T131500Z
-LOCATION:24Б-509
-DTSTART:20231106T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:cd6706b9-4cff-436e-b0df-55b981616178@cd67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231127T131500Z
-LOCATION:24Б-509
-DTSTART:20231127T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:158f1392-0a36-443a-a46e-e03ab7272d5d@158f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231003T091500Z
-LOCATION:24Б-322
-DTSTART:20231003T074500Z
-SUMMARY:ПЗ Основы теории радиосистем передачи информации
-UID:ed3e3ee2-540b-4cec-b8e1-b4dbf54f82f1@ed3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20230918T113000Z
-LOCATION:24Б-511
-DTSTART:20230918T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:b2c83c44-263e-48d5-ae47-7b426f204e36@b2c8.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T113000Z
-LOCATION:--каф.
-DTSTART:20231020T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:73a4f7ad-2819-44a4-9013-8b07933a2649@73a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Максим Сергеевич
-DTEND:20231219T113000Z
-LOCATION:24Б-521
-DTSTART:20231219T100000Z
-SUMMARY:ЛР Основы теории радионавигационных систем и комплексов
-UID:32ad5229-02b2-4c1c-8a7c-6692d9abf238@32ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231225T113000Z
-LOCATION:24Б-511
-DTSTART:20231225T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:c62c2359-7b68-4088-96da-bf28cdea09ce@c62c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231127T150000Z
-LOCATION:24Б-509
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Спутниковые системы связи
-UID:3d676f54-779d-4d0c-bd6e-7d27427a5b95@3d67.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231013T091500Z
-LOCATION:--каф.
-DTSTART:20231013T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:c1a08ce9-0afc-4c20-8b74-8cb03f116c7c@c1a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Максим Сергеевич
-DTEND:20231017T131500Z
-LOCATION:24Б-524
-DTSTART:20231017T114500Z
-SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
-UID:5be08c80-5b43-49f5-bd5e-f51dcaa7330e@5be0.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T073000Z
-LOCATION:--каф.
-DTSTART:20230922T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:59805ee5-8d65-41bb-9178-64b909210b1a@5980.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231115T150000Z
-LOCATION:24Б-119
-DTSTART:20231115T133000Z
-SUMMARY:ПЗ Цифровые системы передачи информации
-UID:8da4f120-13dd-4d9d-be8f-7e9675124d14@8da4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231214T150000Z
-LOCATION:24Б-119
-DTSTART:20231214T133000Z
-SUMMARY:ЛР Спутниковые системы связи
-UID:5694cf31-7705-408b-b376-56421f2ece7c@5694.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231016T131500Z
-LOCATION:24Б-509
-DTSTART:20231016T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:8696a35e-7ccf-450b-8a53-0e5420af8f3d@8696.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230922T131500Z
-LOCATION:--каф.
-DTSTART:20230922T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:7dcef510-6e15-4ded-89d4-903f1f1afca1@7dce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20230927T091500Z
-LOCATION:24Б-517
-DTSTART:20230927T074500Z
-SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
-UID:5c0423bb-1384-40e5-a7a2-5af6ad44a368@5c04.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231020T131500Z
-LOCATION:--каф.
-DTSTART:20231020T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:1b15800e-745d-4f9e-9341-cc1fb829ccc6@1b15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231025T091500Z
-LOCATION:24Б-517
-DTSTART:20231025T074500Z
-SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
-UID:8535d9ec-489c-4822-82e2-59a917e9e125@8535.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231017T113000Z
-LOCATION:24Б-510
-DTSTART:20231017T100000Z
-SUMMARY:ПЗ Основы теории радиосистем и комплексов управления
-UID:4e4c4d80-ddba-4b2c-ab94-e57f058d3546@4e4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231130T113000Z
-LOCATION:24Б-330
-DTSTART:20231130T100000Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:dc44a8e7-6dff-45d7-90d0-83ca44c2e8aa@dc44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20230920T113000Z
-LOCATION:24Б-517
-DTSTART:20230920T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:44f87342-3366-41be-b5dc-4687ef168a59@44f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231005T131500Z
-LOCATION:24Б-330
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:88188504-4380-4804-b6f3-d6987cd2aee5@8818.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T113000Z
-LOCATION:--каф.
-DTSTART:20231208T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:e83a556f-1823-4c28-afdc-4ca4ade81835@e83a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T091500Z
-LOCATION:--каф.
-DTSTART:20230915T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:34d767e2-10a6-4f39-a296-a49f2820e200@34d7.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T131500Z
-LOCATION:--каф.
-DTSTART:20231103T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e9f1a5f2-21ad-4316-a417-dc2dc55331ee@e9f1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T091500Z
-LOCATION:--каф.
-DTSTART:20231208T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:f6a3ba56-8c74-481a-9147-b2aa125f3b36@f6a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пискунов Дмитрий Борисович
-DTEND:20231023T091500Z
-LOCATION:24Б-511
-DTSTART:20231023T074500Z
-SUMMARY:ЛР Теория и проектирование радиосистем передачи информации и управления
-UID:d11c27cf-dd25-44d2-8fbd-0356c323ea09@d11c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230908T113000Z
-LOCATION:--каф.
-DTSTART:20230908T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:14f58546-214a-4180-be1a-09ee8f79b913@14f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230916T131500Z
-LOCATION:24Б-329
-DTSTART:20230916T114500Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:c140b19d-b7ac-41a4-9eac-a2d29ba0c159@c140.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231130T164500Z
-LOCATION:24Б-330
-DTSTART:20231130T151500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:1772e013-4a05-4c69-ad3a-b6ce7cabef4f@1772.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20230906T113000Z
-LOCATION:24Б-517
-DTSTART:20230906T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:936ecbcf-3be5-457e-ba7b-43f66426c010@936e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20230928T131500Z
-LOCATION:24Б-330
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:65533284-911f-4248-8fe8-972109961730@6553.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231019T131500Z
-LOCATION:24Б-330
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:1c775c69-1d61-42cb-86db-ad3347e0b77a@1c77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Максим Сергеевич
-DTEND:20231128T131500Z
-LOCATION:24Б-524
-DTSTART:20231128T114500Z
-SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
-UID:24e7fd13-1757-46ed-b970-ab6acdc070fa@24e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231108T091500Z
-LOCATION:24Б-517
-DTSTART:20231108T074500Z
-SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
-UID:41a90ada-9003-4621-a77a-0d6a9e487444@41a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231106T073000Z
-LOCATION:24Б-509
-DTSTART:20231106T060000Z
-SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
-UID:48583e3b-ac74-444a-a6a0-ab9e6a542bab@4858.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231031T113000Z
-LOCATION:24Б-510
-DTSTART:20231031T100000Z
-SUMMARY:ПЗ Основы теории радиосистем и комплексов управления
-UID:9f7aa972-06e8-436e-8e64-ec1ba066d1bd@9f7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231218T073000Z
-LOCATION:24Б-509
-DTSTART:20231218T060000Z
-SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
-UID:7f1f49c2-12f4-40c4-b9ca-9f1d6d3b4a10@7f1f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231021T131500Z
-LOCATION:24Б-329
-DTSTART:20231021T114500Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:7c60055c-0d8c-4e22-9fa2-01a5205e3ea0@7c60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231127T113000Z
-LOCATION:24Б-511
-DTSTART:20231127T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:d40f5703-b92f-40af-8b8a-32fcccf81017@d40f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231123T091500Z
-LOCATION:24Б-330
-DTSTART:20231123T074500Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:f39964b6-3442-45f0-93b4-c3acbe4a985a@f399.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231016T091500Z
-LOCATION:24Б-511
-DTSTART:20231016T074500Z
-SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
-UID:9c6f9ab0-563d-45e1-bc9c-1914fa6e2322@9c6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231011T073000Z
-LOCATION:24Б-322
-DTSTART:20231011T060000Z
-SUMMARY:ПЗ УИРС
-UID:a99eefcc-f2f2-461a-82e4-f06651282b19@a99e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20230927T131500Z
-LOCATION:24Б-119
-DTSTART:20230927T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:ad61689a-2d17-46a6-8108-5177f7378c1d@ad61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20230928T113000Z
-LOCATION:24Б-330
-DTSTART:20230928T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:bfbffb7c-096c-4a5b-81aa-9829e799fb51@bfbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20230913T131500Z
-LOCATION:24Б-119
-DTSTART:20230913T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:2a56080f-af91-4a5a-b44d-d5d2bfac9775@2a56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231228T131500Z
-LOCATION:24Б-119
-DTSTART:20231228T114500Z
-SUMMARY:ЛР Спутниковые системы связи
-UID:ff46eaa3-80b1-49df-8b33-3a4b003aa591@ff46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пискунов Дмитрий Борисович
-DTEND:20231121T091500Z
-LOCATION:24Б-510
-DTSTART:20231121T074500Z
-SUMMARY:ЛР Основы теории радиосистем и комплексов управления
-UID:3ff4ac42-7d03-44f4-9186-dfbc1db75ae1@3ff4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T113000Z
-LOCATION:--каф.
-DTSTART:20231201T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:1ae8436c-9f02-4bd4-9368-b3730bffb45d@1ae8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20230913T113000Z
-LOCATION:24Б-517
-DTSTART:20230913T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:cdc3a518-889e-4ecd-9ce9-f455878d809b@cdc3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231006T073000Z
-LOCATION:--каф.
-DTSTART:20231006T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:34dbf65b-8a62-48b9-90bd-abb7062593d4@34db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пискунов Дмитрий Борисович
-DTEND:20231009T091500Z
-LOCATION:24Б-511
-DTSTART:20231009T074500Z
-SUMMARY:ЛР Теория и проектирование радиосистем передачи информации и управления
-UID:f7d340a0-2ff3-4627-83aa-ee2c08785668@f7d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231218T113000Z
-LOCATION:24Б-511
-DTSTART:20231218T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:0d3f6abb-562e-46ac-878c-1be79e7b5d4f@0d3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пискунов Дмитрий Борисович
-DTEND:20231023T073000Z
-LOCATION:24Б-511
-DTSTART:20231023T060000Z
-SUMMARY:ЛР Теория и проектирование радиосистем передачи информации и управления
-UID:6cb48fd9-c164-498d-a379-c05bef2933da@6cb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20230921T131500Z
-LOCATION:24Б-330
-DTSTART:20230921T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:a8a9d995-a2f8-436e-8e44-df471e1949ca@a8a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231102T091500Z
-LOCATION:24Б-330
-DTSTART:20231102T074500Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:cf2ca4f4-7fdd-4c7e-96f4-d294131c4b12@cf2c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T131500Z
-LOCATION:--каф.
-DTSTART:20231222T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:624cea58-5e8f-4387-b6cf-21f85eb14dcc@624c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231101T150000Z
-LOCATION:24Б-119
-DTSTART:20231101T133000Z
-SUMMARY:ПЗ Цифровые системы передачи информации
-UID:c507a8af-0e0d-418f-959b-1fedf94303bb@c507.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231117T113000Z
-LOCATION:--каф.
-DTSTART:20231117T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:1110fc52-5412-4135-85d5-05c4ffc548ce@1110.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231107T131500Z
-LOCATION:24Б-706
-DTSTART:20231107T114500Z
-SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
-UID:a7288c85-ca5e-4463-9121-a9d30dd80bb3@a728.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пискунов Дмитрий Борисович
-DTEND:20231121T073000Z
-LOCATION:24Б-510
-DTSTART:20231121T060000Z
-SUMMARY:ЛР Основы теории радиосистем и комплексов управления
-UID:7c3c8804-1897-4f81-872e-7067b08cb70e@7c3c.org
+UID:e11cf193-d434-43a7-87ab-d0b7097289ed@e11c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Куприянов Александр Ильич
@@ -1717,689 +15,53 @@ DTEND:20231012T091500Z
 LOCATION:24Б-330
 DTSTART:20231012T074500Z
 SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:1c430610-00ca-4b53-bba0-baf87e4b74a2@1c43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231025T073000Z
-LOCATION:24Б-322
-DTSTART:20231025T060000Z
-SUMMARY:ПЗ УИРС
-UID:ef0de289-2a1f-443d-b686-e700b2af1932@ef0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231107T113000Z
-LOCATION:24Б-706
-DTSTART:20231107T100000Z
-SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
-UID:22e80506-f99b-4dd7-9ab0-df0081ea8c95@22e8.org
+UID:366cbca1-5797-4e6b-a2a3-d99f550f5568@366c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231204T073000Z
-LOCATION:24Б-509
-DTSTART:20231204T060000Z
-SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
-UID:fe717b83-292a-4629-a87d-953cd1dd227c@fe71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231113T131500Z
-LOCATION:24Б-509
-DTSTART:20231113T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:0f83ab6c-902e-40ee-83a2-ce0f5738a368@0f83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231204T091500Z
-LOCATION:24Б-509
-DTSTART:20231204T074500Z
-SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
-UID:cb1c08c3-17be-41f6-b99b-e788ae94e731@cb1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231207T164500Z
-LOCATION:24Б-330
-DTSTART:20231207T151500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:74430893-580e-49d0-a6a4-4f27cabc70cc@7443.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231225T150000Z
-LOCATION:24Б-509
-DTSTART:20231225T133000Z
-SUMMARY:ПЗ Спутниковые системы связи
-UID:888b0305-8039-4edd-900a-14e28d5c2c93@888b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20231116T113000Z
-LOCATION:24Б-330
-DTSTART:20231116T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:178dda62-476a-46d1-b50b-1840c19a6acc@178d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231214T113000Z
-LOCATION:24Б-330
-DTSTART:20231214T100000Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:b2c00834-9d49-4e45-ae67-c4020683f0a4@b2c0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231206T131500Z
-LOCATION:24Б-119
-DTSTART:20231206T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:f8b26a02-f388-4695-9b7c-ec92db537f27@f8b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Максим Сергеевич
-DTEND:20231114T131500Z
-LOCATION:24Б-524
-DTSTART:20231114T114500Z
-SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
-UID:f7390d16-4554-4dc5-aa94-24c11c5ab4a1@f739.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231220T073000Z
-LOCATION:24Б-322
-DTSTART:20231220T060000Z
-SUMMARY:ПЗ УИРС
-UID:2063030d-9309-4d89-89c9-2363b1243c07@2063.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231220T091500Z
-LOCATION:24Б-517
-DTSTART:20231220T074500Z
-SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
-UID:6806320b-fd24-4cf8-83de-c55c00cad4ef@6806.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231016T113000Z
-LOCATION:24Б-511
-DTSTART:20231016T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:b1eb2f61-7a29-48f9-a764-e065311403d1@b1eb.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231201T131500Z
-LOCATION:--каф.
-DTSTART:20231201T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:9606393c-b2f9-41a7-a296-df8325c2c628@9606.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20230912T073000Z
-LOCATION:24Б-322
-DTSTART:20230912T060000Z
-SUMMARY:ЛР Основы теории радиосистем передачи информации
-UID:bd1410ad-de28-4504-ac7e-fa93592a7de1@bd14.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231222T113000Z
-LOCATION:--каф.
-DTSTART:20231222T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:e16f39f9-66b5-4042-af06-0085e9020ae7@e16f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231122T131500Z
-LOCATION:24Б-119
-DTSTART:20231122T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:af6fc95b-91f9-4b93-b4f3-9b2a1d22031e@af6f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230929T131500Z
-LOCATION:--каф.
-DTSTART:20230929T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:e62dc01f-8c5b-4a08-b2ac-decf81446122@e62d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231109T091500Z
-LOCATION:24Б-330
-DTSTART:20231109T074500Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:b573574c-c053-46a8-8db7-a8b6a3d95a3b@b573.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230915T073000Z
-LOCATION:--каф.
-DTSTART:20230915T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:8a2fdb97-dcec-4c9f-bdab-2b545612c9a3@8a2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231211T150000Z
-LOCATION:24Б-509
-DTSTART:20231211T133000Z
-SUMMARY:ПЗ Спутниковые системы связи
-UID:66e2f065-a215-4abe-9404-fc86f42a8083@66e2.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231215T131500Z
-LOCATION:--каф.
-DTSTART:20231215T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:cddd1f1a-0cfb-4b73-8f96-78ad4df277ce@cddd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231206T073000Z
-LOCATION:24Б-322
-DTSTART:20231206T060000Z
-SUMMARY:ПЗ УИРС
-UID:cd2c5f2f-7a5f-4d7d-a7d1-b2856d0cf024@cd2c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231004T150000Z
-LOCATION:24Б-119
-DTSTART:20231004T133000Z
-SUMMARY:ПЗ Цифровые системы передачи информации
-UID:f1ed9025-9f2e-4f39-adb2-d683147130d8@f1ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20230927T073000Z
-LOCATION:24Б-322
-DTSTART:20230927T060000Z
-SUMMARY:ПЗ УИРС
-UID:8868cfff-9926-43e3-93ff-bc452bcebf52@8868.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231111T113000Z
-LOCATION:24Б-329
-DTSTART:20231111T100000Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:a5ac6635-4faa-4042-96df-f4a91ce2ff0d@a5ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20230926T073000Z
-LOCATION:24Б-322
-DTSTART:20230926T060000Z
-SUMMARY:ЛР Основы теории радиосистем передачи информации
-UID:b05886d8-4ea9-40c0-890c-6589044ab568@b058.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20230906T131500Z
-LOCATION:24Б-119
-DTSTART:20230906T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:66e1348c-3b42-499d-8ef1-1fed1ab69fe5@66e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20230912T091500Z
-LOCATION:24Б-322
-DTSTART:20230912T074500Z
-SUMMARY:ЛР Основы теории радиосистем передачи информации
-UID:d13333f1-8b37-4293-8bd9-71013f07426f@d133.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231025T131500Z
-LOCATION:24Б-119
-DTSTART:20231025T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:ac4859a4-2218-4d5f-a84d-924a94b518c2@ac48.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231113T091500Z
-LOCATION:24Б-511
-DTSTART:20231113T074500Z
-SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
-UID:3f6cb90d-0697-497e-b002-8e1b65b71979@3f6c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T131500Z
-LOCATION:--каф.
-DTSTART:20230901T114500Z
-SUMMARY:ПЗ Военная подготовка
-UID:32ccfc47-84dc-44b4-a21c-68bf31ef910a@32cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231010T131500Z
-LOCATION:24Б-706
-DTSTART:20231010T114500Z
-SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
-UID:9c5d367b-ddb0-4f5e-8277-3aa6ca94c97b@9c5d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231206T091500Z
-LOCATION:24Б-517
-DTSTART:20231206T074500Z
-SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
-UID:2bb2c999-2828-484c-970a-ce54ebb1e10d@2bb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231030T131500Z
-LOCATION:24Б-509
-DTSTART:20231030T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:8e8259ba-5934-4c14-9bce-c4e28284eece@8e82.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T113000Z
-LOCATION:--каф.
-DTSTART:20231103T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:fd36681a-8922-40b4-bef1-f9b8668dc14d@fd36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231129T150000Z
-LOCATION:24Б-119
-DTSTART:20231129T133000Z
-SUMMARY:ПЗ Цифровые системы передачи информации
-UID:526d1895-c5ab-4477-b745-71db46b22af1@526d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231106T091500Z
-LOCATION:24Б-509
-DTSTART:20231106T074500Z
-SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
-UID:9e33d7bc-a12e-4db2-87c3-25366347c4f7@9e33.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20231123T113000Z
-LOCATION:24Б-330
-DTSTART:20231123T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:47a15a0f-66bb-478a-a82f-016203cd8c4b@47a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20230919T091500Z
-LOCATION:24Б-322
-DTSTART:20230919T074500Z
-SUMMARY:ПЗ Основы теории радиосистем передачи информации
-UID:4ebbbea2-e1f1-41b5-a413-829b15caf6c5@4ebb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пискунов Дмитрий Борисович
-DTEND:20231107T091500Z
+DTEND:20231003T113000Z
 LOCATION:24Б-510
-DTSTART:20231107T074500Z
-SUMMARY:ЛР Основы теории радиосистем и комплексов управления
-UID:d27ca0dd-6bbe-44d9-9ab2-2520a7ed0bb7@d27c.org
+DTSTART:20231003T100000Z
+SUMMARY:ПЗ Основы теории радиосистем и комплексов управления
+UID:02f47975-e304-46c3-b413-4ed697fb1359@02f4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231014T131500Z
-LOCATION:24Б-329
-DTSTART:20231014T114500Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:d0b47ac5-a357-4180-aeec-d9640ca440c3@d0b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T131500Z
+DTEND:20231229T113000Z
 LOCATION:--каф.
-DTSTART:20231208T114500Z
+DTSTART:20231229T100000Z
 SUMMARY:ПЗ Военная подготовка
-UID:26ce7958-6fba-4220-961b-c5159bfb46e8@26ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20231019T113000Z
-LOCATION:24Б-330
-DTSTART:20231019T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:9e29f1e2-4444-4dba-a3ac-00d8562485f0@9e29.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T091500Z
-LOCATION:--каф.
-DTSTART:20231124T074500Z
-SUMMARY:ПЗ Военная подготовка
-UID:892887a1-0743-4cd9-a3bb-a463f96ec954@8928.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231221T150000Z
-LOCATION:24Б-119
-DTSTART:20231221T133000Z
-SUMMARY:ЛР Спутниковые системы связи
-UID:becc9607-7d25-41ec-8672-4ab719a6ed9c@becc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231016T150000Z
-LOCATION:24Б-509
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Спутниковые системы связи
-UID:0551958e-1d8e-4290-85e1-b083f89d843a@0551.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231124T113000Z
-LOCATION:--каф.
-DTSTART:20231124T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:0d954395-cb08-488f-be63-fd97fe7c640d@0d95.org
+UID:9379c8ab-f153-4245-a315-ac18c5e6d814@9379.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Породин Борис Михайлович
-DTEND:20231220T113000Z
+DTEND:20230920T113000Z
 LOCATION:24Б-517
-DTSTART:20231220T100000Z
+DTSTART:20230920T100000Z
 SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:2cbff9b0-88ab-4a0a-a3e2-2262645dee64@2cbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230923T131500Z
-LOCATION:24Б-329
-DTSTART:20230923T114500Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:5ee8e6c3-a575-4d12-902c-85a448afd3de@5ee8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пискунов Дмитрий Борисович
-DTEND:20231107T073000Z
-LOCATION:24Б-510
-DTSTART:20231107T060000Z
-SUMMARY:ЛР Основы теории радиосистем и комплексов управления
-UID:50b0c9cd-e72d-498a-a2e8-813e0d3fb302@50b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20230920T150000Z
-LOCATION:24Б-119
-DTSTART:20230920T133000Z
-SUMMARY:ПЗ Цифровые системы передачи информации
-UID:614aff58-770c-4e0e-9f09-06aa2c87e5cc@614a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20230907T131500Z
-LOCATION:24Б-330
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:113a4b8f-52e2-4fca-8ca7-c6a95ce88774@113a.org
+UID:84b4f261-57a4-4b0e-a8e7-9e50f886328d@84b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Лиханский Валерий Иванович
-DTEND:20231108T073000Z
+DTEND:20230913T073000Z
 LOCATION:24Б-322
-DTSTART:20231108T060000Z
+DTSTART:20230913T060000Z
 SUMMARY:ПЗ УИРС
-UID:fc2fe1d5-2e29-481b-8d73-c9edd3125259@fc2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231116T131500Z
-LOCATION:24Б-330
-DTSTART:20231116T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:561f691b-b1d3-473c-b930-7ac33f0bf70b@561f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231221T164500Z
-LOCATION:24Б-330
-DTSTART:20231221T151500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:6a59dfc3-7da1-4351-8f51-3d5bca06c089@6a59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20230925T131500Z
-LOCATION:24Б-509
-DTSTART:20230925T114500Z
-SUMMARY:ЛК Спутниковые системы связи
-UID:794c5155-502e-4360-aae4-292c3552de2e@794c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231213T131500Z
-LOCATION:24Б-119
-DTSTART:20231213T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:72eec962-6c19-4494-8e9a-fd4cbd751ed2@72ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231227T131500Z
-LOCATION:24Б-119
-DTSTART:20231227T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:aabd6ef3-7fd7-41ee-915b-3a61cf8e9ca7@aabd.org
+UID:57487599-55a9-4a4c-b433-b47de4a2dc13@5748.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Породин Борис Михайлович
-DTEND:20231101T113000Z
+DTEND:20231011T091500Z
 LOCATION:24Б-517
-DTSTART:20231101T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:fefc62cf-2410-49d5-9a2b-090b9211228e@fefc.org
+DTSTART:20231011T074500Z
+SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
+UID:57ddad5c-ba56-4b5b-9e38-803636ef0674@57dd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Бруханский Александр Владимирович
-DTEND:20230921T113000Z
-LOCATION:24Б-330
-DTSTART:20230921T100000Z
-SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
-UID:f05bf5c4-70cf-41d6-8e5c-cd9d816bd588@f05b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231027T091500Z
+DTEND:20230915T131500Z
 LOCATION:--каф.
-DTSTART:20231027T074500Z
+DTSTART:20230915T114500Z
 SUMMARY:ПЗ Военная подготовка
-UID:83d9c59b-2781-4fce-9660-4ad478da783b@83d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231012T131500Z
-LOCATION:24Б-330
-DTSTART:20231012T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:7004bab2-ce96-42b3-a823-b713a5ba027d@7004.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20230911T113000Z
-LOCATION:24Б-511
-DTSTART:20230911T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:ba9c6558-718e-4b09-9799-3e0c140139d4@ba9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231021T113000Z
-LOCATION:24Б-329
-DTSTART:20231021T100000Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:b2d7b0a1-cb37-4bdc-a798-9f26f39bfdb4@b2d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231204T113000Z
-LOCATION:24Б-511
-DTSTART:20231204T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:8e9c4b23-787a-468f-b2b4-317a66498f83@8e9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231113T150000Z
-LOCATION:24Б-509
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Спутниковые системы связи
-UID:72eca69e-c8f6-40c4-a7e0-40f9f4a9893b@72ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Максим Сергеевич
-DTEND:20231205T131500Z
-LOCATION:24Б-521
-DTSTART:20231205T114500Z
-SUMMARY:ЛР Основы теории радионавигационных систем и комплексов
-UID:e998b175-340b-49af-a948-3485c010ca07@e998.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Мазепа Роман Богданович
-DTEND:20231026T131500Z
-LOCATION:24Б-330
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Основы теории радиосистем передачи информации
-UID:1941231e-664f-4e45-8d71-040d818beeaf@1941.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231024T131500Z
-LOCATION:24Б-706
-DTSTART:20231024T114500Z
-SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
-UID:1a247171-4a18-49a5-8097-23ca1393ba62@1a24.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230901T113000Z
-LOCATION:--каф.
-DTSTART:20230901T100000Z
-SUMMARY:ПЗ Военная подготовка
-UID:d9abf4c7-06b3-4f1e-95a9-d42c46125215@d9ab.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231208T073000Z
-LOCATION:--каф.
-DTSTART:20231208T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:297ef2d7-71f5-42f9-8908-b19fcf1dfa2d@297e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231120T113000Z
-LOCATION:24Б-511
-DTSTART:20231120T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:01f3e325-bc51-4546-941d-36491bb6e1fa@01f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231009T113000Z
-LOCATION:24Б-511
-DTSTART:20231009T100000Z
-SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
-UID:80f79023-2364-440d-b83e-deb357b463cc@80f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20230907T091500Z
-LOCATION:24Б-330
-DTSTART:20230907T074500Z
-SUMMARY:ЛК Основы теории радиосистем и комплексов управления
-UID:c42be7e0-4472-495f-b44c-67aba93cb299@c42b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231030T091500Z
-LOCATION:24Б-511
-DTSTART:20231030T074500Z
-SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
-UID:78109fa5-5cb7-4ff1-99e7-f1bdf1e3fc79@7810.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231228T150000Z
-LOCATION:24Б-119
-DTSTART:20231228T133000Z
-SUMMARY:ЛР Спутниковые системы связи
-UID:e04a70e8-7c1f-49ff-8fa1-834a64590d81@e04a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231103T073000Z
-LOCATION:--каф.
-DTSTART:20231103T060000Z
-SUMMARY:ПЗ Военная подготовка
-UID:45b1e896-91d4-466c-ba99-8f500e898444@45b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20231214T131500Z
-LOCATION:24Б-119
-DTSTART:20231214T114500Z
-SUMMARY:ЛР Спутниковые системы связи
-UID:b73ab584-cabc-4083-b4c5-f6d2efb1a95b@b73a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вейцель Андрей Владимирович
-DTEND:20231002T091500Z
-LOCATION:24Б-511
-DTSTART:20231002T074500Z
-SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
-UID:1c6a4854-55ab-4626-843b-537aac8e98fb@1c6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рощин Андрей Борисович
-DTEND:20231101T131500Z
-LOCATION:24Б-119
-DTSTART:20231101T114500Z
-SUMMARY:ЛК Цифровые системы передачи информации
-UID:8a2a4f9c-0fca-4303-834f-9971934ccc8f@8a2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Виноградов Максим Сергеевич
-DTEND:20231219T131500Z
-LOCATION:24Б-521
-DTSTART:20231219T114500Z
-SUMMARY:ЛР Основы теории радионавигационных систем и комплексов
-UID:38c773cb-f6b3-433d-9d9d-6f381e061343@38c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231129T113000Z
-LOCATION:24Б-517
-DTSTART:20231129T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:ac7d152a-ac26-43f9-8740-91b2daee781e@ac7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Куприянов Александр Ильич
-DTEND:20231028T113000Z
-LOCATION:24Б-329
-DTSTART:20231028T100000Z
-SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
-UID:4656a018-57f0-4d9b-ae5f-7ec544a27722@4656.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Чечин Геннадий Валентинович
-DTEND:20230904T150000Z
-LOCATION:24Б-509
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Спутниковые системы связи
-UID:a51a30b9-0e5d-44c3-969f-92c64148c655@a51a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Породин Борис Михайлович
-DTEND:20231213T113000Z
-LOCATION:24Б-517
-DTSTART:20231213T100000Z
-SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
-UID:ba8a701f-0fa1-41db-9ce8-b2a2c4807f1c@ba8a.org
+UID:595a96ca-127f-4487-8d49-37d2d1b6c5e2@595a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Чечин Геннадий Валентинович
@@ -2407,6 +69,2344 @@ DTEND:20231225T131500Z
 LOCATION:24Б-509
 DTSTART:20231225T114500Z
 SUMMARY:ЛК Спутниковые системы связи
-UID:a9fedcea-248a-4218-ad42-9f944594f229@a9fe.org
+UID:8360dd81-7cf3-4b5e-b743-9dda225dd68a@8360.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T113000Z
+LOCATION:--каф.
+DTSTART:20231208T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c4c2bcad-4b92-45df-898d-3706b6f6dd78@c4c2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231229T131500Z
+LOCATION:--каф.
+DTSTART:20231229T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:82bad55b-9959-417f-aff2-ed934a9188d8@82ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231123T131500Z
+LOCATION:24Б-330
+DTSTART:20231123T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:fa24c89b-65e7-4f4a-b737-9848f14a234f@fa24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20230906T150000Z
+LOCATION:24Б-119
+DTSTART:20230906T133000Z
+SUMMARY:ПЗ Цифровые системы передачи информации
+UID:ff26fe1d-328d-4441-8c31-54d08a27accb@ff26.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T131500Z
+LOCATION:--каф.
+DTSTART:20230929T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:859f5f20-2a1d-4311-800e-bb8810ea4e2d@859f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20230926T091500Z
+LOCATION:24Б-322
+DTSTART:20230926T074500Z
+SUMMARY:ЛР Основы теории радиосистем передачи информации
+UID:391b1884-4a82-4c48-9eda-8e36ba690e55@391b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231005T091500Z
+LOCATION:24Б-330
+DTSTART:20231005T074500Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:1f0ffd1a-766f-4977-831f-2b564ab45d44@1f0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231225T150000Z
+LOCATION:24Б-509
+DTSTART:20231225T133000Z
+SUMMARY:ПЗ Спутниковые системы связи
+UID:04e94fd6-ccec-41fb-a21b-e7accea7bb81@04e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20230912T073000Z
+LOCATION:24Б-322
+DTSTART:20230912T060000Z
+SUMMARY:ЛР Основы теории радиосистем передачи информации
+UID:6c2f8049-322e-4c87-b31b-fb130a405250@6c2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231101T131500Z
+LOCATION:24Б-119
+DTSTART:20231101T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:71b53022-d9ac-4604-a3f5-f2cfc1dc23e8@71b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20230927T131500Z
+LOCATION:24Б-119
+DTSTART:20230927T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:812b3684-1ada-46c7-aba2-3f8b5e7d3f0f@812b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231017T113000Z
+LOCATION:24Б-510
+DTSTART:20231017T100000Z
+SUMMARY:ПЗ Основы теории радиосистем и комплексов управления
+UID:fba82041-f4ce-4d5e-a383-7c71aa26b903@fba8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T131500Z
+LOCATION:--каф.
+DTSTART:20231027T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2ac5591e-522c-4e46-bcc2-a7abf998f2f3@2ac5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230909T131500Z
+LOCATION:24Б-329
+DTSTART:20230909T114500Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:46e0c868-5997-4cde-8f0c-d934dfbcebbe@46e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231010T131500Z
+LOCATION:24Б-706
+DTSTART:20231010T114500Z
+SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
+UID:48f40f67-2ab5-43a6-84ab-d8b1423f4476@48f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пискунов Дмитрий Борисович
+DTEND:20231009T091500Z
+LOCATION:24Б-511
+DTSTART:20231009T074500Z
+SUMMARY:ЛР Теория и проектирование радиосистем передачи информации и управления
+UID:77ee49b7-5955-4348-b7ff-e78fad6c0401@77ee.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T091500Z
+LOCATION:--каф.
+DTSTART:20231110T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:d77e4626-a4af-463c-9959-abdb1c824674@d77e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T091500Z
+LOCATION:--каф.
+DTSTART:20231215T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:f60f214f-eb66-487f-9d97-d6b4e11be14d@f60f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230928T091500Z
+LOCATION:24Б-330
+DTSTART:20230928T074500Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:b9e8d39d-831f-4d92-ab34-5bb2589fd691@b9e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231213T150000Z
+LOCATION:24Б-119
+DTSTART:20231213T133000Z
+SUMMARY:ПЗ Цифровые системы передачи информации
+UID:41de0d70-5cc6-496e-9332-c279be2685c9@41de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231012T131500Z
+LOCATION:24Б-330
+DTSTART:20231012T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:c53acba4-0f3a-4b29-a3aa-a6cc0d07da22@c53a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пискунов Дмитрий Борисович
+DTEND:20231205T073000Z
+LOCATION:24Б-510
+DTSTART:20231205T060000Z
+SUMMARY:ЛР Основы теории радиосистем и комплексов управления
+UID:aec3efd3-8214-41d0-be5f-84e4ce23a60f@aec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20231012T113000Z
+LOCATION:24Б-330
+DTSTART:20231012T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:46864aa1-5a87-4ea6-bc88-b2b7d267e472@4686.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231129T091500Z
+LOCATION:24Б-517
+DTSTART:20231129T074500Z
+SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
+UID:5474a42e-014a-41ab-ac2f-05fd1b018a0b@5474.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пискунов Дмитрий Борисович
+DTEND:20231107T091500Z
+LOCATION:24Б-510
+DTSTART:20231107T074500Z
+SUMMARY:ЛР Основы теории радиосистем и комплексов управления
+UID:af99e258-6a58-43ab-9e2f-7dd42e87b1f2@af99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пискунов Дмитрий Борисович
+DTEND:20231023T091500Z
+LOCATION:24Б-511
+DTSTART:20231023T074500Z
+SUMMARY:ЛР Теория и проектирование радиосистем передачи информации и управления
+UID:a4b37768-414f-47d5-a134-8091febf3d39@a4b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231227T113000Z
+LOCATION:24Б-517
+DTSTART:20231227T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:a8b83ffd-ce50-49ec-ae7d-52b7708d4027@a8b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231108T073000Z
+LOCATION:24Б-322
+DTSTART:20231108T060000Z
+SUMMARY:ПЗ УИРС
+UID:deff0b7b-bba1-4b83-abd0-188cf2f7f8ff@deff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231122T073000Z
+LOCATION:24Б-322
+DTSTART:20231122T060000Z
+SUMMARY:ПЗ УИРС
+UID:3aafde62-4d6d-4909-a4e5-8ba2d6a69f05@3aaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231102T091500Z
+LOCATION:24Б-330
+DTSTART:20231102T074500Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:fbb63689-060d-4c12-9e27-abff92a991e1@fbb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пискунов Дмитрий Борисович
+DTEND:20231121T073000Z
+LOCATION:24Б-510
+DTSTART:20231121T060000Z
+SUMMARY:ЛР Основы теории радиосистем и комплексов управления
+UID:a693da6b-473b-435b-8a33-74981965e9c7@a693.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231023T113000Z
+LOCATION:24Б-511
+DTSTART:20231023T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:df52a2fd-47ac-4f80-80e0-0c5b6faecbc2@df52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231127T150000Z
+LOCATION:24Б-509
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Спутниковые системы связи
+UID:41ef12a9-7c15-4ff4-9bb0-b923276041a3@41ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T131500Z
+LOCATION:--каф.
+DTSTART:20231222T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:df64241e-b204-481e-937c-bb29644a0ae5@df64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231204T131500Z
+LOCATION:24Б-509
+DTSTART:20231204T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:cc463ac1-8260-4644-9cac-7355946ae5c9@cc46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231121T113000Z
+LOCATION:24Б-706
+DTSTART:20231121T100000Z
+SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
+UID:fd7125a5-ae7f-44e6-af8a-b38e88e4e9e5@fd71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231007T131500Z
+LOCATION:24Б-329
+DTSTART:20231007T114500Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:1b0115ee-8711-47e4-bb72-536307618384@1b01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231214T113000Z
+LOCATION:24Б-330
+DTSTART:20231214T100000Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:122d4ecd-95c4-4cd2-8f2d-7732f42636be@122d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231009T113000Z
+LOCATION:24Б-511
+DTSTART:20231009T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:031f5a29-9ec2-4f88-9976-98c8cb0cd6e4@031f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20231116T113000Z
+LOCATION:24Б-330
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:60d2e69b-578b-44eb-9592-6103acbd7162@60d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231005T131500Z
+LOCATION:24Б-330
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:fc0c932c-33a9-4e6a-acfb-de88e1ca4387@fc0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231011T131500Z
+LOCATION:24Б-119
+DTSTART:20231011T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:4a9f5650-d937-43bb-9f4a-d1fc4c34535a@4a9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20231005T113000Z
+LOCATION:24Б-330
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:6078d1a9-ffb4-428f-86eb-ea150d27dc9f@6078.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231106T131500Z
+LOCATION:24Б-509
+DTSTART:20231106T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:551450f1-6a06-403e-bafb-6b7a492a896b@5514.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231002T113000Z
+LOCATION:24Б-511
+DTSTART:20231002T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:d28b9bc8-f27f-4c09-b19b-868d89e98349@d28b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231018T150000Z
+LOCATION:24Б-119
+DTSTART:20231018T133000Z
+SUMMARY:ПЗ Цифровые системы передачи информации
+UID:9d5246f5-e6b5-466d-9e4f-d32f9125dd39@9d52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231213T091500Z
+LOCATION:24Б-517
+DTSTART:20231213T074500Z
+SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
+UID:3a285f5c-56d3-4659-8603-777a9c12a792@3a28.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T113000Z
+LOCATION:--каф.
+DTSTART:20231013T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:68151a10-7913-4e23-a7f8-731e8a06c1b9@6815.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T073000Z
+LOCATION:--каф.
+DTSTART:20231201T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:110fd832-3e99-43ff-b85a-98e0e1aab1da@110f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231113T091500Z
+LOCATION:24Б-511
+DTSTART:20231113T074500Z
+SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
+UID:5af57ded-a2cd-4e2c-a247-0a224014ae86@5af5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20230918T091500Z
+LOCATION:24Б-511
+DTSTART:20230918T074500Z
+SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
+UID:bb7354ab-1fa7-4ec1-bc97-a515856b0f68@bb73.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T131500Z
+LOCATION:--каф.
+DTSTART:20231110T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1b2cb119-7910-4bae-8608-cf970bd82484@1b2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20230918T150000Z
+LOCATION:24Б-509
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Спутниковые системы связи
+UID:20ca5c4c-fe8b-4173-944f-d622e20b3e9f@20ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231016T131500Z
+LOCATION:24Б-509
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:e20e33ba-a61d-4455-9ffc-ae571db65c0c@e20e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230916T113000Z
+LOCATION:24Б-329
+DTSTART:20230916T100000Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:525be23d-cb15-40fd-a835-fcc8e6d9476e@525b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231123T091500Z
+LOCATION:24Б-330
+DTSTART:20231123T074500Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:bf814720-eb17-438e-9f88-e643329c5e85@bf81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231115T131500Z
+LOCATION:24Б-119
+DTSTART:20231115T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:ef9d25be-0faa-4ffb-aa4e-01aa8d829731@ef9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231115T150000Z
+LOCATION:24Б-119
+DTSTART:20231115T133000Z
+SUMMARY:ПЗ Цифровые системы передачи информации
+UID:65a9f632-7e85-44f2-8c67-72e01c80adb5@65a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T131500Z
+LOCATION:--каф.
+DTSTART:20231103T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c0ee37cc-df8a-4972-ab58-923c62758565@c0ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231228T113000Z
+LOCATION:24Б-330
+DTSTART:20231228T100000Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:06bdf919-589f-4575-8bbc-9d371da15078@06bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T073000Z
+LOCATION:--каф.
+DTSTART:20230908T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:787ac511-9240-4535-979b-01cb5590bd35@787a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Максим Сергеевич
+DTEND:20231128T131500Z
+LOCATION:24Б-524
+DTSTART:20231128T114500Z
+SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
+UID:ec5015e9-bfd4-4d29-994e-8c323036483a@ec50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231031T113000Z
+LOCATION:24Б-510
+DTSTART:20231031T100000Z
+SUMMARY:ПЗ Основы теории радиосистем и комплексов управления
+UID:41cd8d7e-70f1-45eb-9b01-efad11e765d4@41cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231026T091500Z
+LOCATION:24Б-330
+DTSTART:20231026T074500Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:89ed2545-c1c5-420e-9ea3-4a403226d105@89ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231109T131500Z
+LOCATION:24Б-330
+DTSTART:20231109T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:8e1e3adc-894e-4f6d-ab43-a06eace1155e@8e1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Максим Сергеевич
+DTEND:20231003T131500Z
+LOCATION:24Б-524
+DTSTART:20231003T114500Z
+SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
+UID:b244536f-7551-4f93-b917-afceee9bf09a@b244.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231002T091500Z
+LOCATION:24Б-511
+DTSTART:20231002T074500Z
+SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
+UID:5efded15-67fb-496c-87a8-397243378d37@5efd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231204T091500Z
+LOCATION:24Б-509
+DTSTART:20231204T074500Z
+SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
+UID:96e72538-0929-4d92-9a4b-ac12009072d0@96e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231218T091500Z
+LOCATION:24Б-509
+DTSTART:20231218T074500Z
+SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
+UID:7bd22b96-3c1b-4d55-8638-154e4158732a@7bd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231116T131500Z
+LOCATION:24Б-330
+DTSTART:20231116T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:9abcda3a-f5d4-4efd-8f73-e57446ee70ea@9abc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231107T131500Z
+LOCATION:24Б-706
+DTSTART:20231107T114500Z
+SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
+UID:9bceea9e-0f44-4a73-bc6f-b30cd8131b0c@9bce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231003T091500Z
+LOCATION:24Б-322
+DTSTART:20231003T074500Z
+SUMMARY:ПЗ Основы теории радиосистем передачи информации
+UID:31fbec00-8994-4d46-b932-ea88b8bb39bc@31fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231113T113000Z
+LOCATION:24Б-511
+DTSTART:20231113T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:9528fbb9-964f-4068-8ab5-0e08dfed25d5@9528.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231115T113000Z
+LOCATION:24Б-517
+DTSTART:20231115T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:b54f96f2-1d64-42f5-b4bf-ae2558e72ab3@b54f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231021T131500Z
+LOCATION:24Б-329
+DTSTART:20231021T114500Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:98910f8e-0352-48ba-9dd4-cfa042b5d71d@9891.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T073000Z
+LOCATION:--каф.
+DTSTART:20231027T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9502198d-47c6-4f5a-886c-97b036b0662f@9502.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231030T113000Z
+LOCATION:24Б-511
+DTSTART:20231030T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:e37af533-6a07-424f-b9cd-7902805a6d01@e37a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231018T131500Z
+LOCATION:24Б-119
+DTSTART:20231018T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:00b9a02b-b06d-4575-a7b8-95b492298351@00b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231228T131500Z
+LOCATION:24Б-119
+DTSTART:20231228T114500Z
+SUMMARY:ЛР Спутниковые системы связи
+UID:4f2caed9-78b2-48f9-b99f-822a4b4b7eec@4f2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230930T131500Z
+LOCATION:24Б-329
+DTSTART:20230930T114500Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:53a8d86c-3184-4784-8ae1-865bfbb2a52a@53a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20230921T113000Z
+LOCATION:24Б-330
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:470a1793-543a-4995-97f0-4ac86dbe1184@470a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T113000Z
+LOCATION:--каф.
+DTSTART:20231117T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9995e5f6-f29e-4701-bdb5-ca8613ffeb63@9995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231108T091500Z
+LOCATION:24Б-517
+DTSTART:20231108T074500Z
+SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
+UID:a5e8f8ee-cc6e-4a10-aece-8b963c73d693@a5e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231218T131500Z
+LOCATION:24Б-509
+DTSTART:20231218T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:7dca6842-b1f9-4055-80da-8cc3cc492917@7dca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231228T150000Z
+LOCATION:24Б-119
+DTSTART:20231228T133000Z
+SUMMARY:ЛР Спутниковые системы связи
+UID:47ecc763-0226-41eb-9cdd-a3a88c0ac97b@47ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20230913T131500Z
+LOCATION:24Б-119
+DTSTART:20230913T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:2de51970-0c05-4ad6-8de8-2e7520d3c151@2de5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231229T091500Z
+LOCATION:--каф.
+DTSTART:20231229T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:abf05205-d7fa-42ac-834e-fd6a8f532172@abf0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231206T113000Z
+LOCATION:24Б-517
+DTSTART:20231206T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:43b0a00a-e73a-47d7-b76a-f038c1548d39@43b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231007T113000Z
+LOCATION:24Б-329
+DTSTART:20231007T100000Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:c5e7cc22-8866-40ba-8a9a-8e5e3be7b890@c5e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231218T073000Z
+LOCATION:24Б-509
+DTSTART:20231218T060000Z
+SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
+UID:07c00e9f-9cd5-497d-a241-73f312a4a321@07c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231220T131500Z
+LOCATION:24Б-119
+DTSTART:20231220T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:53a21f16-1f4b-46d0-9ab3-386f5b00dc9a@53a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231204T073000Z
+LOCATION:24Б-509
+DTSTART:20231204T060000Z
+SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
+UID:6a396083-ecce-47d4-aa50-b241c247f9bb@6a39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231002T150000Z
+LOCATION:24Б-509
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Спутниковые системы связи
+UID:09e74785-481a-4155-baa9-d62dd04bbdf5@09e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231010T073000Z
+LOCATION:24Б-322
+DTSTART:20231010T060000Z
+SUMMARY:ЛР Основы теории радиосистем передачи информации
+UID:aa7bd0d9-11d0-4312-b71f-b021873b6485@aa7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231004T113000Z
+LOCATION:24Б-517
+DTSTART:20231004T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:c379b2a0-b5c3-43fd-a399-05880a8dde71@c379.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231221T164500Z
+LOCATION:24Б-330
+DTSTART:20231221T151500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:c9445747-d715-4ab1-aec8-c9cbae0575ee@c944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Максим Сергеевич
+DTEND:20231219T113000Z
+LOCATION:24Б-521
+DTSTART:20231219T100000Z
+SUMMARY:ЛР Основы теории радионавигационных систем и комплексов
+UID:a757b71b-4399-4b9c-bc3e-c3063ffc5800@a757.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231030T131500Z
+LOCATION:24Б-509
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:e725d0ad-f7fd-4c86-be5c-5bc3d2c3d2a0@e725.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T131500Z
+LOCATION:--каф.
+DTSTART:20231020T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:e674a0cd-4da7-4a90-9a2c-0e0cb5d9c82d@e674.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230909T113000Z
+LOCATION:24Б-329
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:75ece0f8-1235-4561-8e32-beeab63101ea@75ec.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T113000Z
+LOCATION:--каф.
+DTSTART:20231006T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:efbfec8f-c87c-47cd-8798-93469cc3ad9a@efbf.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T073000Z
+LOCATION:--каф.
+DTSTART:20231006T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:ad50a34b-82a9-41df-8e98-9fcb34854b37@ad50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231221T113000Z
+LOCATION:24Б-330
+DTSTART:20231221T100000Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:86d7a079-3a07-488c-8230-9ab94dddcbdd@86d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231014T113000Z
+LOCATION:24Б-329
+DTSTART:20231014T100000Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:ff47995e-2f8b-468e-95ea-d3e0e062b7d5@ff47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231111T131500Z
+LOCATION:24Б-329
+DTSTART:20231111T114500Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:2b238d70-d3d1-45ca-b19a-51848a0aee67@2b23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231011T113000Z
+LOCATION:24Б-517
+DTSTART:20231011T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:89d17daf-ccc6-46fc-a589-08476451281b@89d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231017T091500Z
+LOCATION:24Б-322
+DTSTART:20231017T074500Z
+SUMMARY:ПЗ Основы теории радиосистем передачи информации
+UID:c9c19eab-93c5-4154-a62c-fbde99ff470f@c9c1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T131500Z
+LOCATION:--каф.
+DTSTART:20231006T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:7bba99e1-3808-478c-ae13-66bc89b5529e@7bba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231101T150000Z
+LOCATION:24Б-119
+DTSTART:20231101T133000Z
+SUMMARY:ПЗ Цифровые системы передачи информации
+UID:e44a6494-8475-4d22-b2fd-65007d013ced@e44a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231025T131500Z
+LOCATION:24Б-119
+DTSTART:20231025T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:e3f0d538-116d-4a4d-9d3d-b1304fb66664@e3f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20230925T131500Z
+LOCATION:24Б-509
+DTSTART:20230925T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:25f462b7-31b6-4c59-9268-bf36cf026a52@25f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20230919T091500Z
+LOCATION:24Б-322
+DTSTART:20230919T074500Z
+SUMMARY:ПЗ Основы теории радиосистем передачи информации
+UID:555b4f95-1133-4845-b6db-c2c122b98d0d@555b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231024T131500Z
+LOCATION:24Б-706
+DTSTART:20231024T114500Z
+SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
+UID:2581c327-0f9c-4bbc-94bb-c4e403c8a91e@2581.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20230927T113000Z
+LOCATION:24Б-517
+DTSTART:20230927T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:2372fdb5-f0c7-4c05-93e1-878776c3bfc7@2372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231204T113000Z
+LOCATION:24Б-511
+DTSTART:20231204T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:f142bf0c-70e5-4354-9992-26c0a5569538@f142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231113T150000Z
+LOCATION:24Б-509
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Спутниковые системы связи
+UID:7a754f27-c439-4152-a7f9-4b92dcd018d1@7a75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20230904T131500Z
+LOCATION:24Б-509
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:02fa94f2-052a-4404-a726-13245fdd4103@02fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231024T113000Z
+LOCATION:24Б-706
+DTSTART:20231024T100000Z
+SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
+UID:b6432eca-1a55-4366-ba69-7cddb34e2e89@b643.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231107T113000Z
+LOCATION:24Б-706
+DTSTART:20231107T100000Z
+SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
+UID:4f1b8f58-2787-4cfa-bdc7-2c39d32fe138@4f1b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T113000Z
+LOCATION:--каф.
+DTSTART:20230922T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:befaed9c-2dbf-4214-acf3-77008db43ad9@befa.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T073000Z
+LOCATION:--каф.
+DTSTART:20230915T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f82bfc39-2fa8-487f-9e97-661095c2e0ef@f82b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T113000Z
+LOCATION:--каф.
+DTSTART:20231222T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:f09d89a4-319c-4689-9b78-352c9381118e@f09d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20230906T131500Z
+LOCATION:24Б-119
+DTSTART:20230906T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:5aa24343-b49c-41d3-90f8-75c4d2c07bad@5aa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230902T113000Z
+LOCATION:24Б-329
+DTSTART:20230902T100000Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:02863891-02b7-4b67-bf05-eeb2973c122f@0286.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231130T131500Z
+LOCATION:24Б-119
+DTSTART:20231130T114500Z
+SUMMARY:ЛР Спутниковые системы связи
+UID:f14307e2-4bcd-4b64-bad6-0bff0e5bc1a2@f143.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231004T150000Z
+LOCATION:24Б-119
+DTSTART:20231004T133000Z
+SUMMARY:ПЗ Цифровые системы передачи информации
+UID:20f34436-b2b9-428d-8829-8e975f10bc8c@20f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231207T150000Z
+LOCATION:24Б-119
+DTSTART:20231207T133000Z
+SUMMARY:ЛР Спутниковые системы связи
+UID:fff8b8fa-9204-4ff0-9b1d-faf1000fb232@fff8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T091500Z
+LOCATION:--каф.
+DTSTART:20231222T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3ae32bec-06b0-4802-b8a3-c9db07777016@3ae3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231116T091500Z
+LOCATION:24Б-330
+DTSTART:20231116T074500Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:a6562bec-da74-4b0b-993a-9f879f199d4a@a656.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231019T131500Z
+LOCATION:24Б-330
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:1693537f-bfca-4316-91c2-a5f92c1af5e2@1693.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T113000Z
+LOCATION:--каф.
+DTSTART:20231201T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:89743a1e-a2d1-43d4-baf2-ad980b260e79@8974.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20230927T073000Z
+LOCATION:24Б-322
+DTSTART:20230927T060000Z
+SUMMARY:ПЗ УИРС
+UID:c526f458-7a4e-4a94-b115-5867d6ce7927@c526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231227T150000Z
+LOCATION:24Б-119
+DTSTART:20231227T133000Z
+SUMMARY:ПЗ Цифровые системы передачи информации
+UID:06010417-6f5f-41cd-8456-e635c03e75bc@0601.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231002T131500Z
+LOCATION:24Б-509
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:44eb42e9-93f5-415d-a76b-24059f6ca56f@44eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20230925T113000Z
+LOCATION:24Б-511
+DTSTART:20230925T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:3f2e73de-dd20-4ef9-bb48-6ec2636a0b34@3f2e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T131500Z
+LOCATION:--каф.
+DTSTART:20231201T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:08c85b03-98a9-4bd1-a511-45540d10b153@08c8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T073000Z
+LOCATION:--каф.
+DTSTART:20230922T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:8fe37d4c-7558-44f9-94e5-3a380cc27ded@8fe3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20230904T150000Z
+LOCATION:24Б-509
+DTSTART:20230904T133000Z
+SUMMARY:ПЗ Спутниковые системы связи
+UID:10cbec53-6557-467b-aae9-ac8fdfc13d40@10cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20230907T113000Z
+LOCATION:24Б-330
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:64d4b5ec-ff31-46f0-866f-45df7d03a5dc@64d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231130T150000Z
+LOCATION:24Б-119
+DTSTART:20231130T133000Z
+SUMMARY:ЛР Спутниковые системы связи
+UID:0d88cf79-6e8b-44e2-aeba-8ee984fc65a8@0d88.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T091500Z
+LOCATION:--каф.
+DTSTART:20231027T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8052e992-daf6-458f-ac4c-b823a3ba2aad@8052.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231222T073000Z
+LOCATION:--каф.
+DTSTART:20231222T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:7cf0c185-cca8-416e-a7aa-d2d9ce28049b@7cf0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T113000Z
+LOCATION:--каф.
+DTSTART:20231103T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:deba0761-0469-40fa-a8c6-0b5300f2014e@deba.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T113000Z
+LOCATION:--каф.
+DTSTART:20231020T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:922f1252-e6b2-4329-9a55-a6367ca537d0@922f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20230920T131500Z
+LOCATION:24Б-119
+DTSTART:20230920T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:871d5030-2ce5-4d69-a61a-cf2319c4f933@871d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231014T131500Z
+LOCATION:24Б-329
+DTSTART:20231014T114500Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:816141ba-9d4d-4ccd-a40b-6fc35b46962e@8161.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20230928T131500Z
+LOCATION:24Б-330
+DTSTART:20230928T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:592b116d-3bba-41e0-9224-24643179c51e@592b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231030T091500Z
+LOCATION:24Б-511
+DTSTART:20231030T074500Z
+SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
+UID:b0eb2bfa-fc28-4907-a594-a62bf812eb2f@b0eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пискунов Дмитрий Борисович
+DTEND:20231121T091500Z
+LOCATION:24Б-510
+DTSTART:20231121T074500Z
+SUMMARY:ЛР Основы теории радиосистем и комплексов управления
+UID:14f8d488-90b2-4a14-be65-5f2e5f0c179d@14f8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T113000Z
+LOCATION:--каф.
+DTSTART:20231124T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:e962076f-e5bd-4634-a30b-a4c319689c15@e962.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230923T113000Z
+LOCATION:24Б-329
+DTSTART:20230923T100000Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:22a9b084-7cd7-48c9-ab1b-667722b6c902@22a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Максим Сергеевич
+DTEND:20231205T131500Z
+LOCATION:24Б-521
+DTSTART:20231205T114500Z
+SUMMARY:ЛР Основы теории радионавигационных систем и комплексов
+UID:428959b0-292a-49a9-891e-9b58d2cd6858@4289.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T073000Z
+LOCATION:--каф.
+DTSTART:20231208T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9f770244-e349-47f7-ada8-1393d979b28d@9f77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231225T113000Z
+LOCATION:24Б-511
+DTSTART:20231225T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:79d4fe19-1703-47d5-b545-baa8c0cadad0@79d4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T131500Z
+LOCATION:--каф.
+DTSTART:20231124T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:26cfd174-0ba4-47b9-b53e-d1165d66a375@26cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20231102T113000Z
+LOCATION:24Б-330
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:1538cfa3-adfd-4e10-a4e2-37f3f9e2d212@1538.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20230918T131500Z
+LOCATION:24Б-509
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:964ab1df-d53d-409b-b326-7a84d92695ee@964a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230923T131500Z
+LOCATION:24Б-329
+DTSTART:20230923T114500Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:c33964f7-6008-484b-9327-a4b7dabace20@c339.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T131500Z
+LOCATION:--каф.
+DTSTART:20231013T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:1673a5a4-e33a-455b-a222-900513bb696d@1673.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231214T164500Z
+LOCATION:24Б-330
+DTSTART:20231214T151500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:d1a14821-25f2-4394-a741-86d0fb3e0d06@d1a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231206T073000Z
+LOCATION:24Б-322
+DTSTART:20231206T060000Z
+SUMMARY:ПЗ УИРС
+UID:41707776-2959-40cf-8b24-88ae91904b70@4170.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231023T131500Z
+LOCATION:24Б-509
+DTSTART:20231023T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:ac97b85c-5dbd-4a61-ab39-d340b806db1b@ac97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231220T073000Z
+LOCATION:24Б-322
+DTSTART:20231220T060000Z
+SUMMARY:ПЗ УИРС
+UID:a6e4ebd0-b65a-4bf4-838c-befa736e222e@a6e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231220T113000Z
+LOCATION:24Б-517
+DTSTART:20231220T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:c7d5bfb8-4637-4c99-a13f-eb1a6710e21e@c7d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231108T113000Z
+LOCATION:24Б-517
+DTSTART:20231108T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:e6881abd-93a1-4897-ba07-421c6636fb72@e688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231122T113000Z
+LOCATION:24Б-517
+DTSTART:20231122T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:7d6db95d-3d59-466a-b1c9-1d86aa194d51@7d6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20230928T113000Z
+LOCATION:24Б-330
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:8f0b344e-251a-4c7b-9ba7-4d9ce6c6567e@8f0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231010T113000Z
+LOCATION:24Б-706
+DTSTART:20231010T100000Z
+SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
+UID:1397f309-4e1f-43b6-b660-c9bb8b192224@1397.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T091500Z
+LOCATION:--каф.
+DTSTART:20230908T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:89f03048-4acf-421a-8763-49a6810f7f47@89f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231021T113000Z
+LOCATION:24Б-329
+DTSTART:20231021T100000Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:8ed0a9d6-f058-43ba-a9d4-0724559eaf75@8ed0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T073000Z
+LOCATION:--каф.
+DTSTART:20231215T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fa0a9a77-eea5-4c89-9e00-aa0658e34b9e@fa0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231028T131500Z
+LOCATION:24Б-329
+DTSTART:20231028T114500Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:d293a02a-cccf-44a3-ac27-5b91bdd1832d@d293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231213T113000Z
+LOCATION:24Б-517
+DTSTART:20231213T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:76ac40a7-a838-427d-a625-1803a74db08b@76ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231010T091500Z
+LOCATION:24Б-322
+DTSTART:20231010T074500Z
+SUMMARY:ЛР Основы теории радиосистем передачи информации
+UID:57e06615-c574-4471-bea0-b1c0dd131f4e@57e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231122T091500Z
+LOCATION:24Б-517
+DTSTART:20231122T074500Z
+SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
+UID:4badfca1-3fc8-4c70-a207-3ced62ea2133@4bad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231009T131500Z
+LOCATION:24Б-509
+DTSTART:20231009T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:611059a8-3c39-49ce-918f-474ff6151027@6110.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20230913T113000Z
+LOCATION:24Б-517
+DTSTART:20230913T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:3166304b-f941-4f2f-8cbe-72b95c931b08@3166.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231122T131500Z
+LOCATION:24Б-119
+DTSTART:20231122T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:3a963468-b484-4e85-a490-cd7de02c6916@3a96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Максим Сергеевич
+DTEND:20231017T131500Z
+LOCATION:24Б-524
+DTSTART:20231017T114500Z
+SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
+UID:01feb9dc-a0ab-4654-a331-65ee56cd48be@01fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231102T131500Z
+LOCATION:24Б-330
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:c4a0a004-f07d-48df-9d2c-a1e70531d0f5@c4a0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T113000Z
+LOCATION:--каф.
+DTSTART:20230929T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:69da3ab0-5fcd-4ae2-a9a9-243d4830ed00@69da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231213T131500Z
+LOCATION:24Б-119
+DTSTART:20231213T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:3b4246b4-d762-4038-bc02-b908fb76fbbd@3b42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231019T091500Z
+LOCATION:24Б-330
+DTSTART:20231019T074500Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:e2a9cc97-ec1f-42cb-b30a-2f9b4d574ca3@e2a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пискунов Дмитрий Борисович
+DTEND:20231205T091500Z
+LOCATION:24Б-510
+DTSTART:20231205T074500Z
+SUMMARY:ЛР Основы теории радиосистем и комплексов управления
+UID:a8a1f940-11c4-4e6d-a45b-7388cf6dd91c@a8a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T073000Z
+LOCATION:--каф.
+DTSTART:20231020T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:9e784fe7-7aff-42b1-986e-60224603f4d6@9e78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231113T131500Z
+LOCATION:24Б-509
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:a7b440e2-ac04-4e2d-8c56-ff5c5a172fa8@a7b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231130T113000Z
+LOCATION:24Б-330
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:69059f2c-9c26-44b7-ab79-6ab977f907d7@6905.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T091500Z
+LOCATION:--каф.
+DTSTART:20230901T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:002653b4-8c2e-4fd5-911b-fb3a7c267b22@0026.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T073000Z
+LOCATION:--каф.
+DTSTART:20231103T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:917e9045-ca22-46bd-9022-1d68c98754e1@917e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20230927T091500Z
+LOCATION:24Б-517
+DTSTART:20230927T074500Z
+SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
+UID:706c1d3d-dd50-408e-91c6-ff4d5e4185ba@706c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231103T091500Z
+LOCATION:--каф.
+DTSTART:20231103T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2c7e68fd-4b0f-45a3-90be-4faac653aac4@2c7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231109T091500Z
+LOCATION:24Б-330
+DTSTART:20231109T074500Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:8160cc51-3e93-4c0a-993e-6267190ebe3b@8160.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T091500Z
+LOCATION:--каф.
+DTSTART:20231208T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:8431b4b9-45a6-451c-ad80-fef730498a10@8431.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231024T073000Z
+LOCATION:24Б-322
+DTSTART:20231024T060000Z
+SUMMARY:ЛР Основы теории радиосистем передачи информации
+UID:022a0ea4-c89d-4b94-8263-97ea9113e68f@022a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T131500Z
+LOCATION:--каф.
+DTSTART:20231215T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:3e474ee3-ae6c-4d15-872f-e258c81ecc3c@3e47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20230913T091500Z
+LOCATION:24Б-517
+DTSTART:20230913T074500Z
+SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
+UID:459922b1-13de-4ca3-ada8-2ed979088ab2@4599.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T131500Z
+LOCATION:--каф.
+DTSTART:20231117T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:28bde46c-7f23-4823-b98f-3af93bee8564@28bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231106T113000Z
+LOCATION:24Б-511
+DTSTART:20231106T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:e8f82a24-16a0-4172-823c-4d7bf4786f3a@e8f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20230912T091500Z
+LOCATION:24Б-322
+DTSTART:20230912T074500Z
+SUMMARY:ЛР Основы теории радиосистем передачи информации
+UID:420f3dbd-9dd0-4598-a5b0-00c284215b72@420f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T131500Z
+LOCATION:--каф.
+DTSTART:20230922T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:b9abf1ea-a55c-437a-a0a3-78ed150d907a@b9ab.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T073000Z
+LOCATION:--каф.
+DTSTART:20230929T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0393b6dd-458e-45b8-b94b-bbece6e03f7f@0393.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231016T091500Z
+LOCATION:24Б-511
+DTSTART:20231016T074500Z
+SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
+UID:0f6fa558-42c1-400d-a086-bae8661adbf1@0f6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20231019T113000Z
+LOCATION:24Б-330
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:9c817345-fe37-45b8-a846-b560d563f746@9c81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231211T131500Z
+LOCATION:24Б-509
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:a92df6e1-5a7a-431f-91fc-400adb7bba91@a92d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231025T091500Z
+LOCATION:24Б-517
+DTSTART:20231025T074500Z
+SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
+UID:973471ca-c3ff-46de-bddb-0cb844910f17@9734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231206T131500Z
+LOCATION:24Б-119
+DTSTART:20231206T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:c36c462a-37cb-4530-8692-1787704e0acd@c36c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T113000Z
+LOCATION:--каф.
+DTSTART:20230908T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6c6215f5-5fb3-486e-8587-bc30878f394f@6c62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231211T150000Z
+LOCATION:24Б-509
+DTSTART:20231211T133000Z
+SUMMARY:ПЗ Спутниковые системы связи
+UID:d81961e0-0911-457c-b42c-cb89b15813c1@d819.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T091500Z
+LOCATION:--каф.
+DTSTART:20230915T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:57259bc7-9cb1-4df6-be20-586a3d755374@5725.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T073000Z
+LOCATION:--каф.
+DTSTART:20231013T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:eb1ad716-24f3-4464-aeca-ae30d4a452e5@eb1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231207T164500Z
+LOCATION:24Б-330
+DTSTART:20231207T151500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:93839eb0-b2ad-4595-af17-9c59370a5f3e@9383.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231120T113000Z
+LOCATION:24Б-511
+DTSTART:20231120T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:84bb0496-48ce-4e19-9038-6bf86b17d5ce@84bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231016T113000Z
+LOCATION:24Б-511
+DTSTART:20231016T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:c2d876e4-ef3e-4bf9-b676-286acfe722a2@c2d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20231026T113000Z
+LOCATION:24Б-330
+DTSTART:20231026T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:fc3085bd-4d03-429d-bab0-935e3aaea5ac@fc30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20230921T131500Z
+LOCATION:24Б-330
+DTSTART:20230921T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:c21e1669-6926-4691-a950-652514bc2ffb@c21e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231127T091500Z
+LOCATION:24Б-511
+DTSTART:20231127T074500Z
+SUMMARY:ПЗ Теория и проектирование радиосистем передачи информации и управления
+UID:2b4a6210-c8ae-429f-ba0f-6499bca13f72@2b4a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T091500Z
+LOCATION:--каф.
+DTSTART:20231117T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:9b03e5ea-1129-48ab-b46d-e39f631a5fcc@9b03.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230922T091500Z
+LOCATION:--каф.
+DTSTART:20230922T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:0e80e393-4bd8-40bc-9c1b-531912e2a447@0e80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231106T091500Z
+LOCATION:24Б-509
+DTSTART:20231106T074500Z
+SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
+UID:32706e09-5edf-448d-8dde-15ca38182a1b@3270.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231227T131500Z
+LOCATION:24Б-119
+DTSTART:20231227T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:f4a95246-bb7b-4ed2-919c-fe71668dcb98@f4a9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231215T113000Z
+LOCATION:--каф.
+DTSTART:20231215T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:aa6d970e-e830-48b6-92a4-195e3c80fa8e@aa6d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T073000Z
+LOCATION:--каф.
+DTSTART:20230901T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:61553e5e-35b5-4b7e-ba12-34813a95ca56@6155.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231221T150000Z
+LOCATION:24Б-119
+DTSTART:20231221T133000Z
+SUMMARY:ЛР Спутниковые системы связи
+UID:ee2ed79c-4442-47b7-afcc-8ee61563a9fb@ee2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231129T150000Z
+LOCATION:24Б-119
+DTSTART:20231129T133000Z
+SUMMARY:ПЗ Цифровые системы передачи информации
+UID:93bb6272-bcf5-497d-a300-cd584e2e5606@93bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231024T091500Z
+LOCATION:24Б-322
+DTSTART:20231024T074500Z
+SUMMARY:ЛР Основы теории радиосистем передачи информации
+UID:38c593fa-cd64-471d-aee3-314574513cc9@38c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20230920T150000Z
+LOCATION:24Б-119
+DTSTART:20230920T133000Z
+SUMMARY:ПЗ Цифровые системы передачи информации
+UID:2d5dda52-ea9a-432c-92f6-3ecb1889cfd7@2d5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231030T150000Z
+LOCATION:24Б-509
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Спутниковые системы связи
+UID:f03471d4-1aef-4a3d-af5b-144811c81f11@f034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230902T131500Z
+LOCATION:24Б-329
+DTSTART:20230902T114500Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:5cb85918-fc9a-4474-8e0e-05cd6f230833@5cb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231121T131500Z
+LOCATION:24Б-706
+DTSTART:20231121T114500Z
+SUMMARY:ЛР Оптоэлектронные системы передачи и извлечения информации
+UID:a44dcd14-017d-4259-894d-83053891aa9d@a44d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231006T091500Z
+LOCATION:--каф.
+DTSTART:20231006T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:699a5a4d-ddad-410d-915e-bf6e0c590bce@699a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231026T131500Z
+LOCATION:24Б-330
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:386909ce-507f-44d1-ba71-45cab0863752@3869.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231025T073000Z
+LOCATION:24Б-322
+DTSTART:20231025T060000Z
+SUMMARY:ПЗ УИРС
+UID:6d24686f-f323-42eb-92e7-653425dc84cf@6d24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231129T131500Z
+LOCATION:24Б-119
+DTSTART:20231129T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:842c7381-a3b1-4c1b-addf-5aa7059be4e3@842c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20230906T113000Z
+LOCATION:24Б-517
+DTSTART:20230906T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:ee859b2a-72dc-4bf5-b83d-8dd53cda1a7b@ee85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Максим Сергеевич
+DTEND:20231219T131500Z
+LOCATION:24Б-521
+DTSTART:20231219T114500Z
+SUMMARY:ЛР Основы теории радионавигационных систем и комплексов
+UID:1b126644-e53c-4676-b683-056560724bda@1b12.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231201T091500Z
+LOCATION:--каф.
+DTSTART:20231201T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:c723c5f8-69af-4af8-8b80-e0aa090f625f@c723.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231228T164500Z
+LOCATION:24Б-330
+DTSTART:20231228T151500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:dcbb1430-5c18-4794-b5a3-518be5853d28@dcbb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231120T131500Z
+LOCATION:24Б-509
+DTSTART:20231120T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:84c94ca5-a481-40bb-ab74-bd46605da7ee@84c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Максим Сергеевич
+DTEND:20231205T113000Z
+LOCATION:24Б-521
+DTSTART:20231205T100000Z
+SUMMARY:ЛР Основы теории радионавигационных систем и комплексов
+UID:7ce6e8df-a667-4488-b6e9-681497af11b8@7ce6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T091500Z
+LOCATION:--каф.
+DTSTART:20231124T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:7be48fd7-9bfc-4af3-92ec-a5d9f4721c08@7be4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231016T150000Z
+LOCATION:24Б-509
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Спутниковые системы связи
+UID:662a234e-14d5-45d3-8b08-6c9be9d2b5fa@662a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231020T091500Z
+LOCATION:--каф.
+DTSTART:20231020T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:602deaec-0c2b-4bb9-a76a-c6ede9771374@602d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20231130T164500Z
+LOCATION:24Б-330
+DTSTART:20231130T151500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:adafbe26-e8b6-40b4-bd12-78ed8cc0a7ee@adaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231011T073000Z
+LOCATION:24Б-322
+DTSTART:20231011T060000Z
+SUMMARY:ПЗ УИРС
+UID:1d74a9ea-4f4c-4c96-a1bc-b3892fb9ac3d@1d74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231214T131500Z
+LOCATION:24Б-119
+DTSTART:20231214T114500Z
+SUMMARY:ЛР Спутниковые системы связи
+UID:4f926db7-2b26-435c-8802-aac737bcaece@4f92.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T073000Z
+LOCATION:--каф.
+DTSTART:20231110T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:c6eb5bcd-b578-4b7c-967e-0548b3aab612@c6eb.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T131500Z
+LOCATION:--каф.
+DTSTART:20230901T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:4614b266-556d-429d-94d8-63a59c4cff47@4614.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20230918T113000Z
+LOCATION:24Б-511
+DTSTART:20230918T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:7cd1135e-94b0-4cd8-af85-2ea2d25e632f@7cd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231218T113000Z
+LOCATION:24Б-511
+DTSTART:20231218T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:7d11a741-3d90-4945-9592-79941450539d@7d11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231207T113000Z
+LOCATION:24Б-330
+DTSTART:20231207T100000Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:ebe0ab61-aae3-410d-a8bd-f70f43ca582b@ebe0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пискунов Дмитрий Борисович
+DTEND:20231107T073000Z
+LOCATION:24Б-510
+DTSTART:20231107T060000Z
+SUMMARY:ЛР Основы теории радиосистем и комплексов управления
+UID:907b7298-4c6e-48df-9f76-a146ccca0fbe@907b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231206T091500Z
+LOCATION:24Б-517
+DTSTART:20231206T074500Z
+SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
+UID:fe8d3fc0-2c57-4b8e-b3b7-38ce1833fca7@fe8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230921T091500Z
+LOCATION:24Б-330
+DTSTART:20230921T074500Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:675e08c5-615c-463d-8e9c-f456caba5178@675e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Максим Сергеевич
+DTEND:20231031T131500Z
+LOCATION:24Б-524
+DTSTART:20231031T114500Z
+SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
+UID:547af05d-44c5-48c7-8a95-9496a60c21b7@547a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231220T091500Z
+LOCATION:24Б-517
+DTSTART:20231220T074500Z
+SUMMARY:ПЗ Оптоэлектронные системы передачи и извлечения информации
+UID:f6bf2421-fc9a-487d-be61-5c6cc30806a7@f6bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231018T113000Z
+LOCATION:24Б-517
+DTSTART:20231018T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:1d434ca4-2a05-4eae-b36f-4aa1ad44876a@1d43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20230926T073000Z
+LOCATION:24Б-322
+DTSTART:20230926T060000Z
+SUMMARY:ЛР Основы теории радиосистем передачи информации
+UID:7134b0f8-264a-489e-bdb9-83234414e1b4@7134.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20230907T131500Z
+LOCATION:24Б-330
+DTSTART:20230907T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:4615e7b8-125c-49f4-a031-6eb187969e6a@4615.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230929T091500Z
+LOCATION:--каф.
+DTSTART:20230929T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:dcab22cb-7839-4787-ad95-fdf9511b65fb@dcab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230919T113000Z
+LOCATION:24Б-510
+DTSTART:20230919T100000Z
+SUMMARY:ПЗ Основы теории радиосистем и комплексов управления
+UID:28391bc0-e100-44b8-98fa-061f4b38a091@2839.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231120T073000Z
+LOCATION:24Б-509
+DTSTART:20231120T060000Z
+SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
+UID:74a4cbc0-caea-4806-9579-612fe5ec45f7@74a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231221T131500Z
+LOCATION:24Б-119
+DTSTART:20231221T114500Z
+SUMMARY:ЛР Спутниковые системы связи
+UID:fca18467-0e60-4c64-a2b9-517032bf1fb4@fca1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231207T131500Z
+LOCATION:24Б-119
+DTSTART:20231207T114500Z
+SUMMARY:ЛР Спутниковые системы связи
+UID:fc0ecfc7-29e5-4eec-8c57-dcb5f4aa9d07@fc0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231101T113000Z
+LOCATION:24Б-517
+DTSTART:20231101T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:2a30d29a-35fa-4a73-8c45-eb4d763713fa@2a30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20230904T113000Z
+LOCATION:24Б-511
+DTSTART:20230904T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:41520b4a-cec4-4c56-8169-9df0d441373f@4152.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пискунов Дмитрий Борисович
+DTEND:20231023T073000Z
+LOCATION:24Б-511
+DTSTART:20231023T060000Z
+SUMMARY:ЛР Теория и проектирование радиосистем передачи информации и управления
+UID:aa552b09-f0e4-4212-872b-6eec528e2055@aa55.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230901T113000Z
+LOCATION:--каф.
+DTSTART:20230901T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:0c5fed3d-21ab-4757-8737-de73e9c5ea54@0c5f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230908T131500Z
+LOCATION:--каф.
+DTSTART:20230908T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:6e4bcb42-e0b5-49c8-9154-f861c4cbc2eb@6e4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231106T073000Z
+LOCATION:24Б-509
+DTSTART:20231106T060000Z
+SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
+UID:e3ea126d-87eb-443f-9a7f-6740685f6450@e3ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230916T131500Z
+LOCATION:24Б-329
+DTSTART:20230916T114500Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:13f41903-c6d1-447a-aac5-2f9eff3a574f@13f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пискунов Дмитрий Борисович
+DTEND:20231009T073000Z
+LOCATION:24Б-511
+DTSTART:20231009T060000Z
+SUMMARY:ЛР Теория и проектирование радиосистем передачи информации и управления
+UID:49d8ca3e-2731-46e4-a991-cc752c605642@49d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Мазепа Роман Богданович
+DTEND:20230914T131500Z
+LOCATION:24Б-330
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Основы теории радиосистем передачи информации
+UID:2fdeb221-506e-487e-8f03-439c90e89ec9@2fde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231211T113000Z
+LOCATION:24Б-511
+DTSTART:20231211T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:8f7def11-a5f0-4ec3-bf29-ccc872c52bc8@8f7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20230911T131500Z
+LOCATION:24Б-509
+DTSTART:20230911T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:45eeaa8b-aebf-41e4-bac0-9ab4cf0b749d@45ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231127T131500Z
+LOCATION:24Б-509
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Спутниковые системы связи
+UID:f8560b05-954c-4111-9b94-10b99f0ea745@f856.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231110T113000Z
+LOCATION:--каф.
+DTSTART:20231110T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b216e693-1821-4b3c-96c5-de53edcefa30@b216.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230915T113000Z
+LOCATION:--каф.
+DTSTART:20230915T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:980a48c4-bca9-4aa1-aabf-1379a617c4cd@980a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231111T113000Z
+LOCATION:24Б-329
+DTSTART:20231111T100000Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:3cb982cb-2199-41c5-a152-843411d59033@3cb9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231208T131500Z
+LOCATION:--каф.
+DTSTART:20231208T114500Z
+SUMMARY:ПЗ Военная подготовка
+UID:325efd29-a7ff-48a1-9c2b-c965a5f304ec@325e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231028T113000Z
+LOCATION:24Б-329
+DTSTART:20231028T100000Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:b1e1b36d-45de-4a80-a45e-5b0c43401a3f@b1e1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231027T113000Z
+LOCATION:--каф.
+DTSTART:20231027T100000Z
+SUMMARY:ПЗ Военная подготовка
+UID:b634b6d3-98d6-4c4c-9110-90ae4345ec08@b634.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231129T113000Z
+LOCATION:24Б-517
+DTSTART:20231129T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:76c060ab-01a2-4f04-9172-36d1fef62b3a@76c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Породин Борис Михайлович
+DTEND:20231025T113000Z
+LOCATION:24Б-517
+DTSTART:20231025T100000Z
+SUMMARY:ЛК Оптоэлектронные системы передачи и извлечения информации
+UID:3219c877-04eb-43c8-9fe4-c122095de59a@3219.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231108T131500Z
+LOCATION:24Б-119
+DTSTART:20231108T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:1872ca18-81e6-4bec-b5e8-a4909aede804@1872.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рощин Андрей Борисович
+DTEND:20231004T131500Z
+LOCATION:24Б-119
+DTSTART:20231004T114500Z
+SUMMARY:ЛК Цифровые системы передачи информации
+UID:e91227aa-0d01-442a-8b02-5e16a69017ea@e912.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230930T113000Z
+LOCATION:24Б-329
+DTSTART:20230930T100000Z
+SUMMARY:ЛК Защита информации в радиосистемах передачи информации и управления
+UID:7ef1a703-8bd8-4e5e-9869-1ab427e861f6@7ef1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20231120T091500Z
+LOCATION:24Б-509
+DTSTART:20231120T074500Z
+SUMMARY:ЛР Защита информации в радиосистемах передачи информации и управления
+UID:f0e6287c-9315-49ad-ba82-695f5a31faa0@f0e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20230914T113000Z
+LOCATION:24Б-330
+DTSTART:20230914T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:786df2ae-2195-4d70-a1b5-dbb18ace4f03@786d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Куприянов Александр Ильич
+DTEND:20230914T091500Z
+LOCATION:24Б-330
+DTSTART:20230914T074500Z
+SUMMARY:ЛК Основы теории радиосистем и комплексов управления
+UID:f540347b-a7a4-462a-b8b4-3c651bed3907@f540.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231013T091500Z
+LOCATION:--каф.
+DTSTART:20231013T074500Z
+SUMMARY:ПЗ Военная подготовка
+UID:2dd1beac-cf66-4cdc-8c9e-df119cfac452@2dd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Максим Сергеевич
+DTEND:20231114T131500Z
+LOCATION:24Б-524
+DTSTART:20231114T114500Z
+SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
+UID:325b6ca8-79cf-48a4-9e95-1529dd314a30@325b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Чечин Геннадий Валентинович
+DTEND:20231214T150000Z
+LOCATION:24Б-119
+DTSTART:20231214T133000Z
+SUMMARY:ЛР Спутниковые системы связи
+UID:2c5446cf-cdac-4832-9e9e-cd6d4f5477fe@2c54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лиханский Валерий Иванович
+DTEND:20231031T091500Z
+LOCATION:24Б-322
+DTSTART:20231031T074500Z
+SUMMARY:ПЗ Основы теории радиосистем передачи информации
+UID:29efcd4f-30e4-42d0-94f1-e082be0335e0@29ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20231123T113000Z
+LOCATION:24Б-330
+DTSTART:20231123T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:234aa6d5-ed0b-4d12-aabc-6dd8e83739c6@234a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20231127T113000Z
+LOCATION:24Б-511
+DTSTART:20231127T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:c61d1c13-8882-49d4-a032-3940c1b72146@c61d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Виноградов Максим Сергеевич
+DTEND:20230919T131500Z
+LOCATION:24Б-524
+DTSTART:20230919T114500Z
+SUMMARY:ПЗ Основы теории радионавигационных систем и комплексов
+UID:1f40b93e-cd3d-4980-8a08-3909ad701693@1f40.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231117T073000Z
+LOCATION:--каф.
+DTSTART:20231117T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:fd19bfe8-4a0c-46a0-b04a-8bdc341e0a64@fd19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бруханский Александр Владимирович
+DTEND:20231109T113000Z
+LOCATION:24Б-330
+DTSTART:20231109T100000Z
+SUMMARY:ЛК Основы теории радионавигационных систем и комплексов
+UID:0c2f6e1b-60fb-4522-9c84-444f63923f20@0c2f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231124T073000Z
+LOCATION:--каф.
+DTSTART:20231124T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:018eebe4-8ecd-45e4-aa45-1134fa33dd32@018e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231229T073000Z
+LOCATION:--каф.
+DTSTART:20231229T060000Z
+SUMMARY:ПЗ Военная подготовка
+UID:6d245591-74b3-4715-9164-6a20d77817fb@6d24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вейцель Андрей Владимирович
+DTEND:20230911T113000Z
+LOCATION:24Б-511
+DTSTART:20230911T100000Z
+SUMMARY:ЛК Теория и проектирование радиосистем передачи информации и управления
+UID:4c27c50f-7fb1-4e38-af1e-e78b1c9cf142@4c27.org
 END:VEVENT
 END:VCALENDAR

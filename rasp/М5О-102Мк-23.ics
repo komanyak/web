@@ -2,244 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231031T183000Z
-LOCATION:5-401
-DTSTART:20231031T170000Z
-SUMMARY:ПЗ Управленческая экономика
-UID:d1f2eb10-0bc0-4099-af59-d2f20a88b28f@d1f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231228T183000Z
-LOCATION:5-101
-DTSTART:20231228T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:91025221-4320-4142-8102-dd74fd1a5a5f@9102.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231120T164500Z
-LOCATION:5-405
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Стратегическое развитие организации
-UID:4123884a-0df8-4a25-a305-b59a779ccc8d@4123.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231220T183000Z
-LOCATION:5-104
-DTSTART:20231220T170000Z
-SUMMARY:ПЗ Концепции стратегического управления
-UID:f08620d9-296b-42d5-bc60-3c215381983f@f086.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20230918T183000Z
-LOCATION:5-104
-DTSTART:20230918T170000Z
-SUMMARY:ЛК Технологическое предпринимательство
-UID:6e0b02f9-5381-40b4-b4e5-d497042ce8b8@6e0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231011T183000Z
-LOCATION:5-104
-DTSTART:20231011T170000Z
-SUMMARY:ЛК Концепции стратегического управления
-UID:c6b382e5-5101-4f64-b6c2-ef2ac0d4f05f@c6b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231109T150000Z
-LOCATION:Орш. Б-605
-DTSTART:20231109T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:57e21629-0906-49e5-be11-7b469109ad3b@57e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231221T150000Z
-LOCATION:Орш. Б-605
-DTSTART:20231221T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:54bdbee9-c277-40b9-a083-299c565cfda3@54bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20230929T164500Z
-LOCATION:5-112
-DTSTART:20230929T151500Z
-SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
-UID:88498ece-f85f-476a-80f3-f1be19212800@8849.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231116T183000Z
-LOCATION:5-101
-DTSTART:20231116T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:65dfca40-e6f8-465a-80b6-99d0ac0eafd2@65df.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231004T183000Z
+DTEND:20231101T183000Z
 LOCATION:5-103
-DTSTART:20231004T170000Z
-SUMMARY:ЛК Финансово-инвестиционные стратегии
-UID:9c9762bc-d57b-4ade-87af-26412cd72a61@9c97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20230927T164500Z
-LOCATION:5-104
-DTSTART:20230927T151500Z
-SUMMARY:ЛК Концепции стратегического управления
-UID:87e0c55b-234b-4df5-8724-14925cdc4fab@87e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20230914T164500Z
-LOCATION:Орш. Б-605
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:7b983e2c-86a6-4a8b-bcf9-979b3b3a5646@7b98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20230912T183000Z
-LOCATION:5-401
-DTSTART:20230912T170000Z
-SUMMARY:ЛК Управленческая экономика
-UID:13eb9fe1-ecbf-4e59-98e9-ea030276aa32@13eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231107T164500Z
-LOCATION:5-401
-DTSTART:20231107T151500Z
-SUMMARY:ПЗ Управленческая экономика
-UID:05b061e7-193d-4637-876c-471a2da6efba@05b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20230921T183000Z
-LOCATION:5-101
-DTSTART:20230921T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:6ac5e6d8-08c1-4bc5-9819-2357605474ca@6ac5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
-DTEND:20230911T183000Z
-LOCATION:5-405
-DTSTART:20230911T170000Z
-SUMMARY:ЛК Стратегическое развитие организации
-UID:ed742e0f-cda7-4fb8-97e4-15da0263500e@ed74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231026T164500Z
-LOCATION:Орш. Б-605
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:c22c54a3-07cf-4afb-9157-f36ce29565cc@c22c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231017T183000Z
-LOCATION:5-401
-DTSTART:20231017T170000Z
-SUMMARY:ПЗ Управленческая экономика
-UID:951e9dbe-87a0-4a6f-9a9e-b8934569bed0@951e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231030T183000Z
-LOCATION:5-104
-DTSTART:20231030T170000Z
-SUMMARY:ПЗ Технологическое предпринимательство
-UID:ed776a36-40e6-4be3-9235-e5b7c380ba06@ed77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231127T183000Z
-LOCATION:5-104
-DTSTART:20231127T170000Z
-SUMMARY:ПЗ Технологическое предпринимательство
-UID:7931b139-5e3d-435e-9443-ab0135f5ffe5@7931.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231129T164500Z
-LOCATION:5-103
-DTSTART:20231129T151500Z
+DTSTART:20231101T170000Z
 SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:2441e5c2-1ce0-4a61-acbc-e374cfc58d89@2441.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231027T164500Z
-LOCATION:5-112
-DTSTART:20231027T151500Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:8a604ec3-2f90-4937-96b3-bcdb62c85abb@8a60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231116T164500Z
-LOCATION:5-101
-DTSTART:20231116T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:440e492e-b4ce-4d32-b461-164fb2a9b5d9@440e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20230929T183000Z
-LOCATION:5-112
-DTSTART:20230929T170000Z
-SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
-UID:5a1982cc-e98b-44cb-b956-5d94aa03eb26@5a19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231207T164500Z
-LOCATION:Орш. Б-605
-DTSTART:20231207T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:9906fb23-25c3-43ff-be3a-67b9598891e9@9906.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231222T164500Z
-LOCATION:5-112
-DTSTART:20231222T151500Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:758d8216-1142-4c23-a82b-edd013bc0ae8@758d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20230904T164500Z
-LOCATION:5-104
-DTSTART:20230904T151500Z
-SUMMARY:ЛК Технологическое предпринимательство
-UID:f4a2adf8-cb63-422a-95ea-db39c5002581@f4a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231016T183000Z
-LOCATION:5-104
-DTSTART:20231016T170000Z
-SUMMARY:ПЗ Технологическое предпринимательство
-UID:45ac21f9-00d6-427d-86bf-07b70b7db0fb@45ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20230919T183000Z
-LOCATION:5-401
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Управленческая экономика
-UID:1fc5f0f5-c195-4eab-a6fc-82fc58a8394d@1fc5.org
+UID:430602b3-7823-4c02-9fc3-c96d89c7cd99@4306.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Соболев Леонид Борисович
@@ -247,727 +15,7 @@ DTEND:20231128T164500Z
 LOCATION:5-401
 DTSTART:20231128T151500Z
 SUMMARY:ПЗ Управленческая экономика
-UID:d843cdd2-dbb6-4b10-a063-8888f3b3c897@d843.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20230921T164500Z
-LOCATION:5-101
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:7e8de548-5135-48b4-899f-216d39de8074@7e8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20230926T164500Z
-LOCATION:5-401
-DTSTART:20230926T151500Z
-SUMMARY:ЛК Управленческая экономика
-UID:f593445b-9f01-4a17-a2d6-e1c90088b2a1@f593.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231024T164500Z
-LOCATION:5-401
-DTSTART:20231024T151500Z
-SUMMARY:ПЗ Управленческая экономика
-UID:2159c100-65ee-478b-9c7e-20990d966e1f@2159.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231205T183000Z
-LOCATION:5-401
-DTSTART:20231205T170000Z
-SUMMARY:ПЗ Управленческая экономика
-UID:42c2d79a-9bed-42ef-b696-df5d417fde7f@42c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231113T183000Z
-LOCATION:5-104
-DTSTART:20231113T170000Z
-SUMMARY:ПЗ Технологическое предпринимательство
-UID:cd607fea-7ab6-4ab0-a475-f0df22141318@cd60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
-DTEND:20230911T164500Z
-LOCATION:5-405
-DTSTART:20230911T151500Z
-SUMMARY:ЛК Стратегическое развитие организации
-UID:01956937-6e42-43e3-b51a-2e16c61979b6@0195.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231207T150000Z
-LOCATION:Орш. Б-605
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:b564ed6c-b381-4f56-998c-82b1c7646afd@b564.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231228T164500Z
-LOCATION:5-101
-DTSTART:20231228T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:9c38f473-79ce-4cbf-8cba-3d53a383d2e7@9c38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20230906T183000Z
-LOCATION:5-103
-DTSTART:20230906T170000Z
-SUMMARY:ЛК Финансово-инвестиционные стратегии
-UID:7e75a883-9d02-41ac-b47b-aacdbf8c2608@7e75.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231107T183000Z
-LOCATION:5-401
-DTSTART:20231107T170000Z
-SUMMARY:ПЗ Управленческая экономика
-UID:a95e8e64-895e-43a0-aaeb-26ec5546aa67@a95e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231108T164500Z
-LOCATION:5-104
-DTSTART:20231108T151500Z
-SUMMARY:ПЗ Концепции стратегического управления
-UID:262ddd0f-5caa-4003-98e3-82e047bd8e5c@262d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231127T164500Z
-LOCATION:5-104
-DTSTART:20231127T151500Z
-SUMMARY:ПЗ Технологическое предпринимательство
-UID:c6e493c6-0050-47d7-ac26-256c2473c3ef@c6e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20230918T164500Z
-LOCATION:5-104
-DTSTART:20230918T151500Z
-SUMMARY:ЛК Технологическое предпринимательство
-UID:063dfcbb-010a-48e2-876b-f3a2a46cc48e@063d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20230919T164500Z
-LOCATION:5-401
-DTSTART:20230919T151500Z
-SUMMARY:ЛК Управленческая экономика
-UID:ec08d1ad-0b19-4cf8-b67d-d6404a92fe95@ec08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
-DTEND:20230925T183000Z
-LOCATION:5-405
-DTSTART:20230925T170000Z
-SUMMARY:ЛК Стратегическое развитие организации
-UID:ece317c6-b7e7-4263-ac97-88023ecf4dd9@ece3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231003T183000Z
-LOCATION:5-401
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Управленческая экономика
-UID:bbd00052-19bd-4443-9d0f-5e6b6895ec62@bbd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231124T183000Z
-LOCATION:5-112
-DTSTART:20231124T170000Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:b0078526-d0da-4bc8-b573-e670e6b680bd@b007.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231222T183000Z
-LOCATION:5-112
-DTSTART:20231222T170000Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:e84b000e-3c8f-48d9-ab0c-f09c541c1929@e84b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231214T183000Z
-LOCATION:5-101
-DTSTART:20231214T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:bcb1e666-6b4a-4ab8-a87a-35ca72a863fc@bcb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231124T164500Z
-LOCATION:5-112
-DTSTART:20231124T151500Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:bbfab215-f69e-45a8-b23b-0641c500662d@bbfa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20230912T164500Z
-LOCATION:5-401
-DTSTART:20230912T151500Z
-SUMMARY:ЛК Управленческая экономика
-UID:c4d04ac4-932b-43ad-a704-511e39655ca2@c4d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231101T183000Z
-LOCATION:5-103
-DTSTART:20231101T170000Z
-SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:89b30540-50b6-4f1b-b371-e7d749ad9b93@89b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231115T164500Z
-LOCATION:5-103
-DTSTART:20231115T151500Z
-SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:d7d7099d-1bd7-41a8-91e0-59abc93cce51@d7d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231204T183000Z
-LOCATION:5-405
-DTSTART:20231204T170000Z
-SUMMARY:ПЗ Стратегическое развитие организации
-UID:17263cb5-a9bb-47de-804c-68a2323d7630@1726.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231114T183000Z
-LOCATION:5-401
-DTSTART:20231114T170000Z
-SUMMARY:ПЗ Управленческая экономика
-UID:c3733e3b-3a85-4c37-9f6f-3ee55009b760@c373.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231004T164500Z
-LOCATION:5-103
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Финансово-инвестиционные стратегии
-UID:b88d1639-3698-4822-a238-52cb351c9466@b88d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231030T164500Z
-LOCATION:5-104
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Технологическое предпринимательство
-UID:a1cabb3e-16f8-4fd4-b3ea-4acbd631a253@a1ca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231130T183000Z
-LOCATION:5-101
-DTSTART:20231130T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:62f07aa5-f77b-4c83-bf57-89c1a68f4cb4@62f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231023T183000Z
-LOCATION:5-405
-DTSTART:20231023T170000Z
-SUMMARY:ПЗ Стратегическое развитие организации
-UID:e8ad7e78-051d-4072-aa50-91afbd7ee550@e8ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231110T164500Z
-LOCATION:5-112
-DTSTART:20231110T151500Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:0c4ae720-730c-48de-8bb2-245fe168ee32@0c4a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20230907T183000Z
-LOCATION:5-101
-DTSTART:20230907T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:9805d924-09d0-4590-8865-e5fd2acef37b@9805.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231129T183000Z
-LOCATION:5-103
-DTSTART:20231129T170000Z
-SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:c298341f-3d20-400a-8310-6e80840abb71@c298.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231130T164500Z
-LOCATION:5-101
-DTSTART:20231130T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:c3a322c6-1d4f-4a25-8981-a602c6500cb9@c3a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231218T183000Z
-LOCATION:5-405
-DTSTART:20231218T170000Z
-SUMMARY:ПЗ Стратегическое развитие организации
-UID:142091c5-ec32-4ab4-8829-8bcef170312d@1420.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231220T164500Z
-LOCATION:5-104
-DTSTART:20231220T151500Z
-SUMMARY:ПЗ Концепции стратегического управления
-UID:16a1dc05-5ad9-4918-b9aa-21e92febcab7@16a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20230914T150000Z
-LOCATION:Орш. Б-605
-DTSTART:20230914T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:88255f1b-67d1-40f7-b2fe-44a8d1241701@8825.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231027T183000Z
-LOCATION:5-112
-DTSTART:20231027T170000Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:868f54dc-6bb5-4956-a478-fa15c883b3a1@868f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231005T183000Z
-LOCATION:5-101
-DTSTART:20231005T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:84f2918f-9d74-402a-be57-03d8e38e7dc5@84f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231110T183000Z
-LOCATION:5-112
-DTSTART:20231110T170000Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:c53e702c-6eac-4de2-bc5a-dcbfc2fa3cee@c53e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231026T150000Z
-LOCATION:Орш. Б-605
-DTSTART:20231026T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:0a133f51-ea06-4782-8a20-fffe6c29cb13@0a13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20230915T183000Z
-LOCATION:5-112
-DTSTART:20230915T170000Z
-SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
-UID:9a9a34e2-efa5-4ea5-a77d-8491eaf872f0@9a9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231108T183000Z
-LOCATION:5-104
-DTSTART:20231108T170000Z
-SUMMARY:ПЗ Концепции стратегического управления
-UID:0cee2b51-0aba-4d7f-888f-14f10dfbe557@0cee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231109T164500Z
-LOCATION:Орш. Б-605
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:4be8d7cb-ece1-4549-8938-c1f3660afb5c@4be8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20230901T164500Z
-LOCATION:5-112
-DTSTART:20230901T151500Z
-SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
-UID:a575c467-e2f1-445c-bb2e-029ac2dc3b5d@a575.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20230920T164500Z
-LOCATION:5-103
-DTSTART:20230920T151500Z
-SUMMARY:ЛК Финансово-инвестиционные стратегии
-UID:96f3259a-9125-474d-925a-157a7e3e7168@96f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
-DTEND:20231009T164500Z
-LOCATION:5-405
-DTSTART:20231009T151500Z
-SUMMARY:ЛК Стратегическое развитие организации
-UID:b9cd84f7-da68-48c4-a9d2-d4094c6325ba@b9cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231205T164500Z
-LOCATION:5-401
-DTSTART:20231205T151500Z
-SUMMARY:ПЗ Управленческая экономика
-UID:c4c4e7af-ed40-4401-9c4e-56b8ceed3818@c4c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231221T164500Z
-LOCATION:Орш. Б-605
-DTSTART:20231221T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:293c474b-4bdd-4e62-82b9-e29d378c927d@293c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231010T183000Z
-LOCATION:5-401
-DTSTART:20231010T170000Z
-SUMMARY:ПЗ Управленческая экономика
-UID:68257d39-461c-4d94-b277-9c2ade8606fe@6825.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231115T183000Z
-LOCATION:5-103
-DTSTART:20231115T170000Z
-SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:410e4bbd-78a3-411b-aed3-b9aff36f067e@410e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20230928T164500Z
-LOCATION:Орш. Б-605
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:455c8238-a0f3-436c-b8e7-683542b49ead@455c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231213T183000Z
-LOCATION:5-103
-DTSTART:20231213T170000Z
-SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:23335f0d-3479-43ee-87da-da7bfa02e135@2333.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231019T164500Z
-LOCATION:5-101
-DTSTART:20231019T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:0b08dbe7-5ca6-48db-81ab-501dad40f9e4@0b08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20230927T183000Z
-LOCATION:5-104
-DTSTART:20230927T170000Z
-SUMMARY:ЛК Концепции стратегического управления
-UID:8f066e46-8539-4c01-a729-cf3b412c0e60@8f06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231121T164500Z
-LOCATION:5-401
-DTSTART:20231121T151500Z
-SUMMARY:ПЗ Управленческая экономика
-UID:f6c37d94-848c-4f63-9682-5728cab295a9@f6c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20230913T164500Z
-LOCATION:5-104
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Концепции стратегического управления
-UID:586ba71c-6bda-4b58-b724-8bdb065bdc37@586b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231206T164500Z
-LOCATION:5-104
-DTSTART:20231206T151500Z
-SUMMARY:ПЗ Концепции стратегического управления
-UID:b155552f-908f-4207-ae7a-dcf2986f1430@b155.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231211T164500Z
-LOCATION:5-104
-DTSTART:20231211T151500Z
-SUMMARY:ПЗ Технологическое предпринимательство
-UID:df140ab5-c465-40dd-8cac-65ebcac8fc3a@df14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20230904T183000Z
-LOCATION:5-104
-DTSTART:20230904T170000Z
-SUMMARY:ЛК Технологическое предпринимательство
-UID:c125cebd-3c99-435d-a0c1-ec3b7c0d0ab4@c125.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231025T183000Z
-LOCATION:5-104
-DTSTART:20231025T170000Z
-SUMMARY:ПЗ Концепции стратегического управления
-UID:e76da550-eccd-4d1c-bd9d-fba6e009393d@e76d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20230905T164500Z
-LOCATION:5-401
-DTSTART:20230905T151500Z
-SUMMARY:ЛК Управленческая экономика
-UID:f50ce5bb-12a8-4512-ab83-614ff196f141@f50c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
-DTEND:20230925T164500Z
-LOCATION:5-405
-DTSTART:20230925T151500Z
-SUMMARY:ЛК Стратегическое развитие организации
-UID:3a544fc7-9bb2-42d0-9903-4109e321096b@3a54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231016T164500Z
-LOCATION:5-104
-DTSTART:20231016T151500Z
-SUMMARY:ПЗ Технологическое предпринимательство
-UID:cbff1bfd-9677-46f3-bc67-ee77ea5a89f8@cbff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231012T164500Z
-LOCATION:Орш. Б-605
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:918704bc-0829-4398-8958-937a8a07e13e@9187.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231018T183000Z
-LOCATION:5-103
-DTSTART:20231018T170000Z
-SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:547650d3-991b-4f45-a867-843f81f68c55@5476.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231211T183000Z
-LOCATION:5-104
-DTSTART:20231211T170000Z
-SUMMARY:ПЗ Технологическое предпринимательство
-UID:48dfd730-1245-4a62-a666-7c6da2ce68c2@48df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231023T164500Z
-LOCATION:5-405
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Стратегическое развитие организации
-UID:42de2553-a019-4e9e-bc91-ae299d708b2f@42de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231123T164500Z
-LOCATION:Орш. Б-605
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:520849a9-8bf0-4afd-b7a2-911cabd6d94b@5208.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231227T164500Z
-LOCATION:5-103
-DTSTART:20231227T151500Z
-SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:cd29fcce-dc4f-49d1-85b7-00b31240c49d@cd29.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20230901T183000Z
-LOCATION:5-112
-DTSTART:20230901T170000Z
-SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
-UID:36a559f3-4a07-4c89-83c0-31c6294d0ad0@36a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20230913T183000Z
-LOCATION:5-104
-DTSTART:20230913T170000Z
-SUMMARY:ЛК Концепции стратегического управления
-UID:0c626178-c4b7-403a-8285-f5c9c8f117ff@0c62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231017T164500Z
-LOCATION:5-401
-DTSTART:20231017T151500Z
-SUMMARY:ПЗ Управленческая экономика
-UID:46346bfb-4a15-4bf5-a300-dbde5e8854da@4634.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231102T183000Z
-LOCATION:5-101
-DTSTART:20231102T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:df437dbc-b5c5-4eee-a43f-5ec68092e2c3@df43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231019T183000Z
-LOCATION:5-101
-DTSTART:20231019T170000Z
-SUMMARY:ПЗ Психология и педагогика
-UID:20be5355-69df-4d13-86fe-f3d70ac0b725@20be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231002T164500Z
-LOCATION:5-104
-DTSTART:20231002T151500Z
-SUMMARY:ЛК Технологическое предпринимательство
-UID:a1fe9369-4d11-4f00-867e-e323111f3b23@a1fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231214T164500Z
-LOCATION:5-101
-DTSTART:20231214T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:2a64aeed-96bb-4cc2-bc86-e5c860839342@2a64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231204T164500Z
-LOCATION:5-405
-DTSTART:20231204T151500Z
-SUMMARY:ПЗ Стратегическое развитие организации
-UID:022aaca6-134e-40d3-9358-2a5a9a230fa3@022a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20230926T183000Z
-LOCATION:5-401
-DTSTART:20230926T170000Z
-SUMMARY:ЛК Управленческая экономика
-UID:1ddedd38-21be-427d-8ef6-99ec0b24b98b@1dde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231010T164500Z
-LOCATION:5-401
-DTSTART:20231010T151500Z
-SUMMARY:ПЗ Управленческая экономика
-UID:eb375205-b3bf-43dc-9ead-a043d0c32d50@eb37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231013T164500Z
-LOCATION:5-112
-DTSTART:20231013T151500Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:b6e356ca-40ae-408d-9ece-21f3287f2f34@b6e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231005T164500Z
-LOCATION:5-101
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:8ad31d4e-e209-407a-9039-e744b4f37b3e@8ad3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231123T150000Z
-LOCATION:Орш. Б-605
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:8ef73609-a2f2-407b-869a-448f2ae78a64@8ef7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231002T183000Z
-LOCATION:5-104
-DTSTART:20231002T170000Z
-SUMMARY:ЛК Технологическое предпринимательство
-UID:f536ad03-0579-4d4a-9fc3-51225315f72f@f536.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231218T164500Z
-LOCATION:5-405
-DTSTART:20231218T151500Z
-SUMMARY:ПЗ Стратегическое развитие организации
-UID:d51dcbef-ddd8-418d-9ddf-d7fb7c22884c@d51d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231024T183000Z
-LOCATION:5-401
-DTSTART:20231024T170000Z
-SUMMARY:ПЗ Управленческая экономика
-UID:699c87bf-2487-4975-8849-60fcddb847cf@699c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20230907T164500Z
-LOCATION:5-101
-DTSTART:20230907T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:f8419b47-0635-4d25-828d-4d9e08675f42@f841.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231120T183000Z
-LOCATION:5-405
-DTSTART:20231120T170000Z
-SUMMARY:ПЗ Стратегическое развитие организации
-UID:89a0f60d-bbdd-4342-a01d-a9a9b07819f8@89a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231227T183000Z
-LOCATION:5-103
-DTSTART:20231227T170000Z
-SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:331782ac-3817-48f5-a131-ad4a5e3c3ee6@3317.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231031T164500Z
-LOCATION:5-401
-DTSTART:20231031T151500Z
-SUMMARY:ПЗ Управленческая экономика
-UID:65e2af07-a975-4342-9742-b3d872d4cdf0@65e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20230928T150000Z
-LOCATION:Орш. Б-605
-DTSTART:20230928T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:771b7ad2-1b65-4c2c-8b95-425437c16cd2@771b.org
+UID:613d1556-354b-4bf3-a416-ae60392df868@613d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арсеньева Наталья Валерьевна
@@ -975,151 +23,55 @@ DTEND:20231025T164500Z
 LOCATION:5-104
 DTSTART:20231025T151500Z
 SUMMARY:ПЗ Концепции стратегического управления
-UID:1e90c9d9-88e2-45bf-abab-88abbfc528fd@1e90.org
+UID:8f4c66da-24fa-42da-b77b-e123d674f5d2@8f4c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231113T164500Z
-LOCATION:5-104
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Технологическое предпринимательство
-UID:9380499e-9d58-4709-a5bc-157cffef087b@9380.org
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20231221T164500Z
+LOCATION:Орш. Б-605
+DTSTART:20231221T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:4c8d128d-2bea-4886-a55b-62a309de19cf@4c8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231227T164500Z
+LOCATION:5-103
+DTSTART:20231227T151500Z
+SUMMARY:ПЗ Финансово-инвестиционные стратегии
+UID:bd91df09-6ab1-45a0-aabc-4b2017d8838e@bd91.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231122T183000Z
+DTEND:20231108T164500Z
 LOCATION:5-104
-DTSTART:20231122T170000Z
+DTSTART:20231108T151500Z
 SUMMARY:ПЗ Концепции стратегического управления
-UID:3a06d284-0dba-4e01-bd0a-d623663d1096@3a06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231213T164500Z
-LOCATION:5-103
-DTSTART:20231213T151500Z
-SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:c0b82f17-008c-4859-814a-812311821867@c0b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Лысакова Елена Николаевна
-DTEND:20231102T164500Z
-LOCATION:5-101
-DTSTART:20231102T151500Z
-SUMMARY:ЛК Психология и педагогика
-UID:0ef67e28-2df6-4536-a214-c32cc053aa3a@0ef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231128T183000Z
-LOCATION:5-401
-DTSTART:20231128T170000Z
-SUMMARY:ПЗ Управленческая экономика
-UID:0bb997ab-1a2e-4433-a7e1-394722709bd5@0bb9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20230906T164500Z
-LOCATION:5-103
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Финансово-инвестиционные стратегии
-UID:da79fcb1-fccc-4bba-918f-87a1efd963af@da79.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231114T164500Z
-LOCATION:5-401
-DTSTART:20231114T151500Z
-SUMMARY:ПЗ Управленческая экономика
-UID:0a3c4ce5-4e25-41c4-94ea-413aecef63e8@0a3c.org
+UID:53be0be0-2419-44bc-a582-c3f1dbe0a7b7@53be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231225T183000Z
+DTEND:20231127T183000Z
 LOCATION:5-104
-DTSTART:20231225T170000Z
+DTSTART:20231127T170000Z
 SUMMARY:ПЗ Технологическое предпринимательство
-UID:eb8f0fa9-cfc8-4f01-87b7-ab56a6cf5d1b@eb8f.org
+UID:99d0dfce-32b1-4774-a4ca-27c67d8a9055@99d0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20230905T183000Z
-LOCATION:5-401
-DTSTART:20230905T170000Z
-SUMMARY:ЛК Управленческая экономика
-UID:a1750061-4994-4420-adc9-6a0d0ab1582b@a175.org
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20231026T150000Z
+LOCATION:Орш. Б-605
+DTSTART:20231026T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:5944f009-7e68-413f-9e62-5a974665c05a@5944.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Тарасова Наталья Владимировна
-DTEND:20231225T164500Z
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20230927T183000Z
 LOCATION:5-104
-DTSTART:20231225T151500Z
-SUMMARY:ПЗ Технологическое предпринимательство
-UID:643a9701-28eb-4465-b175-849b7472895c@643a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231208T164500Z
-LOCATION:5-112
-DTSTART:20231208T151500Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:b95760f9-3689-42a3-b074-4869762126af@b957.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231122T164500Z
-LOCATION:5-104
-DTSTART:20231122T151500Z
-SUMMARY:ПЗ Концепции стратегического управления
-UID:254a9aea-1e1d-445f-a333-df33ebcc5b1a@254a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231208T183000Z
-LOCATION:5-112
-DTSTART:20231208T170000Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:49efc0a9-db2a-442c-96ca-93914e10f06d@49ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231101T164500Z
-LOCATION:5-103
-DTSTART:20231101T151500Z
-SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:756a3bfb-fddc-4154-a6a9-7d6e9cef5642@756a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20231018T164500Z
-LOCATION:5-103
-DTSTART:20231018T151500Z
-SUMMARY:ПЗ Финансово-инвестиционные стратегии
-UID:025d0169-7c4d-48a5-a1e0-ded2eb1bf168@025d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231121T183000Z
-LOCATION:5-401
-DTSTART:20231121T170000Z
-SUMMARY:ПЗ Управленческая экономика
-UID:0bc836a1-32cf-4fd2-8dee-31ab8230fa10@0bc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20230915T164500Z
-LOCATION:5-112
-DTSTART:20230915T151500Z
-SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
-UID:024bc8ed-29c3-4a59-9733-1567604f9eb9@024b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Соболев Леонид Борисович
-DTEND:20231003T164500Z
-LOCATION:5-401
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Управленческая экономика
-UID:faccb276-625b-4b16-9b8e-a01118770bbd@facc.org
+DTSTART:20230927T170000Z
+SUMMARY:ЛК Концепции стратегического управления
+UID:906a1d19-1efe-46b5-83ec-bc238e412d63@906a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арсеньева Наталья Валерьевна
@@ -1127,47 +79,63 @@ DTEND:20231206T183000Z
 LOCATION:5-104
 DTSTART:20231206T170000Z
 SUMMARY:ПЗ Концепции стратегического управления
-UID:43f6a5d7-7716-440c-8401-cfadcbe06555@43f6.org
+UID:1c058a90-515d-42ee-8932-c8119097397d@1c05.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231011T164500Z
+DTEND:20231013T164500Z
+LOCATION:5-112
+DTSTART:20231013T151500Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:6374ebae-d88e-4c0a-9e59-8a666c8b73d7@6374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20230904T164500Z
 LOCATION:5-104
-DTSTART:20231011T151500Z
-SUMMARY:ЛК Концепции стратегического управления
-UID:3e2a4055-5300-422f-b50d-6e68a64ea0e1@3e2a.org
+DTSTART:20230904T151500Z
+SUMMARY:ЛК Технологическое предпринимательство
+UID:2c8b590c-afa7-4011-903e-c063903e936d@2c8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231016T164500Z
+LOCATION:5-104
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Технологическое предпринимательство
+UID:064f15fa-17ee-4f93-811c-2a6ea71f8d97@064f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231027T164500Z
+LOCATION:5-112
+DTSTART:20231027T151500Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:852c31f9-8b18-4af4-9262-b1f3795c325b@852c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
-DTEND:20230920T183000Z
+DTEND:20231018T183000Z
 LOCATION:5-103
-DTSTART:20230920T170000Z
-SUMMARY:ЛК Финансово-инвестиционные стратегии
-UID:e39c488a-6adb-4a6a-9aa4-c7daf7c8c995@e39c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
-DTEND:20231009T183000Z
-LOCATION:5-405
-DTSTART:20231009T170000Z
-SUMMARY:ЛК Стратегическое развитие организации
-UID:873b4ae2-352d-4657-8abc-5c590d59d3df@873b.org
+DTSTART:20231018T170000Z
+SUMMARY:ПЗ Финансово-инвестиционные стратегии
+UID:7b220521-0b54-40a4-8149-7a22ba196685@7b22.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Вечеринина Елена Алексеевна
-DTEND:20231012T150000Z
+DTEND:20231123T150000Z
 LOCATION:Орш. Б-605
-DTSTART:20231012T133000Z
+DTSTART:20231123T133000Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:a2658018-e589-45dc-a3a9-e6deb8a965fe@a265.org
+UID:d7ec87ec-008a-47da-8d74-e24e2a898f7d@d7ec.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Арсеньева Наталья Валерьевна
-DTEND:20231013T183000Z
-LOCATION:5-112
-DTSTART:20231013T170000Z
-SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
-UID:e9f60b14-add1-474c-b900-ab757f4f7f36@e9f6.org
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20231207T164500Z
+LOCATION:Орш. Б-605
+DTSTART:20231207T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:36430156-8483-4c16-a2b9-2b635e87b3c1@3643.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арсеньева Наталья Валерьевна
@@ -1175,7 +143,279 @@ DTEND:20231106T164500Z
 LOCATION:5-405
 DTSTART:20231106T151500Z
 SUMMARY:ПЗ Стратегическое развитие организации
-UID:7eb28479-0f0b-43d6-8470-93876b77e694@7eb2.org
+UID:6b0716fa-2c41-4913-b72d-ec8cd2e79e45@6b07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231204T183000Z
+LOCATION:5-405
+DTSTART:20231204T170000Z
+SUMMARY:ПЗ Стратегическое развитие организации
+UID:e1890a49-e08b-461d-8651-44bd8b70ea6a@e189.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20230906T183000Z
+LOCATION:5-103
+DTSTART:20230906T170000Z
+SUMMARY:ЛК Финансово-инвестиционные стратегии
+UID:3b2d5ad3-4ef5-4dd4-bba6-154b766a535a@3b2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231002T164500Z
+LOCATION:5-104
+DTSTART:20231002T151500Z
+SUMMARY:ЛК Технологическое предпринимательство
+UID:d79214d2-07dc-4376-b020-763a4acd3c5f@d792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231121T183000Z
+LOCATION:5-401
+DTSTART:20231121T170000Z
+SUMMARY:ПЗ Управленческая экономика
+UID:96752a5e-3a4c-4ede-9021-7b7f015d9c81@9675.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231222T183000Z
+LOCATION:5-112
+DTSTART:20231222T170000Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:4f22f555-60ef-4d46-8b34-b70ef7a6dbac@4f22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20230914T150000Z
+LOCATION:Орш. Б-605
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:06c68c1f-1b0f-4bd5-85e4-df8d3bd600d4@06c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231218T183000Z
+LOCATION:5-405
+DTSTART:20231218T170000Z
+SUMMARY:ПЗ Стратегическое развитие организации
+UID:c68737b4-7e53-4b9e-ac8f-2755730cae69@c687.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231115T183000Z
+LOCATION:5-103
+DTSTART:20231115T170000Z
+SUMMARY:ПЗ Финансово-инвестиционные стратегии
+UID:67ddc281-2786-4998-aa30-5ac713cdce5e@67dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231023T164500Z
+LOCATION:5-405
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Стратегическое развитие организации
+UID:95a74eb3-02c5-4fa0-a829-71c3fbe63010@95a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231017T183000Z
+LOCATION:5-401
+DTSTART:20231017T170000Z
+SUMMARY:ПЗ Управленческая экономика
+UID:86241ffb-f677-4666-9bb1-55f604f5858a@8624.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231114T164500Z
+LOCATION:5-401
+DTSTART:20231114T151500Z
+SUMMARY:ПЗ Управленческая экономика
+UID:6c230add-1fd3-40a8-809c-8b6e6e37a9ea@6c23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231101T164500Z
+LOCATION:5-103
+DTSTART:20231101T151500Z
+SUMMARY:ПЗ Финансово-инвестиционные стратегии
+UID:e7928995-591f-4201-af99-6e44c1945a9c@e792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20230926T164500Z
+LOCATION:5-401
+DTSTART:20230926T151500Z
+SUMMARY:ЛК Управленческая экономика
+UID:9de35f8c-798d-4a21-b59e-16721e9babfc@9de3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231208T164500Z
+LOCATION:5-112
+DTSTART:20231208T151500Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:4f089b7e-0373-4c9d-9352-a3e11df97942@4f08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231002T183000Z
+LOCATION:5-104
+DTSTART:20231002T170000Z
+SUMMARY:ЛК Технологическое предпринимательство
+UID:d1ac02e1-4b6f-4492-972b-3a0dff09487e@d1ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20230918T183000Z
+LOCATION:5-104
+DTSTART:20230918T170000Z
+SUMMARY:ЛК Технологическое предпринимательство
+UID:a8fe24a2-e757-47cb-b569-9d5730da0987@a8fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20231012T150000Z
+LOCATION:Орш. Б-605
+DTSTART:20231012T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:ac9e4152-dc5f-4517-98dc-cb03735d0704@ac9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231027T183000Z
+LOCATION:5-112
+DTSTART:20231027T170000Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:70ee63dc-2e9a-4b22-b74b-f2cbf5a8b7a5@70ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231115T164500Z
+LOCATION:5-103
+DTSTART:20231115T151500Z
+SUMMARY:ПЗ Финансово-инвестиционные стратегии
+UID:4bc0ac9b-00d3-44a8-a261-3713875b0517@4bc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20230926T183000Z
+LOCATION:5-401
+DTSTART:20230926T170000Z
+SUMMARY:ЛК Управленческая экономика
+UID:a8b993d5-85e0-4c4f-84a1-bded8f7e507f@a8b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231129T164500Z
+LOCATION:5-103
+DTSTART:20231129T151500Z
+SUMMARY:ПЗ Финансово-инвестиционные стратегии
+UID:a3a541a8-c984-4837-bc6d-f120beb1906c@a3a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20230905T183000Z
+LOCATION:5-401
+DTSTART:20230905T170000Z
+SUMMARY:ЛК Управленческая экономика
+UID:8ffdb004-0c9b-44bc-88f2-c6671b3f4ef2@8ffd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231005T164500Z
+LOCATION:5-101
+DTSTART:20231005T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:580aea55-a8d7-43d6-a7bd-a560ded8af6d@580a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231016T183000Z
+LOCATION:5-104
+DTSTART:20231016T170000Z
+SUMMARY:ПЗ Технологическое предпринимательство
+UID:34a48875-c8de-4b3e-8ff9-f9361951d9e5@34a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231129T183000Z
+LOCATION:5-103
+DTSTART:20231129T170000Z
+SUMMARY:ПЗ Финансово-инвестиционные стратегии
+UID:c113a0de-2e15-4c0e-9a69-59f5afe792d0@c113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231122T164500Z
+LOCATION:5-104
+DTSTART:20231122T151500Z
+SUMMARY:ПЗ Концепции стратегического управления
+UID:fcaf68f0-a041-47e4-84f3-99a378c48ca9@fcaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
+DTEND:20231009T164500Z
+LOCATION:5-405
+DTSTART:20231009T151500Z
+SUMMARY:ЛК Стратегическое развитие организации
+UID:1b2dad76-d143-490c-aa4c-c9634a54b19d@1b2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231031T183000Z
+LOCATION:5-401
+DTSTART:20231031T170000Z
+SUMMARY:ПЗ Управленческая экономика
+UID:4ada05cd-847b-47e4-b774-4deed5c2eeb0@4ada.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231225T183000Z
+LOCATION:5-104
+DTSTART:20231225T170000Z
+SUMMARY:ПЗ Технологическое предпринимательство
+UID:815206c0-c430-44c4-94f4-5f96b5877c67@8152.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231130T164500Z
+LOCATION:5-101
+DTSTART:20231130T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:12962c09-2f8f-4706-8d94-05b600625fb9@1296.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231107T183000Z
+LOCATION:5-401
+DTSTART:20231107T170000Z
+SUMMARY:ПЗ Управленческая экономика
+UID:8c569794-98a1-41d3-a14c-9499eb9429c9@8c56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231206T164500Z
+LOCATION:5-104
+DTSTART:20231206T151500Z
+SUMMARY:ПЗ Концепции стратегического управления
+UID:c719f55b-bc1e-4f92-a12d-884ba1c519c6@c719.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231220T183000Z
+LOCATION:5-104
+DTSTART:20231220T170000Z
+SUMMARY:ПЗ Концепции стратегического управления
+UID:41d2e2cd-1a01-49c7-a32a-c7c6a6f45b84@41d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20230920T183000Z
+LOCATION:5-103
+DTSTART:20230920T170000Z
+SUMMARY:ЛК Финансово-инвестиционные стратегии
+UID:57cdffa6-7b24-4730-9581-1e91e4119e78@57cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Арсеньева Наталья Валерьевна
@@ -1183,6 +423,766 @@ DTEND:20231106T183000Z
 LOCATION:5-405
 DTSTART:20231106T170000Z
 SUMMARY:ПЗ Стратегическое развитие организации
-UID:13786ef4-3fcb-4e3a-b02d-33d2c337ec76@1378.org
+UID:55581de0-2491-43e2-ac06-8845d030c70e@5558.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231211T164500Z
+LOCATION:5-104
+DTSTART:20231211T151500Z
+SUMMARY:ПЗ Технологическое предпринимательство
+UID:31f82f7e-17f1-4194-a5e2-ec9fd82644ad@31f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231214T164500Z
+LOCATION:5-101
+DTSTART:20231214T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:b9755d1a-3920-4cdf-8672-2cc0ab1bdda5@b975.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231124T164500Z
+LOCATION:5-112
+DTSTART:20231124T151500Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:846d6f30-4ced-4120-9305-737fc36f4a02@846d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20230929T164500Z
+LOCATION:5-112
+DTSTART:20230929T151500Z
+SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
+UID:0cb04342-a9ca-426b-818e-6ccd4ae615d3@0cb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231031T164500Z
+LOCATION:5-401
+DTSTART:20231031T151500Z
+SUMMARY:ПЗ Управленческая экономика
+UID:164e7caf-877f-4da9-adda-5c7377f5b35b@164e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
+DTEND:20230925T183000Z
+LOCATION:5-405
+DTSTART:20230925T170000Z
+SUMMARY:ЛК Стратегическое развитие организации
+UID:a1ba4128-5447-4722-acd5-075935c12371@a1ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231102T164500Z
+LOCATION:5-101
+DTSTART:20231102T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:6a7d422c-d3a4-4721-aaac-cf723ace8ee6@6a7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231108T183000Z
+LOCATION:5-104
+DTSTART:20231108T170000Z
+SUMMARY:ПЗ Концепции стратегического управления
+UID:1c30403e-c4b3-4531-a657-5fe5b79017c4@1c30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231019T183000Z
+LOCATION:5-101
+DTSTART:20231019T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:6093c81e-4519-4f57-8a65-062bbbfff8d7@6093.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231213T183000Z
+LOCATION:5-103
+DTSTART:20231213T170000Z
+SUMMARY:ПЗ Финансово-инвестиционные стратегии
+UID:06ef1b07-79ed-4a0b-8125-0aaa213d8a65@06ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231121T164500Z
+LOCATION:5-401
+DTSTART:20231121T151500Z
+SUMMARY:ПЗ Управленческая экономика
+UID:53571316-f0d6-4f37-b3f5-cea1489ea9b1@5357.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231010T164500Z
+LOCATION:5-401
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Управленческая экономика
+UID:91105099-adcf-442a-88f5-1513bc2ae5e6@9110.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20230928T164500Z
+LOCATION:Орш. Б-605
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:c8d1641c-e7b5-4ba7-b24f-21d27e80d010@c8d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20230921T164500Z
+LOCATION:5-101
+DTSTART:20230921T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:0938b157-5081-4253-bf37-c858d2c8a86f@0938.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20230929T183000Z
+LOCATION:5-112
+DTSTART:20230929T170000Z
+SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
+UID:fe8b4920-5cef-41dd-b5fc-d065bcceeb44@fe8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231102T183000Z
+LOCATION:5-101
+DTSTART:20231102T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:c96dedb0-effd-4948-811c-4450ea749b65@c96d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231225T164500Z
+LOCATION:5-104
+DTSTART:20231225T151500Z
+SUMMARY:ПЗ Технологическое предпринимательство
+UID:2ffea1d9-c861-4f49-819d-43edd3999667@2ffe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20230907T164500Z
+LOCATION:5-101
+DTSTART:20230907T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:b4f970b9-6a4b-4b5e-8f49-f133016933c5@b4f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231211T183000Z
+LOCATION:5-104
+DTSTART:20231211T170000Z
+SUMMARY:ПЗ Технологическое предпринимательство
+UID:a7dd2df5-66f0-4a1b-a41b-2b2dcaa50b5a@a7dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231018T164500Z
+LOCATION:5-103
+DTSTART:20231018T151500Z
+SUMMARY:ПЗ Финансово-инвестиционные стратегии
+UID:738340db-5cab-4ddb-b479-6df74cd4912d@7383.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231204T164500Z
+LOCATION:5-405
+DTSTART:20231204T151500Z
+SUMMARY:ПЗ Стратегическое развитие организации
+UID:5b0b5099-f0c5-4275-bedc-c0e3d1c048dd@5b0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20230918T164500Z
+LOCATION:5-104
+DTSTART:20230918T151500Z
+SUMMARY:ЛК Технологическое предпринимательство
+UID:8a9337b0-855f-4a06-87c4-0a3086f04a32@8a93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231025T183000Z
+LOCATION:5-104
+DTSTART:20231025T170000Z
+SUMMARY:ПЗ Концепции стратегического управления
+UID:9eac713d-ae34-4894-9c8e-a566406158fc@9eac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231005T183000Z
+LOCATION:5-101
+DTSTART:20231005T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:69950635-b3ea-454a-a113-abe190a0219e@6995.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231130T183000Z
+LOCATION:5-101
+DTSTART:20231130T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:d6f95416-0767-4d2c-897d-9e768bd0305e@d6f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20230921T183000Z
+LOCATION:5-101
+DTSTART:20230921T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:d87dfb64-dc13-4093-9061-4a80190e7e40@d87d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231120T183000Z
+LOCATION:5-405
+DTSTART:20231120T170000Z
+SUMMARY:ПЗ Стратегическое развитие организации
+UID:6a074fa1-519d-45a6-8e4a-ec74698e3a52@6a07.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231124T183000Z
+LOCATION:5-112
+DTSTART:20231124T170000Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:e22521c1-8df6-4b15-841c-6ac6d96a978d@e225.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20230904T183000Z
+LOCATION:5-104
+DTSTART:20230904T170000Z
+SUMMARY:ЛК Технологическое предпринимательство
+UID:454cb64d-059b-4647-9e62-c0f93b7d4bca@454c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20230901T164500Z
+LOCATION:5-112
+DTSTART:20230901T151500Z
+SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
+UID:0c6d2cfa-634b-4e6f-8725-e4281281046a@0c6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20230907T183000Z
+LOCATION:5-101
+DTSTART:20230907T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:d401ae48-5646-4590-903a-e5721d5de44b@d401.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231120T164500Z
+LOCATION:5-405
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Стратегическое развитие организации
+UID:60e401af-dfbe-4211-a6cf-a483069940fd@60e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231228T183000Z
+LOCATION:5-101
+DTSTART:20231228T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:f63b0b62-6d13-47c1-89c5-34046b1c5e08@f63b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
+DTEND:20230925T164500Z
+LOCATION:5-405
+DTSTART:20230925T151500Z
+SUMMARY:ЛК Стратегическое развитие организации
+UID:5cf11a85-5b96-4256-bd7f-a547652f6d35@5cf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231107T164500Z
+LOCATION:5-401
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Управленческая экономика
+UID:7fdce08f-ef2f-4eb1-9490-470e7bfde119@7fdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20230920T164500Z
+LOCATION:5-103
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Финансово-инвестиционные стратегии
+UID:f992bbe0-d129-4d6e-9389-f6265d5ed6b9@f992.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231113T164500Z
+LOCATION:5-104
+DTSTART:20231113T151500Z
+SUMMARY:ПЗ Технологическое предпринимательство
+UID:3cf90332-1d3a-411c-8c73-0a3a4daf794e@3cf9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231205T164500Z
+LOCATION:5-401
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Управленческая экономика
+UID:21f89284-4cfd-4eac-a5a3-6251d0702b7d@21f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231011T164500Z
+LOCATION:5-104
+DTSTART:20231011T151500Z
+SUMMARY:ЛК Концепции стратегического управления
+UID:832d7289-3733-4d26-acec-dacd717de077@832d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20230927T164500Z
+LOCATION:5-104
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Концепции стратегического управления
+UID:3cd10ea9-7814-4d49-852b-193dfe31edfe@3cd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231003T183000Z
+LOCATION:5-401
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Управленческая экономика
+UID:a7e5e506-0d34-4013-8bde-e19429c6d6b4@a7e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20230914T164500Z
+LOCATION:Орш. Б-605
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:fdc2b6fa-aaa9-4841-b642-14ce2de0bb5c@fdc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20230901T183000Z
+LOCATION:5-112
+DTSTART:20230901T170000Z
+SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
+UID:335f2b3c-0fd1-4f97-87b0-9400f1fb654b@335f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20230913T183000Z
+LOCATION:5-104
+DTSTART:20230913T170000Z
+SUMMARY:ЛК Концепции стратегического управления
+UID:73160e09-9537-4c7d-9d5c-e5b72efb2e6c@7316.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20230915T164500Z
+LOCATION:5-112
+DTSTART:20230915T151500Z
+SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
+UID:76b66067-49d0-4526-88ed-de8ac1977400@76b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20230919T164500Z
+LOCATION:5-401
+DTSTART:20230919T151500Z
+SUMMARY:ЛК Управленческая экономика
+UID:f9119fe0-a6f5-4478-bc5a-5abc1e31f470@f911.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231030T183000Z
+LOCATION:5-104
+DTSTART:20231030T170000Z
+SUMMARY:ПЗ Технологическое предпринимательство
+UID:1b8af487-7f90-42a2-833b-9737074bb052@1b8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231017T164500Z
+LOCATION:5-401
+DTSTART:20231017T151500Z
+SUMMARY:ПЗ Управленческая экономика
+UID:ac99970d-15a0-41f7-8b79-1a582c970e2e@ac99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20231109T164500Z
+LOCATION:Орш. Б-605
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:99aced48-53dc-4e81-a37c-6a5392c8e223@99ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231218T164500Z
+LOCATION:5-405
+DTSTART:20231218T151500Z
+SUMMARY:ПЗ Стратегическое развитие организации
+UID:25e8edf4-c66f-4313-b943-4d3425875180@25e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231127T164500Z
+LOCATION:5-104
+DTSTART:20231127T151500Z
+SUMMARY:ПЗ Технологическое предпринимательство
+UID:5a4ed218-bb29-40b9-849d-0877a9ea5e69@5a4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231208T183000Z
+LOCATION:5-112
+DTSTART:20231208T170000Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:4ebdef26-ee19-4b27-af41-96670a963f0c@4ebd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231114T183000Z
+LOCATION:5-401
+DTSTART:20231114T170000Z
+SUMMARY:ПЗ Управленческая экономика
+UID:2a5eb83f-f471-422f-a885-08f3347e0034@2a5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231113T183000Z
+LOCATION:5-104
+DTSTART:20231113T170000Z
+SUMMARY:ПЗ Технологическое предпринимательство
+UID:f5b97849-cfd4-4633-8a4c-3bc7f34f7e0a@f5b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231024T164500Z
+LOCATION:5-401
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Управленческая экономика
+UID:370196f8-fb6c-460f-867f-534c95ce6ab2@3701.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231019T164500Z
+LOCATION:5-101
+DTSTART:20231019T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:ab069bf2-012b-4d02-85db-6bbbffc48d3d@ab06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231228T164500Z
+LOCATION:5-101
+DTSTART:20231228T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:9d7685e5-bf9f-4b23-b444-93bad149a7a8@9d76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231004T164500Z
+LOCATION:5-103
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Финансово-инвестиционные стратегии
+UID:e4f84f98-2c19-417f-9d24-4e03dadaf766@e4f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231110T183000Z
+LOCATION:5-112
+DTSTART:20231110T170000Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:9fec4507-3720-4684-a3c2-e3465bfcd7ce@9fec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231023T183000Z
+LOCATION:5-405
+DTSTART:20231023T170000Z
+SUMMARY:ПЗ Стратегическое развитие организации
+UID:835d749d-c61f-4a50-8758-824f63e80d69@835d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231011T183000Z
+LOCATION:5-104
+DTSTART:20231011T170000Z
+SUMMARY:ЛК Концепции стратегического управления
+UID:06e62677-015b-4000-b5b8-d5718a1c818f@06e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Тарасова Наталья Владимировна
+DTEND:20231030T164500Z
+LOCATION:5-104
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Технологическое предпринимательство
+UID:901487a5-e9a8-48c4-8b16-bfb2d98e6868@9014.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20230912T164500Z
+LOCATION:5-401
+DTSTART:20230912T151500Z
+SUMMARY:ЛК Управленческая экономика
+UID:0ca22f53-8dd7-400c-9338-62744d2a88fe@0ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231122T183000Z
+LOCATION:5-104
+DTSTART:20231122T170000Z
+SUMMARY:ПЗ Концепции стратегического управления
+UID:50007aa1-417c-4866-9689-057b1a1c4aa2@5000.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231110T164500Z
+LOCATION:5-112
+DTSTART:20231110T151500Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:147369e8-2d52-4902-ac55-bed3dba01eba@1473.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231116T164500Z
+LOCATION:5-101
+DTSTART:20231116T151500Z
+SUMMARY:ЛК Психология и педагогика
+UID:8fa40830-10a9-468a-8c77-db466801045a@8fa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20231123T164500Z
+LOCATION:Орш. Б-605
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:be7cd91b-2b3d-452e-b198-a69694b35466@be7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20230905T164500Z
+LOCATION:5-401
+DTSTART:20230905T151500Z
+SUMMARY:ЛК Управленческая экономика
+UID:566779d9-a9d4-4174-bb3b-3e3219926f0d@5667.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20230915T183000Z
+LOCATION:5-112
+DTSTART:20230915T170000Z
+SUMMARY:ЛК Управление жизненным циклом продукции в цифровой экономике
+UID:4abdd814-9434-4baa-b7cc-ec76b2372c15@4abd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231220T164500Z
+LOCATION:5-104
+DTSTART:20231220T151500Z
+SUMMARY:ПЗ Концепции стратегического управления
+UID:f75fbf8e-db5f-4248-b47b-1c2890ce30a9@f75f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231003T164500Z
+LOCATION:5-401
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Управленческая экономика
+UID:54c35dcf-6b0c-4230-8e0d-b07778a46f67@54c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231205T183000Z
+LOCATION:5-401
+DTSTART:20231205T170000Z
+SUMMARY:ПЗ Управленческая экономика
+UID:8dfa0354-792c-4f67-bb1d-e53f17b16610@8dfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
+DTEND:20230911T183000Z
+LOCATION:5-405
+DTSTART:20230911T170000Z
+SUMMARY:ЛК Стратегическое развитие организации
+UID:72809f55-a46e-48b9-83be-c34fcca7ee06@7280.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20230928T150000Z
+LOCATION:Орш. Б-605
+DTSTART:20230928T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:4f761ccc-6d84-4f7b-9a00-0aab511a3b07@4f76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20230912T183000Z
+LOCATION:5-401
+DTSTART:20230912T170000Z
+SUMMARY:ЛК Управленческая экономика
+UID:d027f8d7-0949-4930-a2f7-ba3fd9520f29@d027.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231013T183000Z
+LOCATION:5-112
+DTSTART:20231013T170000Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:fc619597-827b-44c8-8715-67a11a299f2d@fc61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20231026T164500Z
+LOCATION:Орш. Б-605
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:2c2532ce-62d4-40d3-8d01-aaa0fe28f949@2c25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231213T164500Z
+LOCATION:5-103
+DTSTART:20231213T151500Z
+SUMMARY:ПЗ Финансово-инвестиционные стратегии
+UID:acf39006-a5f6-45b3-943c-42192c6d4bf9@acf3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
+DTEND:20230911T164500Z
+LOCATION:5-405
+DTSTART:20230911T151500Z
+SUMMARY:ЛК Стратегическое развитие организации
+UID:da1a04cc-451a-44a7-8831-b2064bc69c75@da1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20230919T183000Z
+LOCATION:5-401
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Управленческая экономика
+UID:d6d1e0da-c094-4725-aee9-19eb99415f1b@d6d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231004T183000Z
+LOCATION:5-103
+DTSTART:20231004T170000Z
+SUMMARY:ЛК Финансово-инвестиционные стратегии
+UID:5b3e4e56-ec3a-49ce-8c73-48d8a007204b@5b3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20231012T164500Z
+LOCATION:Орш. Б-605
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:aba35033-aa2a-49c1-82b7-0d8adc080470@aba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231128T183000Z
+LOCATION:5-401
+DTSTART:20231128T170000Z
+SUMMARY:ПЗ Управленческая экономика
+UID:2fcf8913-8832-45ff-a4f8-d4705d7d2ad5@2fcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20230906T164500Z
+LOCATION:5-103
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Финансово-инвестиционные стратегии
+UID:c1495d41-9479-4e56-92c1-6601c249dd91@c149.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ПУТЯТИНА ЛЮДМИЛА МИХАЙЛОВНА
+DTEND:20231009T183000Z
+LOCATION:5-405
+DTSTART:20231009T170000Z
+SUMMARY:ЛК Стратегическое развитие организации
+UID:30796360-fa55-40bd-9123-eb916f993799@3079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231024T183000Z
+LOCATION:5-401
+DTSTART:20231024T170000Z
+SUMMARY:ПЗ Управленческая экономика
+UID:9a96cc1b-8883-4a6e-91dc-ce3d1f12a4ca@9a96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231116T183000Z
+LOCATION:5-101
+DTSTART:20231116T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:03796637-dd3f-477a-9de7-63d0d56be391@0379.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20231109T150000Z
+LOCATION:Орш. Б-605
+DTSTART:20231109T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:bff43490-d068-4773-a346-1678588eaa34@bff4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20230913T164500Z
+LOCATION:5-104
+DTSTART:20230913T151500Z
+SUMMARY:ЛК Концепции стратегического управления
+UID:b0d6e188-141d-40fc-b35a-fe5e706b56d8@b0d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Лысакова Елена Николаевна
+DTEND:20231214T183000Z
+LOCATION:5-101
+DTSTART:20231214T170000Z
+SUMMARY:ПЗ Психология и педагогика
+UID:ce9802d3-6754-445e-86b4-9ab5fdf6cc2d@ce98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БАРСОВА ТАТЬЯНА НИКОЛАЕВНА
+DTEND:20231227T183000Z
+LOCATION:5-103
+DTSTART:20231227T170000Z
+SUMMARY:ПЗ Финансово-инвестиционные стратегии
+UID:f62aad7e-b0a3-49cb-b633-2744023e451a@f62a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20231221T150000Z
+LOCATION:Орш. Б-605
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:9ca62ff9-3b6c-4c52-819a-fc8793fcac77@9ca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Соболев Леонид Борисович
+DTEND:20231010T183000Z
+LOCATION:5-401
+DTSTART:20231010T170000Z
+SUMMARY:ПЗ Управленческая экономика
+UID:a28c73e7-3703-4246-a195-3804f8e68b1a@a28c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Вечеринина Елена Алексеевна
+DTEND:20231207T150000Z
+LOCATION:Орш. Б-605
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:a0c58aa9-4baa-45d5-9f14-1a09a781fa6c@a0c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Арсеньева Наталья Валерьевна
+DTEND:20231222T164500Z
+LOCATION:5-112
+DTSTART:20231222T151500Z
+SUMMARY:ПЗ Управление жизненным циклом продукции в цифровой экономике
+UID:47e5d128-25d3-42a8-8b7f-928af64ec4eb@47e5.org
 END:VEVENT
 END:VCALENDAR

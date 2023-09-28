@@ -3,91 +3,11 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20231025T164500Z
+DTEND:20230927T164500Z
 LOCATION:Орш. В-414
-DTSTART:20231025T151500Z
-SUMMARY:ЛР Компьютерное моделирование пространственных форм
-UID:97fe2c6b-0f88-4e77-85d1-fdd73b2c7b83@97fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20230929T164500Z
-LOCATION:Орш. В-413
-DTSTART:20230929T151500Z
-SUMMARY:ПЗ Интеллектуальные системы автоматики
-UID:656cfc08-02d1-4a0c-94bd-da9fae49a95f@656c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20230915T164500Z
-LOCATION:Орш. В-413
-DTSTART:20230915T151500Z
-SUMMARY:ПЗ Интеллектуальные системы автоматики
-UID:d736cdb3-702f-4f73-9071-4e6a46c11a8e@d736.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20231018T164500Z
-LOCATION:Орш. В-414
-DTSTART:20231018T151500Z
-SUMMARY:ПЗ Компьютерное моделирование пространственных форм
-UID:1cbb1aad-6327-4cb7-b26f-86e91c06fbc6@1cbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20231004T183000Z
-LOCATION:Орш. В-414
-DTSTART:20231004T170000Z
-SUMMARY:ЛК Компьютерное моделирование пространственных форм
-UID:7fab5fc1-7523-46df-b35e-ed3c14518cdb@7fab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20230929T183000Z
-LOCATION:Орш. В-413
-DTSTART:20230929T170000Z
-SUMMARY:ПЗ Интеллектуальные системы автоматики
-UID:5a7258be-0db4-43c7-997d-73d51b875cfc@5a72.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20230930T091500Z
-LOCATION:Орш. В-413
-DTSTART:20230930T074500Z
-SUMMARY:ПЗ Программирование микроконтроллеров
-UID:43cece5d-41dd-4ff8-b353-dedfde2e732b@43ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20231004T164500Z
-LOCATION:Орш. В-414
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Компьютерное моделирование пространственных форм
-UID:1a0e74d5-d11b-46f9-b0b2-2122d58bd348@1a0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231027T183000Z
-LOCATION:Орш. В-413
-DTSTART:20231027T170000Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:d9f2cef4-5988-4ab4-800c-d9d225651d00@d9f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20231011T164500Z
-LOCATION:Орш. В-414
-DTSTART:20231011T151500Z
-SUMMARY:ПЗ Компьютерное моделирование пространственных форм
-UID:3c9b1d42-4cd5-4b50-8cd1-584ff056f940@3c9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231130T164500Z
-LOCATION:Берн. 14-623
-DTSTART:20231130T151500Z
-SUMMARY:ЛК Основы программирования на языке Java
-UID:644ab347-7c67-4892-923b-bf47d6c835bf@644a.org
+DTSTART:20230927T151500Z
+SUMMARY:ПЗ Техническое документирование
+UID:7adf9750-0c7d-4266-92de-692f27e694ba@7adf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
@@ -95,47 +15,7 @@ DTEND:20230902T091500Z
 LOCATION:Орш. В-413
 DTSTART:20230902T074500Z
 SUMMARY:ЛК Программирование микроконтроллеров
-UID:31b3583e-8c1f-4f95-a451-9717dcfa9443@31b3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20231014T073000Z
-LOCATION:Орш. В-413
-DTSTART:20231014T060000Z
-SUMMARY:ПЗ Программирование микроконтроллеров
-UID:b1e67512-b7eb-46e4-bca0-7658d6baa315@b1e6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231130T183000Z
-LOCATION:Берн. 14-623
-DTSTART:20231130T170000Z
-SUMMARY:ПЗ Основы программирования на языке Java
-UID:57302cd3-fe37-4975-8ca5-68d2975b7ff9@5730.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20230916T091500Z
-LOCATION:Орш. В-413
-DTSTART:20230916T074500Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:fbc7c6ed-a93a-478f-b78a-498070abca30@fbc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231214T183000Z
-LOCATION:Берн. 14-623
-DTSTART:20231214T170000Z
-SUMMARY:ПЗ Основы программирования на языке Java
-UID:579f488b-bcb3-4d9b-b952-00724fdb3392@579f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20230902T073000Z
-LOCATION:Орш. В-413
-DTSTART:20230902T060000Z
-SUMMARY:ЛК Программирование микроконтроллеров
-UID:1162fd4a-558d-4ef1-b714-12048fe291b3@1162.org
+UID:b357079e-c8c2-46e0-b714-4ab1e21aaa55@b357.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Харитоненков Антон Игоревич
@@ -143,55 +23,7 @@ DTEND:20230913T164500Z
 LOCATION:Орш. В-414
 DTSTART:20230913T151500Z
 SUMMARY:ЛК Техническое документирование
-UID:759fb90f-db19-4a2d-8637-e2113b2c0fa7@759f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20231025T183000Z
-LOCATION:Орш. В-414
-DTSTART:20231025T170000Z
-SUMMARY:ЛР Компьютерное моделирование пространственных форм
-UID:206b6942-4efb-4788-bd0b-158861d8f66b@206b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20230927T164500Z
-LOCATION:Орш. В-414
-DTSTART:20230927T151500Z
-SUMMARY:ПЗ Техническое документирование
-UID:e27a4e89-d602-46e5-a623-b6a5bcc23987@e27a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20230930T073000Z
-LOCATION:Орш. В-413
-DTSTART:20230930T060000Z
-SUMMARY:ПЗ Программирование микроконтроллеров
-UID:4fc0c861-4b4d-4b02-b206-0cca12324e79@4fc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20230913T183000Z
-LOCATION:Орш. В-414
-DTSTART:20230913T170000Z
-SUMMARY:ЛК Техническое документирование
-UID:f1cbd3da-bfe4-4f2d-8dae-ac67ee0f554b@f1cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20230927T183000Z
-LOCATION:Орш. В-414
-DTSTART:20230927T170000Z
-SUMMARY:ПЗ Техническое документирование
-UID:af96f417-3094-4688-9eb4-074a88d9a326@af96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231027T164500Z
-LOCATION:Орш. В-413
-DTSTART:20231027T151500Z
-SUMMARY:ЛР Интеллектуальные системы автоматики
-UID:d9f13ad5-5dbb-4dec-818f-0885d7750e45@d9f1.org
+UID:17a9e7c6-f8b2-4f8d-b72a-c1ae31ce6fa1@17a9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
@@ -199,7 +31,55 @@ DTEND:20230915T183000Z
 LOCATION:Орш. В-413
 DTSTART:20230915T170000Z
 SUMMARY:ПЗ Интеллектуальные системы автоматики
-UID:7e77e622-da56-463c-8f2d-452ab78c8371@7e77.org
+UID:06ff25ad-7254-4e7a-9fb0-69f64169c88d@06ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харитоненков Антон Игоревич
+DTEND:20231018T164500Z
+LOCATION:Орш. В-414
+DTSTART:20231018T151500Z
+SUMMARY:ПЗ Компьютерное моделирование пространственных форм
+UID:671b5ee2-c310-4601-823a-d26fa7bcd9ee@671b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231130T164500Z
+LOCATION:Берн. 14-623
+DTSTART:20231130T151500Z
+SUMMARY:ЛК Основы программирования на языке Java
+UID:e4796ab3-162b-41cd-afc7-26d6573750a2@e479.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харитоненков Антон Игоревич
+DTEND:20231025T164500Z
+LOCATION:Орш. В-414
+DTSTART:20231025T151500Z
+SUMMARY:ЛР Компьютерное моделирование пространственных форм
+UID:648bd66f-0d54-4bac-b38e-b7aa85d41996@648b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20231014T073000Z
+LOCATION:Орш. В-413
+DTSTART:20231014T060000Z
+SUMMARY:ПЗ Программирование микроконтроллеров
+UID:e448cc15-aad8-4e59-83f9-03caf0d139ec@e448.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231214T183000Z
+LOCATION:Берн. 14-623
+DTSTART:20231214T170000Z
+SUMMARY:ПЗ Основы программирования на языке Java
+UID:f79fe2e4-30aa-4335-a541-afea9075e2bc@f79f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харитоненков Антон Игоревич
+DTEND:20231004T164500Z
+LOCATION:Орш. В-414
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Компьютерное моделирование пространственных форм
+UID:fd3c947e-9f72-4955-9331-f487f4303c3b@fd3c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
@@ -207,47 +87,47 @@ DTEND:20231013T183000Z
 LOCATION:Орш. В-413
 DTSTART:20231013T170000Z
 SUMMARY:ПЗ Интеллектуальные системы автоматики
-UID:906a1304-b257-4367-8d61-3e2a14e8964d@906a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
-DTEND:20230916T073000Z
-LOCATION:Орш. В-413
-DTSTART:20230916T060000Z
-SUMMARY:ЛР Программирование микроконтроллеров
-UID:7eb26682-9e30-4554-ae51-dc7c1d5486e8@7eb2.org
+UID:104df8d0-f884-48ce-b858-bba022b76afe@104d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20230920T164500Z
+DTEND:20230927T183000Z
 LOCATION:Орш. В-414
-DTSTART:20230920T151500Z
+DTSTART:20230927T170000Z
 SUMMARY:ПЗ Техническое документирование
-UID:743cbd07-8b7c-4526-adf2-95290c332b58@743c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20231018T183000Z
-LOCATION:Орш. В-414
-DTSTART:20231018T170000Z
-SUMMARY:ПЗ Компьютерное моделирование пространственных форм
-UID:b65f1e5c-63d7-4496-bf94-31a845196ab3@b65f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
-DTEND:20231013T164500Z
-LOCATION:Орш. В-413
-DTSTART:20231013T151500Z
-SUMMARY:ПЗ Интеллектуальные системы автоматики
-UID:90786e39-ef8f-4b7b-b521-12f57d2d1a12@9078.org
+UID:fbe7aa03-0b92-4e43-ae69-e33617f171a1@fbe7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
-DTEND:20231214T164500Z
+DTEND:20231130T183000Z
 LOCATION:Берн. 14-623
-DTSTART:20231214T151500Z
+DTSTART:20231130T170000Z
 SUMMARY:ПЗ Основы программирования на языке Java
-UID:76342222-7253-4ddd-9b61-1a18324702f9@7634.org
+UID:018911e4-a6f3-439e-94e3-2a9b310ebe95@0189.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харитоненков Антон Игоревич
+DTEND:20231025T183000Z
+LOCATION:Орш. В-414
+DTSTART:20231025T170000Z
+SUMMARY:ЛР Компьютерное моделирование пространственных форм
+UID:c8e0e09e-ed5a-46ee-a85c-e83a33e40055@c8e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харитоненков Антон Игоревич
+DTEND:20231011T164500Z
+LOCATION:Орш. В-414
+DTSTART:20231011T151500Z
+SUMMARY:ПЗ Компьютерное моделирование пространственных форм
+UID:3242ef99-f7d0-430e-83e7-3698eac3568b@3242.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20230902T073000Z
+LOCATION:Орш. В-413
+DTSTART:20230902T060000Z
+SUMMARY:ЛК Программирование микроконтроллеров
+UID:4e46ba9a-3ea9-4097-827c-d7a83b7999cd@4e46.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
@@ -255,15 +135,71 @@ DTEND:20231014T091500Z
 LOCATION:Орш. В-413
 DTSTART:20231014T074500Z
 SUMMARY:ПЗ Программирование микроконтроллеров
-UID:3e8ca15e-02c4-47b7-ae84-bb801959039e@3e8c.org
+UID:c6b966a6-8b41-4b31-bcc1-50ab568a867b@c6b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20230930T091500Z
+LOCATION:Орш. В-413
+DTSTART:20230930T074500Z
+SUMMARY:ПЗ Программирование микроконтроллеров
+UID:3dc9f1fd-d451-4405-9468-e65f9074f2aa@3dc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20230929T183000Z
+LOCATION:Орш. В-413
+DTSTART:20230929T170000Z
+SUMMARY:ПЗ Интеллектуальные системы автоматики
+UID:a8d08965-8eca-4803-8434-29edb97d0d6d@a8d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231013T164500Z
+LOCATION:Орш. В-413
+DTSTART:20231013T151500Z
+SUMMARY:ПЗ Интеллектуальные системы автоматики
+UID:3b7e5e77-37de-4710-8c7b-a1a825b6cc5b@3b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20230930T073000Z
+LOCATION:Орш. В-413
+DTSTART:20230930T060000Z
+SUMMARY:ПЗ Программирование микроконтроллеров
+UID:0b6dd55e-0ecc-459d-acd1-79cd9efb78c1@0b6d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Харитоненков Антон Игоревич
-DTEND:20231011T183000Z
+DTEND:20231018T183000Z
 LOCATION:Орш. В-414
-DTSTART:20231011T170000Z
+DTSTART:20231018T170000Z
 SUMMARY:ПЗ Компьютерное моделирование пространственных форм
-UID:43a9131f-7c6b-47e7-8c29-8319b982f425@43a9.org
+UID:937297e8-2f85-4d6d-a6bd-166f932f09e3@9372.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20230915T164500Z
+LOCATION:Орш. В-413
+DTSTART:20230915T151500Z
+SUMMARY:ПЗ Интеллектуальные системы автоматики
+UID:106b022c-fd48-452e-ba58-960ca50c5b83@106b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харитоненков Антон Игоревич
+DTEND:20230920T164500Z
+LOCATION:Орш. В-414
+DTSTART:20230920T151500Z
+SUMMARY:ПЗ Техническое документирование
+UID:bb932313-7675-4f72-9b7b-150cde0124e2@bb93.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20230916T073000Z
+LOCATION:Орш. В-413
+DTSTART:20230916T060000Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:4f1ec3f0-eaba-4764-a831-63b1d9c372c5@4f1e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Харитоненков Антон Игоревич
@@ -271,6 +207,70 @@ DTEND:20230920T183000Z
 LOCATION:Орш. В-414
 DTSTART:20230920T170000Z
 SUMMARY:ПЗ Техническое документирование
-UID:ba52a569-94ba-4575-8c91-c7abc1c7a41b@ba52.org
+UID:bbcfcf66-737e-4c93-a4e7-8fb5f060777f@bbcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231027T183000Z
+LOCATION:Орш. В-413
+DTSTART:20231027T170000Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:e6cb795a-367b-473d-8b0a-8e300369a2bc@e6cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:СЕМЕНОВ ГРИГОРИЙ ЕВГЕНЬЕВИЧ
+DTEND:20231214T164500Z
+LOCATION:Берн. 14-623
+DTSTART:20231214T151500Z
+SUMMARY:ПЗ Основы программирования на языке Java
+UID:2a71efca-dc98-4879-a3da-18d6682cce98@2a71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20230929T164500Z
+LOCATION:Орш. В-413
+DTSTART:20230929T151500Z
+SUMMARY:ПЗ Интеллектуальные системы автоматики
+UID:a8facac7-08f6-4519-8d6f-d69448a81bb3@a8fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:НИКОЛАЕВ ПАВЕЛ ЛЕОНИДОВИЧ
+DTEND:20231027T164500Z
+LOCATION:Орш. В-413
+DTSTART:20231027T151500Z
+SUMMARY:ЛР Интеллектуальные системы автоматики
+UID:7d083bc9-e6fd-425e-a7bc-a57db66efedf@7d08.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харитоненков Антон Игоревич
+DTEND:20231004T183000Z
+LOCATION:Орш. В-414
+DTSTART:20231004T170000Z
+SUMMARY:ЛК Компьютерное моделирование пространственных форм
+UID:b77b8615-c5a5-4c16-a874-b0683885fb44@b77b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харитоненков Антон Игоревич
+DTEND:20230913T183000Z
+LOCATION:Орш. В-414
+DTSTART:20230913T170000Z
+SUMMARY:ЛК Техническое документирование
+UID:eb9db0ac-b42b-49e4-827a-8a267a52b1cd@eb9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:КВАШНИН ВЛАДИМИР МИХАЙЛОВИЧ
+DTEND:20230916T091500Z
+LOCATION:Орш. В-413
+DTSTART:20230916T074500Z
+SUMMARY:ЛР Программирование микроконтроллеров
+UID:e60f67cf-6235-48bc-84f6-6e054cfe9dcf@e60f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Харитоненков Антон Игоревич
+DTEND:20231011T183000Z
+LOCATION:Орш. В-414
+DTSTART:20231011T170000Z
+SUMMARY:ПЗ Компьютерное моделирование пространственных форм
+UID:19864b25-0a4d-4397-aafa-1ad8ac9c700f@1986.org
 END:VEVENT
 END:VCALENDAR

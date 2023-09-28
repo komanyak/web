@@ -2,84 +2,203 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20230914T131500Z
-LOCATION:7-401
-DTSTART:20230914T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:94ca28e2-8489-434c-87f4-835a44859a09@94ca.org
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231205T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231205T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:edb86f09-c8e1-4150-931f-d89c958b8f7d@edb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231226T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231226T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:a7cc3e1d-ebff-41cc-b233-9ac50c2d6d1a@a7cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231124T113000Z
+LOCATION:7-210
+DTSTART:20231124T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:b51a7699-be9e-4dd7-a1f2-c63d2451d582@b51a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231010T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231010T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:161f4a11-ed5c-4afa-93a6-94d4518c5719@161f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231103T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231103T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:f4bcb3b0-26fa-4360-a125-a686e2199feb@f4bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230919T150000Z
+LOCATION:2-402(2А)
+DTSTART:20230919T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:92dc2b8d-460e-4e00-a079-80d403b1dfee@92dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20230904T164500Z
+LOCATION:7-404
+DTSTART:20230904T151500Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:66c6dbb2-f136-4464-a6aa-34ddbf8541f4@66c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Евсюков Иван Сергеевич
+DTEND:20230908T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230908T114500Z
+SUMMARY:ПЗ Коммуникационный менеджмент
+UID:b7d7cd29-a14a-4417-a713-ce643cb5251d@b7d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231101T131500Z
+LOCATION:24-407-5
+DTSTART:20231101T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:7a73d80d-282a-4d6a-9707-4ed47f1ced1c@7a73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231128T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:a27f4b97-c1c9-4a19-b3d3-0b1304446d73@a27f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231117T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231117T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:e9a0e42f-7bcb-475b-b280-ce76a7d5a616@e9a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231123T113000Z
+LOCATION:7-404
+DTSTART:20231123T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:d2fa241a-0c89-4618-8f46-da81aa7d81b8@d2fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Евсюков Иван Сергеевич
+DTEND:20231020T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231020T114500Z
+SUMMARY:ПЗ Коммуникационный менеджмент
+UID:f3cf2c53-4cf1-467f-8134-fd352b20911b@f3cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231101T113000Z
+LOCATION:24-407-5
+DTSTART:20231101T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:6b3f8c3f-8ac5-4f42-ba6f-bd210974174f@6b3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231031T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:78989197-21ed-4f3b-b54f-c1bdc5214d98@7898.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230908T091500Z
+LOCATION:2-313(2А)
+DTSTART:20230908T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:36128d4c-7216-4dac-800f-2b1f1edd1acd@3612.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20230920T113000Z
+LOCATION:24-407-5
+DTSTART:20230920T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:59d101fc-41dd-4d44-9cbe-7f1a6e08875d@59d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20230929T113000Z
+LOCATION:7-210
+DTSTART:20230929T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:cc4adc4f-aa71-4db0-b5f6-3da7596dd3da@cc4a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231002T150000Z
+LOCATION:7-404
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:4dbe7db6-2051-4130-89e3-f478e45e51e6@4dbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231222T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231222T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:cab69da1-9683-4791-ac78-dbb64dfb2653@cab6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231118T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231118T100000Z
+SUMMARY:ЛК Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:190050c6-0373-403d-8741-cafc70cef8c2@1900.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231016T131500Z
+LOCATION:7-408
+DTSTART:20231016T114500Z
+SUMMARY:ЛК Коммуникационный менеджмент
+UID:28cc35f6-9af8-4ec9-ace5-1fabe0bf7ae4@28cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231221T113000Z
+LOCATION:7-404
+DTSTART:20231221T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:424acd29-8eaa-49d0-8b6b-5ae6722a64c0@424a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231031T113000Z
+LOCATION:7-214
+DTSTART:20231031T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:fc33a11e-d594-4ea5-ae42-2e3d82fe7528@fc33.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231012T131500Z
-LOCATION:7-401
-DTSTART:20231012T114500Z
+DTEND:20231130T131500Z
+LOCATION:5-319
+DTSTART:20231130T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:e6bfb3ce-4247-40a6-b861-709aa7832866@e6bf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20230907T131500Z
-LOCATION:7-401
-DTSTART:20230907T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:b1514e9c-a2f5-475a-8147-6c3ec2a3ae03@b151.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231026T131500Z
-LOCATION:7-401
-DTSTART:20231026T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:91492644-059e-49c8-9311-0b684340026b@9149.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20230920T164500Z
-LOCATION:5-122
-DTSTART:20230920T151500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:ff5b4583-0826-48c6-ac63-e3d94a56e50f@ff5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20230928T131500Z
-LOCATION:7-401
-DTSTART:20230928T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:611c52dd-9a58-4c33-8bec-ba51e51aa230@611c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20231206T150000Z
-LOCATION:5-122
-DTSTART:20231206T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:cd65f479-66a6-4151-9e63-f28802ad9322@cd65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231214T131500Z
-LOCATION:7-401
-DTSTART:20231214T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:aa3d8afb-1b0a-4ece-8530-4cdf51ec526d@aa3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20231206T164500Z
-LOCATION:5-122
-DTSTART:20231206T151500Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:d82564b2-5597-415d-8d39-8fb98fb6c878@d825.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20231004T150000Z
-LOCATION:5-122
-DTSTART:20231004T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:95be7b79-f306-4306-a1a8-0231fa4b08f9@95be.org
+UID:cd68ad1c-71f5-49b7-8cbf-66d24e80a88e@cd68.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
@@ -87,55 +206,30 @@ DTEND:20231004T164500Z
 LOCATION:5-122
 DTSTART:20231004T151500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:65fa7f83-a911-43bf-ab66-f64c00beabbe@65fa.org
+UID:2eae5b62-612a-4700-946b-80b12c39317f@2eae.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231021T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231021T100000Z
+SUMMARY:ЛК Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:0a630122-8361-469b-8457-add644d25883@0a63.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231123T131500Z
-LOCATION:7-401
-DTSTART:20231123T114500Z
+DTEND:20230928T131500Z
+LOCATION:5-319
+DTSTART:20230928T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:765f9d55-b9f0-4a4c-a6cd-ce6fa58ffd01@765f.org
+UID:8251b22c-ff9f-4e1c-ad1a-974961e4fe19@8251.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231130T131500Z
-LOCATION:7-401
-DTSTART:20231130T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:6e8d351e-1e01-4080-b935-e1158dcf177b@6e8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231005T131500Z
-LOCATION:7-401
-DTSTART:20231005T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:8c584f87-0860-4c50-97bc-5cf6e95b3cb9@8c58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231019T131500Z
-LOCATION:7-401
-DTSTART:20231019T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:f23eb5eb-a052-420b-911b-708f956bd480@f23e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20231220T150000Z
-LOCATION:5-122
-DTSTART:20231220T133000Z
-SUMMARY:ЛР Безопасность жизнедеятельности
-UID:1e6e42e8-a1f4-4ff1-ba58-54bbd63b39a5@1e6e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231221T131500Z
-LOCATION:7-401
-DTSTART:20231221T114500Z
-SUMMARY:ЛК Безопасность жизнедеятельности
-UID:76f4e937-0004-443b-b475-02524d5b8fd3@76f4.org
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231204T150000Z
+LOCATION:7-406
+DTSTART:20231204T133000Z
+SUMMARY:ЛК Взаимодействие с органами государственной власти в связях с общественностью
+UID:f13c2019-bd32-472e-a31b-c3052712a3d4@f13c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
@@ -143,15 +237,439 @@ DTEND:20230906T150000Z
 LOCATION:5-122
 DTSTART:20230906T133000Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:babd735e-0bba-4e97-9286-33eb2487ac3c@babd.org
+UID:cd36d281-2dc3-4eb4-af28-623d79731e4c@cd36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231113T150000Z
+LOCATION:7-404
+DTSTART:20231113T133000Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:a29d52bb-0e12-421b-bd5a-4bb42070c879@a29d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231003T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231003T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:75d16c11-cad7-4df2-a60f-1bac246f08a5@75d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231106T131500Z
+LOCATION:7-408
+DTSTART:20231106T114500Z
+SUMMARY:ЛК Маркетинговые исследования и ситуационный анализ
+UID:b77d9793-ba39-4fac-af71-e490368b9e0d@b77d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231128T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231128T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:bcc25fd5-c8e9-4acb-b2a7-f7fb31676c9d@bcc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231227T131500Z
+LOCATION:24-407-5
+DTSTART:20231227T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:a73ca8f3-e091-423e-8045-1062146d6dc2@a73c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231110T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231110T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:e549d037-1ea2-4256-8b34-a898d8ff178a@e549.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20230911T131500Z
+LOCATION:7-408
+DTSTART:20230911T114500Z
+SUMMARY:ЛК Маркетинговые исследования и ситуационный анализ
+UID:9f0c87f8-c699-42e9-8a32-21076eadeb39@9f0c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
-DTEND:20231220T164500Z
+DTEND:20231206T164500Z
 LOCATION:5-122
-DTSTART:20231220T151500Z
+DTSTART:20231206T151500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:33c4220c-152e-4fe9-9854-41c55c19edbd@33c4.org
+UID:4770e15d-5458-4593-88d4-2ad0ee64283c@4770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231220T113000Z
+LOCATION:24-407-5
+DTSTART:20231220T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:4d14baff-d247-4dc9-9dc5-6b6577b47e98@4d14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20230914T131500Z
+LOCATION:7-401
+DTSTART:20230914T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:e0fae7a5-f01f-45b8-8338-8c17e2baf7c0@e0fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230914T091500Z
+LOCATION:7-404
+DTSTART:20230914T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:ebabebb6-9610-47ca-8832-27e9ba10c915@ebab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231123T091500Z
+LOCATION:7-404
+DTSTART:20231123T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:9b1d64c6-d689-4aef-a034-6bee177629a7@9b1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230926T150000Z
+LOCATION:2-402(2А)
+DTSTART:20230926T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:971680ef-ebbf-4025-ac6e-0a2080c48015@9716.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231221T091500Z
+LOCATION:7-404
+DTSTART:20231221T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:5aff2f0e-95f1-458e-ac77-0415b247964c@5aff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231127T150000Z
+LOCATION:7-404
+DTSTART:20231127T133000Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:9d9fa815-fa22-48d9-892e-9cc4f9db4bae@9d9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231012T113000Z
+LOCATION:7-404
+DTSTART:20231012T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:9206eb08-1b8f-4901-b303-2ce7bf9bdcaf@9206.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20230927T131500Z
+LOCATION:24-407-5
+DTSTART:20230927T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:553834e8-f146-4b6c-981b-8cd4421b4590@5538.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231025T131500Z
+LOCATION:24-407-5
+DTSTART:20231025T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:e91f1313-8ddd-497d-ada3-cbf22853066d@e91f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231129T131500Z
+LOCATION:24-407-5
+DTSTART:20231129T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:a0701a0d-6281-4a0e-b049-ba04d35270f0@a070.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231102T131500Z
+LOCATION:5-319
+DTSTART:20231102T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:65012a60-db92-4ba2-a14b-98ab46b8b566@6501.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231204T131500Z
+LOCATION:7-408
+DTSTART:20231204T114500Z
+SUMMARY:ЛК Маркетинговые исследования и ситуационный анализ
+UID:e3f7b676-67d1-4a83-b3a7-034cf26653d1@e3f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20230929T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230929T114500Z
+SUMMARY:ПЗ Взаимодействие с органами государственной власти в связях с общественностью
+UID:0a1cff05-db12-453c-adaa-0288a757fbce@0a1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231013T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231013T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:163061b8-c64f-4d60-b854-588722a32452@1630.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230905T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230905T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:1f8a4560-8c33-4320-b512-a11c06617afa@1f8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погина Надежда Николаевна
+DTEND:20231118T131500Z
+LOCATION:2-404(2А)
+DTSTART:20231118T114500Z
+SUMMARY:ПЗ Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:5fcd6e25-e3a5-4e2e-a91a-1ed8b11bb28c@5fcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230907T091500Z
+LOCATION:7-404
+DTSTART:20230907T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:a2a01c2e-7778-4837-9346-b953de878944@a2a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231006T113000Z
+LOCATION:7-210
+DTSTART:20231006T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:8b52350b-0c59-4aa0-8d73-e4f4bfae5624@8b52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231026T113000Z
+LOCATION:7-404
+DTSTART:20231026T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:2f5bc838-d8fa-4b1e-8b1c-4d3a3b09fbb5@2f5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20230905T164500Z
+LOCATION:2-407(2А)
+DTSTART:20230905T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:4ebb4ecb-9b31-4437-aff1-77f46da330f7@4ebb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231026T131500Z
+LOCATION:5-319
+DTSTART:20231026T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:3c8b420e-f5ab-4be7-837e-7d602c984d01@3c8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20231220T150000Z
+LOCATION:5-122
+DTSTART:20231220T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:70ec31e9-587f-4d86-98ec-72b3c89b8656@70ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231027T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231027T114500Z
+SUMMARY:ПЗ Взаимодействие с органами государственной власти в связях с общественностью
+UID:d9ca4cee-d18e-4d43-84e7-0cca85b3fcac@d9ca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231109T113000Z
+LOCATION:7-404
+DTSTART:20231109T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:5221c8de-6e6a-4800-8473-813b707b8c45@5221.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230919T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230919T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:bb4f9f7b-a04b-4cae-b301-d3895e2d8e02@bb4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231004T131500Z
+LOCATION:24-407-5
+DTSTART:20231004T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:ae8a56e1-7662-44c9-80ae-4e9d611cf0e1@ae8a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231005T113000Z
+LOCATION:7-404
+DTSTART:20231005T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:44427daa-dd80-4d2f-8c22-413a5ad0580b@4442.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231128T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231128T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:a68eacc5-6288-4e0f-85a3-9a1da8932b50@a68e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231123T131500Z
+LOCATION:5-319
+DTSTART:20231123T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:ee61c0c1-15dc-4e5b-b6fa-bf0a0613de75@ee61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231208T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231208T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:037ee27e-d786-4b2f-8791-cff86f127a4b@037e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231013T113000Z
+LOCATION:7-210
+DTSTART:20231013T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:7003347a-a965-418a-9ab4-1fa25704d44e@7003.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231024T113000Z
+LOCATION:7-214
+DTSTART:20231024T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:8eb91ec9-5572-4360-8910-20663fefa71a@8eb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231122T131500Z
+LOCATION:24-407-5
+DTSTART:20231122T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:be32f7d4-8aa7-420b-8947-e7a7f0d0bc3a@be32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230928T091500Z
+LOCATION:7-404
+DTSTART:20230928T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:4c3d9961-7d41-46a6-8320-e3338e9f9134@4c3d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20230922T113000Z
+LOCATION:7-210
+DTSTART:20230922T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:1f9dc731-783f-4ae9-a35b-1f9e9954ffee@1f9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231024T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231024T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:1ab89b1a-7e21-4bb4-a148-8099ee99642d@1ab8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231102T091500Z
+LOCATION:7-404
+DTSTART:20231102T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:d1858022-3279-431b-828b-e71ed1f15476@d185.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230921T091500Z
+LOCATION:7-404
+DTSTART:20230921T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:42ebe755-07b4-4107-b5f8-45b40d9b0074@42eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231219T113000Z
+LOCATION:7-214
+DTSTART:20231219T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:faa3dd2a-3edd-426c-a1b1-c68d7523f34e@faa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231027T113000Z
+LOCATION:7-210
+DTSTART:20231027T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:4b75394e-875a-463b-bf56-aa9161bb72d1@4b75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231121T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231121T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:b887e659-88b6-4d6f-8f83-4101554ecec3@b887.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231214T131500Z
+LOCATION:5-319
+DTSTART:20231214T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:ac404bfe-cbef-4eaf-9f55-b019857a4967@ac40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230905T113000Z
+LOCATION:7-214
+DTSTART:20230905T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:5fdf8bb2-671b-4f43-b9dc-37aaee257450@5fdf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231120T131500Z
+LOCATION:7-408
+DTSTART:20231120T114500Z
+SUMMARY:ЛК Маркетинговые исследования и ситуационный анализ
+UID:b685e575-0e84-46e8-b029-c2bc97e4f0fa@b685.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20230926T164500Z
+LOCATION:2-407(2А)
+DTSTART:20230926T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:5ab3b459-1250-4809-953d-5cee8e162062@5ab3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
@@ -159,31 +677,876 @@ DTEND:20230906T164500Z
 LOCATION:5-122
 DTSTART:20230906T151500Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:3114d77b-7d71-4218-bd4a-f728d9515774@3114.org
+UID:73364618-5a77-43b3-b210-b9bbce803a49@7336.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231019T091500Z
+LOCATION:7-404
+DTSTART:20231019T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:3036b133-f562-4aa2-aa4e-8957ad02df0b@3036.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231226T113000Z
+LOCATION:7-214
+DTSTART:20231226T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:941998ab-47c8-48db-86d0-348d9815c252@9419.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230912T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230912T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:8c842a00-8ee9-4f73-8743-e0812cbd9e92@8c84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231016T164500Z
+LOCATION:7-404
+DTSTART:20231016T151500Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:b5654b45-5633-4577-a677-eb50cc69b40f@b565.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231229T113000Z
+LOCATION:7-210
+DTSTART:20231229T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:3c069996-4e45-4bb5-8ca6-8dea4268d6c8@3c06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231206T131500Z
+LOCATION:24-407-5
+DTSTART:20231206T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:e58ea556-cc70-4f73-ae07-cceeaea088f6@e58e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231107T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231107T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:1267c9b9-fbb0-428e-a885-a0b694492c37@1267.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231120T150000Z
+LOCATION:7-406
+DTSTART:20231120T133000Z
+SUMMARY:ЛК Взаимодействие с органами государственной власти в связях с общественностью
+UID:1ef6b14c-4b8a-4cdc-91e3-05a395f6afcf@1ef6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231206T113000Z
+LOCATION:24-407-5
+DTSTART:20231206T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:145270bf-2423-4688-9aa1-2483b3d2b405@1452.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231218T150000Z
+LOCATION:7-406
+DTSTART:20231218T133000Z
+SUMMARY:ЛК Взаимодействие с органами государственной власти в связях с общественностью
+UID:43309247-b936-4e6a-91bd-2eb1d2683a52@4330.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20230913T113000Z
+LOCATION:24-407-5
+DTSTART:20230913T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:aa2c0fb8-912c-4113-beb6-a32d2ad6bc84@aa2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20230919T164500Z
+LOCATION:2-407(2А)
+DTSTART:20230919T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:1cda2c1a-135c-46c5-8dbc-876806256523@1cda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231024T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231024T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:27100073-c7e8-47df-b0cb-8b53ab3ffb6f@2710.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231211T150000Z
+LOCATION:7-404
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:05d3de34-cede-45c8-9c87-83ac15a305de@05d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231212T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231212T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:3de79cc9-f4f6-4c92-a597-cbb121a8b7eb@3de7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231113T164500Z
+LOCATION:7-404
+DTSTART:20231113T151500Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:b8e57d6c-c162-469f-abb0-883972076696@b8e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231121T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231121T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:bdf61c3a-2cbb-4cb4-901f-f7f50550b4b7@bdf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230914T113000Z
+LOCATION:7-404
+DTSTART:20230914T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:5ea7af72-0956-45fa-b974-9280e70b9b94@5ea7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231110T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231110T114500Z
+SUMMARY:ПЗ Взаимодействие с органами государственной власти в связях с общественностью
+UID:4da1c5ec-0ea6-4aeb-b813-d166997a8f66@4da1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20230906T131500Z
+LOCATION:24-407-5
+DTSTART:20230906T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:5e111c96-d0eb-4747-a279-1139539293d3@5e11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231207T091500Z
+LOCATION:7-404
+DTSTART:20231207T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:1f5bc4b3-ad51-4353-a830-432a3ce33c9d@1f5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231009T150000Z
+LOCATION:7-406
+DTSTART:20231009T133000Z
+SUMMARY:ЛК Взаимодействие с органами государственной власти в связях с общественностью
+UID:cce2e0f1-0fbf-4b76-97df-b19b928e1b0a@cce2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231215T113000Z
+LOCATION:7-210
+DTSTART:20231215T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:9146d649-e8d4-4d4e-b904-b19b7cd1f4d7@9146.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231018T131500Z
+LOCATION:24-407-5
+DTSTART:20231018T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:97684f84-9ad2-44c1-b40a-874ec22d9402@9768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231107T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231107T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:b7f7212f-4210-4031-a127-021633cf3f1d@b7f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231221T131500Z
+LOCATION:5-319
+DTSTART:20231221T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:f4191172-68eb-4d89-a387-d998cb1eaefd@f419.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231007T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231007T100000Z
+SUMMARY:ЛК Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:e22f783f-004f-4094-a19e-3c79fa7b0a1c@e22f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231121T113000Z
+LOCATION:7-214
+DTSTART:20231121T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:c40c0f31-f642-4ba0-bb7e-bfd7c1bcd765@c40c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231030T164500Z
+LOCATION:7-404
+DTSTART:20231030T151500Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:49935a5e-e5cd-4310-9b7d-cfaeae8766c6@4993.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231006T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231006T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:ec50e00c-ed8b-4207-a9d1-f11319c7a00f@ec50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231205T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231205T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:8aeb84d5-f67d-4323-85b7-1be041acb2ec@8aeb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231222T113000Z
+LOCATION:7-210
+DTSTART:20231222T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:66ade48a-22ba-4d18-925b-84368f0c109f@66ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231212T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231212T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:fcf40d7a-3b0c-461a-a495-803b0cf5252e@fcf4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20230920T164500Z
+LOCATION:5-122
+DTSTART:20230920T151500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:4dfc4b52-5727-4228-8f32-dcb9e4ca5a8b@4dfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231115T131500Z
+LOCATION:24-407-5
+DTSTART:20231115T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:1dbf50e4-11b5-4d57-a742-46c8f83211be@1dbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231208T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231208T114500Z
+SUMMARY:ПЗ Взаимодействие с органами государственной власти в связях с общественностью
+UID:f9faa65c-340f-4be6-9b06-e0e1266dce93@f9fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231005T131500Z
+LOCATION:5-319
+DTSTART:20231005T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:3c1642a5-88e2-4b9c-b8c5-8369cc7d6564@3c16.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
 DTEND:20231116T131500Z
-LOCATION:7-401
+LOCATION:5-319
 DTSTART:20231116T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:576eabcb-b6ac-41c4-bf05-6bd767e2b434@576e.org
+UID:9cfb3708-01c1-4bae-b908-c59ac8079446@9cfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231011T131500Z
+LOCATION:24-407-5
+DTSTART:20231011T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:05efde4b-2171-40cd-9071-11547769e516@05ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231212T113000Z
+LOCATION:7-214
+DTSTART:20231212T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:d6c2c1aa-3f32-4037-b77b-543c8dd123e3@d6c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20230927T113000Z
+LOCATION:24-407-5
+DTSTART:20230927T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:60d00e2f-adf8-4f4c-9e88-10f4f3a86309@60d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20230908T113000Z
+LOCATION:7-210
+DTSTART:20230908T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:b3d31b71-6865-447e-95fe-4c4685e6f6d7@b3d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231208T113000Z
+LOCATION:7-210
+DTSTART:20231208T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:e7eb6fb7-cf92-4783-98c0-b3f9e8a8e191@e7eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231009T131500Z
+LOCATION:7-408
+DTSTART:20231009T114500Z
+SUMMARY:ЛК Маркетинговые исследования и ситуационный анализ
+UID:5748ef90-da44-4de6-9f24-dce2a59acd55@5748.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231002T164500Z
+LOCATION:7-404
+DTSTART:20231002T151500Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:b0f25374-c746-4bb2-bb4d-2c56d8761929@b0f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погина Надежда Николаевна
+DTEND:20230909T131500Z
+LOCATION:2-404(2А)
+DTSTART:20230909T114500Z
+SUMMARY:ПЗ Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:4c20585c-d89e-4aa9-884d-ff16a333c54c@4c20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231010T113000Z
+LOCATION:7-214
+DTSTART:20231010T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:5a54b45b-8877-4bb1-ae0f-307878ca8394@5a54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230922T091500Z
+LOCATION:2-313(2А)
+DTSTART:20230922T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:06c27915-e334-4356-9a08-9b2527bcca87@06c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20230920T131500Z
+LOCATION:24-407-5
+DTSTART:20230920T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:0b6e07e9-c632-4695-b167-086e50d7173e@0b6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231124T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231124T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:c40a5e8f-115e-4993-af78-0608b46a77b0@c40a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231202T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231202T100000Z
+SUMMARY:ЛК Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:71df1f66-9fb1-4b2e-8c0b-aaf01c4bf7e8@71df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231115T113000Z
+LOCATION:24-407-5
+DTSTART:20231115T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:f3bc34b0-c3ef-432d-9954-6cbb25f60bb4@f3bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231106T150000Z
+LOCATION:7-406
+DTSTART:20231106T133000Z
+SUMMARY:ЛК Взаимодействие с органами государственной власти в связях с общественностью
+UID:f0dad0fc-5530-4012-9d5b-47ca74dce57e@f0da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231212T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231212T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:1448ec8b-dc6e-477c-bdef-a6fa7fad9704@1448.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
-DTEND:20231102T131500Z
+DTEND:20230907T131500Z
 LOCATION:7-401
-DTSTART:20231102T114500Z
+DTSTART:20230907T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:7c59679f-e37c-48f2-be6d-6efa4b617231@7c59.org
+UID:38004586-2689-4d9b-aff5-6d29641f644e@3800.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231129T113000Z
+LOCATION:24-407-5
+DTSTART:20231129T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:3568fd37-4a82-4fba-9bf1-7e8bbbe6f037@3568.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231003T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231003T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:7c1aced0-dba2-43b8-ba95-6840aa9ee055@7c1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20230913T131500Z
+LOCATION:24-407-5
+DTSTART:20230913T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:09ad2fd5-1ad8-49af-8461-e05858687750@09ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погина Надежда Николаевна
+DTEND:20231007T131500Z
+LOCATION:2-404(2А)
+DTSTART:20231007T114500Z
+SUMMARY:ПЗ Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:3e81979a-09e8-49b4-8c15-970b0efe1fc6@3e81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20231004T150000Z
+LOCATION:5-122
+DTSTART:20231004T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:1280ef62-d29c-4be8-9990-223d626268a5@1280.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231130T091500Z
+LOCATION:7-404
+DTSTART:20231130T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:7f292539-1e98-4947-bdb1-1ee9ad43ad28@7f29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231219T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:5634bf5b-0a30-4fe7-a6d2-d0f2e183dbbe@5634.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231127T131500Z
+LOCATION:7-408
+DTSTART:20231127T114500Z
+SUMMARY:ЛК Коммуникационный менеджмент
+UID:3b9c99b0-5a2b-4ebd-980d-9193bfa65d5c@3b9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231211T164500Z
+LOCATION:7-404
+DTSTART:20231211T151500Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:db21d4a7-3fd5-40fd-9138-6525c9912fdc@db21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231103T113000Z
+LOCATION:7-210
+DTSTART:20231103T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:ef305fb6-f74a-457b-ab8b-fab9c872c693@ef30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Евсюков Иван Сергеевич
+DTEND:20231006T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231006T114500Z
+SUMMARY:ПЗ Коммуникационный менеджмент
+UID:b4a45009-39ed-4249-9d87-f12e2478fa5d@b4a4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
 DTEND:20230921T131500Z
-LOCATION:7-401
+LOCATION:5-319
 DTSTART:20230921T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:da953d1e-d867-4041-847c-edda2cbdbfbc@da95.org
+UID:b0854de1-a76a-4db9-864e-9d976ed33225@b085.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Евсюков Иван Сергеевич
+DTEND:20231201T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231201T114500Z
+SUMMARY:ПЗ Коммуникационный менеджмент
+UID:14f1c6d3-e5d9-4b87-99da-f31a247f9fb3@14f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231215T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231215T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:d32ba7a0-f478-4259-9e89-469ac87ca0c9@d32b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231216T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231216T100000Z
+SUMMARY:ЛК Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:4b1a97cc-5c46-4f83-bfd0-c0d443c8bdea@4b1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погина Надежда Николаевна
+DTEND:20231230T131500Z
+LOCATION:2-404(2А)
+DTSTART:20231230T114500Z
+SUMMARY:ПЗ Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:0ab7c98b-f0dc-46cd-a1fa-5d1089844a2e@0ab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231012T131500Z
+LOCATION:5-319
+DTSTART:20231012T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:a01bfa99-d8a6-4631-90a6-5aa735c5ec7b@a01b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231114T113000Z
+LOCATION:7-214
+DTSTART:20231114T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:1461196e-6a87-4287-be68-b87f746b3188@1461.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231219T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231219T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:128ab135-061c-4453-8a38-6142af8e9e98@128a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20230915T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230915T114500Z
+SUMMARY:ПЗ Взаимодействие с органами государственной власти в связях с общественностью
+UID:12d7244c-66fd-4684-8c09-989c9ae6b1b8@12d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20230925T131500Z
+LOCATION:7-408
+DTSTART:20230925T114500Z
+SUMMARY:ЛК Маркетинговые исследования и ситуационный анализ
+UID:cd79247c-cff8-434a-babf-dcc02830b54d@cd79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231027T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231027T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:66978be1-558c-4c2d-b9af-9e1dff408c8d@6697.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20230904T150000Z
+LOCATION:7-404
+DTSTART:20230904T133000Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:97f439fc-0510-42b4-a77d-35993aa4349e@97f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20230904T131500Z
+LOCATION:7-408
+DTSTART:20230904T114500Z
+SUMMARY:ЛК Коммуникационный менеджмент
+UID:66e3c968-0228-44a5-a11c-50822658dfd4@66e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231010T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231010T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:172d532f-496c-48e6-80b6-f4e80eb32843@172d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
+DTEND:20231019T131500Z
+LOCATION:5-319
+DTSTART:20231019T114500Z
+SUMMARY:ЛК Безопасность жизнедеятельности
+UID:7cc27ad3-30a3-45ac-83a8-a89a6293042a@7cc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231121T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231121T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:9cb56b51-3954-485b-93c7-1470c647ead0@9cb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231218T131500Z
+LOCATION:7-408
+DTSTART:20231218T114500Z
+SUMMARY:ЛК Маркетинговые исследования и ситуационный анализ
+UID:d6eb58b9-2f0b-4186-b736-d1e8e4383281@d6eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231002T131500Z
+LOCATION:7-408
+DTSTART:20231002T114500Z
+SUMMARY:ЛК Коммуникационный менеджмент
+UID:d614dfd4-a47c-4dee-a39f-3d0c45430e46@d614.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Евсюков Иван Сергеевич
+DTEND:20231117T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231117T114500Z
+SUMMARY:ПЗ Коммуникационный менеджмент
+UID:966a0331-3962-4962-90d5-4351fd7bb431@966a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231226T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231226T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:f4e5fc39-680d-4464-bd0b-1f172266ac96@f4e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231127T164500Z
+LOCATION:7-404
+DTSTART:20231127T151500Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:d69bbc50-7e6d-481b-9b60-f444d2ef1b09@d69b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20231220T164500Z
+LOCATION:5-122
+DTSTART:20231220T151500Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:f1996e2b-b571-4b85-8431-da1fc8d00b42@f199.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231116T091500Z
+LOCATION:7-404
+DTSTART:20231116T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:7634795c-ebe9-4429-856f-25a613d6a164@7634.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231214T091500Z
+LOCATION:7-404
+DTSTART:20231214T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:20b07e3a-6329-4863-bce5-939fad38686c@20b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231102T113000Z
+LOCATION:7-404
+DTSTART:20231102T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:5e648951-282a-4a74-9a64-0490c6951803@5e64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20230912T164500Z
+LOCATION:2-407(2А)
+DTSTART:20230912T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:5550ab22-1662-48b6-beee-7f3ce9615fb2@5550.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Евсюков Иван Сергеевич
+DTEND:20230922T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230922T114500Z
+SUMMARY:ПЗ Коммуникационный менеджмент
+UID:4204fccd-9dc6-4f36-8cd1-6d3482450b58@4204.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231109T091500Z
+LOCATION:7-404
+DTSTART:20231109T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:64478ef8-eb87-44ff-9c51-c94a07e8e3cc@6447.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231219T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231219T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:c4f59fc0-b094-48ab-92cb-a5d9e7152965@c4f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20230918T131500Z
+LOCATION:7-408
+DTSTART:20230918T114500Z
+SUMMARY:ЛК Коммуникационный менеджмент
+UID:39ea39c0-a5c9-4222-9bd4-14b669e8563c@39ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231207T113000Z
+LOCATION:7-404
+DTSTART:20231207T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:b47606ef-4d42-48fb-af9a-8de7fbf750b4@b476.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230926T113000Z
+LOCATION:7-214
+DTSTART:20230926T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:5035d3d9-bf13-4af2-8f75-a24fee2c8e60@5035.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231114T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:0fdd39d0-dfab-43e0-aeb8-71db611cf66f@0fdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20230918T164500Z
+LOCATION:7-404
+DTSTART:20230918T151500Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:4fb6a828-2a95-45bf-b10b-728224612a13@4fb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231012T091500Z
+LOCATION:7-404
+DTSTART:20231012T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:efc4e448-8422-4b53-a199-e0c66a57ccfd@efc4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231020T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231020T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:6c80548d-c914-4fae-8280-0a52a27eb00f@6c80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230907T113000Z
+LOCATION:7-404
+DTSTART:20230907T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:5161f47c-c7be-44f4-b43b-423336832d66@5161.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231130T113000Z
+LOCATION:7-404
+DTSTART:20231130T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:5854ffba-52b7-493c-8268-5b6ac3314561@5854.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231026T091500Z
+LOCATION:7-404
+DTSTART:20231026T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:0fd32d15-fba6-4375-b0a5-140833ac9c99@0fd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погина Надежда Николаевна
+DTEND:20231021T131500Z
+LOCATION:2-404(2А)
+DTSTART:20231021T114500Z
+SUMMARY:ПЗ Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:1e1ebed5-dc5c-4494-b5cc-b1fbb9094f35@1e1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погина Надежда Николаевна
+DTEND:20231216T131500Z
+LOCATION:2-404(2А)
+DTSTART:20231216T114500Z
+SUMMARY:ПЗ Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:71ea8305-40e4-4ec7-94cb-5ff57aa291d5@71ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погина Надежда Николаевна
+DTEND:20230923T131500Z
+LOCATION:2-404(2А)
+DTSTART:20230923T114500Z
+SUMMARY:ПЗ Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:8dbdb38e-f0f7-4a5b-a8e2-d904ed6d4a83@8dbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231107T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231107T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:73103677-f812-4c61-837a-98ffb4c5a96b@7310.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Сафронова Ксения Павловна
@@ -191,22 +1554,595 @@ DTEND:20230920T150000Z
 LOCATION:5-122
 DTSTART:20230920T133000Z
 SUMMARY:ЛР Безопасность жизнедеятельности
-UID:c5e5bf45-f2cc-4a2f-882c-50b513058c95@c5e5.org
+UID:fa6bc1ff-78d2-4ddb-abaf-1c0fd03fe05c@fa6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231005T091500Z
+LOCATION:7-404
+DTSTART:20231005T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:23862634-8a94-4627-acba-48cdb56b4d9b@2386.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
 DTEND:20231207T131500Z
-LOCATION:7-401
+LOCATION:5-319
 DTSTART:20231207T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:96567be9-98ba-4e50-87fa-1c3e7dfa97c6@9656.org
+UID:23913741-ae42-4b6f-9c72-8e3b10dc57c9@2391.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231213T113000Z
+LOCATION:24-407-5
+DTSTART:20231213T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:5f30da37-595a-4216-b345-149c5982c5d5@5f30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231116T113000Z
+LOCATION:7-404
+DTSTART:20231116T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:e62be2fd-1579-45ff-a8b4-3f91efff79fd@e62b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Евсюков Иван Сергеевич
+DTEND:20231103T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231103T114500Z
+SUMMARY:ПЗ Коммуникационный менеджмент
+UID:131da7b7-180f-4075-8f4e-33249494543b@131d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231023T131500Z
+LOCATION:7-408
+DTSTART:20231023T114500Z
+SUMMARY:ЛК Маркетинговые исследования и ситуационный анализ
+UID:840c57ac-5f1b-4923-8d57-3921d520a2d5@840c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231030T150000Z
+LOCATION:7-404
+DTSTART:20231030T133000Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:adc6752b-843c-43eb-9ad3-7009c4c5f43c@adc6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231017T113000Z
+LOCATION:7-214
+DTSTART:20231017T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:4bb00230-1fa6-4c07-b99a-3a64050f5f24@4bb0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230923T113000Z
+LOCATION:2-301(2В)
+DTSTART:20230923T100000Z
+SUMMARY:ЛК Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:e7fc5ee4-0888-456f-a83a-e37deb3ffcbe@e7fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230919T113000Z
+LOCATION:7-214
+DTSTART:20230919T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:ce6712ba-6a67-4701-a3c9-945eda024851@ce67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231019T113000Z
+LOCATION:7-404
+DTSTART:20231019T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:5aba45ee-ba92-491b-99c8-ca63652f3c01@5aba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231214T113000Z
+LOCATION:7-404
+DTSTART:20231214T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:1cfb1d68-e682-4ba3-adbb-9733a31dcbfc@1cfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231018T113000Z
+LOCATION:24-407-5
+DTSTART:20231018T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:a5225e21-02c3-4830-b111-bf5a2c9bcdb5@a522.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231220T131500Z
+LOCATION:24-407-5
+DTSTART:20231220T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:41db2b84-60ea-4126-874d-f3550f8b7a5b@41db.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:БУЛЫЧЕВ СЕРГЕЙ НИКОЛАЕВИЧ
 DTEND:20231109T131500Z
-LOCATION:7-401
+LOCATION:5-319
 DTSTART:20231109T114500Z
 SUMMARY:ЛК Безопасность жизнедеятельности
-UID:113c2adb-8a3d-4803-9e83-767f569c632f@113c.org
+UID:0efba63d-58c9-4dca-8ee6-15a7d58ddce4@0efb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231228T091500Z
+LOCATION:7-404
+DTSTART:20231228T074500Z
+SUMMARY:ЛК Организация работы отделов рекламы и связей с общественностью
+UID:c7a39ae7-e83c-446c-a10e-aeb07ed9c1f6@c7a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20230906T113000Z
+LOCATION:24-407-5
+DTSTART:20230906T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:0492de2d-56bb-4b24-b009-c466afa736b3@0492.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231003T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231003T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:a44c7610-510c-4cc1-be23-29e49e4407d1@a44c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230915T091500Z
+LOCATION:2-313(2А)
+DTSTART:20230915T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:75f8b2d8-635b-46d3-89d9-afa0c18f20e4@75f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231017T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231017T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:bae3efd6-b8db-4998-87fa-8edac993b592@bae3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231222T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231222T114500Z
+SUMMARY:ПЗ Взаимодействие с органами государственной власти в связях с общественностью
+UID:870edea0-c395-4cde-b392-6bdcc987b81f@870e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231114T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231114T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:a766d506-2daf-40fa-9a9f-795a6745c54a@a766.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погина Надежда Николаевна
+DTEND:20231202T131500Z
+LOCATION:2-404(2А)
+DTSTART:20231202T114500Z
+SUMMARY:ПЗ Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:d97b313a-3b1a-43c1-98ae-65b4c1e1c498@d97b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231213T131500Z
+LOCATION:24-407-5
+DTSTART:20231213T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:b1d1c1aa-91e8-4f7d-915b-329c682e2b93@b1d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231024T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231024T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:837fb9dc-3bc2-418c-815e-5d9456a6e876@837f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231128T113000Z
+LOCATION:7-214
+DTSTART:20231128T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:71eeafce-1b77-4996-a874-0733b6c72164@71ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231228T113000Z
+LOCATION:7-404
+DTSTART:20231228T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:12773a55-d275-4599-ba9d-07b68bca254f@1277.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231030T131500Z
+LOCATION:7-408
+DTSTART:20231030T114500Z
+SUMMARY:ЛК Коммуникационный менеджмент
+UID:8b2f5418-3cf5-48e4-b846-4f2267f09af3@8b2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Сафронова Ксения Павловна
+DTEND:20231206T150000Z
+LOCATION:5-122
+DTSTART:20231206T133000Z
+SUMMARY:ЛР Безопасность жизнедеятельности
+UID:972547d2-d593-4db1-a6a4-230c32f582a4@9725.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231031T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231031T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:4dfa805a-d3ce-4783-b583-bf3a34bea75c@4dfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231025T113000Z
+LOCATION:24-407-5
+DTSTART:20231025T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:aca6a549-c8aa-4840-873c-2d3304cbcedb@aca6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231122T113000Z
+LOCATION:24-407-5
+DTSTART:20231122T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:f141fb9a-9125-4f48-9434-981466fca840@f141.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20230901T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230901T114500Z
+SUMMARY:ПЗ Взаимодействие с органами государственной власти в связях с общественностью
+UID:c724712d-1638-45ef-a2c8-91a2de725348@c724.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231110T113000Z
+LOCATION:7-210
+DTSTART:20231110T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:2dadf897-a1f1-4aa8-813c-9681cffb3e7c@2dad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231020T113000Z
+LOCATION:7-210
+DTSTART:20231020T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:40929ff1-0a84-498c-99c0-eb914ae10ce0@4092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231108T113000Z
+LOCATION:24-407-5
+DTSTART:20231108T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:07fb77c1-ec2a-4e36-b193-901c5cdb69a9@07fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231205T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231205T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:b99df360-9d01-4384-a535-a306d5d8f2a1@b99d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230912T150000Z
+LOCATION:2-402(2А)
+DTSTART:20230912T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:f9bd4c28-ef46-4526-8b0e-f02ea33d5e1e@f9bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231201T113000Z
+LOCATION:7-210
+DTSTART:20231201T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:b027b08f-ace7-4bd4-bcca-52fe145640c7@b027.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231229T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231229T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:ec204fab-e041-4fa9-8ac7-f3fa4fd15fd5@ec20.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231230T113000Z
+LOCATION:2-301(2В)
+DTSTART:20231230T100000Z
+SUMMARY:ЛК Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:f7682958-f65e-40dc-8693-d8bd3c4fd43d@f768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230926T131500Z
+LOCATION:2-302(2А)
+DTSTART:20230926T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:69db7fc5-7e4a-42bf-8fe3-eb504188e772@69db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230905T150000Z
+LOCATION:2-402(2А)
+DTSTART:20230905T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:fd50e72a-c655-44fd-94f5-b875a1af7c8e@fd50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231003T113000Z
+LOCATION:7-214
+DTSTART:20231003T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:4964783b-e26a-4389-941b-65af1c7147e7@4964.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231124T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231124T114500Z
+SUMMARY:ПЗ Взаимодействие с органами государственной власти в связях с общественностью
+UID:e683d55e-b479-4be9-a949-01c6054064c8@e683.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231107T113000Z
+LOCATION:7-214
+DTSTART:20231107T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:a5779dcc-4751-4b98-9f1d-a73144a16645@a577.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231211T131500Z
+LOCATION:7-408
+DTSTART:20231211T114500Z
+SUMMARY:ЛК Коммуникационный менеджмент
+UID:c1908e06-12e5-4e39-9acd-b694022af5ea@c190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231117T113000Z
+LOCATION:7-210
+DTSTART:20231117T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:ccab4d39-9ed5-4437-b7ea-be4a01dc10c9@ccab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230928T113000Z
+LOCATION:7-404
+DTSTART:20230928T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:b72cc557-6590-4a35-9ce8-9dfb162f5800@b72c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231114T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231114T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:f1103756-403b-4872-9996-bd7852fc88ef@f110.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231016T150000Z
+LOCATION:7-404
+DTSTART:20231016T133000Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:89380a1b-8454-4f7a-8ec5-c852ecbb41e6@8938.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20230911T150000Z
+LOCATION:7-406
+DTSTART:20230911T133000Z
+SUMMARY:ЛК Взаимодействие с органами государственной власти в связях с общественностью
+UID:6b7ee3ce-ff6c-4ed9-b315-55cd3911f3ef@6b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231023T150000Z
+LOCATION:7-406
+DTSTART:20231023T133000Z
+SUMMARY:ЛК Взаимодействие с органами государственной власти в связях с общественностью
+UID:68688289-0400-4d1d-a69e-5719f7b36fb1@6868.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231108T131500Z
+LOCATION:24-407-5
+DTSTART:20231108T114500Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:160286a2-f600-4103-b889-6d62e45bbbaa@1602.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231010T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231010T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:d088154f-c6a0-4a70-b6ee-62eb197ab7c9@d088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231205T113000Z
+LOCATION:7-214
+DTSTART:20231205T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:61354b1d-0569-45bc-ba8c-a1670eaf3882@6135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20230912T113000Z
+LOCATION:7-214
+DTSTART:20230912T100000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:c0d9261c-2609-4685-92f4-e11a434d3498@c0d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231227T113000Z
+LOCATION:24-407-5
+DTSTART:20231227T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:682d7c0c-6f38-4e72-a02d-5d32e3a5a796@682d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231201T091500Z
+LOCATION:2-313(2А)
+DTSTART:20231201T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:04234718-94b6-4272-8e42-0db9c7bb3f21@0423.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230909T113000Z
+LOCATION:2-301(2В)
+DTSTART:20230909T100000Z
+SUMMARY:ЛК Внутренние и внешние коммуникации в организациях аэрокосмической отрасли
+UID:f12ae965-853d-4dfa-b382-e6be288392c4@f12a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231011T113000Z
+LOCATION:24-407-5
+DTSTART:20231011T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:d8ccd69e-8687-4762-9e0e-aca2ca994063@d8cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231031T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231031T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:fd8cd5d0-c8ca-4ed4-918f-12b31ac244d6@fd8c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20231013T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231013T114500Z
+SUMMARY:ПЗ Взаимодействие с органами государственной власти в связях с общественностью
+UID:208dcf18-3539-4215-a01f-e3de67ad592a@208d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20230915T113000Z
+LOCATION:7-210
+DTSTART:20230915T100000Z
+SUMMARY:ПЗ Маркетинговые исследования и ситуационный анализ
+UID:8b84d2d8-d673-4865-9196-63847aa285b5@8b84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Веас Иниеста Даниэла Сергеевна
+DTEND:20231004T113000Z
+LOCATION:24-407-5
+DTSTART:20231004T100000Z
+SUMMARY:ПЗ Второй иностранный язык
+UID:9d56f626-8c2e-4c5b-a2ab-519d4fb698b3@9d56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Погребисская Анна Львовна
+DTEND:20231226T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231226T114500Z
+SUMMARY:ПЗ Иностранный язык в профессиональной сфере
+UID:8b454332-09b3-442c-a302-c90c81c9de31@8b45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20231017T164500Z
+LOCATION:2-407(2А)
+DTSTART:20231017T151500Z
+SUMMARY:ПЗ Реклама и связи с общественностью в аэрокосмической отрасли
+UID:d2104509-f98a-42ca-9d55-fb790f1dc643@d210.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20231017T150000Z
+LOCATION:2-402(2А)
+DTSTART:20231017T133000Z
+SUMMARY:ПЗ Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:ed23bf09-8357-4783-8c0c-1015d01ccfc9@ed23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230929T091500Z
+LOCATION:2-313(2А)
+DTSTART:20230929T074500Z
+SUMMARY:ПЗ Организация работы отделов рекламы и связей с общественностью
+UID:d0474bb9-5eeb-44d2-8c86-876086e46724@d047.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Бубнов Владимир Валерьевич
+DTEND:20231113T131500Z
+LOCATION:7-408
+DTSTART:20231113T114500Z
+SUMMARY:ЛК Коммуникационный менеджмент
+UID:fda88652-87f7-4cf2-a342-38cfcf05f062@fda8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Гуляев Виталий Владимирович
+DTEND:20230918T150000Z
+LOCATION:7-404
+DTSTART:20230918T133000Z
+SUMMARY:ЛК Реклама и связи с общественностью в аэрокосмической отрасли
+UID:3b5f3ac8-ae50-4e63-9774-f3f2e8d706bb@3b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Евсюков Иван Сергеевич
+DTEND:20231215T131500Z
+LOCATION:2-302(2А)
+DTSTART:20231215T114500Z
+SUMMARY:ПЗ Коммуникационный менеджмент
+UID:7e553f81-3c52-45da-9e03-b971bbb3feb6@7e55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Шафиева Дина Габдулаевна
+DTEND:20230921T113000Z
+LOCATION:7-404
+DTSTART:20230921T100000Z
+SUMMARY:ЛК Организация и проведение кампаний в сфере рекламы и связей с общественностью
+UID:55fd0c5c-85c5-447c-8c16-99dc202c7749@55fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Назаров Александр Данилович
+DTEND:20230925T150000Z
+LOCATION:7-406
+DTSTART:20230925T133000Z
+SUMMARY:ЛК Взаимодействие с органами государственной власти в связях с общественностью
+UID:dea2225a-19d5-47a3-aa62-59a7dc12e291@dea2.org
 END:VEVENT
 END:VCALENDAR

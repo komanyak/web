@@ -2,399 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231221T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231221T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:ddfb0353-40f1-466d-89f1-3190534a9759@ddfb.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231116T131500Z
+DTEND:20231019T113000Z
 LOCATION:ГУК А-507а
-DTSTART:20231116T114500Z
+DTSTART:20231019T100000Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:f3974cd1-c210-4e61-962e-124f28b535d8@f397.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231026T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231026T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4cf8743e-c4e3-46cb-82a9-a986b2ea5a19@4cf8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231002T183000Z
-LOCATION:3-Зал А
-DTSTART:20231002T170000Z
-SUMMARY:ЛК История и философия науки
-UID:4d9d3842-f8f3-4ae2-8764-8ef590dbf22a@4d9d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231012T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231012T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:88b90fd2-8570-4613-90a6-2a4966df3160@88b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231016T183000Z
-LOCATION:3-Зал А
-DTSTART:20231016T170000Z
-SUMMARY:ЛК История и философия науки
-UID:a08d2a4f-5c55-4a61-b879-26d2c1f7e788@a08d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231102T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231102T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:82d11736-b04a-4d84-8c85-a9f750412866@82d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231109T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231109T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:5091c2a0-7a54-4c2e-b0c1-fdfce8aaf1b4@5091.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231214T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231214T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:8db60639-d4cf-409e-b450-4ea23fd08862@8db6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230925T183000Z
-LOCATION:3-Зал А
-DTSTART:20230925T170000Z
-SUMMARY:ЛК История и философия науки
-UID:0a92bc99-0250-442e-aae1-76f330e952c5@0a92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230904T164500Z
-LOCATION:3-Зал А
-DTSTART:20230904T151500Z
-SUMMARY:ЛК История и философия науки
-UID:f8b0d6ff-6f3e-4803-94e7-ed2d0060a1e5@f8b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240125T150000Z
-LOCATION:ГУК А-512
-DTSTART:20240125T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:12aa3fbc-d272-4927-9e3e-6e80de6689e5@12aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d11808fe-9382-46e5-846c-85d1c1662dc9@d118.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T131500Z
-LOCATION:--каф.
-DTSTART:20231120T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8cc517dd-5025-4d94-bd12-b33f63d7aa87@8cc5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a8d630ac-24fb-4ae1-8864-0946d8150beb@a8d6.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:88a13ee4-15d9-4d04-8a9f-081e67c8ed89@88a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231102T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231102T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:9354b16b-761f-4ed2-a988-df76b08f6730@9354.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231116T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231116T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:a30668b8-1068-4b92-b551-33f2f9d1b514@a306.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231130T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231130T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:9185bde3-65e7-443d-85c2-083550bbf7f5@9185.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230911T164500Z
-LOCATION:3-Зал А
-DTSTART:20230911T151500Z
-SUMMARY:ЛК История и философия науки
-UID:61e3a705-b215-4678-8cf8-560c38d9cc0e@61e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231221T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231221T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:1c8489cd-a008-45cd-92ac-b3de0382c97b@1c84.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231123T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231123T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:bd0b6359-b2e7-4bad-ae5b-ac213d287c9a@bd0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231030T183000Z
-LOCATION:3-Зал А
-DTSTART:20231030T170000Z
-SUMMARY:ЛК История и философия науки
-UID:27b478ba-76ce-4101-b4e1-808cb2ca2d5c@27b4.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T150000Z
-LOCATION:--каф.
-DTSTART:20230925T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6bc08636-89fe-478a-b3a0-dae133991d19@6bc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231109T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231109T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:4c7fdc49-b480-4f51-a50f-2578f395bc03@4c7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240125T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240125T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:166b9211-a143-4eba-8d7c-69de86c4430e@166b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231130T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231130T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:65b60534-0b16-4c6a-87fd-a650654cffa4@65b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231207T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231207T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:8c811f75-c751-4ee4-a77c-36d88e49cf53@8c81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231207T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231207T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:e9cd88b4-b108-451a-8b94-dbae34d61a38@e9cd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
-LOCATION:--каф.
-DTSTART:20231009T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:2c323b8d-b260-44f4-aa78-2f1f0ea9fc30@2c32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20230914T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20230914T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:8ce766ab-a044-4d22-9739-d3eff3a73ea9@8ce7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231116T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231116T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:2e4ff9b5-5c24-4371-96c4-fd524bfce34d@2e4f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ba202a5d-db24-41c3-acd3-d2c36f17e167@ba20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231221T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231221T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:7dd35b6d-6cce-49ee-980b-d9f214a6b262@7dd3.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7b6f4445-4199-4ac7-934e-6bed855d74e1@7b6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231005T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231005T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:bff1353f-882b-4e23-9299-b054f78f3e23@bff1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20240201T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20240201T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:e1574d48-830f-42da-8d1b-d7e34d51b8c4@e157.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:118513d5-45ee-405a-98ed-30960df458a0@1185.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231123T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:40b9b544-8251-4f2d-83d6-bc620fde256c@40b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231214T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231214T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:2e96e60b-7042-4409-a7ce-26ca83d9b425@2e96.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230911T183000Z
-LOCATION:3-Зал А
-DTSTART:20230911T170000Z
-SUMMARY:ЛК История и философия науки
-UID:46eabf55-27c6-4465-924a-813393c21de6@46ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20230921T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230921T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:3a07b5d0-9902-423c-9ec5-18f0d1fb2ecf@3a07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231123T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:56fa4f13-d39a-43e8-bf2f-dee04b079eb5@56fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231130T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231130T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:d6b5f88a-7f98-44c4-8e57-268136ec06ab@d6b5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T131500Z
-LOCATION:--каф.
-DTSTART:20230918T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:0b19bd83-c23c-4e4e-8c00-35d26d6ac3dc@0b19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231012T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231012T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:f08a123b-7419-48a7-a289-cc5594c004a3@f08a.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T131500Z
-LOCATION:--каф.
-DTSTART:20231023T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1ffb9f6f-4dd0-422a-9169-3929cd044c72@1ffb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20230907T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230907T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:c74f257c-a81b-4b30-8a4c-8075a5fb1be4@c74f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4c5ee6ea-09f3-4d74-8a1b-cc32e6e5183e@4c5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T131500Z
-LOCATION:--каф.
-DTSTART:20231030T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:861abc82-7e43-4f1e-bbb3-d1004367afe5@861a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20230928T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230928T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:1d305b58-679e-4528-90ef-4ce91d6de165@1d30.org
+UID:7ff4f62e-9f22-475c-9d9b-f17fe630759f@7ff4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Николаева Мария Владимировна
@@ -402,15 +15,7 @@ DTEND:20240125T113000Z
 LOCATION:ГУК А-507а
 DTSTART:20240125T100000Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:2d666b95-dd56-4785-82a2-08cce44f76c3@2d66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231026T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231026T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:f009f5fd-5f42-4c78-8a82-1737d8fdcfd5@f009.org
+UID:e9b27310-96a0-4b4b-818d-00bbba7a8ee1@e9b2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Павлова Татьяна Петровна
@@ -418,304 +23,7 @@ DTEND:20231228T150000Z
 LOCATION:ГУК А-512
 DTSTART:20231228T133000Z
 SUMMARY:ПЗ История и философия науки
-UID:48f99f3b-6230-4d5a-90d3-0cc4a290515b@48f9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231030T164500Z
-LOCATION:3-Зал А
-DTSTART:20231030T151500Z
-SUMMARY:ЛК История и философия науки
-UID:a5c6aa59-92d2-4811-8a5d-9255717fa169@a5c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20230914T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20230914T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:47f8732d-73e6-4b08-8ebe-de89898e754b@47f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20230921T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20230921T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:55bd023c-85c5-4546-b563-551e04793684@55bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20240111T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20240111T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:9c6c07d3-6fbf-4a04-9215-798a6013b019@9c6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231214T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231214T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:8f3bff16-af63-4c19-a4ee-78d0d63a4a7c@8f3b.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d1dd22c6-f067-4f9c-ac49-24e764249668@d1dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231116T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231116T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:8b8a9613-37f3-4e4f-9fd8-7621ee0d6073@8b8a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20240111T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20240111T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:a1c6045d-b95e-4010-98d6-c5e9b91de62a@a1c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231228T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231228T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:75274560-defb-458d-b60c-adc357ead539@7527.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240118T150000Z
-LOCATION:ГУК А-512
-DTSTART:20240118T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:40566e91-0c1a-49ad-a7f9-d4562840572e@4056.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231009T183000Z
-LOCATION:3-Зал А
-DTSTART:20231009T170000Z
-SUMMARY:ЛК История и философия науки
-UID:253ec39d-e766-4e42-a1df-4e01db3f8b60@253e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240118T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240118T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:04580ad5-46ea-4d5e-b9de-edc09b317c2a@0458.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231016T164500Z
-LOCATION:3-Зал А
-DTSTART:20231016T151500Z
-SUMMARY:ЛК История и философия науки
-UID:049ee55e-cac5-4931-829b-25aa289de0ff@049e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230918T164500Z
-LOCATION:3-Зал А
-DTSTART:20230918T151500Z
-SUMMARY:ЛК История и философия науки
-UID:1e686b07-be7d-4e33-8ded-2e6d8145ca6c@1e68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240201T150000Z
-LOCATION:ГУК А-512
-DTSTART:20240201T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:f69ca848-23ea-4296-943b-d571e9ee07d0@f69c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20230918T183000Z
-LOCATION:3-Зал А
-DTSTART:20230918T170000Z
-SUMMARY:ЛК История и философия науки
-UID:1295caac-0610-43b8-ab6b-5af7ea016098@1295.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231130T164500Z
-LOCATION:ГУК А-512
-DTSTART:20231130T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:12ffb8b6-eddf-4364-86e5-fddd7bdd61b7@12ff.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T131500Z
-LOCATION:--каф.
-DTSTART:20231016T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6488af82-b602-4266-bd02-3a8ecd4ef429@6488.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T131500Z
-LOCATION:--каф.
-DTSTART:20230925T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e16665f2-fa54-4519-90f0-a11b4a9b88c2@e166.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231019T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231019T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:386d482b-0a2f-4646-aeee-ec1a51bd2519@386d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20231207T150000Z
-LOCATION:ГУК А-512
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:9a28cc3f-38b2-44d4-a5eb-abee73f6ff9f@9a28.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T131500Z
-LOCATION:--каф.
-DTSTART:20230911T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1a19066b-e014-4653-b798-fa1b0f48d34e@1a19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20240118T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20240118T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:44d50008-79d0-4d0c-bfd4-3ad906c76279@44d5.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a9139065-949e-4ba3-acb8-ad614188d786@a913.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231023T164500Z
-LOCATION:3-Зал А
-DTSTART:20231023T151500Z
-SUMMARY:ЛК История и философия науки
-UID:3ad63989-516d-4f4d-8669-2aa954a279da@3ad6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231221T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231221T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:fd6d2e67-da3e-4b79-8366-8743679ef31c@fd6d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240201T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240201T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:4d949311-2830-4f3a-a491-7bb85b95b7c5@4d94.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T131500Z
-LOCATION:--каф.
-DTSTART:20230904T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:282b3bed-2c02-4722-a508-bdf232c93769@282b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20230907T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20230907T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:79579974-786c-42d7-b724-8f67b7633a62@7957.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231228T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231228T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:00b4cfbb-8cf9-43c6-8ab2-f02ced5d2afe@00b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240111T164500Z
-LOCATION:ГУК А-512
-DTSTART:20240111T151500Z
-SUMMARY:ПЗ История и философия науки
-UID:2264be39-80fd-40eb-989a-b0f213839c08@2264.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231214T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231214T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:b6344d96-f77b-4b62-9a1e-c9d0ffeab925@b634.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20240125T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20240125T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:a7f3f568-3696-4089-a4ef-09511645995f@a7f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20240201T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20240201T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:d83e33bc-684d-461c-9f3f-147861d174f4@d83e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Павлова Татьяна Петровна
-DTEND:20240111T150000Z
-LOCATION:ГУК А-512
-DTSTART:20240111T133000Z
-SUMMARY:ПЗ История и философия науки
-UID:20be2ea0-c57c-479f-9be8-58d737616dbe@20be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231228T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231228T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:aaf56a27-a75d-44f4-9490-664132acc123@aaf5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231019T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231019T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:2a77d922-b7a9-4d9d-828d-c97715418980@2a77.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T131500Z
-LOCATION:--каф.
-DTSTART:20231113T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8b4943a2-494f-4cb0-ad48-fe0b2fe9ecd6@8b49.org
+UID:b2d502d2-217c-4480-870b-f86dcf9b9150@b2d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
@@ -723,68 +31,37 @@ DTEND:20230904T183000Z
 LOCATION:3-Зал А
 DTSTART:20230904T170000Z
 SUMMARY:ЛК История и философия науки
-UID:3408e343-7791-4586-aa87-ed814f83a6e2@3408.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230904T150000Z
-LOCATION:--каф.
-DTSTART:20230904T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:bb3c7074-06e9-41a3-a125-27eab74088fc@bb3c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T131500Z
-LOCATION:--каф.
-DTSTART:20231009T114500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:521522da-d823-4fde-88d1-f6977ada8f0a@5215.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231009T164500Z
-LOCATION:3-Зал А
-DTSTART:20231009T151500Z
-SUMMARY:ЛК История и философия науки
-UID:6009f8fd-8fba-4534-8dbc-b46b3742e454@6009.org
+UID:c480cecf-d189-416e-a908-172f62c348af@c480.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231005T131500Z
+DTEND:20231019T131500Z
 LOCATION:ГУК А-507а
-DTSTART:20231005T114500Z
+DTSTART:20231019T114500Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:cf9f2955-ab14-4514-b540-19d0bcbf11a4@cf9f.org
+UID:2ab615c9-784b-4aec-9a60-6183a75958df@2ab6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231207T113000Z
-LOCATION:ГУК А-507а
-DTSTART:20231207T100000Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:fed8a152-2c25-4200-b956-271e5ace6221@fed8.org
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231214T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231214T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:be8e2131-a8f1-4b7e-915d-bf94fe6ee751@be8e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Николаева Мария Владимировна
-DTEND:20231109T131500Z
-LOCATION:ГУК А-507а
-DTSTART:20231109T114500Z
-SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:07fe17b9-5c0d-4ec7-9709-cf5675fc2a39@07fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231023T183000Z
-LOCATION:3-Зал А
-DTSTART:20231023T170000Z
-SUMMARY:ЛК История и философия науки
-UID:081280b1-7317-4e3b-bdc3-b7e3c5085c81@0812.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T131500Z
-LOCATION:--каф.
-DTSTART:20231002T114500Z
+DTEND:20230911T131500Z
+LOCATION:2-202(2В)
+DTSTART:20230911T114500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a4576cf8-f2e8-4f8b-98e9-dde9ac1f0e1b@a457.org
+UID:a929ea61-fd7b-4b48-b7bb-2041973e8de9@a929.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:2-202(2В)
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:6d9b447d-652c-4bc8-b9c4-236cea3a9b8a@6d9b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Павлова Татьяна Петровна
@@ -792,7 +69,110 @@ DTEND:20231109T150000Z
 LOCATION:ГУК А-512
 DTSTART:20231109T133000Z
 SUMMARY:ПЗ История и философия науки
-UID:9aefeac0-0d72-4ba8-9fdf-27b192a82eb6@9aef.org
+UID:b4edee43-ebf7-42c4-b9bf-2ec9d03b50f2@b4ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231214T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231214T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f73b5db5-92d2-41d8-a8c7-c576fc395a85@f73b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20240201T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20240201T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:45ba3b12-0a24-451e-8ed9-785ab34eb119@45ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231009T183000Z
+LOCATION:3-Зал А
+DTSTART:20231009T170000Z
+SUMMARY:ЛК История и философия науки
+UID:9ab1e3c4-0543-4ef4-8195-7eba1755e0c6@9ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231109T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231109T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:8f6c14d3-44de-4901-9b6f-9d79e6498c94@8f6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231123T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:5a416963-f9a7-4e89-8811-ed0ad0331ed4@5a41.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230925T183000Z
+LOCATION:3-Зал А
+DTSTART:20230925T170000Z
+SUMMARY:ЛК История и философия науки
+UID:a7ae6ec3-58de-40a7-857e-035575f4decc@a7ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231030T183000Z
+LOCATION:3-Зал А
+DTSTART:20231030T170000Z
+SUMMARY:ЛК История и философия науки
+UID:93df68ce-467b-45af-80bc-0e02444f36e6@93df.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T131500Z
+LOCATION:2-202(2В)
+DTSTART:20230904T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:cdb2a319-1e3f-4e50-a172-7b722a530888@cdb2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231102T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231102T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:74c0bd2f-a447-40ca-a5c5-5a1e9755594e@74c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20230921T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230921T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:4343c29d-dae4-49ac-a00f-025f9180b907@4343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231221T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231221T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:c2805a55-0879-4df2-9462-4b85942e95a8@c280.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240111T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240111T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:7a9a07a2-c83c-4015-aaa8-d5826f163f47@7a9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20240111T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20240111T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:40eab712-4cc6-408f-bd26-6cd0b19ce617@40ea.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
@@ -800,45 +180,306 @@ DTEND:20230925T164500Z
 LOCATION:3-Зал А
 DTSTART:20230925T151500Z
 SUMMARY:ЛК История и философия науки
-UID:b237de2d-b455-48c3-af3b-8df6bd4e8449@b237.org
+UID:5f04a557-7840-4276-b46a-3c82c3ae223c@5f04.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231102T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231102T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:91e2dda7-39d3-4df8-b4d4-3e30eaede647@91e2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T131500Z
+LOCATION:2-202(2В)
+DTSTART:20230918T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:de15ff27-3845-448a-b8d3-6f51d56123c9@de15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231012T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231012T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:4b2b3c6b-d921-4202-9222-2f4e9596f2d7@4b2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:2-202(2В)
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b4e76790-230c-404b-9d7a-cf69bacc38ae@b4e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231109T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:c4e8f063-bdaf-4afa-adb5-e8caaf379bd4@c4e8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T131500Z
+LOCATION:2-202(2В)
+DTSTART:20231030T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:8f337b07-fde5-46f7-a34f-e824f78299c8@8f33.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T131500Z
+LOCATION:2-202(2В)
+DTSTART:20231113T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:501e4e1a-45bb-4336-b1e9-09f5caa7feba@501e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240111T150000Z
+LOCATION:ГУК А-512
+DTSTART:20240111T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:52c34ff6-9881-40a0-a957-b0ea54014e5f@52c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Моторина Любовь Евстафьевна
-DTEND:20231002T164500Z
+DTEND:20230918T164500Z
 LOCATION:3-Зал А
-DTSTART:20231002T151500Z
+DTSTART:20230918T151500Z
 SUMMARY:ЛК История и философия науки
-UID:27df701c-7a62-4006-a013-2d0c378a98c0@27df.org
+UID:0f1be0f8-3dc2-44ba-b32c-4a80a4293b04@0f1b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240125T150000Z
+LOCATION:ГУК А-512
+DTSTART:20240125T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:4d659eba-c06d-49d8-bd91-de5c9bf5949d@4d65.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T131500Z
+LOCATION:2-202(2В)
+DTSTART:20231127T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:069e2629-2255-423f-b210-0b5eb6f3c72a@069e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231002T183000Z
+LOCATION:3-Зал А
+DTSTART:20231002T170000Z
+SUMMARY:ЛК История и философия науки
+UID:0d57d9be-8941-4fc7-be4e-f1cc72a437c6@0d57.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T131500Z
+LOCATION:2-202(2В)
+DTSTART:20231016T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:2e120cdc-4a0d-4efc-8488-c671d3577bd2@2e12.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Николаева Мария Владимировна
-DTEND:20240118T131500Z
+DTEND:20230914T113000Z
 LOCATION:ГУК А-507а
-DTSTART:20240118T114500Z
+DTSTART:20230914T100000Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:034f2b43-724a-4e60-a13b-e23c25efea84@034f.org
+UID:158eb7e6-9f90-4a36-9ffe-edfe29c4e837@158e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:2-202(2В)
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b1b9ec2b-4f04-43c8-a983-a7034f21f02b@b1b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Николаева Мария Владимировна
-DTEND:20230928T113000Z
+DTEND:20231207T113000Z
 LOCATION:ГУК А-507а
-DTSTART:20230928T100000Z
+DTSTART:20231207T100000Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:d4fedbfb-92df-4489-9993-bf6b18e03818@d4fe.org
+UID:31e06ac2-f29c-4109-a14a-d0d40d253378@31e0.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
+DTEND:20231030T150000Z
+LOCATION:2-202(2В)
+DTSTART:20231030T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:9bfe4098-c745-49fe-a604-92916a71e95f@9bfe.org
+UID:58c2f16b-6827-4b9f-8844-4067d2139b7c@58c2.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231106T131500Z
-LOCATION:--каф.
-DTSTART:20231106T114500Z
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231228T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231228T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:2381abba-a7a2-4db7-89a3-26bc29f99558@2381.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230904T150000Z
+LOCATION:2-202(2В)
+DTSTART:20230904T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7c33ab16-43b5-45b8-9548-f3f3edd8e059@7c33.org
+UID:377cfc0f-8c0d-40b0-88f2-23c33ee27519@377c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231221T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231221T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:a01ae450-009b-4f7f-9974-55007e2836c0@a01a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T131500Z
+LOCATION:2-202(2В)
+DTSTART:20231023T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:400ad3ab-969f-4670-b972-54ad17686b70@400a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20240111T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20240111T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:0aff1ff0-a8e8-421e-8f8a-d657802b4c10@0aff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240125T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240125T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:06e45be6-ab8c-40cf-a11b-01d9b03e3e46@06e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20230928T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230928T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:dddeee55-2078-42a9-8f1f-0bab7457e442@ddde.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231005T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231005T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:71474f6a-e2b4-4002-8f07-96153f55c9ef@7147.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231109T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231109T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:1e525243-5dcb-4d2c-8713-0766e1bd92d0@1e52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20230907T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20230907T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:311d50a9-aa64-4d94-8695-8f84e9d04aab@311d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231130T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231130T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:13af5e49-0a0f-4abb-b1ce-fc50e16fb402@13af.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T131500Z
+LOCATION:2-202(2В)
+DTSTART:20231002T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:89569494-345f-4d7c-bed1-5601a9eeeca1@8956.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231228T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231228T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:24b89a3a-b807-431d-9c8c-0f24c06085f5@24b8.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:2-202(2В)
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:41542773-6402-4d30-837e-3fc4decdc0c4@4154.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231228T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231228T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:7e9aea3a-2563-4f40-86d9-ed0344d0916f@7e9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231207T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231207T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:f479ec02-799e-4d45-bee7-a8765ca87e05@f479.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240118T164500Z
+LOCATION:ГУК А-512
+DTSTART:20240118T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:62c704b4-1952-4747-be47-d65c5848a757@62c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230904T164500Z
+LOCATION:3-Зал А
+DTSTART:20230904T151500Z
+SUMMARY:ЛК История и философия науки
+UID:5049af8f-8010-4caf-9576-19fa1ceef9bb@5049.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:2-202(2В)
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:bd87a168-fe6f-4241-b9bd-5392a95600fa@bd87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231116T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231116T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:c16f7b6b-edda-4d42-9fa1-7e4d55d335c9@c16f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20240118T150000Z
+LOCATION:ГУК А-512
+DTSTART:20240118T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:b2e68d56-bef5-443e-8a14-dc8d0cd90daa@b2e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231026T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231026T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:00dc2fb7-2a2b-4897-9c79-70a9dac28c24@00dc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Николаева Мария Владимировна
@@ -846,6 +487,356 @@ DTEND:20231123T113000Z
 LOCATION:ГУК А-507а
 DTSTART:20231123T100000Z
 SUMMARY:ПЗ Иностранный язык (аспирантура)
-UID:1d80c622-177b-443f-a3c0-0610d69c4a23@1d80.org
+UID:fd055f9c-58af-4d3c-bf1f-cfbcf051b370@fd05.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230911T164500Z
+LOCATION:3-Зал А
+DTSTART:20230911T151500Z
+SUMMARY:ЛК История и философия науки
+UID:8f2bdf34-ad0b-4f4d-827f-f10b04eb5c5c@8f2b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:2-202(2В)
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b43ebdb9-4e06-466c-b0c9-758741f0b72f@b43e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231214T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231214T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:6d197874-b460-48b0-a6b0-bc5208531a32@6d19.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231221T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:15cbd8d5-6544-46b6-a3fe-46540619a780@15cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230911T183000Z
+LOCATION:3-Зал А
+DTSTART:20230911T170000Z
+SUMMARY:ЛК История и философия науки
+UID:b8b2c3b4-be37-4ac1-af7f-f80796c96f29@b8b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231130T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231130T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:60881f6d-58ee-4199-8199-507e4e0320be@6088.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20240118T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20240118T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:966adebc-b15d-4ea8-9079-ef97c1bcddce@966a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T150000Z
+LOCATION:2-202(2В)
+DTSTART:20231016T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:34ad776e-1901-4c58-961c-50ba503ded18@34ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231116T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231116T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:7bd5b2b5-43c6-40ae-922d-3f1be18fcbf0@7bd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20230914T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230914T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:c017794e-fb25-4e7e-951d-59eabfd304de@c017.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20230921T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20230921T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:982bbd9a-1e5d-45c5-bf42-7bfdd607b9e0@982b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231123T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231123T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:d3d3be83-bcc6-4ef3-a98a-83ea04ba0609@d3d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231023T164500Z
+LOCATION:3-Зал А
+DTSTART:20231023T151500Z
+SUMMARY:ЛК История и философия науки
+UID:2f469941-ee04-4a0a-9fe8-269d49149839@2f46.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231002T164500Z
+LOCATION:3-Зал А
+DTSTART:20231002T151500Z
+SUMMARY:ЛК История и философия науки
+UID:1e8b178a-9207-4321-9876-09ce7130932c@1e8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231005T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231005T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:5e449947-3a57-4511-b382-ed2df625b42f@5e44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231123T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:a72403fb-f554-47f5-a1d3-ca810183138f@a724.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T131500Z
+LOCATION:2-202(2В)
+DTSTART:20231009T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1985d749-2916-4615-a53a-dfcb7ef80bc1@1985.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231026T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231026T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:1e75d737-5404-4d60-b850-f5ea636aac78@1e75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231012T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20231012T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:448adeb1-2ca9-4d37-8eab-e52d74f69869@448a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231023T183000Z
+LOCATION:3-Зал А
+DTSTART:20231023T170000Z
+SUMMARY:ЛК История и философия науки
+UID:fe6519a9-a01b-4da5-848e-c79e9dc28f91@fe65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231214T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231214T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:f1234924-d8d2-459b-8425-a899cdc2bbb0@f123.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231207T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231207T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:e86e808f-5286-4fce-b6fc-b24d51524ac4@e86e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231030T164500Z
+LOCATION:3-Зал А
+DTSTART:20231030T151500Z
+SUMMARY:ЛК История и философия науки
+UID:c97b9845-fc59-456b-8c2f-0790777116bf@c97b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T131500Z
+LOCATION:2-202(2В)
+DTSTART:20231106T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:852e621b-88aa-45fe-9d4c-b897d2ac1f57@852e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T150000Z
+LOCATION:2-202(2В)
+DTSTART:20230925T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:cd747a0b-0a28-44ca-807a-3aa776231d1a@cd74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231016T164500Z
+LOCATION:3-Зал А
+DTSTART:20231016T151500Z
+SUMMARY:ЛК История и философия науки
+UID:949063dc-c7bc-4294-b9d7-dfb0ffe25c8f@9490.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T131500Z
+LOCATION:2-202(2В)
+DTSTART:20231120T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:b667e3fd-596b-42d0-a52a-96afbe3fb81d@b667.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20240118T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20240118T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:3971cfab-6c92-46e0-ac6a-dad666fac747@3971.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231130T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231130T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:cf56affe-e3ff-48a4-83df-868017fa473d@cf56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20230907T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20230907T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f71e489d-ee48-4b2a-b046-cf479d27dc71@f71e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231130T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231130T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:003e1497-6ed5-4518-9d91-4917040953f6@003e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231221T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231221T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f78eccc9-225f-4911-bcd2-b24f9b103e90@f78e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20230918T183000Z
+LOCATION:3-Зал А
+DTSTART:20230918T170000Z
+SUMMARY:ЛК История и философия науки
+UID:baada020-1d2b-4280-8de1-c05379c3e313@baad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20231116T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20231116T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:1325fbe0-b6d9-4ea6-b4c0-505812c0fc30@1325.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231116T164500Z
+LOCATION:ГУК А-512
+DTSTART:20231116T151500Z
+SUMMARY:ПЗ История и философия науки
+UID:6b7e9bdd-179e-4904-8147-4fc040a72e2d@6b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T131500Z
+LOCATION:2-202(2В)
+DTSTART:20230925T114500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d0e4e37c-a51d-42ec-8459-da4d5776cbcc@d0e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20240125T131500Z
+LOCATION:ГУК А-507а
+DTSTART:20240125T114500Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:f6fbbca9-c254-43ee-aeb1-5e21ed6c429c@f6fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Павлова Татьяна Петровна
+DTEND:20231207T150000Z
+LOCATION:ГУК А-512
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ История и философия науки
+UID:f8c47b57-f3f3-4bf2-969c-6c40388f540b@f8c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231016T183000Z
+LOCATION:3-Зал А
+DTSTART:20231016T170000Z
+SUMMARY:ЛК История и философия науки
+UID:3beac39d-d082-40a8-b531-d05002dfc1f0@3bea.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:2-202(2В)
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:595fa169-8e8b-4616-98d2-2f5f54eb8026@595f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:2-202(2В)
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3665538a-2783-44c9-911f-bc3063a540b8@3665.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Моторина Любовь Евстафьевна
+DTEND:20231009T164500Z
+LOCATION:3-Зал А
+DTSTART:20231009T151500Z
+SUMMARY:ЛК История и философия науки
+UID:cd10c493-c7d9-4210-b8bb-da39d520d22b@cd10.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:2-202(2В)
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d7c56c71-d220-48eb-9a14-41b71c70c04b@d7c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20230928T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20230928T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:cd9cebea-c8c7-48c1-90c2-8f57338d48bb@cd9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Николаева Мария Владимировна
+DTEND:20240201T113000Z
+LOCATION:ГУК А-507а
+DTSTART:20240201T100000Z
+SUMMARY:ПЗ Иностранный язык (аспирантура)
+UID:ad1d7217-fbd8-4064-8e57-beb310d88ebc@ad1d.org
 END:VEVENT
 END:VCALENDAR

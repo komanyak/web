@@ -2,332 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231020T164500Z
-LOCATION:24-402
-DTSTART:20231020T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:2fe4fe95-6a8a-4cac-9535-8dae5efe208a@2fe4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231228T164500Z
-LOCATION:11-33
-DTSTART:20231228T151500Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:85844e3e-c336-4fc5-9012-935ff416546e@8584.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231124T164500Z
-LOCATION:24-402
-DTSTART:20231124T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:44def6c5-d881-4c1c-a78d-4f89c59d0bac@44de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231102T164500Z
-LOCATION:11-33
-DTSTART:20231102T151500Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:a87fa1f7-5563-4b83-858c-f26d6d900dd8@a87f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231123T164500Z
-LOCATION:11-33
-DTSTART:20231123T151500Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:2350a473-2202-4a50-aebe-cd0d11a1f9bb@2350.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231214T164500Z
-LOCATION:11-33
-DTSTART:20231214T151500Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:115ae9fd-18a9-451b-b21a-16227ac1da3b@115a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20230925T150000Z
-LOCATION:24-713
-DTSTART:20230925T133000Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:19cbcd0b-cf7b-484b-8e2a-e174421bdb2b@19cb.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231004T183000Z
+DTEND:20231213T150000Z
 LOCATION:24-512
-DTSTART:20231004T170000Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:14ef5f99-6846-4a8e-a303-70d54e1ceb8b@14ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231023T183000Z
-LOCATION:24-713
-DTSTART:20231023T170000Z
-SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
-UID:50cc2e4d-3f55-4e51-8ae8-a779747fe18d@50cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231107T150000Z
-LOCATION:ГУК В-600
-DTSTART:20231107T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:2c27a392-c34d-41f3-92d8-12a29b5015c0@2c27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231114T150000Z
-LOCATION:ГУК В-600
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:e27459ba-9d9d-4e65-a47f-ff81b918259c@e274.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231004T150000Z
-LOCATION:24-512
-DTSTART:20231004T133000Z
+DTSTART:20231213T133000Z
 SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:09be2eec-7701-43f3-a246-ad7cfefb00da@09be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231121T150000Z
-LOCATION:ГУК В-600
-DTSTART:20231121T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:313ad917-b7df-40fe-b8d1-4a35f9553710@313a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231011T164500Z
-LOCATION:24-512
-DTSTART:20231011T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:95e891ff-a000-4c04-9263-a8ef4ad2a413@95e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20230911T150000Z
-LOCATION:24-713
-DTSTART:20230911T133000Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:8ecaa6be-b616-4873-987f-7ca076995887@8eca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231227T150000Z
-LOCATION:24-512
-DTSTART:20231227T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:90880fa9-dd58-42ca-b56c-32983150585d@9088.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231010T150000Z
-LOCATION:ГУК В-600
-DTSTART:20231010T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:1aa6beaa-8218-45cd-bf3c-098e24d06b3e@1aa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231219T150000Z
-LOCATION:ГУК В-600
-DTSTART:20231219T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:c556a0b5-9e8e-4990-9e4f-fb995962c0ec@c556.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231120T164500Z
-LOCATION:24-713
-DTSTART:20231120T151500Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:cfe340bb-c609-4607-820c-dc9e75e89449@cfe3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231110T183000Z
-LOCATION:24-402
-DTSTART:20231110T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:6e586237-18f4-4759-aafd-c143ca13f1a3@6e58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231019T150000Z
-LOCATION:11-33
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:4dd8b00b-8a13-41d0-99f8-ec18acf78fa7@4dd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231117T183000Z
-LOCATION:24-402
-DTSTART:20231117T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:a6a3cf51-813a-4d14-b4a6-fe8c415cfecd@a6a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20230913T150000Z
-LOCATION:24-512
-DTSTART:20230913T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:fc54483b-322c-4d9d-8bab-a45e38fc53b1@fc54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231024T150000Z
-LOCATION:ГУК В-600
-DTSTART:20231024T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:eab5b53a-c5cf-441a-b48c-638e0a9fd684@eab5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231218T150000Z
-LOCATION:24-713
-DTSTART:20231218T133000Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:4538cba2-fcd1-496a-b1f1-e6c65354262a@4538.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231005T150000Z
-LOCATION:11-33
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:b3a4f27c-e48e-448d-9276-e0f0f4e08650@b3a4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231227T164500Z
-LOCATION:24-512
-DTSTART:20231227T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:e40e1caf-fc27-4750-aed4-1ee4937c5c49@e40e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231106T183000Z
-LOCATION:24-713
-DTSTART:20231106T170000Z
-SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
-UID:4ebb34c0-04fb-4c72-b6de-6aa578007126@4ebb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231215T183000Z
-LOCATION:24-402
-DTSTART:20231215T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:d5fd3a23-2e72-4c37-910f-4d6b2685114d@d5fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20230927T164500Z
-LOCATION:24-512
-DTSTART:20230927T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:6b70e9b0-cf3d-475c-99bc-86f5fe70c89d@6b70.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20230915T164500Z
-LOCATION:24-402
-DTSTART:20230915T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:ff9f1cf8-c914-49f5-b8c7-f8391e11488e@ff9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20230905T150000Z
-LOCATION:ГУК В-600
-DTSTART:20230905T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:9b986b75-7a5d-4700-ae2f-1d6babcb6f8e@9b98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231201T183000Z
-LOCATION:24-402
-DTSTART:20231201T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:916594e1-bc2c-4c9e-8c22-0f755931ea99@9165.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231201T164500Z
-LOCATION:24-402
-DTSTART:20231201T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:2ec2e9df-b1e2-471b-9fb6-1449e3039bc6@2ec2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20230920T183000Z
-LOCATION:24-512
-DTSTART:20230920T170000Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:5dd31867-5790-4494-a984-4e79a9ca5184@5dd3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20230925T183000Z
-LOCATION:24-713
-DTSTART:20230925T170000Z
-SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
-UID:a054e063-da16-4c42-87ec-fae8c4b67fa2@a054.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231115T183000Z
-LOCATION:24-512
-DTSTART:20231115T170000Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:f2cbd02e-b3bb-42bf-b4a1-e54932c6ef1c@f2cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231106T164500Z
-LOCATION:24-713
-DTSTART:20231106T151500Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:59936f73-af2d-4b0b-9431-74c74dffa7fb@5993.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231009T183000Z
-LOCATION:24-713
-DTSTART:20231009T170000Z
-SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
-UID:664cfc62-63a5-4699-a671-97afc8ca9205@664c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231228T150000Z
-LOCATION:11-33
-DTSTART:20231228T133000Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:3d88e620-0997-45a3-b539-7495c947fc64@3d88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231129T150000Z
-LOCATION:24-512
-DTSTART:20231129T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:27bc0422-6b1c-46c8-9328-0a68f327f39b@27bc.org
+UID:2430b1d1-be51-43c0-854d-3f33b2521ef1@2430.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матвеев Юрий Александрович
@@ -335,359 +15,7 @@ DTEND:20231213T183000Z
 LOCATION:24-512
 DTSTART:20231213T170000Z
 SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:38ec689a-4e5a-42f7-aa2d-a2d1f1504e72@38ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231020T183000Z
-LOCATION:24-402
-DTSTART:20231020T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:e5f13948-6b57-4aa2-9509-a0661fa405a9@e5f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231227T183000Z
-LOCATION:24-512
-DTSTART:20231227T170000Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:4759c47c-2a3d-4df2-a516-b222f9461532@4759.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231208T164500Z
-LOCATION:24-402
-DTSTART:20231208T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:e0e104c3-8ee9-409f-a19a-4895adaccac1@e0e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20230927T150000Z
-LOCATION:24-512
-DTSTART:20230927T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:f6d87938-7b68-4671-971c-5ad927c464b5@f6d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20230913T164500Z
-LOCATION:24-512
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:50fc5eb2-8f08-45e9-a146-973eb9483f23@50fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231204T183000Z
-LOCATION:24-713
-DTSTART:20231204T170000Z
-SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
-UID:aa5f9622-5803-40c2-bc4d-89a88e215f24@aa5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231101T150000Z
-LOCATION:24-512
-DTSTART:20231101T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:568827f3-072e-4a8e-b4c8-6620e9b5fdd4@5688.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231106T150000Z
-LOCATION:24-713
-DTSTART:20231106T133000Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:dfca9f3d-9523-442b-9be4-8e53ebc5e1cf@dfca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231018T164500Z
-LOCATION:24-512
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:0889734e-a636-40aa-a113-82c03f27c365@0889.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231129T183000Z
-LOCATION:24-512
-DTSTART:20231129T170000Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:6d248cf0-a322-43ff-99b9-ac3b0da54129@6d24.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20230906T183000Z
-LOCATION:24-512
-DTSTART:20230906T170000Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:9fa379d5-7404-4574-9604-7708067660e5@9fa3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231229T183000Z
-LOCATION:24-402
-DTSTART:20231229T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:da06f673-55bb-43be-bac0-e997ea54649c@da06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231128T150000Z
-LOCATION:ГУК В-600
-DTSTART:20231128T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:a5926898-6678-4361-b85c-0cadeb5a0274@a592.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20230907T150000Z
-LOCATION:11-33
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:7aeddb1f-9a3a-4012-a78f-69758b80fddf@7aed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231130T150000Z
-LOCATION:11-33
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:bf1c44fc-3d12-4238-9a12-50438c0df959@bf1c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20230926T150000Z
-LOCATION:ГУК В-600
-DTSTART:20230926T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:005b787c-1520-4c5e-aff4-a874d62a066a@005b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20230925T164500Z
-LOCATION:24-713
-DTSTART:20230925T151500Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:98c6a163-83df-443e-bd49-5012c1363bc8@98c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231013T183000Z
-LOCATION:24-402
-DTSTART:20231013T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:1e0fd526-44b9-43d4-9f05-9c434fb79396@1e0f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20230929T183000Z
-LOCATION:24-402
-DTSTART:20230929T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:89dbbf5a-b081-48a4-b804-951fc315f6fa@89db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231123T150000Z
-LOCATION:11-33
-DTSTART:20231123T133000Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:88e8a2e5-a8b7-4870-84fe-7654d05ee85c@88e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20230906T150000Z
-LOCATION:24-512
-DTSTART:20230906T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:e12472f5-5cf5-4dd8-993c-c0c87364a450@e124.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20230912T150000Z
-LOCATION:ГУК В-600
-DTSTART:20230912T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:04c81b73-1d95-4683-9c42-66e9447025db@04c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20230921T164500Z
-LOCATION:11-33
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:0e4683cc-1f9d-444b-9089-98b37ca9c87f@0e46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231027T183000Z
-LOCATION:24-402
-DTSTART:20231027T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:12b92886-1d63-43d0-add7-5fc3b000fe2a@12b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231017T150000Z
-LOCATION:ГУК В-600
-DTSTART:20231017T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:86b05b5b-973b-445e-af2f-9fc086f3b213@86b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231220T164500Z
-LOCATION:24-512
-DTSTART:20231220T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:d9edf0e6-2ffe-401e-9a19-779288d24d50@d9ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231115T150000Z
-LOCATION:24-512
-DTSTART:20231115T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:1b83320f-d424-4ab0-9265-9b72badea390@1b83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231122T150000Z
-LOCATION:24-512
-DTSTART:20231122T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:33181c66-3e75-443c-93e8-2a03e18e2b2c@3318.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20230920T150000Z
-LOCATION:24-512
-DTSTART:20230920T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:8c580399-2c69-4637-9fb7-051309660b4a@8c58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231026T150000Z
-LOCATION:11-33
-DTSTART:20231026T133000Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:c6f7e937-a4cb-4467-9897-66f8c8076d4a@c6f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231005T164500Z
-LOCATION:11-33
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:813165fb-087e-4098-a531-a2511a5ace6f@8131.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231116T164500Z
-LOCATION:11-33
-DTSTART:20231116T151500Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:d1101dce-c9b0-4d09-8e1b-75988561cee0@d110.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231204T150000Z
-LOCATION:24-713
-DTSTART:20231204T133000Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:4baeda8e-4cdc-4d47-9a86-54fe98edf0bb@4bae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231023T150000Z
-LOCATION:24-713
-DTSTART:20231023T133000Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:7fe843ad-5393-49d2-80fc-e2cb9011435b@7fe8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20230919T150000Z
-LOCATION:ГУК В-600
-DTSTART:20230919T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:ca88bd07-5aa7-47b5-afb0-d953f4138a57@ca88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231019T164500Z
-LOCATION:11-33
-DTSTART:20231019T151500Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:72258127-475b-4cd9-8fa7-5a2d314e5e5a@7225.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20230908T183000Z
-LOCATION:24-402
-DTSTART:20230908T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:42910da8-a2dc-4a65-9a05-cdf68d1313db@4291.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20230929T164500Z
-LOCATION:24-402
-DTSTART:20230929T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:ac871a7b-2c72-47d1-9dcd-7038133c1c2b@ac87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231101T164500Z
-LOCATION:24-512
-DTSTART:20231101T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:894466be-ee29-4314-bfaf-0d7e31505698@8944.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231214T150000Z
-LOCATION:11-33
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:3f83fd7c-a254-4e97-b5cf-d81f7cb86170@3f83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231023T164500Z
-LOCATION:24-713
-DTSTART:20231023T151500Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:d7cedcf6-c666-419d-9239-ac39d7b046af@d7ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20230922T183000Z
-LOCATION:24-402
-DTSTART:20230922T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:fc2af138-d284-4b92-9a0a-dd4d487e0f82@fc2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231101T183000Z
-LOCATION:24-512
-DTSTART:20231101T170000Z
-SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:3d582c5d-d468-41b6-9860-8271dae8a043@3d58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20231102T150000Z
-LOCATION:11-33
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:26d5433b-decf-4f10-8a02-a87fd9fc773b@26d5.org
+UID:e6703a53-ef79-4f3c-9d32-3bd5c09933be@e670.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фирсюк Сергей Олегович
@@ -695,183 +23,47 @@ DTEND:20231116T150000Z
 LOCATION:11-33
 DTSTART:20231116T133000Z
 SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:566e1782-86f0-49fd-8701-ff0ee01f651b@566e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231218T183000Z
-LOCATION:24-713
-DTSTART:20231218T170000Z
-SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
-UID:0589e8c0-547a-49aa-88fc-238017871b43@0589.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231108T150000Z
-LOCATION:24-512
-DTSTART:20231108T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:326ad95a-3c1f-4131-bf3b-4116be3f7499@326a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231027T164500Z
-LOCATION:24-402
-DTSTART:20231027T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:ab44b662-9814-46ec-b9a8-9ff1a5387671@ab44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231109T150000Z
-LOCATION:11-33
-DTSTART:20231109T133000Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:8cfec576-7c9d-4ceb-a04f-778060b6af0f@8cfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20230908T164500Z
-LOCATION:24-402
-DTSTART:20230908T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:f7aa6249-778f-4a5b-8cf1-22fbeaae9028@f7aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231206T150000Z
-LOCATION:24-512
-DTSTART:20231206T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:77d96e7f-55b9-4bb3-be12-3d2066d220a3@77d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231229T164500Z
-LOCATION:24-402
-DTSTART:20231229T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:f5e08d7e-9a80-46ac-99f7-1f2a001d29ba@f5e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20230928T164500Z
-LOCATION:11-33
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:793a6439-863b-4a5d-ada4-306dc744df86@793a.org
+UID:c43cc0bb-ec38-4a5e-92d9-70b5542242b8@c43c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231003T150000Z
+DTEND:20230912T150000Z
 LOCATION:ГУК В-600
-DTSTART:20231003T133000Z
+DTSTART:20230912T133000Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:4367cfb1-a6a0-4d4b-a5c9-e6a3856289ec@4367.org
+UID:db6d9abd-6852-4bea-b598-8a2cd3fb3640@db6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20230926T150000Z
+LOCATION:ГУК В-600
+DTSTART:20230926T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:7c5f3527-a2b7-495f-81d7-35e285579620@7c5f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231109T164500Z
+DTEND:20231026T150000Z
 LOCATION:11-33
-DTSTART:20231109T151500Z
+DTSTART:20231026T133000Z
 SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:53cb9544-592a-4a0d-9e43-75099ee6591f@53cb.org
+UID:5b0b5942-0050-42b0-9afa-f748a5a47439@5b0b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231120T150000Z
+DTEND:20231106T164500Z
 LOCATION:24-713
-DTSTART:20231120T133000Z
+DTSTART:20231106T151500Z
 SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:640ac942-3e16-4b92-a8bc-b642ac8cc373@640a.org
+UID:49bd046d-c6c9-441b-8d59-00b71ad55c07@49bd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20230911T164500Z
-LOCATION:24-713
-DTSTART:20230911T151500Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:852229df-a533-45ba-9ad8-a24618d7e97e@8522.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231124T183000Z
-LOCATION:24-402
-DTSTART:20231124T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:cf8c0715-82fb-4768-986d-e2c778946610@cf8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231108T164500Z
-LOCATION:24-512
-DTSTART:20231108T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:7e9b8d0c-010d-4707-8d0f-b2c5abd9c08a@7e9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231218T164500Z
-LOCATION:24-713
-DTSTART:20231218T151500Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:638b6b5f-d813-4a26-a481-5ba3e08fc88a@638b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231221T164500Z
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231102T164500Z
 LOCATION:11-33
-DTSTART:20231221T151500Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:fa320f77-0a0c-4a91-8c81-8a02f60d9f62@fa32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20230920T164500Z
-LOCATION:24-512
-DTSTART:20230920T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:d4568563-9d22-4a1c-be01-c019dec67322@d456.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231011T150000Z
-LOCATION:24-512
-DTSTART:20231011T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:9fdff37f-3811-40ab-999e-82b031b9719a@9fdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231221T150000Z
-LOCATION:11-33
-DTSTART:20231221T133000Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:cba604dc-7a19-4b66-92fe-44c242e97104@cba6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231110T164500Z
-LOCATION:24-402
-DTSTART:20231110T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:e20e1b25-2809-4145-b9bb-ad861d53396e@e20e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231208T183000Z
-LOCATION:24-402
-DTSTART:20231208T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:19482cc1-9573-4e4d-9852-5cb28bc1607e@1948.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231006T164500Z
-LOCATION:24-402
-DTSTART:20231006T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:94a2f483-0f4e-43a3-bd73-5af749be7b56@94a2.org
+DTSTART:20231102T151500Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:89b3e81f-8681-4158-ba7f-8844cca1c648@89b3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Фирсюк Сергей Олегович
@@ -879,287 +71,23 @@ DTEND:20231130T164500Z
 LOCATION:11-33
 DTSTART:20231130T151500Z
 SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:51857bc9-fddf-4573-ae2c-f928b66b2c35@5185.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231013T164500Z
-LOCATION:24-402
-DTSTART:20231013T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:c125c3cd-91a4-429a-ad75-086e549bab71@c125.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231215T164500Z
-LOCATION:24-402
-DTSTART:20231215T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:db386dc6-2d62-411b-bf77-71932607b741@db38.org
+UID:0788114b-14be-44b8-b01a-173707116d11@0788.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20230911T183000Z
+DTEND:20231204T150000Z
 LOCATION:24-713
-DTSTART:20230911T170000Z
-SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
-UID:08431dea-aec0-4384-9c68-dd322d2ba414@0843.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231018T150000Z
-LOCATION:24-512
-DTSTART:20231018T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:d4d19eb5-f81a-404d-9ebd-675dd9fc0693@d4d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20230906T164500Z
-LOCATION:24-512
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:3fc57592-2fb0-46e8-aee7-04f24f25961b@3fc5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231213T164500Z
-LOCATION:24-512
-DTSTART:20231213T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:0fba66bd-bb98-40bf-b300-7b09fba90936@0fba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231222T183000Z
-LOCATION:24-402
-DTSTART:20231222T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:05edd4c4-079d-4edb-b00c-63f166df8797@05ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20230914T164500Z
-LOCATION:11-33
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:166da076-7cb2-4993-bf60-c1bc235df06b@166d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231226T150000Z
-LOCATION:ГУК В-600
-DTSTART:20231226T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:9fc63623-2d68-4f2a-8718-bc5bfd995cbd@9fc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231012T150000Z
-LOCATION:11-33
-DTSTART:20231012T133000Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:aa9368ee-ab6e-4c33-9868-67726b3586a8@aa93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231122T164500Z
-LOCATION:24-512
-DTSTART:20231122T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:0c3ac81f-677e-4ffd-890b-fbfc357e7c9e@0c3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231212T150000Z
-LOCATION:ГУК В-600
-DTSTART:20231212T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:b17790e5-8355-4e49-bd5b-fd6e3c902440@b177.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231206T164500Z
-LOCATION:24-512
-DTSTART:20231206T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:cd8f131a-e63b-45fa-8be0-9b9efa74cdfe@cd8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231207T164500Z
-LOCATION:11-33
-DTSTART:20231207T151500Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:05e76b1f-2366-4100-afd4-a185d1ccf91f@05e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231009T164500Z
-LOCATION:24-713
-DTSTART:20231009T151500Z
+DTSTART:20231204T133000Z
 SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:a6974ccf-1d83-42ce-ada3-e124cd5052f3@a697.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20230915T183000Z
-LOCATION:24-402
-DTSTART:20230915T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:a8b69f6d-72ae-46dd-ba32-227dcb4fbbff@a8b6.org
+UID:bd966ed3-2793-4909-a8ba-329b762593bd@bd96.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231025T164500Z
+DTEND:20231115T183000Z
 LOCATION:24-512
-DTSTART:20231025T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:4f027268-9bc3-42e1-b8ac-ad803f0e0278@4f02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231222T164500Z
-LOCATION:24-402
-DTSTART:20231222T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:7df86d84-472f-4730-b6aa-b0c76cd0860d@7df8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231004T164500Z
-LOCATION:24-512
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:b47912df-c1df-47d6-b80f-d47e1abe93cd@b479.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231012T164500Z
-LOCATION:11-33
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:36274b8e-0e74-42b9-8c83-80549c793b11@3627.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20230907T164500Z
-LOCATION:11-33
-DTSTART:20230907T151500Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:245485c8-09f3-4264-acfc-7d0a9adadb6f@2454.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231026T164500Z
-LOCATION:11-33
-DTSTART:20231026T151500Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:7333746a-eecf-433c-ae65-c6ea1de93552@7333.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20231207T150000Z
-LOCATION:11-33
-DTSTART:20231207T133000Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:7df894a7-003c-43ce-a4bf-50464fcbf6f4@7df8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231025T150000Z
-LOCATION:24-512
-DTSTART:20231025T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:bd20435b-254c-4096-82e5-f587ad8aadae@bd20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231018T183000Z
-LOCATION:24-512
-DTSTART:20231018T170000Z
+DTSTART:20231115T170000Z
 SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
-UID:7b3cac73-087f-4b2d-b331-f89e0105f00a@7b3c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсюк Сергей Олегович
-DTEND:20230921T150000Z
-LOCATION:11-33
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Маркетинг ракетно-космических услуг
-UID:a23a9aa8-a71d-4677-ad04-b732cd959a85@a23a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231120T183000Z
-LOCATION:24-713
-DTSTART:20231120T170000Z
-SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
-UID:0dca6d31-25f4-42e3-8626-b3e518010d59@0dca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231213T150000Z
-LOCATION:24-512
-DTSTART:20231213T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:15b56561-2b64-4345-a964-2e0f58514dca@15b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231220T150000Z
-LOCATION:24-512
-DTSTART:20231220T133000Z
-SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
-UID:9a88b04d-19dd-4fc9-b593-04e95a0cceee@9a88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231006T183000Z
-LOCATION:24-402
-DTSTART:20231006T170000Z
-SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
-UID:befc3f4b-a3ea-4f9f-b752-12e28b03046e@befc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231031T150000Z
-LOCATION:ГУК В-600
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:e3b7be82-10de-4e6b-84fb-91561e9f93d6@e3b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231009T150000Z
-LOCATION:24-713
-DTSTART:20231009T133000Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:925bfd7f-54e0-48d2-9ae4-785c0e7cd882@925b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231115T164500Z
-LOCATION:24-512
-DTSTART:20231115T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:ec7c5713-283a-4650-82a4-4ef1447299ce@ec7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Ермаков Владимир Юрьевич
-DTEND:20231204T164500Z
-LOCATION:24-713
-DTSTART:20231204T151500Z
-SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
-UID:45db61d6-a073-4861-9bc0-af0052f167f9@45db.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Матвеев Юрий Александрович
-DTEND:20231129T164500Z
-LOCATION:24-512
-DTSTART:20231129T151500Z
-SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
-UID:ea365507-b9ad-47d9-adce-561cab7320aa@ea36.org
+UID:586afcf6-21b3-42ae-90e4-1fc8a6a358b0@586a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Викулов Алексей Геннадьевич
@@ -1167,31 +95,183 @@ DTEND:20230928T150000Z
 LOCATION:11-33
 DTSTART:20230928T133000Z
 SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:da875b47-fda5-4e40-86b9-1960d72535a1@da87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Викулов Алексей Геннадьевич
-DTEND:20230914T150000Z
-LOCATION:11-33
-DTSTART:20230914T133000Z
-SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
-UID:e72d72a3-91e2-45de-b4ec-dbbb3040d301@e72d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кулик Юрий Павлович
-DTEND:20231117T164500Z
-LOCATION:24-402
-DTSTART:20231117T151500Z
-SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:fbfd6ea5-ec10-4a62-9239-c1d4887a113e@fbfd.org
+UID:e10bf673-14a2-484b-969c-850dc20c21b6@e10b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Алексеева Инна Константиновна
-DTEND:20231205T150000Z
+DTEND:20231226T150000Z
 LOCATION:ГУК В-600
-DTSTART:20231205T133000Z
+DTSTART:20231226T133000Z
 SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
-UID:b92a602c-cbe7-4f54-85b0-ea8f60e440cc@b92a.org
+UID:6b96ab1f-15b3-484a-a4b7-237190e1537b@6b96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20230914T164500Z
+LOCATION:11-33
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:4c6e5066-5b11-493c-9c89-414edf91a0fd@4c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231102T150000Z
+LOCATION:11-33
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:4e3b5769-4c24-4add-ad5f-ae3183d901d9@4e3b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20230913T150000Z
+LOCATION:24-512
+DTSTART:20230913T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:197e889b-545c-4767-b414-fd31a14f2852@197e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20230907T164500Z
+LOCATION:11-33
+DTSTART:20230907T151500Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:586d168a-24e5-45a4-b90a-0fd253c05ab8@586d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231116T164500Z
+LOCATION:11-33
+DTSTART:20231116T151500Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:cede25f9-6134-4ce1-b091-0bfc4a351a37@cede.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231009T183000Z
+LOCATION:24-713
+DTSTART:20231009T170000Z
+SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
+UID:75ba8745-5e84-4e84-a610-47f02d0bf660@75ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20230907T150000Z
+LOCATION:11-33
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:5e836850-46e2-4b30-a12c-0cb21941183c@5e83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231124T164500Z
+LOCATION:24-402
+DTSTART:20231124T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:23a6526d-2752-4d5e-a8fb-e0b1a6900167@23a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20230913T164500Z
+LOCATION:24-512
+DTSTART:20230913T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:45bd1120-f66f-486b-8801-1e9b1fe7245b@45bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20230922T183000Z
+LOCATION:24-402
+DTSTART:20230922T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:99662018-b97e-4898-be31-91fa6e3367b0@9966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231114T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:d4455070-bbd5-4fe6-a336-6ed678c934e6@d445.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231110T164500Z
+LOCATION:24-402
+DTSTART:20231110T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:91d5e119-46db-4e0a-b1b5-336a53f13bdd@91d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20230911T183000Z
+LOCATION:24-713
+DTSTART:20230911T170000Z
+SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
+UID:82a25eb7-8568-4056-8da2-516a2500057b@82a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231124T183000Z
+LOCATION:24-402
+DTSTART:20231124T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:90167f9e-c052-41fe-bef5-6af7fa2c2447@9016.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20231026T164500Z
+LOCATION:11-33
+DTSTART:20231026T151500Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:cf478ce6-e25e-4db0-b056-55f370f9efb6@cf47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231219T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231219T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:9171a7cf-ad3e-4295-8b7a-f3923d8fc9b5@9171.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231107T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231107T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:54f7bca3-a028-449d-b0fc-2efdf3cfaacb@54f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231129T183000Z
+LOCATION:24-512
+DTSTART:20231129T170000Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:1be5bae3-94a5-4d36-b303-f0fedfe314dc@1be5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231229T183000Z
+LOCATION:24-402
+DTSTART:20231229T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:d1f964fe-ab6e-48dd-8ffe-c1323b0d374a@d1f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231017T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231017T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:fa70f480-f7a7-42e3-a5bc-6f4d5f606405@fa70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20231109T164500Z
+LOCATION:11-33
+DTSTART:20231109T151500Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:756d2ab1-c8a0-45ef-801c-020c9c56f249@756d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Кулик Юрий Павлович
@@ -1199,6 +279,926 @@ DTEND:20230922T164500Z
 LOCATION:24-402
 DTSTART:20230922T151500Z
 SUMMARY:ЛК Инженерное управление жизненным циклом изделий
-UID:96ec47e5-4097-4133-a242-29498e4e2c1c@96ec.org
+UID:03f85c7b-3610-42e6-af33-7ebf9f8e1922@03f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231120T183000Z
+LOCATION:24-713
+DTSTART:20231120T170000Z
+SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
+UID:c4f5eb9a-6c1e-4e17-bbfc-358a0597e6d2@c4f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20231221T150000Z
+LOCATION:11-33
+DTSTART:20231221T133000Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:96dcbe32-6497-4761-a7de-abe48f61e866@96dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231011T150000Z
+LOCATION:24-512
+DTSTART:20231011T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:91c97a43-1d68-4c47-a501-b480e5a59ca0@91c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231115T150000Z
+LOCATION:24-512
+DTSTART:20231115T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:7a81c1e0-5826-49d3-8ee6-72fa263a82e2@7a81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231020T183000Z
+LOCATION:24-402
+DTSTART:20231020T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:d968d92c-3d4f-4b11-ac64-7aa94b99af84@d968.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231020T164500Z
+LOCATION:24-402
+DTSTART:20231020T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:c1c4252f-7139-46d5-9c5f-8120691c778c@c1c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231117T164500Z
+LOCATION:24-402
+DTSTART:20231117T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:ccb4fc90-c4b8-4142-8ea3-9f03194934da@ccb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231005T150000Z
+LOCATION:11-33
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:deff2af6-f8fa-4bf4-9ef1-b69c19f5dd58@deff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20231123T150000Z
+LOCATION:11-33
+DTSTART:20231123T133000Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:8e832056-037a-4ec1-a6da-686089366f16@8e83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231023T150000Z
+LOCATION:24-713
+DTSTART:20231023T133000Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:be4fd611-e5c6-4eb6-ae1b-0a20cea9264b@be4f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20230915T183000Z
+LOCATION:24-402
+DTSTART:20230915T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:6744252f-9a43-499d-acfa-e509482346ea@6744.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231024T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231024T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:511d349a-7433-41a6-a56b-4bca2995bcea@511d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231019T164500Z
+LOCATION:11-33
+DTSTART:20231019T151500Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:0c52d039-edbc-4d2d-9c69-fe21b5c35ed9@0c52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231101T183000Z
+LOCATION:24-512
+DTSTART:20231101T170000Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:b2f41044-a7e2-429c-bea8-d19f9bf27712@b2f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231129T164500Z
+LOCATION:24-512
+DTSTART:20231129T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:b34335c9-101d-4c59-b20d-2595afe1fc7e@b343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231031T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:9ee443f3-2512-4419-b892-9ba307e510b5@9ee4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231117T183000Z
+LOCATION:24-402
+DTSTART:20231117T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:f90cdd0b-e0f1-429d-80e9-a53eb7822589@f90c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231009T150000Z
+LOCATION:24-713
+DTSTART:20231009T133000Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:11a9fc0b-1840-4c99-958e-a4a04a6b2369@11a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231110T183000Z
+LOCATION:24-402
+DTSTART:20231110T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:bd7143cd-0578-477d-9aba-55c3a1febc3c@bd71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231018T164500Z
+LOCATION:24-512
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:b703c5cb-c096-4ee8-9751-8b252a025822@b703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20231221T164500Z
+LOCATION:11-33
+DTSTART:20231221T151500Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:1abc1da5-9c84-4983-9e97-e5af22623adf@1abc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231201T164500Z
+LOCATION:24-402
+DTSTART:20231201T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:ebe2d57d-8ed2-45d1-bc0c-7892b74e06a0@ebe2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20230908T183000Z
+LOCATION:24-402
+DTSTART:20230908T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:51b7310f-c71a-4376-b45b-76a789de5a32@51b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231004T150000Z
+LOCATION:24-512
+DTSTART:20231004T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:b687e43d-5edc-4c62-aa57-5fe74550f2df@b687.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20230925T150000Z
+LOCATION:24-713
+DTSTART:20230925T133000Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:291cf97d-53ec-4101-912e-79e8677158d8@291c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231213T164500Z
+LOCATION:24-512
+DTSTART:20231213T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:0c2d34cc-75ee-4cf5-9dff-a9ac8036b570@0c2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20231207T150000Z
+LOCATION:11-33
+DTSTART:20231207T133000Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:e1f116b1-e077-4bd5-a37f-c618421304d4@e1f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231130T150000Z
+LOCATION:11-33
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:a96dee61-6929-472b-99d5-e81fd9185946@a96d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231013T164500Z
+LOCATION:24-402
+DTSTART:20231013T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:916f55f0-064c-43d0-8615-25a70ab49c40@916f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20230906T183000Z
+LOCATION:24-512
+DTSTART:20230906T170000Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:fdc59f9d-3d23-4044-baaa-4e3cda24f52a@fdc5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231222T183000Z
+LOCATION:24-402
+DTSTART:20231222T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:86fbbdad-9bf8-4cc8-b911-4698d52ca8ea@86fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231214T164500Z
+LOCATION:11-33
+DTSTART:20231214T151500Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:2609078d-fe3c-4902-9e21-0afb10866a56@2609.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20230925T183000Z
+LOCATION:24-713
+DTSTART:20230925T170000Z
+SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
+UID:1f8b63a6-7346-48e4-aeac-fbeffe3bef63@1f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231018T150000Z
+LOCATION:24-512
+DTSTART:20231018T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:37f4c61b-240c-4301-9e94-4fe4a528ab8d@37f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231218T183000Z
+LOCATION:24-713
+DTSTART:20231218T170000Z
+SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
+UID:2fc2721f-3ca7-479e-85f9-d8d06809b748@2fc2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20230906T150000Z
+LOCATION:24-512
+DTSTART:20230906T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:32bdf981-257f-41ae-900c-3b4b1c501b3d@32bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231120T164500Z
+LOCATION:24-713
+DTSTART:20231120T151500Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:559a1814-367c-4c92-acce-c7cb3ba7a6be@559a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20230911T164500Z
+LOCATION:24-713
+DTSTART:20230911T151500Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:fa0a4d93-6518-4267-a88c-aca0365d97a0@fa0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231129T150000Z
+LOCATION:24-512
+DTSTART:20231129T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:b5f4d1e1-3f35-4fe2-ad6f-6c5594411763@b5f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231204T183000Z
+LOCATION:24-713
+DTSTART:20231204T170000Z
+SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
+UID:bcf10510-0df8-4fc1-98d3-52c0f4e8b9f2@bcf1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231228T150000Z
+LOCATION:11-33
+DTSTART:20231228T133000Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:246a0256-7a7b-45b1-83de-c9877fba3dd5@246a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231206T164500Z
+LOCATION:24-512
+DTSTART:20231206T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:078f1c8e-80f9-4146-acd7-26a058d9ec98@078f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20230929T164500Z
+LOCATION:24-402
+DTSTART:20230929T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:b35408e8-7254-4fa4-977e-2668c53b11ea@b354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20230915T164500Z
+LOCATION:24-402
+DTSTART:20230915T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:8db8b1dc-1ee7-4165-8af9-5d3373979245@8db8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20231109T150000Z
+LOCATION:11-33
+DTSTART:20231109T133000Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:c0c3b44a-d527-4198-9e7f-40b326568962@c0c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231208T164500Z
+LOCATION:24-402
+DTSTART:20231208T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:ff158223-792d-4ce2-8aea-49ccaf13313b@ff15.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20230925T164500Z
+LOCATION:24-713
+DTSTART:20230925T151500Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:3de317f4-8bb6-4cae-bcf1-ce726c4a89f7@3de3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231006T183000Z
+LOCATION:24-402
+DTSTART:20231006T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:4719d71c-19b1-4ae8-9d8d-cb35519544c6@4719.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231023T164500Z
+LOCATION:24-713
+DTSTART:20231023T151500Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:b6a095a3-ad13-4456-8de7-f2bd3815def6@b6a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231027T183000Z
+LOCATION:24-402
+DTSTART:20231027T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:a2850a2c-baab-4b17-82d8-e35073f89998@a285.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231023T183000Z
+LOCATION:24-713
+DTSTART:20231023T170000Z
+SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
+UID:25fbdbd4-1cb0-4088-88fd-496e34634e7a@25fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231227T183000Z
+LOCATION:24-512
+DTSTART:20231227T170000Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:612cae07-a4f3-4848-9a59-e8f7b1734a4a@612c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231018T183000Z
+LOCATION:24-512
+DTSTART:20231018T170000Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:d3cc4615-435a-405b-be13-23e44150bae0@d3cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231122T164500Z
+LOCATION:24-512
+DTSTART:20231122T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:ff4deb9f-8ced-4808-bde1-0e4e79bbeedd@ff4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231212T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231212T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:2bb11333-1e45-451c-8824-aebabfff358b@2bb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231214T150000Z
+LOCATION:11-33
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:e14e39ee-c90f-4054-a4bb-e3288db87f59@e14e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231208T183000Z
+LOCATION:24-402
+DTSTART:20231208T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:2d1e44bd-3c6a-450c-a11a-30392d581331@2d1e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231108T164500Z
+LOCATION:24-512
+DTSTART:20231108T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:2680d96b-e53a-4f64-9941-cd928cde9d3e@2680.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231227T150000Z
+LOCATION:24-512
+DTSTART:20231227T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:f2a745f1-1076-4b0b-bdca-961be16e215c@f2a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20230920T164500Z
+LOCATION:24-512
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:536e1381-9e80-4a47-ac5b-1587d426a8c4@536e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231019T150000Z
+LOCATION:11-33
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:67c9d4d2-5535-4fb5-9a4f-ea517b65fc62@67c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231025T150000Z
+LOCATION:24-512
+DTSTART:20231025T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:f3323f21-057f-4646-afe6-437b90194503@f332.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231215T164500Z
+LOCATION:24-402
+DTSTART:20231215T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:4056e2ab-2373-48b4-b109-71862c84b288@4056.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231005T164500Z
+LOCATION:11-33
+DTSTART:20231005T151500Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:d2bd4417-45de-42ad-8dd0-30c267a4f0a5@d2bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231206T150000Z
+LOCATION:24-512
+DTSTART:20231206T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:4d944b5e-f054-4b67-a717-0ed80904508c@4d94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20230905T150000Z
+LOCATION:ГУК В-600
+DTSTART:20230905T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:474d0caf-2c8e-4ea4-959e-6650bfb4c827@474d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20231012T164500Z
+LOCATION:11-33
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:07f45421-63ee-4d18-ab47-feb9d0a6cdea@07f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231220T150000Z
+LOCATION:24-512
+DTSTART:20231220T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:bfe1ca1d-a3c6-4614-b91d-3a0c4b2594b5@bfe1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20230921T150000Z
+LOCATION:11-33
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:12e3d93a-f10c-471a-98da-d38d66e6832a@12e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231106T150000Z
+LOCATION:24-713
+DTSTART:20231106T133000Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:18c81631-ec67-4032-8ff3-a814bc11cc7e@18c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231009T164500Z
+LOCATION:24-713
+DTSTART:20231009T151500Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:1174d951-e79d-4f3e-9e72-6f3fe8ed536b@1174.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231229T164500Z
+LOCATION:24-402
+DTSTART:20231229T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:a3873ce9-a88b-4df1-9ca1-94b65b1f5081@a387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231006T164500Z
+LOCATION:24-402
+DTSTART:20231006T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:613d1bc8-1a6b-4422-aa80-345d9d073976@613d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231025T164500Z
+LOCATION:24-512
+DTSTART:20231025T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:fc55d4b0-81dc-4043-8068-feaa393a9eea@fc55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231003T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231003T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:3a37b0d8-3121-4a6a-88a0-f77a7c32cb29@3a37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20231228T164500Z
+LOCATION:11-33
+DTSTART:20231228T151500Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:bcaa9fbb-d786-4d81-91c0-32d117a64537@bcaa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231010T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231010T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:c07050cd-55e8-4c92-bc63-a935290a0cd8@c070.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231201T183000Z
+LOCATION:24-402
+DTSTART:20231201T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:3de2befb-d75a-43fd-bc9e-8c4daed4c005@3de2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20230927T150000Z
+LOCATION:24-512
+DTSTART:20230927T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:519d4755-eb4b-4aa8-b546-82694f9583a8@519d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231121T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231121T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:693255e4-67ae-44e8-b83d-6cdb6791feec@6932.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231220T164500Z
+LOCATION:24-512
+DTSTART:20231220T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:5153302c-a8a1-4648-a55f-305d59c189ce@5153.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231004T164500Z
+LOCATION:24-512
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:fd0f7022-b372-4586-bc23-1a578aeff0a5@fd0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231106T183000Z
+LOCATION:24-713
+DTSTART:20231106T170000Z
+SUMMARY:ПЗ Проектно-динамический анализ функционирования  космических аппаратов
+UID:5ed76f5c-fc9d-400a-b88f-cf5ad4a913c2@5ed7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231122T150000Z
+LOCATION:24-512
+DTSTART:20231122T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:73b83263-789b-4dfb-895a-eab8b947be71@73b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20230928T164500Z
+LOCATION:11-33
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:858f5102-20f2-4ff3-9e74-3936cb8b028f@858f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231215T183000Z
+LOCATION:24-402
+DTSTART:20231215T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:6c06a358-e051-4df1-b13d-574803fb55f0@6c06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231218T150000Z
+LOCATION:24-713
+DTSTART:20231218T133000Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:d306bf8c-6b84-4f60-8d68-754d6133f8e2@d306.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20230920T150000Z
+LOCATION:24-512
+DTSTART:20230920T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:3291af2b-6050-4dff-9a64-c6a6fef17281@3291.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20231012T150000Z
+LOCATION:11-33
+DTSTART:20231012T133000Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:ae95ae17-0736-48c7-b12a-6ce9f17bd34b@ae95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20230927T164500Z
+LOCATION:24-512
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:9526652b-52f9-49e7-aede-da3076a53c6f@9526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231011T164500Z
+LOCATION:24-512
+DTSTART:20231011T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:f44138d4-89ce-4d7d-9741-16154d195745@f441.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231013T183000Z
+LOCATION:24-402
+DTSTART:20231013T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:ce22e8f7-2d71-4758-87f4-8625f64b85c2@ce22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231004T183000Z
+LOCATION:24-512
+DTSTART:20231004T170000Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:bb77bf6b-5a32-4ce4-ac03-f1ed623de31a@bb77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231108T150000Z
+LOCATION:24-512
+DTSTART:20231108T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:c558ec31-cb42-4f6c-b446-b6865f1747d6@c558.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231204T164500Z
+LOCATION:24-713
+DTSTART:20231204T151500Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:b9083f70-532a-4b19-99e4-ba0842b5e510@b908.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20231207T164500Z
+LOCATION:11-33
+DTSTART:20231207T151500Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:95f7eff3-1bd9-45c6-8c8e-f08824ea14c5@95f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20230914T150000Z
+LOCATION:11-33
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:7e66e252-d3ac-4750-83c7-d3a14ca06c9a@7e66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20230908T164500Z
+LOCATION:24-402
+DTSTART:20230908T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:c9b3a906-ff67-4d7a-81af-d96d5d706431@c9b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231101T150000Z
+LOCATION:24-512
+DTSTART:20231101T133000Z
+SUMMARY:ПЗ Научный семинар по ракетным системам и космонавтике
+UID:24604cb7-1015-4f2a-8458-527135d1c773@2460.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20230920T183000Z
+LOCATION:24-512
+DTSTART:20230920T170000Z
+SUMMARY:ПЗ Общее проектирование и управление разработками космических аппаратов
+UID:bd4dcf86-a9e2-41bf-8ff5-6e517813ce95@bd4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20230911T150000Z
+LOCATION:24-713
+DTSTART:20230911T133000Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:f7eed7aa-5a8d-4372-b5ae-6ae8cd732a0e@f7ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231128T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:b8cfaae9-e54f-4cf1-9961-3d2e640a5eb5@b8cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231222T164500Z
+LOCATION:24-402
+DTSTART:20231222T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:d9152eed-460e-4889-8c00-e4a3150b4edb@d915.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Викулов Алексей Геннадьевич
+DTEND:20231123T164500Z
+LOCATION:11-33
+DTSTART:20231123T151500Z
+SUMMARY:ПЗ Планирование эксперимента и методы обработка экспериментальных данных
+UID:3f0d46f5-5523-4971-b2f3-d9ced73532e1@3f0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20231205T150000Z
+LOCATION:ГУК В-600
+DTSTART:20231205T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:182ca4e8-8f95-41d3-beaf-f2998dc9c7d0@182c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20230929T183000Z
+LOCATION:24-402
+DTSTART:20230929T170000Z
+SUMMARY:ПЗ Инженерное управление жизненным циклом изделий
+UID:ef5ef8d0-7231-4f57-b36d-e68d3a67a764@ef5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20230906T164500Z
+LOCATION:24-512
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:3395976a-ca6e-4569-8893-db14d9afab0f@3395.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Алексеева Инна Константиновна
+DTEND:20230919T150000Z
+LOCATION:ГУК В-600
+DTSTART:20230919T133000Z
+SUMMARY:ПЗ Иностранный язык в профессиональной деятельности
+UID:aa1a5245-88be-48c4-84c8-5b5fb2c2e936@aa1a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсюк Сергей Олегович
+DTEND:20230921T164500Z
+LOCATION:11-33
+DTSTART:20230921T151500Z
+SUMMARY:ЛК Маркетинг ракетно-космических услуг
+UID:8c01f32e-d5a7-491c-86e6-aa3e864c7f0f@8c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231218T164500Z
+LOCATION:24-713
+DTSTART:20231218T151500Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:bd8d3aac-8e23-4833-9c05-be37b51d0040@bd8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ермаков Владимир Юрьевич
+DTEND:20231120T150000Z
+LOCATION:24-713
+DTSTART:20231120T133000Z
+SUMMARY:ЛК Проектно-динамический анализ функционирования  космических аппаратов
+UID:f4e05456-b8d2-454a-9f95-cb21ba8dbf64@f4e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231115T164500Z
+LOCATION:24-512
+DTSTART:20231115T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:08d6bed4-caf4-4181-a48f-5ad8d2b5b77c@08d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кулик Юрий Павлович
+DTEND:20231027T164500Z
+LOCATION:24-402
+DTSTART:20231027T151500Z
+SUMMARY:ЛК Инженерное управление жизненным циклом изделий
+UID:1e92d621-7047-49eb-919f-5974e9b08745@1e92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231101T164500Z
+LOCATION:24-512
+DTSTART:20231101T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:b81750d8-be53-4364-8ede-0254a73e6259@b817.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Матвеев Юрий Александрович
+DTEND:20231227T164500Z
+LOCATION:24-512
+DTSTART:20231227T151500Z
+SUMMARY:ЛК Общее проектирование и управление разработками космических аппаратов
+UID:e231654a-069c-4dbe-86d6-6cba6c6320e5@e231.org
 END:VEVENT
 END:VCALENDAR

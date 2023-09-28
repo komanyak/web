@@ -2,65 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231003T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:b8979802-3186-42e4-ad7d-751153e8a4dd@b897.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T150000Z
-LOCATION:--каф.
-DTSTART:20231023T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:d39c2b6f-8995-49a8-a307-ce24dc1b0e79@d39c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T164500Z
-LOCATION:--каф.
-DTSTART:20231030T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:0ac79547-270d-49f2-a851-50076cc47f05@0ac7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231114T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:a03c3313-6ba5-4bf8-bf57-0902fd7030c5@a03c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231013T164500Z
+DTEND:20230929T150000Z
 LOCATION:Берн. 14-208
-DTSTART:20231013T151500Z
-SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:082cfbd4-4f01-4036-9277-2399227c1725@082c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20230922T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20230922T133000Z
+DTSTART:20230929T133000Z
 SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:bd645f21-0ae8-4b47-b785-fcffd9477a8b@bd64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231027T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231027T151500Z
-SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:f8ad57a2-5792-4060-9ca4-bd5839793f41@f8ad.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230911T150000Z
-LOCATION:--каф.
-DTSTART:20230911T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:228cc98f-36b4-47fb-884b-ca624c032305@228c.org
+UID:74eb5eb1-e035-4d8e-a150-24cb1dc3e3c0@74eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -68,251 +15,21 @@ DTEND:20230919T164500Z
 LOCATION:ГУК В-228
 DTSTART:20230919T151500Z
 SUMMARY:ЛК Основы подготовки диссертации
-UID:d7aa08f6-25bf-41ac-9a09-f9a76ad00191@d7aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T164500Z
-LOCATION:--каф.
-DTSTART:20230918T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:7cb65ceb-22fc-45d7-b625-e7ba5cf35e56@7cb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231017T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:7e1d9804-ba73-499b-9a42-b00c1271e2b7@7e1d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T150000Z
-LOCATION:--каф.
-DTSTART:20231002T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:46a5ad29-e258-41b9-a43f-3909944a69d0@46a5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231128T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231128T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:c3629736-f493-49d5-be32-9e9a5fd050ec@c362.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231016T150000Z
-LOCATION:--каф.
-DTSTART:20231016T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:889005e7-0f43-4489-a2c9-5abba742749f@8890.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231208T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231208T133000Z
-SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:0763f8d9-8143-4918-939f-bb2970876263@0763.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231020T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231020T151500Z
-SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:2f655c2f-4c86-4bbc-a231-e9d401d5a08d@2f65.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231006T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231006T133000Z
-SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:86b2b59e-cbcc-4041-812c-097aa4350f18@86b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231110T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231110T151500Z
-SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:44015c3c-06f9-4bee-a574-bfde0ff36d75@4401.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231110T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231110T133000Z
-SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:74a7efae-a134-47c8-991e-729bd8d6a9f7@74a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20230915T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20230915T133000Z
-SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:fa7eca10-8b38-4091-b0e8-37774e8a71c1@fa7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231212T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231212T170000Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:f63f0dae-2ed7-45e5-a5a3-1bea75056c19@f63f.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230925T164500Z
-LOCATION:--каф.
-DTSTART:20230925T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a7aa7c36-4964-41f4-8aec-61aebf098641@a7aa.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231030T150000Z
-LOCATION:--каф.
-DTSTART:20231030T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:1d68b62e-be4d-4e68-aca7-c87079d0b4a3@1d68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231017T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231017T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:af6538ae-b193-41f5-abd1-7a20c21ccf33@af65.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T164500Z
-LOCATION:--каф.
-DTSTART:20231106T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:55f18509-a0d8-479c-9c35-7ffee04aaafb@55f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231027T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231027T133000Z
-SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:40c3b5cc-5759-490a-8e65-23d23946391b@40c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231128T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231128T151500Z
-SUMMARY:ПЗ Основы подготовки диссертации
-UID:b3466906-305d-4b36-9967-4a290cdf5e54@b346.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T150000Z
-LOCATION:--каф.
-DTSTART:20231120T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8cf07ed8-18f6-437d-ad39-790e3b3e2c86@8cf0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231114T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231114T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:933beb72-cdfe-4628-9bbc-8938aadcf435@933b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231020T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231020T133000Z
-SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:d52e398d-8af2-4b06-884a-e3675ad9a9c2@d52e.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231127T150000Z
-LOCATION:--каф.
-DTSTART:20231127T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a4a78ffb-4405-4715-9800-44c52d141a57@a4a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20230908T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20230908T151500Z
-SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:f25b6170-2529-47dc-8636-a297eccb39a7@f25b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20230915T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20230915T151500Z
-SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:814b53c1-6afd-458b-8024-f11791016003@814b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20230922T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20230922T151500Z
-SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:6cc9d8a6-e122-429f-879d-e6b356aa51bb@6cc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231006T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231006T151500Z
-SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:bc1773f9-85e7-47d9-be03-c3a3aee537b1@bc17.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231023T164500Z
-LOCATION:--каф.
-DTSTART:20231023T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f21437d8-bbdb-4fb8-b460-4707c82446e0@f214.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20230929T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20230929T133000Z
-SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:0e43a226-8e5c-4d3d-a232-1d17ca81efb4@0e43.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T150000Z
-LOCATION:--каф.
-DTSTART:20231113T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:01fa54e1-f0ec-442d-8a20-228c30869ba9@01fa.org
+UID:dd9fae3b-36e1-41eb-afbe-e5efecba9042@dd9f.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20231009T164500Z
 LOCATION:--каф.
 DTSTART:20231009T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:ce9e4def-c61b-46b9-9b9f-7b72b7edd504@ce9e.org
+UID:78e0791a-d199-4a5c-bf08-4e2f00684b02@78e0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20230908T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20230908T133000Z
-SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:d905d643-791f-4b7c-a584-414d41728668@d905.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231009T150000Z
+DTEND:20231016T150000Z
 LOCATION:--каф.
-DTSTART:20231009T133000Z
+DTSTART:20231016T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:f123b2c1-4f64-48d8-b95e-63ef40a448dc@f123.org
+UID:baa4edbf-51cf-4ef8-9084-4e015cfe91b7@baa4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
@@ -320,106 +37,22 @@ DTEND:20231117T150000Z
 LOCATION:Берн. 14-208
 DTSTART:20231117T133000Z
 SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:f10df2b6-a810-4622-a0be-a92d56865cfb@f10d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231215T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231215T133000Z
-SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:b0e15874-a847-49a8-adf9-4f46cfea80c9@b0e1.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20230918T150000Z
-LOCATION:--каф.
-DTSTART:20230918T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:a1da9718-1677-4f15-8a67-69acc6a7875f@a1da.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231106T150000Z
-LOCATION:--каф.
-DTSTART:20231106T133000Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:5c1c8337-9f94-494b-8dd3-09e63ca66e25@5c1c.org
+UID:c02101e3-9b7d-46f4-9b5a-7adef47136d4@c021.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230925T150000Z
 LOCATION:--каф.
 DTSTART:20230925T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:e1f7ed86-bc2a-443d-8e97-61395e1b6af0@e1f7.org
+UID:0da79430-b90a-4fb3-9296-3d227f100fd2@0da7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231201T150000Z
+DTEND:20230908T164500Z
 LOCATION:Берн. 14-208
-DTSTART:20231201T133000Z
-SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:57cfe6e7-331a-462a-a419-1ef3d756184b@57cf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231124T150000Z
-LOCATION:Берн. 14-208
-DTSTART:20231124T133000Z
-SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:7e2f3169-b1f4-4474-9c80-7b81902ce0db@7e2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231003T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231003T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:a3bdd45a-5bfc-4a9c-94f2-49fd8c9031f8@a3bd.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231113T164500Z
-LOCATION:--каф.
-DTSTART:20231113T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:8fbca3c7-14cc-4b2b-baa1-4b104d6a863c@8fbc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20230929T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20230929T151500Z
+DTSTART:20230908T151500Z
 SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:cf647d9b-1b3b-4b90-a438-da31d9a5a241@cf64.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231002T164500Z
-LOCATION:--каф.
-DTSTART:20231002T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4b4284e4-b1bd-47ab-8315-9a95cbf6e3cc@4b42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20230919T183000Z
-LOCATION:ГУК В-228
-DTSTART:20230919T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:cfbabb9d-2043-4fd9-a028-b83902f3f343@cfba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T183000Z
-LOCATION:ГУК В-228
-DTSTART:20231031T170000Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:8fa23791-d249-4c26-9870-6d6b0c57154e@8fa2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Рыбников Сергей Игорьевич
-DTEND:20231031T164500Z
-LOCATION:ГУК В-228
-DTSTART:20231031T151500Z
-SUMMARY:ЛК Основы подготовки диссертации
-UID:3b00e6fc-9267-40c1-ae70-b52b2072d26a@3b00.org
+UID:260fab97-38e0-4a1a-a9b6-2be6a8494381@260f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Рыбников Сергей Игорьевич
@@ -427,37 +60,260 @@ DTEND:20231212T164500Z
 LOCATION:ГУК В-228
 DTSTART:20231212T151500Z
 SUMMARY:ПЗ Основы подготовки диссертации
-UID:5ee486c8-0e4b-4c41-bc55-a2f8c4a2f23f@5ee4.org
+UID:31266aa5-e632-42bf-8a58-28c431c60beb@3126.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231124T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231124T133000Z
+SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:41b4ac64-e2f8-42ec-8c39-4c22270c122b@41b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231215T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231215T133000Z
+SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:f4bc73dc-bcf3-4821-b224-cd291114b34b@f4bc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T164500Z
+LOCATION:--каф.
+DTSTART:20230918T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:e0f3e5fc-e347-4fe6-8da0-ce78057e1bef@e0f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20230922T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20230922T151500Z
+SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:64918981-2dfb-49ea-8772-cf2ed13adb05@6491.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230925T164500Z
+LOCATION:--каф.
+DTSTART:20230925T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:4c0f6b63-aaa6-4151-ab58-f5aae8dbeabb@4c0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20230915T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20230915T151500Z
+SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:d6faac51-69b0-4255-b177-9688418ec8d5@d6fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231017T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:aaf4cbb9-1e39-43fd-a763-18ec83bbcd37@aaf4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231127T150000Z
+LOCATION:--каф.
+DTSTART:20231127T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:556b3596-f077-45a7-9f65-cc68a6be6fe9@556b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231208T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231208T133000Z
+SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:6e099844-0a5d-47ce-979e-7d949360546f@6e09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231114T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:0fbcb22c-1ce9-4235-ab10-74b4e551b895@0fbc.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230918T150000Z
+LOCATION:--каф.
+DTSTART:20230918T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5d8febe8-9618-4c54-92bf-bad4e1994096@5d8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231003T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:155128b7-c1c1-45e5-b91d-62c5612b3c3f@1551.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20230922T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20230922T133000Z
+SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:a52bbd7c-aa27-4ac2-9cd1-3d05b1dc3ff8@a52b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20230919T183000Z
+LOCATION:ГУК В-228
+DTSTART:20230919T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:1aa2d05c-684f-4ac7-8970-8d1a952d1522@1aa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231031T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:e822a3a0-fea9-4bc0-9212-7d85b000a7a8@e822.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231128T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231128T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:3f766b4d-5397-4089-b40c-65fb5e37ab66@3f76.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231027T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231027T133000Z
+SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:1ba33877-a036-41b0-a168-0b0c8c9c1184@1ba3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20230908T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20230908T133000Z
+SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:3e3cc520-95c1-4dd3-ae6b-ee60cf550783@3e3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231016T164500Z
+LOCATION:--каф.
+DTSTART:20231016T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:ef6a89d4-4d64-4028-a61a-b657cb7300f3@ef6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231114T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231114T151500Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:0426c866-f017-458f-a507-41bf09376520@0426.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T150000Z
+LOCATION:--каф.
+DTSTART:20231030T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:bb452d80-3103-4436-9ea2-9df35e1ff99f@bb45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231128T164500Z
+LOCATION:ГУК В-228
+DTSTART:20231128T151500Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:1a56792a-8781-41e4-bfe4-9f4ac859ca96@1a56.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20230911T150000Z
+LOCATION:--каф.
+DTSTART:20230911T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:1881f0cf-fd53-4ca9-85f7-f3c4216b6941@1881.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231020T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231020T133000Z
+SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:775b0a6e-1fd4-4a39-9d37-67e266c58b26@775b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231006T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231006T151500Z
+SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:5fdda5b7-ce12-4f03-9532-c86bcd9d8dfe@5fdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231201T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231201T133000Z
+SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:63da14ee-e856-4c07-ac40-310796b8ca7a@63da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T164500Z
+LOCATION:--каф.
+DTSTART:20231002T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:7ba4e672-4781-498c-a1b1-bdda42552b5c@7ba4.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T150000Z
+LOCATION:--каф.
+DTSTART:20231023T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:5d5dfa62-2b81-48c2-be34-bc7f0d92e83f@5d5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231031T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231031T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:84967595-bf8e-4c78-b1d3-d81bcf908024@8496.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T150000Z
+LOCATION:--каф.
+DTSTART:20231120T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:cd33f8f3-6aed-4c71-89ab-76773f986097@cd33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20230929T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20230929T151500Z
+SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:8f5cfc57-55b6-470a-a784-2335e36022f2@8f5c.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230904T150000Z
 LOCATION:--каф.
 DTSTART:20230904T133000Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:3a7cf8ee-e804-4a71-95ae-318f68ee10cf@3a7c.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20231120T164500Z
-LOCATION:--каф.
-DTSTART:20231120T151500Z
-SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:896c4c10-6c81-42ac-ba23-f36bde4909e7@896c.org
+UID:eddf285a-7a85-4436-997f-b2e0f7110c4a@eddf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231124T164500Z
+DTEND:20231020T164500Z
 LOCATION:Берн. 14-208
-DTSTART:20231124T151500Z
+DTSTART:20231020T151500Z
 SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:20324d78-c5f7-4c20-9aec-cacbfa933224@2032.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
-DTEND:20231117T164500Z
-LOCATION:Берн. 14-208
-DTSTART:20231117T151500Z
-SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:5c2c86d2-9152-4b8d-a2dd-f3b2505ff4fe@5c2c.org
+UID:c637fa3e-e185-4449-9c79-b736b0a8abe4@c637.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
@@ -465,27 +321,171 @@ DTEND:20231013T150000Z
 LOCATION:Берн. 14-208
 DTSTART:20231013T133000Z
 SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
-UID:cbc5ad1d-f383-478d-a281-65d0d369e321@cbc5.org
+UID:71dc6d72-95df-4fc3-8430-0de311d1f35b@71dc.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20231016T164500Z
+DTEND:20231113T164500Z
 LOCATION:--каф.
-DTSTART:20231016T151500Z
+DTSTART:20231113T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:4114b345-3379-4eb4-87e0-036e43045a93@4114.org
+UID:a6d6610c-9d74-419a-888b-70b91630c367@a6d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231117T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231117T151500Z
+SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:597f5ec6-1250-46ee-90c1-4b8ef7b979c1@597f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231002T150000Z
+LOCATION:--каф.
+DTSTART:20231002T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:a11a81c1-ed08-4110-a130-fe4d75663c9b@a11a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231120T164500Z
+LOCATION:--каф.
+DTSTART:20231120T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:3c18afd6-23c5-4a4d-a3ff-16e3132d3c50@3c18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231212T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231212T170000Z
+SUMMARY:ПЗ Основы подготовки диссертации
+UID:3e98bda5-6475-4ac7-b722-86d7100eb0c5@3e98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231006T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231006T133000Z
+SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:930fba5f-9b7f-4e38-acfc-d1d087607de5@930f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20230915T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20230915T133000Z
+SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:018a1a4f-ee88-429d-a38d-9843a5f7c70c@018a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231003T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231003T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:b47890a5-fa2d-4188-a3fc-c0bf7939c89b@b478.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231009T150000Z
+LOCATION:--каф.
+DTSTART:20231009T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:627a6447-ff7c-49c6-8b20-60e7aa3efcf0@627a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Рыбников Сергей Игорьевич
+DTEND:20231017T183000Z
+LOCATION:ГУК В-228
+DTSTART:20231017T170000Z
+SUMMARY:ЛК Основы подготовки диссертации
+UID:a4a24790-a604-4932-8b30-74e6f2856f9a@a4a2.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231023T164500Z
+LOCATION:--каф.
+DTSTART:20231023T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9a9ca529-7533-466a-a59b-b48361933ceb@9a9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T164500Z
+LOCATION:--каф.
+DTSTART:20231106T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:9d6b58c7-445c-4947-a13f-4c57232432d0@9d6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231110T150000Z
+LOCATION:Берн. 14-208
+DTSTART:20231110T133000Z
+SUMMARY:ЛК Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:c7396006-dc50-47c9-a786-5926aa395fcc@c739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231027T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231027T151500Z
+SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:13c93b1a-22ba-4e38-94b6-3c0b082229c6@13c9.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231113T150000Z
+LOCATION:--каф.
+DTSTART:20231113T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:12a1b021-601f-46e7-b04b-825143542fec@12a1.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231030T164500Z
+LOCATION:--каф.
+DTSTART:20231030T151500Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d2ef122e-ca97-4ae6-a3b9-46ea1b396735@d2ef.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20231106T150000Z
+LOCATION:--каф.
+DTSTART:20231106T133000Z
+SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
+UID:d7b89167-5cd0-40c8-a46e-3807c932a163@d7b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231124T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231124T151500Z
+SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:ffbed465-204c-4c2d-9b2c-324e84ded3f5@ffbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231013T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231013T151500Z
+SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:d8be3274-1c47-4a5d-a157-8fc2ffda1e89@d8be.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230911T164500Z
 LOCATION:--каф.
 DTSTART:20230911T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:6d2f3df9-abdc-4a62-b173-0b25b7b3af21@6d2f.org
+UID:edcc307c-6879-44c0-b10a-b8cd4d3d2bb5@edcc.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20230904T164500Z
 LOCATION:--каф.
 DTSTART:20230904T151500Z
 SUMMARY:ПЗ Научная деятельность\, направленная на подготовку диссертации к защите
-UID:654b24af-52f7-4b31-ac26-6f85203fb6b8@654b.org
+UID:c83d1418-bb84-4c8f-a540-2cbfbf62b255@c83d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:МОГИЛЬНАЯ ТАТЬЯНА ЮРЬЕВНА
+DTEND:20231110T164500Z
+LOCATION:Берн. 14-208
+DTSTART:20231110T151500Z
+SUMMARY:ПЗ Методы и средства моделирования материалов\, изделий\, веществ и природной среды
+UID:76b141a2-0381-4dc0-bb0e-85a80f8b896c@76b1.org
 END:VEVENT
 END:VCALENDAR

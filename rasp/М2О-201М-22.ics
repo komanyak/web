@@ -2,76 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231027T164500Z
-LOCATION:3-001Г
-DTSTART:20231027T151500Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:567a82f2-689a-46c0-83f0-0b395e3b5c94@567a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231109T164500Z
+DTEND:20231122T150000Z
 LOCATION:--каф.
-DTSTART:20231109T151500Z
-SUMMARY:ЛР Проектно-конструкторские решения для гибридных СУ
-UID:e756f4e8-4055-4e3f-ae73-0c9b698c5011@e756.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231113T150000Z
-LOCATION:3-002Г
-DTSTART:20231113T133000Z
-SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:0185d3c0-bb8b-41f0-8c4d-2ea7962db05e@0185.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231113T164500Z
-LOCATION:3-002Г
-DTSTART:20231113T151500Z
-SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:b847afaf-4e67-444b-a39c-345eed9c1869@b847.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20230922T150000Z
-LOCATION:--каф.
-DTSTART:20230922T133000Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:f74d1e65-926c-401c-8c0f-fc5ac89bf8f8@f74d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20230920T164500Z
-LOCATION:2-313(2В)
-DTSTART:20230920T151500Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:2a9ac5f7-36e0-408e-859a-191438503514@2a9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231011T150000Z
-LOCATION:--каф.
-DTSTART:20231011T133000Z
+DTSTART:20231122T133000Z
 SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:914a674d-63b6-4931-b525-06236befe4b2@914a.org
+UID:33ad3cb3-d514-47ef-90a2-b2c6ed975e44@33ad.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231027T150000Z
-LOCATION:3-001Г
-DTSTART:20231027T133000Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:539993c7-43c3-4c15-afb6-455b9e26271f@5399.org
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231130T150000Z
+LOCATION:2-401(2В)
+DTSTART:20231130T133000Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:96ac8c58-47c2-4c17-a4bd-1333938b4765@96ac.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231006T164500Z
-LOCATION:--каф.
-DTSTART:20231006T151500Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:e5120aa9-d49e-40c6-b0b7-c7622c89ffe1@e512.org
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231214T164500Z
+LOCATION:2-401(2В)
+DTSTART:20231214T151500Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:98cad142-a959-4ff9-a86a-d9e2b8a7ea77@98ca.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Равикович Юрий Александрович
@@ -79,799 +31,7 @@ DTEND:20231011T164500Z
 LOCATION:--каф.
 DTSTART:20231011T151500Z
 SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:73734a4d-5026-4409-b167-cf3e9fec03d2@7373.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231207T164500Z
-LOCATION:--каф.
-DTSTART:20231207T151500Z
-SUMMARY:ЛР Проектно-конструкторские решения для гибридных СУ
-UID:6d916ee4-f12f-4fa9-bc7a-b14c872b7207@6d91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231214T164500Z
-LOCATION:--каф.
-DTSTART:20231214T151500Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:144d7eb2-08a1-4dad-ac61-4600bd419ca4@144d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231206T150000Z
-LOCATION:--каф.
-DTSTART:20231206T133000Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:6c4cf389-e7c9-4242-886b-b54f1641a699@6c4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231108T150000Z
-LOCATION:--каф.
-DTSTART:20231108T133000Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:31c48475-4243-44f7-92f1-f137996f91bc@31c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230926T164500Z
-LOCATION:--каф.
-DTSTART:20230926T151500Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:61406e3f-92a7-49db-8528-db1232bd9c56@6140.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231130T164500Z
-LOCATION:--каф.
-DTSTART:20231130T151500Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:371222bc-b48d-4118-8bbe-55b2f8d9c90d@3712.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231219T164500Z
-LOCATION:--каф.
-DTSTART:20231219T151500Z
-SUMMARY:ПЗ Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:070aa540-7358-4b14-b228-18e35e2e7ca2@070a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231107T150000Z
-LOCATION:--каф.
-DTSTART:20231107T133000Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:0339f061-e430-4ecf-8579-738d7d387a1f@0339.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230927T164500Z
-LOCATION:--каф.
-DTSTART:20230927T151500Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:8d31c698-2855-4728-bc7b-1b851c9ff709@8d31.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231208T150000Z
-LOCATION:3-001Г
-DTSTART:20231208T133000Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:3d32956e-3eb3-43dc-961b-054c75e4ac9b@3d32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231228T150000Z
-LOCATION:--каф.
-DTSTART:20231228T133000Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:9334fe59-8628-4a84-9405-a6b7284d3010@9334.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231211T150000Z
-LOCATION:3-001Г
-DTSTART:20231211T133000Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:5d8ef8e6-4b4c-42dc-8e51-ee42de56b58b@5d8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231130T150000Z
-LOCATION:--каф.
-DTSTART:20231130T133000Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:cfd92f5e-b81b-43ff-9d88-2035069331c2@cfd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231116T164500Z
-LOCATION:--каф.
-DTSTART:20231116T151500Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:b3cb156a-8ac8-4403-ad55-dc27467c05ea@b3cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231212T164500Z
-LOCATION:--каф.
-DTSTART:20231212T151500Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:cf45fa0c-fbf4-41cb-a728-b2bc9bf30af7@cf45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230914T164500Z
-LOCATION:--каф.
-DTSTART:20230914T151500Z
-SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
-UID:f8ad6692-befe-4c75-aa77-9a29b9ca407d@f8ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231003T164500Z
-LOCATION:--каф.
-DTSTART:20231003T151500Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:eb569844-7fa3-4efe-99e7-0ab02bb178a3@eb56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231211T164500Z
-LOCATION:3-001Г
-DTSTART:20231211T151500Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:5cc44f9d-3afa-463a-8924-555dfa6e7567@5cc4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20230929T164500Z
-LOCATION:3-001Г
-DTSTART:20230929T151500Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:dda5d7e5-01da-4159-85d0-8dee7269beaa@dda5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231123T150000Z
-LOCATION:--каф.
-DTSTART:20231123T133000Z
-SUMMARY:ЛР Проектно-конструкторские решения для гибридных СУ
-UID:5e0a4878-d9b4-49f4-beb8-a65902f8da95@5e0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231124T164500Z
-LOCATION:3-001Г
-DTSTART:20231124T151500Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:3b765f25-22a3-40c5-88cd-5fade9083250@3b76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231226T164500Z
-LOCATION:--каф.
-DTSTART:20231226T151500Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:54d1e3fd-b78a-407d-aea2-877c6f953e9f@54d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231019T164500Z
-LOCATION:--каф.
-DTSTART:20231019T151500Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:f8a8ae49-33b9-46ec-a4f1-d19e86c1e93c@f8a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20230907T150000Z
-LOCATION:--каф.
-DTSTART:20230907T133000Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:f7efbece-2d4a-4fa6-b3d2-b4d52c10e5aa@f7ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231003T150000Z
-LOCATION:--каф.
-DTSTART:20231003T133000Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:b046489c-6443-49ea-8a53-f9debfe1200b@b046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231004T164500Z
-LOCATION:2-313(2В)
-DTSTART:20231004T151500Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:9cfe5b35-416b-4fa0-b59a-a9232e43b995@9cfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231102T150000Z
-LOCATION:--каф.
-DTSTART:20231102T133000Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:b86c97af-9592-47ee-ae11-da5091ed8ecb@b86c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231121T150000Z
-LOCATION:--каф.
-DTSTART:20231121T133000Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:8b2f908d-5447-4dd9-b46a-666a30814a2d@8b2f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231018T150000Z
-LOCATION:2-313(2В)
-DTSTART:20231018T133000Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:582b33ea-18fb-4f13-a51b-c2d08417fc9f@582b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231229T164500Z
-LOCATION:--каф.
-DTSTART:20231229T151500Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:7d28bc03-ae48-46cd-973c-d9398768673a@7d28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231030T164500Z
-LOCATION:3-002Г
-DTSTART:20231030T151500Z
-SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:68f433ea-65a1-4fa9-a411-3958a6bec5b0@68f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231122T150000Z
-LOCATION:--каф.
-DTSTART:20231122T133000Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:b93855f2-682b-434b-a0cf-ed21e70bbcce@b938.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231208T164500Z
-LOCATION:3-001Г
-DTSTART:20231208T151500Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:cafcc36e-cc4a-4273-8343-65b30eb5fb33@cafc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230926T150000Z
-LOCATION:--каф.
-DTSTART:20230926T133000Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:bc83babe-09b3-4e33-9966-6a424d9b315f@bc83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231115T150000Z
-LOCATION:2-313(2В)
-DTSTART:20231115T133000Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:e6048377-c697-4a5b-afe0-6c9ba507d97c@e604.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231207T150000Z
-LOCATION:--каф.
-DTSTART:20231207T133000Z
-SUMMARY:ЛР Проектно-конструкторские решения для гибридных СУ
-UID:7894f5b5-bf97-4ad3-a211-854b7e01e208@7894.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231201T150000Z
-LOCATION:--каф.
-DTSTART:20231201T133000Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:b10d7d3a-5ece-49db-9442-3c12c930ff17@b10d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231005T164500Z
-LOCATION:--каф.
-DTSTART:20231005T151500Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:a15c1c63-8ff4-46b4-9f4b-f402d035f390@a15c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20230921T150000Z
-LOCATION:--каф.
-DTSTART:20230921T133000Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:f1d667eb-742f-4659-b221-0b2db1477415@f1d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231107T164500Z
-LOCATION:--каф.
-DTSTART:20231107T151500Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:9f6a3484-e397-4572-ad2d-4513cc1c5a6c@9f6a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231019T150000Z
-LOCATION:--каф.
-DTSTART:20231019T133000Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:334a5bbe-532e-478a-8ee1-d1fb86c2eeaf@334a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231226T150000Z
-LOCATION:--каф.
-DTSTART:20231226T133000Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:4af51fc3-b4c8-494c-953c-60a1120cbac4@4af5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231010T164500Z
-LOCATION:--каф.
-DTSTART:20231010T151500Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:3cdbdeb6-b3ac-44ae-9b1e-d1e3a8debb76@3cdb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231219T150000Z
-LOCATION:--каф.
-DTSTART:20231219T133000Z
-SUMMARY:ПЗ Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:3ca464ca-7d7d-470e-8ccc-b6bd83bf3026@3ca4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231013T150000Z
-LOCATION:3-001Г
-DTSTART:20231013T133000Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:e1b4fedc-fc2d-4863-8e5c-fe657688c528@e1b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230913T164500Z
-LOCATION:--каф.
-DTSTART:20230913T151500Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:d4b2f62e-f2da-4e4e-ab25-5456137d315f@d4b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231212T150000Z
-LOCATION:--каф.
-DTSTART:20231212T133000Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:32afe981-112e-4b91-85dc-d884d1adfff6@32af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231108T164500Z
-LOCATION:--каф.
-DTSTART:20231108T151500Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:cdd67ede-fbbf-4bdd-893e-7aee51d84b3a@cdd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231005T150000Z
-LOCATION:--каф.
-DTSTART:20231005T133000Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:764c3efb-0ad6-447a-be16-9eee2124298b@764c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231024T164500Z
-LOCATION:--каф.
-DTSTART:20231024T151500Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:912b6420-07df-4fd8-a482-6896a36a57b4@912b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231129T164500Z
-LOCATION:--каф.
-DTSTART:20231129T151500Z
-SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
-UID:cb7e1980-1935-424c-acd0-619deb7f36a2@cb7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20230922T164500Z
-LOCATION:--каф.
-DTSTART:20230922T151500Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:194b9ba9-af46-4697-9121-34146017af89@194b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230928T150000Z
-LOCATION:--каф.
-DTSTART:20230928T133000Z
-SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
-UID:e9b428ba-d7c3-4fde-b06b-74fb34085ed1@e9b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231115T164500Z
-LOCATION:2-313(2В)
-DTSTART:20231115T151500Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:8d282031-99c3-4c9f-b2d8-2c5cd57a6822@8d28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231006T150000Z
-LOCATION:--каф.
-DTSTART:20231006T133000Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:7c60355c-620c-407d-9dc6-c8b49586ec21@7c60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230905T164500Z
-LOCATION:--каф.
-DTSTART:20230905T151500Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:09a8dda1-d806-4af1-a4eb-0f4d4035fd99@09a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231129T150000Z
-LOCATION:--каф.
-DTSTART:20231129T133000Z
-SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
-UID:7db2d7c2-e4b2-4dd3-8a68-6a0264f17769@7db2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231122T164500Z
-LOCATION:--каф.
-DTSTART:20231122T151500Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:1eafe589-c13b-493e-8918-f16204893c93@1eaf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231124T150000Z
-LOCATION:3-001Г
-DTSTART:20231124T133000Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:dbee4f23-34a8-4320-aee4-d6bea79b149a@dbee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231222T164500Z
-LOCATION:3-001Г
-DTSTART:20231222T151500Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:618abefe-8903-4cab-bc38-2786b28669c3@618a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231025T164500Z
-LOCATION:--каф.
-DTSTART:20231025T151500Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:2a9c5c78-105d-4798-8396-64444e6bc767@2a9c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231004T150000Z
-LOCATION:2-313(2В)
-DTSTART:20231004T133000Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:d21f7a65-2cef-4453-ac1e-b44915500d7c@d21f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20230906T150000Z
-LOCATION:2-313(2В)
-DTSTART:20230906T133000Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:4de269fe-0f12-4e89-845a-cb0a0aa3b418@4de2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231227T164500Z
-LOCATION:--каф.
-DTSTART:20231227T151500Z
-SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
-UID:a45912d5-4991-4e00-b788-c60de5a29357@a459.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231110T164500Z
-LOCATION:3-001Г
-DTSTART:20231110T151500Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:c2cc2b26-1eff-4497-88a8-f0eb7bdea21f@c2cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231114T164500Z
-LOCATION:--каф.
-DTSTART:20231114T151500Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:6680794a-37eb-4b4f-8540-b8131a417b45@6680.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231128T164500Z
-LOCATION:--каф.
-DTSTART:20231128T151500Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:c6cb1fa3-c778-4616-b05b-6103dc286ec7@c6cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231222T150000Z
-LOCATION:3-001Г
-DTSTART:20231222T133000Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:8a208516-fa72-4761-ae05-29b72844ab56@8a20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231020T164500Z
-LOCATION:--каф.
-DTSTART:20231020T151500Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:5368a790-08c9-4f41-a73b-bc510852ce27@5368.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231020T150000Z
-LOCATION:--каф.
-DTSTART:20231020T133000Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:132d9da7-70ee-4a98-b0a8-c5acb6978ef5@132d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230912T164500Z
-LOCATION:--каф.
-DTSTART:20230912T151500Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:24783eca-60be-4c3c-997d-4bb760a307c9@2478.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230919T164500Z
-LOCATION:--каф.
-DTSTART:20230919T151500Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:917a59b2-2fc7-4fd7-bc28-f96564297da8@917a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231205T150000Z
-LOCATION:--каф.
-DTSTART:20231205T133000Z
-SUMMARY:ПЗ Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:ec7846e6-7ae5-4da4-8bd4-2bb0c3bdd011@ec78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230912T150000Z
-LOCATION:--каф.
-DTSTART:20230912T133000Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:438aa671-77e0-45bc-a847-8079bfddf545@438a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20230908T164500Z
-LOCATION:--каф.
-DTSTART:20230908T151500Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:57b89da8-d68d-4889-b253-42d394e78d26@57b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231026T150000Z
-LOCATION:--каф.
-DTSTART:20231026T133000Z
-SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
-UID:4ef17aa2-9cb7-4336-9d85-4942ace91fbe@4ef1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20230907T164500Z
-LOCATION:--каф.
-DTSTART:20230907T151500Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:83698011-54b0-44d2-ab8d-edde54034d8c@8369.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231117T150000Z
-LOCATION:--каф.
-DTSTART:20231117T133000Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:8308bdcf-bc0c-4efd-8177-23f2fb2858f3@8308.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231215T164500Z
-LOCATION:--каф.
-DTSTART:20231215T151500Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:d99a0017-d66c-4dbe-ad1c-d07d4872e481@d99a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231228T164500Z
-LOCATION:--каф.
-DTSTART:20231228T151500Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:ec9ba81f-c951-4591-93ed-a6f8a249ea02@ec9b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231030T150000Z
-LOCATION:3-002Г
-DTSTART:20231030T133000Z
-SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:19d13f34-34c4-411c-87fa-42a344c55a73@19d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231128T150000Z
-LOCATION:--каф.
-DTSTART:20231128T133000Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:a9bd6011-7a08-429c-83e7-93a3c0bac500@a9bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230905T150000Z
-LOCATION:--каф.
-DTSTART:20230905T133000Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:1e08ad0b-9008-48a8-88c9-226678b514bd@1e08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231201T164500Z
-LOCATION:--каф.
-DTSTART:20231201T151500Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:de7c2eaa-0173-4066-93b4-9272a0f666cd@de7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231012T150000Z
-LOCATION:--каф.
-DTSTART:20231012T133000Z
-SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
-UID:e8a94edf-e6e7-4d7e-9562-37f511a9f316@e8a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231109T150000Z
-LOCATION:--каф.
-DTSTART:20231109T133000Z
-SUMMARY:ЛР Проектно-конструкторские решения для гибридных СУ
-UID:86cbcb21-30ea-42b1-b6a8-6b2a0695862c@86cb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231229T150000Z
-LOCATION:--каф.
-DTSTART:20231229T133000Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:2720951e-1fe6-4f51-b7fd-bbd3da5b44c1@2720.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231017T164500Z
-LOCATION:--каф.
-DTSTART:20231017T151500Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:475c09cf-efb7-409c-bb0a-a969172a994d@475c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230914T150000Z
-LOCATION:--каф.
-DTSTART:20230914T133000Z
-SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
-UID:85b66613-0935-4f1e-be04-6ef830ea866f@85b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230913T150000Z
-LOCATION:--каф.
-DTSTART:20230913T133000Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:c17d9006-4f79-41de-b21a-84643a538e32@c17d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231121T164500Z
-LOCATION:--каф.
-DTSTART:20231121T151500Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:11197428-b8f9-444a-aae8-5f9f90201303@1119.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231018T164500Z
-LOCATION:2-313(2В)
-DTSTART:20231018T151500Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:e7da634d-d0a2-464a-b2ce-4f7a7652c1f0@e7da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230927T150000Z
-LOCATION:--каф.
-DTSTART:20230927T133000Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:b03f7123-12c6-4773-8c3c-af2ae6d0a561@b03f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231214T150000Z
-LOCATION:--каф.
-DTSTART:20231214T133000Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:81d987b6-33ef-48bd-8aeb-4bf792b6bdcf@81d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231031T150000Z
-LOCATION:--каф.
-DTSTART:20231031T133000Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:609b84e8-64ed-4246-9800-705e600c144d@609b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231227T150000Z
-LOCATION:--каф.
-DTSTART:20231227T133000Z
-SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
-UID:c1aa87fd-9886-4029-bbdf-34beafcaac4c@c1aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231013T164500Z
-LOCATION:3-001Г
-DTSTART:20231013T151500Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:b78321b6-74af-453f-8f55-44094895e56f@b783.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20230920T150000Z
-LOCATION:2-313(2В)
-DTSTART:20230920T133000Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:06467e57-7e6a-42d4-bb04-93f01dd1e948@0646.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231206T164500Z
-LOCATION:--каф.
-DTSTART:20231206T151500Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:55be1f56-7912-4b63-8642-821f448aa6ff@55be.org
+UID:d0c59522-0127-4e3c-b766-087f9a516565@d0c5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
@@ -879,167 +39,23 @@ DTEND:20231016T164500Z
 LOCATION:3-302Г
 DTSTART:20231016T151500Z
 SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:a1b6d65a-eee9-4a5c-ab3a-8e5248fe5598@a1b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20230906T164500Z
-LOCATION:2-313(2В)
-DTSTART:20230906T151500Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:d9011609-2e4b-40c9-ba66-65aea307d421@d901.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231102T164500Z
-LOCATION:--каф.
-DTSTART:20231102T151500Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:0271afc1-8352-4746-bb22-c9ba6de60d26@0271.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20230908T150000Z
-LOCATION:--каф.
-DTSTART:20230908T133000Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:6961e065-beba-427d-8a98-9e590508ed30@6961.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231117T164500Z
-LOCATION:--каф.
-DTSTART:20231117T151500Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:39978d82-8f4c-4b7b-9cdb-7d3a4a8ddc7a@3997.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231213T164500Z
-LOCATION:--каф.
-DTSTART:20231213T151500Z
-SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
-UID:23fd3b60-0520-48cc-ad22-cec9c8ccd3d6@23fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231101T164500Z
-LOCATION:2-313(2В)
-DTSTART:20231101T151500Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:32d7c123-6c02-468d-a988-5dcabd2ba45d@32d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231017T150000Z
-LOCATION:--каф.
-DTSTART:20231017T133000Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:b8292c98-5b83-431d-b904-bd894e4af6e2@b829.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231127T164500Z
-LOCATION:3-002Г
-DTSTART:20231127T151500Z
-SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:b9adca57-e00b-430a-a6d1-7f62d218a467@b9ad.org
+UID:fee22f5b-d3a4-4d9f-a136-ab0705a8a21a@fee2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Равикович Юрий Александрович
-DTEND:20230928T164500Z
+DTEND:20231207T164500Z
 LOCATION:--каф.
-DTSTART:20230928T151500Z
-SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
-UID:1526ddb2-ee83-44b1-b76c-916864e09da7@1526.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231002T150000Z
-LOCATION:3-302Г
-DTSTART:20231002T133000Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:d94bbce7-b980-42c4-a6d5-3881b0a0e747@d94b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231025T150000Z
-LOCATION:--каф.
-DTSTART:20231025T133000Z
-SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
-UID:5f85e864-9e18-4d02-a14d-01446a5720e2@5f85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231024T150000Z
-LOCATION:--каф.
-DTSTART:20231024T133000Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:80ef922d-e087-4896-8d60-b33238956870@80ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231110T150000Z
-LOCATION:3-001Г
-DTSTART:20231110T133000Z
-SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:44257036-c054-4989-8e26-53af75e69f87@4425.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231114T150000Z
-LOCATION:--каф.
-DTSTART:20231114T133000Z
-SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:aa77114a-51fe-40c0-9b90-b85692dcc69d@aa77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231213T150000Z
-LOCATION:--каф.
-DTSTART:20231213T133000Z
-SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
-UID:f816ba6a-ff96-40c0-8ce1-f19aa12c3178@f816.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231127T150000Z
-LOCATION:3-002Г
-DTSTART:20231127T133000Z
-SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:be59e41e-1dd6-4118-88df-6288428549b3@be59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231123T164500Z
-LOCATION:--каф.
-DTSTART:20231123T151500Z
+DTSTART:20231207T151500Z
 SUMMARY:ЛР Проектно-конструкторские решения для гибридных СУ
-UID:46292c2c-d65c-4e8e-8578-4b527788c1fd@4629.org
+UID:badf8bb8-eb40-4721-9dd4-f164ccdffa6a@badf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Фирсов Валерий Петрович
-DTEND:20231101T150000Z
-LOCATION:2-313(2В)
-DTSTART:20231101T133000Z
-SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
-UID:ac834243-0ac2-4613-919a-9d92d2a951cf@ac83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20231116T150000Z
-LOCATION:--каф.
-DTSTART:20231116T133000Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:7cf019cf-3477-4fab-9299-02a1ff046860@7cf0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Севрук Станислав Доминикович
-DTEND:20230921T164500Z
-LOCATION:--каф.
-DTSTART:20230921T151500Z
-SUMMARY:ЛК Топливные элементы в авиационной и космической технике
-UID:6e6f6b4d-9d3f-4907-b017-41df1cc6fa50@6e6f.org
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231027T164500Z
+LOCATION:3-001Г
+DTSTART:20231027T151500Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:e190cf8d-6716-4e22-b2dc-0e1048e691b3@e190.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Агульник Алексей Борисович
@@ -1047,39 +63,215 @@ DTEND:20231031T164500Z
 LOCATION:--каф.
 DTSTART:20231031T151500Z
 SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:0138afe8-f318-4017-9786-81d377ed8a55@0138.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Кучеров Никита Александрович
-DTEND:20231215T150000Z
-LOCATION:--каф.
-DTSTART:20231215T133000Z
-SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
-UID:8104ca7b-15ae-4343-a2d4-b58889ddd4c0@8104.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Равикович Юрий Александрович
-DTEND:20231012T164500Z
-LOCATION:--каф.
-DTSTART:20231012T151500Z
-SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
-UID:b4a7313b-d920-44ea-8b2c-cbd4c6d9de4d@b4a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Агульник Алексей Борисович
-DTEND:20231010T150000Z
-LOCATION:--каф.
-DTSTART:20231010T133000Z
-SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:cc3eb63d-8616-4949-a8fb-801b2dc46d95@cc3e.org
+UID:b7e30042-1e8c-4b5a-96bb-73133d676697@b7e3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
-DTEND:20231002T164500Z
-LOCATION:3-302Г
-DTSTART:20231002T151500Z
+DTEND:20231222T164500Z
+LOCATION:3-001Г
+DTSTART:20231222T151500Z
 SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:df08189a-938c-4df1-ac0d-7fbe0fe838aa@df08.org
+UID:8311fbf8-8d99-4115-ad36-cfd8ce22e4f8@8311.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231215T164500Z
+LOCATION:--каф.
+DTSTART:20231215T151500Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:1622c106-e327-4bf4-997c-e2d110fe76d3@1622.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231006T150000Z
+LOCATION:--каф.
+DTSTART:20231006T133000Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:4d32e57c-68a6-4c81-80e1-58d21f844562@4d32.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231109T164500Z
+LOCATION:--каф.
+DTSTART:20231109T151500Z
+SUMMARY:ЛР Проектно-конструкторские решения для гибридных СУ
+UID:7f749881-e5bb-4877-8da8-1e7f9f03ae88@7f74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231124T150000Z
+LOCATION:3-001Г
+DTSTART:20231124T133000Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:57cb4b8a-3ad9-4781-ba47-79979fe630b5@57cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231222T150000Z
+LOCATION:3-001Г
+DTSTART:20231222T133000Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:498cd150-09d0-4ac4-b0b0-8a0330c5d99c@498c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231110T164500Z
+LOCATION:3-001Г
+DTSTART:20231110T151500Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:c9aee1f8-942b-497f-b5e9-edbeab5cd252@c9ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20230922T150000Z
+LOCATION:--каф.
+DTSTART:20230922T133000Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:de0c2cdd-5acb-4605-8dde-440191051ed1@de0c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231114T164500Z
+LOCATION:--каф.
+DTSTART:20231114T151500Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:4dcd504d-ecc4-4db7-a4cc-a93d386eaeea@4dcd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231214T150000Z
+LOCATION:2-401(2В)
+DTSTART:20231214T133000Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:f77349cf-0aaf-4b85-9a24-7d1c95cddad3@f773.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231128T164500Z
+LOCATION:--каф.
+DTSTART:20231128T151500Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:0aff9551-23a9-4613-92bd-31116d6ea353@0aff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20230921T150000Z
+LOCATION:2-401(2В)
+DTSTART:20230921T133000Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:79e650be-4321-4303-847e-72e4781cdcf4@79e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231115T164500Z
+LOCATION:2-313(2В)
+DTSTART:20231115T151500Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:14e94c79-b500-47df-9ec3-012d82f8c300@14e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231129T164500Z
+LOCATION:--каф.
+DTSTART:20231129T151500Z
+SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
+UID:33eb88aa-c3ab-446f-9a52-76f08abf6ea0@33eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230905T164500Z
+LOCATION:--каф.
+DTSTART:20230905T151500Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:d8654d49-fd51-4589-8481-7fe1e7f69161@d865.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231212T150000Z
+LOCATION:--каф.
+DTSTART:20231212T133000Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:2ca2e907-21e6-4009-80b8-80e80857c023@2ca2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231025T164500Z
+LOCATION:--каф.
+DTSTART:20231025T151500Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:3c788c90-dfc9-4905-8b8a-359d66e8a8c7@3c78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231004T150000Z
+LOCATION:2-313(2В)
+DTSTART:20231004T133000Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:85debfb6-03f7-44bb-a1e3-f4e5ec41a097@85de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231219T164500Z
+LOCATION:--каф.
+DTSTART:20231219T151500Z
+SUMMARY:ПЗ Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:baa213ff-35cd-4718-bc88-8935d399bf6b@baa2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231117T150000Z
+LOCATION:--каф.
+DTSTART:20231117T133000Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:479ddc1b-6168-4dc2-a1da-8f7e06d999d3@479d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231211T164500Z
+LOCATION:3-001Г
+DTSTART:20231211T151500Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:6443acb3-71a0-4097-87b4-60aaaf008a07@6443.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231208T164500Z
+LOCATION:3-001Г
+DTSTART:20231208T151500Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:6d87c332-21e1-4647-932e-ab78d9ee3fde@6d87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231229T164500Z
+LOCATION:--каф.
+DTSTART:20231229T151500Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:6216b6b5-b005-46a1-b73d-06b2dbad01c2@6216.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231108T150000Z
+LOCATION:--каф.
+DTSTART:20231108T133000Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:32e8107f-3829-4acc-9404-e94d4038a9ae@32e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231101T164500Z
+LOCATION:2-313(2В)
+DTSTART:20231101T151500Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:edfbc5df-a559-4440-a07e-19fa9f13da7e@edfb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230914T164500Z
+LOCATION:--каф.
+DTSTART:20230914T151500Z
+SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
+UID:9dedd7e1-166f-4597-a316-8485c44e25c0@9ded.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Агульник Алексей Борисович
@@ -1087,15 +279,263 @@ DTEND:20231205T164500Z
 LOCATION:--каф.
 DTSTART:20231205T151500Z
 SUMMARY:ПЗ Теория адаптивных\, гибридных и комбинированных авиационных двигателей
-UID:4889b28f-ab93-4daa-82ee-5d5c818cb58a@4889.org
+UID:cac8dc22-9765-4893-9ee2-011819578b39@cac8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231002T150000Z
+LOCATION:3-302Г
+DTSTART:20231002T133000Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:4c427ee0-35cf-4433-a8d5-eeabc6e35ca9@4c42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231101T150000Z
+LOCATION:2-313(2В)
+DTSTART:20231101T133000Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:86a1c970-a539-473a-ba54-80dac74bfb20@86a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231206T164500Z
+LOCATION:--каф.
+DTSTART:20231206T151500Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:9a6d7aa2-0d67-4907-bce3-1f2be0ffa663@9a6d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Агульник Алексей Борисович
-DTEND:20230919T150000Z
+DTEND:20230926T150000Z
 LOCATION:--каф.
-DTSTART:20230919T133000Z
+DTSTART:20230926T133000Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:18cf3b8f-3083-4072-a75a-06415319fd40@18cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231207T150000Z
+LOCATION:--каф.
+DTSTART:20231207T133000Z
+SUMMARY:ЛР Проектно-конструкторские решения для гибридных СУ
+UID:92e4489f-731f-4207-b678-b9b293facb57@92e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231127T164500Z
+LOCATION:3-002Г
+DTSTART:20231127T151500Z
+SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:7e488fec-a128-4cca-a9bf-75326ae8e8e9@7e48.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230905T150000Z
+LOCATION:--каф.
+DTSTART:20230905T133000Z
 SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
-UID:0b31a7b8-a26e-4719-87e2-d35c372f8b69@0b31.org
+UID:0cdc93ef-3a3c-46d3-9215-71f6a8a412cb@0cdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231116T164500Z
+LOCATION:2-401(2В)
+DTSTART:20231116T151500Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:7b49a35a-e1e4-4930-be67-980c88790ab3@7b49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231201T164500Z
+LOCATION:--каф.
+DTSTART:20231201T151500Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:0717c7af-239c-4b7e-8225-41f865f7fc31@0717.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231030T164500Z
+LOCATION:3-002Г
+DTSTART:20231030T151500Z
+SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:70af1927-d04b-437e-a013-d549a69a7ff3@70af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230928T150000Z
+LOCATION:--каф.
+DTSTART:20230928T133000Z
+SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
+UID:fe0641b8-f9ca-4c9b-afae-3e374f755da3@fe06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231019T164500Z
+LOCATION:2-401(2В)
+DTSTART:20231019T151500Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:14d09d95-e242-4901-b33b-7623a7276963@14d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231219T150000Z
+LOCATION:--каф.
+DTSTART:20231219T133000Z
+SUMMARY:ПЗ Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:057b8659-8de5-4964-9c24-3920d8f323bc@057b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231012T164500Z
+LOCATION:--каф.
+DTSTART:20231012T151500Z
+SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
+UID:bc7f9f7d-0fbf-482f-ad1a-4bf022c449ab@bc7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231030T150000Z
+LOCATION:3-002Г
+DTSTART:20231030T133000Z
+SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:86e2fb72-ec79-4759-91bd-2555a983e5a1@86e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20230907T164500Z
+LOCATION:2-401(2В)
+DTSTART:20230907T151500Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:09cd9685-e6c0-49bb-9d6a-a71c8460b0b6@09cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20230906T150000Z
+LOCATION:2-313(2В)
+DTSTART:20230906T133000Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:d1be6402-19f9-49c6-b8d2-c429674de3a3@d1be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231124T164500Z
+LOCATION:3-001Г
+DTSTART:20231124T151500Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:f0cc8aaa-c373-451c-87c3-959e69e1af91@f0cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230927T150000Z
+LOCATION:--каф.
+DTSTART:20230927T133000Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:e42f3c6e-9f54-4767-b095-39f018e875c4@e42f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231121T150000Z
+LOCATION:--каф.
+DTSTART:20231121T133000Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:ceef467a-74fb-4515-88b0-88dcc36fc735@ceef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231018T164500Z
+LOCATION:2-313(2В)
+DTSTART:20231018T151500Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:1721e550-7f94-4044-8f0d-f74742846bca@1721.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20230929T164500Z
+LOCATION:3-001Г
+DTSTART:20230929T151500Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:74f9b882-a846-4377-a8cb-ee8fc81b8c63@74f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231229T150000Z
+LOCATION:--каф.
+DTSTART:20231229T133000Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:4c38fff3-aec4-4cf0-973c-bfa45e21a776@4c38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230919T164500Z
+LOCATION:--каф.
+DTSTART:20230919T151500Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:9ea70294-51a9-495e-b6e6-53b63be333e2@9ea7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231019T150000Z
+LOCATION:2-401(2В)
+DTSTART:20231019T133000Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:b992960c-dd76-4691-9f01-351807a76c4b@b992.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20230921T164500Z
+LOCATION:2-401(2В)
+DTSTART:20230921T151500Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:fe020a14-e19c-42d7-8f2d-739efb4b50e3@fe02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231123T150000Z
+LOCATION:--каф.
+DTSTART:20231123T133000Z
+SUMMARY:ЛР Проектно-конструкторские решения для гибридных СУ
+UID:7095e68a-f112-49e8-ae96-6830321ce66d@7095.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230913T150000Z
+LOCATION:--каф.
+DTSTART:20230913T133000Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:1f209cd5-1268-48cb-8e7c-fae0e84f622e@1f20.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231024T150000Z
+LOCATION:--каф.
+DTSTART:20231024T133000Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:61cbf057-2f1c-4069-a20a-8044faec9784@61cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231027T150000Z
+LOCATION:3-001Г
+DTSTART:20231027T133000Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:428ca954-4289-4511-8880-497c0cdeae70@428c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231107T164500Z
+LOCATION:--каф.
+DTSTART:20231107T151500Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:d1dbbe6a-f89f-4dd3-a9b9-a5bea50ee350@d1db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20230922T164500Z
+LOCATION:--каф.
+DTSTART:20230922T151500Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:0f659ed7-3cc9-4379-80b1-5cea3a61f37c@0f65.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Пенкин Владимир Тимофеевич
@@ -1103,6 +543,566 @@ DTEND:20231016T150000Z
 LOCATION:3-302Г
 DTSTART:20231016T133000Z
 SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
-UID:ffcaf144-3107-463c-826b-f3c0e8ab83a9@ffca.org
+UID:b84612b8-b66a-4f99-a5cb-5d4dbd59fb04@b846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231211T150000Z
+LOCATION:3-001Г
+DTSTART:20231211T133000Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:05388c82-ecc4-4f19-9bb6-d612a57ed086@0538.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231026T150000Z
+LOCATION:--каф.
+DTSTART:20231026T133000Z
+SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
+UID:2fe3a098-662b-4bdc-a92f-965bc165729a@2fe3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231113T164500Z
+LOCATION:3-002Г
+DTSTART:20231113T151500Z
+SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:98a2e57c-7f81-46cf-86c3-5324f7936c37@98a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231017T150000Z
+LOCATION:--каф.
+DTSTART:20231017T133000Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:d37a675b-e017-456d-8ca2-4d77c029bdc0@d37a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231122T164500Z
+LOCATION:--каф.
+DTSTART:20231122T151500Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:cc4c8233-e90d-40cb-a1b2-38cbddb57a10@cc4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231123T164500Z
+LOCATION:--каф.
+DTSTART:20231123T151500Z
+SUMMARY:ЛР Проектно-конструкторские решения для гибридных СУ
+UID:9e7096f2-c323-43e2-8b7a-b0325428f5e7@9e70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231228T150000Z
+LOCATION:2-401(2В)
+DTSTART:20231228T133000Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:bac68c70-3070-4654-bc68-41a70616cdc3@bac6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231013T150000Z
+LOCATION:3-001Г
+DTSTART:20231013T133000Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:d3cce6d6-5a3a-4099-b111-e40549eb22fb@d3cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230913T164500Z
+LOCATION:--каф.
+DTSTART:20230913T151500Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:39287383-ff35-4c6f-be80-6b250761be72@3928.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231206T150000Z
+LOCATION:--каф.
+DTSTART:20231206T133000Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:3c7e2da0-20b1-467d-9a1a-4e6676ee4f28@3c7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231018T150000Z
+LOCATION:2-313(2В)
+DTSTART:20231018T133000Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:81522d60-f874-4506-8344-22aa06267934@8152.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231109T150000Z
+LOCATION:--каф.
+DTSTART:20231109T133000Z
+SUMMARY:ЛР Проектно-конструкторские решения для гибридных СУ
+UID:b8799f1b-8f4d-4f49-a1a6-eab95f52d186@b879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231116T150000Z
+LOCATION:2-401(2В)
+DTSTART:20231116T133000Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:28468e2b-a3d5-4020-9412-17d78c362140@2846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231031T150000Z
+LOCATION:--каф.
+DTSTART:20231031T133000Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:f041b00c-ab7c-49df-8cea-1f43466dfb51@f041.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230928T164500Z
+LOCATION:--каф.
+DTSTART:20230928T151500Z
+SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
+UID:b62ca32e-d595-4e11-993d-6d728a3453cf@b62c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231117T164500Z
+LOCATION:--каф.
+DTSTART:20231117T151500Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:de091832-0e2d-435e-8370-85213a0d844c@de09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20230908T150000Z
+LOCATION:--каф.
+DTSTART:20230908T133000Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:2e0688ad-e547-4d4f-839e-f484999ba47e@2e06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231115T150000Z
+LOCATION:2-313(2В)
+DTSTART:20231115T133000Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:7b27b953-163c-43d0-92af-5b62138fa4ae@7b27.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231002T164500Z
+LOCATION:3-302Г
+DTSTART:20231002T151500Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:be65dbd9-ef00-4be3-87eb-05a5e5976c72@be65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231129T150000Z
+LOCATION:--каф.
+DTSTART:20231129T133000Z
+SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
+UID:58fcdf14-1de0-45e8-a7c8-1b9d675df908@58fc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231012T150000Z
+LOCATION:--каф.
+DTSTART:20231012T133000Z
+SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
+UID:ac66f11e-ff68-44c7-b651-f32df4964bc7@ac66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231004T164500Z
+LOCATION:2-313(2В)
+DTSTART:20231004T151500Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:1ea94d20-234c-4eca-b1fa-269b1999fd79@1ea9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230919T150000Z
+LOCATION:--каф.
+DTSTART:20230919T133000Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:cbabe6b1-ad05-4729-8d62-88bcc7a0fee3@cbab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230912T164500Z
+LOCATION:--каф.
+DTSTART:20230912T151500Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:de5b48be-ee52-417d-bf24-72b6731cc907@de5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20230920T150000Z
+LOCATION:2-313(2В)
+DTSTART:20230920T133000Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:734a6380-9cfd-4c97-a6a5-636f4aed3062@734a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231017T164500Z
+LOCATION:--каф.
+DTSTART:20231017T151500Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:220ffbc4-7abf-4f68-982d-6b9ad70dfbd2@220f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231003T164500Z
+LOCATION:--каф.
+DTSTART:20231003T151500Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:5b60010b-91ef-4f9f-9107-07a2f08f0414@5b60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20230908T164500Z
+LOCATION:--каф.
+DTSTART:20230908T151500Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:2227a535-000b-4033-85e8-9c83062f7c47@2227.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231010T150000Z
+LOCATION:--каф.
+DTSTART:20231010T133000Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:efdc03c0-61e5-4970-8cde-6c328b2481a6@efdc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231010T164500Z
+LOCATION:--каф.
+DTSTART:20231010T151500Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:f0383580-130a-4a34-9f41-d1fd1e1ff978@f038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230914T150000Z
+LOCATION:--каф.
+DTSTART:20230914T133000Z
+SUMMARY:ПЗ Проектно-конструкторские решения для гибридных СУ
+UID:4e6b1d2e-c143-409c-96dc-404b7df9f31b@4e6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20230907T150000Z
+LOCATION:2-401(2В)
+DTSTART:20230907T133000Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:aaff6a9b-d34b-472a-9d29-bbeb04b05041@aaff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231228T164500Z
+LOCATION:2-401(2В)
+DTSTART:20231228T151500Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:8c0b08e1-13e3-42eb-b150-7e4ac77d6a04@8c0b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231127T150000Z
+LOCATION:3-002Г
+DTSTART:20231127T133000Z
+SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:731e2157-40a7-4e91-9b85-a5208654fb64@731e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231020T164500Z
+LOCATION:--каф.
+DTSTART:20231020T151500Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:529cf71f-1548-4b82-b409-90c47614f265@529c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231003T150000Z
+LOCATION:--каф.
+DTSTART:20231003T133000Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:27cbea84-bbf6-424d-92dc-e798ae8f41a0@27cb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231215T150000Z
+LOCATION:--каф.
+DTSTART:20231215T133000Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:7629ae1f-d710-4730-839f-364fb269a4ca@7629.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231011T150000Z
+LOCATION:--каф.
+DTSTART:20231011T133000Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:79371956-e893-4573-ab4b-b0ddd81f9199@7937.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231113T150000Z
+LOCATION:3-002Г
+DTSTART:20231113T133000Z
+SUMMARY:ЛР Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:f6daf119-57f7-4296-8d64-7dfb255b20c9@f6da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231128T150000Z
+LOCATION:--каф.
+DTSTART:20231128T133000Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:f67eab3b-929e-472e-9a09-c13e8c96710a@f67e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231107T150000Z
+LOCATION:--каф.
+DTSTART:20231107T133000Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:880057a6-0592-4d95-8787-77ee6347d16e@8800.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231102T150000Z
+LOCATION:2-401(2В)
+DTSTART:20231102T133000Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:8cb9a737-7e88-4cc1-be96-e05846b92766@8cb9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230926T164500Z
+LOCATION:--каф.
+DTSTART:20230926T151500Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:11598b92-1e9d-4bb1-9dac-b995536599eb@1159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231005T150000Z
+LOCATION:2-401(2В)
+DTSTART:20231005T133000Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:034015d6-45da-4109-9221-6f2fa4205204@0340.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231006T164500Z
+LOCATION:--каф.
+DTSTART:20231006T151500Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:0bf2e548-e1fa-42fa-8b97-00a231a64103@0bf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231226T164500Z
+LOCATION:--каф.
+DTSTART:20231226T151500Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:7244fd67-86f9-4ec6-b21d-248f48895ced@7244.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231227T150000Z
+LOCATION:--каф.
+DTSTART:20231227T133000Z
+SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
+UID:3e476576-85c1-491e-aaec-79245f554dd6@3e47.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231205T150000Z
+LOCATION:--каф.
+DTSTART:20231205T133000Z
+SUMMARY:ПЗ Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:79e54352-1b38-4d9b-80db-e8f7f11ba850@79e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231213T150000Z
+LOCATION:--каф.
+DTSTART:20231213T133000Z
+SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
+UID:e8b1c5f4-daaf-43ac-9483-96ce08f7bb6b@e8b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20230906T164500Z
+LOCATION:2-313(2В)
+DTSTART:20230906T151500Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:63a0c3d6-aa70-4ef8-9c89-4de195597e9c@63a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231024T164500Z
+LOCATION:--каф.
+DTSTART:20231024T151500Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:bfb512ae-160b-48bb-b66f-916ac997666a@bfb5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231102T164500Z
+LOCATION:2-401(2В)
+DTSTART:20231102T151500Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:d6adf234-7efc-46f5-851c-75bfb77ad7e0@d6ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231226T150000Z
+LOCATION:--каф.
+DTSTART:20231226T133000Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:50a6ffb5-c647-42ec-90aa-7ed6ca18d6b2@50a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20230927T164500Z
+LOCATION:--каф.
+DTSTART:20230927T151500Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:c76a91ff-5190-4f3a-b77c-1a6fb558b10a@c76a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231020T150000Z
+LOCATION:--каф.
+DTSTART:20231020T133000Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:1650d749-4713-4fb0-9cb8-d91160533a6c@1650.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231013T164500Z
+LOCATION:3-001Г
+DTSTART:20231013T151500Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:ff9b3d16-6652-4e00-a0a1-0660a15b387c@ff9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231121T164500Z
+LOCATION:--каф.
+DTSTART:20231121T151500Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:f22f3f25-dfe5-487a-b579-8b470bb5e654@f22f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231227T164500Z
+LOCATION:--каф.
+DTSTART:20231227T151500Z
+SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
+UID:d48cc298-6dc1-4e1b-92b9-e20fe66705b8@d48c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231005T164500Z
+LOCATION:2-401(2В)
+DTSTART:20231005T151500Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:582adc4a-80ac-4de4-95e3-a8a3e8a42d79@582a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231212T164500Z
+LOCATION:--каф.
+DTSTART:20231212T151500Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:af6bf01c-f9f5-40ec-adf1-c9654c700731@af6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231025T150000Z
+LOCATION:--каф.
+DTSTART:20231025T133000Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:908d0f88-e236-4b28-89b2-600b658ffb89@908d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20230920T164500Z
+LOCATION:2-313(2В)
+DTSTART:20230920T151500Z
+SUMMARY:ЛК Криогенные технологии в перспективных авиационных СУ
+UID:779e2e94-db30-4964-b544-7ce0f2c15054@779e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Равикович Юрий Александрович
+DTEND:20231108T164500Z
+LOCATION:--каф.
+DTSTART:20231108T151500Z
+SUMMARY:ЛК Проектно-конструкторские решения для гибридных СУ
+UID:dbac97dd-e2a6-429d-9a32-4bc6db8b32a4@dbac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20230912T150000Z
+LOCATION:--каф.
+DTSTART:20230912T133000Z
+SUMMARY:ЛК Теория адаптивных\, гибридных и комбинированных авиационных двигателей
+UID:d1bb2877-3e86-44de-af46-a43b6c4aa215@d1bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231208T150000Z
+LOCATION:3-001Г
+DTSTART:20231208T133000Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:75cd18b1-2ec9-4a4a-96b7-137b801db8e9@75cd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Кучеров Никита Александрович
+DTEND:20231201T150000Z
+LOCATION:--каф.
+DTSTART:20231201T133000Z
+SUMMARY:ПЗ Газовая динамика входных и выходных устройств ВРД
+UID:2d178a4d-6960-452a-935b-6e6644b0a426@2d17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Фирсов Валерий Петрович
+DTEND:20231213T164500Z
+LOCATION:--каф.
+DTSTART:20231213T151500Z
+SUMMARY:ПЗ Криогенные технологии в перспективных авиационных СУ
+UID:dbbf524e-2c85-4b2a-ab21-d3312ef90f61@dbbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Севрук Станислав Доминикович
+DTEND:20231130T164500Z
+LOCATION:2-401(2В)
+DTSTART:20231130T151500Z
+SUMMARY:ЛК Топливные элементы в авиационной и космической технике
+UID:6180fb77-53dc-46f2-8223-cd7e664b9ebf@6180.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Агульник Алексей Борисович
+DTEND:20231114T150000Z
+LOCATION:--каф.
+DTSTART:20231114T133000Z
+SUMMARY:ПЗ Научный семинар по авиационным и ракетным двигателям
+UID:39f216ed-e6c0-450d-a62a-27d9fa274a43@39f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Пенкин Владимир Тимофеевич
+DTEND:20231110T150000Z
+LOCATION:3-001Г
+DTSTART:20231110T133000Z
+SUMMARY:ЛК Устройства накопления\, передачи и преобразования электрической энергии для авиационных гибридных СУ
+UID:b69c7f91-26d1-4066-96e7-62d63d3e37ac@b69c.org
 END:VEVENT
 END:VCALENDAR
